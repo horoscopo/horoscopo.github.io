@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 28 de noviembre 2022 al 04 de diciembre 2022 
-description: Horóscopo semanal leo 28 de noviembre 2022 al 04 de diciembre 2022. Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
+title: leo 05 de diciembre 2022 al 11 de diciembre 2022 
+description: Horóscopo semanal leo 05 de diciembre 2022 al 11 de diciembre 2022. No te mereces poco Leo… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2022-11-28
+ogimg: /images/zodiac/semanal_leo.png#2022-12-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-11-28'
+ lastmod: '2022-12-05'
 ---
 
 
 
-## Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
+## No te mereces poco Leo… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas…
 
-Nunca te has arrepentido de nada Leo, para bien o para mal la vida te ha dado lecciones en las que no te ha quedado más remedio que aprender. Estás en una fase en la que tus pensamientos se vuelven a pelear entre ellos. Lo que deberías hacer, lo que quieres hacer, lo que el mundo espera que hagas… Otra vez. Piensa antes de nada en lo que vas a perder antes de actuar y de tomar una decisión, pero tampoco busques hasta la más mínima excusa para no hacerlo. A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos Leo. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad. Métete en la cabeza que puedes hacer absolutamente todo lo que te propongas solo, sin necesidad de que nadie te nuble el juicio, sin necesidad de que nadie te vuelva loco. La vida va a empezar a enseñarte quien merece la pena, quién no merece que se acerque a ti más de cinco minutos al día y quien no merece que se acerque nunca. Pero primero eres tú, en eso es en lo que tienes que trabajar más, en valorarte a ti mismo, en confiar en ti, en tus instintos, en tus objetivos, en saber que lo que hagas saldrá bien, de verdad. Tú no necesitas ejemplos de nadie, cada uno vive su vida como le apetece y si a alguien no le salieron las cosas como esperaba no significa que a ti no te vayan a salir, deja el miedo a un lado y sobretodo la dependencia emocional. Aunque sea una dependencia mínima. Vuelve a ser la persona que siempre has sido.
-Aunque un conflicto creativo podría surgir, tener motivación para comenzar una idea a la que le has estado dando vueltas debería traerte resultados. No permitas que las dudas sobre tu capacidad te impidan continuar. El movimiento de Venus a Leo podría ser suficiente para ahuyentar tus dudas, aumentando tu confianza y entusiasmo para ayudarte a salir adelante. El éxito ocurre cuando tomas ese primer paso y sigues avanzando. También te beneficiarás de la oportunidad de relajarte y recargar baterías.
+A veces dejas las puertas medio abiertas Leo, crees que puedes cerrarlas cuando quieras, crees que eres lo suficientemente fuerte como para mandarlo todo a la mierda cuando desees… Pero no es del todo así. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Leo porque no eres así. Parece que tuvieras miedo de cerrar definitivamente algunos capítulos, parece que aún te aferrarás a que pueden tener solución. Está bien Leo, aférrate a lo que quieras, pero que eso no te afecte en tu día a día. Tienes que ver las cosas por ti mismo para dejarlas a un lado o continuar con ellas, así que, tropieza, date la hostia necesaria que te haga abrir los ojos pero, mientras tanto, que no te frene. Sacúdete un poco de las cosas negativas que pululan a tu alrededor, no pagues un precio alto por mantener algo que ni siquiera sabes si quieres mantener. Si necesitas pensar, márchate, desaparece unos días, vete solo y pasa de todo. En serio, algo te está reteniendo a quedarte, algo te está impidiendo continuar hacia delante, ten cuidado Leo, con las decisiones que tomas, y con dejar puertas medio abiertas por miedo a que se cierren del todo…
+Con el sol en el sector más alto de tu carta, puede que disfrutes ser el centro de atención. Esto, junto con otros aspectos, te alienta a dar un paso al frente y a exhibir tus mejores cualidades. Si tienes la intuición de que debes conectarte con alguien, escúchala. Podría ayudarte a avanzar en tu camino hacia un mayor éxito. El sábado, el encantador Venus ingresa a Piscis y a tu sector social. Esto puede mejorar tu vida amorosa y agregarle un brillante toque a cualquier evento clave.
 
 ## Dinero
 
-El dinero es una forma de encontrar la seguridad que buscas. Es probable que notes que ahora, tus lados masculino y femenino están bastante equilibrados. ¡Buen trabajo! Dado que esto afecta a tu empleo, salud, y actividades cotidianas, es probable que todo en el trabajo vaya bien. Les estás dando una buena  impresión a los jefes. Si quieres llevar esto un paso más allá, proponte para voluntariamente encabezar un proyecto especial. ¡Generarás una increíble opinión en tus jefes!
+Tienes ganas de dejar que tu personalidad real salga a flote. En el trabajo, en tus relaciones personales y en público, quieres dejar todo salga, pero tu carrera (y sobre todo tu salario) puede sufrir si vas demasiado lejos. Ten un poco más de control con el fin de recoger los frutos. Tu individualidad brilla cuando haces un gran trabajo y asumes un rol de autoridad.

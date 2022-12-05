@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 28 de noviembre 2022 al 04 de diciembre 2022 
-description: Horóscopo semanal sagitario 28 de noviembre 2022 al 04 de diciembre 2022. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
+title: sagitario 05 de diciembre 2022 al 11 de diciembre 2022 
+description: Horóscopo semanal sagitario 05 de diciembre 2022 al 11 de diciembre 2022. Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies Sagitario, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres Sagitario, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2022-11-28
+ogimg: /images/zodiac/semanal_sagitario.png#2022-12-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-11-28'
+ lastmod: '2022-12-05'
 ---
 
 
 
-## Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
+## Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies Sagitario, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres Sagitario, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
 
-¿Cuál es la diferencia ahora? Pues que el tiempo en darte cuenta de que estabas haciendo el tonto, se acorta. Vamos, que puedes caer y volver atrás cuando no deberías pero te das cuenta en seguida. 
- lo que pasa es que lo que sí debes aprender es a no tener que caer ni una vez más, aunque parezca que las cosas no te afectan, te afectan… ¿Por qué no cerrar las puertas que debes cerrar definitivamente y abrir las que te están esperando? Probablemente ganes mucho más… Piénsalo… Y actúa Sagitario.
-La actividad lunar en Libra podía hacerte considerar si deberías apegarte a las reglas establecidas o hacer lo que te venga en gana. Es posible que en esta ocasión desees evitar comportarte diplomáticamente y escuchar lo que te diga tu corazón. Una vez que Venus, tu planeta personal, entre a tu sector social, seguido por Mercurio a mitad de semana, ya te habrás preparado para divertirte. Las próximas semanas se vislumbran muy agradables debido a que serás muy relevante en la escena social.
+Son muchos los que quieren arruinar tu vida Sagitario, los que no pueden soportar cuando subes a una foto a alguna red social, los que rabian cuando te ven feliz. Pero es que ahora, estás conectado a tu vida más que nunca, crees en ti mismo y sabes las posibilidades que tienes en este mundo. Y son muchas. Y esa seguridad tan fuerte es la que hará que consigas todo lo que te propongas pero también te sacará algún enemigo que otro. Pasa Sagitario, tú a lo tuyo, siempre. Todo pasa por alguna razón y lo tienes más que claro pero cuando le toca a uno mismo cuesta el doble aceptarlo pero todo pasa y todo llega Sagitario. Pero ya pasó, y ya lo superaste, o al menos, los aceptaste. Los pocos pensamientos negativos que aún te quedan acabarán por desaparecer, los buenos son los que al final prevalecen. Has tenido falta de confianza por momentos, falta de confianza que te ha ahogado, que no te ha dejado respirar, que te ha ido apagando lentamente aunque tú lucharás hasta el último minuto porque no pasara… Acuérdate de esos malos ratos Sagitario. Y no los repitas. Que la primera vez que algo te pase podrá ser un error, pero si te pasa dos veces es una elección. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Sagitario. Ahora brillas así que, aprovecha. Aprovecha todo.
+Esta semana, puede que tengas ganas de embellecer tu hogar y buscar maneras de darle más brillo en general. Si sacas ideas de revistas o de tu propia imaginación, puedes divertirte a lo grande con proyectos artísticos y manuales. De hecho, la presencia de la luna llena en esta misma zona el jueves podría coincidir con la decisión de empezar de nuevo, quizá con una nueva mascota o incluso una nueva casa. A partir del viernes, las opciones de recreación y placer tienen un lugar firme en tu agenda.
 
 ## Dinero
 
-Puede parecer que esta semana las cosas que se mueve en cámara lenta o incluso que se estén moviendo hacia atrás, sobre todo cuando se trata de tu capacidad de viajar, asistir a la escuela, o buscar las verdades más amplias de la vida. No te preocupes que al final las encontrarás. Mientras tanto, lo mejor es mantener tu dinero en efectivo guardado en un lugar seguro. En pocos meses, será más fácil el mover tus metas más cerca de la finalización.
+Para ti, esta semana es sobre el hecho de que parte de ti quiere sumergirse en la belleza y la creatividad, pero las fuerzas quieren que pases tiempo al cuidado de cualquier deuda que pueda haberse acumulado. De nada sirve entrar en pánico o reprenderse a sí mismo por un gasto excesivo. A partir de este punto en adelante, haz una promesa para cambiar la forma de hacer negocios en tu vida monetaria, puedes hacerlo.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 28 de noviembre 2022 al 04 de diciembre 2022 
-description: Horóscopo semanal virgo 28 de noviembre 2022 al 04 de diciembre 2022. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
+title: virgo 05 de diciembre 2022 al 11 de diciembre 2022 
+description: Horóscopo semanal virgo 05 de diciembre 2022 al 11 de diciembre 2022. No te permitas sentir la presencia de nada que tenga ya que ver con el pasado Virgo, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2022-11-28
+ogimg: /images/zodiac/semanal_virgo.png#2022-12-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-11-28'
+ lastmod: '2022-12-05'
 ---
 
 
 
-## Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
+## No te permitas sentir la presencia de nada que tenga ya que ver con el pasado Virgo, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
 
-Organízate Virgo, organiza tu mente, ¿qué es lo que quieres hacer? ¿con qué podrías ser feliz? ¿qué te gustaría tener que ahora no tienes? Hay que empezar por eso, y después hacer un plan para que se vuelva realidad. Sí, hay que ponerle mucho, muchísimo esfuerzo a todo, está claro, pero tú puedes hacerlo, tienes fuerza más que de sobra, sólo necesitas ese empujón a veces, eso quizás es lo que ahora te falta, en cuanto lo des, las cosas empezarán a fluir tal y como tú quieres… Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas. No aceptes menos de lo que mereces, no te conviene, nunca te ha convenido pero a veces has pasado por el aro. Si cree que necesitas otras cosas, hazlo, levántate, mueve el culo, busca lo que te gusta y pon el máximo de ganas en conseguirlo. Quejarse es sencillo y a veces necesario, pero de verdad, ¿qué sacas con eso? ¿simplemente amargarte el día? Pues sí. Empieza a actuar. Es muy probable que haya momentos en los que no te queden fuerzas, pero eres Virgo, que a pesar de estar hundido por dentro saca ganas de donde hagan falta, pues aplica esa testarudez que tienes para conseguir lo que te beneficia en vez de quedarte de mala hostia con pensamientos negros y dándole más vueltas a las cosas de la cuenta.
-Mientras que sin duda te estás preparando para pasar un buen rato, tus oportunidades románticas se vislumbran especialmente brillantes. Si estás planeando futuros encuentros y celebraciones, invita a esa persona especial para asegurarte de que tengan la oportunidad de relacionarse. En cuanto a dinero, es importante que evites gastar impulsivamente el jueves, incluso si algo parece ser la mejor de las invenciones. Si terminas haciéndolo, ¡lo lamentarás más tarde! La actividad lunar del viernes te anima a comenzar proyectos de temporada y decoraciones.
+Parece que no todo va tan mal, no ¿Virgo? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada.
+Aparece una oportunidad que te entusiasma y usas las próximas seis semanas para evaluarla en profundidad. En esta primera semana, buscas conectar con quienes comparten tu visión y están en tu misma sintonía. Te apoyas en consejos, sugerencias y cualquier otro tipo de opinión que te ayude a progresar. En un plano más personal, es posible que sientas un deseo intenso de salir de tu zona de confort. ¿Será bueno para ti? ¡Parece que sí!
 
 ## Dinero
 
-Es posible que sientas un urgencia grave esta semana - de viajar, aprender algo nuevo, de hacer una amistad en el extranjero, o hablar un nuevo idioma. Cada uno de estos tiene una ventaja única para tu vida monetaria en el futuro, así que vale la pena checar qué es lo que te parece más interesante. Puede que no puedas resistirte a hacerlo de todas maneras ya que tu vida social podría bajar de ritmo lo suficiente para que puedas hacer estas cosas.
+Es posible que ahora luches por una mayor libertad en tu vida y la tentación de renunciar a tu trabajo sea más fuerte que nunca. Pero no es le momento de apretar el gatillo todavía. Los mensajes de tus sueños o flashes psíquicos puede proporcionar la información que necesitas para hacer cambios significativos para bien. El  trabajo mejora y luego viene el dinero.

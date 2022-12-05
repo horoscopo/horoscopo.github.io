@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 28 de noviembre 2022 al 04 de diciembre 2022 
-description: Horóscopo semanal escorpio 28 de noviembre 2022 al 04 de diciembre 2022. De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
+title: escorpio 05 de diciembre 2022 al 11 de diciembre 2022 
+description: Horóscopo semanal escorpio 05 de diciembre 2022 al 11 de diciembre 2022. No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2022-11-28
+ogimg: /images/zodiac/semanal_escorpio.png#2022-12-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-11-28'
+ lastmod: '2022-12-05'
 ---
 
 
 
-## De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
+## No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
 
-No te preocupes tanto por los demás y empieza a darte un poquito más de valor a ti mismo. A veces quieres arreglar al mundo Escorpio pero no te das cuenta de que es el mundo el que no se quiere arreglar. 
- Intenta no decir nada negativo durante 24 horas y observa cómo tu vida cambia. Es de quien te rodeas últimamente, ese es el problema. Sacas lo peor de ti en cuestión de segundos y eso no es bueno. Nada bueno.
-Debido a que el comunicador Mercurio está en su fase retrógrada actualmente, sería útil controlar tus gastos del hogar. Puede que sea prudente planificar para la próxima semana, el próximo mes e incluso el próximo año, y hacer una lista de tus gastos diarios. Cuanto más puedas controlar todo, más sencillo será que el tuyo sea un hogar feliz y ordenado. Cuando el encantador Venus ingresa a tu sector de romance el viernes, tu vida amorosa podría irradiar sensuales delicias.
+Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar, no serás capaz de verlo ahora pero sí en un tiempo.
+Debido al actual enfoque en tu sector espiritual, puede que haya habido mucho sucediendo detrás de escenas. Venus entra a tu signo el lunes, seguido por Mercurio a mitad de semana. Puede que esta sea una buena oportunidad para hablar de lo que es importante para ti y poner en marcha algunos de tus planes personales después de un período de inspiración creativa. El fin de semana podría poner una sorpresa en tu camino, una que podrías llegar a disfrutar bastante. Mantente alerta a un sueño que podría tener un significado especial.
 
 ## Dinero
 
-Podrías estar mas ocupado/a en el trabajo que de costumbre cuando las responsabilidades de ciertas personas caigan en tus manos. En la cumbre de la locura, ponte a tono con tus más crudas ambiciones y pregúntate: ¿Qué tan alto quieres llegar en esta empresa? Si la respuesta es no, sabes que tienes muchas ideas propias. Tal vez prefieras invertir un poco de dinero en comenzar un negocio nuevo. Los viajes, la educación, la metafísica, la publicación, la ley, son algunos de los campos que te pudieran interesar.
+Esta semana es sobre el choque de energías en el cielo conforme varios planetas luchan por tu atención. Algunos te ayudarán a acomodarte en tu trabajo y desarrollar un plan para el avance. Pero también tienes un dilema en sus manos. ¿Deberías de estar de acuerdo con el statu quo, o luchar por tu individualidad? El primero es mejor por ahora.

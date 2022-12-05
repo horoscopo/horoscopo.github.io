@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 28 de noviembre 2022 al 04 de diciembre 2022 
-description: Horóscopo semanal cancer 28 de noviembre 2022 al 04 de diciembre 2022. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Cáncer.
+title: cancer 05 de diciembre 2022 al 11 de diciembre 2022 
+description: Horóscopo semanal cancer 05 de diciembre 2022 al 11 de diciembre 2022. No desaproveches las oportunidades más Cáncer, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida. No le debes ninguna explicación a nadie.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2022-11-28
+ogimg: /images/zodiac/semanal_cancer.png#2022-12-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-11-28'
+ lastmod: '2022-12-05'
 ---
 
 
 
-## Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Cáncer.
+## No desaproveches las oportunidades más Cáncer, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida. No le debes ninguna explicación a nadie.
 
-Pero no todo está en tus manos, y no siempre tienes que ser tú el que vaya detrás intentando solucionar el mundo a los demás, ni tampoco tienes que ser siempre el que proteja al resto, el que barra sus caminos de espinos para que no tropiecen.
-Podrías sentir la tentación de gastar en planes, eventos sociales y buenos momentos con amigos. Sin embargo, te irá mejor si puedes limitar la cantidad de dinero que gastas. Incómodos aspectos que surgen durante la semana sugieren que cuanto menos gastes, más fáciles serán las cosas para ti. Esto no quiere decir que no puedas divertirte, simplemente no serás capaz de elegir las opciones más caras. No hay garantía de que tales serán más divertidas, así que relájate y disfruta de lo que puedes pagar.
+Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate. Los pensamientos negativos son como la mierda Cáncer, que atraerán más mierda, y antes de que te des cuenta tendrás la mente infectada, de verdad. Empezarás a ver problemas en vez de soluciones, te meterás en un círculo vicioso en el que YA has estado. No puedes permitirlo otra vez. No luches contra cosas o personas, simplemente esquívalas, a veces, aunque intentes hacer que entren en razón es imposible, y el que acaba sufriendo irremediablemente eres tú. No debes permitirte el lujo de tener ningún pensamiento negativo ahora, de verdad, ya has pasado demasiado, sólo céntrate en esquivar lo que te dañe, pero en esquivarlo de verdad. O sea, si de verdad decides que no es lo que quieres, corta por lo sano cuanto antes, y no mires atrás ni por el retrovisor del coche. Lidera tu interior y serás el líder de tu entorno. Lo único que ahora puede frenarte son tus pensamientos, trabájalos, distráete, y rodéate de todo lo bueno que tienes aunque a veces te cueste poner punto y final a lo malo. Tus metas ahora son lo más importante y sólo se consiguen cuando uno realmente no tiene nada que le estorba en su camino.
+Ciertas revelaciones espirituales podrían tener un poderoso efecto sobre ti y motivarte para salir de tu zona de confort. De hecho, una emocionante diversidad de aspectos podría ser un punto de inflexión, lo que te inspira a moverte hacia una dirección que te ofrece aventura y nuevas oportunidades. También hay un fuerte enfoque en tu sector de romance, donde una nueva relación podría volverse más íntima en los próximos días. Con Venus volviéndose retrógrado, quizá sea prudente mantener todo tranquilo por ahora.
 
 ## Dinero
 
-Eres un genio, por supuesto. Lo que pasa es que los demás no se han percatado de ello. Puede que te atraigan todas las cosas que son únicas e individuales, especialmente en lo que respecta a tu dinero. Y puesto que la actividad está en tu sector de grupos y política, realmente es el momento de correr la voz sobre lo que actualmente estás haciendo para ganar dinero, así como las cosas que quieres hacer en el futuro.
+Te diriges a un periodo de gran riqueza en términos de finanzas e información que te ayudará a obtener más seguridad. Tienes un increíble poder psíquico ahora. El Universo está agitando tu sector de karma, vidas pasadas, e instituciones, con el fin de acudir a estas áreas para hacer más dinero, encontrar nuevas ideas para productos y servicios únicos, o localizar lugares para invertir tu dinero para maximizar tus ganancias.
