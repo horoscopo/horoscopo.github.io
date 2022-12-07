@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 06 de diciembre 2022
-description: Horóscopos del dia de hoy 06 de diciembre 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 07 de diciembre 2022
+description: Horóscopos del dia de hoy 07 de diciembre 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-12-06
+ lastmod: 2022-12-07
 ---
-Marte es proactivo durante su visita en Acuario. Este posicionamiento planetario también incita cambios. ¿Tienes algunos en mente? Piensa en ello, porque algunos podrían cambiar tu vida para bien. Esta noche, los solteros lanzan hechizos mágicos bajo la Luna en Piscis. El amor fluye de la manera más desinteresada para las parejas.
+El de hoy es un mundo de emociones cargadas cuando la Luna aspecta a Plutón. Mantén una actitud positiva. Actúa con sabiduría y precaución. Esta noche, las nuevas ideas y las revelaciones requieren de ajustes al pensamiento. Mira las cosas acorde al presente y no al pasado. Puedes ver más ahora que todo está fresco y claro.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
