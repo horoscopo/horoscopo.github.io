@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 05 de diciembre 2022 al 11 de diciembre 2022 
-description: Horóscopo semanal virgo 05 de diciembre 2022 al 11 de diciembre 2022. No te permitas sentir la presencia de nada que tenga ya que ver con el pasado Virgo, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
+title: virgo 12 de diciembre 2022 al 18 de diciembre 2022 
+description: Horóscopo semanal virgo 12 de diciembre 2022 al 18 de diciembre 2022. Es difícil comprenderte Virgo, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2022-12-05
+ogimg: /images/zodiac/semanal_virgo.png#2022-12-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-12-05'
+ lastmod: '2022-12-12'
 ---
 
 
 
-## No te permitas sentir la presencia de nada que tenga ya que ver con el pasado Virgo, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
+## Es difícil comprenderte Virgo, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
 
-Parece que no todo va tan mal, no ¿Virgo? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada.
-Aparece una oportunidad que te entusiasma y usas las próximas seis semanas para evaluarla en profundidad. En esta primera semana, buscas conectar con quienes comparten tu visión y están en tu misma sintonía. Te apoyas en consejos, sugerencias y cualquier otro tipo de opinión que te ayude a progresar. En un plano más personal, es posible que sientas un deseo intenso de salir de tu zona de confort. ¿Será bueno para ti? ¡Parece que sí!
+Aunque nadie lo quiera para sí mismo hay que dejar algo claro: el sufrimiento a veces es nuestro mejor maestro. Sí Virgo, si aún sufres es porque no has aprendido esa lección en particular, es porque aún no te has armado de valor para dejar de lado lo que no te hace ningún bien, lo que no te aporta. Cuando por fin lo hagas y te decidas de verdad, el sufrimiento se acabará yendo… Pero si sólo tratas de engañarte la misma lección acabará por venir una y otra vez a tu vida. Acompañada de dolor.
+La semana por delante tiene un tono muy social, con una gran cantidad de oportunidades para conocer gente. Es posible que te involucres en ambos, eventos formales e informales. Tus conexiones con la gente deberían de estar cargadas con una gran cantidad de energía, animándote a intercambiar ideas empresariales, formular audaces planes o tal vez disfrutar de un poco de romance. En el frente hogareño, organizar una reunión puede ser divertido, en cuyo caso sería bueno que eligieras bien a tus invitados.
 
 ## Dinero
 
-Es posible que ahora luches por una mayor libertad en tu vida y la tentación de renunciar a tu trabajo sea más fuerte que nunca. Pero no es le momento de apretar el gatillo todavía. Los mensajes de tus sueños o flashes psíquicos puede proporcionar la información que necesitas para hacer cambios significativos para bien. El  trabajo mejora y luego viene el dinero.
+Confía en tu intuición acerca de lo que es correcto para ti. Estás preparado/a para hacer un gran cambio en tu vida. Podrías percatarte de que tu situación se vuelve un poco inestable, teniendo dinero un día y no otro. La manera de balancear esto es mediante el desarrollo de una estrategia fuerte de ahorro, poniendo dinero en cuentas de ahorro a largo plazo y otro poco más en cuentas de ahorro a corto plazo. No es una opción - es una necesidad.

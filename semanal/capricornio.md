@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 05 de diciembre 2022 al 11 de diciembre 2022 
-description: Horóscopo semanal capricornio 05 de diciembre 2022 al 11 de diciembre 2022. Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
+title: capricornio 12 de diciembre 2022 al 18 de diciembre 2022 
+description: Horóscopo semanal capricornio 12 de diciembre 2022 al 18 de diciembre 2022. Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2022-12-05
+ogimg: /images/zodiac/semanal_capricornio.png#2022-12-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-12-05'
+ lastmod: '2022-12-12'
 ---
 
 
 
-## Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
+## Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino.
 
-En serio, Capricornio, por muy mal que vayan las cosas has demostrado al mundo que con tu ejemplo que se puede vencer cualquier obstáculo poniendo ganas, entusiasmo y pasión. A pesar de que eres siempre alguien bastante reservado para tus cosas más profundas (quizás a veces parece que hablas demasiado pero a la hora de la verdad de lo tuyo, de lo profundo, no sueles abrir el pico), la gente que te conoce sabe de sobra que te has caído y levantado muchas veces en estas últimas semanas queriendo antes que cualquier otra cosa tener el control sobre ti mismo. Eres Capricornio por lo tanto es normal que no todo lo que quieras se de en el momento, la constancia y el trabajo diario es lo que a ti, te hace cumplir tus objetivos y tus metas, la constancia es al final la que te da todo lo que buscas. Las cosas que llegan rápidamente se acaban yendo de la misma manera así que, sigue con lo que tienes fijado en la mente y no desistas porque cualquiera quiera llegar y cambiar tus planes. No te dejes llevar por nadie ahora, puede ser una semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Lo has pasado mal Capricornio, así que, plantéate si te merece la pena volver a mirar atrás de nuevo, creo que no. Lo peor ya está casi superado, no estabas del todo bien con tu vida y por eso decidiste cambiar y aunque los cambios no se den todavía no importa porque están en tu cabeza y poco a poco lo estarán en tus hechos. No te agobies, verás como cada día que pasa es una victoria hacia lo que quieres, sólo preocúpate de vivir esos días lo mejor que puedas ahora…
-La semana comienza con una energía potencialmente apasionada. Hay probabilidades de tener un romance o de revivir una relación. Si tu relación ha caído en la rutina, la adorable alineación entre Venus y Júpiter puede llevarla a un nivel más gratificante. Aun así, con el etéreo Neptuno en la escena, también es necesario que tengas precaución al firmar contratos o cerrar acuerdos. Puede que no todo sea lo que parece. El fin de semana podría ser volátil. Espera hasta que las cosas se calmen antes de abordar un asunto clave.
+Y de repente cambias Capricornio, y nadie lo entiende. Pues sí, de vez en cuando hasta tu cuerpo te pide dar un giro que, aunque no sea del todo radical si te permita cerrar algunos asuntos pendientes que parecía que no iban a llegar nunca. Hay personas que no lo entienden, que piensan cómo es posible que llevaras un camino tan inestable en tu vida y de repente la enderezaras para tomar otro rumbo diferente… Pues sí, no eres imbécil, y sabes que si algo no te conviene, no te conviene, y aunque te des cuenta tarde, lo importante es que sabes corregirlo. La cuestión es que los que estaban a tu alrededor y creían conocerte se echan las manos a la cabeza y piensan cómo puede ser que de repente hagas todo lo contrario a lo que parecía que ibas a hacer. Pues es sencillo, porque todo tiene un límite, y por mucha paciencia que Capricornio pueda tener, lo siento, también tiene amor propio, que a veces no saca, que a veces parece que está escondido, pero lo tiene, aunque a muchos les joda y les fastidie sus planes. Ya te han hecho daño, y estuviste solo, y te sentiste más inseguro que nunca, y el mundo parecía romperse en dos, y ahí nada importaba pero ahora, ahora es todo diferente. Ahora sólo darás tu mejor cara, la buena, la dialogante, la amable, a quien se lo merece. Porque antes lo entregabas todo aunque nadie te lo pidiese, y te quedaste muchas veces sin nada, pero te daba igual, porque eras leal a tu palabra Capricornio, pero ahora ya sólo quieres ser leal a ti mismo. Sigue así, de verdad, no hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
+Es posible que sientas que estás jugando con una compra esta semana. Seguir adelante o no depende de cuánto tienes que perder. Sin importar cuánto quieras este objeto o experiencia, es útil escuchar al sentido común y ver cómo esta compra entra dentro de tu presupuesto. Si es probable que haya dificultades, tal vez ahorrar para hacer la compra más adelante sería la mejor opción. Si tus emociones se entrometen en tu decisión y haces la compra, guarda el papeleo y los recibos para que puedas recibir un reembolso, si fuera necesario. 
+ El armonioso Venus ingresa a tu sector de relaciones el martes, lo que puede ayudar a suavizar cualquier problema que hayas tenido con los demás. También puede proporcionarle una energía adicional a tu panorama social, haciéndolo más vibrante y divertido. Reflexiona sobre tus sueños el domingo, porque la actividad lunar en tu sector espiritual sugiere que podrían ser una especial guía para ti.
 
 ## Dinero
 
-El Universo dice que es posible que estés proyectando una imagen interesante hacia los demás esta semana. Algunos pueden estarte viendo exactamente como les gustaría que fueras en lugar de como realmente eres, pero no te preocupes por ello. Mientras tanto, estás a punto de recibir un mensaje importante acerca de un nuevo negocio o una oportunidad financiera. Sólo asegúrate de devolver la llamada o responder a ese e-mail.
+Te preparas para gastar en cosas bonitas para hacer de tu vida una más cómoda y relajada. Pero tal vez no necesitas todos esos aparatos o esos viajes con todo pagado. El cortar un poco en gastos puede dejar más espacio para futuros proyectos, viajes y actividades que realmente enciendan tu fuego. Tus amigos pueden ayudarte a mantenerte por buen camino.

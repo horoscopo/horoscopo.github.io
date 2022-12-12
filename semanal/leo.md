@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 05 de diciembre 2022 al 11 de diciembre 2022 
-description: Horóscopo semanal leo 05 de diciembre 2022 al 11 de diciembre 2022. No te mereces poco Leo… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas…
+title: leo 12 de diciembre 2022 al 18 de diciembre 2022 
+description: Horóscopo semanal leo 12 de diciembre 2022 al 18 de diciembre 2022. Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no Leo. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2022-12-05
+ogimg: /images/zodiac/semanal_leo.png#2022-12-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-12-05'
+ lastmod: '2022-12-12'
 ---
 
 
 
-## No te mereces poco Leo… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas…
+## Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no Leo. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
 
-A veces dejas las puertas medio abiertas Leo, crees que puedes cerrarlas cuando quieras, crees que eres lo suficientemente fuerte como para mandarlo todo a la mierda cuando desees… Pero no es del todo así. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Leo porque no eres así. Parece que tuvieras miedo de cerrar definitivamente algunos capítulos, parece que aún te aferrarás a que pueden tener solución. Está bien Leo, aférrate a lo que quieras, pero que eso no te afecte en tu día a día. Tienes que ver las cosas por ti mismo para dejarlas a un lado o continuar con ellas, así que, tropieza, date la hostia necesaria que te haga abrir los ojos pero, mientras tanto, que no te frene. Sacúdete un poco de las cosas negativas que pululan a tu alrededor, no pagues un precio alto por mantener algo que ni siquiera sabes si quieres mantener. Si necesitas pensar, márchate, desaparece unos días, vete solo y pasa de todo. En serio, algo te está reteniendo a quedarte, algo te está impidiendo continuar hacia delante, ten cuidado Leo, con las decisiones que tomas, y con dejar puertas medio abiertas por miedo a que se cierren del todo…
-Con el sol en el sector más alto de tu carta, puede que disfrutes ser el centro de atención. Esto, junto con otros aspectos, te alienta a dar un paso al frente y a exhibir tus mejores cualidades. Si tienes la intuición de que debes conectarte con alguien, escúchala. Podría ayudarte a avanzar en tu camino hacia un mayor éxito. El sábado, el encantador Venus ingresa a Piscis y a tu sector social. Esto puede mejorar tu vida amorosa y agregarle un brillante toque a cualquier evento clave.
+Tienes que enderezar un poco tu vida Leo, y dejar de lado algunas inseguridades, de hecho, serás más feliz cuando empieces a creerte lo que vales de verdad, lo que puedes llegar a conseguir y sobretodo lo que te mereces. En realidad debes encontrar esa seguridad en tu día a día y no dejar que nadie te la arrebate. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte. No necesitas a nadie para ser feliz pero si están cerca de ti sí que necesitas que cuiden también de tu vida como tu haces con ellos. Últimamente has asumido cosas que no te pertenecen, has perdonado y has tratado de olvidar para mantener un equilibrio pero a veces no se trata de eso, se trata de rebelarte, se trata de dejar las cosas claras a más de uno y sobretodo de estar en paz contigo mismo, de respirar. Aprecias la sencillez y odias pelear, así que, ¿para qué peleas? No te preocupes innecesariamente por nada ni por nadie, y si estás un poco estresado o abrumado tómate unos días, relaja la mente y vuelve para continuar lo que sea que tengas. Es posible que necesites un poco de espacio, y no es malo, simplemente es eso, necesario.
+La mejor manera de lidiar con la actividad lunar del martes podría ser al relajar tu horario desde inicio de semana. Si te tomas tiempo para descansar, puedes percatarte de que relajarte y recargar baterías hará que te sientas más optimista y con más energía. Evita tareas complejas si es que puedes. Además, algunas amistades podrían ayudarte con cierto proyecto. Por otro lado, un evento formal podría poner fabulosas oportunidades en tu camino, haciendo que valga la pena que acudas incluso si tienes dudas.
 
 ## Dinero
 
-Tienes ganas de dejar que tu personalidad real salga a flote. En el trabajo, en tus relaciones personales y en público, quieres dejar todo salga, pero tu carrera (y sobre todo tu salario) puede sufrir si vas demasiado lejos. Ten un poco más de control con el fin de recoger los frutos. Tu individualidad brilla cuando haces un gran trabajo y asumes un rol de autoridad.
+Es un tiempo muy ocupado para ti. Tanto está pasando que lo único que tus jefes quieren hacer es promocionarte, darte vino, llevarte a cenar y demás. Puede que te sea difícil encontrar tiempo para ti mismo/a. Esto sólo temporal. Un aspecto armónico te mueve en la posición de autoridad que por destino tienes que ocupar. ¡Que lo disfrutes!

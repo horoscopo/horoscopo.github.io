@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: tauro 05 de diciembre 2022 al 11 de diciembre 2022 
-description: Horóscopo semanal tauro 05 de diciembre 2022 al 11 de diciembre 2022. Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
+title: tauro 12 de diciembre 2022 al 18 de diciembre 2022 
+description: Horóscopo semanal tauro 12 de diciembre 2022 al 18 de diciembre 2022. Fuera las preocupaciones. Tira del carro Tauro, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2022-12-05
+ogimg: /images/zodiac/semanal_tauro.png#2022-12-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-12-05'
+ lastmod: '2022-12-12'
 ---
 
 
 
-## Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
+## Fuera las preocupaciones. Tira del carro Tauro, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
 
-A veces parece que no progresas, y te estancas, y te lamentas, y te das por vencido/a… Pero no, lo que pasa es que las cosas van más lentas de lo que queremos. Y todo lo que des hoy te va a repercutir en el futuro, aunque ahora parezca que no funciona del todo. ¿Estás en el lugar correcto Tauro? Seguro que sí, siempre has sido listo/a como para saber lo que haces… No hace falta que ahora pruebes otras cosas, lo que tienes que hacer es enfocarte en las que tienes, y tratar de hacer todo bien. La constancia es la clave del éxito Tauro. No te pierdas ahora por otras sendas, de verdad, vas bien encaminado ahora pero échale ganas y sobretodo no te rindas. Y tampoco dejes que la influencia del resto tenga poder sobre ti, ni mucho ni poco, NADA.
-El énfasis en tu sector espiritual continúa esta semana. Sin embargo, la intuición podría tener un rol principal en las decisiones relacionadas con tu carrera y tus planes. Si necesitas consejos, meditar sobre el asunto puede permitirte que conectes con tu sabiduría interna, lo que podría ser muy revelador y útil. El Jueves, la luna llena en tu sector de bienestar sugiere que puedes beneficiarte si despejas tu agenda. Reservar un masaje o dar una larga caminata podrían ser muy relajantes.
+Llevabas un ritmo un poco alocado Tauro, todo mezclado con dudas existenciales, un futuro incierto y si, altibajos constantes. Te encuentras un poco agotado por todo, sin tener aún muy claro por dónde tirar y qué camino elegir. Vives al día, el instante, el momento, mañana ya veremos y eso está muy bien pero cuando te da un momento de bajón, te hundes, y mucho. En realidad ¿es lo que quieres? Te das cuenta de que no puedes seguir así, que necesitas asentarte, “centrar” la cabeza, pero en un momento determinado todo lo que piensas se va de tu cabeza. “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate Tauro, que no te entre la locura. Ni todo es tan malo ni todo es tan bueno. Eres demasiado nervioso y te estresas rápidamente pero eso no tiene que llevarte a hacer ninguna locura. Al revés, siéntate y, por unos minutos, aunque sean sólo 5, piensa en lo bueno que tienes, aunque lo malo pueda ser muy muy malo, y dedícate de pleno a cuidarlo. Y si tienes que relajarte más, hazlo, y si tienes que buscar alternativas a esos bucles mentales que parecen no tener fin, pues hazlo también. Con la mente despejada y, sobretodo haciendo una lista de lo que te conviene y no te conviene, tomarás el rumbo de tu vida. Y ahora cuídate más que nunca y sobretodo pon mil ojos a tu alrededor porque sabes que hay envidiosos que tienen asuntos pendientes contigo y aprovecharán cualquier momento para hacer daño, de una forma o de otra, y sobretodo, aprovecharán los momentos en los que estés bajo de ánimos para atacar y debilitarte aún más. Cuídate un poquito más Tauro, quiérete un poquito más, y pon la mente en blanco todo lo que puedas…
+Estás en una fase en la que te beneficiará relajarte y recargar baterías. Después de once meses de actividad en tu duodécimo casa, deberías dedicarte a meditar sobre tu progreso y metas para los próximos doce meses. También es una oportunidad para dejar de lado sentimientos y situaciones que drenan tu energía. Si haces esto ahora, harás el mejor uso posible de tu período anual de recuperación. Finalmente, Venus entrando a tu sector social el domingo hace de este un excelente momento para la colaboración y el trabajo en equipo.
 
 ## Dinero
 
-Tienes la oportunidad de aumentar dramáticamente tus habilidades para ganar dinero esta semana si tienes el suficiente cuidado. La advertencia se debe a una confrontación relacionada con tus asuntos monetarios. Tienes un montón de posibilidades para atraer a más, pero también hay una atención a la deuda. Esta lucha no tiene por qué ser fea. En lugar de perder la paciencia y cortar todas las tarjetas de crédito en un ataque de resentimiento, busca un equilibrio entre lo que viene con lo que sale.
+El Universo lleva tu vida monetaria a un delicado equilibrio. Tus ideas creativas y enfoques son admirables ahora, y directamente afectarán a tu sector de viajes, aprendizaje y metafísica. Si sientes que necesitas aumentar tu educación, no dudes en gastar dinero en una clase o seminario. Todo esto es para el mejoramiento de tu futuro, y dará sus frutos monetarios en poco tiempo.

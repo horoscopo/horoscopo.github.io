@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 05 de diciembre 2022 al 11 de diciembre 2022 
-description: Horóscopo semanal piscis 05 de diciembre 2022 al 11 de diciembre 2022. Vamos Piscis, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
+title: piscis 12 de diciembre 2022 al 18 de diciembre 2022 
+description: Horóscopo semanal piscis 12 de diciembre 2022 al 18 de diciembre 2022. Todo acaba cicatrizando, pero tienes que dejar que cicatrice Piscis. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2022-12-05
+ogimg: /images/zodiac/semanal_piscis.png#2022-12-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-12-05'
+ lastmod: '2022-12-12'
 ---
 
 
 
-## Vamos Piscis, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
+## Todo acaba cicatrizando, pero tienes que dejar que cicatrice Piscis. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
 
-Empieza a hacerte promesas a ti mismo Piscis, empieza a prometerte amor propio, hoy y siempre. Has dejado abandonadas algunas cosas últimamente, has dejado de lado tu estilo, tu manera de vivir, tus ganas, tu fuerza, tu pasión… Lo has dejado de lado para entrar en conflictos internos y externos con otras personas… Prométete quererte cada día, y anteponerte siempre al resto por favor, prométete ir donde tu corazón te lleve, donde lata con más fuerza sin tener que pensar constantemente en el daño colateral que puedes causar, prométete no ceder cuando sabes que no debes… Hay sentimientos que no se pueden controlar, pero la tensión y la impulsividad sí. Así que, deja de enredarte en historias que no van contigo. Si hay que dejar las cosas claras que se dejen claras de una vez por todas. Saca los jueguecitos de tu vida, saca las estupideces, saca la basura Piscis. Y saca lo que tienes dentro y lo que llevas cargando un tiempo. Hay cosas que simplemente no están hechas para ti, por mucho empeño que le pongas, hay cosas que por más que intentes solucionar no se van a dar, pero tienes que hacerte una pregunta, ¿cuánto tiempo estás dispuesto a aguantar donde estás? Deja que el tiempo cure… Y recuerda, tu amor propio antes que nada y mucho más ahora.
-Ahora que hay cuatro planetas en tu sector espiritual, es el momento del año en que el cosmos te anima a relajarte y tomarte un tiempo para ti. Puedes descubrir que estás más en contacto con tus sentimientos, en especial con los que han estado burbujeando en la profundidad durante algún tiempo. Tus sueños también podrían ser importantes e incluso pueden aportar valiosos consejos. El fin de semana podría encontrarte evaluando tus creencias y, tal vez, considerando recurrir a un consejero de vida para que te ayude a vivir a tu máximo potencial.
+No pienses tanto por favor Piscis, claro que saldrá bien, claro que deberías arriesgar por tus metas, claro que es lo que quieres. Eres Piscis por favor, a pesar de que por tu cabeza puedan pasar un sinfín de locuras, y de las buenas, sabes lo que haces, sabes que si te paras a pensar más de dos días seguidos algo es que hay que hacer algo para cambiarlo, para bien o para mal. O sea, ves a por todas. 
+ cultivar para luego recoger una buena cosecha y no dejarte abatir ni decaer por ninguna situación que se cruce en el camino.
+Estarás en tu elemento una vez que el Sol ingrese a tu signo a mediados de la semana. Ahora es el momento para darles vida a tus sueños actuando acorde aquellos que más te atraen. Una idea que te entusiasmó en el pasado puede volver a aparecer y colocarse en lo alto de tu lista de prioridades. Además, Marte se mueve a tu sector de finanzas personales y esto puede animarte a observar las condiciones actuales y hacer que tu dinero trabaje más para ti.
 
 ## Dinero
 
-Estás trabajando duro para saldar tus deudas para poder disfrutar de una mejor calidad de vida. Ponte en contacto mediante llamadas telefónicas y cartas a las empresas a las que les debes dinero con el fin de organizar planes realistas de pago. Al mismo tiempo, gasta algo en tu familia, pareja romántica y actividades creativas. El balance debe ser mantenido.
+Tienes la posibilidad de recibir mucho apoyo por parte de viajes al extranjero, aprender un nuevo idioma, o asistir a una clase o un seminario para reforzar tu educación. Cualquier cosa que puedas hacer para que tu conjunto de habilidades sea más formidable ayudará ahora, especialmente cuando se trata de pedir más dinero. Mientras tanto, analizando el área de tu carta relacionada con tu trabajo, ¿será que es hora de cambiar de profesión?

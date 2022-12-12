@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 05 de diciembre 2022 al 11 de diciembre 2022 
-description: Horóscopo semanal cancer 05 de diciembre 2022 al 11 de diciembre 2022. No desaproveches las oportunidades más Cáncer, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida. No le debes ninguna explicación a nadie.
+title: cancer 12 de diciembre 2022 al 18 de diciembre 2022 
+description: Horóscopo semanal cancer 12 de diciembre 2022 al 18 de diciembre 2022. La realidad es esta y sí, aunque a veces sea una mierda busca SIEMPRE el lado bueno, en el fondo nunca dejas de hacerlo, aunque a veces te superen las circunstancias. Hay gente que sigue echando de menos al Cáncer de siempre…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2022-12-05
+ogimg: /images/zodiac/semanal_cancer.png#2022-12-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-12-05'
+ lastmod: '2022-12-12'
 ---
 
 
 
-## No desaproveches las oportunidades más Cáncer, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida. No le debes ninguna explicación a nadie.
+## La realidad es esta y sí, aunque a veces sea una mierda busca SIEMPRE el lado bueno, en el fondo nunca dejas de hacerlo, aunque a veces te superen las circunstancias. Hay gente que sigue echando de menos al Cáncer de siempre…
 
-Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate. Los pensamientos negativos son como la mierda Cáncer, que atraerán más mierda, y antes de que te des cuenta tendrás la mente infectada, de verdad. Empezarás a ver problemas en vez de soluciones, te meterás en un círculo vicioso en el que YA has estado. No puedes permitirlo otra vez. No luches contra cosas o personas, simplemente esquívalas, a veces, aunque intentes hacer que entren en razón es imposible, y el que acaba sufriendo irremediablemente eres tú. No debes permitirte el lujo de tener ningún pensamiento negativo ahora, de verdad, ya has pasado demasiado, sólo céntrate en esquivar lo que te dañe, pero en esquivarlo de verdad. O sea, si de verdad decides que no es lo que quieres, corta por lo sano cuanto antes, y no mires atrás ni por el retrovisor del coche. Lidera tu interior y serás el líder de tu entorno. Lo único que ahora puede frenarte son tus pensamientos, trabájalos, distráete, y rodéate de todo lo bueno que tienes aunque a veces te cueste poner punto y final a lo malo. Tus metas ahora son lo más importante y sólo se consiguen cuando uno realmente no tiene nada que le estorba en su camino.
-Ciertas revelaciones espirituales podrían tener un poderoso efecto sobre ti y motivarte para salir de tu zona de confort. De hecho, una emocionante diversidad de aspectos podría ser un punto de inflexión, lo que te inspira a moverte hacia una dirección que te ofrece aventura y nuevas oportunidades. También hay un fuerte enfoque en tu sector de romance, donde una nueva relación podría volverse más íntima en los próximos días. Con Venus volviéndose retrógrado, quizá sea prudente mantener todo tranquilo por ahora.
+Necesitas tener un objetivo en la vida Cáncer, pelear por lo que quieres, tener ambición y no estancarte. Si no, te acabas marchitando… Y a veces te encuentras quieto, parado, sin saber hacia qué dirección moverte, sin saber si es bueno mandar todo a la mierda y empezar desde cero otra vez más o quedarte como estás. Esta semana llega un proceso duro pero que al final te habrá merecido la pena. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas. Como si a mitad del camino te empezaran a flaquear las piernas y te quedaras sin fuerzas. Nada Cáncer, no puede flaquearte nada ahora. Cualquier proceso de cambio tiene un tiempo y ahí es donde estás ahora. Acoplándote a las nuevas situaciones. Todo ese estrés pasará, y los momentos duros empezarán a suavizarse, como siempre ha pasado… No le temas a eso porque todo se coloca en su lugar. Disfruta del momento que estás viviendo, saca la parte positiva de todo, aunque a veces parezca que no la hay, y déjate llevar un poco, sin pensar tanto, que no es tan negro todo…
+La semana adopta un tono social desde el principio, a pesar de que podrías tener involucramiento en uno o dos eventos formales. Todo debería salir bien en una reunión o función de negocios. Sin embargo, los asuntos familiares y hogareños estarán bajo enfoque con el Sol y Mercurio entrando a Leo, cuando podrías estar trabajando más en tu hogar al eliminar el desorden y recibiendo en él a familia y amigos. Intenta no precipitarte a tomar decisiones dentro de tus relaciones conforme Venus retrocede desde el Sábado. ¡Tómate tu tiempo!
 
 ## Dinero
 
-Te diriges a un periodo de gran riqueza en términos de finanzas e información que te ayudará a obtener más seguridad. Tienes un increíble poder psíquico ahora. El Universo está agitando tu sector de karma, vidas pasadas, e instituciones, con el fin de acudir a estas áreas para hacer más dinero, encontrar nuevas ideas para productos y servicios únicos, o localizar lugares para invertir tu dinero para maximizar tus ganancias.
+Esta semana, cierta actividad en tu sector de empleo restringirá tu vida laboral un poco y te pedirá que seas más responsable con lo que haces con tu dinero. El tratar de ser todo para todo el mundo no va a funcionar ahora. En lugar de eso, especializa tus habilidades y cobra por ello en consecuencia.  Acude a comunicarte con tus más allegados en busca de pistas sobre la manera de proceder.
