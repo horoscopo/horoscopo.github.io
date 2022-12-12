@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 11 de diciembre 2022
-description: Horóscopos del dia de hoy 11 de diciembre 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 12 de diciembre 2022
+description: Horóscopos del dia de hoy 12 de diciembre 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-12-11
+ lastmod: 2022-12-12
 ---
-Las personas andan un poco distraídas y mantienen sus respuestas vagas cuando Mercurio cuadra a Neptuno esta mañana. La buena noticia es que las telarañas se despejan por la tarde. Espera y hazle la pregunta correcta a la persona adecuada en el momento preciso. Durante la noche, muestra esa enorme y linda sonrisa y ve cómo te suceden cosas positivas bajo la Luna en Leo.
+Un par de opiniones conflictivas pasadas podrían resurgir esta mañana si cierta situación no fue resuelta la primera vez. Espera, porque la cooperación alivia esas viejas tensiones cuando la Luna aspecta a Venus por la tarde. Esta noche, el trígono entre Venus y Urano es estelar para la amistad y la diversión en grupo. Deléitate en la alegría del momento.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
