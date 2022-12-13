@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 12 de diciembre 2022
-description: Horóscopos del dia de hoy 12 de diciembre 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 13 de diciembre 2022
+description: Horóscopos del dia de hoy 13 de diciembre 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-12-12
+ lastmod: 2022-12-13
 ---
-Un par de opiniones conflictivas pasadas podrían resurgir esta mañana si cierta situación no fue resuelta la primera vez. Espera, porque la cooperación alivia esas viejas tensiones cuando la Luna aspecta a Venus por la tarde. Esta noche, el trígono entre Venus y Urano es estelar para la amistad y la diversión en grupo. Deléitate en la alegría del momento.
+La Luna Llena en Leo estimula una energía cálida y amigable durante todo el día. Ocúpate y siéntete más feliz por poder estar en movimiento. Esta noche, Venus en Capricornio trae consigo el tipo de romance que es terrenal. Las parejas hablan breve pero seriamente. Por su parte, los solteros empiezan a centrarse en el compromiso durante las próximas semanas.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
