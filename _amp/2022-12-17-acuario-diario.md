@@ -1,0 +1,25 @@
+---
+layout: amp
+title: acuario hoy gratis 17 de diciembre del 2022 
+permalink: /horoscopo-diario-gratis/amp/acuario/
+normallink: /horoscopo-diario-gratis/acuario/
+home: FALSE
+horoscopo:
+ signo: acuario
+ video: -DQpmrrAIeU
+ogimg: /images/acuario_char.png
+sitemap:
+ priority: 1
+ changefreq: 'daily'
+---
+
+
+Tienes energía que gastar y tienes la intención de usarla. Pide a tus amigos que se te unan en el parque. También puedes organizar un partido de tenis para la tarde. Disfruta de tu día al aire libre, pero ten cuidado de no pasarte. Si hoy sufres una lesión muscular, podrían pasar semanas antes de que te cures totalmente. Si mantienes tu propio ritmo y bebes abundante agua, entonces disfrutarás del día sin repercusiones.
+
+## Amor
+
+Los nativos de tu signo pueden descubrir que hoy es un buen momento para iniciar una conversación sobre un tema difícil o delicado. Evitar el problema no lo hará desaparecer. Sólo cuando combines un enfoque suave con palabras claras y concisas (por no decir cuidadosamente elegidas) las cosas podrán salir adelante.
+
+## Trabajo
+
+Las cuestiones domésticas están en primer plano en tus preocupaciones, y en este momento son más importantes que los asuntos laborales. Trabajes o no hoy, ocúpate de ellas primero, así puedes concentrarte en el trabajo más tarde.
