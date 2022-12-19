@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 12 de diciembre 2022 al 18 de diciembre 2022 
-description: Horóscopo semanal virgo 12 de diciembre 2022 al 18 de diciembre 2022. Es difícil comprenderte Virgo, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
+title: virgo 19 de diciembre 2022 al 25 de diciembre 2022 
+description: Horóscopo semanal virgo 19 de diciembre 2022 al 25 de diciembre 2022. No es que estés cambiando Virgo, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2022-12-12
+ogimg: /images/zodiac/semanal_virgo.png#2022-12-19
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-12-12'
+ lastmod: '2022-12-19'
 ---
 
 
 
-## Es difícil comprenderte Virgo, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
+## No es que estés cambiando Virgo, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
 
-Aunque nadie lo quiera para sí mismo hay que dejar algo claro: el sufrimiento a veces es nuestro mejor maestro. Sí Virgo, si aún sufres es porque no has aprendido esa lección en particular, es porque aún no te has armado de valor para dejar de lado lo que no te hace ningún bien, lo que no te aporta. Cuando por fin lo hagas y te decidas de verdad, el sufrimiento se acabará yendo… Pero si sólo tratas de engañarte la misma lección acabará por venir una y otra vez a tu vida. Acompañada de dolor.
-La semana por delante tiene un tono muy social, con una gran cantidad de oportunidades para conocer gente. Es posible que te involucres en ambos, eventos formales e informales. Tus conexiones con la gente deberían de estar cargadas con una gran cantidad de energía, animándote a intercambiar ideas empresariales, formular audaces planes o tal vez disfrutar de un poco de romance. En el frente hogareño, organizar una reunión puede ser divertido, en cuyo caso sería bueno que eligieras bien a tus invitados.
+Sí, es cierto que muchos se los merecen, es cierto que a veces te entran ganas de dejarles en su sitio, con tres palabras podrías hacer que cerraran sus bocas para siempre pero, ese no es el caso ahora. Si ya has salido de lo más hondo no vuelvas al agujero otra vez por favor. 
+ No tengas odio o rabia por dentro, no dejes que la ira te controle porque mantener cualquier tipo de enfado o de resentimiento sólo te mantiene en un estado tóxico que de verdad no te hace bien.
+La semana comienza como Venus entrando a Sagitario y a tu sector de viajes y aventura. Esto puede llamarte a explorar nuevos escenarios y a conocer a gente fascinante como resultado. Con un potente enfoque en la parte superior de tu carta, una oportunidad puede parecer lo suficientemente valiosa como para luchar por ella. Incluso si tienes que superar grandes obstáculos para poner las cosas en acción, te prepararás para ello. Puede que a veces tengas que elegir entre ser agradable y hacer lo que debes, sobre todo porque fuertes emociones podrían estar gobernando la presente situación.
 
 ## Dinero
 
-Confía en tu intuición acerca de lo que es correcto para ti. Estás preparado/a para hacer un gran cambio en tu vida. Podrías percatarte de que tu situación se vuelve un poco inestable, teniendo dinero un día y no otro. La manera de balancear esto es mediante el desarrollo de una estrategia fuerte de ahorro, poniendo dinero en cuentas de ahorro a largo plazo y otro poco más en cuentas de ahorro a corto plazo. No es una opción - es una necesidad.
+Esta semana estás llegando a un público mucho más grande con tu trabajo, lo que conduce a más dinero a la larga. Es posible que estés reconectando con la gente de tu pasado y consiguiendo presentaciones con nuevos fans. No importa lo que hagas para ganarte la vida, estás siendo empujado/a al escenario para entregar un mensaje único. Los aspectos te dan el apoyo y la fuerza que necesitas de estrechas relaciones. Gozas de un periodo en el que es muy poco probable que hagas errores, disfruta de este personal y financieramente.

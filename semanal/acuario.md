@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 12 de diciembre 2022 al 18 de diciembre 2022 
-description: Horóscopo semanal acuario 12 de diciembre 2022 al 18 de diciembre 2022. No más paciencia Acuario. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
+title: acuario 19 de diciembre 2022 al 25 de diciembre 2022 
+description: Horóscopo semanal acuario 19 de diciembre 2022 al 25 de diciembre 2022. Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2022-12-12
+ogimg: /images/zodiac/semanal_acuario.png#2022-12-19
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-12-12'
+ lastmod: '2022-12-19'
 ---
 
 
 
-## No más paciencia Acuario. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
+## Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
 
-Si tienes algo que pensar, intenta no hacerlo en el momento, YA, AHORA y AQUÍ. Las preocupaciones cambian de intensidad muy a menudo, y sólo es con el tiempo cuando se ven. Vale, las cosas te estresan pero quizás si en vez de tomar la decisión ahora esperas un poco y la tomas después de dormir 8 horas, todo cambia, ya no es tan dramático como parecía, se suaviza, y mucho… Tómate ese tiempo, hazlo Acuario, porque te darás cuenta de que no todo es tan bueno, y tampoco todo es tan malo… Relax… Parece mentira como te estresas por situaciones que no siempre están en tu mano, pero es verdad es como si tú pudieras hacer todo por ti mismo y no Acuario, por desgracia no todo es así… Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino. Un día malo no significará nada, sabes de sobra lo que es mover el culo para trabajar, sabes lo que es ir consiguiendo frutos, día a día… Recuerda lo que mereces, y lucha por ello muerte…
-El goce del amor podría encantar tus días debido a la configuración planetaria destacando el romance y oportunidades para citas. El martes, podrías sentir que necesitas tomar una decisión con respecto a un vínculo actual. Si es así, sería prudente saber lo que quieres desde el principio, ya que podría ser difícil cambiar de opinión a la larga. La entrada de Júpiter a tu sector profesional y de salud es una muy buena noticia y podría traer consigo algunas oportunidades para ayudarte a cambiar de trabajo u obtener un ascenso.
+No es que no te estés esforzando por conseguir tus propósitos, no es eso, es que, a menudo, por mucho que te esfuerces, si te rodeas de personas que te acaban chupando toda esa energía es como si nada valiera la pena, porque por un paso que das al frente, retrocedes dos por culpa de otros.
+Las relaciones, el dinero y los asuntos comerciales podrían estar en los primeros lugares de tu agenda durante esta semana. Cuando el conversador Mercurio y el armonioso Venus están en tu sector de activos compartidos y profundos lazos espirituales, ciertas conversaciones podrían provocar positivos cambios que beneficien a todas las personas involucradas.
+Tal vez no estés de acuerdo con alguien en torno a los próximos días, pero esto puede ser un punto de partida para una discusión muy fructífera. El resultado de esta discusión puede traer positivos desarrollos a futuro. El sol se alinea con el jovial Júpiter en tu sector de relaciones el mismo día, lo que hace que este sea un buen momento para una reunión, una romántica cita o una celebración. Alguien puede tener un secreto que quiere compartir este fin de semana, lo que podría llevar una relación a un plano más íntimo. Pero ten cuidado, ya que tal vez las cosas no sean lo que parecen. Por otro lado, podrías recibir muy bien la sugerencia de una persona y esto podría hacer que su relación se convierta en una sólida amistad.
 
 ## Dinero
 
-Es posible que despegues esta semana - literalmente. Parece que tienes más posibilidades que nunca para ganar dinero, atraer más a través de trabajos secundarios y de interés y obtener dividendos a través de inversiones inteligentes. Si necesitas ayuda en lo que respecta a la planificación financiera, los aspectos pueden ayudarte a atraer a la persona adecuada para tus necesidades. No lo dejes al azar, en todo caso, mereces mucho más.
+Tu individualidad viene justo en contra del dinero o la deuda de otras personas. Te podría sorprender el encontrar algo que no esperabas en esta área de tu vida. Asegúrate de haber pagado todo y haber pasado por alto una factura o te arriesgas a pagar multas y sanciones. Hay un aspecto afortunado que demuestra que puede ser muy bueno que pagues las deudas justo después de que la factura llegue. ¡Fuera de tu vista, fuera de tu mente!

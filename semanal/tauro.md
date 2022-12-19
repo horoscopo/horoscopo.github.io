@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: tauro 12 de diciembre 2022 al 18 de diciembre 2022 
-description: Horóscopo semanal tauro 12 de diciembre 2022 al 18 de diciembre 2022. Fuera las preocupaciones. Tira del carro Tauro, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
+title: tauro 19 de diciembre 2022 al 25 de diciembre 2022 
+description: Horóscopo semanal tauro 19 de diciembre 2022 al 25 de diciembre 2022. Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2022-12-12
+ogimg: /images/zodiac/semanal_tauro.png#2022-12-19
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-12-12'
+ lastmod: '2022-12-19'
 ---
 
 
 
-## Fuera las preocupaciones. Tira del carro Tauro, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
+## Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
 
-Llevabas un ritmo un poco alocado Tauro, todo mezclado con dudas existenciales, un futuro incierto y si, altibajos constantes. Te encuentras un poco agotado por todo, sin tener aún muy claro por dónde tirar y qué camino elegir. Vives al día, el instante, el momento, mañana ya veremos y eso está muy bien pero cuando te da un momento de bajón, te hundes, y mucho. En realidad ¿es lo que quieres? Te das cuenta de que no puedes seguir así, que necesitas asentarte, “centrar” la cabeza, pero en un momento determinado todo lo que piensas se va de tu cabeza. “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate Tauro, que no te entre la locura. Ni todo es tan malo ni todo es tan bueno. Eres demasiado nervioso y te estresas rápidamente pero eso no tiene que llevarte a hacer ninguna locura. Al revés, siéntate y, por unos minutos, aunque sean sólo 5, piensa en lo bueno que tienes, aunque lo malo pueda ser muy muy malo, y dedícate de pleno a cuidarlo. Y si tienes que relajarte más, hazlo, y si tienes que buscar alternativas a esos bucles mentales que parecen no tener fin, pues hazlo también. Con la mente despejada y, sobretodo haciendo una lista de lo que te conviene y no te conviene, tomarás el rumbo de tu vida. Y ahora cuídate más que nunca y sobretodo pon mil ojos a tu alrededor porque sabes que hay envidiosos que tienen asuntos pendientes contigo y aprovecharán cualquier momento para hacer daño, de una forma o de otra, y sobretodo, aprovecharán los momentos en los que estés bajo de ánimos para atacar y debilitarte aún más. Cuídate un poquito más Tauro, quiérete un poquito más, y pon la mente en blanco todo lo que puedas…
-Estás en una fase en la que te beneficiará relajarte y recargar baterías. Después de once meses de actividad en tu duodécimo casa, deberías dedicarte a meditar sobre tu progreso y metas para los próximos doce meses. También es una oportunidad para dejar de lado sentimientos y situaciones que drenan tu energía. Si haces esto ahora, harás el mejor uso posible de tu período anual de recuperación. Finalmente, Venus entrando a tu sector social el domingo hace de este un excelente momento para la colaboración y el trabajo en equipo.
+Nadie se cura por herir a otro Tauro. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que, a menudo pesa más de la cuenta, pero todo pasa, y todo llega. A muchos se les hace complicado entender por qué le das tantas vueltas a todo, por qué sufres momentos de ansiedad que parecen no calmarse con nada, por qué puedes llegar a ser tan autodestructivo con tus propios pensamientos… No olvidas nada, ese es el problema a veces, y también la virtud en otros momentos. Y es duro para el resto sí, pero más duro es para ti. Tienes que canalizar todo eso y llevarlo hacia lo productivo, mandar toda esa energía hacia lo que te hace feliz. Las traiciones están ahí, y no todo el mundo es como tú, no todo el mundo valora la sinceridad como tú lo haces, no todos tienen tu coraje… Debes aprenderlo para no caer en los mismos errores una y otra vez, y sobretodo para no hacerte daño.
+Si ya tienes planeada una aventura romántica con tu amor, podría ser una aventura para recordar. Es probable que quieras ir a algún lugar exótico, aunque sea solo unos días. Si no tienes compañía y estás lejos de tu casa, el romance podría aparecer inesperadamente. ¿Durará? Puede que no, pero lo disfrutarás inmensamente. Con la entrada del Sol a un sector más intenso de tu carta astral este fin de semana, podría ser el momento para resolver un asunto emocional.
 
 ## Dinero
 
-El Universo lleva tu vida monetaria a un delicado equilibrio. Tus ideas creativas y enfoques son admirables ahora, y directamente afectarán a tu sector de viajes, aprendizaje y metafísica. Si sientes que necesitas aumentar tu educación, no dudes en gastar dinero en una clase o seminario. Todo esto es para el mejoramiento de tu futuro, y dará sus frutos monetarios en poco tiempo.
+Te muerdes las uñas para empezar a trabajar en un nuevo proyecto creativo. Esto pasará, y tu mente será estimulada en todo tipo de interesantes direcciones. Esto también afectará a los niños, parejas románticas, miembros de familia y diversión. Gastar tu dinero en efectivo en estas áreas afirma tu lugar en el mundo y todos los beneficios de tu arduo trabajo.
