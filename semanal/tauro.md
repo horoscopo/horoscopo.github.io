@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: tauro 19 de diciembre 2022 al 25 de diciembre 2022 
-description: Horóscopo semanal tauro 19 de diciembre 2022 al 25 de diciembre 2022. Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
+title: tauro 26 de diciembre 2022 al 01 de enero 2023 
+description: Horóscopo semanal tauro 26 de diciembre 2022 al 01 de enero 2023. Llega una buenísima semana Tauro pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2022-12-19
+ogimg: /images/zodiac/semanal_tauro.png#2022-12-26
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-12-19'
+ lastmod: '2022-12-26'
 ---
 
 
 
-## Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
+## Llega una buenísima semana Tauro pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
 
-Nadie se cura por herir a otro Tauro. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que, a menudo pesa más de la cuenta, pero todo pasa, y todo llega. A muchos se les hace complicado entender por qué le das tantas vueltas a todo, por qué sufres momentos de ansiedad que parecen no calmarse con nada, por qué puedes llegar a ser tan autodestructivo con tus propios pensamientos… No olvidas nada, ese es el problema a veces, y también la virtud en otros momentos. Y es duro para el resto sí, pero más duro es para ti. Tienes que canalizar todo eso y llevarlo hacia lo productivo, mandar toda esa energía hacia lo que te hace feliz. Las traiciones están ahí, y no todo el mundo es como tú, no todo el mundo valora la sinceridad como tú lo haces, no todos tienen tu coraje… Debes aprenderlo para no caer en los mismos errores una y otra vez, y sobretodo para no hacerte daño.
-Si ya tienes planeada una aventura romántica con tu amor, podría ser una aventura para recordar. Es probable que quieras ir a algún lugar exótico, aunque sea solo unos días. Si no tienes compañía y estás lejos de tu casa, el romance podría aparecer inesperadamente. ¿Durará? Puede que no, pero lo disfrutarás inmensamente. Con la entrada del Sol a un sector más intenso de tu carta astral este fin de semana, podría ser el momento para resolver un asunto emocional.
+El mundo gira y gira y si, a veces te sientes fuera de él. Muchas veces de hecho pero no es que estés triste y nostálgico, que va, ya estás acostumbrad@ a sentirte fuera de lugar en muchas ocasiones. Ese no es el punto. El punto es que, aunque todo esto te este pasando, por dentro tienes unas ganas enormes de superarte y de hacer las cosas mucho mejor que hasta ahora. Muy a menudo te pones un nivel altísimo de todo, de proyectos, de calidad de vida, de trabajo, y debes tener cuidado porque al final pasa factura. Sabes que en la vida caminas sol@ aunque te acompañen los demás. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco, buscando ese amor que a veces parece que te falta pero que nunca reconocerás, dejarte llevar no está tan mal del todo, siempre que de verdad y para no caer de nuevo, te quieras a ti mism@ mucho más que al resto.
+Aunque te ocupes mucho con compras de última hora, decorando tu hogar y organizando la semana de festividades; este es también un periodo de renovación espiritual para ti. Es importante que te tomes tiempo para reflexionar, meditar, enderezar malentendidos y cualquier limpieza espiritual que tengas que hacer. Tal parece que durante esta ajetreada semana estarás en demanda con la actividad lunar poniéndote firmemente en el centro de atención. Además, tus relaciones parecen estabilizarse a partir del 29 de diciembre.
 
 ## Dinero
 
-Te muerdes las uñas para empezar a trabajar en un nuevo proyecto creativo. Esto pasará, y tu mente será estimulada en todo tipo de interesantes direcciones. Esto también afectará a los niños, parejas románticas, miembros de familia y diversión. Gastar tu dinero en efectivo en estas áreas afirma tu lugar en el mundo y todos los beneficios de tu arduo trabajo.
+Si has estado buscando maneras de ganar más dinero, puedes encontrar que mirar hacia el pasado es la mejor manera de obtener buenos resultados esta semana. Esto se debe en parte a tu casa del dinero y valores. Busca antiguos puestos, compañeros de trabajo y habilidades para traer más dinero en efectivo, ya que podrías ser capaz de usarlos para conectar con conocidos de una época anterior en tu vida que pueden ayudarte a crear una cartera de inversiones para proteger tu futuro.

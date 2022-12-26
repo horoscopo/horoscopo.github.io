@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: leo 19 de diciembre 2022 al 25 de diciembre 2022 
-description: Horóscopo semanal leo 19 de diciembre 2022 al 25 de diciembre 2022. Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca Leo.
+title: leo 26 de diciembre 2022 al 01 de enero 2023 
+description: Horóscopo semanal leo 26 de diciembre 2022 al 01 de enero 2023. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2022-12-19
+ogimg: /images/zodiac/semanal_leo.png#2022-12-26
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-12-19'
+ lastmod: '2022-12-26'
 ---
 
 
 
-## Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca Leo.
+## Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
 
-No dejes que nadie defina quien eres, no dejes que nadie te de un empujón ahora porque en realidad, no lo necesitas, simplemente tienes que mentalizarte de lo que puedes llegar a conseguir tú, por ti mismo, independientemente de si te quieren ayudar o no. 
- sino que aprovechan tus estados bajos de ánimo para que te vuelvas aún más loco, para que te desequilibres mucho más.
-Mercurio continúa retrógrado en tu sector de hogar y familia, por lo que tendrás una gran oportunidad para eliminar el desorden, trabajar en proyectos domésticos y redecorar. Sin embargo, evitar iniciar un gran proyecto de remodelación por el momento. Planea, pero espera hasta que Mercurio comience a avanzar una vez más, el 21 de diciembre, antes de seguir adelante. Hay buenas noticias en el campo del romance con Júpiter entrando a Libra el viernes. Realmente estarás en tu elemento con esta positiva influencia mejorando tu confianza y alegría de vivir durante todo el próximo año.
+No te calientes Leo, sal de todo lo que te cause malestar, respira aire fresco y vuelve a tu sitio. La gente no te conoce, está claro. Te estás tragando muchas cosas por tener un poco de educación pero el día menos pensado todo va a estallar como una bomba. Y se van a quedar en shock seguro. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces. Sabes lo que te ha traído el no callarte… Pero no Leo, tienes que marcar tu terreno como sea, tienes que hacerte valer y que dejar claro cual es tu territorio, cual es tu línea, cuales son tus límites. Hay personas que creen que pueden sobrepasarlos, y lo piensan porque no han visto tu peor lado. Esta semana como sigan así va a arder Troya. Y sí, tienes todo el derecho a hacerlo. A ti no te chista nadie, a ti no te vacila nadie, a ti no te manda nadie. Y si sienta mal que siente mal. No es tu problema. Pero como consejo, en vez de estallar una sola vez, hazlo poquito a poco, no te calles nada nunca más. Por tu bien Leo, porque después quedas tu como loco/a y eso no… Tú no eres ningún loco/a, pero tampoco eres imbécil. De eso nada.
+Frena cualquier deseo de gastar bajo impulso y en vez considera invertir dinero extra en áreas más rentables, como propiedades o estudio. ¿Escucharás el llamado de la aventura cuando el Sol y Mercurio te animen a aprender de nuevas experiencias? Los viajes, trabajar en el extranjero y la oportunidad de ampliar tu influencia podrían llamarte la atención. En el campo de desarrollo profesional, frena tus impulsos y ve con la corriente durante las próximas semanas conforme una oportunidad laboral podría perder su atractivo.
 
 ## Dinero
 
-Esta semana es sobre la actividad que hay en tu sector de deuda. Si has estado pensando en formular un plan de pago con respecto a algunas facturas vencidas, ponlo en marcha tan pronto como puedas. Si necesitas solicitar una nueva tasa de interés en tu tarjeta de crédito, tienes el suficiente apoyo para hacerlo. El Universo insiste en que actúes y no dejes las cosas al azar. No es cosa de risa.
+Estás pasando por una transformación enorme, especialmente en lo relativo a tu apariencia y comportamiento. Te estás convirtiendo en quién siempre estuviste destinado/a a ser. Mientras tanto, los aspectos agitan las cosas en lugares que hayan quedado obsoletos. Esto podría incluir tu hogar. El gastar un poco para arreglar tu casa, oficina o incluso iniciar un nuevo negocio hace maravillas para tu confianza. Prepárate para asumir el papel que te corresponde.
