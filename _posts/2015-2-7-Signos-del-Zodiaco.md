@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 26 de diciembre 2022
-description: Horóscopos del dia de hoy 26 de diciembre 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 27 de diciembre 2022
+description: Horóscopos del dia de hoy 27 de diciembre 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-12-26
+ lastmod: 2022-12-27
 ---
-Tus originales ideas reciben una buena reacción cuando las compartes mientras Mercurio se encuentre en Acuario durante las próximas semanas. Con Júpiter retrógrado, presenta de nuevo aquellos conceptos en los que firmemente crees. Esta noche, escucha a tu intuición mientras la Luna en Cáncer forma trígono con Neptuno. Te dirige hacia la dirección correcta.
+Canaliza tu energía mental mientras Mercurio transita en Cáncer. Ahora es el momento adecuado para permitirte aceptar nuevos pensamientos y sentimientos. Las grandes ideas echan raíces en condiciones fértiles como éstas. ¿Podría la noche volverse un poco loca cuando la Luna conjunte al impredecible Urano? Sal a echarle un vistazo a la locura (o tal vez no).
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
