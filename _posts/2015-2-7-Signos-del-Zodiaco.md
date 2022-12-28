@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 27 de diciembre 2022
-description: Horóscopos del dia de hoy 27 de diciembre 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 28 de diciembre 2022
+description: Horóscopos del dia de hoy 28 de diciembre 2022 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2022-12-27
+ lastmod: 2022-12-28
 ---
-Canaliza tu energía mental mientras Mercurio transita en Cáncer. Ahora es el momento adecuado para permitirte aceptar nuevos pensamientos y sentimientos. Las grandes ideas echan raíces en condiciones fértiles como éstas. ¿Podría la noche volverse un poco loca cuando la Luna conjunte al impredecible Urano? Sal a echarle un vistazo a la locura (o tal vez no).
+Hoy, la vida es muy ordenada bajo la increíblemente eficiente Luna en Virgo. Venus, el astro del amor, también se encuentra en Virgo, dándonos tendencia a juzgar a las personas a tan sólo unos minutos de haberlas conocido. A veces es bueno aplicar la prueba del tiempo cuando los veredictos son firmes y la información es escasa.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
