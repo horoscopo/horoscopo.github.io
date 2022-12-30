@@ -1,18 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Piscis Diciembre 2022 
+title: Horoscopo Piscis Enero 2023 
 permalink: /horoscopo-mensual/amp/piscis/
 normallink: /horoscopo-mensual/piscis/
 home: FALSE
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Piscis_mes.png#2022-11-30
+ogimg: /images/mes/Piscis_mes.png#2022-12-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-11-30'
+ lastmod: '2022-12-30'
 ---
 
 
-El 7 de diciembre, la Luna conjunta con Venus y forma trígono con Neptuno, encendiendo tu espíritu navideño brillante y tempranamente. La Luna Llena del 8 de diciembre te pone bajo el ojo público. Vístete de gala, sonríe y entrega tus regalos con gran espíritu de celebración. Sin importar la fiesta en la que te encuentres, nadie puede difundir la paz como tú lo haces. Tanto amigos como conocidos te tratarán como la autoridad y líder que eres durante la Luna Nueva del 23 de diciembre. Di lo que quieras hacer y dónde quieres hacerlo y ve cómo todos hacen que ocurra. 
+Muchas oportunidades para ganar dinero podrían aparecérsete a principios de mes, especialmente alrededor de la Luna Llena del 6 de enero. Tu nivel de ingreso podría también mejorar. Al principio podrías sentir como si estuvieras beneficiando a los demás más que a ti. Ve despacio y disponte a seguir esforzándote un poco más de lo normal. El dinero es de nuevo una gran motivación, especialmente después de la Luna Nueva del 21 de enero. Tienes una energía inagotable y puedes lograr un gran progreso. Eso sí, no permitas que te vuelva a la locura o aleje a tus amigos. Si sientes que la histeria se está apoderando de ti, habla con una persona mayor o más sabia. Tu vida amorosa adquiere un brillo mágico cuando Venus forma trígono con Urano el 28 de enero.      

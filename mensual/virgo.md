@@ -1,24 +1,28 @@
 ---
 layout: horoscopos
-title: Horoscopo Virgo Diciembre 2022
-description: El Horóscopo Diciembre de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Virgo Enero 2023
+description: El Horóscopo Enero de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/virgo/
 amplink: /horoscopo-mensual/amp/virgo/
 home: FALSE
-keywords: horóscopo diciembre, horoscopos en español, horóscopo Virgo diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Virgo, Tarot, Astrologia, Zodíaco, Virgo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo enero, horoscopos en español, horóscopo Virgo enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Virgo, Tarot, Astrologia, Zodíaco, Virgo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/virgo_mes.png#2022-11-30
+ogimg: /images/mes/virgo_mes.png#2022-12-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-11-30'
+ lastmod: '2022-12-30'
 ---
 
 
- > Virgo, más vale que dosifiques tus fuerzas y sepas gestionarlas bien, porque te espera un diciembre muy intenso en el que no pararás. Lo bueno es que no será en vano, ya que verás los resultados y eso te empujará a seguir hacia delante con toda tu pasión puesta en el asador.
+ > Virgo, déjate ver este es el primer mes del año, porque sacarás mucho partido a todos los eventos a los que vayas, ya sea en el amor y en el terreno laboral. Manejarás tu vida realmente como deseas y eso es perfecto para que empieces 2023 con buen pie. Aprovecha las oportunidades que se van presentando tomándote el tiempo para estudiarlas, lo que mantiene tu evolución por buen camino. No esperes grandes sorpresas en enero y, simplemente, sigue avanzando a tu ritmo, con una organización lenta y segura para atar todos los cabos sueltos.
 
 
 
-La Luna conjunta con Júpiter el 3 de diciembre, cuando puede que trates de hacerlo todo a la vez. Vuelve a considerar este plan un día más tarde, cuando Mercurio cuadre a Júpiter el 4 de diciembre. No tendrás que enfrentarte a obstáculos o a riñas. Haz lo que quieras, sonríe y sé tolerante. Puede que tu mente se centre en dinero alrededor de la Luna Llena del 8 de diciembre, pero para entonces, la temporada de fiestas ya habrá penetrado en tu corazón para permitirte pasártela magníficamente sin importar qué suceda. Comparte toda la bondad que se atraviese en tu camino, y aún más la buena suerte que siempre te sigue. Por su parte, la Luna Nueva del 23 de diciembre te eleva para que tengas éxito en el trabajo y luego disfrutes de pasar tiempo con amigos
+Este será un mes interesante para tí, estimable Virgo, puesto que el sol transita por tu signo y pone más atención y nuevas actividades en tu camino. El 5 de enero será particularmente emocionante gracias a la alianza cósmica entre el sol y el revolucionario Urano, algo que está destinado a sacudir un poco las cosas en tu vida personal. Esta energía es ideal para que actúes fuera de guion, por lo que no debes sentirte culpable si eliges tener una aventura antes que cumplir con tus responsabilidades, aún si es por un solo día.
+La actividad lunar en Escorpión durante el día 15 trae intensidad a tus relaciones, lo que te ayuda a conectar con tu pareja o tu amistad más cercana de formas profundas. Sin embargo, estas vibras también podrían hacer que actúes de forma sigilosa y reservada, lo que causa que te alejes de tus seres queridos. Si te encuentras transitando un camino solitario durante este evento lunar, asegúrate de estar usando este tiempo para aprovechar el amor propio. Venus, tu planeta regente, se encuentra cómodo junto al sanador asteroide Chirón en el sector de tu carta astral que rige el subconsciente. Esto puede actuar como un bálsamo cósmico para lo que sea que te aqueja internamente.
+Sentirás el cambio cuando el sol entre en Acuario el 21 de enero, lo que activa el sector de tu carta astral que rige las finanzas, tu sensación de seguridad y el ámbito de lo material. Mientras la ubicación solar es propicia al momento de tomar decisiones informadas sobre las finanzas, reestructurar el presupuesto y negociar un mejor salario, esta vibra también podría tornarse un poco más apretada. Recuerda controlar todos los días tu cuerpo y tu mente para asegurarte de no sufrir ningún síntoma físico de estrés, en especial si el dinero te causa preocupaciones.
+Días destacados. 1, 5, 11
+Días desafiantes: 15, 22, 27

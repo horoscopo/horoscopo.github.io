@@ -1,18 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Cáncer Diciembre 2022 
+title: Horoscopo Cáncer Enero 2023 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/Cáncer_mes.png#2022-11-30
+ogimg: /images/mes/Cáncer_mes.png#2022-12-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-11-30'
+ lastmod: '2022-12-30'
 ---
 
 
-El 7 de diciembre es un día lleno de amor y sueños, cuando la Luna conjunta a Venus y también forma trígono con Neptuno. Goza del espíritu navideño y niégate a permitir que te apresuren o te critiquen. La Luna Llena del 8 de diciembre podría estar llena de gente yendo y viniendo y actividades que puede que no te emocionen totalmente. Sin embargo, te encantará tener contacto con tu familia junto a todos esos tradicionales adornos navideños. Descansa más de lo normal y tómate tus vitaminas alrededor de la Luna Nueva del 23 de diciembre, especialmente si tu familia o ciertos asuntos hogareños están drenando tu energía y haciendo que te sientas mayor de lo que eres. Ten bondad con tu propio ser. 
+La Luna Llena del 6 de enero regresa tu enfoque hacia tu hogar. Claro, es una responsabilidad y a veces una carga, pero principalmente, es el lugar donde vive y pasas tus horas más íntimas. Recupera una parte de toda esta magia, hazla únicamente tuya y disfruta de hacerlo. La Luna Nueva del 21 de enero brilla sobre tu entorno personal y amistoso. Alguien que no has visto en mucho tiempo podría reaparecer con grandes historias que contar. Disfruta de tu gran poder y siéntete capaz de todo mientras la Luna conjunte a magnánimo Plutón en Capricornio el 28 de enero. Más tarde, el retroceso de Mercurio desacelera la velocidad del mundo a tu propio ritmo.

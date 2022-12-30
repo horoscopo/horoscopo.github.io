@@ -1,18 +1,22 @@
 ---
 layout: amp
-title: Horoscopo Escorpio Diciembre 2022 
+title: Horoscopo Escorpio Enero 2023 
 permalink: /horoscopo-mensual/amp/escorpio/
 normallink: /horoscopo-mensual/escorpio/
 home: FALSE
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Escorpio_mes.png#2022-11-30
+ogimg: /images/mes/Escorpio_mes.png#2022-12-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-11-30'
+ lastmod: '2022-12-30'
 ---
 
 
-La Luna forma sextil con Saturno el 3 de diciembre, facilitando tu trato con cualquier persona difícil que se atraviese en tu camino. Haz tus compras navideñas con renovados coraje y confianza. Permite que la Luna Llena del 8 de diciembre ilumine tu vida amorosa y tal vez te traiga una nueva, cariñosa y amable persona. Puede que tal no se vuelva tu amante de inmediato, pero a veces, el amor te encuentra antes de que tú lo encuentres. Más tarde, la Luna Nueva del 23 de diciembre te toca en un lugar profundo y privado. Entonces, podrías recibir cierta información que te enseñe una lección importante y te permita hacerle frente a la gente con mayor comodidad; especialmente en público.
+Es momento de brillar, estimable Escorpio, ya que el sol atraviesa tu signo y aumenta tu popularidad, seguridad y niveles de energía. Con la temporada a toda marcha, estarás pensando sobre qué es lo que te gustaría manifestar en este nuevo año y qué necesitarás para lograrlo. Utiliza esta energía cuando el estructurado Saturno se une al sol el 4 de enero para diseñar una serie de razonables objetivos que te gustaría cumplir en cada mes del año. El universo quiere abrirte las puertas ahora mismo, pero necesitarás recordar que solo el trabajo duro, la planificación y la dedicación son las maneras más seguras de alcanzar tus metas.
+Mientras que durante casi todo el mes puede que te la pases en eventos sociales, planeando el futuro y pasándola bien, sentirás un giro cuando el sol cambia de signo e ingresa a las aguas de Piscis el 18. Puede que lo más sabio sea analizar tus hábitos financieros durante las próximas semanas. Puede que también quieras descargarte una aplicación y registrar tus gastos para llevar las cuentas de tus compras. Si las cosas no están tan equilibradas, sobre todo si se trata de gastar dinero en almuerzos o salidas nocturnas con tus amistades, de ahora en más divide la cuenta de forma equitativa, antes de dejar de salir con las personas que quieres.
+El mes termina de forma muy positiva cuando la luna en Escorpio atraviesa Mercurio y Saturno el 28 enero. Más vibras positivas fluyen cuando Venus conecta con los nodos lunares, lo que te ayuda a ver tu camino con más claridad. Si estás en una relación, este puede que sea un buen momento para ti y tu media naranja para conversar sobre su futuro como pareja, y así poder avanzar hacia esa dirección.
+Días destacados: 7, 19, 24
+Días desafiantes: 15, 21, 22
