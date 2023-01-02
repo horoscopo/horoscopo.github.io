@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 26 de diciembre 2022 al 01 de enero 2023 
-description: Horóscopo semanal sagitario 26 de diciembre 2022 al 01 de enero 2023. Por muy desconfiado y duro que parezcas ser, al final acabas confiando Sagitario y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
+title: sagitario 02 de enero 2023 al 08 de enero 2023 
+description: Horóscopo semanal sagitario 02 de enero 2023 al 08 de enero 2023. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada Sagitario. 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2022-12-26
+ogimg: /images/zodiac/semanal_sagitario.png#2023-01-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-12-26'
+ lastmod: '2023-01-02'
 ---
 
 
 
-## Por muy desconfiado y duro que parezcas ser, al final acabas confiando Sagitario y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
+## Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada Sagitario. 
 
-No sabes muy bien qué hacer con tus sentimientos, si guardarlos en un cajón y esperar a que se tranquilicen o si sacarlos y dejan que fluyan como locos.
-Las opciones de ocio pueden ofrecer algunos encuentros interesantes y nuevas experiencias que podrían darle optimismo a los próximos días. Sin embargo, tal vez también necesites un momento de tranquilidad para tomar una decisión clave. Esto puede permitirte apreciar los pros y contras, y averiguar qué es lo mejor para ti y tu familia. Tus instintos también pueden ser una guía útil en esta situación. Mientras tanto, una conversación muy interesante podría ser el comienzo de una nueva amistad que te brinda apoyo.
+Últimamente sientes que las decisiones que has tomado no han sido las más acertadas pero todo se puede arreglar. 
+Como si, por momentos, no fueras capaz de encontrar salida a tus preocupaciones, a todo ese estrés mental, a ese círculo en el que te has metido solo.
+Tu lado creativo está en vigor, con optimistas energías animándote a mostrar tus habilidades. Aunque Júpiter continúa retrógrado en Virgo, bien vale la pena seguir adelante incluso si los frutos de tu trabajo se presentan más adelante. Al mismo tiempo, puedes tener disposición a experimentar un nuevo comienzo en materia de salud y bienestar. Si se te está dificultando decidir qué es lo mejor para ti, considera contratar a un entrenador personal que pueda ayudarte a alcanzar tus objetivos y evitar caídas.
 
 ## Dinero
 
-Cierta actividad en tu sector de inversiones compartidas y propiedad sólo puede significar una cosa. Lo que posees puede llegar a la subasta conforme tratas de recaudar algo del dinero que necesitas. Asegúrate de que tú y tu pareja estén al tanto de los detalles de la venta, ya que es posible que las consecuencias sean demasiado graves como para arriesgar más. Tanto tu pareja como tu familia están contando en que tomarás las decisiones correctas.
+Esta semana estás considerando tu apariencia personal y reconsiderando la forma en la que te expones al mundo. Esto no es sólo cosmético, se trata de un serio replanteamiento de la siguiente fase de tu vida. Un vestuario profesional te ayudará a sentirte digno/a de una categoría tributaria más alta. Si tienes alguna pregunta acerca de lo que es apropiado, cultiva a los de arriba como mentores. Los aspectos indican que te reunirás con el éxito.

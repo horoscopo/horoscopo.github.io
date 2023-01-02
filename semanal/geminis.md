@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 26 de diciembre 2022 al 01 de enero 2023 
-description: Horóscopo semanal geminis 26 de diciembre 2022 al 01 de enero 2023. Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
+title: geminis 02 de enero 2023 al 08 de enero 2023 
+description: Horóscopo semanal geminis 02 de enero 2023 al 08 de enero 2023. Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Géminis, por qué te lo callas y te lo llevas callando tanto tiempo? 
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2022-12-26
+ogimg: /images/zodiac/semanal_geminis.png#2023-01-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-12-26'
+ lastmod: '2023-01-02'
 ---
 
 
 
-## Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
+## Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Géminis, por qué te lo callas y te lo llevas callando tanto tiempo? 
 
-Mira Géminis, tú ahora tienes que ser tu prioridad, y el resto también debería tratarte como eso. No puedes conformarte siempre con estar en segundo lugar, no puedes conformarte con lo que tienes o con lo que parece que la vida te da. Tú eliges tu vida sí, y tú también cometes errores al escoger caminos que al final no estaban hechos para ti. Pero de eso se trata ¿no? De aprender, lo más rápido que puedas, y de desechar cuando algo no funciona. Hazte valer Géminis, hazte valer con las personas que te rodeas, tienen que hacer un esfuerzo por tenerte contento, por tenerte feliz… No te mereces menos. No puedes ser siempre la persona que ayuda al resto mientras recibes una cuarta parte, o a veces incluso nada de vuelta; no puedes ser quien espera los mensajes de regreso, quien espera que las promesas se cumplan… En serio, siempre estás haciendo todo lo posible para que las personas que están cerca de ti se sientan cómodas a tu lado, pero no siempre recibes lo mismo del resto. Si no hay un interés real empieza a mandar a la mierda, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… No te conformes con los segundos lugares de nada. Ahora y siempre mereces ser una prioridad.
-La presencia del sol en tu sector profesional te anima a pensar las cosas con calma, especialmente si has evitado hacerlo. Esta semana, la conexión entre el conversador Mercurio y el ejemplar Saturno sugiere que, posiblemente, te obliguen a tomar una decisión y deberás tener la información correcta a la mano. Sin embargo, a pesar de la posibilidad de confusión, puede que descubras que tus pensamientos se ordenan de manera muy constructiva. El viernes, una encantadora alineación entre el seductor Venus y el jovial Júpiter puede ser perfecta para una divertida salida de noche, en especial con tus colegas del trabajo.
+A veces quieres llegar al fondo de cualquier cosa Géminis, pero el problema es que también a veces, eso, no te hace ningún bien. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Géminis. De verdad, a veces es mejor tener paz que tener razón. ¿Por qué no tratas de pasar del mal rollo? ¿Por qué no te alejas de lo que te pone los nervios de punta? Quizás debas dar algunas lecciones y quizás deberías hacerte de rogar un poco. Al menos para que el resto despierte. Muchos no saben lo que se pierden al perder a Géminis, eh. Esta semana deberías hacerte valer un poco, deberías recordarte todas las lecciones que ya llevas aprendidas y dejar de repetir patrones todo el tiempo. Sé valiente y no te engañes a ti mismo. Cuando haces algo por alguien no esperas que hagan lo mismo por ti porque lo haces de corazón pero tampoco esperas que no muevan ni un dedo. Tú sabes de sobra lo que funciona y lo que no funciona Géminis así que, por favor, empieza a ser un poco más productivo y deja de perder el tiempo. Ve a por lo que interesa, a por lo que aporta, a por lo que te hace mejor. No vuelvas a dejar tus planes de lado por nada ni por nadie.
+Es momento de tomar en serio tu salud y tu rutina de bienestar. La Luna Llena de esta semana en este sector podría coincidir con un fuerte deseo de cumplir con tus metas con respecto a dieta y ejercicio. Este también es un buen momento para esto, ya que podrías tener más posibilidades de cumplirlas. El regreso de Venus a tu sector de romance podría hacer que tengas una relación mucho mejor con alguien de la que tenían en el pasado. Su relación podría florecer en las próximas semanas, lo que podría ser muy satisfactorio.
 
 ## Dinero
 
-Este período es acerca de cómo enfocar tus emociones hacia una empresa que produzca dinero de algún tipo. Puede sonar difícil, pero podría sorprenderte lo fácil que es. Tu vida emocional está justo en la superficie y en busca de una manera de expresarse. Esto seguro es muy bueno si eres del tipo creativo, ¡por lo que aprovecha y haz algo con ello!
+Este período es acerca de los desafíos a los que el Universo nos lleva con todo tipo de emociones, algunas de los cuales pueden ser útiles cuando se trata de hacer dinero. Tu cerebro está liberando algunos de tus materiales más creativos, por lo que ten a la mano lápiz y papel para anotar lo que experimentas. ¡Conviértelo en algo especial y ponte a trabajar en venderlo para obtener el máximo beneficio posible!

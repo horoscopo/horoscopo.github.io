@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 26 de diciembre 2022 al 01 de enero 2023 
-description: Horóscopo semanal piscis 26 de diciembre 2022 al 01 de enero 2023. Hay cosas que ya no funcionan Piscis, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
+title: piscis 02 de enero 2023 al 08 de enero 2023 
+description: Horóscopo semanal piscis 02 de enero 2023 al 08 de enero 2023. Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2022-12-26
+ogimg: /images/zodiac/semanal_piscis.png#2023-01-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-12-26'
+ lastmod: '2023-01-02'
 ---
 
 
 
-## Hay cosas que ya no funcionan Piscis, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
+## Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
 
-Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca Piscis. La gente se cree muchas veces que no sufres, que eres demasiado frío en ocasiones por no mostrar tus verdaderos sentimientos, por no abrirte en canal como hacen otros. Pero la verdad no es esa. Estás cansado de dar, de intentar, de dejar de lado tus derechos porque los demás no se tomen las cosas mal, incluso de arrastrarte. De verdad que estás harto de todo eso. A veces hay que ceder Piscis pero el problema contigo es que tu das la mano y se toman todo el brazo. Empieza a imponerte un poco. Una cosa es que seas bueno, otra cosa es que te puedan sacar hasta la sangre por esto. No te enfades contigo mismo si no has sabido decir todo lo que piensas, aún tienes posibilidad de remediarlo, de hecho, necesitas remediarlo. No puedes pretender que nada cambie si tú no cambias Piscis, a veces las decisiones más complicadas son las que al final nos harán libres. Y necesitas sentir eso ahora. Disfruta de la semana y recuerda que eres como eres, que nadie puede hacerte cambiar pero que tú tampoco podrás cambiar a nadie. Conecta con quien conecta contigo.
-El Sol en un sector sensible de tu carta astral podría ser un llamado de atención para examinar tus pensamientos y sentimientos más profundos. Esta también es una oportunidad para dejar ir aquellos patrones de creencias que pueden estar limitando tu habilidad de tener éxito como te gustaría. Sin embargo, cualquier cambio que desees hacer no sucederá de la noche a la mañana. Tal vez requiera un período de introspección para comprender realmente cuáles son los obstáculos interiores. Aun así, reflexionar podría resultar muy liberador.
+No es que estés cambiando Piscis, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo, prefieres, digamos, no arriesgar. La gente a menudo es muy egoísta, y cree que porque tengas una actitud diferente, eres tú quien está fallando, y no. El problema es que no eres estúpido/a y que si estás cambiando es porque ya has recorrido el mismo camino varias veces y sabes que en el fondo, y en estos momentos ya no te llevará a ningún sitio. A lo largo de tu vida has perdonado cosas que sabes que a ti jamás te perdonarían y por eso, te has sentido impotente muchas veces, porque en el fondo, y en tu interior, eso es fallarte a ti mismo/a, por eso estás cambiando o lo estás intentando hacer a muerte, porque no es algo bueno para ti, ni más ni menos. Los que te quieran y estén a tu lado deben entenderlo, y los que te tachen de egoísta sabes que no están mirando por tu bien si no por lo que les interesa a ellos… Esta semana te vas a sentir más fuerte que nunca, aunque lo hagas solo/a, te vas a sentir libre, vas a sentir que puedes con todo. Te lo has prometido a ti mismo/a…
+¡Esta semana estás de humor para la acción! Ir de compras e invertir tu dinero arduamente ganado también podría ser muy divertido. Si es que no te has dado algunos lujos o un día de spa recientemente, es momento de hacerlo. Mereces darte un capricho esta semana. Saturno comienza a avanzar en tu sector de romance, lo que podría ver a una relación nueva tomar un camino más positivo. Sin embargo, tendrás que considerar si vale la pena invertir tu tiempo y energía en ella.
 
 ## Dinero
 
-Los planetas en tu sector de comunicación esta semana te hacen más parlanchín/a de lo normal. Tanto tu situación económica, así como tu trabajo pueden depender de tu capacidad para transmitir tu mensaje de una manera concisa y poderosa. Pero ya que un aspecto negativo constriñe tu trabajo día a día, lo mejor es encontrar un equilibrio entre tu necesidad de destacar y tu necesidad de ganar dinero. El trabajo en equipo y el equilibrio van de la mano.
+Es posible que necesites proteger tu salud esta semana. Si la comunicación es muy importante para ti, puede ser necesario que tengas que proteger tu voz. Tantas llamadas, textos y correos electrónicos; tan poco tiempo. El poder manejar tus citas se convierte en algo fundamental, especialmente en los aspectos actuales. Tu vida social está estallando. Asegúrate de tener por el mango el saber cómo, quién, qué, cuándo y dónde obtener los mejores resultados financieros.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 26 de diciembre 2022 al 01 de enero 2023 
-description: Horóscopo semanal cancer 26 de diciembre 2022 al 01 de enero 2023. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
+title: cancer 02 de enero 2023 al 08 de enero 2023 
+description: Horóscopo semanal cancer 02 de enero 2023 al 08 de enero 2023. Retírate del mundo artificial Cáncer, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2022-12-26
+ogimg: /images/zodiac/semanal_cancer.png#2023-01-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2022-12-26'
+ lastmod: '2023-01-02'
 ---
 
 
 
-## Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
+## Retírate del mundo artificial Cáncer, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
 
-Te van a echar de menos Cáncer, y te van a echar de menos porque te vas a ir alejando, poco a poco, despacio, sin hacer demasiado ruido, sin peleas ni dramas… Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso. No te sientas mal por nada, que se sienta mal el resto. Perderán a una persona excepcional. Te duele sí, pero tu coraje también puede con eso. Has estado frente a gente, justo delante, y parece que no importabas nada y sin embargo, cuando te empieces a alejar te buscarán de nuevo… Pero eso es un tira y afloja que no te conviene, alargar situaciones incómodas, avanzar dos pasos pero volver a retroceder tres… Eso es una mierda… Esta semana necesitas mucho silencio Cáncer, sí, mucho, aprender a poner la mente en blanco, aprender a marcharte de los sitios donde no estás a gusto, de los lugares que te están restando todo el tiempo, del dolor… Necesitas meditar, conectar con tu mente, que no te controle a ti y se vuelva loca por un arrebato. Cuando vuelvas a soltar esas cadenas que te atrapan te echarán de menos, mucho, se darán cuenta de lo que de verdad perdieron, de lo que ya no es recuperable, de lo que se ha marchado a buscar algo mejor… Empieza a construir, quizás vuelvas, pero quizás no. Feliz semana.
-Te cuesta tomar una decisión cuando aparecen oportunidades de oro. Ya sea que busques más opciones de recreación, una forma de acercarte a la persona que te interesa o una oportunidad de viajar, elige lo que más te convenga. Es posible que no estés de acuerdo con tu jefe o una figura de autoridad y debas cuidar el modo en que interactúas con él o ella. Es mejor buscar la honestidad antes que decir una mentira inocente, porque podrían descubrirte. Más allá de eso, el mundo es tu ostra.
+A veces dejas las puertas medio abiertas Cáncer, crees que puedes cerrarlas cuando quieras, crees que eres lo suficientemente fuerte como para mandarlo todo a la mierda cuando desees… Pero no es del todo así. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Cáncer porque no eres así. Parece que tuvieras miedo de cerrar definitivamente algunos capítulos, parece que aún te aferrarás a que pueden tener solución. Está bien Cáncer, aférrate a lo que quieras, pero que eso no te afecte en tu día a día. Tienes que ver las cosas por ti mismo para dejarlas a un lado o continuar con ellas, así que, tropieza, date la hostia necesaria que te haga abrir los ojos pero, mientras tanto, que no te frene. Sacúdete un poco de las cosas negativas que pululan a tu alrededor, no pagues un precio alto por mantener algo que ni siquiera sabes si quieres mantener. Si necesitas pensar, márchate, desaparece unos días, vete solo y pasa de todo. En serio, algo te está reteniendo a quedarte, algo te está impidiendo continuar hacia delante, ten cuidado Cáncer, con las decisiones que tomas, y con dejar puertas medio abiertas por miedo a que se cierren del todo…
+Una nueva dirección te hace señas, pero a pesar de querer investigar más, puede que tengas dudas al respecto. Es posible que el deseo de seguir con lo conocido y fiable te impida explorar nuevas opciones. Dejar que tu imaginación te lleve a nuevos horizontes podría ser suficiente con tal de obtener el impulso que necesitas. En el plano de romance, tu actual historia de amor podría profundizarse y volverse más fascinante y seductora, algo que puede que disfrutes. Este fin de semana, espera lo inesperado.
 
 ## Dinero
 
-Se te está dando una oportunidad importante esta semana. Esto te da tiempo a tomar cargo de lo que debes y encontrar una manera amistosa para pagarlo. Sin embargo, tus amigos y grupos sociales no pueden ser el mejor lugar para encontrar información financiera confiable. Sin ofenderlos, tienen objetivos diferentes a los tuyos. Es posible que debas seguir tu propio camino.
+Tienes algunos retos esta semana. Aunque te sientas con energía para tenerlo todo listo, puede que tengas algunos problemas en tu lugar de trabajo o cuando se trata de tus grandes metas profesionales. Este pequeño contratiempo es sólo eso. Se moverá hacia el pasado casi tan pronto como suceda. El Universo te pide que seas audaz y te enfoques ahora.
