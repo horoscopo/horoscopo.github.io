@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 05 de enero 2023
-description: Horóscopos del dia de hoy 05 de enero 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 06 de enero 2023
+description: Horóscopos del dia de hoy 06 de enero 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-01-05
+ lastmod: 2023-01-06
 ---
-Tienes encanto gracias a tu ingenio y porque estás al tanto, además de que dejarás a todos con la duda bajo la Luna Nueva en Géminis. Algunas personas podrían salir de su concha bajo la Luna en Cáncer de esta noche mientras que otras inhibidas podrían estar preparándose para hacerlo. Puede que seas tú quien tenga que dar el primer paso.
+Se dice que la intuición es más poderosa que el intelecto. No hay mejor momento que durante el sextil entre el Sol y Neptuno para probar esa teoría. Esta noche, revela honestamente lo que quieres bajo la Luna en Acuario. Es mucho mejor que pretender no necesitar algo o a alguien.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
