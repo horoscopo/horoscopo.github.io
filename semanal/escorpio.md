@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: escorpio 02 de enero 2023 al 08 de enero 2023 
-description: Horóscopo semanal escorpio 02 de enero 2023 al 08 de enero 2023. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
+title: escorpio 09 de enero 2023 al 15 de enero 2023 
+description: Horóscopo semanal escorpio 09 de enero 2023 al 15 de enero 2023. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2023-01-02
+ogimg: /images/zodiac/semanal_escorpio.png#2023-01-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-01-02'
+ lastmod: '2023-01-09'
 ---
 
 

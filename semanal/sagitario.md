@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: sagitario 02 de enero 2023 al 08 de enero 2023 
-description: Horóscopo semanal sagitario 02 de enero 2023 al 08 de enero 2023. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada Sagitario. 
+title: sagitario 09 de enero 2023 al 15 de enero 2023 
+description: Horóscopo semanal sagitario 09 de enero 2023 al 15 de enero 2023. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada Sagitario. 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2023-01-02
+ogimg: /images/zodiac/semanal_sagitario.png#2023-01-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-01-02'
+ lastmod: '2023-01-09'
 ---
 
 

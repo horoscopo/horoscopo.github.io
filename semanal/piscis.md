@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: piscis 02 de enero 2023 al 08 de enero 2023 
-description: Horóscopo semanal piscis 02 de enero 2023 al 08 de enero 2023. Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
+title: piscis 09 de enero 2023 al 15 de enero 2023 
+description: Horóscopo semanal piscis 09 de enero 2023 al 15 de enero 2023. Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2023-01-02
+ogimg: /images/zodiac/semanal_piscis.png#2023-01-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-01-02'
+ lastmod: '2023-01-09'
 ---
 
 

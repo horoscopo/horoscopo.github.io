@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: tauro 02 de enero 2023 al 08 de enero 2023 
-description: Horóscopo semanal tauro 02 de enero 2023 al 08 de enero 2023. Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
+title: tauro 09 de enero 2023 al 15 de enero 2023 
+description: Horóscopo semanal tauro 09 de enero 2023 al 15 de enero 2023. Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2023-01-02
+ogimg: /images/zodiac/semanal_tauro.png#2023-01-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-01-02'
+ lastmod: '2023-01-09'
 ---
 
 

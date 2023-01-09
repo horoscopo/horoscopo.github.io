@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: capricornio 02 de enero 2023 al 08 de enero 2023 
-description: Horóscopo semanal capricornio 02 de enero 2023 al 08 de enero 2023. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
+title: capricornio 09 de enero 2023 al 15 de enero 2023 
+description: Horóscopo semanal capricornio 09 de enero 2023 al 15 de enero 2023. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2023-01-02
+ogimg: /images/zodiac/semanal_capricornio.png#2023-01-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-01-02'
+ lastmod: '2023-01-09'
 ---
 
 

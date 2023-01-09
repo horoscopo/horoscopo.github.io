@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: leo 02 de enero 2023 al 08 de enero 2023 
-description: Horóscopo semanal leo 02 de enero 2023 al 08 de enero 2023. La guerra que tienes dentro está deseando encontrar un poco de paz Leo, de verdad, ya no puede aguantar tanto. ¿Qué pasa con tus metas, con tus objetivos? Primero debes ponerte a ti mismo ahora. ¿No te acuerdas de cuantas cosas has rechazado por amor? ¿o de cuanto has dejado de lado?
+title: leo 09 de enero 2023 al 15 de enero 2023 
+description: Horóscopo semanal leo 09 de enero 2023 al 15 de enero 2023. La guerra que tienes dentro está deseando encontrar un poco de paz Leo, de verdad, ya no puede aguantar tanto. ¿Qué pasa con tus metas, con tus objetivos? Primero debes ponerte a ti mismo ahora. ¿No te acuerdas de cuantas cosas has rechazado por amor? ¿o de cuanto has dejado de lado?
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2023-01-02
+ogimg: /images/zodiac/semanal_leo.png#2023-01-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-01-02'
+ lastmod: '2023-01-09'
 ---
 
 

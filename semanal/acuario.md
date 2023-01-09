@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: acuario 02 de enero 2023 al 08 de enero 2023 
-description: Horóscopo semanal acuario 02 de enero 2023 al 08 de enero 2023. Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así Acuario, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
+title: acuario 09 de enero 2023 al 15 de enero 2023 
+description: Horóscopo semanal acuario 09 de enero 2023 al 15 de enero 2023. Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así Acuario, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2023-01-02
+ogimg: /images/zodiac/semanal_acuario.png#2023-01-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-01-02'
+ lastmod: '2023-01-09'
 ---
 
 

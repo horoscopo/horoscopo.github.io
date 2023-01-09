@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: cancer 02 de enero 2023 al 08 de enero 2023 
-description: Horóscopo semanal cancer 02 de enero 2023 al 08 de enero 2023. Retírate del mundo artificial Cáncer, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
+title: cancer 09 de enero 2023 al 15 de enero 2023 
+description: Horóscopo semanal cancer 09 de enero 2023 al 15 de enero 2023. Retírate del mundo artificial Cáncer, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2023-01-02
+ogimg: /images/zodiac/semanal_cancer.png#2023-01-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-01-02'
+ lastmod: '2023-01-09'
 ---
 
 

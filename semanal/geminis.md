@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: geminis 02 de enero 2023 al 08 de enero 2023 
-description: Horóscopo semanal geminis 02 de enero 2023 al 08 de enero 2023. Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Géminis, por qué te lo callas y te lo llevas callando tanto tiempo? 
+title: geminis 09 de enero 2023 al 15 de enero 2023 
+description: Horóscopo semanal geminis 09 de enero 2023 al 15 de enero 2023. Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Géminis, por qué te lo callas y te lo llevas callando tanto tiempo? 
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2023-01-02
+ogimg: /images/zodiac/semanal_geminis.png#2023-01-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-01-02'
+ lastmod: '2023-01-09'
 ---
 
 
