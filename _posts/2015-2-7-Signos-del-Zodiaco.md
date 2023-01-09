@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 08 de enero 2023
-description: Horóscopos del dia de hoy 08 de enero 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 09 de enero 2023
+description: Horóscopos del dia de hoy 09 de enero 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-01-08
+ lastmod: 2023-01-09
 ---
-El poder de Marte es más amable al encontrarse en Piscis. No es un renacimiento de la audacia, pero te percatarás de que tal enfoque tiene sus ventajas. (Recuerda lo que te estaba pasando hace dos años y medio). Mercurio iniciando su retroceso esta noche trae consigo déjà vus. Si algo te resulta familiar, tal vez no puedas identificarlo debido a que se te escapó la primera vez.
+Podría ser difícil definir las emociones que uno está sintiendo cuando la Luna forma sextil con Mercurio directo el día de hoy. Sin embargo, piensa en ello. Tal vez esos pensamientos se produjeron en las últimas semanas mientras Mercurio se encontraba retrógrado. Esta noche te surge una vez más esa sensación de desconexión debido a la Luna saliéndose de su órbita.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
