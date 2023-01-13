@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 12 de enero 2023
-description: Horóscopos del dia de hoy 12 de enero 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 13 de enero 2023
+description: Horóscopos del dia de hoy 13 de enero 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-01-12
+ lastmod: 2023-01-13
 ---
-Los poderosos temas de hoy incluyen la transición, la transformación y dejar de lado los valores antiguos con el fin de encontrarle a la vida un nuevo significado con el acelerado impulso. Esta noche, el compromiso no es el problema para los solteros. Es más bien mantenerlo mientras la Luna conjunta a Plutón. Pospón tu búsqueda de amor ahora que estás consciente de los efectos.
+El Universo coopera si decides invertir tu esfuerzo durante el oportuno aspecto entre Mercurio y Plutón. Tu energía se desperdicia si todo lo que haces es iniciar o casi iniciar, pero no terminar algo. Esta noche, ten conversaciones divertidas y estimulantes con un reparto inusual de personajes. Incluso las parejas que llevan juntas toda una vida se sienten gratamente coquetas.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
