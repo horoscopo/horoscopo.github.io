@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 09 de enero 2023 al 15 de enero 2023 
-description: Horóscopo semanal leo 09 de enero 2023 al 15 de enero 2023. La guerra que tienes dentro está deseando encontrar un poco de paz Leo, de verdad, ya no puede aguantar tanto. ¿Qué pasa con tus metas, con tus objetivos? Primero debes ponerte a ti mismo ahora. ¿No te acuerdas de cuantas cosas has rechazado por amor? ¿o de cuanto has dejado de lado?
+title: leo 16 de enero 2023 al 22 de enero 2023 
+description: Horóscopo semanal leo 16 de enero 2023 al 22 de enero 2023. Quita importancia a las cosas Leo, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2023-01-09
+ogimg: /images/zodiac/semanal_leo.png#2023-01-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-01-09'
+ lastmod: '2023-01-16'
 ---
 
 
 
-## La guerra que tienes dentro está deseando encontrar un poco de paz Leo, de verdad, ya no puede aguantar tanto. ¿Qué pasa con tus metas, con tus objetivos? Primero debes ponerte a ti mismo ahora. ¿No te acuerdas de cuantas cosas has rechazado por amor? ¿o de cuanto has dejado de lado?
+## Quita importancia a las cosas Leo, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
 
-No eres la misma persona que eras hace tres años, un año o unos meses atrás, estás en constante cambio, las experiencias te han hecho ser mucho más duro, mucho más fuerte, y sí, te han hecho ver que todo tiene un principio pero que nada dura eternamente. Si necesitas consejo, habla contigo mismo, recuérdate experiencias, aunque muchas sean dolorosas, nadie mejor que tú sabe por lo que has pasado, nadie mejor que tú sabe lo que no quiere volver a repetir. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo. No está bien conformarse Leo, no está bien pensar que lo que tienes es porque lo mereces, porque no es así, lo que tienes es porque aún no has buscado o encontrado lo que de verdad deseas, pero si no eres tú quien intenta encontrarlo, nadie lo hará por ti. Pasarán los años, ¿y de verdad te quieres ver en la misma situación dentro de por ejemplo dos años? No, porque tú tienes sueños, tienes proyectos, pero sólo te falta ese empujón, esa “seguridad” que parece que tienes pero que también te falta. Rompe con todo Leo, mírate y observa lo que ves, observa lo que vales, puedes llegar a conseguir tanto… Sólo te falta tomar esa decisión que quizás asusta tanto pero que es la decisión que hará que tu destino cambie…
-Venus se encuentra en Capricornio y en tu sector de viajes, por lo que esta puede ser la oportunidad ideal para hacer planes con un amigo o ser querido, sobre todo si quieres escapar a climas soleados. Con Mercurio ahora avanzando a partir del lunes, habrá menos retrasos o desvíos inesperados. El Sol en tu sector profesional te anima a reflexionar sobre tus planes. Ahora es el momento de pensar de manera diferente al formular una estrategia para conseguir una promoción o aumento de sueldo.
+No estás mal con lo que tienes no, pero ya no eres el mismo que antes Leo. Has cambiado, y quieres otra vida, llenarte de otras sensaciones que te alimenten, que te hagan crecer como persona, metas y objetivos nuevos. Quieres llenar tu vida de personas inigualables, de gente que merece la pena de verdad. Quieres que tus días estén llenos de esas personas que te hacen ver la belleza del mundo. Quieres gente aventurera cerca, que no se raye por estupideces, que no te raye a ti… Quieres perseguir puestas de sol, quieres perseguir lunas llenas, quieres salir de la mierda de la rutina que a veces te ahoga. Quieres personas que no vean el mundo de la misma manera que tú, personas que tengan la capacidad de hacerte cuestionar todo lo que creías que era cierto. Necesitas vidilla, aventura, es lo que más deseas ahora, búscala Leo, búscala y sal de la rutina como sea. Si no tienes sueños o metas de este tipo te acabas apagando, y mucho. O te empiezas a ilusionar y a perseguir lo que de verdad quieres o vas para abajo Leo. Si quieres cambiar algo es porque no estás satisfecho del todo Leo, esto funciona así. Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
+Suceden muchas cosas en una de las áreas más misteriosas de tu carta astral, donde la alineación actual podría potenciar la intimidad y quizás llevarte a explorar formas inusuales y emocionantes de satisfacer a tu amor. Abrirte y ser vulnerable podría ser muy bueno para ti. También es una oportunidad para soltar el resentimiento oculto y así experimentar sensaciones de liviandad y paz. Los asuntos profesionales también reciben un impulso, pero deberás tener cuidado con los asuntos monetarios esta semana.
 
 ## Dinero
 
-Para ti, el dinero puede ser más que una recompensa por tu trabajo bien hecho. Ahora, el dinero puede convertirse en una manera de conectarse a vidas pasadas, sueños, y a las partes efímeras de la vida. Si has estado albergando en tu mente una idea de algo que preferirías hacer para ganarte la vida, este periodo puede proporcionarte el impulso necesario para que esto ocurra en la realidad. Los sueños pueden hacerse realidad bajo estas condiciones.
+Estás acostumbrado/a a las cosas buenas de la vida y anhelas días llenos de placeres sensuales. Esta semana, tu familia, amigos y pareja romántica están contigo en búsqueda de todo eso. Los aspectos te animan a hacer valer tus necesidades y mostrar que el mantenimiento de una comunicación clara y concisa personal y profesionalmente por igual mantiene la fluidez, la entrada y salida del dinero. Saca ahorros de donde puedas.

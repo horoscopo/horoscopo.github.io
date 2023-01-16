@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 09 de enero 2023 al 15 de enero 2023 
-description: Horóscopo semanal acuario 09 de enero 2023 al 15 de enero 2023. Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así Acuario, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
+title: acuario 16 de enero 2023 al 22 de enero 2023 
+description: Horóscopo semanal acuario 16 de enero 2023 al 22 de enero 2023. Tienes la semana agitada Acuario. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2023-01-09
+ogimg: /images/zodiac/semanal_acuario.png#2023-01-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-01-09'
+ lastmod: '2023-01-16'
 ---
 
 
 
-## Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así Acuario, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
+## Tienes la semana agitada Acuario. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
 
-Despacito Acuario, ahora todo despacito. A veces, hacer las cosas de forma lenta es lo que tu corazón necesita, y tu cabeza. Necesitas un descanso, necesitas a personas cerca que no pongan tu mundo al revés otra vez. La suerte para tener éxito en la vida se llama “creer en ti”. Te has dado cuenta de que, por mucho que haya personas que han intentado joderte y hundir tu ego y tu forma de ser hasta lo más profundo, existen otras muchas que están ahí por y para ti, que se desviven, y que son las que realmente merecen la pena. Quizás no has pasado tu mejor etapa este tiempo atrás pero ahora lo tienes claro, vales lo que vales, incluso un poco más, y la fé que tendrás en ti mismo/a de ahora en adelante no va a arrebatártela nadie. Primero va tu felicidad. De hecho necesitas que ahora sea lo primordial. Quítate los pesos que cargas a tu espalda, y renace… No hay que tener miedo de empezar otra vez, de hecho, es una nueva oportunidad para reconstruir lo que siempre quisiste… Esta semana puede ser el momento para desprenderte de algo a lo que estabas muy apegado, quizás ahora tengas esa fuerza para hacerlo Acuario.
-Podría sorprenderte lo poco que han cambiado las cosas. Y aun así, algo dentro de ti podría motivarte para que te embarques en una aventura y elijas un camino alternativo. También podrías pensar que la compañía de amigos es un poco superficial si te distrae de los pensamientos y sentimientos intensos que tienes. Si bien la paz y tranquilidad pueden ser útiles para descubrir ideas claves, salir de tu hogar puede ayudarte a despejar la mente, y esto también puede ser algo bueno.
+A veces te acercas de nuevo a eso de lo que te alejaste porque sabías que no te convenía… Estás en una encrucijada Acuario. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo. Y te entra frustración, y rabia, y muchas ganas de poner a más de uno en su sitio, de explicar cómo te has sentido, todo lo que has sufrido, todo lo que tienes dentro… Y esa es a menudo la excusa que te pones para volver… No Acuario, error. No pongas a prueba a los demás porque tienes más de perder que de ganar. Las personas no cambian. Pero claro, eres Acuario, súper metódico con todo, y hasta que no pruebes no te quedarás a gusto. Está bien, prueba si quieres, date la oportunidad de saber si te equivocas o no, no te quedes con ninguna duda, no sigas consejos de nadie, ni siquiera de tu cabeza y termina viendo las cosas por ti mismo/a. Pero también prepárate para todo, incluso para asimilar decepciones si las hubiera… El instinto no te falla pero la impulsividad a veces sí puede hacerlo. Quizás no sea lo que esperas Acuario pero puede que al menos te refuerces más. Pase lo que pase, prométete a ti mismo/a no volver a sufrir más…
+A medida que Marte se adentra cada vez más en tu sector espiritual, puede que reavive sentimientos que tienen raíces en el pasado. Este también es el momento de dejar atrás lo que pueda impedir que expreses tus sentimientos o cumplas tus ambiciones más fuertes. Puede que una manera de lograrlo sea mediante el arte o las artesanías, o puedes hacerlo bailando, nadando, saliendo a correr o cualquier otra actividad que te ayude a estabilizarte. Estas medidas simples te pueden ayudar a sentirte mucho mejor.
 
 ## Dinero
 
-Estás de cara a un momento interesante gracias a los aspectos en tu sector de efectivo y valores. Esto no sólo da lugar a un montón de nuevas formas de atraer dinero (woo hoo!), pero también te obliga a pensar en tu vida monetaria futura. ¿De qué manera se refleja la forma en la que te ganas la vida con quién eres y los valores más importantes para ti? Puede que te sorprenda la respuesta a esta pregunta.
+Es una semana extraña en tu sector de empleo. Parte de ti quiere avanzar mientras que otra parte de ti quiere quedarse atrás, así que puede que te sea difícil avanzar en las diversas cuestiones relacionadas con el trabajo. Puede haber algo de tensión entre tu deseo de avanzar en tus objetivos de carrera y la realidad en cómo te estás proyectando actualmente hacia el mundo. Es hora de intensificar tu espíritu.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 09 de enero 2023 al 15 de enero 2023 
-description: Horóscopo semanal cancer 09 de enero 2023 al 15 de enero 2023. Retírate del mundo artificial Cáncer, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
+title: cancer 16 de enero 2023 al 22 de enero 2023 
+description: Horóscopo semanal cancer 16 de enero 2023 al 22 de enero 2023. No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Cáncer, abre las puertas y ciao. No tienes que mantener nada…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2023-01-09
+ogimg: /images/zodiac/semanal_cancer.png#2023-01-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-01-09'
+ lastmod: '2023-01-16'
 ---
 
 
 
-## Retírate del mundo artificial Cáncer, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
+## No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Cáncer, abre las puertas y ciao. No tienes que mantener nada…
 
-A veces dejas las puertas medio abiertas Cáncer, crees que puedes cerrarlas cuando quieras, crees que eres lo suficientemente fuerte como para mandarlo todo a la mierda cuando desees… Pero no es del todo así. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Cáncer porque no eres así. Parece que tuvieras miedo de cerrar definitivamente algunos capítulos, parece que aún te aferrarás a que pueden tener solución. Está bien Cáncer, aférrate a lo que quieras, pero que eso no te afecte en tu día a día. Tienes que ver las cosas por ti mismo para dejarlas a un lado o continuar con ellas, así que, tropieza, date la hostia necesaria que te haga abrir los ojos pero, mientras tanto, que no te frene. Sacúdete un poco de las cosas negativas que pululan a tu alrededor, no pagues un precio alto por mantener algo que ni siquiera sabes si quieres mantener. Si necesitas pensar, márchate, desaparece unos días, vete solo y pasa de todo. En serio, algo te está reteniendo a quedarte, algo te está impidiendo continuar hacia delante, ten cuidado Cáncer, con las decisiones que tomas, y con dejar puertas medio abiertas por miedo a que se cierren del todo…
-Una nueva dirección te hace señas, pero a pesar de querer investigar más, puede que tengas dudas al respecto. Es posible que el deseo de seguir con lo conocido y fiable te impida explorar nuevas opciones. Dejar que tu imaginación te lleve a nuevos horizontes podría ser suficiente con tal de obtener el impulso que necesitas. En el plano de romance, tu actual historia de amor podría profundizarse y volverse más fascinante y seductora, algo que puede que disfrutes. Este fin de semana, espera lo inesperado.
+No te mereces poco Cáncer… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas… Cuando alguien se preocupa por ti, se preocupa todo el tiempo, y eso es lo que vale. No es que todo el mundo que te rodea sea malo, es que aún te queda basura por sacar a la calle. No tomes una decisión a la ligera pues sí o sí tendrás que aceptar las consecuencias. Mejor tómate un tiempo para pensar mejor las cosas. A veces pensamos que porque no recibimos una consecuencia inmediata a nuestras acciones tal vez nunca va a llegar, pero estamos completamente equivocados. Las cosas tarde o temprano pasan factura Cáncer, tanto a ti como a los demás, por eso, procura tener los pies en la tierra y no dejarte llevar por esos arrebatos locos que te están dando últimamente. Es como si quisieras controlarte, porque en el fondo sabes como acaba todo, pero a la vez te frustra no plantar cara a más de uno que tienes metido entre ceja y ceja últimamente. Es complicado. No es una mala semana pero si habrá bastantes altibajos. A veces quieres solucionar tus problemas, a la de ya, poner punto y final a todo y empezar de cero, como si fuera tan fácil. La dificultad contigo es que no son causas tontas, no son cosas que de la noche a la mañana y con un simple perdón puedan solucionarse. Arrastras demasiado desde hace mucho tiempo Cáncer. Así que no, de un día para otro no arreglarás mucho, bueno quizás desahogarte un poco pero, ¿de que te vale eso si volverás de nuevo a lo mismo de siempre? ¿No has pensado en evitar ciertas situaciones que te causan daño? ¿No has pensado en alejarte por un tiempo de personas que en vez de reír te hacen llorar? ¿Por qué no lo haces? Tu respuesta muchas veces es la misma: “No voy a rendirme, esto lo soluciono yo como sea”. Y sí, estás en lo cierto porque si fuera por ti ya lo habrías hecho, el problema es que no tienes por qué solucionarle la vida a otros.
+¡Es una gran semana! Saturno ingresa a tu signo el martes. De aquí en adelante, te tomarás tus metas y planes más en serio, y probablemente logres mucho más durante este proceso. Pero también hay dos planetas más que ingresan a este sector: el sol y el seductor Venus. Durante la próxima semana, puede que estés en el centro de actividades, organizando todo y asegurándote de que todos la pasen bien. Además, tu vida social sigue teniendo un maravilloso brillo.
 
 ## Dinero
 
-Tienes algunos retos esta semana. Aunque te sientas con energía para tenerlo todo listo, puede que tengas algunos problemas en tu lugar de trabajo o cuando se trata de tus grandes metas profesionales. Este pequeño contratiempo es sólo eso. Se moverá hacia el pasado casi tan pronto como suceda. El Universo te pide que seas audaz y te enfoques ahora.
+Ahora estás pensando no sólo en cómo hacer más dinero y establecer una mayor seguridad en tu vida, sino también en la manera de hacer que tu vida laboral sea más gratificante. Con un aspecto armonioso afectando tu sector laboral,  es probable que se note aún más. Esto te permitirá ascender de posición sin demasiados problemas. Asegúrate de pedir lo que vales en lugar de aceptar lo que sea que el jefe te ofrezca.

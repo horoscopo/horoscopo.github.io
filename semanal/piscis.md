@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 09 de enero 2023 al 15 de enero 2023 
-description: Horóscopo semanal piscis 09 de enero 2023 al 15 de enero 2023. Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
+title: piscis 16 de enero 2023 al 22 de enero 2023 
+description: Horóscopo semanal piscis 16 de enero 2023 al 22 de enero 2023. Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2023-01-09
+ogimg: /images/zodiac/semanal_piscis.png#2023-01-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-01-09'
+ lastmod: '2023-01-16'
 ---
 
 
 
-## Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
+## Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
 
-No es que estés cambiando Piscis, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo, prefieres, digamos, no arriesgar. La gente a menudo es muy egoísta, y cree que porque tengas una actitud diferente, eres tú quien está fallando, y no. El problema es que no eres estúpido/a y que si estás cambiando es porque ya has recorrido el mismo camino varias veces y sabes que en el fondo, y en estos momentos ya no te llevará a ningún sitio. A lo largo de tu vida has perdonado cosas que sabes que a ti jamás te perdonarían y por eso, te has sentido impotente muchas veces, porque en el fondo, y en tu interior, eso es fallarte a ti mismo/a, por eso estás cambiando o lo estás intentando hacer a muerte, porque no es algo bueno para ti, ni más ni menos. Los que te quieran y estén a tu lado deben entenderlo, y los que te tachen de egoísta sabes que no están mirando por tu bien si no por lo que les interesa a ellos… Esta semana te vas a sentir más fuerte que nunca, aunque lo hagas solo/a, te vas a sentir libre, vas a sentir que puedes con todo. Te lo has prometido a ti mismo/a…
-¡Esta semana estás de humor para la acción! Ir de compras e invertir tu dinero arduamente ganado también podría ser muy divertido. Si es que no te has dado algunos lujos o un día de spa recientemente, es momento de hacerlo. Mereces darte un capricho esta semana. Saturno comienza a avanzar en tu sector de romance, lo que podría ver a una relación nueva tomar un camino más positivo. Sin embargo, tendrás que considerar si vale la pena invertir tu tiempo y energía en ella.
+Al final sólo nos arrepentiremos de las oportunidades que no tomamos Piscis así que, empieza a agarrar todas las que lleguen con fuerza. No pienses demasiado, ya has vivido mucho como para saber lo que te interesa y lo que no así que, no te dejes amedrentar por nada ni por nadie. Puedes con todo lo que te propongas y además hagas lo que hagas lo harás bien. Puedes llegar alto si empiezas a dejar de lado cosas que no son productivas y tomas otros caminos. A veces te aferras demasiado por cariño y tratas de arreglar todo, de tratar de hacer a algunas personas mejores personas, de mantener situaciones que en vez de sumarte te restan todo el tiempo, y lo peor es que todo ese tiempo que gastas podías invertirlo en ti y en avanzar mucho más con tus objetivos en la vida. Hay cosas que no quieres que ocurran pero que debes aceptar Piscis, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir. Por tu bien. Procura que todo lo que decidas hacer esta semana te haga realmente feliz.
+Mientras el enfoque continúa en tu sector de relaciones, la próxima semana podría encontrarte estableciendo contactos y, tal vez, revisando ideas, proyectos o incluso decisiones. Cuando el energizante Mercurio, que ahora está retrógrado, se alinea con el encantador Venus, puede que debas deshacer una promesa o un contrato que requieran ajustes debido a hechos recientes. El sábado, lo mejor sería esperar lo inesperado, ya que una invitación podría dar como resultado un resplandeciente encuentro. Finalmente, la luna nueva del viernes podría animarte a explorar más tal tema.
 
 ## Dinero
 
-Es posible que necesites proteger tu salud esta semana. Si la comunicación es muy importante para ti, puede ser necesario que tengas que proteger tu voz. Tantas llamadas, textos y correos electrónicos; tan poco tiempo. El poder manejar tus citas se convierte en algo fundamental, especialmente en los aspectos actuales. Tu vida social está estallando. Asegúrate de tener por el mango el saber cómo, quién, qué, cuándo y dónde obtener los mejores resultados financieros.
+Podrías llegar a tener sueños extraños y flashes psíquicos esta semana debido a los aspectos particulares de tu carta. Lo maternal, el hogar y las emociones internas son lo más afectado. ¿Estás pensando en tener o adoptar a un ser bajo tu alá (las mascotas cuentan también)? La adopción de una nueva compañía puede costar un poco, pero todos los placeres que tal ofrece hacen que valga la pena al final.
