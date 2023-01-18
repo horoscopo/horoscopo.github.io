@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 17 de enero 2023
-description: Horóscopos del dia de hoy 17 de enero 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 18 de enero 2023
+description: Horóscopos del dia de hoy 18 de enero 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-01-17
+ lastmod: 2023-01-18
 ---
-Ve con la corriente. La vida todavía está llena de dudas debido a que el trígono de ayer entre el Sol y Urano, el planeta de las sorpresas, sigue en vigor con su gran y mágico potencial. Esta noche, la cuadratura entre la Luna y Neptuno borra la línea entre el hecho y la ficción, con ésta última teniendo la ventaja.
+Hoy, la gente tiende a sobreestimar y exagerar de manera desproporcionada cuando la Luna cuadra a Júpiter. Tales creen en lo que dicen en el momento sólo durante ese corto período de tiempo. Esta noche, conoce gente, intercambia ideas y comparte una agradable velada bajo el elocuente trígono entre Mercurio y la Luna en Géminis.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
