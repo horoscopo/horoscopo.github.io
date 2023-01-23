@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 16 de enero 2023 al 22 de enero 2023 
-description: Horóscopo semanal capricornio 16 de enero 2023 al 22 de enero 2023. Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
+title: capricornio 23 de enero 2023 al 29 de enero 2023 
+description: Horóscopo semanal capricornio 23 de enero 2023 al 29 de enero 2023. Capricornio, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2023-01-16
+ogimg: /images/zodiac/semanal_capricornio.png#2023-01-23
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-01-16'
+ lastmod: '2023-01-23'
 ---
 
 
 
-## Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
+## Capricornio, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
 
-Quita importancia a las cosas Capricornio, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente… Pon la mente en blanco como sea si no quieres empezar a dejar de dormir esta semana. Hay cosas que no están en tu mano, hay cosas que llegan y se van solas, sin que podamos hacer nada, pero sin embargo, la vida sigue y hay otras muchas en las que si puedes hacer mucho. Pues céntrate en esas Capricornio. En las que verdaderamente están ahí, en tu mano. Tienes que tener un plan B para engañar a tu mente, sal un poco más y cuando no te apetezca mucho, oblígate, hazte el favor de relacionarte con tus amigos, de sacar tus sentimientos, lo que pasa por tu cabeza. Los nervios sólo te acabarán consumiendo por dentro. Deja fluir, deja correr, deja pasar las cosas y no vuelvas a abrir las puertas de tu vida a la gente que te hace daño. Si te rodeas de buenas personas, lo positivo empezará a aparecer en tu vida, pero si por tu alrededor la energía mala se palpa, no esperes nada bueno. Deja que las cosas se marchen de tu vida si así tiene que ser, y márchate tú si eso es lo que sabes que debes hacer… Aférrate a ti mismo, sólo a ti… Por una vez manda a la mierda y céntrate en lo que de verdad te hará feliz.
-Los problemas más profundos de la vida podrían seguir estando en tu mente e incentivar conversaciones con aquellas personas que consideras confiables asesores o confidentes. Puede que tengas ganas de que se produzcan algunos cambios; sin embargo, mientras el animado Mercurio continúa en su fase retrógrada, es posible que debas reflexionar, en especial cuando conecte con el sol el martes. Y si bien tu vida social luce muy prometedora, puede que sientas que debes reflexionar y actuar sobre las cuestiones que harán que tu vida avance.
+Esta semana va a estar cargada de altibajos Capricornio, va a ser una semana muy movidita. Y cuando estés arriba estarás mucho tiempo pero el problema es cuando estás abajo… Paciencia y sangre fría. Vas a tomar decisiones adecuadas pero al fin y al cabo los cambios te trastocan mucho. Tus expectativas son muy altas siempre y como te falle algo, aunque sea por poco, te amarga la existencia. Pero como siempre Capricornio, hay cosas que no están en tu mano. En realidad hay cosas que aún no has perdonado del todo, hay algo que por dentro te agita, algo que no te deja dormir como quisieras. Pero deja de investigar de una vez, deja de gastar tu tiempo en encontrar errores de los demás. Si no te gusta algo, ¡a la mierda! Sin contemplaciones. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón. La cabeza Capricornio, la cabeza es la que vale ahora y la que te acabará por salvar. Que no te empujen al límite Capricornio, no te enredes en mierdas del resto, de verdad. Los cambios no son malos y estos ni siquiera van a ser tan complicados como tú piensas…
+Puede que te preguntes si estás haciendo lo correcto con respecto a un asunto familiar. Cuando el amistoso Venus se dirige al ejemplar Saturno en tu signo, puede que te sientas como el aguafiestas arruinando el espíritu de los demás. Sin embargo, puede que haya algo de verdad en lo que dices y que lo prudente sea que tus familiares sigan tu consejo. También es posible que un compromiso funcione igual de bien. El fogoso Marte ingresa a tu signo el fin de semana, lo que podría darte nuevas energías e inspiración.
 
 ## Dinero
 
-Tienes la oportunidad de hacer de tu lugar de trabajo un lugar mucho más agradable en el cuál pasar ocho horas o más de cada día. Tu trabajo está sin duda atrayendo el adecuado tipo de aviso, lo que te pone en línea para un mejor paquete de compensación. Este aviso puede ser añadido a tu ventaja. No hay mejor momento para poner la deuda bajo control que ahora.
+Te enfrentas a un tiempo de reinvención. Si has estado queriendo reinventarte a ti mismo/a de alguna manera, este es un buen momento para hacerlo. Puedes obtener lo que quieres con sólo pedírselo al Universo siempre y cuando lo puedes imaginar. El hacer los sueños realidad podría convertirse en el tema de la semana. Sin embargo, puede que tu carrera requiera más de lo que puedes dar por ahora. Trata de comprometer.

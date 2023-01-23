@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: libra 16 de enero 2023 al 22 de enero 2023 
-description: Horóscopo semanal libra 16 de enero 2023 al 22 de enero 2023. No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
+title: libra 23 de enero 2023 al 29 de enero 2023 
+description: Horóscopo semanal libra 23 de enero 2023 al 29 de enero 2023. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2023-01-16
+ogimg: /images/zodiac/semanal_libra.png#2023-01-23
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-01-16'
+ lastmod: '2023-01-23'
 ---
 
 
 
-## No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
+## Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
 
-A veces amas demasiado Libra, a veces das mucho de ti, tanto que te quedas sin nada para ti mismo. Y cuando regalas todo de ti es porque probablemente quieres que los demás se sientan completos, enteros. Es cierto que te encanta ayudar Libra, sabes que estás siempre para quien te necesita, te falta el tiempo, pero el problema también es que te olvidas de ti. Sacas una fuerza inquebrantable mientras levantas a los demás y eso te hace sentir bien, pero tú te quedas sin fuerzas después. Libra, tienes que replantearte muchas cosas, tienes que replantearte por qué tienes tanto que dar pero después te da miedo salir de tu mundo y expresar lo que sientes, por qué te da miedo apostar por algo o alguien que merece la pena, por qué te cuesta dar esos pasos personales todo el tiempo. Libra, no ocultes más lágrimas, no te sientas solo aunque estés rodeado de personas, no te preguntes más cuando será tu turno, tu turno para encontrar el amor verdadero, para encontrar tu camino, para cambiar de trabajo, para lo que sea… Olvídate de todo eso y cambia, de dentro a afuera, y no te lamentes, y no te encabrones. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas… Sólo mira a los ojos Libra, y siente… Feliz semana…
-Cuando el eléctrico Urano se acerca a tu sector de recreación, puede que notes el deseo de hacer cosas que nunca has intentado. Las nuevas experiencias pueden parecer una opción atractiva y pueden animarte a involucrarte en grupos o proyectos bastante distintos a tus actividades normales. Si la estás pasando bien, eso es todo lo que importa. Además, ahora que el expansivo Júpiter ingresa a tu sector social, una nueva relación o amistad podría verse más prometedora. 
-El fin de semana trae un cambio de foco a medida que el sol ingresa a Leo y a tu sector de intimidad, negocios y bienes compartidos. Su estadía de cuatro semanas aquí podría animarte a librarte de cualquier obstáculo que te impida disfrutar el éxito en estas áreas. Además, un especial aspecto el domingo podría encontrarte acercándote a una persona de otro país o cultura que ha vivido la vida al máximo.
+No pienses tanto Libra, deja que la vida te vaya sorprendiendo. Últimamente estás como muy nostálgico ¿no? No es que estés deprimido pero sí se te ha pasado por la cabeza eso de que algunos momentos del pasado fueron mejores que en el que estás ahora. No te agobies Libra, ni te estreses. Quizás estás pensando demasiado en el futuro, en cómo van a ir las cosas, en si saldrá bien. Has arriesgado mucho para estar donde estás y con quien estás, y ya lo decidiste así que, no puedes pasarte la vida pensando si has hecho bien o no. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro Libra, pero no trates de sujetarlo por todos lados cuando su destino es el suelo. Eres firme con las decisiones que tomas, siempre lo has sido pero, probablemente por momentos se te haga cuesta arriba en muchos aspectos. Deja la nostalgia a un lado y esfuérzate en pensar que todo tiene un principio y un fin y que la vida son ciclos que empiezan y que acaban, y que después llega otro ciclo de la misma manera. No tengas miedo a lo que es desconocido para ti, al revés, enfréntalo como algo nuevo que, quien sabe, puede traerte cosas que duren para toda la vida. Ten mucha paciencia en estos días y aprende a tomarte las cosas como lo que son, ni más ni menos, no puedes dar mucha importancia a cosas que no la tienen pero tampoco quitársela a otras muchas que SI la tienen. Y lo sabes. Mantente hábil para descubrir todo. Ya hace un tiempo te planteaste que ser positiv@ sería probablemente el único camino para que las cosas salieran bien y sí, en el fondo sabes que gracias a eso estás aquí, así que, no lo pierdas por nada del mundo, aunque se caiga todo a pedazos, aunque nada tenga sentido, mantente fuerte, eso será lo que necesitas para que tu cabeza no decaiga por pensamientos negativos. Vas a darte cuenta de tantas cosas…
+Con una influencia prometedora agitando las aguas de tus sectores de profesión y estilo de vida, evita tomar atajos esta semana. Si una persona quiere involucrarte en un plan para hacer dinero rápido, recházalo. Las energías actuales sugieren que te irá mejor si te diriges con calma hacia un inspirador objetivo que podría ahorrarte todo el trabajo duro que has hecho hasta ahora. La Luna en tu sector de relaciones puede ser una oportunidad para que tu relación o romance dé un paso hacia el siguiente nivel.
 
 ## Dinero
 
-Esta semana se trata de equilibrar tu vida laboral con tu necesidad de estar con amigos, familiares y tu pareja. Los aspectos que afectan a la zona del gráfico que rigen los cónyuges, tutores, jefes y otros sindicatos importantes tirarán de tu energía en esta dirección, lo cuál podría requerir de casi todo tu tiempo. No hay problema. Sentirás tentación de gastar en romance, niños, familia y  diversión. Trata de equilibrar tu necesidad de ahorrar con tu necesidad de desahogarte.
+Esta semana tienes actividad en tu sector de dinero y valores, trayendo de vuelta una habilidad del pasado cuando se trata de ganar dinero en efectivo. Otros aspectos afectan tu sector de deuda o el dinero de otros. Si necesitas mejorar tu calificación de crédito, pide un poco de dinero prestado de una institución de dinero o banco y págalo antes del tiempo estimado.

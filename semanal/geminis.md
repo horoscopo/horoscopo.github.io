@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 16 de enero 2023 al 22 de enero 2023 
-description: Horóscopo semanal geminis 16 de enero 2023 al 22 de enero 2023. No dejes todo por nada, ni por nadie. Déjalo por ti. Que te caes, está bien, ya has aprendido a levantarte muchas veces…
+title: geminis 23 de enero 2023 al 29 de enero 2023 
+description: Horóscopo semanal geminis 23 de enero 2023 al 29 de enero 2023. Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2023-01-16
+ogimg: /images/zodiac/semanal_geminis.png#2023-01-23
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-01-16'
+ lastmod: '2023-01-23'
 ---
 
 
 
-## No dejes todo por nada, ni por nadie. Déjalo por ti. Que te caes, está bien, ya has aprendido a levantarte muchas veces…
+## Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
 
-Deja que duela Géminis, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo… Esta bien que te aferres a los recuerdos, siempre y cuando tengas más que claro dónde están y de dónde no van a moverse. Claro que tuviste tiempos mejores, pero no te centres tanto en “cómo lo pasabas cuando…”, ya está, ahora estás donde estás por alguna razón y mirar hacia delante y con fuerza es lo principal para que todo salga como tú quieras. Para ser Géminis estás teniendo muchas más dudas que habitualmente, sácalas de la cabeza cuanto antes y si no puedes solucionarlo por cualquier razón pasa a otra cosa, pero pasa a otra cosa de verdad. Ya llegará el momento en que tu mente haga click y encuentre la solución, mientras tanto, no te agobies demasiado. Vive, siente y ama, necesitas enganchar las riendas de nuevo y disfrutar del momento, como venga, como salga. A veces, te pones demasiado altas las expectativas sobre cualquier cosa, sobre algunas personas y está bien Géminis pero ten cuidado porque tus expectativas, las que estén en tu mano, es seguro que las alcanzarás, el problema son las otras, las que no lo están, las que dependen de los demás, esas, por favor, no seas crédulo porque no se darán jamás como tú quieres que se den, quizás se acerquen pero no llegarán… Ahora, preocúpate de ti, conecta con tus emociones, aunque sean emociones desagradables, plántales cara, contémplalas y piensa si quieres que se vuelvan a repetir. Por eso, y por más, vive tu vida Géminis, intenta ser feliz solo o acompañado, pero primero tú, ahora tienes que ser primero tú el que se quiera cuidar, el que quiera hacer las cosas bien…
-Esta semana podría aumentar la tensión en el hogar. Esto podría ser provocado por la fusión del vital Marte y el potente Plutón. Puede que alguien tenga la determinación de concretar una idea o plan sin tener en cuenta los sentimientos de los demás. Sin embargo, también existe la posibilidad de que esto involucre las finanzas o una posible compra. 
- Desde tu perspectiva, podría parecer una buena idea. Pero debido a que el animado Júpiter está en tu sector de dinero, actualmente eres más optimista en torno a todos los asuntos relacionados con el dinero y los gastos. Puede que sea cuestión de investigar un poco, leer opiniones y evaluar si realmente puedes permitirte hacer esta compra. Luego de que tú y los demás estén satisfechos con esta evaluación, deberías poder concretarla. Además, el encantador Venus ingresa a tu sector de lejanos horizontes el martes, lo que podría sugerir que se desarrollen amistades durante viajes o el estudio.
+Llegan oportunidades grandes Géminis y muy buenas, pero cuidado, deja de flojear y de ver el lado negativo. Esta semana tienes que cambiar el chip, y cambiarlo de golpe. Las cosas irán bien. Si los recuerdos te invaden haz lo que sea para entretenerte y dejarlo ahí, a las puertas, sin que puedan entrar en tu cabeza y desestabilizarte. Ten cuidado y no pagues con la misma moneda los golpes que la vida te ha podido dar, no merece la pena caer tan bajo como otros aunque tengas unas ganas tremendas de dar a más de uno su merecido. En el fondo no eres así, y eso sólo trae mala vibra a tu vida. Cuando esas personas se acerquen a ti, mándalas bien lejos. Esta semana habrá algunos días en los que te costará levantarte y empezar con fuerza, pero trata de pensar que tienes que buscar una rutina, una forma de vida nueva, trata de pensar que cada día será mejor que el anterior. Hay buenas noticias Géminis, noticias que estabas esperando desde hace mucho tiempo. Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no Géminis, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
+Te encuentras en una fase natural cuando el cosmos te invita a tomarte la vida con más tranquilidad. Puede que el enfoque en las ideas, los sentimientos y los problemas internos también te motiven para que hagas una limpieza emocional y dejes atrás todo el bagaje que te impide seguir adelante. Sin embargo, con la entrada del dinámico Marte al sector superior de tu carta astral, puede que decidas activar los asuntos relacionados con tu trabajo y tus metas. No aguantarás las ganas de poner en marcha tus planes más grandes y tu determinación podría ser fundamental para alcanzar el éxito.
 
 ## Dinero
 
-El crecimiento y la suerte pueden ampliar tus posibilidades, así que asegúrate de mantenerte al tanto con tu programa de ejercicios. También se extenderá tu influencia en el mundo. Tienes el oído de tus superiores en el trabajo, así que asegúrate de programar reuniones regulares para mantenerte al tanto con ellos. Mientras tanto, tu vida social se acelera, por lo que es un buen momento para conocer gente nueva, conocer colegas y mejores mentores. Hay poder en tus relaciones.
+Amas profundizar en lo espiritual y lo metafísico. Incluso podrías elegir esto como una carrera profesional y desarrollar tus habilidades. Ahora, tus habilidades espirituales o psíquicas podrían recibir un repentino impulso. Dado a que la actividad astral afecta tu sector de estudios, viajes y metafísica; podrías hacer un recorrido por los sitios espirituales de todo el mundo o compartir tu conocimiento a través de la enseñanza.

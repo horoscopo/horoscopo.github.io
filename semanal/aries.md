@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: aries 16 de enero 2023 al 22 de enero 2023 
-description: Horóscopo semanal aries 16 de enero 2023 al 22 de enero 2023. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
+title: aries 23 de enero 2023 al 29 de enero 2023 
+description: Horóscopo semanal aries 23 de enero 2023 al 29 de enero 2023. Siempre te adelantas a los malos tiempos, de hecho es como si los vieras venir, e intentas retirarte de ese camino… Así que, que ahora no vengan a contarte cuentos, y mucho menos a hacerte creer que eres tú el que estabas equivocado.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2023-01-16
+ogimg: /images/zodiac/semanal_aries.png#2023-01-23
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-01-16'
+ lastmod: '2023-01-23'
 ---
 
 
 
-## Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
+## Siempre te adelantas a los malos tiempos, de hecho es como si los vieras venir, e intentas retirarte de ese camino… Así que, que ahora no vengan a contarte cuentos, y mucho menos a hacerte creer que eres tú el que estabas equivocado.
 
-Y es cierto, en parte, pero a la vez, en tu interior cargas con cosas que de verdad, ya no merecen la pena. 
- La gente es como es y no debes martirizarte por ello Aries.
-Cuando el vital Marte viaja a través de tu sector social, podrías tener más invitaciones que nunca entre eventos, actividades grupales y diversión. Sin embargo, un enfoque en tu sector de recursos sugiere que tendrás en cuenta el costo de dichas actividades. Esta semana, el inquisitivo Mercurio en tu sector de dinero se inclina hacia el planeta rojo. Esto puede indicarte algunas maneras en las que puedes estar desperdiciando dinero. Hacer a un lado esas actividades que no son verdaderamente necesarias puede ayudarte a ahorrar tiempo y dinero. Aun así, podrías encontrarte con un inesperado bono.
+Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados, porque serán victorias más adelante. Así que, por eso, no te vas a decepcionar al final.
+Mantente alerta contra los malentendidos con tus familiares o cualquier persona que viva en tu hogar. Una falta de comunicación podría poner un poco de distancia entre tú y la otra persona. Si mantienes la conversación fluyendo, es posible que puedan limar esas asperezas pronto. Si necesitas que te consientan después de una semana ocupada, busca unos masajes, un día de spa, o sesión de mimos que te ayuden a relajarte. ¡Sabes que te lo mereces!
 
 ## Dinero
 
-Tienes una extraña habilidad para predecir el futuro cuando se trata de dinero. Sabes cuando las cosas van a ir bien y cuando no. Puede que ahora tus poderes psíquicos sean más fuertes que de costumbre. Como tal, es una buena idea que guardes algo de dinero extra para la diversión que deseas tener en unas vacaciones con tu familia, amigos o a solas. Visualiza los beneficios conforme ahorras regularmente.
+Esta semana te encuentras atrapado/a en el medio. Podrías estar sintiendo como si estuvieras siendo arreado/a (tal vez en contra de tu voluntad) hacia una determinada persona o situación. Tu sector de profesión es el área que necesita más atención ahora. Trabaja en un plan de cinco años para avanzar en tu posición y compensación.
