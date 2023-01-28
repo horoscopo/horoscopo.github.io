@@ -1,18 +1,20 @@
 ---
 layout: amp
-title: Horoscopo Aries Enero 2023 
+title: Horoscopo Aries Febrero 2023 
 permalink: /horoscopo-mensual/amp/aries/
 normallink: /horoscopo-mensual/aries/
 home: FALSE
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/Aries_mes.png#2022-12-30
+ogimg: /images/mes/Aries_mes.png#2023-01-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-12-30'
+ lastmod: '2023-01-28'
 ---
 
 
-¡Feliz año nuevo Aries! La luna llena del 6 de enero ilumina tus finanzas y situación económica. Haz una lista de todas las fuentes de ingresos y recursos que ya tienes, y déjate sorprender gratamente por lo que has pasado por alto. El día 21, la luna nueva te conecta de forma íntima con mucha gente que quiere escuchar lo que tienes para decir. Algunos quizás pidan favores. Sé popular y profesional, y maneja todo con tranquilidad. El 31 de enero, la actividad lunar podría traer apoyo y ayuda de una amistad o persona del vecindario. No necesitarás pedirlos, los recibirás de forma gratuita. 
+La Luna Llena del 5 de febrero ilumina tu imagen pública y tus planes profesionales. Sin importar qué tan tentativa o incompleta pueda ser una oferta u oportunidad, puedes percibir qué está pasando realmente y puedes relacionarte bien con las personas involucradas. Usa toda tu intuición, instinto e impulso. Neptuno se vuelve retrógrado en Piscis el 16 de febrero. Ahora, los sentimientos y sueños fluyen más profundamente y con más fuerza. La Luna Nueva del 20 de febrero te recuerda que debes divertirte de gran manera. Tu felicidad será contagiosa, y las personas querrán seguir tu ejemplo. Haz algo radicalmente distinto y no lo pienses demasiado.
+
+Mejores días: 11, 22, 24Peores días: 8, 26

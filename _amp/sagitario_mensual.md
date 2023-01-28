@@ -1,23 +1,22 @@
 ---
 layout: amp
-title: Horoscopo Sagitario Enero 2023 
+title: Horoscopo Sagitario Febrero 2023 
 permalink: /horoscopo-mensual/amp/sagitario/
 normallink: /horoscopo-mensual/sagitario/
 home: FALSE
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Sagitario_mes.png#2022-12-30
+ogimg: /images/mes/Sagitario_mes.png#2023-01-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-12-30'
+ lastmod: '2023-01-28'
 ---
 
 
-Desbordarás de inspiración artística e ideas creativas durante este mes, estimable Sagitario, mientras el sol, Mercurio y Venus transitan por Escorpión y el sector de tu carta astral que rige la autoexpresión. Utiliza esta energía como una excusa para dejar correr libre a tu imaginación, siempre y cuando hacerlo se sienta bien y te dé razones para ser optimista.
-Desafortunadamente, la energía podría cambiar de un momento a otro mientras Marte retrógrado transita por el sector de tu carta astral que rige el subconsciente. Los miedos o la falta de confianza podrían hacer que te retires incluso si tu mente y tu corazón te gritan que sigas hacia el futuro. Sin embargo, quizás quiera usar tu capacidad de discernimiento los días 5 y 8, cuando Urano se vuelve agitado en el cielo.
-Comenzarás a sentirte con una mayor orientación hacia el trabajo y de ánimo para las estructuras una vez que Venus entra a Sagitario el 15 de enero, seguido por Mercurio dos días después. Estos cambios planetarios te recuerdan la importancia de trabajar duro por tus sueños, inspirándote a que abordes con mayor seriedad las fantasías que has estado teniendo durante la mayor parte del mes.
-Estos sentimientos se acentuarán una vez que la temporada de Acuario comienza el día 21, aunque sentirás tanta necesidad de ayudar a otras personas como la que sientes de ayudarte a ti. Sin embargo, querrás evitar ayudar de forma atroz a cualquiera que no sea capaz de devolverte el favor. Utiliza la luna nueva del 21 de enero para delinear un plan para los próximos seis meses, y los astros conspirarán para ayudarte a cumplir tus metas.
-Días destacados: 3, 8, 20
-Días desafiantes: 13, 22, 30
+Tendrás un ánimo de tranquilidad y conciencia corporal durante gran parte del mes, Sagitario, ya que el sol y Venus transitan por tu sexta casa solar. Este clima cósmico te inspirará a buscar el bienestar y te ayudará a reconectar con tu salud. Aprovecha esta energía para reevaluar tu estilo de vida y tus hábitos personales, y para identificar y corregir cualquier comportamiento o situación que haya aumentado innecesariamente tus niveles de estrés. Puede que también descubras que comer alimentos más saludables y tener un sueño reparador son una gran prioridad si buscas convertirte en una versión más eficiente de ti sin sumar más responsabilidades a tu vida.
+El 20 de febrero, notarás algunos cambios importantes cuando el sol y Venus entran al transformador Piscis, lo que activa el sector de tu carta natal que rige el amor. Este clima cósmico canalizará algunas vibras muy intensas hacia tus relaciones más cercanas, lo que te ayuda a ser transparente con tus seres más queridos. Las relaciones que formes ahora también se sentirán más profundas y significativas, aunque deberás tener cuidado con los encuentros dramáticos o situaciones tóxicas que podrían llevar a un vínculo traumático. El lado positivo es que esta energía también puede ayudarte a romper con cualquier persona que no haya estado contribuyendo a tu bienestar emocional o mental, lo que te da la fuerza y la motivación para alejarte de esas dinámicas.
+La suerte te acompañará durante la luna nueva que se manifiesta en Escorpión el día 20, lo que te da la oportunidad de conectar con tu corazón y escucharlo. Si estás en una relación, podría haber conversaciones en torno a los compromisos, ya que los astros te invitan a cultivar el amor. Los Toros que desean encontrar una nueva pareja podrían simplemente hacerla aparecer cuando los astros se alinean para poner el amor en tu camino, así que asegúrate de susurrar al viento lo que tu alma desea.
+Días destacados: 13, 18, 26
+Días desafiantes: 5, 11, 19

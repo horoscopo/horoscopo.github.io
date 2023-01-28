@@ -1,18 +1,23 @@
 ---
 layout: amp
-title: Horoscopo Capricornio Enero 2023 
+title: Horoscopo Capricornio Febrero 2023 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Capricornio_mes.png#2022-12-30
+ogimg: /images/mes/Capricornio_mes.png#2023-01-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-12-30'
+ lastmod: '2023-01-28'
 ---
 
 
-Tu situación económica será sólida alrededor de la Luna llena del 6 de enero, más no  te excedas en tus gastos. Permite que tus amigos sean generosos y te duchen con sorpresas. Hacerlo les hará sentir bien y no dañará sus presupuestos. La vida cotidiana te hará sentir claustrofobia bajo la Luna nueva del 21 de enero. Sabes que el mundo es más grande que eso y desearás hacer más, ver más y escuchar más. Absorbe de la vida tanto como puedas y tal vez haz nuevas amistades también. El 27 de enero es tu día de suerte, sobre todo en el trabajo. Mantén tus expectativas bajas y déjate gratamente recompensar por una obra realizada anteriormente.
+Este mes sentirás el amor, estimable Capricornio, mientras Venus, el planeta del romance y el dinero, entra a tu signo el 2 de febrero. Estas vibras son perfectas para explorar el costado más dulce de la vida, aunque con certeza habrá una apasionada e interesante energía acompañando esta ubicación planetaria.
+Mientras que los asuntos del corazón estarán en tu mente, asegúrate de usar este clima cósmico como excusa para darle prioridad a tus necesidades mientras disfrutas de cuidarte a ti. El universo quiere que sientas la adoración y los cuidados, tanto solo de las personas que te rodean sino también de tu parte.
+La suerte estará de tu lado desde el momento en que el auspicioso Júpiter entra a Capricornio el día 10. Utiliza esta oportunidad para reevaluar tus metas personales, ya que con seguridad verás crecimiento en donde sea que enfoques tu energía durante los próximos meses. Por este motivo es importante que gravites solo hacia personas, experiencias y comportamientos positivos que puedan ayudarte a llegar a nuevas alturas.
+Marte, tu planeta regente, entra a tu signo durante la noche del 24 de febrero, y pone en tu camino una oleada de actividad que se extenderá durante las próximas semanas. Deberías sentir inspiración, motivación y pasión por tus ambiciones, haciendo que este sea el momento ideal para comenzar nuevos proyectos y perseguir tus sueños de forma incansable. Esto es algo particularmente importante a tener en cuenta cuando Marte y Júpiter se unan en el cosmos el día 25. Esta alianza cósmica podría hacer que incluso la más pequeña de las acciones desencadene un tsunami, por lo que es mejor que siembres algunas semillas para el futuro.
+Días destacados: 8, 15, 24
+Días desafiantes: 3, 19, 27

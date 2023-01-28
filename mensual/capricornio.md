@@ -1,24 +1,29 @@
 ---
 layout: horoscopos
-title: Horoscopo Capricornio Enero 2023
-description: El Horóscopo Enero de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Capricornio Febrero 2023
+description: El Horóscopo Febrero de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/capricornio/
 amplink: /horoscopo-mensual/amp/capricornio/
 home: FALSE
-keywords: horóscopo enero, horoscopos en español, horóscopo Capricornio enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Capricornio, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo febrero, horoscopos en español, horóscopo Capricornio febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Capricornio, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/capricornio_mes.png#2022-12-30
+ogimg: /images/mes/capricornio_mes.png#2023-01-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-12-30'
+ lastmod: '2023-01-28'
 ---
 
 
- > Capricornio, vivirás un mes de enero que será fundamental a la hora de cómo empezarás el año 2023. De ti depende cómo quieres que sea el camino, lo importante es que no te precipites y que vayas paso a paso hacia el cumplimiento de tus sueños. Aprovecha los primeros 20 días para llevar a cabo tus proyectos más inmediatos, ya que contarás con todo lo que necesitas para negociar y sacar provecho de ello. Vigila tu entorno y afina los detalles de la situación. No te pierdas en el ruido de los demás y sigue adelante con tus objetivos.
+ > Capricornio, prepárate para un mes de febrero en el que gozarás de un poder intuitivo que te permitirá crecer mucho. Es muy posible que te lleves una grata sorpresa y conozcas a alguien en un momento que no te esperas.
 
 
 
-Tu situación económica será sólida alrededor de la Luna llena del 6 de enero, más no  te excedas en tus gastos. Permite que tus amigos sean generosos y te duchen con sorpresas. Hacerlo les hará sentir bien y no dañará sus presupuestos. La vida cotidiana te hará sentir claustrofobia bajo la Luna nueva del 21 de enero. Sabes que el mundo es más grande que eso y desearás hacer más, ver más y escuchar más. Absorbe de la vida tanto como puedas y tal vez haz nuevas amistades también. El 27 de enero es tu día de suerte, sobre todo en el trabajo. Mantén tus expectativas bajas y déjate gratamente recompensar por una obra realizada anteriormente.
+Este mes sentirás el amor, estimable Capricornio, mientras Venus, el planeta del romance y el dinero, entra a tu signo el 2 de febrero. Estas vibras son perfectas para explorar el costado más dulce de la vida, aunque con certeza habrá una apasionada e interesante energía acompañando esta ubicación planetaria.
+Mientras que los asuntos del corazón estarán en tu mente, asegúrate de usar este clima cósmico como excusa para darle prioridad a tus necesidades mientras disfrutas de cuidarte a ti. El universo quiere que sientas la adoración y los cuidados, tanto solo de las personas que te rodean sino también de tu parte.
+La suerte estará de tu lado desde el momento en que el auspicioso Júpiter entra a Capricornio el día 10. Utiliza esta oportunidad para reevaluar tus metas personales, ya que con seguridad verás crecimiento en donde sea que enfoques tu energía durante los próximos meses. Por este motivo es importante que gravites solo hacia personas, experiencias y comportamientos positivos que puedan ayudarte a llegar a nuevas alturas.
+Marte, tu planeta regente, entra a tu signo durante la noche del 24 de febrero, y pone en tu camino una oleada de actividad que se extenderá durante las próximas semanas. Deberías sentir inspiración, motivación y pasión por tus ambiciones, haciendo que este sea el momento ideal para comenzar nuevos proyectos y perseguir tus sueños de forma incansable. Esto es algo particularmente importante a tener en cuenta cuando Marte y Júpiter se unan en el cosmos el día 25. Esta alianza cósmica podría hacer que incluso la más pequeña de las acciones desencadene un tsunami, por lo que es mejor que siembres algunas semillas para el futuro.
+Días destacados: 8, 15, 24
+Días desafiantes: 3, 19, 27

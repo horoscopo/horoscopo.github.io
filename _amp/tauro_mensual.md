@@ -1,18 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Tauro Enero 2023 
+title: Horoscopo Tauro Febrero 2023 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/mes/Tauro_mes.png#2022-12-30
+ogimg: /images/mes/Tauro_mes.png#2023-01-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2022-12-30'
+ lastmod: '2023-01-28'
 ---
 
 
-Venus ingresa a Tauro el 6 de enero. La vida se vuelve más sencilla y bonita. Estás de humor para consentirte y sentir más comodidad. No te excedas con los gustos ni te extralimites con el presupuesto, ¿de acuerdo? La vida diaria podría complicarse brevemente cerca de la Luna Llena del 6 de enero, y las personas pueden hacer que parezca peor de lo que es. Hay un trasfondo de muchas cosas buenas que están sucediendo y que todos están pasando por alto. Mantén la organización y motivación. La Luna Nueva del 21 de enero activa tu círculo de amistades y vecinos. Despierta tu curiosidad por nuevas tiendas o parques cercanos, y descubre cosas divertidas. Deja que tu atención fluya hacia una nueva novela cómica o gráfica.
+El 5 de febrero, Júpiter inicia un largo retroceso y la buena suerte se hace menos evidente. Sin embargo, tu vida social se aviva para el Eclipse de Luna Llena del 5 de febrero. Puede que pienses que tu horario ya está sobrecargado y programado al punto de la saturación; sin embargo, sólo se intensificará aún más. Haz lo que quieras y siéntete libre de salir temprano del evento en el que te encuentres si es que no te emociona lo suficiente. El Eclipse Solar de Luna Nueva del 20 de febrero te permite comenzar algo nuevo en casa que has querido hacer pero que has estado posponiendo. El momento es aquí y ahora. Puede que no consigas hacerlo todo al instante, pero al menos puedes lograr un importante avance. 
