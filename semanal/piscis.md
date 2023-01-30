@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 23 de enero 2023 al 29 de enero 2023 
-description: Horóscopo semanal piscis 23 de enero 2023 al 29 de enero 2023. Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
+title: piscis 30 de enero 2023 al 05 de febrero 2023 
+description: Horóscopo semanal piscis 30 de enero 2023 al 05 de febrero 2023. Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2023-01-23
+ogimg: /images/zodiac/semanal_piscis.png#2023-01-30
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-01-23'
+ lastmod: '2023-01-30'
 ---
 
 
 
-## Ahora estás preparado emocionalmente para superar cualquier cosa, ¡por fin! Tienes iniciativa, mucha, y ganas de vivir, de disfrutar, de salir, de conocer, de sentir.
+## Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
 
-No te preocupes tanto por los demás y empieza a darte un poquito más de valor a ti mismo. A veces quieres arreglar al mundo Piscis pero no te das cuenta de que es el mundo el que no se quiere arreglar. 
- Intenta no decir nada negativo durante 24 horas y observa cómo tu vida cambia. Es de quien te rodeas últimamente, ese es el problema. Sacas lo peor de ti en cuestión de segundos y eso no es bueno. Nada bueno.
-Tus palabras son poderosas esta semana, especialmente aquellas que escribiste en una tarjeta. Cierta persona podría tomárselo al pie de la letra, así que asegúrate de que sientas lo que dices sentir. Cuando de divertirse se trata, tú eres quien está al mando. Tú te encargas de sugerir planes y tu amor o tu interés romántico estará más que feliz de seguirte la corriente. Este fin de semana, el Sol abandona tu signo y entra a tu sector de finanzas personales, lo que indica que es tiempo de que las evalúes.
+Hace mucho tiempo que no te das un buen capricho Piscis, hace mucho que no piensas del todo en ti, hace mucho que dejaste algunos proyectos de lado que deben empezarse ya. Es probable que a principios de semana te encuentres un poco descentrado, te sientes fuerte por momentos para empezar a hacer cualquier cosa pero otras veces te sientes como una mierda. Asuntos pendientes Piscis. Asuntos que debes empezar a solucionar ya antes de que afecten más a tu vida. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. Necesitas hablar las cosas para darte un respiro. Y muy importante, sepárate del drama de los demás si de verdad quieres progreso en tu vida. Ten el valor de salir de todo lo que te hace daño, expresa tu punto de vista le joda a quien le joda y no te lo tragues todo como si fuera tu obligación. Si algo no te gusta dilo, no acumules, no creas que estás hecho para aguantar porque no tienes por qué aguantar nada. Cuando te sientas arriba aprovéchalo, no vuelvas a posponer planes, no vuelvas a dejar conversaciones pendientes, hazlo. Simplemente hazlo.
+¿Hay alguien que quiere sacarte de tu cómoda rutina? Parecería que sí en los próximos días. Con una poderosa influencia vislumbrándose, puede que resientas la presencia de alguien que parece generar sentimientos que preferirías evitar. Pero mientras más te resistas, más difícil será captar su atención. Si te dejas llevar, puede que se abran nuevas puertas y sientas nuevas emociones.
 
 ## Dinero
 
-Esta semana podrías estar pensando en nuevas formas de ganar dinero desde la comodidad de tu hogar. Ya sea que estés planeando el construir una oficina, el comprar un estudio y dividirlo en habitación casa/trabajo o que comiences a redecorar tu casa, aquí es dónde esta el dinero. Pero podrías no estar pensando en tus deudas tanto como lo necesitas. Date el tiempo de revisar los documentos necesarios antes de firmar o comprometerte a algo.
+Ahora tienes un aspecto armonioso afectando a tu sector de hogar y emociones. Si trabajas en un campo creativo o de diseño, piensa en cómo ampliar tu línea para incluir el diseño de interiores. Dado a que tantos de tus propios recuerdos y sentimientos están siendo despertados, puedes percatarte de que tu vida puede servir de base para nuevas y maravillosas ideas. El dinero viene cuando se combina lo personal con lo profesional.

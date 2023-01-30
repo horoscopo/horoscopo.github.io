@@ -1,31 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 23 de enero 2023 al 29 de enero 2023 
-description: Horóscopo semanal acuario 23 de enero 2023 al 29 de enero 2023. Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
+title: acuario 30 de enero 2023 al 05 de febrero 2023 
+description: Horóscopo semanal acuario 30 de enero 2023 al 05 de febrero 2023. Estás renaciendo Acuario, renaciendo de las cenizas… Y ya era hora…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2023-01-23
+ogimg: /images/zodiac/semanal_acuario.png#2023-01-30
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-01-23'
+ lastmod: '2023-01-30'
 ---
 
 
 
-## Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
+## Estás renaciendo Acuario, renaciendo de las cenizas… Y ya era hora…
 
-Está bien hacerse ilusiones Acuario, pero hazte ilusiones que sean reales por favor. Pon los pies en la tierra y vive y disfruta un poco del presente, a veces parece que te olvidas de donde estás y te vas a momentos que todavía no han llegado, lo peor es que no siempre son momentos buenos si no que tu mente se pone en lo peor. Esta semana tendrás días buenos y malos, tendrás días en los que estés muy arriba y otros muchos en los que querrás que nadie se acerque a ti. Tendrás que tomar decisiones que te lleven a cosas positivas Acuario, cosas en realidad de provecho. Te llegan dudas, sobretodo en el amor, no confías del todo en que las cosas cambien pero debes poner en una balanza los momentos positivos y los negativos de todo y en base a eso decidir qué es lo que más te interesa. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada Acuario. Controla tu carácter y en vez de enfadarte con el mundo busca soluciones porque si te enfadas pero te quedas donde siempre has estado no valdrá para nada. Enfádate con razón, con motivos, y después haz algo al respecto. Hay algunas cosas en la vida que simplemente no tienen sentido, pero tendrás que tener fe de que han pasado por alguna razón… No te agobies demasiado.
-Tu sector de trabajo y estilo de vida podrían estar a punto de atravesar un cambio. La actividad en este sector del martes trae la oportunidad de un nuevo comienzo. 
-Sin embargo, esta podría ser solo la punta del iceberg. Cuando el revolucionario Urano ingresa a este sector el mismo día, toda tu actitud podría cambiar, en especial en lo que respecta a tu manera de trabajar y tu enfoque en torno a las cuestiones de salud y bienestar. Puede que prefieras un trabajo que te ofrezca más independencia e incluso quizá consideres el empleo independiente. 
-Con respecto a tu salud, podrías sentir una atracción hacia tratamientos alternativos que puedas usar de forma complementaria a las terapias tradicionales.
-También el martes, el progresivo Marte ingresa a Acuario y a tu sector de comunicación, lo que podría encontrarte esforzándote para comercializar tu trabajo y entablando valiosas conexiones. 
-Las relaciones también se vuelven el centro de atención a medida que el sol ingresa a Géminis el sábado. Este momento es una buena oportunidad para pasar buenos ratos con tu pareja.
+No te arrepientas de abrirte Acuario, no te arrepientas de haber dado mucho, o de haber dado poco. En serio, no te arrepientas. Eres como eres, y aunque últimamente te hayas llevado más disgustos que otra cosa mira, no puedes cambiar. Cada momento en el que decides ser real y sensible, o emocional con alguien, estás siendo tú mismo de verdad, estás ganando al fin y al cabo, ganando experiencia, fortaleza, ganando pasión, corazón, bondad, estás siendo tú mismo aprendiendo a quererte tal cual, sin miedo a lo que pueda pasar. Y eso nunca puede ser un error. Esta semana tendrás momentos más débiles Acuario, momentos en los que quizás te sientas incluso un poco mal, y ni siquiera sepas por qué, momentos en los que estalles por cualquier estupidez, estupideces sin mucha lógica ya pero al fin y al cabo que aún te afectan aunque no quieras. No importa lo perdido que puedas estar, va a pasar Acuario, no importa lo que esté pasando por tu vida y por tu corazón ahora, vas a sobrevivir ¿ok? Esta semana quizás sea un poco dura pero te servirá para abrir los ojos Acuario, para darte cuenta de que, o te mueves o caducas. Lo mejor que podrás hacer ahora será cortar con la mierda. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos, y proponte metas de nuevo, y no desistas porque no salgan a la primera. Necesitas un poco de motivación extra.
+Tu vida social parece estar bajo enfoque ahora, ofreciéndote muchas oportunidades para positivos encuentros. De hecho, una reunión bastante intensa podría alentarte a ti y alguien más a colaborar en una intrigante idea. También hay buenas noticias en el frente financiero con Saturno ahora avanzando en tu sector monetario a partir de este fin de semana. Esto, junto con Marte, podría verte dando pasos positivos con respecto a retos financieros que has sufrido recientemente. En cuanto a romance, ¡llévate las cosas con calma!
 
 ## Dinero
 
-Tienes una gran cantidad de energía para conseguir un gran apoyo esta semana. Si has estado pensando en iniciar tu propio negocio, esta es una época maravillosa para darle vida a tus ideas. El énfasis está en la estructura, así que asegúrate de que la tuya sea muy fuerte. Si no sabes cuáles son los primeros pasos, consulta la información disponible para pequeñas empresas. Y si buscas en tus relaciones más cercanas, podrás ver que siempre tuvieron todas las respuestas.
+Tanto está pasando en tu vida laboral que puede que tengas que evitar el agobio o el cansancio. Sin embargo, las oportunidades están ahí, para que construyas tu propio pequeño imperio. Tu influencia se amplía sobre los grupos, por lo que asegúrate de que tu mensaje está pulido y listo para atacar. El dinero te sigue cuando eres fiel a lo que eres y lo que quieres decir.

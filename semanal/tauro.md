@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: tauro 23 de enero 2023 al 29 de enero 2023 
-description: Horóscopo semanal tauro 23 de enero 2023 al 29 de enero 2023. Llega una semana bonita Tauro, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención Tauro, y seguramente la persona que menos te esperabas…
+title: tauro 30 de enero 2023 al 05 de febrero 2023 
+description: Horóscopo semanal tauro 30 de enero 2023 al 05 de febrero 2023. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2023-01-23
+ogimg: /images/zodiac/semanal_tauro.png#2023-01-30
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-01-23'
+ lastmod: '2023-01-30'
 ---
 
 
 
-## Llega una semana bonita Tauro, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención Tauro, y seguramente la persona que menos te esperabas…
+## Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
 
-Son muchos los que quieren arruinar tu vida Tauro, los que no pueden soportar cuando subes a una foto a alguna red social, los que rabian cuando te ven feliz. Pero es que ahora, estás conectado a tu vida más que nunca, crees en ti mismo y sabes las posibilidades que tienes en este mundo. Y son muchas. Y esa seguridad tan fuerte es la que hará que consigas todo lo que te propongas pero también te sacará algún enemigo que otro. Pasa Tauro, tú a lo tuyo, siempre. Todo pasa por alguna razón y lo tienes más que claro pero cuando le toca a uno mismo cuesta el doble aceptarlo pero todo pasa y todo llega Tauro. Pero ya pasó, y ya lo superaste, o al menos, los aceptaste. Los pocos pensamientos negativos que aún te quedan acabarán por desaparecer, los buenos son los que al final prevalecen. Has tenido falta de confianza por momentos, falta de confianza que te ha ahogado, que no te ha dejado respirar, que te ha ido apagando lentamente aunque tú lucharás hasta el último minuto porque no pasara… Acuérdate de esos malos ratos Tauro. Y no los repitas. Que la primera vez que algo te pase podrá ser un error, pero si te pasa dos veces es una elección. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Tauro. Ahora brillas así que, aprovecha. Aprovecha todo.
-Si sientes que estás al borde, podría ser porque el fogoso Marte forma un extraño ángulo con el energizante Urano. Este aspecto podría desatar explosiones de intensos sentimientos, incluido el enojo; es fundamental canalizarlos de forma positiva. La actividad física vigorosa puede ser especialmente útil y ofrecerte una mayor tranquilidad en relación con el resto del mundo. Aun así, puede que necesites mucho estímulo e interesantes actividades que te llamen la atención. 
-La luna podría encontrarte reflexionando sobre los costos de un proyecto creativo o una salida romántica. Si el gasto no es demasiado grande, hazlo. De otro modo, puede que haya formas más económicas de lograr el mismo resultado. Por último, dado que el vital Marte continúa su fase retrógrada en tu sector social, puede que sea prudente no involucrarse demasiado en compromisos grupales. Las personas y las ideas podrían cambiar rápidamente.
+Abre los ojos de una vez Tauro. Te preocupas demasiado, pero te preocupas por todo, por todos. A veces incluso por cosas irreales, por cosas que no han pasado aún… A veces tienes tanta desconfianza en todo que sólo piensas en adelantarte a las circunstancias. Pero al final esa desconfianza se va y perdonas Tauro, siempre encuentras la forma de perdonar, has vivido la mitad de tu vida poniendo a los demás antes que a ti mismo, y te han hecho daño, te han fallado, te han demostrado que no eres una prioridad. Y eso duele mucho… Pero Tauro, tú no puedes cambiar, tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias tu corazón vale oro, y tú también Tauro. Pero sigue protegiéndote a ti mismo, y esta semana mucho más. No es que no seas hábil y astuto para no ver las cosas venir pero a veces te ciegas mucho, incluso aunque sea destructivo y tóxico para ti. Necesitas entender muchas cosas, necesitas cuidar mejor de tu corazón, no hace falta que cambies pero da oportunidades a las personas adecuadas, y hazte valer, y comprende que está bien perdonar a las personas, pero no está bien dejar que te hagan daño, una y otra vez. Tauro por favor, te tenían que tener en un altar… Y lo sabes…
+La idea de tomarte un descanso de tus responsabilidades podría sonar increíble. Si tienes el tiempo y el deseo de hacerlo, el martes es un día ideal para irte a un spa. Un problema de relación podría aparecer el miércoles en la forma de un romance en ciernes. ¿Deberías de involucrarte aún más? Puede que por ahora sea mejor esperar durante un tiempo. Por último, la actividad lunar podría allanar el camino para nuevos avances profesionales. Si una puerta se cierra, ¡otra podría abrirse pronto!
 
 ## Dinero
 
-Puede que la forma en la que te comunicas y tus palabras tengan que ser revisadas y se verificadas con exactitud. Las ideas pueden ser maravillosos puntos de partida para futuros proyectos, pero existe la posibilidad de que el mensaje te llegue envuelto en el proceso. Utilizar esta energía creativa para aprender un nuevo idioma (lo que sin duda te ayudará en tu trabajo) o continuar tu educación puede marcar la diferencia.
+Si has estado buscando maneras de ganar más dinero, es posible que mirar hacia el pasado traiga los mejores resultados esta semana. Esto se debe en parte a tu casa del dinero y valores. Explora antiguos puestos de trabajo, empresarios y habilidades para atraer más dinero en efectivo. Podrías ser capaz de usar tales para conectar con conocidos de una época anterior de tu vida que podrían ayudarte a crear una cartera de inversiones para proteger tu futuro.
