@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 30 de enero 2023 al 05 de febrero 2023 
-description: Horóscopo semanal virgo 30 de enero 2023 al 05 de febrero 2023. El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho Virgo. Más que nunca…
+title: virgo 06 de febrero 2023 al 12 de febrero 2023 
+description: Horóscopo semanal virgo 06 de febrero 2023 al 12 de febrero 2023. Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda Virgo, pero sé constante.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2023-01-30
+ogimg: /images/zodiac/semanal_virgo.png#2023-02-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-01-30'
+ lastmod: '2023-02-06'
 ---
 
 
 
-## El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho Virgo. Más que nunca…
+## Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda Virgo, pero sé constante.
 
-Crees que puedes con todo Virgo. 
- Es tan complicado…
-Hay un nuevo comienzo con la poderosa entrada de Marte a tu sector de hogar y familia, lo que te alienta a despejar los malos aires. En esta semana, puede que sientas que es hora de mimarte un poco y darte gusto con algunos lujos. Pero es posible que no dejes pasar una oferta. Con Mercurio entrando a Géminis, estarás al tanto de los precios a tu alcance y te prepararás para hacer una buena compra. Además, un sentido de aventura podría motivarte para que reserves unas vacaciones.
+Estás alcanzando una madurez Virgo, y no es que antes fueras inmaduro no, pero ahora estás aprendiendo a alejarte de las personas y situaciones que amenazan tu paz mental, el respeto, los valores, la moral y tu amor propio. Y eso está bien pero aún así, a pesar de que te has alejado de eso, hay momentos en los que, inevitablemente vuelves a caer, aunque no sean las mismas situaciones ni las mismas personas. No puedes presumir de haber superado ciertas cosas para repetir después los mismos errores. Eres fuerte Virgo y sea cual sea el estrés, el dolor o el odio que puedas sentir esta semana respira profundo y deja que se vaya, y no te enzarces con nadie, no vas a cambiar las cosas. Un pensamiento negativo puede arruinar mil vibraciones positivas. No pierdas más el tiempo. Organiza tu semana y ves paso por paso, organiza tu vida y trátate bien y con respeto. Si te valoras a ti mismo y te cuidas, el resto también lo hará. Y hay algo muy importante que debes saber esta semana, no cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás. Y no detengas ni frenes tu vida ahora.
+Con el conversador Mercurio, tu planeta personal, recién llegado a tu sector de relaciones, puede que sientas una mayor inclinación a comunicarte y conectar con nuevas y antiguas amistades. Además, esta puede ser una oportunidad para proponer los temas que deben discutirse y, tal vez, encontrar una solución. El enfoque en tu sector de estilo de vida también se intensifica. Esto puede tentarte a adaptar tu agenda diaria para permitirte explorar nuevas posibilidades y apuntar alto con respecto de tus metas clave de bienestar y trabajo.
 
 ## Dinero
 
-Te enfrentas a una época de cambios monetarios. Puede que la forma en la que ganas dinero o lo que piensas sobre el papel que el dinero juega en tu vida puede estar cambiando. De cualquier manera, estarás recibiendo gran cantidad de información acerca de cómo obtenerlo y guardarlo. Algunos de estos mensajes pueden provenir de lugares no convencionales, como sueños y destellos psíquicos, pero ¿por qué no analizarlos de todos modos?
+Esta semana es de gran actividad para ti, ya que la atención se centra en las culturas extranjeras, viajes, idiomas y la educación superior. Es hora de pensar en invertir en mercados muy lejos de donde vives para hacer tu investigación. Los aspectos indican que es probable que te sientas optimista también.

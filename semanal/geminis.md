@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 30 de enero 2023 al 05 de febrero 2023 
-description: Horóscopo semanal geminis 30 de enero 2023 al 05 de febrero 2023. Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
+title: geminis 06 de febrero 2023 al 12 de febrero 2023 
+description: Horóscopo semanal geminis 06 de febrero 2023 al 12 de febrero 2023. Esta semana vas a abrir los ojos Géminis, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2023-01-30
+ogimg: /images/zodiac/semanal_geminis.png#2023-02-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-01-30'
+ lastmod: '2023-02-06'
 ---
 
 
 
-## Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
+## Esta semana vas a abrir los ojos Géminis, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
 
-Deja de esperar al futuro Géminis, deja de esperar lo que viene. Empieza a gastar menos tiempo pensando y pensando, planificando qué harás, qué vendrá, qué lograrás o qué perderás. Haz Géminis, haz y siente, deja de dudar de ti mismo, a veces sólo se trata de actuar en el momento sin plantearte cuestiones todo el tiempo. Arriésgate si es necesario pero no te quedes con la duda de qué hubiera pasado si… No te compares con los demás, no trates de buscar respuestas a todo. La vida llega como llega y tienes que saber afrontar lo que viene. Sé fiel a tus experiencias pasadas. Si ya has pasado por algo no repitas los mismos errores de nuevo. No te ajustes a los pensamientos de los demás, no vayas detrás como perro, en serio Géminis, vive un poco joder, pero vive aquí y ahora, el presente. Acepta que no puedes controlarlo todo, sacrifica lo que puedes dejar ir Géminis, y sólo así podrás lograr lo que realmente quieres. Tienes el poder de deshacerte de lo que ya no marcha, de lo que no funciona, tienes el poder de destruir muchas cosas y de reconstruir otra vez lo que mereces la pena. Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor Géminis, sin remordimientos.
-Aunque el actual clima astrológico te anima a ceder ante los demás para llegar a un acuerdo, es posible que en práctica no te resulte tan fácil hacerlo. Esta semana, una práctica gama de energías te anima a ponerte a trabajar y cumplir con los plazos, encargarte de tus responsabilidades y terminar proyectos. Con el fin de lograr esto tendrás que derribar obstáculos, y es posible que te percates de que cooperar con los demás puede llegar a arruinar el plan que has trazado. Te irá muy bien si es que logras combinar tu encanto con tus perspicaces técnicas.
+Siempre estás sonriendo Géminis, siempre tratando de olvidar malas experiencias, las personas que te conocen por primera vez incluso se dan cuenta de eso. Tienes una energía contagiosa y llena de alegría, y todo el mundo piensa que eres feliz y que no tienes carencias de ningún tipo incluso cuando esto no es así. Estás bien con lo que tienes Géminis pero sabes que te falta mucho por hacer, el problema es que te metes en un bucle y no das el primer paso. Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. Nadie espera que estés jodido por dentro, nadie espera que a ti también te duelan las cosas mucho más de lo que demuestras, y por eso, nadie ayuda. A veces parece que luchas en silencio Géminis, que por no liarla te callas, que por no hacer la bola más grande ignoras. El problema es que no dices nada, y para muchos sigues siendo la persona más feliz de la tierra, esa que todo el mundo admira en secreto, tratando de sonreír siempre, tratando de levantarte de cada caída lo más rápido que puedes… Nadie puede ver que no es todo tan bonito, no deberías tragarte tanta mierda cuando lo lógico sería soltarla. Porque estás en tu derecho.
+Es posible que tengas que solucionar algunas cuestiones antes de poder realizar el tipo de progreso que imaginas. Cualquier conflicto con el que te topes podría ser debido a un deseo de mayor libertad. Sin embargo, si le has hecho una promesa a alguien, deberías tratar de mantenerla incluso si hacerlo te resulta un poco difícil o incómodo. Te sentirás mejor al haber hecho el esfuerzo y la persona en cuestión estará satisfecha. Puede que tu vida social comience a brillar una vez que Marte entre a Sagitario el sábado.
 
 ## Dinero
 
-Esta semana estás en el meollo de las cosas con ciertos aspectos afectando tu sector de dinero y valores. Se te está forzando hacia cierta área de tu vida que ha sido desatendida durante demasiado tiempo. Pon un poco más de tu pensamiento y acción en cómo ganar dinero y cuánto quieres ganar en el futuro.
+Es posible que te enfrentes al reto de hacer que ciertas relaciones personales funcionen, sobre todo en tu vida laboral y monetaria. Puede que alguien no esté cooperando ahora, pero si te mantienes con calma y diplomacia (no con estrés o confrontación), puedes establecer un maravilloso compromiso en el que todos ganen. Adopta una postura de negociación en todos los asuntos comerciales.

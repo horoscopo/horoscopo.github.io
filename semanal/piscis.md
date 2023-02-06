@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 30 de enero 2023 al 05 de febrero 2023 
-description: Horóscopo semanal piscis 30 de enero 2023 al 05 de febrero 2023. Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
+title: piscis 06 de febrero 2023 al 12 de febrero 2023 
+description: Horóscopo semanal piscis 06 de febrero 2023 al 12 de febrero 2023. Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2023-01-30
+ogimg: /images/zodiac/semanal_piscis.png#2023-02-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-01-30'
+ lastmod: '2023-02-06'
 ---
 
 
 
-## Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
+## Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
 
-Hace mucho tiempo que no te das un buen capricho Piscis, hace mucho que no piensas del todo en ti, hace mucho que dejaste algunos proyectos de lado que deben empezarse ya. Es probable que a principios de semana te encuentres un poco descentrado, te sientes fuerte por momentos para empezar a hacer cualquier cosa pero otras veces te sientes como una mierda. Asuntos pendientes Piscis. Asuntos que debes empezar a solucionar ya antes de que afecten más a tu vida. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. Necesitas hablar las cosas para darte un respiro. Y muy importante, sepárate del drama de los demás si de verdad quieres progreso en tu vida. Ten el valor de salir de todo lo que te hace daño, expresa tu punto de vista le joda a quien le joda y no te lo tragues todo como si fuera tu obligación. Si algo no te gusta dilo, no acumules, no creas que estás hecho para aguantar porque no tienes por qué aguantar nada. Cuando te sientas arriba aprovéchalo, no vuelvas a posponer planes, no vuelvas a dejar conversaciones pendientes, hazlo. Simplemente hazlo.
-¿Hay alguien que quiere sacarte de tu cómoda rutina? Parecería que sí en los próximos días. Con una poderosa influencia vislumbrándose, puede que resientas la presencia de alguien que parece generar sentimientos que preferirías evitar. Pero mientras más te resistas, más difícil será captar su atención. Si te dejas llevar, puede que se abran nuevas puertas y sientas nuevas emociones.
+Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía. Es muy probable que tengas que corregir algunas cosas de tu persona, está claro, pero de ahí a que quieran hacerte ver que eres el culpable de todo hay un paso muy grande. No te lo creas por nada del mundo. Mientras otros retroceden tú avanzas, mientras otros vuelven a tropezar con la misma piedra una y otra vez, tú la intentas evitar a toda costa, quizás no sepas cual es el final del camino, y quienes estarán ahí para verlo pero no lo estás haciendo mal, y eso, es lo que al final te hará decir que mereció la pena. Estos días te irás quitando de tu vida a mucha gente falsa, y seguramente que discutirás con algunos pero da igual, sólo han estado estorbando en tus planes y sueños. No te han dejado avanzar así que, no te plantees en ningún momento si lo estás haciendo mal porque no. Te quitarás mucho de encima. Gracias a ser como eres nadie volverá a pisotearte Piscis, gracias a todos los palos que te han dado, ya no dejarás que te den ni uno más.
+Un poco de tiempo en silencio puede ser todo lo que necesites para poder resolver un problema relacionado a asuntos hogareños o familiares. Tal vez la oportunidad de distanciarte un poco de ello te puede dar una nueva perspectiva. la reciente Luna llena podía ponerte de ánimo para divertirte y tal vez pasar una noche candente con alguien especial. Llévala al máximo y disfruta de cada momento. Puede que encuentres que tu inspiración creativa aumenta una vez que el Sol entre a tu sector espiritual.
 
 ## Dinero
 
-Ahora tienes un aspecto armonioso afectando a tu sector de hogar y emociones. Si trabajas en un campo creativo o de diseño, piensa en cómo ampliar tu línea para incluir el diseño de interiores. Dado a que tantos de tus propios recuerdos y sentimientos están siendo despertados, puedes percatarte de que tu vida puede servir de base para nuevas y maravillosas ideas. El dinero viene cuando se combina lo personal con lo profesional.
+Te enfrentas a un momento de decisiones financieras. Tus esfuerzos se están monetizando y te están ayudando a ganar más que nunca. De hecho, puede que tengas tanto que hacer, que no tienes tiempo para amigos y contactos sociales. Puede que tengas que establecer un equilibrio entre el trabajo, las responsabilidades de dinero y la necesidad de desahogarte de vez en cuando. Sin duda te lo mereces.

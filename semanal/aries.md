@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: aries 30 de enero 2023 al 05 de febrero 2023 
-description: Horóscopo semanal aries 30 de enero 2023 al 05 de febrero 2023. A veces sientes como si no avanzaras Aries, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
+title: aries 06 de febrero 2023 al 12 de febrero 2023 
+description: Horóscopo semanal aries 06 de febrero 2023 al 12 de febrero 2023. Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2023-01-30
+ogimg: /images/zodiac/semanal_aries.png#2023-02-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-01-30'
+ lastmod: '2023-02-06'
 ---
 
 
 
-## A veces sientes como si no avanzaras Aries, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
+## Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
 
-Ha llegado el momento en el que debes preocuparte exclusivamente de ti mismo, es más, nadie te hará más feliz que tú. Tienes que cumplir metas Aries. No tengas miedo de expresar lo que sientes ni tampoco intentes tapar lo que sabes que no debes. No te calles, no dejes que haya malos entendidos por esto. Dentro de poco organizarás un viaje, y será lejos. Eso es lo que más necesitas ahora, motivarte, sentirte vivo otra vez, sentir que todo merece la pena, que empezar de cero no es ir hacia atrás si no tener una nueva oportunidad para hacer las cosas bien. Recuérdate de qué pasta estás hecha y haz lo que tienes en tu mente, competa tus sueños, muévete hacia lo que de verdad te motiva Aries. Hay personas que están cerca de ti que merecen mucho la pena, y tú lo sabes, y tratas de hacer que se queden a toda costa. Está bien Aries, siempre hay que hacer todo lo posible para que salga bien, y gracias a ti, el amor crecerá mucho, pero recuerda que es cosa de dos. Que no está bien que una persona lo tenga que dar todo siempre. Si no hay interés por la otra parte lo mejor será cambiar los planes. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
-Concentrarte en tu hogar y familia puede ser el momento para distanciarte de tu vida diaria y disfrutar de los momentos con quienes más amas. Si bien podrías tener grandes planes a la vista, deberías aprovechar esta oportunidad para cuidarte y tratarte bien. Parece que esta es tu oportunidad para relajarte, disfrutar un masaje o un día de spa y tratarte bien en general. Los proyectos que debes finalizar seguirán ahí una vez que hayas podido recargar tu energía.
+Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después. Te propusiste no dar tanta importancia a problemas que sabes que no están en tus manos así que, inténtalo de verdad, si no está en tus manos arreglarlo, para qué vas a torturarte. 
+ Busca siempre la parte buena de cada momento en el que te encuentres.
+Ciertas cuestiones relacionadas con tu vida social podrían llegar a un punto crítico esta semana, sobre todo porque la actividad Lunar podría suscitar sentimientos. Si no lidiaste con una situación cuando sucedió, ahora podrías querer sacarla al tema. Sin embargo, ten cuidado. Podría haber en ti una tendencia a reaccionar de forma exagerada, lo que podría arruinar una relación o buena amistad. También evita involucrarte en una romance con demasiada rapidez. Tómate al menos una semana antes de tomar una decisión crítica.
 
 ## Dinero
 
-El Universo te da un fuerte sentido de seguridad conforme construyes tu fortuna y tomas decisiones de inversión. Tienes una visión clara sobre el lugar donde quieres acabar y no quieres dejar las cosas al azar. Las únicas dificultades provienen de cierta desestabilización en tu sector de deuda que nubla tu visión.
+Esta semana pones a prueba la resistencia y la tensión de tus relaciones. Esto puede resultar en que más de una relación profesional estrecha no funcione. No importa. Hay un montón de cambios positivos que se aproximan a tu sector del hogar, lo que indica un movimiento, la venta, o la adición de un espacio laboral en tu vida. El secreto está en no tratar de forzar nada ya que no es probable que dé frutos financieros por ahora.

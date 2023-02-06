@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 30 de enero 2023 al 05 de febrero 2023 
-description: Horóscopo semanal sagitario 30 de enero 2023 al 05 de febrero 2023. A veces hay que llevar al límite las cosas Sagitario, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
+title: sagitario 06 de febrero 2023 al 12 de febrero 2023 
+description: Horóscopo semanal sagitario 06 de febrero 2023 al 12 de febrero 2023. Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2023-01-30
+ogimg: /images/zodiac/semanal_sagitario.png#2023-02-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-01-30'
+ lastmod: '2023-02-06'
 ---
 
 
 
-## A veces hay que llevar al límite las cosas Sagitario, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
+## Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
 
-Eres más resistente que nunca, tienes más poder sobre ti mismo y has sobrevivido. Incluso cuando pensabas que no volverías a sonreír de nuevo, lo has hecho. Incluso cuando las peores circunstancias te estaban dejando sin fuerzas, le echaste valor y saliste adelante.
-Con un poderoso énfasis en tu sector de relaciones, puede que conozcas personas en una situación que te permita entender más cosas y tener nuevas posibilidades. Colaborar con personas clave o formar un equipo para completar un proyecto puede tener buenos resultados y sin duda es mucho mejor que intentar lograr algo por tu cuenta. También se genera un enfoque más profundo cuando el sol entra a un sector más intenso de tu carta astral, lo que te motiva para dejar de ignorar los problemas que ya están listos para ser sanados.
+Sin querer, y a veces queriendo y siendo consciente te pones ataduras a algunas personas que son dañinas para ti. Y sabiendo que pueden tirar de ti y hacer lo que les de la gana no te sueltas, no utilizas la llave para abrir esos grilletes y ser libre.
+El vital Marte sigue su camino por tu sector de cambio y transformación, y esto podría revolucionar cuestiones que puede que hayan estado obstaculizando tus decisiones. Tomarte el tiempo para procesarlas podría ser muy beneficioso para disipar los obstáculos y lograr una mayor productividad. Un poderoso enfoque en tu sector social sugiere que tus amistades y tu vida amorosa podrían brillar. Sin embargo, cuando el conversador Mercurio se alinea con el etéreo Neptuno el fin de semana, sería prudente recordar que no todo lo que brilla es oro.
 
 ## Dinero
 
-Cierta actividad en tu sector de dinero y de valores hace que sea prácticamente imposible evitar todas las ofertas y las oportunidades de ganar más a corto plazo. Haz heno mientras el Sol brilla. Esto es especialmente cierto ya que algunos de los aspectos son desafiantes. Puede ser que tu vida en el hogar sea un poco caótica ahora. No gastes más de lo que deberías.
+Tu normalmente personalidad impulsiva puede tener que tomar el asiento trasero a tu lado creativo esta semana. Es posible que se te esté pidiendo moverte a una posición de mayor autoridad en tu empresa actual, y es posible que necesites tiempo para decidir si esto es lo que realmente quieres. A pesar de que ofrece un mayor sueldo, puede llevarte en una dirección que frene tu crecimiento. Mantén los ojos en el balance final.

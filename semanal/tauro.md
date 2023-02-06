@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: tauro 30 de enero 2023 al 05 de febrero 2023 
-description: Horóscopo semanal tauro 30 de enero 2023 al 05 de febrero 2023. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
+title: tauro 06 de febrero 2023 al 12 de febrero 2023 
+description: Horóscopo semanal tauro 06 de febrero 2023 al 12 de febrero 2023. Remonta como has hecho tantas veces, cambia el rumbo, cambia los pensamientos y cambia tu futuro.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2023-01-30
+ogimg: /images/zodiac/semanal_tauro.png#2023-02-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-01-30'
+ lastmod: '2023-02-06'
 ---
 
 
 
-## Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
+## Remonta como has hecho tantas veces, cambia el rumbo, cambia los pensamientos y cambia tu futuro.
 
-Abre los ojos de una vez Tauro. Te preocupas demasiado, pero te preocupas por todo, por todos. A veces incluso por cosas irreales, por cosas que no han pasado aún… A veces tienes tanta desconfianza en todo que sólo piensas en adelantarte a las circunstancias. Pero al final esa desconfianza se va y perdonas Tauro, siempre encuentras la forma de perdonar, has vivido la mitad de tu vida poniendo a los demás antes que a ti mismo, y te han hecho daño, te han fallado, te han demostrado que no eres una prioridad. Y eso duele mucho… Pero Tauro, tú no puedes cambiar, tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias tu corazón vale oro, y tú también Tauro. Pero sigue protegiéndote a ti mismo, y esta semana mucho más. No es que no seas hábil y astuto para no ver las cosas venir pero a veces te ciegas mucho, incluso aunque sea destructivo y tóxico para ti. Necesitas entender muchas cosas, necesitas cuidar mejor de tu corazón, no hace falta que cambies pero da oportunidades a las personas adecuadas, y hazte valer, y comprende que está bien perdonar a las personas, pero no está bien dejar que te hagan daño, una y otra vez. Tauro por favor, te tenían que tener en un altar… Y lo sabes…
-La idea de tomarte un descanso de tus responsabilidades podría sonar increíble. Si tienes el tiempo y el deseo de hacerlo, el martes es un día ideal para irte a un spa. Un problema de relación podría aparecer el miércoles en la forma de un romance en ciernes. ¿Deberías de involucrarte aún más? Puede que por ahora sea mejor esperar durante un tiempo. Por último, la actividad lunar podría allanar el camino para nuevos avances profesionales. Si una puerta se cierra, ¡otra podría abrirse pronto!
+No desperdicies ni un solo día de tu vida Tauro porque los días buenos te darán felicidad, y mucha, los días malos sólo te darán experiencia, y esos días en los que te quieres morir te darán lecciones. En serio Tauro, quédate en los días buenos, y trata de mantenerlos el mayor tiempo posible. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio. A la gente le gusta el/la Tauro de siempre, y todos los ojos se fijan en ti cuando estás bien. Empieza a dejar de pensar todo el tiempo, da pequeños pasos pero no te frenes, no te estanques en lo que fue porque ya forma parte del pasado y ten fe en tu futuro, ten fe en que puedes conseguir lo que sea cuando estás bien, porque atraes lo positivo, atraes las cosas buenas. Haz balance, es un buen momento para que dejes de hablar de problemas y empieces a hablar de todo lo que llega, empieza a hacer del resto de tu vida lo mejor de tu vida Tauro. Y ten paciencia, mucha paciencia porque te llevará un tiempo aceptar que no hay que buscar respuestas a todo porque cuando encuentras la respuesta la vida te ha cambiado la pregunta. Todo tiene que ponerse a tu favor ahora, debe ponerse a tu favor. Feliz semana y feliz vida.
+Una oportunidad romántica podría parecer demasiado buena para dejarla pasar, más no te precipites a nada demasiado rápido. Aunque la misteriosa y embriagadora atmósfera te está animando a rendirte al momento, piensa en las consecuencias antes de actuar. Trata de conocer mejor a la persona antes de permitir que la relación se vuelva muy seria. El movimiento de Saturno a Sagitario podría animarte a hacerle frente a cualquier problema relacionado a recursos y finanzas. Los asuntos empresariales requieren de una estrategia práctica y un manejo cuidadoso. Por último, los pasatiempos creativos pueden ser terapéuticos.
 
 ## Dinero
 
-Si has estado buscando maneras de ganar más dinero, es posible que mirar hacia el pasado traiga los mejores resultados esta semana. Esto se debe en parte a tu casa del dinero y valores. Explora antiguos puestos de trabajo, empresarios y habilidades para atraer más dinero en efectivo. Podrías ser capaz de usar tales para conectar con conocidos de una época anterior de tu vida que podrían ayudarte a crear una cartera de inversiones para proteger tu futuro.
+Tienes una energía muy obstinada ahora. Se te está empujando a una forma no tan sutil de tratar con los demás. La formación de nuevas relaciones como el cultivar las ya existentes proporcionará las respuestas que buscas.
