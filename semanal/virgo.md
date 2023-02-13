@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 06 de febrero 2023 al 12 de febrero 2023 
-description: Horóscopo semanal virgo 06 de febrero 2023 al 12 de febrero 2023. Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda Virgo, pero sé constante.
+title: virgo 13 de febrero 2023 al 19 de febrero 2023 
+description: Horóscopo semanal virgo 13 de febrero 2023 al 19 de febrero 2023. Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2023-02-06
+ogimg: /images/zodiac/semanal_virgo.png#2023-02-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-02-06'
+ lastmod: '2023-02-13'
 ---
 
 
 
-## Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda Virgo, pero sé constante.
+## Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
 
-Estás alcanzando una madurez Virgo, y no es que antes fueras inmaduro no, pero ahora estás aprendiendo a alejarte de las personas y situaciones que amenazan tu paz mental, el respeto, los valores, la moral y tu amor propio. Y eso está bien pero aún así, a pesar de que te has alejado de eso, hay momentos en los que, inevitablemente vuelves a caer, aunque no sean las mismas situaciones ni las mismas personas. No puedes presumir de haber superado ciertas cosas para repetir después los mismos errores. Eres fuerte Virgo y sea cual sea el estrés, el dolor o el odio que puedas sentir esta semana respira profundo y deja que se vaya, y no te enzarces con nadie, no vas a cambiar las cosas. Un pensamiento negativo puede arruinar mil vibraciones positivas. No pierdas más el tiempo. Organiza tu semana y ves paso por paso, organiza tu vida y trátate bien y con respeto. Si te valoras a ti mismo y te cuidas, el resto también lo hará. Y hay algo muy importante que debes saber esta semana, no cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás. Y no detengas ni frenes tu vida ahora.
-Con el conversador Mercurio, tu planeta personal, recién llegado a tu sector de relaciones, puede que sientas una mayor inclinación a comunicarte y conectar con nuevas y antiguas amistades. Además, esta puede ser una oportunidad para proponer los temas que deben discutirse y, tal vez, encontrar una solución. El enfoque en tu sector de estilo de vida también se intensifica. Esto puede tentarte a adaptar tu agenda diaria para permitirte explorar nuevas posibilidades y apuntar alto con respecto de tus metas clave de bienestar y trabajo.
+Te estás dando cuenta de quien sí y quien no Virgo. Y además bien rapidito. Ya no te apetece pasar ni una más por alto, ya no te apetece tener que sonreír si no te apetece sonreír. Es cierto que te adaptas a todo Virgo pero ahora sí te vas a alejar de lo que no te hace ni put* gracia y aquí se incluyen momentos, personas y situaciones. Esta semana estás a tope Virgo, no te apetece anclarte en ningún sitio, no te apetece sentarte a ver la vida pasar. Nada de eso, quieres sol, quieres que el aire te de en la cara y salir a pasar el rato con amigos, socializarte y divertirte sin tener que pensar en nada más. Amplía tu mente Virgo, amplía tu mente y tómate una temporada sabática, aunque sean unos días o unas semanas. Haz lo que tengas que hacer pero hazlo con calma, y apaga el teléfono por favor. Si en realidad quieres tomarte un tiempo por y para ti no puedes estar ahí todo el día enganchado a todo. Esta semana tienes que cargar pilas, y debes cargarlas pasando tiempo con las personas que quieres y dejando un poco a un lado algunas obligaciones y responsabilidades. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Virgo, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+Esta puede ser una semana para interactuar, hacer viajes cortos y ponerte al día con las tareas administrativas. De hecho, con el Sol en tu sector de comunicaciones durante cuatro semanas, estas actividades podrían extenderse un tiempo más. Sin embargo, más puertas pueden abrirse y nuevas oportunidades pueden surgir gracias a tu esfuerzo. Tienes mucho a lo que aspirar, así que trata de que miembros de tu familia no te desanimen si piensan que puedes enfocar tu energía hacia asuntos más domésticos.
 
 ## Dinero
 
-Esta semana es de gran actividad para ti, ya que la atención se centra en las culturas extranjeras, viajes, idiomas y la educación superior. Es hora de pensar en invertir en mercados muy lejos de donde vives para hacer tu investigación. Los aspectos indican que es probable que te sientas optimista también.
+Esta semana se trata de un aspecto tenso que afecta a tu sector de deuda o el dinero de otros. Es imperativo que adoptes una nueva forma de ver la deuda en tu vida. Si puedes, págala por completo o comienza a usar tu tarjeta con menos frecuencia.

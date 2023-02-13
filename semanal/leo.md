@@ -1,27 +1,29 @@
 ---
 layout: horoscopos
-title: leo 06 de febrero 2023 al 12 de febrero 2023 
-description: Horóscopo semanal leo 06 de febrero 2023 al 12 de febrero 2023. Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
+title: leo 13 de febrero 2023 al 19 de febrero 2023 
+description: Horóscopo semanal leo 13 de febrero 2023 al 19 de febrero 2023. Estás a tope Leo, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2023-02-06
+ogimg: /images/zodiac/semanal_leo.png#2023-02-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-02-06'
+ lastmod: '2023-02-13'
 ---
 
 
 
-## Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
+## Estás a tope Leo, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
 
-¿Cómo quieres gastar tu vida Leo? ¿sintiéndote mal? ¿arrepintiéndote por lo que has hecho, o peor aún, por lo que no has hecho? ¿odiando y sintiendo rencor? ¿no afrontando los problemas o las situaciones? Sé valiente Leo, siempre lo has sido, y sigue creyendo en ti mismo, y haz lo que te haga sentir bien, y trata de huir de lo que te encoge el corazón, de lo que te hace daño, y manda lejos a tus pensamientos oscuros que lo único que hacen es que entres en bucles y que desperdicies tu tiempo. Tienes esta vida Leo, sólo esta así que, trata de sentirte orgulloso de cómo la estás llevando. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Leo. Piénsalo bien, ¿qué más puede afectarte? NADA. Eres como eres y nadie va a cambiarte pero tienes que aprender a que te de un poco más igual todo, tienes que aprender a no obsesionarte con nada. Si las cosas no salen del todo bien es porque hay algo mejor que te espera. Y pasará… Pero cambia la manera de ver las cosas porque es la única forma en que cambien las cosas que ves. Feliz semana Leo.
-Con Venus trasladándose a tu sector de recreación esta semana, es posible que surjan placenteras opciones de citas y salidas románticas. Este puede ser uno de los mejores momentos para tomar un pequeño descanso de tu ser querido, ya que, si lo haces, tu relación podría pasar al siguiente nivel. Por otro lado, podrías tener un conflicto con una persona controladora o muy persuasiva. Esta es tu oportunidad para ponerte firme y revertir la situación para que esto deje de molestarte.
+Si aún sientes que hay cosas pendientes lo primero que debes de hacer es solucionarlas, sobre todo para poder empezar cosas nuevas, dejarlas a medias sólo te llevará a acumular y a acumular y eso no te lleva a ningún puerto, solamente a estallar en el momento menos esperado. Por eso, 
+Después podrás abrir nuevas puertas, pero no dejes entre abiertas las demás…
+El cosmos te anima a confiar en tus instintos, en especial al comienzo de la semana cuando puede que te conduzcan a una oportunidad que, de otro modo, perderías. Tu intuición también puede guiarte en otros aspectos, por lo que vale la pena prestar atención a esos sutiles mensajes que vienen desde adentro. Al mismo tiempo, cuando Neptuno entra en juego, podrías sentir la tentación de tomarte un tiempo para la reflexión y meditación. Si lo haces, esto podría ayudarte a tener más tranquilidad y paz en tu interior. 
+El jueves, el ingreso del sol a Cáncer y a un sector más sensible de tu carta podría ponerte en contacto con poderosas emociones durante las próximas semanas. Este puede ser un buen momento para procesar aquellas experiencias que tal vez te hayan impedido avanzar en el pasado. Hacerlo puede reconfortarte y recargar tus energías. Además, un muy estimulante tránsito durante ese mismo día podría animarte a acercarte a una persona que te resulta muy atractiva.
 
 ## Dinero
 
-Ha pasado algo de tiempo desde que sentiste que se te paga lo que vales, pero eso puede cambiar pronto. Tú eres la estrella actual en tu trabajo, mostrando tus talentos y habilidades al máximo. Otros pueden ver en ti lo que quieren ver, casi como si fueras una pantalla de proyección de tamaño natural. Tienes todo el poder para pedir más dinero o construir un buen caso para tu eventual promoción.
+Ciertos aspectos afectan tu sector de carrera y de autoridad, demostrando que lo que aportas a la mesa es un conocimiento profundo de tu trabajo, así como un comportamiento profesional. La actividad en el sector de tu carta que afecta a tu potencial de ingresos dice que está cambiando para bien. Con un poco de paciencia, puede ser todo lo que quieres que sea en el futuro.

@@ -1,27 +1,32 @@
 ---
 layout: horoscopos
-title: geminis 06 de febrero 2023 al 12 de febrero 2023 
-description: Horóscopo semanal geminis 06 de febrero 2023 al 12 de febrero 2023. Esta semana vas a abrir los ojos Géminis, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
+title: geminis 13 de febrero 2023 al 19 de febrero 2023 
+description: Horóscopo semanal geminis 13 de febrero 2023 al 19 de febrero 2023. Toma decisiones YA, AQUÍ y AHORA Géminis. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2023-02-06
+ogimg: /images/zodiac/semanal_geminis.png#2023-02-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-02-06'
+ lastmod: '2023-02-13'
 ---
 
 
 
-## Esta semana vas a abrir los ojos Géminis, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
+## Toma decisiones YA, AQUÍ y AHORA Géminis. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
 
-Siempre estás sonriendo Géminis, siempre tratando de olvidar malas experiencias, las personas que te conocen por primera vez incluso se dan cuenta de eso. Tienes una energía contagiosa y llena de alegría, y todo el mundo piensa que eres feliz y que no tienes carencias de ningún tipo incluso cuando esto no es así. Estás bien con lo que tienes Géminis pero sabes que te falta mucho por hacer, el problema es que te metes en un bucle y no das el primer paso. Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. Nadie espera que estés jodido por dentro, nadie espera que a ti también te duelan las cosas mucho más de lo que demuestras, y por eso, nadie ayuda. A veces parece que luchas en silencio Géminis, que por no liarla te callas, que por no hacer la bola más grande ignoras. El problema es que no dices nada, y para muchos sigues siendo la persona más feliz de la tierra, esa que todo el mundo admira en secreto, tratando de sonreír siempre, tratando de levantarte de cada caída lo más rápido que puedes… Nadie puede ver que no es todo tan bonito, no deberías tragarte tanta mierda cuando lo lógico sería soltarla. Porque estás en tu derecho.
-Es posible que tengas que solucionar algunas cuestiones antes de poder realizar el tipo de progreso que imaginas. Cualquier conflicto con el que te topes podría ser debido a un deseo de mayor libertad. Sin embargo, si le has hecho una promesa a alguien, deberías tratar de mantenerla incluso si hacerlo te resulta un poco difícil o incómodo. Te sentirás mejor al haber hecho el esfuerzo y la persona en cuestión estará satisfecha. Puede que tu vida social comience a brillar una vez que Marte entre a Sagitario el sábado.
+Porque quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que 
+ Pero no, debes escapar de esos pensamientos, enfocarte en otras cosas en las que no debas decidir esto o lo otro, si no que simplemente fluyas sin más, 
+pero otras muchas veces sí, así que, plantéate en cuales puedes hacer algo para cambiar el rumbo y en cuáles lo mejor de todo es dar media vuelta y olvidar, aunque sea complicado…
+Si tienes secretas reservas en torno a una idea, puede que sea tu actitud lo que te impide seguir adelante. Podrías estar saboteando tus esfuerzos justo antes de dar el paso. Comprender los motivos por los que haces esto puede ayudarte a ver las cosas desde otro ángulo y tal vez te brinde el coraje para llevarlo a cabo. 
+El encantador Venus se dirige hacia el nebuloso Neptuno el lunes, lo que indica que podrías dudar de la palabra de una de tus amistades. Sin embargo, prueba con darle el beneficio de la duda. Podría tratarse de un inocente error.
+El martes, podrías tener positivas noticias o una invitación a un especial evento, algo que puede sentarte bien. 
+El fin de semana podría encontrarte rebelándote contra tu rutina habitual. Cuando el animado Mercurio conecta con el incansable Urano, puede que prefieras irte y hacer lo que te gusta. Sin embargo, una vez que el expresivo Mercurio ingresa a tu signo el domingo, tal vez descubras que puedes tranquilizarte y disfrutar.
 
 ## Dinero
 
-Es posible que te enfrentes al reto de hacer que ciertas relaciones personales funcionen, sobre todo en tu vida laboral y monetaria. Puede que alguien no esté cooperando ahora, pero si te mantienes con calma y diplomacia (no con estrés o confrontación), puedes establecer un maravilloso compromiso en el que todos ganen. Adopta una postura de negociación en todos los asuntos comerciales.
+Es una semana ideal para pensar en iniciar un nuevo negocio. Tu trabajo está cambiando, al igual que tu imagen de dinero. El ir con la corriente significa que debes aceptar lo que está sucediendo ahora en lugar de tratar de resistirte a ello. Tus relaciones no sólo son importantes sino también un sueño perfecto para este momento de tu vida.
