@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 12 de febrero 2023
-description: Horóscopos del dia de hoy 12 de febrero 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 13 de febrero 2023
+description: Horóscopos del dia de hoy 13 de febrero 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-02-12
+ lastmod: 2023-02-13
 ---
-Hoy comienza un trígono entre Júpiter y Plutón que abre un mundo de posibilidades en los próximos diez días. Prepárate para asombrarte. Si no tienes pareja, podrías conocer a esa persona especial que va a cambiar todo mientras el Sol se oponga a Urano esta noche. La vida se acelera después de esa introducción.
+Hoy, el mejor enfoque es disponerse a romper con lo que se espera de uno conforme Mercurio cuadra a Plutón. Ten espontaneidad y atrévete a probar algo diferente. Nadie planea cada minuto de su día. Ejerce tu influencia con firmeza (y tacto) e ilumina el momento bajo la Luna Llena en Aries.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
