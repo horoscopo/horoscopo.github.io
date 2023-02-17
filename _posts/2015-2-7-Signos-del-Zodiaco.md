@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 16 de febrero 2023
-description: Horóscopos del dia de hoy 16 de febrero 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 17 de febrero 2023
+description: Horóscopos del dia de hoy 17 de febrero 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-02-16
+ lastmod: 2023-02-17
 ---
-Los comentarios precipitados traen dolorosos arrepentimientos cuando Mercurio se encuentra a punto de cambiar de signo como lo está hoy. Si debes decir algo, trata de evitar la angustia y encuentra una manera apacible de expresarte. Esta noche surgen interesante, intrigantes, memorables, e incluso olvidables personalidades con una astuta capacidad intuitiva cuando la Luna aspecta a Neptuno. ¡Sorpresa! Lo que sientes, está en lo correcto.
+Hoy, los sentidos son agudos de manera decidida y responsable bajo la Luna en Capricornio. Por la tarde, el trígono con Venus añade toques de luz y dulzura. Esta noche, los halagos no le consiguen nada a uno más que problemas cuando el Sol y la Luna están un poco en desacuerdo y la gente simplemente no está de humor.  
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
