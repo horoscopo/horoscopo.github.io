@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 13 de febrero 2023 al 19 de febrero 2023 
-description: Horóscopo semanal capricornio 13 de febrero 2023 al 19 de febrero 2023. Deja que duela Capricornio, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo…
+title: capricornio 20 de febrero 2023 al 26 de febrero 2023 
+description: Horóscopo semanal capricornio 20 de febrero 2023 al 26 de febrero 2023. Retírate del mundo artificial Capricornio, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2023-02-13
+ogimg: /images/zodiac/semanal_capricornio.png#2023-02-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-02-13'
+ lastmod: '2023-02-20'
 ---
 
 
 
-## Deja que duela Capricornio, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo…
+## Retírate del mundo artificial Capricornio, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
 
-Está bien que la gente que te acompaña en la vida, comparta tus metas, tus logros, y también tus decepciones y bajones. Está bien que estén a tu lado en las buenas y en las malas. Pero ellos NO son tu felicidad Capricornio, y no debes depender de nadie porque, si algún días te abandonan, te quedarás vacía/o por dentro.
-Aunque es posible que desees explorar nuevas oportunidades, ciertas responsabilidades podrían estarte frenando. Este es el dilema en el que podrías encontrarte al inicio de la semana, cuando podrías perderte de una oportunidad que parece ser demasiado buena para dejarla pasar debido a otras responsabilidades. Sin embargo, Mercurio entrando a Acuario el sábado podría seguir poniendo nuevas opciones en tu camino, incluso aunque no sean tan atractivas como la original. Esta semana podría revivir un amor secreto.
+Capricornio, que estés triste de vez en cuando no es malo, que saques lo que tienes dentro desde hace mucho tiempo tampoco… Esta semana llegan momentos así, pero no hay que darle mayor importancia. La tristeza no viene a castigarte ni tampoco es una señal de que no estás evolucionando o de que te estás alejando de la luz o de la paz… No has hecho nada malo Capricornio. La tristeza se tiene que curar sola, abre bien los ojos y deja que te muestre el camino si lo has olvidado, deja que te haga sentir otra vez lo que vales, lo que debes hacer, deja que te ilumine, deja que te recuerde los errores que cometiste para que no vuelvan a darse. Y verás cómo agradecerás después haber estado triste, haber estado por momentos solo, haber recordado tantas cosas…
+Las cuestiones financieras o de negocios podrían requerir de un manejo cuidadoso esta semana, ya que la actual mezcla de energías sólo servirá para aumentar la confusión. No sería prudente invertir dinero en proyectos de los que conoces muy poco o que tienen dudosos elementos. De hecho, es probable que sea mejor posponer decisiones financieras importantes hasta la próxima semana. Entonces tendrás más claridad y más información a la mano. Aunque tu vida amorosa parece ser candente, alguien podría debilitar tu confianza. Mantente fuerte.
 
 ## Dinero
 
-Hay una energía extraña afectando tu trabajo y tu sector de dinero. Los aspectos que afectan tu sector de vidas pasadas, karma e instituciones, muestran que es posible que te vaya bien si estás pensando en  trabajar para una empresa más grande o asociarte con alguien que está un poco más establecido en tu línea de trabajo. Juntos serán imparables, y tal vez capaces de atraer más negocio de lo que podrían hacer por su cuenta.
+Tienes el beneficio de la duda esta semana gracias a las influencias en tu área de política y los grupos. Un sueño que has mantenido cerca de tu corazón tiene oportunidad de desarrollarse conforme tus redes sociales te conectan a las personas a las que necesitas conocer. Puede que tengas que prestar más atención a tu sector de la diversión, el romance y los niños. Lleva esta alegre energía hacia tu trabajo.

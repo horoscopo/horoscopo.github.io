@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 13 de febrero 2023 al 19 de febrero 2023 
-description: Horóscopo semanal piscis 13 de febrero 2023 al 19 de febrero 2023. Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
+title: piscis 20 de febrero 2023 al 26 de febrero 2023 
+description: Horóscopo semanal piscis 20 de febrero 2023 al 26 de febrero 2023. No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya Piscis. Muévete o haz que se mueva el resto.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2023-02-13
+ogimg: /images/zodiac/semanal_piscis.png#2023-02-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-02-13'
+ lastmod: '2023-02-20'
 ---
 
 
 
-## Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
+## No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya Piscis. Muévete o haz que se mueva el resto.
 
-A veces te preguntas por qué la vida es tan difícil, por qué se te hace cuesta arriba todo a veces… Es necesario Piscis, porque los conflictos, te empujan a ver más de lo que realmente verías si no hubiera pasado nada.
-Marte en tu signo aumenta tu energía, otorgándote una mayor determinación para superar obstáculos en tu camino. Esto es para bien en este momento, ya que te percatarás de que tienes una mayor capacidad para manejar los retrocesos de Mercurio y Júpiter que comienzan esta semana. Con Mercurio moviéndose de nuevo a Capricornio, tendrás la oportunidad de revisar ciertos planes y quizás adoptar una perspectiva fresca hacia ciertos acuerdos que te interesan. Sin embargo, si logras evitar comprometerte ahora, podrías ahorrarte un montón de problemas más adelante.
+Eres así, y quien intente cambiarlo, debe tener claro que será imposible. El problema es cuando te metes en los juegos más de lo que debes. 
+ y es que no puedes parar, de verdad.
+Podrías tener muchas ganas de viajar y buscar explorar un nuevo territorio. Este deseo de disfrutar nuevas experiencias podría ser una señal de que ciertos aspectos de tu vida deben actualizarse. Si tus rutinas se volvieron demasiado normales, sin duda necesitarás algo diferente. La actividad Lunar de esta semana podría poner en tu camino nuevas oportunidades que resplandecen de promesas. Más trata de no apresurarte. En cambio, dedica tiempo para analizar en profundidad los beneficios de cada opción.
 
 ## Dinero
 
-Esta semana recibirás un mensaje diciéndote que es tiempo de darle seriedad a tu carrera y a algunas figuras importantes en tu vida. Si estás tratando de salir adelante, puede que sea mejor que tomes una pausa de unos meses, prepararte para asumir una nueva posición, y así lograr un cambio. Aunque usualmente estás listo/a para la acción, tendrás que esperar un poco ésta vez.
+Con un enfoque en los viajes, la educación superior y las culturas extranjeras, es un buen momento para considerar cómo se puede ganar dinero extra apelando a los compradores extranjeros. Si tu empresa no está haciendo negocios en línea, tal vez es hora de recomendarlo. También podrías decidir continuar tu educación para profundizar tus habilidades. Es el momento de considerar otras opciones de trabajo. Tu trabajo actual no está funcionando.

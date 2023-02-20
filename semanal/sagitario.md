@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 13 de febrero 2023 al 19 de febrero 2023 
-description: Horóscopo semanal sagitario 13 de febrero 2023 al 19 de febrero 2023. Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. Sagitario, esta semana has de cerrar algunos ciclos de verdad.
+title: sagitario 20 de febrero 2023 al 26 de febrero 2023 
+description: Horóscopo semanal sagitario 20 de febrero 2023 al 26 de febrero 2023. Empieza a hacerte promesas a ti mismo Sagitario, empieza a prometerte amor propio, hoy y siempre. 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2023-02-13
+ogimg: /images/zodiac/semanal_sagitario.png#2023-02-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-02-13'
+ lastmod: '2023-02-20'
 ---
 
 
 
-## Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. Sagitario, esta semana has de cerrar algunos ciclos de verdad.
+## Empieza a hacerte promesas a ti mismo Sagitario, empieza a prometerte amor propio, hoy y siempre. 
 
-Se avecinan cambios Sagitario, cambios grandes. Estás en una etapa un tanto selectiva, no te conformas con poco, a veces no te conformas con nada. Y estás en tu derecho. De verdad, ya era hora de que callaras la boca a más de uno que lleva intentando joderte la vida un tiempo. No pasas ni una Sagitario, y no la pasas porque no te da la gana, porque ya has aguantado demasiadas cosas. Porque, en el fondo, pensabas que todo podría cambiar, que, como tú, las personas se dan cuenta de los errores que cometen y dan marcha atrás para intentar solucionarlos. Pero no Sagitario. No todo el mundo es como tú. Así que, si esta semana piensan que eres un estúpido borde que lo piensen, si creen que has cambiado y que pasas de todo que lo crean. No estás para dar explicaciones a nadie, que la gente piense lo que le de la gana. Ves a tu rollo, mantén a cabeza bien alta y si no eres delicado en tus formas que traten de pensar que puede ser por alguna razón. Pero que se quiebren la cabeza. En serio, no necesitas volver a retomar conversaciones una y otra vez para acabar siempre en lo mismo. Deja de obsesionarte por el resto, deja de ponerles siempre primero antes que a ti. Todos tenemos un límite. Y es normal que el tuyo haya llegado ya. Feliz semana Sagitario.
-El sol, que hace poco llegó a tu sector de comunicación, se traslada para alinearse al incansable Urano en un sector más recluido. Esto podría brindarte determinación para decir tu verdad, independientemente de si los demás quieren oírla o no. Sin embargo, hay momentos en que las personas prefieren un enfoque más sensible en torno a las conversaciones clave. Tu planeta regente, se vuelve retrógrado en el mismo sector el Miercoles y permanece así durante aproximadamente tres semanas. Asegúrate de respaldar documentos y archivos importantes, y de guardar recibos y documentación relacionados con compras grandes e importantes negocios. 
-La actividadi lunar del viernes en Acuario y en tu sector de viajes y educación superior podría coincidir con un poderoso empuje a fin de expandir tus horizontes y abandonar tu zona de confort. Podrías descubrir que tu entorno actual es demasiado restrictivo y buscar algo más. Por último, cuando el delicioso Venus se alinea con el potente Plutón ese mismo día, un secreto familiar podría salir a la luz.
+Hay gente que no respeta que puedas crecer Sagitario, hay gente que no entiende que a veces tengas que mirar por ti mismo antes que por los demás. Ya has pasado demasiado ¿no crees? No puedes estancarte con nada ni con nadie. Ahora es el momento en el que debes tomar decisiones y quien de verdad quiera estar a tu lado puede seguirte. Ya no quieres estar detrás de nadie anteponiendo siempre sus vidas a la tuya, sus metas a tus objetivos, ya estás cansado de ir detrás del mundo. Es ahora el mundo quien debe, si quiere, ir detrás de ti. Llegan buenos tiempo para los Sagitario pero tienes que ser positivo. Todo lo que hagas hoy te repercutirá mañana, cada paso, cada peldaño que subas, cada decisión que tomes. Es importante que tengas todo claro y que cuando te enfoques en algo pelees por ser el mejor. Todo lo que des lo vas a atraer, si tu ambiente es positivo atraerás lo positivo, y ahora debe ser así. Y si surge algún pensamiento negativo trata de esquivarlo como sea, y si no puedes hacerlo, impulsa tu ego y llénate de piropos y de cosas positivas, no puedes dejar que lo negativo domine tu vida, tienes que tomar el control. Crece Sagitario, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
+Aunque el actual enfoque en tu sector financiero podría animarte a gastar de más, tu instinto podría llevarte a disminuir tus gastos hogareños y familiares. Es posible que encuentres formas de reducir tus facturas en general y aun así poder seguir viviendo cómodamente. Todos tus esfuerzos podrían verse frustrados si gastas de forma impulsiva, especialmente alrededor del día viernes. De hecho, evita hacer cualquier cosa en el calor del momento y te ahorrarás un montón de problemas.
 
 ## Dinero
 
-La buena noticia es que tienes actividad en tu sector de rutina diaria de trabajo, lo que puede aportar muchas nuevas oportunidades para expandir tu presencia o hacer que tu trabajo destaque. El Universo tiende a cambiar las cosas, pero a veces las cambia de nuevo con la misma rapidez. Muévete rápido para aprovechar los dones que se te proveen. Mientras tanto, lo mejor es cooperar en el trabajo para que nadie pierda los estribos.
+Esta semana tus energías masculinas y femeninas están trabajando hacia los mismos objetivos. Atrás quedaron las disputas sobre quién debe gastar y cómo debe gastarse el dinero. Tu deuda da un giro a la baja a medida que diriges tu energía hacia esta zona. Mientras tanto, el gasto de tiempo y esfuerzo en tu sector puede traer un inesperado dinero en efectivo. Sólo asegúrate de tener más de un presupuesto para poder comparar.

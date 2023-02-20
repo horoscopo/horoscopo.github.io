@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: leo 13 de febrero 2023 al 19 de febrero 2023 
-description: Horóscopo semanal leo 13 de febrero 2023 al 19 de febrero 2023. Estás a tope Leo, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
+title: leo 20 de febrero 2023 al 26 de febrero 2023 
+description: Horóscopo semanal leo 20 de febrero 2023 al 26 de febrero 2023. Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2023-02-13
+ogimg: /images/zodiac/semanal_leo.png#2023-02-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-02-13'
+ lastmod: '2023-02-20'
 ---
 
 
 
-## Estás a tope Leo, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
+## Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
 
-Si aún sientes que hay cosas pendientes lo primero que debes de hacer es solucionarlas, sobre todo para poder empezar cosas nuevas, dejarlas a medias sólo te llevará a acumular y a acumular y eso no te lleva a ningún puerto, solamente a estallar en el momento menos esperado. Por eso, 
-Después podrás abrir nuevas puertas, pero no dejes entre abiertas las demás…
-El cosmos te anima a confiar en tus instintos, en especial al comienzo de la semana cuando puede que te conduzcan a una oportunidad que, de otro modo, perderías. Tu intuición también puede guiarte en otros aspectos, por lo que vale la pena prestar atención a esos sutiles mensajes que vienen desde adentro. Al mismo tiempo, cuando Neptuno entra en juego, podrías sentir la tentación de tomarte un tiempo para la reflexión y meditación. Si lo haces, esto podría ayudarte a tener más tranquilidad y paz en tu interior. 
-El jueves, el ingreso del sol a Cáncer y a un sector más sensible de tu carta podría ponerte en contacto con poderosas emociones durante las próximas semanas. Este puede ser un buen momento para procesar aquellas experiencias que tal vez te hayan impedido avanzar en el pasado. Hacerlo puede reconfortarte y recargar tus energías. Además, un muy estimulante tránsito durante ese mismo día podría animarte a acercarte a una persona que te resulta muy atractiva.
+Parece que no todo va tan mal, no ¿Leo? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada.
+Evita compras impulsivas a principios de la semana, ya que puede que lo lamentes posteriormente. Al mismo tiempo, si estás a punto de firmar o comprometerte a algo, asegúrate de leer los términos y condiciones antes de hacerlo. Mientras tanto, aunque puede que tengas mucha disposición a apresurar cierto romance, lo mejor sería limitar tus expectativas e ir con la corriente. Una vez que Venus comience a avanzar el domingo, tu vida amorosa mejorará y tendrás una mejor idea de tu situación.
 
 ## Dinero
 
-Ciertos aspectos afectan tu sector de carrera y de autoridad, demostrando que lo que aportas a la mesa es un conocimiento profundo de tu trabajo, así como un comportamiento profesional. La actividad en el sector de tu carta que afecta a tu potencial de ingresos dice que está cambiando para bien. Con un poco de paciencia, puede ser todo lo que quieres que sea en el futuro.
+Esta semana tiene que ver con el Universo permitiéndote tener más magnetismo y creatividad. Añade a esto que ciertos aspectos actualmente afectan a tu sector de trabajo, y tienes una maravillosa semana para empezar a pensar en iniciar un negocio en el modo de aumentar tus ingresos con otra empresa. Puede que haya cierta inestabilidad. Prepárate lo más que puedas con planes de ahorro y alternativas.
