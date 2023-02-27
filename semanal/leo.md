@@ -1,27 +1,29 @@
 ---
 layout: horoscopos
-title: leo 20 de febrero 2023 al 26 de febrero 2023 
-description: Horóscopo semanal leo 20 de febrero 2023 al 26 de febrero 2023. Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+title: leo 27 de febrero 2023 al 05 de marzo 2023 
+description: Horóscopo semanal leo 27 de febrero 2023 al 05 de marzo 2023. Nada tiene que ser ahora suficiente para ti Leo, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. 
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2023-02-20
+ogimg: /images/zodiac/semanal_leo.png#2023-02-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-02-20'
+ lastmod: '2023-02-27'
 ---
 
 
 
-## Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+## Nada tiene que ser ahora suficiente para ti Leo, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. 
 
-Parece que no todo va tan mal, no ¿Leo? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada.
-Evita compras impulsivas a principios de la semana, ya que puede que lo lamentes posteriormente. Al mismo tiempo, si estás a punto de firmar o comprometerte a algo, asegúrate de leer los términos y condiciones antes de hacerlo. Mientras tanto, aunque puede que tengas mucha disposición a apresurar cierto romance, lo mejor sería limitar tus expectativas e ir con la corriente. Una vez que Venus comience a avanzar el domingo, tu vida amorosa mejorará y tendrás una mejor idea de tu situación.
+Por eso respira antes de soltar por tu boca cualquier cosa dañina. Al final, sin querer, puedes herir a más de uno/a y sobretodo, herirte a ti mismo/a… 
+así que, deja a un lado esa ansia que hace que repitas los errores más de una vez y céntrate en lo que merece y en lo que no. La teoría la tienes más que clara, ahora sólo llévalo a la práctica. Pero no un día sí y otro no, si te lo has planteado, hasta el final.
+Cuando el animado Marte, tu planeta regente en cuanto a relaciones, se encuentra en tu sector de creatividad y romance, los próximos días y semanas pueden animarte a ser más firme. Puede ser uno de los mejores momentos para que los demás vean qué puedes hacer. No temas mostrar tus talentos o establecer nuevas conexiones. Una persona que conoces en nuevos ámbitos podría ser perfecta para ti. Solo necesitas la voluntad para salir de tu zona de confort. 
+La actividad lunar el jueves te trae la oportunidad de reflexionar sobre una meta y considerar qué tan bien van las cosas. Puede que sea uno de los mejores momentos para hacer cualquier ajuste necesario antes de avanzar. Cuando el sol se traslada a Piscis y a tu sector de amistad el martes, tu vida social podría comenzar a brillar con oportunidades. Recaudar dinero para una organización de caridad también podría traerte mucha satisfacción.
 
 ## Dinero
 
-Esta semana tiene que ver con el Universo permitiéndote tener más magnetismo y creatividad. Añade a esto que ciertos aspectos actualmente afectan a tu sector de trabajo, y tienes una maravillosa semana para empezar a pensar en iniciar un negocio en el modo de aumentar tus ingresos con otra empresa. Puede que haya cierta inestabilidad. Prepárate lo más que puedas con planes de ahorro y alternativas.
+El enfoque de tu vida recae en tus relaciones con los demás, especialmente en las personas relacionadas con ambas, tu vida profesional y financiera. Puedes percatarte de que los intercambios que tienen juntos son de amor y de apoyo, incluso ahora. Hay una energía maravillosamente creativa entre ustedes. Sin embargo, puesto que la verdad también puede ser empañada, traten de encontrarla en conjunto.

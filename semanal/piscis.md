@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 20 de febrero 2023 al 26 de febrero 2023 
-description: Horóscopo semanal piscis 20 de febrero 2023 al 26 de febrero 2023. No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya Piscis. Muévete o haz que se mueva el resto.
+title: piscis 27 de febrero 2023 al 05 de marzo 2023 
+description: Horóscopo semanal piscis 27 de febrero 2023 al 05 de marzo 2023. El mundo puede esperar Piscis, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2023-02-20
+ogimg: /images/zodiac/semanal_piscis.png#2023-02-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-02-20'
+ lastmod: '2023-02-27'
 ---
 
 
 
-## No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya Piscis. Muévete o haz que se mueva el resto.
+## El mundo puede esperar Piscis, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 
-Eres así, y quien intente cambiarlo, debe tener claro que será imposible. El problema es cuando te metes en los juegos más de lo que debes. 
- y es que no puedes parar, de verdad.
-Podrías tener muchas ganas de viajar y buscar explorar un nuevo territorio. Este deseo de disfrutar nuevas experiencias podría ser una señal de que ciertos aspectos de tu vida deben actualizarse. Si tus rutinas se volvieron demasiado normales, sin duda necesitarás algo diferente. La actividad Lunar de esta semana podría poner en tu camino nuevas oportunidades que resplandecen de promesas. Más trata de no apresurarte. En cambio, dedica tiempo para analizar en profundidad los beneficios de cada opción.
+No arriesgues, no apuestes si no es victoria segura, es un consejo. Si tienes algo claro ve a por ello a muerte pero si dudas no pelees ni luches, al menos por ahora. Has perdido muchas fuerzas en otros asuntos y lo que menos te conviene es seguir perdiéndola en cosas en las que no sabes si vas a ganar. Ha llegado el momento en el que debes hacerte valorar más. El pasado te ha creado esa inseguridad que a veces tienes a la hora de tomar decisiones, y sí, antes quizá pensabas todo demasiado pero ahora estás en modo “lo tiro todo por la ventana”. Cuidado Piscis, cuidado porque los cambios no pueden ser radicales, no tienes la fuerza necesaria ahora para andar arriesgando tontamente y sólo porque en el momento te apetezca. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
+Esta podría ser una excelente oportunidad para comenzar de nuevo con respecto a tu camino espiritual. La actividad lunar del lunes podría animarte a aprender a meditar, tomar clases de yoga o conectar con otras personas que compartan tus ideales. Aun así, ciertas creencias heredadas de tu infancia o de otra vida podrían entrar en conflicto con las ideas que quisieras adoptar. Tendrás que resolver esto de cualquier manera que sientas es la mejor. La semana combina la sensualidad de Tauro con la pasión de Escorpión, creando una ocasión bastante especial.
 
 ## Dinero
 
-Con un enfoque en los viajes, la educación superior y las culturas extranjeras, es un buen momento para considerar cómo se puede ganar dinero extra apelando a los compradores extranjeros. Si tu empresa no está haciendo negocios en línea, tal vez es hora de recomendarlo. También podrías decidir continuar tu educación para profundizar tus habilidades. Es el momento de considerar otras opciones de trabajo. Tu trabajo actual no está funcionando.
+Esta semana estás pensando en cómo poner en marcha tu creatividad. Ciertos aspectos afectan tu sector de comunicación e ideas, así como también las relaciones. El Universo exige que cada vez tengas más madurez en tu pensamiento y en la manera de expresar tus ideas. Al mismo tiempo, hay una especie de ensueño de confusión acerca de con quién trabajar y cuándo. Cuando asumes nueva seriedad, el dinero te sigue inevitablemente.

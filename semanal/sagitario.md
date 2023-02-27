@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 20 de febrero 2023 al 26 de febrero 2023 
-description: Horóscopo semanal sagitario 20 de febrero 2023 al 26 de febrero 2023. Empieza a hacerte promesas a ti mismo Sagitario, empieza a prometerte amor propio, hoy y siempre. 
+title: sagitario 27 de febrero 2023 al 05 de marzo 2023 
+description: Horóscopo semanal sagitario 27 de febrero 2023 al 05 de marzo 2023. Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2023-02-20
+ogimg: /images/zodiac/semanal_sagitario.png#2023-02-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-02-20'
+ lastmod: '2023-02-27'
 ---
 
 
 
-## Empieza a hacerte promesas a ti mismo Sagitario, empieza a prometerte amor propio, hoy y siempre. 
+## Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
 
-Hay gente que no respeta que puedas crecer Sagitario, hay gente que no entiende que a veces tengas que mirar por ti mismo antes que por los demás. Ya has pasado demasiado ¿no crees? No puedes estancarte con nada ni con nadie. Ahora es el momento en el que debes tomar decisiones y quien de verdad quiera estar a tu lado puede seguirte. Ya no quieres estar detrás de nadie anteponiendo siempre sus vidas a la tuya, sus metas a tus objetivos, ya estás cansado de ir detrás del mundo. Es ahora el mundo quien debe, si quiere, ir detrás de ti. Llegan buenos tiempo para los Sagitario pero tienes que ser positivo. Todo lo que hagas hoy te repercutirá mañana, cada paso, cada peldaño que subas, cada decisión que tomes. Es importante que tengas todo claro y que cuando te enfoques en algo pelees por ser el mejor. Todo lo que des lo vas a atraer, si tu ambiente es positivo atraerás lo positivo, y ahora debe ser así. Y si surge algún pensamiento negativo trata de esquivarlo como sea, y si no puedes hacerlo, impulsa tu ego y llénate de piropos y de cosas positivas, no puedes dejar que lo negativo domine tu vida, tienes que tomar el control. Crece Sagitario, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
-Aunque el actual enfoque en tu sector financiero podría animarte a gastar de más, tu instinto podría llevarte a disminuir tus gastos hogareños y familiares. Es posible que encuentres formas de reducir tus facturas en general y aun así poder seguir viviendo cómodamente. Todos tus esfuerzos podrían verse frustrados si gastas de forma impulsiva, especialmente alrededor del día viernes. De hecho, evita hacer cualquier cosa en el calor del momento y te ahorrarás un montón de problemas.
+Es algo muchas veces inconsciente. Es algo que quizás tu cuerpo quiere esconder porque en el fondo, te encanta parecer que eres una persona fuerte y sí, incluso poco demostrativa, pero sabes que en realidad no es tan así. 
+ que quizás te hagan tener un futuro mucho mejor y más satisfactorio.
+Las oportunidades sociales y las reuniones en tu hogar pueden traerte mucha satisfacción y la oportunidad de socializar con gente nueva. La comunicación e interacción pueden jugar un papel importante en los acontecimientos de esta semana, sobre todo si algo necesita ser discutido. Con el fin de aprovechar al máximo las influencias de esta semana, te ayudaría hacerle frente a cualquier malentendido tempranamente antes de que tenga la oportunidad de agravarse. La actividad lunar puede traer consigo la oportunidad de perdonar, olvidar y empezar de nuevo.
 
 ## Dinero
 
-Esta semana tus energías masculinas y femeninas están trabajando hacia los mismos objetivos. Atrás quedaron las disputas sobre quién debe gastar y cómo debe gastarse el dinero. Tu deuda da un giro a la baja a medida que diriges tu energía hacia esta zona. Mientras tanto, el gasto de tiempo y esfuerzo en tu sector puede traer un inesperado dinero en efectivo. Sólo asegúrate de tener más de un presupuesto para poder comparar.
+Este período tiene que ver con los opuestos. Puede que estés tratando de manifestar una nueva relación en tu vida con un mentor, empleador o socio de negocios. Y con cierta actividad en el área que rige las relaciones serias, podrías conocer a la persona adecuada en el momento adecuado. Juntos, pueden mover montañas en el mundo de los negocios, ¡por lo que definan parámetros y manos a la obra! Más deben actuar con rapidez.
