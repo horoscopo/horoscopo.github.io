@@ -1,23 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Capricornio Febrero 2023 
+title: Horoscopo Capricornio Marzo 2023 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Capricornio_mes.png#2023-01-28
+ogimg: /images/mes/Capricornio_mes.png#2023-03-01
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-01-28'
+ lastmod: '2023-03-01'
 ---
 
 
-Este mes sentirás el amor, estimable Capricornio, mientras Venus, el planeta del romance y el dinero, entra a tu signo el 2 de febrero. Estas vibras son perfectas para explorar el costado más dulce de la vida, aunque con certeza habrá una apasionada e interesante energía acompañando esta ubicación planetaria.
-Mientras que los asuntos del corazón estarán en tu mente, asegúrate de usar este clima cósmico como excusa para darle prioridad a tus necesidades mientras disfrutas de cuidarte a ti. El universo quiere que sientas la adoración y los cuidados, tanto solo de las personas que te rodean sino también de tu parte.
-La suerte estará de tu lado desde el momento en que el auspicioso Júpiter entra a Capricornio el día 10. Utiliza esta oportunidad para reevaluar tus metas personales, ya que con seguridad verás crecimiento en donde sea que enfoques tu energía durante los próximos meses. Por este motivo es importante que gravites solo hacia personas, experiencias y comportamientos positivos que puedan ayudarte a llegar a nuevas alturas.
-Marte, tu planeta regente, entra a tu signo durante la noche del 24 de febrero, y pone en tu camino una oleada de actividad que se extenderá durante las próximas semanas. Deberías sentir inspiración, motivación y pasión por tus ambiciones, haciendo que este sea el momento ideal para comenzar nuevos proyectos y perseguir tus sueños de forma incansable. Esto es algo particularmente importante a tener en cuenta cuando Marte y Júpiter se unan en el cosmos el día 25. Esta alianza cósmica podría hacer que incluso la más pequeña de las acciones desencadene un tsunami, por lo que es mejor que siembres algunas semillas para el futuro.
-Días destacados: 8, 15, 24
-Días desafiantes: 3, 19, 27
+El mundo loco y ruidoso puede intentar invadir tu estado mental durante la luna llena y la actividad solar del 7 de marzo. Respira profundo y no respondas a los gritos. Tienes muchas personas poderosas que te apoyan. Mercurio se torna estacionario directo el día 18. Puede que lleve un tiempo, pero se volverá más fácil pensar con claridad y reorganizarte. Si has perdido algo, lo encontrarás pronto.  El 21 de marzo, el sol sale de Piscis y entra en Aries. Dale prioridad a tratarte bien y ser una persona más saludable y activa en el hogar. ¿Necesitas otro gatito o perrito? ¿Tal vez un jardín más grande o más plantas? La luna nueva del día 21 ilumina tu vida amorosa. Baja un poco tus defensas emocionales, y deja que la apariencia o comentarios de alguien causen una mayor impresión. Al día siguiente, Marte se torna directo después de haber estado retrógrado desde el 26 de marzo. La ambición, motivación y pasión comienzan a aumentar. Días destacados: 13, 17, 30Días desafiantes: 4, 10

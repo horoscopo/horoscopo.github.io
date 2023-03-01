@@ -1,22 +1,22 @@
 ---
 layout: amp
-title: Horoscopo Acuario Febrero 2023 
+title: Horoscopo Acuario Marzo 2023 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Acuario_mes.png#2023-01-28
+ogimg: /images/mes/Acuario_mes.png#2023-03-01
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-01-28'
+ lastmod: '2023-03-01'
 ---
 
 
-Las sorpresas te lloverán cuando el sol, Venus y Mercurio en Acuario transitan por tu quinta casa solar, estimable Acuario, revitalizando tu deseo de acción y aventura. Estas vibras te empujarán a explorar nuevos horizontes, en especial cuando se trata de pasar tiempo con tus seres queridos o fomentar una habilidad creativa. Exponerte a nuevas ideas y experiencias aumentará tu ego y tu sentido de fortaleza, transformándote en una versión más segura y completa de tu ya brillante ser. La gratitud llegará fácilmente si eres capaz de encontrar formas de mantener ocupada tu agenda, así que asegúrate de llenar cualquier espacio vacío significativo.
-Aunque es verdad que la diversión ocupará mucho espacio de tu tiempo en este momento, te enfocarás en tus responsabilidades una vez que el sol ingresa a Piscis el día 20. Esta ubicación solar te pide que tomes todo con más calma y hagas un balance de tu situación, poniendo énfasis en atar los cabos sueltos antes de que comience el nuevo año. Si ha pasado un tiempo desde la última vez que te hiciste un chequeo médico o dental, deberías programar algunas citas. Las estrellas te animan a que priorices tu salud.
-Tómate un tiempo para fijar tus objetivos para el 2023 durante la luna nueva en Capricornio el 20 de febrero, y toma nota de cualquier meta que desearías alcanzar en los próximos seis meses. Este evento lumínico te recordará la importancia de planificar con anticipación, en especial si tus objetivos requieren una atención constante. También es posible que desees establecer límites con respecto a cualquier hábito que se haya interpuesto en el camino de tu crecimiento personal, como la desorganización o la procrastinación.
-Días destacados: 12, 20, 21
-Días desafiantes: 11, 13, 16
+Urano retrógrado vuelve a entrar a Aries el 6 de marzo. Toma una actitud más aventurera (otra vez) de una forma moderada. La luna llena del día siguiente te vuelve protagonista, o la persona a la que acudir, en el trabajo o entorno social. Arregla una situación delicada, haz que parezca fácil, y recibirás mucho crédito de muchas personas. 
+El día 16, Venus se torna directo justo antes de que Mercurio se torne retrógrado. Siéntete más a gusto con una relación romántica sin necesidad de expresar abiertamente tus sentimientos. La conjunción que la luna forma con Urano el 20 de marzo te hace sentir más valiente por un rato. 
+No te preocupes si la luna nueva del día 21 te hace tambalear. Hasta tú puedes ser una persona indecisa a veces. Haz lo que te gusta y alegra tu corazón. Si se trata de salir y socializar con otros, siéntete libre. Hay gente con energía e ideas ahí afuera. Simplemente observa, si es lo que se siente bien. 
+Días destacados: 20, 21, 27
+Días desafiantes: 13, 30

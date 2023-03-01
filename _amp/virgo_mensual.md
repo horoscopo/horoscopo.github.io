@@ -1,18 +1,24 @@
 ---
 layout: amp
-title: Horoscopo Virgo Febrero 2023 
+title: Horoscopo Virgo Marzo 2023 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Virgo_mes.png#2023-01-28
+ogimg: /images/mes/Virgo_mes.png#2023-03-01
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-01-28'
+ lastmod: '2023-03-01'
 ---
 
 
-El sol forma una conjunción con Mercurio retrógrado el 8 de febrero y empodera tu intuición y reflexiones. Mira algún problema (o a una persona) desde una nueva perspectiva. La vida en el vecindario sube de tono con la luna llena del 5 de febrero, cuando tu voz interior podría volverse dolorosa. Elige lo que quieres hacer y con quién, y no te disperses demasiado. El día 18, Mercurio retrógrado forma un sextil con Venus, y doce horas después Mercurio se torna directo. Escucha bien y presta atención a lo que un ser amado te está mostrando. La luna nueva del 20 de febrero podría ponerte en el centro de atención en la sociedad o en el trabajo. Lo que hoy parece ser un acto de bondad al azar será recordado y recompensado después. Al día siguiente, Marte se torna directo después de haber estado retrógrado desde el 26 de febrero. Pero no te apresures a hacer o decidir cualquier cosa importante. Ahora Mercurio forma una cuadratura con Júpiter. Date tiempo. Días destacados: 7, 14, 26 Días desafiantes: 4, 10</div>
+El sol forma un trígono con Neptuno el 5 de marzo. Que tus aspiraciones y ambiciones aumenten. 
+La vida familiar y doméstica se ven geniales con la luna llena del día 7. Alegra tu corazón con un gran cambio, o un cambio pequeño que te dé una gran satisfacción, que sea práctico y funcional por completo, sin nada cosmético. 
+El 16 de marzo, Venus al fin se torna directo mientras Mercurio se torna retrógrado. Los rencores pueden atenuarse, pero probablemente es demasiado pronto para hablar con palabras más suaves que no serán malinterpretadas. 
+Durante la luna nueva del día 21, una gran cantidad de cosas maravillosas pueden buscarte, pero el impulso más fuerte puede ser alejarte de todo, salir, y estar con personas. Eso también puede ser algo valioso, así que no te sientas culpable si no terminas de hacer tus cosas. Puedes hacerlas después. El sol entra en Aries ese día también. Hay un fuerte impulso de ser sociable. 
+El sol forma una conjunción con Júpiter el 25 de marzo. Disfruta en grande de la suerte que tienes. 
+Días destacados: 7, 11, 25
+Días desafiantes: 21, 29

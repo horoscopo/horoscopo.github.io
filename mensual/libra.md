@@ -1,27 +1,24 @@
 ---
 layout: horoscopos
-title: Horoscopo Libra Febrero 2023
-description: El Horóscopo Febrero de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Libra Marzo 2023
+description: El Horóscopo Marzo de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/libra/
 amplink: /horoscopo-mensual/amp/libra/
 home: FALSE
-keywords: horóscopo febrero, horoscopos en español, horóscopo Libra febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Libra, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo marzo, horoscopos en español, horóscopo Libra marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Libra, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/libra_mes.png#2023-01-28
+ogimg: /images/mes/libra_mes.png#2023-03-01
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-01-28'
+ lastmod: '2023-03-01'
 ---
 
 
- > Libra las circunstancias que estás viviendo actualmente harán que, durante el mes de febrero, te replantees relaciones y vínculos, afrontando además nuevos retos que necesitabas para avanzar.
+ > Libra, este mes las energías que emanan Júpiter en tu signo y Marte en Géminis aumentan tu moral ¡tu cabeza estará llena de ideas y proyectos nuevos! No te precipites hasta mitad de marzo, cuando lo complicado se volverá simple. Tu campo de acción se abrirá a otras perspectivas y los demás estarán receptivos a tus ideas. Tus proyectos tienen todo lo que necesitas para que los lleves a buen término.
 
 
 
-El 5 de febrero, el sol forma una conjunción con Mercurio en Géminis. Tu intuición es aguda, y tu interés en el mundo es grande. Mira lo que puedes encontrar. La profesión se ve resaltada durante la luna llena del día 5. Tal vez sea un buen momento para un gran cambio o varios ajustes pequeños. Sé flexible y razonable, y escucha a los demás tanto como hablas. Trabajo y diversión pueden superponerse cuando la luna nueva el 20 de febrero. Tómate en serio una pasión personal, y ten entusiasmo por una tarea que necesita cumplirse. Siéntete bien con todo tu progreso, y ten en cuenta que las cosas pasarán cuando llegue el momento adecuado. 
-
-Días destacados: 1, 12, 25
-Días desafiantes: 6, 23
+La Luna llena al inicio de marzo ilumina tu vida social y tu compromiso hacia cualquier club u organización a los que perteneces. Una causa o grupo podría llamarle la atención a tu sentido de servicio público y podría darte inspiración para unirte como voluntario. En cualquier caso, tu interés inspirará a otros. Escucha lo que tus corazonadas te digan cuando la Luna conjunte a Neptuno el 13 de marzo. Haz uso de tu intuición y ten un gran día en el trabajo. Brilla saludable y felizmente bajo la Luna nueva del 21 de marzo. Puede que incluso te encuentres cuidando de una nueva mascota, si no es que de una nueva y noble causa. Disfruta de ese brillo dorado interior.   

@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: Horoscopo Escorpio Febrero 2023
-description: El Horóscopo Febrero de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Escorpio Marzo 2023
+description: El Horóscopo Marzo de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/escorpio/
 amplink: /horoscopo-mensual/amp/escorpio/
 home: FALSE
-keywords: horóscopo febrero, horoscopos en español, horóscopo Escorpio febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Escorpio, Tarot, Astrologia, Zodíaco, Escorpio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo marzo, horoscopos en español, horóscopo Escorpio marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Escorpio, Tarot, Astrologia, Zodíaco, Escorpio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/escorpio_mes.png#2023-01-28
+ogimg: /images/mes/escorpio_mes.png#2023-03-01
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-01-28'
+ lastmod: '2023-03-01'
 ---
 
 
- > Escorpio, febrero será un gran mes para ti, pleno de felicidad y en el que disfrutarás de un magnetismo propio de una estrella de cine. Si a esto le acompañas la gran energía sexual de la que harás gala, todo apunta a que lo pasarás muy bien.
+ > Escorpio, la palabra novedad estará muy presente en un mes de marzo cargado de situaciones a las que no te habías enfrentado antes. Vas a tener que adaptarte rápido y sacarás lo mejor de ti para hacerlo. Cuando esté acabando el mes estarás muy orgullosa de ti y tu satisfacción se verá reflejada en todo lo que haces.
 
 
 
-¡Feliz año nuevo Escorpio! El ciclo retrógrado de Mercurio termina el 3 de febrero en Aries. Un retraso en el trabajo también podría terminar. Las amistades son tu mayor riqueza durante la Luna Llena del 5 de febrero. No tendrás que “invadir” tu vida de personas. Una o dos amistades especiales te brindarán todo el amor y la diversión que podrías pedir. La Luna Nueva del 20 de febrero ofrece distintas opciones de trabajo o carrera. Puede que te ofrezcan muchos nuevos proyectos, la mayoría de ellos a corto plazo. Evalúalos y luego elige los que mejor te permitan mostrar tus talentos y habilidades. También ten en cuenta tu satisfacción personal. Tienes la energía para aceptar todo lo que quieras.
+Sin importar qué tan ocupada se vuelva la escena social, nada puede competir con el placer de quedarse a solas en casa. Recarga tus baterías emocionales bajo la luz de la Luna Llena del 7 de marzo para recibir fresca y fuertemente lo que sea que el mundo te termine lanzando. Comportarte audazmente en tu trabajo posterior a la Luna Nueva del 21 de marzo podría crearte una gran oportunidad. Adoptar más responsabilidades te ganará apoyo. Si te interesa un cambio de trabajo o carrera, puede que te sea posible hacerlo ahora. El fin de semana del 23 de marzo será muy divertido pero no demasiado loco. Podrás sentir tu riqueza y a la vez tu responsabilidad.  

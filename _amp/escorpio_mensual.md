@@ -1,18 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Escorpio Febrero 2023 
+title: Horoscopo Escorpio Marzo 2023 
 permalink: /horoscopo-mensual/amp/escorpio/
 normallink: /horoscopo-mensual/escorpio/
 home: FALSE
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Escorpio_mes.png#2023-01-28
+ogimg: /images/mes/Escorpio_mes.png#2023-03-01
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-01-28'
+ lastmod: '2023-03-01'
 ---
 
 
-¡Feliz año nuevo Escorpio! El ciclo retrógrado de Mercurio termina el 3 de febrero en Aries. Un retraso en el trabajo también podría terminar. Las amistades son tu mayor riqueza durante la Luna Llena del 5 de febrero. No tendrás que “invadir” tu vida de personas. Una o dos amistades especiales te brindarán todo el amor y la diversión que podrías pedir. La Luna Nueva del 20 de febrero ofrece distintas opciones de trabajo o carrera. Puede que te ofrezcan muchos nuevos proyectos, la mayoría de ellos a corto plazo. Evalúalos y luego elige los que mejor te permitan mostrar tus talentos y habilidades. También ten en cuenta tu satisfacción personal. Tienes la energía para aceptar todo lo que quieras.
+Sin importar qué tan ocupada se vuelva la escena social, nada puede competir con el placer de quedarse a solas en casa. Recarga tus baterías emocionales bajo la luz de la Luna Llena del 7 de marzo para recibir fresca y fuertemente lo que sea que el mundo te termine lanzando. Comportarte audazmente en tu trabajo posterior a la Luna Nueva del 21 de marzo podría crearte una gran oportunidad. Adoptar más responsabilidades te ganará apoyo. Si te interesa un cambio de trabajo o carrera, puede que te sea posible hacerlo ahora. El fin de semana del 23 de marzo será muy divertido pero no demasiado loco. Podrás sentir tu riqueza y a la vez tu responsabilidad.  
