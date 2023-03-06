@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 27 de febrero 2023 al 05 de marzo 2023 
-description: Horóscopo semanal capricornio 27 de febrero 2023 al 05 de marzo 2023. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Capricornio, no hay casualidades ni coincidencias.
+title: capricornio 06 de marzo 2023 al 12 de marzo 2023 
+description: Horóscopo semanal capricornio 06 de marzo 2023 al 12 de marzo 2023. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Capricornio. Ahora brillas así que, aprovecha. Aprovecha todo.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2023-02-27
+ogimg: /images/zodiac/semanal_capricornio.png#2023-03-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-02-27'
+ lastmod: '2023-03-06'
 ---
 
 
 
-## Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Capricornio, no hay casualidades ni coincidencias.
+## Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Capricornio. Ahora brillas así que, aprovecha. Aprovecha todo.
 
-Aunque creas que tus asuntos están cerrados del todo no es así, y en el fondo lo sabes, por eso por fuera querrías hacer muchas cosas ya, en el momento, pero sin embargo por dentro sabes que con calma y con cabeza fría las decisiones se toman mucho mejor. 
- En la vida, valora lo que pierdes, pero mucho más lo que ganas. Debes aprender a desprenderte de lo que no te hace bien, debes aprender a echar de tu vida o a alejarte de lo que te causa más de un problema.
-Una tentadora oferta podía verte considerando tomar un viaje a alguna parte que te ofrezca poder escaparte de la vida. Si vas, es probable que lo disfrutes. Por otro lado, hablar con una amistad podría animarte a estudiar o incluso viajar juntos y beneficiarse de forma muy positiva de la experiencia. Pareces estarte llevando cada vez mejor con un jefe u otra persona que tiene una influencia positiva, pero es posible que sus ideas e ideales difieran mucho en algunos aspectos. Aun así, esto podría añadirle valor a su relación.
+Tienes que motivarte Capricornio. Esa es tu misión esta semana. Y sí, lo necesitas más que nunca. A pesar de todo lo malo piensa que siempre podía haber sido peor. No te condenes ni te quedes anclado. ¿Que algo te ha hecho daño? Pues te secas las lágrimas, escurres todo el dolor y para adelante. Sin contemplaciones. No hay oro camino Capricornio. Tu ritmo de vida estaba un poco apagado y tienes que volver a encenderlo como sea. A veces te dan unos bajones impresionantes, y te metes en tu cueva, y tardas mucho en volver a salir pero ¿eso de qué te sirve? Muchas veces de nada… Porque el problema sigue y lo único que has hecho ha sido perder el tiempo… Deja atrás toda esa mierda, márcate un viaje y despéjate. Vuelve a tener ilusión por lo que importa, ten fe en que todo puede solucionarse pero que si no se soluciona tampoco pasa nada. Fuera las preocupaciones. Tira del carro Capricornio, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte. No te abandones más, cualquier cosa puede marcar tu vida pero debes estar ahí para verlo. Pelea siempre por lo que te merezca la pena, lo demás es tiempo perdido. Y qué pasa Capricornio, ¿tu tiempo no vale nada o qué?
+Se produce un intenso enfoque en tu sector de cambios y transformación, en especial cuando el sol ingresa a tal sector el martes. Este énfasis podría hacer que explores cuestiones que puede que te hayan retrasado durante algún tiempo. Es una oportunidad para profundizar y dejar atrás sentimientos negativos del pasado que se están entrometiendo en tu progreso. Espera una sorpresa hacia el final de la semana, cuando un inesperado invitado podría aparecerse o pudieras recibir una linda invitación.
 
 ## Dinero
 
-Esta semana es acerca de cierta emocionante pero intimidante actividad en tu sector de comunicaciones solicitándote que te vuelvas más profesional en tu forma de hablar. Aunque se sienta como algo tenso, es una excelente oportunidad para profundizar en las prácticas espirituales como la meditación y el yoga, especialmente si te ayudan a procesar nuevas ideas que pueden llegar a producirte más dinero.
+Es crucial no aceptar la palabra de todos por ahora, sino más bien descubrir por ti cuál podría ser el mejor plan para tu dinero. Los vehículos de inversión pueden ser confusos, por lo que cuenta con la ayuda de un asesor financiero calificado que pueda ayudarte a solucionar las ecuaciones numéricas y lograr que todo se haga. Mientras tanto, el Universo añade un poco de emoción.

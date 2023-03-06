@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 27 de febrero 2023 al 05 de marzo 2023 
-description: Horóscopo semanal acuario 27 de febrero 2023 al 05 de marzo 2023. Quita importancia a las cosas Acuario, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
+title: acuario 06 de marzo 2023 al 12 de marzo 2023 
+description: Horóscopo semanal acuario 06 de marzo 2023 al 12 de marzo 2023. Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2023-02-27
+ogimg: /images/zodiac/semanal_acuario.png#2023-03-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-02-27'
+ lastmod: '2023-03-06'
 ---
 
 
 
-## Quita importancia a las cosas Acuario, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
+## Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
 
-Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate. Los pensamientos negativos son como la mierda Acuario, que atraerán más mierda, y antes de que te des cuenta tendrás la mente infectada, de verdad. Empezarás a ver problemas en vez de soluciones, te meterás en un círculo vicioso en el que YA has estado. No puedes permitirlo otra vez. No luches contra cosas o personas, simplemente esquívalas, a veces, aunque intentes hacer que entren en razón es imposible, y el que acaba sufriendo irremediablemente eres tú. No debes permitirte el lujo de tener ningún pensamiento negativo ahora, de verdad, ya has pasado demasiado, sólo céntrate en esquivar lo que te dañe, pero en esquivarlo de verdad. O sea, si de verdad decides que no es lo que quieres, corta por lo sano cuanto antes, y no mires atrás ni por el retrovisor del coche. Lidera tu interior y serás el líder de tu entorno. Lo único que ahora puede frenarte son tus pensamientos, trabájalos, distráete, y rodéate de todo lo bueno que tienes aunque a veces te cueste poner punto y final a lo malo. Tus metas ahora son lo más importante y sólo se consiguen cuando uno realmente no tiene nada que le estorba en su camino.
-Aunque te has preparado para la acción, tienes que tener cuidado esta semana, ya que hay posibilidad de confusión y malentendidos. Júpiter aspectando a Neptuno sin duda despertará tu imaginación, pero es posible que te resulte difícil concentrarte. Tendrás que prestarle atención a los detalles y administrar tu tiempo para que las cosas salgan según lo planeado. Si eres una persona artística, podrías sentir más inspiración. Y si es que necesitas divertirte un poco, tendrás muchas oportunidades tanto para ello como para romance.
+Sólo tú puedes salvar tu vida Acuario. Deja de depender del mundo que te rodea, sé fuerte, créete de una vez que hagas lo que hagas puedes hacerlo solo, y que solo también puedes llegar a cualquier meta que te propongas. No es que tengas miedo, pero a veces, te falta ese empujón, esa mano que te agarre y que te diga “salta, que yo salto contigo”. Olvida eso, tú solito puedes darte el empujón, y tú solito puedes saltar, sin necesidad de nadie. Mentalmente eres un poco frágil a pesar de que tu aspecto es súper fuerte, eres sensible sí, y sin querer te atas a las personas más de lo que te gustaría. Está bien tratar de compartir, es bonito, los momentos buenos, los momentos malos… Pero eso no va a sanar a tu alma. Sólo tú puedes reiniciar tu vida y convertirla en lo que quieras, sólo tú puedes transformar tus sueños y tu destino. Si hay algo que quieres hacer, lánzate a hacerlo, da el primer paso. Y piensa que el amor es algo poderoso sí, pero no tan poderoso como tú Acuario. Necesitas tomar las riendas otra vez, necesitas ser el protagonista de tu historia, saber que nadie es más importante en tu propia vida que tú. Así que, deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
+Cualquier frustración que puedas sentir con respecto a una persona podría intensificarse esta semana, ya que el vital Marte, tu planeta corregente, conecta con el perturbador Urano. Tal vez tu primera reacción sea alejarte para poder centrarte y decidir qué hacer. Sin embargo, debido a que el fogoso Marte estará retrógrado en tu sector del hogar durante unas semanas más, puede que reprimas tus emociones y prefieras guardártelas para ti. 
+Sin embargo, necesitarás un escape para esas emociones. Una opción puede ser abordar cualquier tarea doméstica que demande mucha energía, en especial aquellas que has estado evitando durante algún tiempo. Una vigorosa limpieza de ventanas, pisos y muebles, o la jardinería pueden ayudarte a canalizar estas sensaciones de manera positiva.Por último, el encantador Venus en tu sector social puede aportar una chispa a cualquier evento y tal vez haga más fácil que conozcas a esa persona especial.
 
 ## Dinero
 
-Tú necesitas asegurarte de que tus emociones estarán protegidas tanto como tu cuerpo. Ahora, las emociones son aún más importantes. Debido a que ciertos aspectos afectan tu sector de romance, niños y diversión, se trata de áreas que podrían ser aprovechadas para obtener ingresos adicionales y satisfacción emocional. Una nueva idea puede proporcionarte la manera de salirte de tu empleo actual a favor de algo que tiene un significado mayor para ti.
+Andas muy comunicativo/a ahora. El hablar, conversar en línea e incluso en sitios de redes sociales de internet está  a tu favor. Lo estás llevando a otro nivel, estés pensando en escribir tus memorias. Tienes una cantidad increíble de energía creativa en este momento. Utilízala para tu beneficio financiero teniendo en cuenta tu audiencia; a continuación, busca los mercados con el mayor alcance para obtener los mejores resultados.

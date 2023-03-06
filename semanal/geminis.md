@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 27 de febrero 2023 al 05 de marzo 2023 
-description: Horóscopo semanal geminis 27 de febrero 2023 al 05 de marzo 2023. Vete a tu cerebro, y borra Géminis, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño Géminis. Deja salir para que pueda entrar lo demás.
+title: geminis 06 de marzo 2023 al 12 de marzo 2023 
+description: Horóscopo semanal geminis 06 de marzo 2023 al 12 de marzo 2023. No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2023-02-27
+ogimg: /images/zodiac/semanal_geminis.png#2023-03-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-02-27'
+ lastmod: '2023-03-06'
 ---
 
 
 
-## Vete a tu cerebro, y borra Géminis, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño Géminis. Deja salir para que pueda entrar lo demás.
+## No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
 
-Tienes que ser tu prioridad ahora, tienes que cuidar de tus necesidades antes que de las demás Géminis. Has perdido mucho por tomar decisiones que no eran las correctas, por intentar dar oportunidades en balde… Tienes que ser un poco egoísta Géminis, ahora más que nunca. Tu tiempo vale oro pero últimamente parece que no lo valorabas como tal, dedícate a las cosas importantes, las que te van a dar frutos, las que te van a hacer sentir bien contigo mismo/a. Muévete del sitio en el que estás si eso no lo encuentras, cambia de país, de ciudad, de barrio, de entorno. Lo que sea Géminis, cambia lo que sea para alcanzar lo que crees que puedes. Piérdete las veces que haga falta, prueba aunque no estés seguro de si las cosas saldrán bien o mal, si tu corazón y tu instinto te llaman, ves. Cuida de tus emociones Géminis, cuídalas bien y que ahora sean lo más importante de todo. Tienes derecho a elegir qué tipo de gente quieres en tu vida, puedes alejarte de las amistades tóxicas Géminis, debes olvidarte de las conexiones que sabes que no van a ningún lugar. Esta semana tienes que planificarlo todo, tienes que comprender que si no das el paso tú nadie lo hará, es sólo un empujón hacia tus sueños y tus metas. No te estanques, y vuelve a ponerte el primero en todo.
-Lo que tus amistades digan podría terminar contando mucho esta semana, razón por la que no deberías prestar demasiada atención. Si escuchas con cuidado, te darás cuenta de que sus opiniones cambian tan rápido como el clima. Por ejemplo, si te etiquetan de oportunista por detectar una oportunidad y por querer aprovecharla, deberías de hacerlo de todos modos. Hay una buena probabilidad de que para cuando llegue el fin de semana deseen haber seguido tu consejo. Apégate a tus ideas sin importar lo que digan.
+A veces dejar ir las cosas es mucho más complicado de lo que piensas Géminis. No vas a encontrar el momento definitivo nunca, no vas a cerrar la puerta de golpe y creer que ya lo tienes superado. Así nada termina bien. Quieres tener seguridad Géminis, y te aferras deprisa a las cosas pero si miras a tu alrededor sabes que hay piezas que no encajan en el puzzle, que a veces incluso todo parece un teatro, que estás dejando pasar algo en lo que no crees. Pero no querrás dejar ir tan fácilmente, piensas que si lo mantienes todavía lo tienes, que si lo mantienes, todavía existe. Y claro que existe pero no como antes y no como quieres Géminis. Si hay cosas que fallan repara la grietas o trata de hacerlo, pero no pienses que se podrán reparar solas. Si tienes que plantar cara y dejar sobre la mesa cuáles son tus intenciones y lo que esperas, hazlo. Está bien que creas que muchas cosas van perfectamente pero Géminis, sabes de sobra que no van tan perfectamente, que hay que arreglar mucho. En serio Géminis, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo? No te ates tanto, no te creas que el mundo es como tú lo ves en un momento dado. Géminis, la realidad no es la que tú quieres pintar ahora. Hay promesas rotas y futuros que no se van a dar, pero cuando te des cuenta no te pongas triste, mírate al espejo y sonríe, sonríe por ser quien eres. Y si tienes que llorar que sea por ti mismo, y de emoción, por darte cuenta de todo, por ser valiente.
+¿Piensas en irte de vacaciones? Si es así, te vendría bien asegurarte de que tienes todo lo que necesitas. También asegúrate de tener tu pasaporte, boletos, y alojamiento en un hotel. Los próximos días y semanas podrían coincidir con malentendidos o retrasos. Sin embargo, un inesperado desvío o complicación también podría resultar beneficioso. Si has tenido mucho trabajo, entonces puedes optar por un viaje espontáneo que te permita explorar nuevos territorios, lo que podría ser muy refrescante.
 
 ## Dinero
 
-Cierta actividad en tu sector de herencias y de deuda esta semana muestra que es posible que estés en el extremo receptor de uno u otro. Uno, por supuesto, no puedes controlar. Pero si te percatas de que necesitas poner más energía en un plan de pago de deuda, el Universo puede ayudarte a lograr una mayor responsabilidad en esa área. Sonríe, las cosas están mejorando.
+Esta semana ilumina las áreas de tu carta que quieren salir y explorar todo lo que la vida tiene que ofrecer; desde lo emocional, a lo físico, a lo espiritual. Es imprescindible ir con la corriente cuando se trata de los cambios en el frente monetario. Estos no son malos, pero van a requerir de un poco de paciencia.

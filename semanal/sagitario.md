@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 27 de febrero 2023 al 05 de marzo 2023 
-description: Horóscopo semanal sagitario 27 de febrero 2023 al 05 de marzo 2023. Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
+title: sagitario 06 de marzo 2023 al 12 de marzo 2023 
+description: Horóscopo semanal sagitario 06 de marzo 2023 al 12 de marzo 2023. Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2023-02-27
+ogimg: /images/zodiac/semanal_sagitario.png#2023-03-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-02-27'
+ lastmod: '2023-03-06'
 ---
 
 
 
-## Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
+## Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
 
-Es algo muchas veces inconsciente. Es algo que quizás tu cuerpo quiere esconder porque en el fondo, te encanta parecer que eres una persona fuerte y sí, incluso poco demostrativa, pero sabes que en realidad no es tan así. 
- que quizás te hagan tener un futuro mucho mejor y más satisfactorio.
-Las oportunidades sociales y las reuniones en tu hogar pueden traerte mucha satisfacción y la oportunidad de socializar con gente nueva. La comunicación e interacción pueden jugar un papel importante en los acontecimientos de esta semana, sobre todo si algo necesita ser discutido. Con el fin de aprovechar al máximo las influencias de esta semana, te ayudaría hacerle frente a cualquier malentendido tempranamente antes de que tenga la oportunidad de agravarse. La actividad lunar puede traer consigo la oportunidad de perdonar, olvidar y empezar de nuevo.
+A veces parece que no progresas, y te estancas, y te lamentas, y te das por vencido/a… Pero no, lo que pasa es que las cosas van más lentas de lo que queremos. Y todo lo que des hoy te va a repercutir en el futuro, aunque ahora parezca que no funciona del todo. ¿Estás en el lugar correcto Sagitario? Seguro que sí, siempre has sido listo/a como para saber lo que haces… No hace falta que ahora pruebes otras cosas, lo que tienes que hacer es enfocarte en las que tienes, y tratar de hacer todo bien. La constancia es la clave del éxito Sagitario. No te pierdas ahora por otras sendas, de verdad, vas bien encaminado ahora pero échale ganas y sobretodo no te rindas. Y tampoco dejes que la influencia del resto tenga poder sobre ti, ni mucho ni poco, NADA.
+La presencia de Mercurio y Venus en un área sensible de tu carta astral podría motivarte para que mires más de cerca tu situación financiera y hagas que tu dinero valga más. Al mismo tiempo, esta mezcla de energías puede ser muy buena para intensificar tu vida amorosa. Puede que haya cierta frescura y espontaneidad en los momentos íntimos que pasan juntos. Si no le han dedicado tiempo a pasar juntos, el cosmos sugiere que unas vacaciones podrían ser justo lo que necesitan.
 
 ## Dinero
 
-Este período tiene que ver con los opuestos. Puede que estés tratando de manifestar una nueva relación en tu vida con un mentor, empleador o socio de negocios. Y con cierta actividad en el área que rige las relaciones serias, podrías conocer a la persona adecuada en el momento adecuado. Juntos, pueden mover montañas en el mundo de los negocios, ¡por lo que definan parámetros y manos a la obra! Más deben actuar con rapidez.
+La actividad en tu sector de dinero y valores de esta semana indica que algo del pasado tiene que ser aclarado y ajustado antes de poder avanzar de nuevo. Añade a esto los ingredientes para un futuro monetario interesante. Eres capaz de aportar más a la mesa cuando le prestas más atención a tu sector de deuda o el dinero de otros.

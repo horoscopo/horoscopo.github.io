@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: leo 27 de febrero 2023 al 05 de marzo 2023 
-description: Horóscopo semanal leo 27 de febrero 2023 al 05 de marzo 2023. Nada tiene que ser ahora suficiente para ti Leo, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. 
+title: leo 06 de marzo 2023 al 12 de marzo 2023 
+description: Horóscopo semanal leo 06 de marzo 2023 al 12 de marzo 2023. Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2023-02-27
+ogimg: /images/zodiac/semanal_leo.png#2023-03-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-02-27'
+ lastmod: '2023-03-06'
 ---
 
 
 
-## Nada tiene que ser ahora suficiente para ti Leo, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. 
+## Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
 
-Por eso respira antes de soltar por tu boca cualquier cosa dañina. Al final, sin querer, puedes herir a más de uno/a y sobretodo, herirte a ti mismo/a… 
-así que, deja a un lado esa ansia que hace que repitas los errores más de una vez y céntrate en lo que merece y en lo que no. La teoría la tienes más que clara, ahora sólo llévalo a la práctica. Pero no un día sí y otro no, si te lo has planteado, hasta el final.
-Cuando el animado Marte, tu planeta regente en cuanto a relaciones, se encuentra en tu sector de creatividad y romance, los próximos días y semanas pueden animarte a ser más firme. Puede ser uno de los mejores momentos para que los demás vean qué puedes hacer. No temas mostrar tus talentos o establecer nuevas conexiones. Una persona que conoces en nuevos ámbitos podría ser perfecta para ti. Solo necesitas la voluntad para salir de tu zona de confort. 
-La actividad lunar el jueves te trae la oportunidad de reflexionar sobre una meta y considerar qué tan bien van las cosas. Puede que sea uno de los mejores momentos para hacer cualquier ajuste necesario antes de avanzar. Cuando el sol se traslada a Piscis y a tu sector de amistad el martes, tu vida social podría comenzar a brillar con oportunidades. Recaudar dinero para una organización de caridad también podría traerte mucha satisfacción.
+Deja de creer que sabes lo que necesitan. En serio, a veces tener tanta empatía puede ser un problema. Siempre estás haciendo un esfuerzo por adaptarte a lo que los demás necesitan y como siempre también, te acabas olvidando de ti misma/o. 
+ No lo has pasado del todo bien pero empiezas a renacer Leo. No quieres mal rollo ni tampoco a personas que te causan una ansiedad ni un estrés terrible a tu lado.
+Nuevas posibilidades se te están abriendo, pero tienes que decidir si te has preparado para aprovecharlas o no. Podría haber alguna duda en tu mente con respecto a tu capacidad para hacerle frente a algo que nunca has intentado antes. Todo se reduce a confianza. Si Júpiter en tu sector de cambio sugiere algo en lo absoluto, es que tienes más que suficiente audacia para participar en actividades que son gratamente desafiantes. ¡Pronto agarrarás tu ritmo!
 
 ## Dinero
 
-El enfoque de tu vida recae en tus relaciones con los demás, especialmente en las personas relacionadas con ambas, tu vida profesional y financiera. Puedes percatarte de que los intercambios que tienen juntos son de amor y de apoyo, incluso ahora. Hay una energía maravillosamente creativa entre ustedes. Sin embargo, puesto que la verdad también puede ser empañada, traten de encontrarla en conjunto.
+Tienes un montón de actividad astrológica rodeando tu sector de dinero esta semana. Los aspectos en tu sector de relaciones liman asperezas entre tus energías masculinas y femeninas. Presta más atención a lo que estás gastando en tu hogar. Puede ser más de lo que piensas.

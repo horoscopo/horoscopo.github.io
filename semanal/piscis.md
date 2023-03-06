@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 27 de febrero 2023 al 05 de marzo 2023 
-description: Horóscopo semanal piscis 27 de febrero 2023 al 05 de marzo 2023. El mundo puede esperar Piscis, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+title: piscis 06 de marzo 2023 al 12 de marzo 2023 
+description: Horóscopo semanal piscis 06 de marzo 2023 al 12 de marzo 2023. Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2023-02-27
+ogimg: /images/zodiac/semanal_piscis.png#2023-03-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-02-27'
+ lastmod: '2023-03-06'
 ---
 
 
 
-## El mundo puede esperar Piscis, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+## Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 
-No arriesgues, no apuestes si no es victoria segura, es un consejo. Si tienes algo claro ve a por ello a muerte pero si dudas no pelees ni luches, al menos por ahora. Has perdido muchas fuerzas en otros asuntos y lo que menos te conviene es seguir perdiéndola en cosas en las que no sabes si vas a ganar. Ha llegado el momento en el que debes hacerte valorar más. El pasado te ha creado esa inseguridad que a veces tienes a la hora de tomar decisiones, y sí, antes quizá pensabas todo demasiado pero ahora estás en modo “lo tiro todo por la ventana”. Cuidado Piscis, cuidado porque los cambios no pueden ser radicales, no tienes la fuerza necesaria ahora para andar arriesgando tontamente y sólo porque en el momento te apetezca. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
-Esta podría ser una excelente oportunidad para comenzar de nuevo con respecto a tu camino espiritual. La actividad lunar del lunes podría animarte a aprender a meditar, tomar clases de yoga o conectar con otras personas que compartan tus ideales. Aun así, ciertas creencias heredadas de tu infancia o de otra vida podrían entrar en conflicto con las ideas que quisieras adoptar. Tendrás que resolver esto de cualquier manera que sientas es la mejor. La semana combina la sensualidad de Tauro con la pasión de Escorpión, creando una ocasión bastante especial.
+Por fin vas a finalizar ciclos Piscis, ¡por fin! Por favor, échale ganas a todo lo que vayas a terminar, y cuando lo hagas, mantén la cabeza bien alta, arribita, para que todos vean lo que eres capaz de conseguir. Y empieza nuevas metas, nuevos proyectos. Es cuestión de ponerse Piscis, de verdad. Ahora todo va a ser mucho más fácil que antes, te espera una buena semana porque vas a quitarte lastres de encima, vas a motivarte a ti mismo sin esa put* carga que pesaba tanto. Vas a volver a brillar. Eres Piscis joder, un mal día no es una mala vida y aunque estos días atrás hayas tenido más de un bajón emocional todo eso ahora se disipa. Se acabó. No olvides que tienes una belleza increíble, por dentro y por fuera, no olvides que aunque tu alrededor haya sido una mierda tú sigues brillando. Y lo estás haciendo bien Piscis. Dentro de poco volverás a tu lugar, ese del que nunca debías haberte alejado. Un lugar en lo alto, un lugar que elijas, un lugar donde se te admire, donde se vea tu esencia… Puedes conseguir absolutamente todo, métetelo en tu cabeza, ¿ok? Y que no vuelva a salir por nada del mundo. Feliz semana Piscis, y ¡a empezar de nuevo! El estrés o la ansiedad no tienen hueco en tu vida en estos momentos. No pueden robarte más vida…
+La semana por delante tiene un tono muy social, con una gran cantidad de oportunidades para conocer gente. Es posible que te involucres en ambos, eventos formales e informales. Tus conexiones con la gente deberían de estar cargadas con una gran cantidad de energía, animándote a intercambiar ideas empresariales, formular audaces planes o tal vez disfrutar de un poco de romance. En el frente hogareño, organizar una reunión puede ser divertido, en cuyo caso sería bueno que eligieras bien a tus invitados.
 
 ## Dinero
 
-Esta semana estás pensando en cómo poner en marcha tu creatividad. Ciertos aspectos afectan tu sector de comunicación e ideas, así como también las relaciones. El Universo exige que cada vez tengas más madurez en tu pensamiento y en la manera de expresar tus ideas. Al mismo tiempo, hay una especie de ensueño de confusión acerca de con quién trabajar y cuándo. Cuando asumes nueva seriedad, el dinero te sigue inevitablemente.
+Te encuentras ahora en una situación interesante con cierta actividad en tu sector de vidas pasadas, sueños e instituciones. Puede que sientas que tu vida laboral no está haciendo todo lo posible por ti. Puede que tengas más suerte trabajando para una entidad mayor. Gracias a tu sector de grupos, tus amistades te conectarán a una nueva compañía con más capacidad de pagarte lo que vales. Sueña en grande.
