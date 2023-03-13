@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 06 de marzo 2023 al 12 de marzo 2023 
-description: Horóscopo semanal sagitario 06 de marzo 2023 al 12 de marzo 2023. Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
+title: sagitario 13 de marzo 2023 al 19 de marzo 2023 
+description: Horóscopo semanal sagitario 13 de marzo 2023 al 19 de marzo 2023. Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2023-03-06
+ogimg: /images/zodiac/semanal_sagitario.png#2023-03-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-03-06'
+ lastmod: '2023-03-13'
 ---
 
 
 
-## Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
+## Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
 
-A veces parece que no progresas, y te estancas, y te lamentas, y te das por vencido/a… Pero no, lo que pasa es que las cosas van más lentas de lo que queremos. Y todo lo que des hoy te va a repercutir en el futuro, aunque ahora parezca que no funciona del todo. ¿Estás en el lugar correcto Sagitario? Seguro que sí, siempre has sido listo/a como para saber lo que haces… No hace falta que ahora pruebes otras cosas, lo que tienes que hacer es enfocarte en las que tienes, y tratar de hacer todo bien. La constancia es la clave del éxito Sagitario. No te pierdas ahora por otras sendas, de verdad, vas bien encaminado ahora pero échale ganas y sobretodo no te rindas. Y tampoco dejes que la influencia del resto tenga poder sobre ti, ni mucho ni poco, NADA.
-La presencia de Mercurio y Venus en un área sensible de tu carta astral podría motivarte para que mires más de cerca tu situación financiera y hagas que tu dinero valga más. Al mismo tiempo, esta mezcla de energías puede ser muy buena para intensificar tu vida amorosa. Puede que haya cierta frescura y espontaneidad en los momentos íntimos que pasan juntos. Si no le han dedicado tiempo a pasar juntos, el cosmos sugiere que unas vacaciones podrían ser justo lo que necesitan.
+Está bien que luches por lo que quieres pero a veces te pasa que por lo único que luchas es por no perder lo que tienes. Y eso es muy distinto. 
+ A veces nada es mucho mejor que algo, a veces nada es mejor que todo y sobretodo que “eso” que tampoco es que vaya genial o que merezca muchísimo la pena.
+Puede que se generen algunas alteraciones en tu vida social debido a la actividad lunar en tu sector de amistad podría traer algunos cambios. Puede que una amistad se vaya de tu círculo social o que hagas nuevas amistades, quizá debido a un movimiento. También es posible que el tiempo que pasabas con ciertos grupos haya llegado a su fin y sea hora de seguir adelante. Si es así, piensa que es parte de las idas y vueltas de la vida. Dentro de poco verás nuevos cambios.
 
 ## Dinero
 
-La actividad en tu sector de dinero y valores de esta semana indica que algo del pasado tiene que ser aclarado y ajustado antes de poder avanzar de nuevo. Añade a esto los ingredientes para un futuro monetario interesante. Eres capaz de aportar más a la mesa cuando le prestas más atención a tu sector de deuda o el dinero de otros.
+Es probable que estés en un estado mental social con cierta actividad en tu sector de expresión personal y apariencia. Es posible que estés pensando en cambiar la forma en la que te presentas ante el mundo. Suponiendo que un comportamiento profesional significa que puedes conseguir un nuevo empleo, si es que quieres, o elevar tu posición en tu empleo actual. El dinero y las comodidades ejecutivas vienen con la nueva oficina.

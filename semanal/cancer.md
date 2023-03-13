@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 06 de marzo 2023 al 12 de marzo 2023 
-description: Horóscopo semanal cancer 06 de marzo 2023 al 12 de marzo 2023. Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+title: cancer 13 de marzo 2023 al 19 de marzo 2023 
+description: Horóscopo semanal cancer 13 de marzo 2023 al 19 de marzo 2023. Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2023-03-06
+ogimg: /images/zodiac/semanal_cancer.png#2023-03-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-03-06'
+ lastmod: '2023-03-13'
 ---
 
 
 
-## Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+## Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
 
-Sabes también que has sido cruel con los demás, que has dicho palabras hirientes de las que quizás después, te has arrepentido. 
- Tienes que acabar de una vez con todo Cáncer.
-El lunes, el nebuloso Neptuno se vuelve retrógrado en tu signo y permanecerá así durante algunos meses, lo que puede ser algo bueno. Neptuno retrógrado puede traer consigo la poderosa comprensión de algunas cuestiones y conocimientos sobre situaciones clave que pueden llevarte a un descubrimiento. Puede que no suceda de inmediato, pero todo podría empezar a cambiar durante las próximas semanas y meses. 
-Un grupo muy hermoso de aspectos que incluye al conversador Mercurio, el animado Júpiter y el etéreo Neptuno el martes y miércoles podría traer nuevas personas a tu vida, así como oportunidades para perfeccionar tus capacidades y talentos. También podría haber romance a la vista, si juegas bien tus cartas. Además, el ingreso del sol a tu sector de recreación el jueves trae nuevas oportunidades para tomarte las cosas con calma y disfrutar de placenteros pasatiempos que te relajen. Sin embargo, puede que el fin de semana debas tener más cuidado ya que una de tus amistades podría parecer bastante crítica. De ser así, trata de no tomártelo a pecho.
+No sueles dar la llave de tu corazón a nadie Cáncer, pero si hay personas que la tienen, y de hecho esas personas son las únicas que pueden desbloquearlo, que pueden ver el fondo de lo que hay, tu esencia, tu alma. Pero esta semana vas a cambiar la cerradura, porque te apetece, porque ahora quieres estar seguro de a quien se la quieres dar, porque quieres empezar de cero muchas cosas. Y no cambiará tu esencia Cáncer, porque la esencia es la misma, lo que cambiará será el poder que vas a tener, el poder que van a tener otros sobre ti. Esta semana preocúpate de hacer las cosas bien. Hay mucha responsabilidad y mucho en juego. Vas a sentirte bien por las decisiones que vas a tomar, vas a sentir que vuelves a tomar el timón de tu vida como antes. No te preocupes porque algo no salga, te esperan cosas mejores. No te pongas nervioso cuando te digan que no puedes, que no tienes el valor suficiente o la capacidad para hacerlo. Puedes con todo, y a aunque tengas que ir en contra de todo, si has tomado la decisión, que sea hasta el final. Vas a tener que volverte invisible para algunas personas si de verdad quieres ir hacia delante. Feliz semana Cáncer.
+Dado que el sensual Venus está en tu sector de relaciones y se opone al etéreo Neptuno en tu signo, una persona podría no tener claros cuáles son tus sentimientos hacia ella. Puede que debas expresarte claramente, o la confusión podría continuar y afectar su relación.El expresivo Mercurio ingresa a su fase retrógrada en tu sector de estilo de vida el Miercoles, lo que puede indicar que debes tener precaución durante las próximas tres semanas. Asegúrate de respaldar los archivos importantes de tu computadora y de que el software antivirus esté actualizado. Puede que necesites más tiempo para completar proyectos y cumplir con las fechas límite. 
+La actividad lunar en tu sector espiritual del viernes podría ser una llamada a tener más confianza en un plan espiritual mayor que guía tu vida desde el interior. Si escuchas cualquier intuitivo impulso, te resultará más sencillo participar en el plan divino y dejarte llevar.
 
 ## Dinero
 
-Todas las cosas buenas les vienen a aquellos que esperan, pero tú no tienes que esperar mucho tiempo para las cosas buenas. Ciertos aspectos afectan tu sector de vidas pasadas, karma e instituciones, por lo que estás recibiendo todo tipo de información valiosa en tus sueños y destellos psíquicos. Asegúrate de prestarles atención. Es posible que dudes de tus pensamientos demasiado. A partir de esta semana, confía en ellos para lograr todo lo que quieres lograr.
+Tu sector de carrera se expande y te das a notar esta semana. Hay una atmósfera de amor en el trabajo. Es seguro que encontrarás ideas creativas que fluyen. Mientras tanto, tienes la capacidad de construir sobre los éxitos del pasado, proporcionando un elenco de apoyo dispuesto a tomar la dirección en el trabajo. Si alguna vez hubo una semana en la que estuvieras a cargo, esa es esta. Haz conocer tus necesidades y los demás las realizarán.

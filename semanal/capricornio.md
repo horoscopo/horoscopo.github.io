@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 06 de marzo 2023 al 12 de marzo 2023 
-description: Horóscopo semanal capricornio 06 de marzo 2023 al 12 de marzo 2023. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Capricornio. Ahora brillas así que, aprovecha. Aprovecha todo.
+title: capricornio 13 de marzo 2023 al 19 de marzo 2023 
+description: Horóscopo semanal capricornio 13 de marzo 2023 al 19 de marzo 2023. Hay personas que juegan en otra liga Capricornio, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2023-03-06
+ogimg: /images/zodiac/semanal_capricornio.png#2023-03-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-03-06'
+ lastmod: '2023-03-13'
 ---
 
 
 
-## Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Capricornio. Ahora brillas así que, aprovecha. Aprovecha todo.
+## Hay personas que juegan en otra liga Capricornio, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
 
-Tienes que motivarte Capricornio. Esa es tu misión esta semana. Y sí, lo necesitas más que nunca. A pesar de todo lo malo piensa que siempre podía haber sido peor. No te condenes ni te quedes anclado. ¿Que algo te ha hecho daño? Pues te secas las lágrimas, escurres todo el dolor y para adelante. Sin contemplaciones. No hay oro camino Capricornio. Tu ritmo de vida estaba un poco apagado y tienes que volver a encenderlo como sea. A veces te dan unos bajones impresionantes, y te metes en tu cueva, y tardas mucho en volver a salir pero ¿eso de qué te sirve? Muchas veces de nada… Porque el problema sigue y lo único que has hecho ha sido perder el tiempo… Deja atrás toda esa mierda, márcate un viaje y despéjate. Vuelve a tener ilusión por lo que importa, ten fe en que todo puede solucionarse pero que si no se soluciona tampoco pasa nada. Fuera las preocupaciones. Tira del carro Capricornio, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte. No te abandones más, cualquier cosa puede marcar tu vida pero debes estar ahí para verlo. Pelea siempre por lo que te merezca la pena, lo demás es tiempo perdido. Y qué pasa Capricornio, ¿tu tiempo no vale nada o qué?
-Se produce un intenso enfoque en tu sector de cambios y transformación, en especial cuando el sol ingresa a tal sector el martes. Este énfasis podría hacer que explores cuestiones que puede que te hayan retrasado durante algún tiempo. Es una oportunidad para profundizar y dejar atrás sentimientos negativos del pasado que se están entrometiendo en tu progreso. Espera una sorpresa hacia el final de la semana, cuando un inesperado invitado podría aparecerse o pudieras recibir una linda invitación.
+Tienes que aprender a ver que si quieres volar de verdad no puedes estar cerca de esos que te arrancan las plumas poco a poco para acabar arrancándote las alas más tarde, 
+ a personas de las que “piensas” que dependes…
+Tu sector social se vuelve aún más vibrante el lunes, en particular con el Sol añadiéndole un brillo especial a este sector. Esta es la oportunidad perfecta para una celebración debido a un alegre vínculo entre Mercurio y Júpiter que es perfecto para reuniones familiares y buenos momentos con buenos amigos. Tus finanzas podrían ser un motivo de preocupación, sobre todo a partir de mitad de semana. Esto podría hacer que te preguntes si algún día volverás a la pista. No temas - ¡volverás! Las cosas deberían de vislumbrarse mucho más positivas la próxima semana.
 
 ## Dinero
 
-Es crucial no aceptar la palabra de todos por ahora, sino más bien descubrir por ti cuál podría ser el mejor plan para tu dinero. Los vehículos de inversión pueden ser confusos, por lo que cuenta con la ayuda de un asesor financiero calificado que pueda ayudarte a solucionar las ecuaciones numéricas y lograr que todo se haga. Mientras tanto, el Universo añade un poco de emoción.
+No eres el ser más paciente de la faz del planeta, pero tu suerte es grande y está a cargo por ahora, así que no te preocupes. Los aspectos están avivando el aprendizaje, incrementando tus oportunidades para incorporar nuevas habilidades. Pueden surgir oportunidades repentinas para divertirte con amigos, familiares y parejas románticas. El dinero se hizo para gastarse, ¿cierto?

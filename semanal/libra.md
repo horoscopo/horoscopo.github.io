@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: libra 06 de marzo 2023 al 12 de marzo 2023 
-description: Horóscopo semanal libra 06 de marzo 2023 al 12 de marzo 2023. Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Libra, por qué te lo callas y te lo llevas callando tanto tiempo? 
+title: libra 13 de marzo 2023 al 19 de marzo 2023 
+description: Horóscopo semanal libra 13 de marzo 2023 al 19 de marzo 2023. De verdad Libra, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2023-03-06
+ogimg: /images/zodiac/semanal_libra.png#2023-03-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-03-06'
+ lastmod: '2023-03-13'
 ---
 
 
 
-## Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Libra, por qué te lo callas y te lo llevas callando tanto tiempo? 
+## De verdad Libra, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
 
-Vamos Libra, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. Aprovecha tu vida Libra, aprovéchala ahora más que nunca. Se vive mejor sin esperara nada de nadie Libra pero el problema es que, aunque la teoría te la sepas, la práctica te falla un poco. Vuelves a confiar cuando pasa un tiempo, y si no a confiar, al menos das otra oportunidad, das el 100% de ti aunque presumas de frío. Sí, quizás seas frío después, pero estás ahí. Siempre. Y eso no es del todo sano para ti porque no dejas tiempo para que los demás se arrepientan de lo que han hecho y tampoco te das tiempo tú para saber realmente qué es lo que quieres. Y vuelves al bucle. Otra vez. Deja de obsesionarte por lo complicado, en realidad, tú eres muy así, las cosas como son, pero de verdad que sabes que no te trae nada bueno, céntrate en ti y en tus proyectos, en tus metas, ahora más que nunca necesitas esa fuerza y esa fe para que las cosas salgan como realmente quieres. Lo demás tiene que ser pasajero, lo demás probablemente entrará y saldrá de tu vida, pero el que se queda eres tú, así que, aprovecha tu talento ante todo, tus ganas de hacer las cosas bien. Tienes que empezar a dar de ti lo que tu recibes de los demás Libra. Así, tal cual.
-Tu vida social está mejor de lo que ha estado en mucho tiempo, con una alegre mezcla de energías animándote a comportarte audazmente. Te beneficiarás de tener la oportunidad de entrar a nuevos círculos, unirte a clubes, o ser parte de un divertido proyecto. Júpiter es el planeta que rige tus finanzas, y puede que mientras te encuentres haciendo todo esto, encuentres oportunidades para mejorar tus ingresos. Vincularte a grupos relacionados con tu profesión o negocio puede dar lugar a lucrativas ofertas o proyectos.
+Se avecinan cosas nuevas Libra, algo que te va a remover enterito/a de arriba a abajo, pero antes vas a tener que desprenderte emocionalmente de algunas cosas pendientes. Esta semana vas a estar a tope, no vas a parar ni un solo momento, hay mucho por hacer. Pero por otro lado, igual que vas a tener sorpresas positivas, también hay una que quizás no lo sea tanto pero bueno, como ya no esperas nada de nadie ni nada de nada, tampoco será una gran decepción. Te vuelven a buscar Libra, otra vez sí. Y aunque no puedas verlo, por detrás se están manejando los hilos. Pero tú pasa, es más, mejor que ni lo veas, a ti ya no te importa lo que pertenece al pasado pero sí que te jode que aún se esté dando vueltas a algo cuando debió de quedar todo clarísimo. En fin Libra, que nadie te robe esta sonrisa esta semana. Trabaja duro, haz las cosas como siempre las haces, a lo grande, bien hechas. Sal con los tuyos y sigue tan positivo como siempre. Y quédate con esas sorpresas que van a darte la vida, que van a alegrarte la existencia, que van a darte chutes de energía bestiales. Esas son las que merecen la pena. El apego emocional se marchará… Primero, porque quieres que se marche…
+Si te ofrecen la oportunidad de viajar, aceptarla podría ser muy bueno. Si has tenido muchas ocupaciones durante algún tiempo y necesitas un descanso, esta podría ser la oportunidad perfecta para desconectarte y relajarte. Además, cuando el animado Mercurio se alinea con el etéreo Neptuno en tu sector de romance y creatividad, es posible que alejarse de todo resulte en un encantador encuentro. Y puede que también incluya algo de romance, si te abres a esta posibilidad. 
+La actividad solar el jueves, las próximas cuatro semanas podrían inspirarte a salir de tu zona de confort y explorar nuevas opciones. También hay posibilidades de estudio o aprendizaje de una nueva habilidad. Por último, si no estás de acuerdo con alguien el fin de semana, lo mejor sería no hacer comentarios.
 
 ## Dinero
 
-Esta semana tiene que ver con el Universo poniendo nuevas ofertas sobre la mesa y más maniobras en tus inversiones. Puede que te preocupe el que no hayas avanzado lo suficiente con tu dinero o que no hayas escalado más en la escalera corporativa. Pero tus relaciones profesionales en tu sector de carrera están a punto de hacer una transformación positiva muy grande. ¡Celebra tu buena fortuna!
+Esta semana hay actividad en tu sector de dinero, la cuál está desacelerando lo que ganas actualmente. Podrías llegar a sentir como si no pudieras hacer que nada avanzara, pero sabe que es sólo temporal. El Universo no restringe por crueldad, sino como una manera de alentarnos a ser más cuidadosos y responsables con el dinero. Acude a tus amigos, conocidos y compañeros de trabajo para ayudarte a salir bien de los raspones.
