@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 14 de marzo 2023
-description: Horóscopos del dia de hoy 14 de marzo 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 15 de marzo 2023
+description: Horóscopos del dia de hoy 15 de marzo 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-03-14
+ lastmod: 2023-03-15
 ---
-Las personas son persuadidas fácilmente. De hecho, podrías inclusive regresar con cierta persona y volver a pedir algo mientras Mercurio retrógrado aspecte a Plutón. Podrías recibir un sí a la primera. Esta noche, las conversaciones desatan incómodos silencios debido a Venus a punto de cambiar de signo. Podría ser que no haya nada más qué decir.
+Hoy es un momento favorable para afinar algo y hacer que sea más a tu gusto. De hecho, no hay nada de malo en ir más allá de lo que buscas. Los recuerdos y el amor hacen la diferencia cuando la Luna aspecta a Venus. Toma un viaje por el carril de la memoria y piensa en los buenos tiempos que tuviste. Para los solteros, esto podría significar un déjà vu.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
