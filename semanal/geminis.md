@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 13 de marzo 2023 al 19 de marzo 2023 
-description: Horóscopo semanal geminis 13 de marzo 2023 al 19 de marzo 2023. Tienes que empezar a dejar que el resto luche por tu Géminis, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
+title: geminis 20 de marzo 2023 al 26 de marzo 2023 
+description: Horóscopo semanal geminis 20 de marzo 2023 al 26 de marzo 2023. Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2023-03-13
+ogimg: /images/zodiac/semanal_geminis.png#2023-03-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-03-13'
+ lastmod: '2023-03-20'
 ---
 
 
 
-## Tienes que empezar a dejar que el resto luche por tu Géminis, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
+## Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
 
-Eres demasiado honesto con el resto Géminis y a pesar de que a veces quieras esconder tus sentimientos, no puedes, y en el fondo llevas siempre el corazón en la manga… Es difícil comprenderte Géminis, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones… Es complicado para ti encontrar a alguien que de verdad comprenda que sólo es miedo al dolor, que tú lo que quieres es amor, amor de esos de película, romance puro, dulce, fiel y sincero… Que quizás con un abrazo se solucionaría tanto, con una palabra bonita, con un “te quiero” o “estoy aquí”… Pero no lo pides… Ni tampoco quieres. Siempre fuiste de los que prefieren esperar a que al resto les salgan los detalles. Y es complicado, complicado porque has estado más destrozado de lo que has sido querido. No confías fácilmente, siempre estás alerta, esperando esa “puñalada”, esperando esa traición… Tienes que cambiar el chip Géminis, tienes que tratar de fiarte en quien de verdad te está demostrando confianza. No renuncies a las cosas bonitas, no renuncies a empezar un nuevo camino, a dejarte querer, no renuncies a ser temerario de vez en cuando, no renuncies a encontrar sensaciones nuevas porque a veces parezca que hay más seguridad en tu soledad. Es complicado encontrar algo cuando no sabes bien qué es lo que buscas… Mira en tu interior y no desesperes, llevará su tiempo, pero lo vas a encontrar. Observa las señales.
-Esta semana, una innovadora idea podría afectar positivamente el desarrollo de tu carrera profesional. Con mientras más gente la compartas, más te beneficiarás. La actividad lunar en Piscis del Martes hace de este uno de los mejores momentos para iniciar un puesto de trabajo, asistir a una entrevista, firmar un contrato, o comprometerte a un curso de acción. Más tarde, tu sector social se enciende y estará activo durante las próximas cuatro semanas. Aprovecha esta oportunidad para reencontrarte con buenos amigos.
+Esta semana estás un poco impredecible Géminis, para ti y para el resto, de repente tendrás momentos en los que parecerás un encanto y otros muchos en los que pagarás tu rabia con la persona que primero se cruce en tu camino pero, las cosas como son, estás intentando controlarte más de la cuenta. Después de haber comprendido qué fue lo que te ha llevado a estar como estás viene la calma, pero es un proceso largo. Está bien que seas duro contigo mismo a veces, pero sobretodo sé duro con las personas que no te dan el trato que deberían darte. Te ablandas demasiado y pasas muchas cosas por alto. Todo duele más de la cuenta pero no puedes permanecer en el lugar que te hace daño por mucho tiempo, por tu bien y por el bien de los que te quieren. Procura no pelear demasiado esta semana, procura no meterte en muchos líos que al final siempre acaban como acaban. Mal. Evita el mal rollo a tu alrededor como sea. Y cambia de nuevo el chip. Tienes tan clara la teoría pero te cuesta tanto trabajo la práctica Géminis… Planea algún viaje, trata de pasar más tiempo con los tuyos, en reuniones, en fiestas. Deja de estresarte por cosas que aún no han pasado y emociónate por tus proyectos, por los planes que tienes en mente, motívate con algo TUYO de verdad, con algo que tú vas a crear. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Géminis. Tú solito.
+Una conexión entre el fogoso Marte y el precavido Saturno en tu sector del hogar podría inspirarte a organizarte al comienzo de la semana. Si tu sector de hogar y la familia no han estado tan bien como te gustaría, podrías sentir el impulso de resolver el problema. Dividirlo en partes más pequeñas puede ser una forma sencilla de abordar la cuestión y, al mismo tiempo, te permite hacer otras cosas. Si puedes delegar algunas tareas, hazlo. 
+Podría haber un conflicto con una pareja, un familiar o incluso una amistad que tiene ansias por pasar un tiempo contigo. Puede que debas llegar a un compromiso en este aspecto. Por otro lado, debido a que Mercurio está en su fase retrógrada en tu sector de relaciones, podría haber una reunión o celebración. Si estás pensando en organizarla en tu casa, esta sería otra razón para ordenar todo. Si te decides a hacerlo, el evento puede ser muy exitoso.
 
 ## Dinero
 
-El Universo está poniendo de relieve tu sector profesional y ayudándote a tener la energía necesaria para el crecimiento. Puede que revisites una antigua idea o proyecto que habías abandonado y descubras que ahora es el momento perfecto para hacerlo realidad. Podrías percatarte de que tus sueños o destellos intuitivos son particularmente útiles para dar con algo que nadie ha visto nunca antes.
+Es una semana difícil para ti. Es tu responsabilidad decir lo que necesitas decir de una forma amable y gentil. Pero cuando se trata de tu vida hogareña y emociones internas, puede ser difícil reunir ese tipo de paciencia. En vez, puede que sientas presión y falta de respeto al tratar de salir adelante. La semana que viene será mejor en general.

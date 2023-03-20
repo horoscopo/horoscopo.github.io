@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 13 de marzo 2023 al 19 de marzo 2023 
-description: Horóscopo semanal leo 13 de marzo 2023 al 19 de marzo 2023. La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+title: leo 20 de marzo 2023 al 26 de marzo 2023 
+description: Horóscopo semanal leo 20 de marzo 2023 al 26 de marzo 2023. Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida Leo, vuelve a brillar.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2023-03-13
+ogimg: /images/zodiac/semanal_leo.png#2023-03-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-03-13'
+ lastmod: '2023-03-20'
 ---
 
 
 
-## La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+## Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida Leo, vuelve a brillar.
 
-No puedes esperar a que las cosas pasen Leo, no puedes esperar a que sean otros los que decidan casi tu futuro… Tanto pensar un día va a acabar contigo, de verdad. De una vez por todas plántale cara a los problema, no los dejes pasar, no pienses que el tiempo curará todo, porque no siempre lo hace, no creas que saliendo a la calle a despejarte las cosas volverán a la normalidad. Si algo no quiere salir de tu cabeza haz que salga como sea. No puedes perder otros tipos de oportunidades por tener siempre lo mismo, algo que ni avanza ni retrocede, algo que a veces parece que está ahí clavado en nuestra memoria sólo por joder. Si te pasas la vida reflexionando y pensando en como solucionar algo pero no haces nada al final lo único que acaba pasando es la vida y, bueno, a otros signos puede que esto ni siquiera les afecte pero tú eres Leo, esa persona que quiere vivir desde que nació, que quiere disfrutar todo, desde los sentimientos más intensos hasta los viajes más largos, desde las conversaciones más interesantes hasta el amor más pasional. ¡Despierta! Sinceramente, ¿qué haces planteándote esperar? ¿qué haces pensando que las cosas se acabarán poniendo en el lugar que le corresponden? Si no lo haces tú, no lo va a hacer nadie. No dejes pasar ni una sola oportunidad que te haga feliz a ti aunque a los demás no les guste. De verdad. Por tu propio bien. Y toma decisiones YA, AQUÍ y AHORA Leo. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
-La idea de generar un cambio positivo en tu vida puede empezar a concretarse a principios de marzo. Las influencias clave pueden servir como recordatorio y verte queriendo comenzar sin dar vuelta atrás. Venus, el planeta del amor y el romance, entra a tu sector de relaciones. Por lo tanto, en las siguientes semanas notarás una fuerte ola de calidez y de deseos más intensos de cooperación. Además, aparece una visita inesperada o surge una oportunidad emocionante, pero la tomarás con calma.
+Tienes que esforzarte Leo, esforzarte para no cagarla de nuevo. Tienes que esforzarte para no enviar mensajes cuando te dan esos impulsos y arrebatos en los que no te controlas, tienes que esforzarte en no perder los papeles cuando algo no sale, tienes que esforzarte en tratar de vivir en el momento y en pasar de malos rollos. Ya está bien Leo, hazte valer de una vez. Siempre te tratan de buenas persona, que lo eres sí, pero de ahí a que se aprovechen… No. Esta semana hay un gran cambio que llevas esperando mucho tiempo, céntrate en ello, es muy importante que mantengas tu cabecita ahí y que lo externo te deje de afectar. Y que el resto se gane estar a tu lado si realmente quiere, que las palabras se las lleva el viento y a ti, otra cosa no, pero hay mucha fila detrás que quiere engancharte… Nada tiene que ser ahora suficiente para ti Leo, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. Si de verdad se preocupan por ti, no dejarán que la vida se interponga en el camino, no importará lo ocupadísimos que estén, el tiempo para las cosas que importan se saca. Así que, esta vez, estate tranquilo Leo, sin remordimiento de ningún tipo, y espera a que el resto te busque…
+Mientras que una idea ofrecida por alguien pueda parecer buena en teoría, puede que no lo sea así en práctica. Con Venus y el Sol conectando con Neptuno en tu sector financiero personal, ten mucho cuidado acerca de cómo te involucras en planes que pudieran enriquecerte rápidamente, porque puede que pierdas más dinero del que ganes. Si sientes atracción hacia una idea, no firmes nada hasta que hayas leído las clausulas y condiciones. Mientras tanto, Marte avanzando desde mitad de semana podría hacer que las cosas parezcan mucho más prometedoras en el frente profesional.
 
 ## Dinero
 
-Ahora es más fácil que te llegue dinero y que también lo ahorres o gastes de la misma manera. Te estás dando cuenta de lo mucho que tu trabajo realmente vale la pena y eres lo suficientemente valiente como para cargar con consecuencia. El Universo destaca tu hogar y emociones internas. ¿Cómo puedes liberarte de tus viejos patrones en cuanto a dinero para poder saldar tu deuda?
+Los planetas están dando un impulso de energía necesaria para tenerlo todo listo a tiempo y bajo presupuesto. Tu ambición está en su máximo punto, y puede que no haya nadie a quien delegarle responsabilidades - todavía. Pero tus finanzas mejorarán, siempre y cuando mantengas la cabeza hacia abajo y hagas tu trabajo. Los planetas en tu sector de relaciones traerán la ayuda que necesitas a tiempo. La paciencia no es opcional – es requerida.

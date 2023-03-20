@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 13 de marzo 2023 al 19 de marzo 2023 
-description: Horóscopo semanal virgo 13 de marzo 2023 al 19 de marzo 2023. Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
+title: virgo 20 de marzo 2023 al 26 de marzo 2023 
+description: Horóscopo semanal virgo 20 de marzo 2023 al 26 de marzo 2023. Virgo, tienes que cambiar un poco el entorno que te rodea, dar nuevas oportunidades a otras personas, cambiar de lugar por un tiempo, cambiar de hábitos. Procura levantarte cada mañana y trazar un plan de lo que quieres conseguir a lo largo del día.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2023-03-13
+ogimg: /images/zodiac/semanal_virgo.png#2023-03-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-03-13'
+ lastmod: '2023-03-20'
 ---
 
 
 
-## Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
+## Virgo, tienes que cambiar un poco el entorno que te rodea, dar nuevas oportunidades a otras personas, cambiar de lugar por un tiempo, cambiar de hábitos. Procura levantarte cada mañana y trazar un plan de lo que quieres conseguir a lo largo del día.
 
-Llevabas un ritmo un poco alocado Virgo, todo mezclado con dudas existenciales, un futuro incierto y si, altibajos constantes. Te encuentras un poco agotado por todo, sin tener aún muy claro por dónde tirar y qué camino elegir. Vives al día, el instante, el momento, mañana ya veremos y eso está muy bien pero cuando te da un momento de bajón, te hundes, y mucho. En realidad ¿es lo que quieres? Te das cuenta de que no puedes seguir así, que necesitas asentarte, “centrar” la cabeza, pero en un momento determinado todo lo que piensas se va de tu cabeza. “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate Virgo, que no te entre la locura. Ni todo es tan malo ni todo es tan bueno. Eres demasiado nervioso y te estresas rápidamente pero eso no tiene que llevarte a hacer ninguna locura. Al revés, siéntate y, por unos minutos, aunque sean sólo 5, piensa en lo bueno que tienes, aunque lo malo pueda ser muy muy malo, y dedícate de pleno a cuidarlo. Y si tienes que relajarte más, hazlo, y si tienes que buscar alternativas a esos bucles mentales que parecen no tener fin, pues hazlo también. Con la mente despejada y, sobretodo haciendo una lista de lo que te conviene y no te conviene, tomarás el rumbo de tu vida. Y ahora cuídate más que nunca y sobretodo pon mil ojos a tu alrededor porque sabes que hay envidiosos que tienen asuntos pendientes contigo y aprovecharán cualquier momento para hacer daño, de una forma o de otra, y sobretodo, aprovecharán los momentos en los que estés bajo de ánimos para atacar y debilitarte aún más. Cuídate un poquito más Virgo, quiérete un poquito más, y pon la mente en blanco todo lo que puedas…
-Puede que una influencia espiritual y sentimental te guíe a tomar una decisión que puede hacerles muy bien a las demás personas. Si te decides, puede que sientas una gran satisfacción, lo cual puede indicar que has hecho lo correcto. Sin embargo, la gran novedad es que el estimulante Marte entra a tu signo el Jueves para quedarse allí durante seis semanas. Esto puede encender tu vitalidad y motivarte para hacer más ejercicio o poner en marcha una idea audaz.
+Cada día que pasa te das más cuenta de que mereces cosas buenas Virgo, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento. Tú eres tu vida y tú eres tu centro ahora mismo. Nada de comeduras de cabeza por situaciones ajenas a ti o por terceras personas, nada de eso de verdad. Tienes demasiado encima como para dedicar más tiempo a otras cosas que no seas tú mismo/a. Esta semana vas a estar pletórico, empezando porque te has dado cuenta de lo que realmente es importante. Huye de las broncas, no te enfrentes a nadie, si los demás quieren llevar un ritmo de vida caótico que lo lleven, no es problema tuyo pero escapa cuanto antes y que no te salpique. Eres como eres y nadie podrá cambiarte por mucho que se empeñen. Un alma libre, pura, buena pero no imbécil… Empieza a escribir una historia nueva si el cuerpo te lo pide. Lo has hecho toda tu vida. No te puede temblar más el pulso con nada. Empieza el cambio. Sólo debes de dar el primer paso, y después otro y otro… A ver si así, el resto reacciona. Sobretodo cuando sepan que no estarás ahí para aguantar nada que te haga daño… ¡Con la escuela que tienes tú ya! Feliz semana Virgo.
+Es posible que desees probar una nueva dieta, nueva forma de ejercicio como spinning o Pilates, o tal vez un tratamiento relajante que pueda aliviar los nudos y la tensión nerviosa. Cualquier cosa que pueda mejorar tu vitalidad y hacer que te sientas bien vale la pena ser intentada - además de que te hará una gran cantidad de amistades en el proceso. Una vez que el Sol entre a tu sector de relaciones el jueves, puede que sientas inclinación a comprometerte en lugar de insistir en salirte con la tuya en asuntos clave.
 
 ## Dinero
 
-Esta semana tienes una gran cantidad de impulso para atraer más dinero. No es sólo que tu ambición esta saliendo a la superficie. Es también la manera positiva en como te ven los demás como la persona exitosa que está en proceso de crecimiento. Podría haber cierta tensión con compañeros de trabajo o conocidos. Asegúrate de no apostar demasiado.
+Es una semana emocionante. Las invitaciones sociales y profesionales son la norma actual, por lo que acostúmbrate a hacer malabares con más de una al día. No esperes que tus sentimientos estén en silencio. Puedes tener problemas al tratar de equilibrar el trabajo y el hogar, o simplemente te encuentras harto/a de la misma vieja rutina. No es suficiente con simplemente ganar dinero ahora. Tienes que experimentar lo que éste puede hacer por ti en términos de tiempo.

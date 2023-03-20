@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: capricornio 13 de marzo 2023 al 19 de marzo 2023 
-description: Horóscopo semanal capricornio 13 de marzo 2023 al 19 de marzo 2023. Hay personas que juegan en otra liga Capricornio, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
+title: capricornio 20 de marzo 2023 al 26 de marzo 2023 
+description: Horóscopo semanal capricornio 20 de marzo 2023 al 26 de marzo 2023. Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2023-03-13
+ogimg: /images/zodiac/semanal_capricornio.png#2023-03-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-03-13'
+ lastmod: '2023-03-20'
 ---
 
 
 
-## Hay personas que juegan en otra liga Capricornio, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
+## Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
 
-Tienes que aprender a ver que si quieres volar de verdad no puedes estar cerca de esos que te arrancan las plumas poco a poco para acabar arrancándote las alas más tarde, 
- a personas de las que “piensas” que dependes…
-Tu sector social se vuelve aún más vibrante el lunes, en particular con el Sol añadiéndole un brillo especial a este sector. Esta es la oportunidad perfecta para una celebración debido a un alegre vínculo entre Mercurio y Júpiter que es perfecto para reuniones familiares y buenos momentos con buenos amigos. Tus finanzas podrían ser un motivo de preocupación, sobre todo a partir de mitad de semana. Esto podría hacer que te preguntes si algún día volverás a la pista. No temas - ¡volverás! Las cosas deberían de vislumbrarse mucho más positivas la próxima semana.
+Vas a abrir los ojos y, aunque no des los pasos al momento, las ideas las tendrás claras. 
+ La rutina no te hace mal, pero si la monotonía, y te encuentras en el punto de cambiar para renovarte. 
+ Cambiar el chip hará que entiendas muchas cosas que hasta ahora te preocupaban. Necesitas mirarte por dentro y ver hasta dónde eres capaz de llegar y sobretodo, hasta donde QUIERES llegar. Quieres ser feliz y harás lo que sea para conseguirlo, lo sabes.
+Es esa época del año en que te beneficiarías de tomarte un año sabático. Aunque es muy probable que ciertas áreas clave de tu vida estén muy ocupadas, el cosmos te invita a pasar un tiempo a solas reflexionando, recargando baterías y cosechando puntos de vista que te puedan ayudar a tomar las decisiones correctas. Mercurio entra a Libra el Jueves, motivándote a expresar tus sentimientos y compartir ideas personales. Trata de despejar tu horario alrededor de la Luna nueva del Martes con tal de hacer tiempo para un relajante masaje o tratamiento de spa.
 
 ## Dinero
 
-No eres el ser más paciente de la faz del planeta, pero tu suerte es grande y está a cargo por ahora, así que no te preocupes. Los aspectos están avivando el aprendizaje, incrementando tus oportunidades para incorporar nuevas habilidades. Pueden surgir oportunidades repentinas para divertirte con amigos, familiares y parejas románticas. El dinero se hizo para gastarse, ¿cierto?
+Algunos aspectos afectando tus vidas pasadas, sueños y karma liberan tus ideas más interesantes e individualistas. Lo que pudo estar bloqueado por obstáculos en el pasado se vuelve más libre y más fácil de conseguir ahora. Algunas de tus mejores ideas pueden surgir de tu subconsciente. Se te podría pedir que consideres trabajar desde casa o traer dinero extra mediante el uso de tu casa de manera creativa. Es tu decisión.
