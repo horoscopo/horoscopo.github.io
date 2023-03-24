@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 23 de marzo 2023
-description: Horóscopos del dia de hoy 23 de marzo 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 24 de marzo 2023
+description: Horóscopos del dia de hoy 24 de marzo 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-03-23
+ lastmod: 2023-03-24
 ---
-Recordar el pasado despierta recuerdos de algo que hay que saber aprovechar. Pista: Podría referirse a algo que cayó en el olvido debido a algo nuevo que lo reemplazó. Tus instintos anteriores dieron en el tino. Esta noche, podría ser amor, pero la oposición Venus-Neptuno lo desvanece en la neblina.
+La cooperación y la productividad inundan el día cuando el Sol conjunta a Marte. Saturno retrógrado en Escorpión ofrece una segunda oportunidad para resolver un problema o mejorar la que pensaste que era la solución correcta. Presta atención a tu intuición esta noche y sabrás qué es lo que alguien necesita escuchar - luego dilo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
