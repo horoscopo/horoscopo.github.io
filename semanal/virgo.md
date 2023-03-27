@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 20 de marzo 2023 al 26 de marzo 2023 
-description: Horóscopo semanal virgo 20 de marzo 2023 al 26 de marzo 2023. Virgo, tienes que cambiar un poco el entorno que te rodea, dar nuevas oportunidades a otras personas, cambiar de lugar por un tiempo, cambiar de hábitos. Procura levantarte cada mañana y trazar un plan de lo que quieres conseguir a lo largo del día.
+title: virgo 27 de marzo 2023 al 02 de abril 2023 
+description: Horóscopo semanal virgo 27 de marzo 2023 al 02 de abril 2023. Vamos Virgo, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2023-03-20
+ogimg: /images/zodiac/semanal_virgo.png#2023-03-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-03-20'
+ lastmod: '2023-03-27'
 ---
 
 
 
-## Virgo, tienes que cambiar un poco el entorno que te rodea, dar nuevas oportunidades a otras personas, cambiar de lugar por un tiempo, cambiar de hábitos. Procura levantarte cada mañana y trazar un plan de lo que quieres conseguir a lo largo del día.
+## Vamos Virgo, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
 
-Cada día que pasa te das más cuenta de que mereces cosas buenas Virgo, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento. Tú eres tu vida y tú eres tu centro ahora mismo. Nada de comeduras de cabeza por situaciones ajenas a ti o por terceras personas, nada de eso de verdad. Tienes demasiado encima como para dedicar más tiempo a otras cosas que no seas tú mismo/a. Esta semana vas a estar pletórico, empezando porque te has dado cuenta de lo que realmente es importante. Huye de las broncas, no te enfrentes a nadie, si los demás quieren llevar un ritmo de vida caótico que lo lleven, no es problema tuyo pero escapa cuanto antes y que no te salpique. Eres como eres y nadie podrá cambiarte por mucho que se empeñen. Un alma libre, pura, buena pero no imbécil… Empieza a escribir una historia nueva si el cuerpo te lo pide. Lo has hecho toda tu vida. No te puede temblar más el pulso con nada. Empieza el cambio. Sólo debes de dar el primer paso, y después otro y otro… A ver si así, el resto reacciona. Sobretodo cuando sepan que no estarás ahí para aguantar nada que te haga daño… ¡Con la escuela que tienes tú ya! Feliz semana Virgo.
-Es posible que desees probar una nueva dieta, nueva forma de ejercicio como spinning o Pilates, o tal vez un tratamiento relajante que pueda aliviar los nudos y la tensión nerviosa. Cualquier cosa que pueda mejorar tu vitalidad y hacer que te sientas bien vale la pena ser intentada - además de que te hará una gran cantidad de amistades en el proceso. Una vez que el Sol entre a tu sector de relaciones el jueves, puede que sientas inclinación a comprometerte en lugar de insistir en salirte con la tuya en asuntos clave.
+Al final, sólo te lamentarás de las posibilidades que no tomaste Virgo así que, empieza a hacer todo lo que deseas. Cada día debes tratar de ser feliz como sea, y a veces, esas cosas que te hacen feliz son pequeñas, son detalles, son momentos… Cada día tienes una oportunidad, aprovecha tu tiempo Virgo. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+Puede que te encuentres en el centro de la atención esta semana y las semanas que vienen, y esta podría ser una oportunidad para que muestres tus habilidades o impresiones a tu jefe a o alguien más. También notarás cómo tus habilidades generan un impacto positivo en las demás personas, y esto podría motivarte para que des lo mejor de ti. La Luna Nueva del viernes en este mismo sector coincide con un nuevo trabajo, un ascenso o el comienzo de un contrato.
 
 ## Dinero
 
-Es una semana emocionante. Las invitaciones sociales y profesionales son la norma actual, por lo que acostúmbrate a hacer malabares con más de una al día. No esperes que tus sentimientos estén en silencio. Puedes tener problemas al tratar de equilibrar el trabajo y el hogar, o simplemente te encuentras harto/a de la misma vieja rutina. No es suficiente con simplemente ganar dinero ahora. Tienes que experimentar lo que éste puede hacer por ti en términos de tiempo.
+Esta semana te trae poca ventaja. Tu personalidad nunca es sutil sino voluptuosa y podría inclusive estar a cargo en este momento, lo cuál no les parece a todos. Si vas a una entrevista o quieres impresionar a un cliente nuevo, tu acto súper poderoso puede no ser tu mejor apuesta. En cambio, sería mejor que jugaras la carta del misterio. El atraerlos a ti podría traerte mejores resultados financieros.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: tauro 20 de marzo 2023 al 26 de marzo 2023 
-description: Horóscopo semanal tauro 20 de marzo 2023 al 26 de marzo 2023. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro Tauro, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
+title: tauro 27 de marzo 2023 al 02 de abril 2023 
+description: Horóscopo semanal tauro 27 de marzo 2023 al 02 de abril 2023. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2023-03-20
+ogimg: /images/zodiac/semanal_tauro.png#2023-03-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-03-20'
+ lastmod: '2023-03-27'
 ---
 
 
 
-## Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro Tauro, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
+## No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
 
-A veces de bueno te pasas Tauro. Vas a tener que empezar a dejar las cosas claras ya. Hay muchos momentos que ya no son como antes, hay muchos momentos en los que ahora lo pasas mal, momentos que ya no estás dispuesto a pasar por alto. En serio Tauro, con la escuela que tienes, ¿por qué recaes en lo mismo? Si ves las cosas venir, ¿para qué esperas a que pase lo peor? ¡Corta por lo sano! Bueno, lo hecho hecho está, no podrás dar marcha atrás pero sí que puedes solucionarlo todo ahora. Quizás tengas que darte un tiempo, quizás tengas que alejarte de lo que te rodea para darte cuenta de muchas cosas, de la dependencia que tienes, del amor real que sientes, de lo que mereces aguantar… Estás en una etapa súper confusa Tauro, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones, hasta que tú cambies. Estás enredado en un circulo vicioso Tauro y de verdad, como no empieces a cortar lo que no te gusta un día de estos explotas. Y va a salpicar… Se va a liar gorda…
-Con el actual enfoque en tu sector psicológico, no sería para nada una sorpresa si los recuerdos de experiencias pasadas volvieran a aparecer, lo que te alentaría a explorarlas con cuidado y dejarlas ir. Las próximas semanas pueden ser una oportunidad para que hagas una limpieza espiritual y emocional, especialmente si necesitas lidiar con algún asunto un tanto oculto. Los sentimientos enterrados pueden consumir toda tu energía y vitalidad. Este es el momento para que resuelvas algunos de estos problemas y vuelvas a sentirte como antes.
+A veces te confundes Tauro, y este es uno de esos momentos. No es que no sepas lo que quieres, es que no sabes realmente si es lo que más te conviene, si es en realidad lo que debes hacer. Es algo así como sentirte perdido, tienes en tu cabeza muchas ideas por hacer, muchas situaciones que crear, pero no puedes averiguar cómo hacerlas, cómo sacarlas adelante. Frena un momento, no corras antes de andar. Admite que no todo va tan bien como tú creías, admite que quizás te equivocaste a la hora de tomar algunas decisiones que te han llevado a estar donde estás, encuentra el por qué de eso Tauro. Y cuando lo veas, comprende que debes dejar ir, tómate un momento, respira profundamente y empieza a curarte de verdad. Tauro, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más. Si lo estás viendo venir no dejes que entre, no des oportunidad a lo que sabes de sobra que saldrá mal. Tómate esta semana por y para ti, de verdad que necesitas un descanso, un respiro, salir de esa zona de mala vibra y despejarte. Puedes con todo Tauro, está claro, pero, ¿merece la pena pelear por ello? Piensa fríamente, y no te dejes guiar por la pasión, utiliza esta vez la cabeza.
+Mientras que Júpiter en tu sector de placer te anima a sacarle el mayor provecho a la temporada de festividades y apoderarte de cualquier oportunidad para pasártela bien, prepárate para sufrir una o dos interrupciones esta semana. Harás tu vida más fácil si te organizas y planificas a futuro. Crearte un presupuesto para esta temporada también podría ser bueno. El jueves, el ritmo en el trabajo podría hacer que sientas un poco de presión. Alternativamente, un problema inesperado podría retrasar el cumplimiento de plazos. No dejes que te afecte, ve con la corriente.
 
 ## Dinero
 
-Es un momento lleno de energía para ti ahora. Los viajes, el aprendizaje y la exploración pueden estar en lo alto de tu agenda. Pero también es hora de equilibrar las necesidades de tu trabajo diario con tu pasión por los viajes. A menos que encuentres la manera de poder hacer que los viajes o el aprendizaje formen parte de tu modelo de negocios, tiene que haber un compromiso. El Universo aligera el golpe.
+Tienes luz verde para escribir esas cartas, enviar esos paquetes, y en general lanzar una ofensiva en cuanto a comunicación empresarial se refiere. Si quieres ganar más dinero, cambiar de profesión, o hacerles saber a los demás que tienes una nueva habilidad que ofrecer, hazlo. Tienes todo el apoyo que puedes desear del Universo para captar la atención de los demás. Pon tu mejor pie por adelante.

@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 20 de marzo 2023 al 26 de marzo 2023 
-description: Horóscopo semanal capricornio 20 de marzo 2023 al 26 de marzo 2023. Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
+title: capricornio 27 de marzo 2023 al 02 de abril 2023 
+description: Horóscopo semanal capricornio 27 de marzo 2023 al 02 de abril 2023. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2023-03-20
+ogimg: /images/zodiac/semanal_capricornio.png#2023-03-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-03-20'
+ lastmod: '2023-03-27'
 ---
 
 
 
-## Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
+## Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas.
 
-Vas a abrir los ojos y, aunque no des los pasos al momento, las ideas las tendrás claras. 
- La rutina no te hace mal, pero si la monotonía, y te encuentras en el punto de cambiar para renovarte. 
- Cambiar el chip hará que entiendas muchas cosas que hasta ahora te preocupaban. Necesitas mirarte por dentro y ver hasta dónde eres capaz de llegar y sobretodo, hasta donde QUIERES llegar. Quieres ser feliz y harás lo que sea para conseguirlo, lo sabes.
-Es esa época del año en que te beneficiarías de tomarte un año sabático. Aunque es muy probable que ciertas áreas clave de tu vida estén muy ocupadas, el cosmos te invita a pasar un tiempo a solas reflexionando, recargando baterías y cosechando puntos de vista que te puedan ayudar a tomar las decisiones correctas. Mercurio entra a Libra el Jueves, motivándote a expresar tus sentimientos y compartir ideas personales. Trata de despejar tu horario alrededor de la Luna nueva del Martes con tal de hacer tiempo para un relajante masaje o tratamiento de spa.
+Sí, la vida te ha dado muchos palos pero quieres seguir adelante, quieres probar cosas diferentes, quieres disfrutar sin tener que pensar si lo que haces está bien o mal para el resto, si es políticamente correcto…
+Con Venus recientemente en tu signo, te prepararás para explorar nuevas oportunidades sociales tanto por placer como también negocios. Debido al fuerte enfoque en Tauro, es momento de canalizar tu energía hacia un proyecto que es profundamente significativo para ti, especialmente cualquier viejo sueño en el que hubieras estado en la posición de realizar. Hacerlo se hace ahora más fácil si planificas primero y tienes especial cuidado al respetar los costos. Además, el romance podría estar en el aire si es que tu corazón está listo para salir a citas y divertirse.
 
 ## Dinero
 
-Algunos aspectos afectando tus vidas pasadas, sueños y karma liberan tus ideas más interesantes e individualistas. Lo que pudo estar bloqueado por obstáculos en el pasado se vuelve más libre y más fácil de conseguir ahora. Algunas de tus mejores ideas pueden surgir de tu subconsciente. Se te podría pedir que consideres trabajar desde casa o traer dinero extra mediante el uso de tu casa de manera creativa. Es tu decisión.
+Aspectos en tu gráfico asociado con el empleo y la salud te exhortan a hacer los cambios necesarios y hacerte chequeos médicos. Debido a que el Universo revela lo anteriormente enterrado bajo la superficie, puedes encontrarte con que alguien tiene la intención de bloquear tu camino hacia el éxito. Un vistazo a tu sector de vidas pasadas y karma te mostrará que ahora cosecharás lo que has sembrado.

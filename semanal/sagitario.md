@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 20 de marzo 2023 al 26 de marzo 2023 
-description: Horóscopo semanal sagitario 20 de marzo 2023 al 26 de marzo 2023. Estás en una etapa súper confusa Sagitario, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
+title: sagitario 27 de marzo 2023 al 02 de abril 2023 
+description: Horóscopo semanal sagitario 27 de marzo 2023 al 02 de abril 2023. Da la bienvenida a tu nueva vida Sagitario, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2023-03-20
+ogimg: /images/zodiac/semanal_sagitario.png#2023-03-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-03-20'
+ lastmod: '2023-03-27'
 ---
 
 
 
-## Estás en una etapa súper confusa Sagitario, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
+## Da la bienvenida a tu nueva vida Sagitario, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
 
-Debes dejar de darle vueltas a situaciones y quizás pensar un poco más en el momento, en como levantar el ánimo en todos los aspectos de tu vida. Tú funcionas así, puedes ser feliz con cosas pero si hay una pequeña situación que se escapa de tus manos todo girará en torno a ella, y te perderás lo bueno que si puedes aprovechar.
-Aunque quizás tengas mucho trabajo o responsabilidades, un enfoque en tu sector de ocio podría tentarte a explorar nuevos pasatiempos para disfrutar. Y a pesar de que quizás tengas mucho entre manos, la oportunidad de relajarte y hacer algo que disfrutas podría ser muy tentadora como para resistirte. Podrían aparecer mejoras con respecto a un asunto familiar o doméstico, y esto puede ser a causa de una brillante idea. Aunque tal vez requiera paciencia, vale la pena seguir adelante con ella.
+No pienses tanto por favor Sagitario, claro que saldrá bien, claro que deberías arriesgar por tus metas, claro que es lo que quieres. Eres Sagitario por favor, a pesar de que por tu cabeza puedan pasar un sinfín de locuras, y de las buenas, sabes lo que haces, sabes que si te paras a pensar más de dos días seguidos algo es que hay que hacer algo para cambiarlo, para bien o para mal. O sea, ves a por todas. 
+ cultivar para luego recoger una buena cosecha y no dejarte abatir ni decaer por ninguna situación que se cruce en el camino.
+Una intensa conexión podría hacer que te sea más fácil convencer a alguien para que adopte tu forma de pensar. Pero si lo intentas demasiado duro, podrías percatarte de que tal persona no sólo se aleja, sino que incluso puede llegar a volverse inaccesible. El presente enfoque en tacto y diplomacia te anima a abordar el tema desde una perspectiva diferente, dando lugar a un resultado mucho más deseable. La Luna Creciente del fin de semana podría significar que alguien querrá darte órdenes a menos que seas firme con tal.
 
 ## Dinero
 
-Este período se trata de encontrar ese perfecto equilibrio entre trabajo y vida personal. El amor y la creatividad se unen a la acción para afectar tu empleo y asuntos de salud. Esto puede significar que por primera vez estás dando en el tino – ni te estás cansando demasiado ni tampoco vagando. Es probable que recibas elogios por el trabajo que has terminado y se te encarguen tareas aún más difíciles en el futuro.
+Este período se trata de las nuevas oportunidades que le llegan a tu vida laboral. El cielo es el límite en términos de lo que puedes esperar, pero el Universo no lo hará por ti. Debes estar a la búsqueda de maneras de aumentar tus ingresos, ya sea mediante la adición de un negocio secundario o aceptar trabajos independientes. Utiliza tu educación y tus viajes para salir con ideas para productos o servicios que vender.
