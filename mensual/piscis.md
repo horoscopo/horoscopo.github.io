@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: Horoscopo Piscis Marzo 2023
-description: El Horóscopo Marzo de Piscis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Piscis Abril 2023
+description: El Horóscopo Abril de Piscis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/piscis/
 amplink: /horoscopo-mensual/amp/piscis/
 home: FALSE
-keywords: horóscopo marzo, horoscopos en español, horóscopo Piscis marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Piscis, Tarot, Astrologia, Zodíaco, Piscis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo abril, horoscopos en español, horóscopo Piscis abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Piscis, Tarot, Astrologia, Zodíaco, Piscis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/piscis_mes.png#2023-03-01
+ogimg: /images/mes/piscis_mes.png#2023-03-29
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-03-01'
+ lastmod: '2023-03-29'
 ---
 
 
- > Piscis, este mes la suerte está de tu lado y tu vida toma un giro feliz. Parecerá que todo lo que tocas se convierte en oro. Las propuestas vienen cuando deben, conoces a personas que sienten algo por ti. A partir del 7 de marzo, la luna llena empuja los límites de lo posible y ¡estarás en racha! Sin embargo, para que todas estas bendiciones se alineen con el tiempo, tendrás que lidiar con ese Marte guerrero. La oposición que lo vincula a tu signo te empuja a rechazar cualquier forma de compromiso o contrato. Medita sobre este punto para evitar rechazar una oportunidad por las razones equivocadas.
+ > Piscis, abril hará que encuentres el sitio que realmente te corresponde en la vida y eso te provocará un sentido del humor que hará que estés más bella que nunca.
 
 
 
-La vida está evolucionando profundamente, y tú estás cruzando un umbral. Pero no puedes entrar al futuro si tienes las manos cargadas con el pasado, así que no tengas miedo de cortar por lo sano donde sea necesario. 
-Júpiter entró a Sagitario a finales del año pasado, y cuando Venus se une a Júpiter este mes, tus relaciones tienen mucho para ofrecerte a nivel creativo, emocional, sexual y económico. Pero primero, debes ir más allá de tus apegos materiales a la apariencia física, sexo, dinero, éxito, matrimonio, y compromiso (en especial aquellos que has heredado de la sociedad y de tus padres) para preguntarte qué es lo que realmente será importante al final de tu vida. Luego podrás profundizar e invertir en aquellas conexiones que traigan beneficios mutuos y que compartan tus valores. 
-Cuando la luna llena en Piscis y la actividad solar se alinean en tu casa de comunicación, estarán recuperando información, aclarando cosas, y ofreciendo una nueva perspectiva sobre una situación en la que te has estancado. Actúa con honestidad, y podrás calmar las aguas y estar en la misma página que los demás. Existe el amor verdadero en tu mundo, al menos una amistad en la que puedes confiar. Suelta el pasado y ten fe. Ya eres libre. 
-Días destacados: 4, 22, 29 
-Días desafiantes: 8, 13, 18 
+No te sorprendas si eres el centro de atención este mes, estimable Escorpión, ya que la temporada de Aries activa tu quinta casa solar. Esta ubicación cósmica tiene como objetivo elevar tu aura, lo que te permite reflejar la fuerza compasiva, talentosa y amante de la libertad que realmente eres. Las personas se sentirán atraídas hacia tu forma de ser abierta pero a la vez misteriosa, lo que te da la oportunidad de hacer nuevas amistades mientras continúas nutriendo las relaciones que aprecias. También sentirás una mayor creatividad y pasión ya que los astros te abren a la inspiración divina. Sin embargo, necesitarás tomate con seriedad tus metas artísticas cuando Saturno entra al signo de los Peces el 7 de abril.
+El año astrológico se manifiesta mientras el sol se encuentra en Aries y al sector de tu carta astral que rige la salud, las rutinas y el trabajo. El universo te pedirá que organices tu agenda, en especial si tienes grandes planes para los próximos doce meses. Solo recuerda nutrir tu cuerpo con cada hito que alcanzas, por lo que debes ser consciente de lo que comes, descansar bien y practicar el autocuidado cada vez que lo necesites. El Eclipse solar y luna nueva del 20 de abril se manifiesta y es la ocasión perfecta para reconectar con tus resoluciones del mes, en especial si has estado teniendo dificultades para poner en práctica nuevos hábitos.
+Sentirás un cambio importante cuando Plutón entra a Acuario y a tu cuarta casa solar el 23 de abril. Esta ubicación planetaria con certeza transformará tu vida doméstica y podría desencadenar reubicaciones, nuevas dinámicas familiares y proyectos de mejoras en el hogar. Por suerte sentirás la motivación necesaria para seguir adelante y con confianza en el universo una vez que el apasionado Marte entra a Cáncer y al sector espiritual de tu carta astral dos días después.
+Días destacados: 5, 20, 28
+Días desafiantes: 3, 16, 25

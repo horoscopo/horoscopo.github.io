@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: Horoscopo Escorpio Marzo 2023
-description: El Horóscopo Marzo de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Escorpio Abril 2023
+description: El Horóscopo Abril de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/escorpio/
 amplink: /horoscopo-mensual/amp/escorpio/
 home: FALSE
-keywords: horóscopo marzo, horoscopos en español, horóscopo Escorpio marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Escorpio, Tarot, Astrologia, Zodíaco, Escorpio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo abril, horoscopos en español, horóscopo Escorpio abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Escorpio, Tarot, Astrologia, Zodíaco, Escorpio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/escorpio_mes.png#2023-03-01
+ogimg: /images/mes/escorpio_mes.png#2023-03-29
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-03-01'
+ lastmod: '2023-03-29'
 ---
 
 
- > Escorpio, la palabra novedad estará muy presente en un mes de marzo cargado de situaciones a las que no te habías enfrentado antes. Vas a tener que adaptarte rápido y sacarás lo mejor de ti para hacerlo. Cuando esté acabando el mes estarás muy orgullosa de ti y tu satisfacción se verá reflejada en todo lo que haces.
+ > Escorpio, cuidado con la sensibilidad durante el mes de abril, porque puede jugarte alguna mala pasada con tu pareja. Por otro lado, por fin parece que las cosas ponen en su sitio en la vida a quien se lo merece y por eso vas a disfrutar con ciertas situaciones.
 
 
 
-Sin importar qué tan ocupada se vuelva la escena social, nada puede competir con el placer de quedarse a solas en casa. Recarga tus baterías emocionales bajo la luz de la Luna Llena del 7 de marzo para recibir fresca y fuertemente lo que sea que el mundo te termine lanzando. Comportarte audazmente en tu trabajo posterior a la Luna Nueva del 21 de marzo podría crearte una gran oportunidad. Adoptar más responsabilidades te ganará apoyo. Si te interesa un cambio de trabajo o carrera, puede que te sea posible hacerlo ahora. El fin de semana del 23 de marzo será muy divertido pero no demasiado loco. Podrás sentir tu riqueza y a la vez tu responsabilidad.  
+Si cierto problema se ha resistido a tus mejores esfuerzos, la Luna llena del 6 de abril podría darte lo que necesitas para lograr un gran avance. Podría ser tan simple como la persona adecuada regresando de vacaciones y contestando todas tus preguntas. Obtén las respuestas que necesitas y el progreso que deseas sin ningún esfuerzo adicional de tu parte. La Luna Nueva del 20 de abril trae el primer eclipse de sol y hace tu mundo mucho más grande y más brillante. Descubre un nuevo y exótico gusto o un placer que te lleve a lugares sin costarte mucho. Marte comienza a moverse directamente el 29 de abril. Prepárate para retomar un tema que se comenzó a debilitar desde mediados de abril y termínalo.

@@ -1,18 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Libra Marzo 2023 
+title: Horoscopo Libra Abril 2023 
 permalink: /horoscopo-mensual/amp/libra/
 normallink: /horoscopo-mensual/libra/
 home: FALSE
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/Libra_mes.png#2023-03-01
+ogimg: /images/mes/Libra_mes.png#2023-03-29
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-03-01'
+ lastmod: '2023-03-29'
 ---
 
 
-La Luna llena al inicio de marzo ilumina tu vida social y tu compromiso hacia cualquier club u organización a los que perteneces. Una causa o grupo podría llamarle la atención a tu sentido de servicio público y podría darte inspiración para unirte como voluntario. En cualquier caso, tu interés inspirará a otros. Escucha lo que tus corazonadas te digan cuando la Luna conjunte a Neptuno el 13 de marzo. Haz uso de tu intuición y ten un gran día en el trabajo. Brilla saludable y felizmente bajo la Luna nueva del 21 de marzo. Puede que incluso te encuentres cuidando de una nueva mascota, si no es que de una nueva y noble causa. Disfruta de ese brillo dorado interior.   
+Adopta una actitud más seria hacia tu vida el 3 de abril, cuando tu planeta regente, entre al determinado Escorpión. Vierte tu corazón ya sea en tu trabajo o participación en la vida pública bajo la Luna Llena del 6 de abril. Formula tu estrategia completamente y apégate a ella, poco a poco, día con día. Tienes muchos aliados y simpatizantes. La Luna Nueva junto al eclipse solar podría animarte a salir en busca de un nuevo tipo de diversión, tal vez con un grupo de gente más grande. Quieres que se te note y hay gente por ahí en busca de alguien como tú. Sin embargo, no dejes que la idea de emoción de alguien más te desvíe de tu curso.

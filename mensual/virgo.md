@@ -1,30 +1,24 @@
 ---
 layout: horoscopos
-title: Horoscopo Virgo Marzo 2023
-description: El Horóscopo Marzo de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Virgo Abril 2023
+description: El Horóscopo Abril de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/virgo/
 amplink: /horoscopo-mensual/amp/virgo/
 home: FALSE
-keywords: horóscopo marzo, horoscopos en español, horóscopo Virgo marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Virgo, Tarot, Astrologia, Zodíaco, Virgo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo abril, horoscopos en español, horóscopo Virgo abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Virgo, Tarot, Astrologia, Zodíaco, Virgo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/virgo_mes.png#2023-03-01
+ogimg: /images/mes/virgo_mes.png#2023-03-29
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-03-01'
+ lastmod: '2023-03-29'
 ---
 
 
- > Virgo, se aproxima el momento de la verdad que llevas esperando durante el último tiempo y marzo será el mes del desenlace. Será un período en el que las tentaciones estarán muy presentes y sólo estará en tu mano decidir qué vas a hacer.
+ > Este mes de abril tus planetas amigos te animan a abrirte a otras perspectivas, Virgo. Antes de emitir un juicio precipitado, tómate el tiempo necesario para revisar la situación. En los últimos diez días del mes la luna nueva te mostrará que tu entorno se está esforzando por ti, para que creas que lo imposible puede hacerse posible. Tendrás el apoyo de tus seres queridos y toda su confianza, si te animas a ir más allá de lo que conoces.
 
 
 
-El sol forma un trígono con Neptuno el 5 de marzo. Que tus aspiraciones y ambiciones aumenten. 
-La vida familiar y doméstica se ven geniales con la luna llena del día 7. Alegra tu corazón con un gran cambio, o un cambio pequeño que te dé una gran satisfacción, que sea práctico y funcional por completo, sin nada cosmético. 
-El 16 de marzo, Venus al fin se torna directo mientras Mercurio se torna retrógrado. Los rencores pueden atenuarse, pero probablemente es demasiado pronto para hablar con palabras más suaves que no serán malinterpretadas. 
-Durante la luna nueva del día 21, una gran cantidad de cosas maravillosas pueden buscarte, pero el impulso más fuerte puede ser alejarte de todo, salir, y estar con personas. Eso también puede ser algo valioso, así que no te sientas culpable si no terminas de hacer tus cosas. Puedes hacerlas después. El sol entra en Aries ese día también. Hay un fuerte impulso de ser sociable. 
-El sol forma una conjunción con Júpiter el 25 de marzo. Disfruta en grande de la suerte que tienes. 
-Días destacados: 7, 11, 25
-Días desafiantes: 21, 29
+Mercurio se mueve directo el 5 de abril y la vida se vuelve más fácil, pero no de inmediato. Concéntrate en el trabajo durante la luna llena del 6 de abril. Aprovecha tu tiempo a solas para soñar e inspirarte (y ahora es un buen momento para hacerlo, así que piensa en grande) y deja que tu buen desempeño convierta tus planes profesionales en realidad. La vida en el hogar puede estar constantemente en movimiento y complicarse un poco con el eclipse de sol del 20 de abril. Un gran trígono en signos de tierra mantendrá tu atención en lo verdaderamente importante y en lo que te hará feliz. No tengas miedo y actúa de manera práctica. 

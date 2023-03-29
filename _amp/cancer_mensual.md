@@ -1,23 +1,22 @@
 ---
 layout: amp
-title: Horoscopo Cáncer Marzo 2023 
+title: Horoscopo Cáncer Abril 2023 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/Cáncer_mes.png#2023-03-01
+ogimg: /images/mes/Cáncer_mes.png#2023-03-29
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-03-01'
+ lastmod: '2023-03-29'
 ---
 
 
-Hay riesgo de que pienses demasiado las cosas o pases mucho tiempo en tu mente este mes, estimable Cáncer, mientras el sol en Piscis ilumina el sector de tu carta astral que rige el subconsciente.
-Esta ubicación solar podría llevarte a que padezcas insomnio, nerviosismo o tengas expectativas poco realistas para ti y para las personas que te rodean, elevando potencialmente tus niveles de estrés. Lo bueno es que también tendrás una oportunidad de revisar tus pensamientos y sentimientos más profundos para poner todo en el lugar que corresponde. Sentirás que los momentos de silencio y tranquilidad son una prioridad mayor ahora. Consentirte en silencio te ayudará a examinar tu vida y evaluar a dónde quieres estar dentro de seis meses o un año.
-Por suerte, tendrás la oportunidad de desprenderte de lo que sea que te aqueja el 7 de marzo mientras la luna llena se encuentra en Piscis, ya que el cosmos te bendecirá con una avalancha de apoyo emocional y compasión. Utiliza la energía de este evento lunar para conectarte con tu cuerpo y tu salud, y bríndale a tus músculos un descanso de la tensión que has estado llevando a cuestas recientemente. Tomar baños, elongar y comulgar con la naturaleza pueden ayudarte a aprovechar esta energía al máximo, aunque podrías derramar algunas lágrimas en el proceso de soltar.
-Empezarás a sentirte mucho más a gusto cuando el sol entra en Aries el día 22, marcando así el comienzo del otoño. Acércate de forma entusiasta pero metódica a tus metas durante este período astrológico mientras el más allá te alienta a seguir y te ayuda a concretar tus sueños. Tendrás a tu disposición gracia en abundancia ahora, lo que te ayudará a encontrar tu lado zen después de un comienzo del mes lleno de caos.
-Días destacados: 4, 16, 29
-Días desafiantes: 2, 9, 24
+Dominar tus emociones podría parecer una ardua tarea durante la primera parte del mes, Cáncer, ya que Saturno y Urano forman una cuadratura en el cielo. Los cambios bruscos de humor pueden hacer que inesperadamente te cierres o estalles, por lo que es importante que encuentres modos de centrarte y poner los pies en la tierra si sientes que las tensiones aumentan. Lamentablemente, un feroz deseo de cumplir con tus objetivos personales podría contribuir a estas difíciles energías, en especial si no estás agendando suficiente tiempo para la soledad y el autocuidado en la comodidad de tu propia casa.
+Por suerte, el universo conspira para darte un apoyo extra cuando el sol y Venus transitan por Aries y el sector de tu carta natal que rige la espiritualidad. Comunicarte con el más allá se sentirá como algo natural en este momento, ya que los astros se alinean para potenciar tu intuición y tu capacidad de ver a través del velo. Dedicarte a una meditación o práctica religiosa también puede servir de ancla cuando aparecen aguas turbulentas, lo que es una oportunidad para ver el camino por delante incluso cuando el cielo está gris.
+Notarás un gran cambio de energía cuando el sol y Venus entran a Tauro el 20 de abril, lo que trae un impulso de energía para el sector de tu carta natal que rige las ambiciones profesionales. Este clima cósmico despertará al líder empresarial que vive dentro de ti, lo que elevará tu poder profesional y tus habilidades de negociación. No tengas miedo de volverte una persona transaccional en la oficina. Siéntete libre de intercambiar favores o pedir ese aumento que tu jefe ha estado insinuando hace meses.
+Días destacados: 4, 9, 13
+Días desafiantes: 5, 18, 30

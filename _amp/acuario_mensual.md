@@ -1,22 +1,22 @@
 ---
 layout: amp
-title: Horoscopo Acuario Marzo 2023 
+title: Horoscopo Acuario Abril 2023 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Acuario_mes.png#2023-03-01
+ogimg: /images/mes/Acuario_mes.png#2023-03-29
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-03-01'
+ lastmod: '2023-03-29'
 ---
 
 
-Urano retrógrado vuelve a entrar a Aries el 6 de marzo. Toma una actitud más aventurera (otra vez) de una forma moderada. La luna llena del día siguiente te vuelve protagonista, o la persona a la que acudir, en el trabajo o entorno social. Arregla una situación delicada, haz que parezca fácil, y recibirás mucho crédito de muchas personas. 
-El día 16, Venus se torna directo justo antes de que Mercurio se torne retrógrado. Siéntete más a gusto con una relación romántica sin necesidad de expresar abiertamente tus sentimientos. La conjunción que la luna forma con Urano el 20 de marzo te hace sentir más valiente por un rato. 
-No te preocupes si la luna nueva del día 21 te hace tambalear. Hasta tú puedes ser una persona indecisa a veces. Haz lo que te gusta y alegra tu corazón. Si se trata de salir y socializar con otros, siéntete libre. Hay gente con energía e ideas ahí afuera. Simplemente observa, si es lo que se siente bien. 
-Días destacados: 20, 21, 27
-Días desafiantes: 13, 30
+Te encantará pasar la temporada en casa este mes, estimable Acuario, ya que el sol, Venus y Mercurio en Aries transitan por el sector de tu carta astral que rige la felicidad doméstica. Trabajar durante esta época te brindará una sensación de comodidad y nostalgia, así que busca la receta de galletas de tu abuela, prepara chocolate caliente e invita a tus seres queridos a divertirse y conversar frente a la chimenea. Sin embargo, debes tener en cuenta que no estás organizando todo esto a solas. Pide ayuda con los platos y la limpieza al final de las reuniones.
+Saca a relucir toda tu astucia durante la luna llena, cuando la luna se acerque al apasionado Marte el 6 de abril. Hacer regalos a familiares y amistades puede ayudarte a desconectar temporalmente de cualquier estrés que esté ocupando espacio en tu vida profesional mientras llenas tu corazón de gratitud y amor. Expresarte a través de gestos amables o esmerados regalos te recuerda todo lo bueno de este mundo y te ayuda a fortalecer tus lazos más importantes.
+Tendrás más ganas de aventurarte una vez que la temporada de Tauro comience el día 20, activando tu quinta casa solar. Estas vibras están relacionadas con la creatividad, la confianza y el disfrute de tus amistades, por lo que es importante que aceptes cualquier tentadora invitación social. Tómate un momento para considerar cómo te gustaría fortalecer tu imagen y tu ego durante la luna nueva del 20 de abril, y no te sientas culpable si tu agenda se vuelve un poco superficial o egoísta.
+Días destacados: 6, 15, 17
+Días desafiantes: 1, 9, 29

@@ -1,24 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Sagitario Marzo 2023 
+title: Horoscopo Sagitario Abril 2023 
 permalink: /horoscopo-mensual/amp/sagitario/
 normallink: /horoscopo-mensual/sagitario/
 home: FALSE
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Sagitario_mes.png#2023-03-01
+ogimg: /images/mes/Sagitario_mes.png#2023-03-29
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-03-01'
+ lastmod: '2023-03-29'
 ---
 
 
-Venus forma una cuadratura con Marte el 8 de marzo. El amor y la pasión pueden no estar en la misma página ese día. Ahora una relación podría sufrir sacudones o tropiezos. No te precipites. 
-Alrededor de la luna llena del día 7, podrías conformarte perfectamente con entretenerte por tu cuenta. Sin embargo, puede que amistades y familiares más jóvenes quieran sumarse. Eso está bien, pero no es tu trabajo brindar las aventuras. 
-Venus también ingresa a Escorpión el 9 de marzo. El amor podría coquetear con la idea de correr riesgos. Tu inclinación por la popularidad podría ponerse picante y más seria. 
-Venus forma una oposición con Urano el día 12. No tienes que explorar o experimentar en este momento. Ya sabes lo que quieres. 
-La luna nueva del 21 de marzo es perfecta para ajustar tu dieta o alguna rutina diaria. Incluso un pequeño cambio ahora hará una gran mejora. Siéntete feliz y con poder, sin criticar a los demás. 
-Días destacados: 3, 12, 17
-Días desafiantes: 6, 27
+Sobresales totalmente alrededor de la luna llena del 6 de abril, de las mejores maneras posibles. Si has estado deseando un impulso para un proyecto especial, manos amigas e ideas brillantes vienen en camino. Ni siquiera necesitarás pedirlas. Venus entra a Escorpión el día 7. Presta atención al amor que se vuelve profundo y al romance que se vuelve serio. Un nuevo amor o pretendiente romántico espectacular aparece en tu camino con el eclipse de sol y por ende la luna nueva del 20 de abril. O una asociación actual puede profundizarse y enriquecerse más allá de cualquiera de tus sueños más alocados. Llénate de actos de bondad y gabrilsidad al azar. 

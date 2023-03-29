@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: Horoscopo Libra Marzo 2023
-description: El Horóscopo Marzo de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Libra Abril 2023
+description: El Horóscopo Abril de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/libra/
 amplink: /horoscopo-mensual/amp/libra/
 home: FALSE
-keywords: horóscopo marzo, horoscopos en español, horóscopo Libra marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Libra, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo abril, horoscopos en español, horóscopo Libra abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Libra, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/libra_mes.png#2023-03-01
+ogimg: /images/mes/libra_mes.png#2023-03-29
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-03-01'
+ lastmod: '2023-03-29'
 ---
 
 
- > Libra, este mes las energías que emanan Júpiter en tu signo y Marte en Géminis aumentan tu moral ¡tu cabeza estará llena de ideas y proyectos nuevos! No te precipites hasta mitad de marzo, cuando lo complicado se volverá simple. Tu campo de acción se abrirá a otras perspectivas y los demás estarán receptivos a tus ideas. Tus proyectos tienen todo lo que necesitas para que los lleves a buen término.
+ > Libra, más vale que aproveches este abril, ya que todas tus capacidades y puntos fuertes alcanzarán niveles máximos y eso hay que explotarlo. Vas a estar muy atraída por personas con poder, cuidado en ese sentido.
 
 
 
-La Luna llena al inicio de marzo ilumina tu vida social y tu compromiso hacia cualquier club u organización a los que perteneces. Una causa o grupo podría llamarle la atención a tu sentido de servicio público y podría darte inspiración para unirte como voluntario. En cualquier caso, tu interés inspirará a otros. Escucha lo que tus corazonadas te digan cuando la Luna conjunte a Neptuno el 13 de marzo. Haz uso de tu intuición y ten un gran día en el trabajo. Brilla saludable y felizmente bajo la Luna nueva del 21 de marzo. Puede que incluso te encuentres cuidando de una nueva mascota, si no es que de una nueva y noble causa. Disfruta de ese brillo dorado interior.   
+Adopta una actitud más seria hacia tu vida el 3 de abril, cuando tu planeta regente, entre al determinado Escorpión. Vierte tu corazón ya sea en tu trabajo o participación en la vida pública bajo la Luna Llena del 6 de abril. Formula tu estrategia completamente y apégate a ella, poco a poco, día con día. Tienes muchos aliados y simpatizantes. La Luna Nueva junto al eclipse solar podría animarte a salir en busca de un nuevo tipo de diversión, tal vez con un grupo de gente más grande. Quieres que se te note y hay gente por ahí en busca de alguien como tú. Sin embargo, no dejes que la idea de emoción de alguien más te desvíe de tu curso.
