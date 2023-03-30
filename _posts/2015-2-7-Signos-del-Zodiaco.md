@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 29 de marzo 2023
-description: Horóscopos del dia de hoy 29 de marzo 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 30 de marzo 2023
+description: Horóscopos del dia de hoy 30 de marzo 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-03-29
+ lastmod: 2023-03-30
 ---
-Finaliza asuntos pendientes esta mañana. La conjunción de la tarde entre la Luna y Saturno asegura que cosas positivas sucederán si te apegas a la línea de acción que ya habías formulado. En una nota menos seria, la Luna en Sagitario de esta noche trae la sensación de querer hacer un par de travesuras. Ríete y diviértete.
+A sucede, lo que hace que B suceda y eso hace que C suceda, y todos juntos forman un acontecimiento, y es así cómo se enredaron las cosas (en caso de que tengas un misterio qué resolver bajo la Luna en Escorpión). Esta noche, la aventura llama, así que llena el espacio en blanco: ¿No sería algo locamente divertido si te lanzaras a…?
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
