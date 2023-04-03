@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: aries 27 de marzo 2023 al 02 de abril 2023 
-description: Horóscopo semanal aries 27 de marzo 2023 al 02 de abril 2023. Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo Aries, se llama dignidad. 
+title: aries 03 de abril 2023 al 09 de abril 2023 
+description: Horóscopo semanal aries 03 de abril 2023 al 09 de abril 2023. Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana Aries.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2023-03-27
+ogimg: /images/zodiac/semanal_aries.png#2023-04-03
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-03-27'
+ lastmod: '2023-04-03'
 ---
 
 
 
-## Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo Aries, se llama dignidad. 
+## Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana Aries.
 
-Empieza a cambiar la mentalidad Aries, empieza a cambiar eso de “estoy roto y sin fuerzas” por “estoy creciendo y me estoy curando de todo”, ya verás como tu vida cambia para mejor, y ya verás que deprisa. Quizás tengas que volver a conectar con tu pasado y cambiar la historia, quizás tengas que entender de una vez que todo pasó por alguna razón, que por eso estás aquí, quizás debas perdonar de verdad, perdonarte a ti mismo y dejar todo lo que te preocupa atrás. Si sigues hablando de algo es porque ese algo aún es importante para ti, aún quema dentro, y hay que enfrentarlo para que por fin salga de tu vida. Es complicado Aries, es complicado cargar con cosas que te hicieron daño en su día, y mucho más para ti, que no puedes olvidar tan fácilmente. Pero piensa que no puedes perder el tiempo con eso, piensa que tu tiempo es oro y que todo lo que inviertas en pensar demasiado lo podrías estar invirtiendo en hacer cosas productivas por y para ti. A veces, para encontrar un poco de paz debes estar dispuesto a perder tu conexión con algunas personas, con algunos lugares y con cosas que llevan creando mucho ruido en tu vida desde hace un tiempo… Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
-Es hora de proteger tus límites y defender tus principios. La potente alineación astral que alcanza su máximo entre semana necesita ser manejada con cuidado. Si bien es una oportunidad para hacer algunos cambios, puede que tengas que hacerle frente a la oposición de otras personas, lo que podría ser una molestia. Tu coraje y determinación parecen aumentar con la potente Luna Nueva en tu signo. Si sabes lo que quieres, los próximos días pueden ser fundamentales para impulsarte a obtenerlo sin importar las consecuencias.
+Es probable que realices o cierres un gran proyecto esta semana, que firmes algún tipo de contrato, o que se acabe algún capítulo de tu vida que estabas deseando cerrar. Pero recuerda estar entero cuando esto pase. Nada de dudas porque si no, podría salir todo mal, podría quedarse en nada al final. 
+Tienes contacto con algunas personas aún que no deberías así que, empieza a limpiar un poco a gran parte de tus contactos. No te hacen del todo bien.
+El enfoque en tu sector de comunicación podría inspirarte a compartir tu mensaje con el mundo. La próxima semana es una gran oportunidad para entablar nuevas conexiones que podrían ayudarte a lograr tu meta. Sin embargo, un desacuerdo al principio podría provocar sentimientos de cautela, a menos que quieras hablar sobre esto y resolverlo rápidamente. Por lo general, tienes el don de la palabra y no deberías tener dificultad para resolver cualquier problema que pueda surgir.
 
 ## Dinero
 
-Esta es una buena semana para ti. Tu belleza se denota por dentro y por fuera, y tienes los medios y la inspiración para cambiar lo que hay que abordar. En resumen, tienes cierto magnetismo. Atraerás oportunidades para ganar más, influir en los demás, y lograr que tus necesidades financieras se solucionen de una gran forma. Aprovecha esta energía mientras te apoya.
+Esta semana se trata no sólo de mejorar tu estilo personal (a pesar de que podría utilizar algo de ayuda también), sino también de la forma en que te expresas. Tiene ideas creativas acerca de cómo hacer esto, y sobre los medios para convencer a los demás de que tienes la razón. Después de todo, no todo el mundo va a estar de acuerdo con todos los cambios. Mientras tanto, ciertos aspectos aportan ideas únicas que nadie más tiene. Tu poder adquisitivo aumenta.

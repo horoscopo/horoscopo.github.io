@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 27 de marzo 2023 al 02 de abril 2023 
-description: Horóscopo semanal geminis 27 de marzo 2023 al 02 de abril 2023. Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca Géminis.
+title: geminis 03 de abril 2023 al 09 de abril 2023 
+description: Horóscopo semanal geminis 03 de abril 2023 al 09 de abril 2023. Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2023-03-27
+ogimg: /images/zodiac/semanal_geminis.png#2023-04-03
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-03-27'
+ lastmod: '2023-04-03'
 ---
 
 
 
-## Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca Géminis.
+## Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
 
-Tienes muchas preguntas que solamente puedes contestarte tú a ti mismo ahora. 
-Hasta ahora todo ha ido más o menos bien, o sea, has ido superando cada traba que la vida te iba poniendo pero de repente te quedas estacando por algo y no sabes qué dirección tomar.
-Tu atención se dirige hacia tus pensamientos y sentimientos. Se te facilitará más conectar y compartir tus emociones una vez que Mercurio entre a tu sector espiritual el lunes. Sin embargo, los días de mitad de semana podrían traer un desenlace debido a un tenso aspecto que podría significar que no te interesa invertir en un hobby o incluso un romance que pudiera estarte costando caro. A partir del viernes, será momento de analizar qué tan bien puedes manejar tu poder y qué es lo que te podría estar impidiendo disfrutar de la intimidad.
+Esfuérzate un poco más de lo que hiciste ayer Géminis, simplemente eso, lo que has aprendido todos estos años se ha instalado ya en tu cabecita. Y bien sabes que cuando quieres cambiar algo y empiezas a presionarte todo sale mal. 
+ de hecho ahora es ese momento en el que puedes utilizar todo lo que sabes para ser un poco más feliz.
+Mercurio ingresa a tu sector de comunicaciones, y este puede ser un buen momento para tomar un curso que te permita aprender una nueva habilidad. También es una gran oportunidad para hacer algunas conexiones vitales que pudieran poner nuevas ofertas, proyectos y contratos en tu camino. Al mismo tiempo, quizás seas capaz de aumentar tus ingresos si pones en marcha una idea. Esto puede cambiar tu situación por completo. ¡Tu genialidad le puede venir muy bien a alguien con autoridad!
 
 ## Dinero
 
-Ahora tienes una situación de buenas noticias/malas noticias en tus manos. La buena noticia es que tu sector de carrera y figuras de autoridad se ve afectado positivamente, lo que indica un tiempo de mejores oportunidades y un mayor acceso a flujos de efectivo. La mala noticia es que puede que creas que no necesitas cambiar. Trata de salir adelante mediante la cooperación, no la lucha.
+Es necesario utilizar emociones constructivamente sobre una base regular. Si haces algo creativo para ganarte la vida, este es el equilibrio perfecto entre el arte y el comercio, porque ahora el Universo te apoya. Con cierta actividad en el área que rige la educación superior, los viajes y la espiritualidad, es el momento de mirar al exterior para generar oportunidades de dinero tan pronto como sea posible.

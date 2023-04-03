@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 27 de marzo 2023 al 02 de abril 2023 
-description: Horóscopo semanal cancer 27 de marzo 2023 al 02 de abril 2023. La guerra que tienes dentro está deseando encontrar un poco de paz Cáncer, de verdad, ya no puede aguantar tanto. ¿Qué pasa con tus metas, con tus objetivos? Primero debes ponerte a ti mismo ahora. ¿No te acuerdas de cuantas cosas has rechazado por amor? ¿o de cuanto has dejado de lado?
+title: cancer 03 de abril 2023 al 09 de abril 2023 
+description: Horóscopo semanal cancer 03 de abril 2023 al 09 de abril 2023. Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2023-03-27
+ogimg: /images/zodiac/semanal_cancer.png#2023-04-03
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-03-27'
+ lastmod: '2023-04-03'
 ---
 
 
 
-## La guerra que tienes dentro está deseando encontrar un poco de paz Cáncer, de verdad, ya no puede aguantar tanto. ¿Qué pasa con tus metas, con tus objetivos? Primero debes ponerte a ti mismo ahora. ¿No te acuerdas de cuantas cosas has rechazado por amor? ¿o de cuanto has dejado de lado?
+## Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
 
-Si te retienen o si no te animan a hacer lo que de verdad quieres hay algo que falla. Sea quien sea Cáncer. 
- Y quizás también deberías meditar acerca de qué es lo que más te conviene. El tiempo es el único que al final te regenera y te vuelve a dar esa vida y esa luz que siempre cargas.
-Tus previas semanas han estado ocupadas con proyectos y oportunidades que probablemente han iniciado una nueva fase en tu vida. Esta semana tendrás ansias de analizar el costo de tus últimas ideas con miras a la recaudación de fondos o la planificación de un presupuesto. La Luna Nueva en Escorpión puede ser un excelente momento para empezar un negocio en línea, crear un sitio web y darte a conocer. Las cosas podrían empezar poco a poco, pero podrían cobrar impulso rápidamente. ¡La noche del viernes es ideal para una cita especial!
+Debes tener cuidado si no quieres que la caída sea desde muy arriba. No tiene por qué pasar, está claro, pero debes prevenir y no entregarte al 100% en todo lo que haces, porque los golpes duros duelen menos cuando no diste todo de ti, ves con un poquito de ojo esta semana.
+Cualquier cambio que realices en tu interior podría permitirte tener más confianza y lograr más. Sin embargo, esta podría ser la razón por la que sientas que has perdido tu sentido de orientación. Realmente no ha desaparecido, se trata simplemente de que estás en el acto de redefinición de tus objetivos y propósito de vida. De hecho, el Eclipse Lunar de esta semana podría animarte a ir aún más profundo. Si te has preparado para alcanzar el éxito, el cosmos sugiere que el primer paso es conocerte como persona.
 
 ## Dinero
 
-Puede que estés pensando en maneras de embellecer tu área de trabajo o conseguir que tus colegas participen en un esfuerzo creativo. También tienes el apoyo total del Universo para hacer algunos movimientos importantes en la parte frontal de la deuda. Pagar las cosas te da una gran sensación en el interior, al igual que hacer un plan de ahorro global y mantenerte al tanto con él.
+Esta semana, tu mente sin duda se encuentra girando en torno a nuevas ideas sobre cómo hacer más dinero. Pero ¿alguna vez has pensado en agrandar tu negocio globalmente? Si lo has hecho, esto recibe apoyo esta semana, como si estuvieras haciendo nuevas relaciones que pudieran facilitar tu progreso económico en los últimos años. Esto podría incluir asesores financieros, jefes, colegas y mentores. El cielo es el límite siempre y cuando te tomes el tiempo para desarrollar tus ideas y buscar apoyo.
