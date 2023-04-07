@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 06 de abril 2023
-description: Horóscopos del dia de hoy 06 de abril 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 07 de abril 2023
+description: Horóscopos del dia de hoy 07 de abril 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-04-06
+ lastmod: 2023-04-07
 ---
-La cuadratura de hoy entre Plutón y la Luna en Libra enciende las emociones. No te apresures, ve más despacio y mantén el equilibrio. Esta noche, la Luna saliéndose de su órbita después de manifestarse como Luna Nueva sugiere la necesidad de una pizca de equilibrio. Es hora de respirar profundamente y serenarse. Solteros, no es buen momento para empezar nuevas relaciones.
+Es un período positivo para las oportunidades cuando el Sol forma sextil con Júpiter. Conecta y cuida a tus conexiones y amistades y crea un poco de tu propia suerte. Esta noche, cumplidos sinceros y muy dulces florecen para que puedas darlos y recibirlos. ¿Buscas pareja? Esta energía también les gustará a los solteros, así que ponte de un humor encantador.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
