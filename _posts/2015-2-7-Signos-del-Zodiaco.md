@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 08 de abril 2023
-description: Horóscopos del dia de hoy 08 de abril 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 09 de abril 2023
+description: Horóscopos del dia de hoy 09 de abril 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-04-08
+ lastmod: 2023-04-09
 ---
-Hoy, la tendencia es actuar repentinamente durante la oposición entre la Luna y Urano. Siéntate, respira profundamente y espera hasta que el impulso pase. Hay un tremendo poder en las palabras cuando Mercurio conjunta a Plutón esta noche. Ciertamente, tu modo de comunicarte inspira respeto. ¿Qué es lo que vas a decir?
+Lleva a cabo investigación sobre ciertos asuntos para obtener información sobre los temas que son importantes para ti cuando la Luna cuadra a Plutón el día de hoy. Encuentra una cosa que te lleve a otra y te ayude a que la nueva versión sea distinta. Esta noche, entra al mundo de la magia y el encanto cuando el trígono entre Venus y Neptuno produzca un estallido ilusorio.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
