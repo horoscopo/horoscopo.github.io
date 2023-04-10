@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 03 de abril 2023 al 09 de abril 2023 
-description: Horóscopo semanal geminis 03 de abril 2023 al 09 de abril 2023. Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
+title: geminis 10 de abril 2023 al 16 de abril 2023 
+description: Horóscopo semanal geminis 10 de abril 2023 al 16 de abril 2023. Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2023-04-03
+ogimg: /images/zodiac/semanal_geminis.png#2023-04-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-04-03'
+ lastmod: '2023-04-10'
 ---
 
 
 
-## Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
+## Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
 
-Esfuérzate un poco más de lo que hiciste ayer Géminis, simplemente eso, lo que has aprendido todos estos años se ha instalado ya en tu cabecita. Y bien sabes que cuando quieres cambiar algo y empiezas a presionarte todo sale mal. 
- de hecho ahora es ese momento en el que puedes utilizar todo lo que sabes para ser un poco más feliz.
-Mercurio ingresa a tu sector de comunicaciones, y este puede ser un buen momento para tomar un curso que te permita aprender una nueva habilidad. También es una gran oportunidad para hacer algunas conexiones vitales que pudieran poner nuevas ofertas, proyectos y contratos en tu camino. Al mismo tiempo, quizás seas capaz de aumentar tus ingresos si pones en marcha una idea. Esto puede cambiar tu situación por completo. ¡Tu genialidad le puede venir muy bien a alguien con autoridad!
+Fíate de ti mismo Géminis, de ti mismo y de tus acciones. De nadie más. Las expectativas no funcionan siempre, es más cuantas más expectativas tienes de algo más duro es el golpe después si no se cumplen como tu querías que se cumplieran. Por muy desconfiado y duro que parezcas ser, al final acabas confiando Géminis y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto, has dejado de lado tu personalidad, tu opinión acerca de algo. Eso es lo que duele. Por eso ahora, lo mejor es no dar demasiado. Deja que sea el resto el que te de a ti. Déjate mimar. Deja que los demás te demuestren en vez de ser tú quien siempre demuestre al resto. No siempre tienes que ser tú el que está equivocado, no siempre tienes que ser tu el que vaya detrás del resto, el que tiene que arreglar constantemente todo. Si te sientes más frío ahora no te preocupes, son etapas, también tiene que haber momentos en los que no des todo de ti. Y ese es uno de ellos. Y no es que hayas cambiado, es que has sabido valorarte, has aprendido a no dar el 100% cuando sólo recibes la mitad, o ni siquiera eso. Los demás se hacen fuertes cuando el débil eres tú. Deja de poner en primer lugar los propósitos de los demás y pon los tuyos antes.
+Es posible que aún tengas el deseo de tomarte tiempo para reflexionar y recargar baterías. Si es así, entonces te encuentras por buen camino debido a que un fuerte enfoque continúa en tu sector espiritual. Y con Mercurio girando hacia atrás, este también puede ser el momento perfecto para resolver ciertos problemas que has estado arrastrado desde hace algún tiempo. También hay una excelente noticia para ti con Júpiter entrando a tu signo el viernes y permaneciendo ahí durante doce meses. ¡Una oportunidad que has anhelado podría estarte pisando los talones!
 
 ## Dinero
 
-Es necesario utilizar emociones constructivamente sobre una base regular. Si haces algo creativo para ganarte la vida, este es el equilibrio perfecto entre el arte y el comercio, porque ahora el Universo te apoya. Con cierta actividad en el área que rige la educación superior, los viajes y la espiritualidad, es el momento de mirar al exterior para generar oportunidades de dinero tan pronto como sea posible.
+Andas muy comunicativo/a ahora. El hablar, chatear, o incluso el uso de sitios de redes sociales trabaja a tu favor y son parte de tu persona por ahora. Pero estás llevándolo a otro nivel, inclusive al hablar de que estás pensar en escribir tus memorias. Tienes una increíble cantidad de energía creativa en este momento, úsala a tu ventaja financieramente y para encontrar a tu público, después, busca los mercados con el más amplio alcance para obtener los mejores resultados.

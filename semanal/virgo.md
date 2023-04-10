@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 03 de abril 2023 al 09 de abril 2023 
-description: Horóscopo semanal virgo 03 de abril 2023 al 09 de abril 2023. Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
+title: virgo 10 de abril 2023 al 16 de abril 2023 
+description: Horóscopo semanal virgo 10 de abril 2023 al 16 de abril 2023. No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Virgo, abre las puertas y ciao. No tienes que mantener nada…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2023-04-03
+ogimg: /images/zodiac/semanal_virgo.png#2023-04-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-04-03'
+ lastmod: '2023-04-10'
 ---
 
 
 
-## Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
+## No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Virgo, abre las puertas y ciao. No tienes que mantener nada…
 
-En serio, Virgo, por muy mal que vayan las cosas has demostrado al mundo que con tu ejemplo que se puede vencer cualquier obstáculo poniendo ganas, entusiasmo y pasión. A pesar de que eres siempre alguien bastante reservado para tus cosas más profundas (quizás a veces parece que hablas demasiado pero a la hora de la verdad de lo tuyo, de lo profundo, no sueles abrir el pico), la gente que te conoce sabe de sobra que te has caído y levantado muchas veces en estas últimas semanas queriendo antes que cualquier otra cosa tener el control sobre ti mismo. Eres Virgo por lo tanto es normal que no todo lo que quieras se de en el momento, la constancia y el trabajo diario es lo que a ti, te hace cumplir tus objetivos y tus metas, la constancia es al final la que te da todo lo que buscas. Las cosas que llegan rápidamente se acaban yendo de la misma manera así que, sigue con lo que tienes fijado en la mente y no desistas porque cualquiera quiera llegar y cambiar tus planes. No te dejes llevar por nadie ahora, puede ser una semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Lo has pasado mal Virgo, así que, plantéate si te merece la pena volver a mirar atrás de nuevo, creo que no. Lo peor ya está casi superado, no estabas del todo bien con tu vida y por eso decidiste cambiar y aunque los cambios no se den todavía no importa porque están en tu cabeza y poco a poco lo estarán en tus hechos. No te agobies, verás como cada día que pasa es una victoria hacia lo que quieres, sólo preocúpate de vivir esos días lo mejor que puedas ahora…
-Los planetas que rigen las relaciones están de ánimo temperamental pero divertido, animándote a relajarte en buena compañía. Pero la presencia de Saturno en tu sector de placer y romance sugiere que tienes tendencia a conservar tu tiempo y energía. Esto se intensifica conforme Mercurio entra a su fase retrógrada el Lunes, lo que podría coincidir con un momento de calma en tu vida social. Tendrás más tiempo para relajarte y recargar energías, pero también te divertirás, sobre todo si no permites que el nerviosismo de alguien te evite disfrutar de un alegre evento el Viernes.
+No tengas la menor duda de que la vida hará pagar por todas las malas acciones a quien las cometa, por eso tú preocúpate por hacer el bien a los demás y recibirás una gran recompensa. Párate a pensar si ahora eres feliz, mírate hacia dentro y piensa si para cerrar el ciclo que a veces te atormenta necesitas hablar con alguien, con alguna persona especial… Nada volverá a ser lo mismo Virgo, pero a veces, para que nuestra mente descanse en paz de verdad lo mejor es sacar lo que quizás tenemos dentro y nos costó tanto tiempo decir. Es probable que no sea el momento, eres Virgo y muy a menudo, cuando tienes que decir algo en el instante que deberías no lo dices, por miedo, por vergüenza, por lo que sea, y otras veces, cuando lo mejor es estar callado, sueltas cualquier burrada que hace que al final te acabes por sentir mal. Las cosas por ahora no van a cambiar mucho, pero tu estado de ánimo sí, y ya no tu estado, si no esa inseguridad que se ha ido forjando en ti este tiempo atrás, esa sensación a veces, como de pérdida… Ahora necesitas centrarte en cosas que te mantengan ocupada la mente, aunque suene un poco mal decirlo, no pensar demasiado en nada, ni en todo, simplemente fluir con lo que venga, con lo que pase, sin buscar, sin forzar. Será una racha, un tiempo en el que quizás te sientas como vacío, a veces incluso un poco fuera de lugar, como si los sentimientos de repente se hubieran entrelazado y lo mismo amas que odias, lo mismo quieres ser el más feliz del mundo que quieres echarte a llorar como un niño. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
+Esta semana, puede que estés a punto de tomar una decisión sobre tu salud. Actualmente, el encantador Venus está en tu sector de bienestar, y el motivo por el que finalmente tomas esta decisión podría ser que quieres verte y sentirte mejor. Al estar involucrado el apasionado Plutón, puede que estés a punto de transformar algunas áreas de tu hogar para poder llevar a cabo tus planes. Esto podría involucrar despejar una esquina para hacer algún equipo de ejercicio o hacer lugar para nuevos aparatos en la cocina. El viernes podría ser especialmente encantador si puedes resistirte a cierta tentación.
 
 ## Dinero
 
-Esta semana trae una maravillosa combinación de energías conforme consideras cual será tu siguiente movimiento en el mundo de los negocios y las finanzas. Los aspectos son especialmente positivos y armoniosos, por lo que es posible que te percates de que otros gravitan hacia ti por asesoramiento o asociaciones de un tipo u otro. El Universo te proporciona impulso para tomar acción, ¡por lo que planifica en consecuencia y toma acción! Tu carrera podría usar un poco de atención ahora.
+Esta semana, trata de no dejarte absorber demasiado en tus propios puntos de vista o enervarte neciamente para poder salirte con la tuya. Si lo haces, es probable que no suceda. En vez, estudia tus relaciones, especialmente con tus amigos cercanos, pareja y compañeros de trabajo para ver cómo pueden beneficiarse mutuamente.

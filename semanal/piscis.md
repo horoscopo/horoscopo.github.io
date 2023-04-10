@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 03 de abril 2023 al 09 de abril 2023 
-description: Horóscopo semanal piscis 03 de abril 2023 al 09 de abril 2023. Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
+title: piscis 10 de abril 2023 al 16 de abril 2023 
+description: Horóscopo semanal piscis 10 de abril 2023 al 16 de abril 2023. No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2023-04-03
+ogimg: /images/zodiac/semanal_piscis.png#2023-04-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-04-03'
+ lastmod: '2023-04-10'
 ---
 
 
 
-## Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
+## No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
 
-Si tienes algo que pensar, intenta no hacerlo en el momento, YA, AHORA y AQUÍ. Las preocupaciones cambian de intensidad muy a menudo, y sólo es con el tiempo cuando se ven. Vale, las cosas te estresan pero quizás si en vez de tomar la decisión ahora esperas un poco y la tomas después de dormir 8 horas, todo cambia, ya no es tan dramático como parecía, se suaviza, y mucho… Tómate ese tiempo, hazlo Piscis, porque te darás cuenta de que no todo es tan bueno, y tampoco todo es tan malo… Relax… Parece mentira como te estresas por situaciones que no siempre están en tu mano, pero es verdad es como si tú pudieras hacer todo por ti mismo y no Piscis, por desgracia no todo es así… Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino. Un día malo no significará nada, sabes de sobra lo que es mover el culo para trabajar, sabes lo que es ir consiguiendo frutos, día a día… Recuerda lo que mereces, y lucha por ello muerte…
-La tentación de gastar puede ser fuerte, pero al mismo tiempo, te divertirás mucho. Solo debes asegurarte de poder pagarlo, para que no te arrepientas. El jueves podría traer una sorpresa financiera, que puede ser un beneficio inesperado o una factura inesperada, de modo que ve con tranquilidad. Venus se dirige hacia adelante, lo que puede ayudarte a reorientar cualquier relación que pueda haber sufrido un contratiempo reciente. Las conversaciones que tengas en la próxima semana pueden ayudarte a llevar las cosas a un nuevo nivel más íntimo.
+No te preocupes tanto por los demás y empieza a darte un poquito más de valor a ti mismo. A veces quieres arreglar al mundo Piscis pero no te das cuenta de que es el mundo el que no se quiere arreglar. 
+ Intenta no decir nada negativo durante 24 horas y observa cómo tu vida cambia. Es de quien te rodeas últimamente, ese es el problema. Sacas lo peor de ti en cuestión de segundos y eso no es bueno. Nada bueno.
+Si tienes dinero para gastar, puede que tengas ganas de invertirlo en algo que te dé una ventaja laboral. Invertir en una clase podría ser una de las adquisiciones más inteligentes de la semana, ya que podría darte la capacidad de buscar un trabajo que tenga mejor salario. Por otro lado, quizá te convenga comprar cosas que le den más alegría a tu hogar. Si tienes invitados, quizá te convenga recibirlos con algo especial.
 
 ## Dinero
 
-Estás justo en el meollo de esta semana con ciertos aspectos en tu sector de hogar, sentimientos internos y expresión personal. La forma en la que otros te perciben está cambiando. Toma control y muéstrales cómo quieres que se te perciba.
+Tu sector de sexo, muerte, transformación y el dinero de otras personas es radiante ahora. La clave está en equilibrar entre el gasto y la deuda, el ahorro y el derroche. Sin embargo, es un buen momento para tomar ventaja de cualquier propiedad compartida, herencias, o pagos de seguros de cualquier tipo. Guarda por lo menos la mitad de cualquier ganancia inesperada. Todavía puedes divertirte, y tu cuenta bancaria te lo agradecerá.
