@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 10 de abril 2023
-description: Horóscopos del dia de hoy 10 de abril 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 11 de abril 2023
+description: Horóscopos del dia de hoy 11 de abril 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-04-10
+ lastmod: 2023-04-11
 ---
-Hoy es un día para relajarse. Deja de lado las responsabilidades, déjate llevar y disfruta. Algo espontáneo ocurre cuando menos te lo esperas. Por la noche, continúa siendo libre bajo la que está a punto de ser Luna en Acuario, cuando el individualismo es la regla. Actúa acorde. Los solteros experimentan amistad y una sincera comunicación con alguien muy interesante.
+Todo puede ser ordenado y comprensible el día de hoy. Y tú puedes ser perfección pura bajo la Luna en Virgo. Hay una gran cantidad de emociones expresadas cuando la Luna se opone a Neptuno esta noche. Lástima que nadie entienda lo que realmente las motiva. Para los solteros, no es una buena noche para comenzar un romance.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
