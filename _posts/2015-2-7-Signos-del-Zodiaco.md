@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 13 de abril 2023
-description: Horóscopos del dia de hoy 13 de abril 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 14 de abril 2023
+description: Horóscopos del dia de hoy 14 de abril 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-04-13
+ lastmod: 2023-04-14
 ---
-Justo cuando estás a punto de hacerle entender algo a alguien, la Luna comienza a salirse de su órbita y tal persona vuelve a protegerse una vez más. Tal parece que necesitas tener esa conversación una vez más. Pon un poco de tu magia en acción bajo la Luna en Leo de esta noche. Si buscas pareja, ¡podrías descubrir que no todos los buenos partidos han sido tomados!
+¡Aviso! Algo que ocurre hoy tiene repercusiones o desencadena reacciones en las próximas dos semanas. No es para preocuparse. Podría ser un golpe de suerte si es que has hecho lo correcto. Relájate, practica ser más flexible y evita malentendidos. Los solteros pueden notar algo esta noche que no notaron en un primer encuentro.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
