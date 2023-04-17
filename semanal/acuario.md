@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 10 de abril 2023 al 16 de abril 2023 
-description: Horóscopo semanal acuario 10 de abril 2023 al 16 de abril 2023. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Acuario.
+title: acuario 17 de abril 2023 al 23 de abril 2023 
+description: Horóscopo semanal acuario 17 de abril 2023 al 23 de abril 2023. Vienen emociones fuertes Acuario, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2023-04-10
+ogimg: /images/zodiac/semanal_acuario.png#2023-04-17
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-04-10'
+ lastmod: '2023-04-17'
 ---
 
 
 
-## Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Acuario.
+## Vienen emociones fuertes Acuario, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
 
-No puedes esperar a que las cosas pasen Acuario, no puedes esperar a que sean otros los que decidan casi tu futuro… Tanto pensar un día va a acabar contigo, de verdad. De una vez por todas plántale cara a los problema, no los dejes pasar, no pienses que el tiempo curará todo, porque no siempre lo hace, no creas que saliendo a la calle a despejarte las cosas volverán a la normalidad. Si algo no quiere salir de tu cabeza haz que salga como sea. No puedes perder otros tipos de oportunidades por tener siempre lo mismo, algo que ni avanza ni retrocede, algo que a veces parece que está ahí clavado en nuestra memoria sólo por joder. Si te pasas la vida reflexionando y pensando en como solucionar algo pero no haces nada al final lo único que acaba pasando es la vida y, bueno, a otros signos puede que esto ni siquiera les afecte pero tú eres Acuario, esa persona que quiere vivir desde que nació, que quiere disfrutar todo, desde los sentimientos más intensos hasta los viajes más largos, desde las conversaciones más interesantes hasta el amor más pasional. ¡Despierta! Sinceramente, ¿qué haces planteándote esperar? ¿qué haces pensando que las cosas se acabarán poniendo en el lugar que le corresponden? Si no lo haces tú, no lo va a hacer nadie. No dejes pasar ni una sola oportunidad que te haga feliz a ti aunque a los demás no les guste. De verdad. Por tu propio bien. Y toma decisiones YA, AQUÍ y AHORA Acuario. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
-Las opciones de recreación te están esperando, lo que quiere decir que la semana que se aproxima quizá ofrezca algunas excelentes oportunidades para ir a fiestas, celebraciones y para disfrutar la vida en general. Sin embargo, puede que un encuentro coincida con una conversación profunda y esto podría inspirarte a tomar una decisión importante. Marte ingresa a tu sector de relaciones, por lo que tendrás muchas oportunidades para calmar las aguas; así como también reavivar la llama de la pasión. Además, emocionantes interacciones también podrían ser más propicias para terminar ciertas cosas.
+Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate. Los pensamientos negativos son como la mierda Acuario, que atraerán más mierda, y antes de que te des cuenta tendrás la mente infectada, de verdad. Empezarás a ver problemas en vez de soluciones, te meterás en un círculo vicioso en el que YA has estado. No puedes permitirlo otra vez. No luches contra cosas o personas, simplemente esquívalas, a veces, aunque intentes hacer que entren en razón es imposible, y el que acaba sufriendo irremediablemente eres tú. No debes permitirte el lujo de tener ningún pensamiento negativo ahora, de verdad, ya has pasado demasiado, sólo céntrate en esquivar lo que te dañe, pero en esquivarlo de verdad. O sea, si de verdad decides que no es lo que quieres, corta por lo sano cuanto antes, y no mires atrás ni por el retrovisor del coche. Lidera tu interior y serás el líder de tu entorno. Lo único que ahora puede frenarte son tus pensamientos, trabájalos, distráete, y rodéate de todo lo bueno que tienes aunque a veces te cueste poner punto y final a lo malo. Tus metas ahora son lo más importante y sólo se consiguen cuando uno realmente no tiene nada que le estorba en su camino.
+A medida que el Sol entra a tu sector de finanzas compartidas, puede ser una oportunidad para evaluar tu situación económica. Simplemente echar un vistazo y analizar qué funciona y qué no podría alentarte a elaborar un plan de acción. Al mismo tiempo, pensar en lugares lejanos y en visitar un lugar soleado sugiere que podrías prepararte para tomarte unas vacaciones. Puede que te parezca imposible cuando piensas en todo el trabajo que tienes, ¿pero lo es realmente?
 
 ## Dinero
 
-Es posible que tu imaginación se desate a su más alto nivel. Tantas ideas fluyen de tu cabeza que lo mejor es tener lápiz y papel a la mano para guardarlas todas. Incluso la más pequeña, al parecer, se puede convertir en un producto o servicio que genere efectivo. Tienes la posibilidad de poder consolidar estas ideas en proyectos concretos en el trabajo. ¡Bienvenido el efectivo!
+Por lo general te gusta hacer las cosas a tu manera, pero también sabes trabajar bien en equipo. Con un aspecto favorable afectando tu sector de relaciones serias y matrimoniales, puede que se trate de cosas personales ahora, o puede ser el momento para una fusión muy seria. Los planetas traen un equilibrio perfecto entre la acción y la creatividad. No es un mal momento para lanzar un nuevo negocio, así que si lo estabas pensando, ¡hazlo!

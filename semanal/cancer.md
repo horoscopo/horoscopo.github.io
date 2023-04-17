@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 10 de abril 2023 al 16 de abril 2023 
-description: Horóscopo semanal cancer 10 de abril 2023 al 16 de abril 2023. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
+title: cancer 17 de abril 2023 al 23 de abril 2023 
+description: Horóscopo semanal cancer 17 de abril 2023 al 23 de abril 2023. Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2023-04-10
+ogimg: /images/zodiac/semanal_cancer.png#2023-04-17
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-04-10'
+ lastmod: '2023-04-17'
 ---
 
 
 
-## Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
+## Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
 
-Todo lo malo que llevas cargado a tu espalda sólo te hará más fuerte Cáncer, recuérdalo. Esta semana vas a refrescarte, de verdad que lo necesitas, tu mente va a salir de donde a veces se queda anclada y te sentirás bien, sobretodo el fin de semana. Trata de no acordarte de cosas pasadas y de vivir más el presente, todo lo que ya pasó está atrás, y tu tiempo es demasiado valioso como para darle importancia. Cabeza arriba y para adelante. Necesitas aires nuevos, cambiar de círculos y tratar con personas distintas, aunque sólo sea por salir de la rutina en la que te metes a menudo. Búscalo Cáncer, mira tu agenda del teléfono y empieza a retomar el contacto con viejos amigos. A menudo en la vida, olvidamos las cosas que debemos recordar y recordamos las cosas que debemos olvidar. Plantéate que de verdad los recuerdos ya no te sacarán de nada, solamente te harán perder otros momentos importantes que tienen que llegar, que están llegado. Abre los ojos para verlos, y agarra las oportunidades sin miedo. Eres grande Cáncer pero a veces lo olvidas o te hacen olvidarlo. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
-Esta semana trae un gran potencial para la diversión, la comunicación y la buena compañía, aunque puede que tengas que hacerle frente a irritaciones menores. La actividad lunar del Martes puede ser útil para el lanzamiento de un nuevo negocio en línea, una campaña de marketing, o la firma de acuerdos y documentos importantes. Mientras más disposición tengas a interactuar con los demás, más oportunidades te llegarán. Una vez que el Sol entre a Cáncer, puede que te ocupes con asuntos familiares,  proyectos hogareños y tal vez uno o dos invitados inesperados.
+Tu mente lo está analizando absolutamente todo Cáncer, conversaciones del pasado, cosas que se dijeron, palabras que nunca se debieron decir… Como no dejes a un lado todos esos pensamientos que ya están en el pasado, acabarás viviendo en el pasado, otra vez Cáncer… No… Vas a arruinar todo antes de que ocurra, vas a estar en otro lugar cuando debes estar aquí, en el presente, vas a perderte oportunidades esta semana por eso. Cambia como sea. Y agarra todo lo que venga con mucha fuerza. No pienses si lo que estas haciendo está mal o bien, no pienses en el daño que quizás puedas hacer a algunos o en la alegría que les darás a otros. Piensa en ti un poquito. Todo el mundo jamás estará contento con las decisiones que tomes, por eso mismo, deja de pensar un poco en los demás y dirígete hacia donde de verdad te sientas bien. Fuera las expectativas Cáncer, fuera el creer que va a ocurrir algo, si tiene que ser será, pero no te comas la cabeza y no le des más vueltas a todo. La ansiedad podrá contigo en algún momento de esta semana Cáncer, pero ya has pasado por eso, no dejes que se apodere de tu mente, la ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+Hay mucha acción en tu sector profesional, lo que podría encontrarte buscando nuevas oportunidades y pensando en tu futuro. Debido a que un eclipse solar se desarrolla en este sector durante la próxima semana y se produce el sábado, puede que debas tomar una decisión. Tal vez te ofrezcan un nuevo puesto mejor que el que tienes actualmente y sientas mucha tentación de aceptarlo. Sin embargo, puede que lo prudente sea investigar tus opciones antes de aceptar. 
+El innovador Urano se vuelve retrógrado en tu sector de relaciones y permanece así por los próximos 4 meses. Esta fase retrógrada sugiere que podrías descubrir que los demás son menos confiables de lo habitual y tal vez te demanden más libertad, en especial si eres parte de una sociedad a largo plazo. Esta también puede ser tu oportunidad para independizarte más, algo que podrías comenzar a disfrutar. Por otra parte, lo mejor sería no prometer algo que no puedas cumplir.
 
 ## Dinero
 
-Es una época agitada para ti. Tanto está pasando a tu alrededor, tus jefes te quieren promover por lo cuál te mantienen muy ocupado/a y encuentras muy poco tiempo para tu persona. Esto es sólo temporal. Los aspectos armónicos te mueven a la posición de autoridad a la que estás destinado/a a ocupar. ¡Disfrútala!
+Puede que tus alas sean recortadas en cuanto a progreso profesional se refiere. Si tu comportamiento no ha sido el apropiado con tus compañeros de trabajo o clientes recientemente, es posible que encuentres una desagradable sorpresa en tu bandeja de entrada. Es karma. Si tienes que pedir disculpas, hazlo y regresa a una relación productiva. El efectivo sigue a tu voluntad de ser un jugador de equipo.

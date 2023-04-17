@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 10 de abril 2023 al 16 de abril 2023 
-description: Horóscopo semanal geminis 10 de abril 2023 al 16 de abril 2023. Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
+title: geminis 17 de abril 2023 al 23 de abril 2023 
+description: Horóscopo semanal geminis 17 de abril 2023 al 23 de abril 2023. No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2023-04-10
+ogimg: /images/zodiac/semanal_geminis.png#2023-04-17
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-04-10'
+ lastmod: '2023-04-17'
 ---
 
 
 
-## Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
+## No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
 
-Fíate de ti mismo Géminis, de ti mismo y de tus acciones. De nadie más. Las expectativas no funcionan siempre, es más cuantas más expectativas tienes de algo más duro es el golpe después si no se cumplen como tu querías que se cumplieran. Por muy desconfiado y duro que parezcas ser, al final acabas confiando Géminis y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto, has dejado de lado tu personalidad, tu opinión acerca de algo. Eso es lo que duele. Por eso ahora, lo mejor es no dar demasiado. Deja que sea el resto el que te de a ti. Déjate mimar. Deja que los demás te demuestren en vez de ser tú quien siempre demuestre al resto. No siempre tienes que ser tú el que está equivocado, no siempre tienes que ser tu el que vaya detrás del resto, el que tiene que arreglar constantemente todo. Si te sientes más frío ahora no te preocupes, son etapas, también tiene que haber momentos en los que no des todo de ti. Y ese es uno de ellos. Y no es que hayas cambiado, es que has sabido valorarte, has aprendido a no dar el 100% cuando sólo recibes la mitad, o ni siquiera eso. Los demás se hacen fuertes cuando el débil eres tú. Deja de poner en primer lugar los propósitos de los demás y pon los tuyos antes.
-Es posible que aún tengas el deseo de tomarte tiempo para reflexionar y recargar baterías. Si es así, entonces te encuentras por buen camino debido a que un fuerte enfoque continúa en tu sector espiritual. Y con Mercurio girando hacia atrás, este también puede ser el momento perfecto para resolver ciertos problemas que has estado arrastrado desde hace algún tiempo. También hay una excelente noticia para ti con Júpiter entrando a tu signo el viernes y permaneciendo ahí durante doce meses. ¡Una oportunidad que has anhelado podría estarte pisando los talones!
+Parece que no todo va tan mal, no ¿Géminis? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada.
+La comunicación es clave esta semana, así que asegúrate de mantenerlos a todos informados, ya que ayudará a evitar malentendidos y errores innecesarios. Si tienes una situación en particular con la cual lidiar, los próximos días podría ser perfectos para ayudarte a resolverla. Disponte a sentarte a discutir los problemas a fondo. Podrías percatarte de que una conversación podría impulsarte hacia un mayor éxito en el futuro. Si se te invita a una reunión, debería ser muy cálida y acogedora.
 
 ## Dinero
 
-Andas muy comunicativo/a ahora. El hablar, chatear, o incluso el uso de sitios de redes sociales trabaja a tu favor y son parte de tu persona por ahora. Pero estás llevándolo a otro nivel, inclusive al hablar de que estás pensar en escribir tus memorias. Tienes una increíble cantidad de energía creativa en este momento, úsala a tu ventaja financieramente y para encontrar a tu público, después, busca los mercados con el más amplio alcance para obtener los mejores resultados.
+Tu inclinación natural a disfrutar de las cosas buenas de la vida puede ser activada esta semana. Ampliar las oportunidades podría permitir que consigas satisfacer tus necesidades a través de todo tipo de redes sociales y empresariales. Un aspecto de apoyo afecta a tu sector de comunicaciones, por lo que respecta a cuestiones de dinero, significa que tienes una mejor oportunidad de alcanzar tus metas. No asumas que los demás saben lo que estás buscando.

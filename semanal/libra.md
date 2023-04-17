@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: libra 10 de abril 2023 al 16 de abril 2023 
-description: Horóscopo semanal libra 10 de abril 2023 al 16 de abril 2023. Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+title: libra 17 de abril 2023 al 23 de abril 2023 
+description: Horóscopo semanal libra 17 de abril 2023 al 23 de abril 2023. Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2023-04-10
+ogimg: /images/zodiac/semanal_libra.png#2023-04-17
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-04-10'
+ lastmod: '2023-04-17'
 ---
 
 
 
-## Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+## Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
 
-Hace mucho tiempo que no te das un buen capricho Libra, hace mucho que no piensas del todo en ti, hace mucho que dejaste algunos proyectos de lado que deben empezarse ya. Es probable que a principios de semana te encuentres un poco descentrado, te sientes fuerte por momentos para empezar a hacer cualquier cosa pero otras veces te sientes como una mierda. Asuntos pendientes Libra. Asuntos que debes empezar a solucionar ya antes de que afecten más a tu vida. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. Necesitas hablar las cosas para darte un respiro. Y muy importante, sepárate del drama de los demás si de verdad quieres progreso en tu vida. Ten el valor de salir de todo lo que te hace daño, expresa tu punto de vista le joda a quien le joda y no te lo tragues todo como si fuera tu obligación. Si algo no te gusta dilo, no acumules, no creas que estás hecho para aguantar porque no tienes por qué aguantar nada. Cuando te sientas arriba aprovéchalo, no vuelvas a posponer planes, no vuelvas a dejar conversaciones pendientes, hazlo. Simplemente hazlo.
-Podría haber potencial romántico para ti esta semana, en particular alrededor de la actividad lunar del jueves en tu sector de ocio y placer. El viernes puede ser el día perfecto para llevar a un pretendiente romántico a una primera cita o ir a comer con tu amor para demostrarle lo mucho que te importa. Pero hay sentimientos poderosos que podrían salir a la superficie, así que es útil pensar antes de hablar. Tu vida social parece más optimista, así que hay un montón de oportunidades para un espectáculo este fin de semana.
+Tienes que aprender a ver que si quieres volar de verdad no puedes estar cerca de esos que te arrancan las plumas poco a poco para acabar arrancándote las alas más tarde, 
+ a personas de las que “piensas” que dependes…
+Si bien las ofertas de abril pueden ser atractivas, puede que los primeros días de la semana sean bastante costosos si decides gastar mucho dinero. Así que cuida el bolsillo cuando salgas de compras y guarda todos los recibos. Puede que comiences a visualizar las posibilidades y esto podría inspirarte a esforzarte más y quizá fijar metas que estén fuera de tu zona de confort. Sin embargo, también debes ser una persona práctica. Dicho eso, la influencia del fogoso Marte el Miercoles de abril podría inspirarte a dar un salto de fe.
 
 ## Dinero
 
-Lo más probable es que seas alguien muy organizado con su dinero. Lo llevas en la sangre. Incluso si tu mantenimiento de registros no es el mejor, es probable que lo lleves todo en tu cabeza. Tienes una oportunidad única, aparentemente de la nada, para llevar tu trabajo a casa de algún modo. Es un buen momento para establecer un negocio basado en tu hogar o incluso hacer de la construcción o la decoración de casas tu nuevo trabajo. ¡Usa tus habilidades para obtener los mejores resultados!
+Es posible que te sientas muy especial esta semana. Esta es una semana muy buena para explorar la manera de mejorar tu situación financiera. Los planetas te piden encontrar una nueva forma de utilizar tu creatividad, que pases tiempo con tu familia, hijos y parejas románticas. Has trabajado lo suficientemente duro. Es hora de disfrutar de los frutos de tu trabajo.

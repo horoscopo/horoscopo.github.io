@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 10 de abril 2023 al 16 de abril 2023 
-description: Horóscopo semanal leo 10 de abril 2023 al 16 de abril 2023. Estás pasando un momento un poco extraño, estás cerrando algunos ciclos y por otro lado estás abriendo otros pero no estás seguro del todo. De nada. El corazón te dice unas cosas, la cabeza otras, y en medio estás tú, dejándote guiar a veces por una cosa pero sin desatender a la otra. 
+title: leo 17 de abril 2023 al 23 de abril 2023 
+description: Horóscopo semanal leo 17 de abril 2023 al 23 de abril 2023. Tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias, tu corazón vale oro, y tú también Leo. Pero sigue protegiéndote a ti mismo…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2023-04-10
+ogimg: /images/zodiac/semanal_leo.png#2023-04-17
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-04-10'
+ lastmod: '2023-04-17'
 ---
 
 
 
-## Estás pasando un momento un poco extraño, estás cerrando algunos ciclos y por otro lado estás abriendo otros pero no estás seguro del todo. De nada. El corazón te dice unas cosas, la cabeza otras, y en medio estás tú, dejándote guiar a veces por una cosa pero sin desatender a la otra. 
+## Tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias, tu corazón vale oro, y tú también Leo. Pero sigue protegiéndote a ti mismo…
 
-Estás activo Leo, con ganas de hacer cosas nuevas, de conocer, de reír, de disfrutar y sobretodo con ganas de vivir el presente más que nunca. Te mereces más de lo que tienes, sí, mucho más aún…
-Evita volverte demasiado inflexible, sobre todo si una cuestión llama tu atención más que cualquier otra cosa. Existe la posibilidad de que estés pensando en una proposición o planeando un viaje y te estanques en los detalles. Si esperas hasta el final de la semana, es posible que el proceso se vuelva mucho más fácil, ya que Mercurio estará moviéndose hacia adelante. Hasta entonces, toma las ofertas u opciones con escepticismo. Finalmente, con Venus danzando hacia Escorpión, una relación puede volverse más apasionante.
+Necesitas amor Leo, necesitas cariño de verdad, sentirte querido al 100% porque en el fondo eso, es lo que te hace más feliz. Y no es solamente amor de pareja no, es el hecho de sentirte valorado por los que te importan, es sentirte cuidado, mimado y protegido. Es normal que hayas tenido altibajos enormes, tienes mucho peso que cargas a tu espalda y por eso lo que menos quieres es que por las inseguridades de otras personas, tu vida se acabe saturando de verdad. Busca ese amor en quien pueda y quiera dártelo, sin complicar más tu existencia. Necesitas tus momentos de desconexión con el mundo pero te arrimas a algunas personas que en vez de darte paz cuando más la necesitas te la siguen quitando. Respira hondo y no hagas un drama por ello, simplemente aléjate un poco, deja que la mierda se quede con la mierda pero sal de ahí cuanto antes. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece. Tarde o temprano sabrán que perder a Leo es perder algo grande e irremplazable. Y no te enfades ni te piques, todo menos eso, todo menos entrar en juegos de los que al final te cuesta mucho salir.
+La semana comienza a toda marcha ansiosos con el eclipse de solar de la semana y la luna nueva en Tauro en tu sector social, lo que te lleva a disfrutar cualquier celebración. Al mismo tiempo, puede que tengas muchos proyectos creativos o disfrutes un nuevo romance. Puede que sientas que la compañía de cierta persona sea fuente de inspiración en los próximos días, particularmente cuando el seductor Venus se encuentra con el etéreo Neptuno. Pero debes recordar que todos somos humanos y todos tenemos defectos. El enérgico Marte te alienta a pedirles ayuda a las demás personas con una idea audaz.
 
 ## Dinero
 
-Eres una mariposa social esta semana. Has pasado tanto tiempo conociendo nuevos amigos, colegas, mentores y clientes que es posible que hayas excedido tu presupuesto de gastos. No te preocupes tanto, déjalo ir, sólo por esta vez. A pesar de que el gasto excesivo no es un buen hábito que cultivar, eres lo suficientemente inteligente como para saber cuando decir basta. Además, es posible que termines trabajando con muchas de estas personas, lo cuál es una buena inversión en tu futuro financiero.
+Puede que se te esté dando la oportunidad de llevar tus ideas a las grandes redes sociales y al público. Este es un momento excelente para aprovechar el hecho de que la gente quiere escuchar lo que tienes que decir y comprar lo que estás vendiendo. Si necesitas mejorar tu mensaje antes de acercarte a ellos, utiliza los aspectos favorables actuales para lograr hacerlo. Vas a lograr producir mucho cuando golpees al mundo con tus ideas.
