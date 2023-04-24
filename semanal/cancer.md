@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 17 de abril 2023 al 23 de abril 2023 
-description: Horóscopo semanal cancer 17 de abril 2023 al 23 de abril 2023. Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
+title: cancer 24 de abril 2023 al 30 de abril 2023 
+description: Horóscopo semanal cancer 24 de abril 2023 al 30 de abril 2023. Todo acaba cicatrizando, pero tienes que dejar que cicatrice Cáncer. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2023-04-17
+ogimg: /images/zodiac/semanal_cancer.png#2023-04-24
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-04-17'
+ lastmod: '2023-04-24'
 ---
 
 
 
-## Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
+## Todo acaba cicatrizando, pero tienes que dejar que cicatrice Cáncer. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
 
-Tu mente lo está analizando absolutamente todo Cáncer, conversaciones del pasado, cosas que se dijeron, palabras que nunca se debieron decir… Como no dejes a un lado todos esos pensamientos que ya están en el pasado, acabarás viviendo en el pasado, otra vez Cáncer… No… Vas a arruinar todo antes de que ocurra, vas a estar en otro lugar cuando debes estar aquí, en el presente, vas a perderte oportunidades esta semana por eso. Cambia como sea. Y agarra todo lo que venga con mucha fuerza. No pienses si lo que estas haciendo está mal o bien, no pienses en el daño que quizás puedas hacer a algunos o en la alegría que les darás a otros. Piensa en ti un poquito. Todo el mundo jamás estará contento con las decisiones que tomes, por eso mismo, deja de pensar un poco en los demás y dirígete hacia donde de verdad te sientas bien. Fuera las expectativas Cáncer, fuera el creer que va a ocurrir algo, si tiene que ser será, pero no te comas la cabeza y no le des más vueltas a todo. La ansiedad podrá contigo en algún momento de esta semana Cáncer, pero ya has pasado por eso, no dejes que se apodere de tu mente, la ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
-Hay mucha acción en tu sector profesional, lo que podría encontrarte buscando nuevas oportunidades y pensando en tu futuro. Debido a que un eclipse solar se desarrolla en este sector durante la próxima semana y se produce el sábado, puede que debas tomar una decisión. Tal vez te ofrezcan un nuevo puesto mejor que el que tienes actualmente y sientas mucha tentación de aceptarlo. Sin embargo, puede que lo prudente sea investigar tus opciones antes de aceptar. 
-El innovador Urano se vuelve retrógrado en tu sector de relaciones y permanece así por los próximos 4 meses. Esta fase retrógrada sugiere que podrías descubrir que los demás son menos confiables de lo habitual y tal vez te demanden más libertad, en especial si eres parte de una sociedad a largo plazo. Esta también puede ser tu oportunidad para independizarte más, algo que podrías comenzar a disfrutar. Por otra parte, lo mejor sería no prometer algo que no puedas cumplir.
+Son muchos los que quieren arruinar tu vida Cáncer, los que no pueden soportar cuando subes a una foto a alguna red social, los que rabian cuando te ven feliz. Pero es que ahora, estás conectado a tu vida más que nunca, crees en ti mismo y sabes las posibilidades que tienes en este mundo. Y son muchas. Y esa seguridad tan fuerte es la que hará que consigas todo lo que te propongas pero también te sacará algún enemigo que otro. Pasa Cáncer, tú a lo tuyo, siempre. Todo pasa por alguna razón y lo tienes más que claro pero cuando le toca a uno mismo cuesta el doble aceptarlo pero todo pasa y todo llega Cáncer. Pero ya pasó, y ya lo superaste, o al menos, los aceptaste. Los pocos pensamientos negativos que aún te quedan acabarán por desaparecer, los buenos son los que al final prevalecen. Has tenido falta de confianza por momentos, falta de confianza que te ha ahogado, que no te ha dejado respirar, que te ha ido apagando lentamente aunque tú lucharás hasta el último minuto porque no pasara… Acuérdate de esos malos ratos Cáncer. Y no los repitas. Que la primera vez que algo te pase podrá ser un error, pero si te pasa dos veces es una elección. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Cáncer. Ahora brillas así que, aprovecha. Aprovecha todo.
+El encantador Venus se traslada más profundamente a tu sector profesional, lo que mejora tu capacidad de conectar con personas importantes. Esto podría encontrarte avanzando significativamente en las próximas semanas. Al mismo tiempo, hay algunas poderosas fuerzas trabajando en tu sector de creatividad y romance. Si bien, al parecer, tus relaciones con las personas que ves todos los días son buenas en general, las relaciones con una pareja a largo plazo o con un nuevo romance podrían ser muy intensas y bastante demandantes. Lo mismo se aplica a los planes creativos, que pueden representar un intenso proceso de comienzo a fin. 
+  Debido a que el práctico Saturno y el radical Plutón ahora están retrógrados en este sector, se podrían estar gestando profundos cambios lentamente. Los obstáculos para la creatividad y el flujo de emociones podrían desvanecerse de a poco con el tiempo. Este fin de semana, la conexión del sol con el soñador Neptuno sugiere que un nuevo programa o filosofía espiritual podrían llamarte la atención.
 
 ## Dinero
 
-Puede que tus alas sean recortadas en cuanto a progreso profesional se refiere. Si tu comportamiento no ha sido el apropiado con tus compañeros de trabajo o clientes recientemente, es posible que encuentres una desagradable sorpresa en tu bandeja de entrada. Es karma. Si tienes que pedir disculpas, hazlo y regresa a una relación productiva. El efectivo sigue a tu voluntad de ser un jugador de equipo.
+Te enfrentas a una seria transformación esta semana. Estás construyendo un mejor ingreso y una mayor seguridad en todos los aspectos de tu vida. Mientras que hablas a favor de tus necesidades y te redefines a ti mismo/a como persona, el Universo te anima a aprender un nuevo idioma, a que pienses en expandir lo que haces en los mercados extranjeros y prosperar. ¡Se ve el signo de dinero en tu futuro!

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 17 de abril 2023 al 23 de abril 2023 
-description: Horóscopo semanal sagitario 17 de abril 2023 al 23 de abril 2023. Sumisión contigo van a encontrar poca ahora Sagitario… Muy poca.
+title: sagitario 24 de abril 2023 al 30 de abril 2023 
+description: Horóscopo semanal sagitario 24 de abril 2023 al 30 de abril 2023. Escapa Sagitario, escapa de todo, por unos días, por unas semanas, el tiempo que necesites. Ahora no es el momento de pelear por nada, ni de discutir, ni siquiera de decidir, ahora es momento para estar en paz, para estar en calma, lejos de lo que sea, lejos de quien sea. 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2023-04-17
+ogimg: /images/zodiac/semanal_sagitario.png#2023-04-24
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-04-17'
+ lastmod: '2023-04-24'
 ---
 
 
 
-## Sumisión contigo van a encontrar poca ahora Sagitario… Muy poca.
+## Escapa Sagitario, escapa de todo, por unos días, por unas semanas, el tiempo que necesites. Ahora no es el momento de pelear por nada, ni de discutir, ni siquiera de decidir, ahora es momento para estar en paz, para estar en calma, lejos de lo que sea, lejos de quien sea. 
 
-Disfruta de la vida Sagitario, de verdad. A veces hay que dejar atrás lo que pertenece a atrás de una vez, y sí, por qué no, volver a dar oportunidades, volver a confiar. Es muy triste que te hayan fallado, es cierto, pero el castigo más grande es haberte hecho desconfiado con el mundo, desconfiado con todos. Hay que cambiar eso como sea, hay que cambiarlo porque hay gente buena que lo que quiere es dar, que te valora, que te quiere. Sé amable con la gente que está a tu alrededor y perdona y sigue a tu corazón. Al final del todo, si no lo haces, te vas a arrepentir muchísimo, a veces esas situaciones no vuelven Sagitario. Hay algunos problemillas que te rodean pero van a solucionarse pronto, aunque deberás tener una buena actitud para liquidarlos definitivamente. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierda en unas semanas. Quédate con lo positivo y sigue adelante con tu vida. Todo cambiará a mejor. La paz interior es la nueva meta, así que, ¡céntrate! Feliz semana Sagitario.
-La semana por delante cuenta con un ritmo relajado, pero trata de evitar que te arrulle lo suficiente como para hacerte desaprovechar ciertas oportunidades. Aunque el enfoque actual se centra en el ocio, el placer, el romance y la diversión, el cosmos también te anima a retomar tu camino con respecto a un importante cambio de carrera o ambición personal. Con Saturno regresando a Escorpión el Domingo, tendrás una segunda oportunidad con respecto a un proyecto u oportunidad que pensabas que habías perdido.
+Quizás deberías dejar de planear todo ahora Sagitario, dejar un poco el volante sin conductor… A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos. Luchar por lo que importa está bien Sagitario, pero luchar por lo que no, sólo es una pérdida de tiempo, una gran pérdida de tiempo. Gastas muchas fuerzas en ello, en tratar de que todo salga tal y como esperabas, pero a veces por más que hagas, tu destino es otro. No te agobies ni te preocupes más de la cuenta ahora. Déjate llevar y no escribas finales para todo. Porque los finales acaban dando un giro y no terminan como creías. No puedes saberlo todo, ni tampoco controlarlo, y cuando lo entiendas quizás llegue la paz que tanto necesitas ahora mismo. Y no trates de apresurar nada porque cuando sea el momento va a suceder…
+Podrías sentir inspiración a hacer algo desde principios de semana, pero antes de actuar, asegúrate de que embone con los hechos. Si no es así, puede que desees investigar un poco al respecto primero. La entrada de Venus a una parte más privada de tu carta sugiere que es hora de analizar a tu propia persona y averiguar qué es lo que te funciona, sobre todo en áreas problemáticas. La entrada de Marte a tu sector social da inicio a una fase activa en la que te conviene moverte hacia nuevos círculos.
 
 ## Dinero
 
-Ciertos aspectos en tu sector de dinero y valores te dan mucho espacio para crecer esta semana. El desafío se presenta debido a que no siempre se siente fácil hacerlo, pero por lo general el esfuerzo obtiene resultados. Se te está empujando a ser más social ahora, considera el autoempleo como una forma de ganar más dinero y piensa cómo utilizar las políticas de oficina para tu ventaja.
+La atención se centra en las relaciones serias y matrimoniales esta semana. No es el momento de concentrarse en el dinero – por lo menos no al principio. Podrías darte cuenta de que los problemas de dinero surgen mientras que te acercas más a esa persona especial. Es importante asegurarte de que ambos estén en la misma frecuencia en el futuro. Los planetas te ayudan con calma y explican con claridad tu posición en cuestiones de dinero para rápidamente llegar a una solución mutuamente beneficiosa.

@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 17 de abril 2023 al 23 de abril 2023 
-description: Horóscopo semanal capricornio 17 de abril 2023 al 23 de abril 2023. Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
+title: capricornio 24 de abril 2023 al 30 de abril 2023 
+description: Horóscopo semanal capricornio 24 de abril 2023 al 30 de abril 2023. No te mereces poco Capricornio… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2023-04-17
+ogimg: /images/zodiac/semanal_capricornio.png#2023-04-24
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-04-17'
+ lastmod: '2023-04-24'
 ---
 
 
 
-## Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
+## No te mereces poco Capricornio… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas…
 
-Te da miedo empezar etapas nuevas, te da miedo dejar a un lado lo que ya has conseguido, te da miedo mandarlo todo a la mierda y también te da miedo darlo todo por algo o por alguien. Y al final, te mantienes como estás, aunque sabes de sobra que como estás no eres plenamente feliz. 
-Date un respiro, toma algún día para pensar y relajarte, mímate un poco y deja que los sentimientos y las emociones vayan saliendo solos. 
-como si no quisieras sentir lo que sientes, como si quisieras sentir lo que no sientes. Es una estupidez porque al final, todo sale.
-Quizás no sea ninguna sorpresa que una asociación esté al rojo vivo ahora mismo, en particular al principio de la semana, cuando una conexión con el signo Escorpión indica que hay fuego entre las sábanas. También descubrirás que aprendes mucho de los demás, en especial cuando se trata de supervisar tus reacciones frente a situaciones clave. La gente que te rodea puede enseñarte mucho sobre lo que es importante para ti, y dónde quizás necesitas cambiar tu actitud. El seductor Venus en Libra indica potencial para hacer tratos lucrativos.
+Vas a tener que relajarte mucho para no estallar esta semana. Sí, sabes que nunca dices que no a nada, a nadie, pero a veces no puedes más, y el que necesita ayuda del resto eres tú. Trata de tranquilizarte y de hacer las cosas paso por paso, una a una. No te agobies más de la cuenta. Respira hondo Capricornio… Es normal que estés agobiado, has cambiado de vida casi de forma radical, y si no de vida entera, en muchos aspectos y a veces todo se te queda grande. Pero vamos Capricornio, por favor… Siempre consigues cualquier cosa que te propones y aunque te lleve un poco más de tiempo hacerlo, ¡puedes hacerlo! La verdad que llevas una racha un poco extraña, tomas, dejas, tomas, dejas… Plántate por un momento y observa con qué estás más feliz, con qué personas, con qué cosas… Y lánzate a ellas. Pero no estés de mala vibra por frustrarte. Deja eso a un lado. Si no lo ves, no vayas… A pesar de que dar todo lo que puedas es tu esencia, a menudo, dando mucho sin recibir nada, te acaba dejando vacío, roto, y sin fuerzas. Procura acercarte a los buenos esta semana Capricornio. Lo vas a agradecer… Feliz semana.
+Conforme tu planeta personal, Plutón, entra a su fase retrógrada el lunes, sería útil que no te obsesionaras demasiado con una determinada situación. Cuanto más puedas permitir que las cosas sigan su curso, más pronto encontrarás la solución. El movimiento del Sol a Tauro y a tu sector de relaciones te permite hacer un balance de tus relaciones clave, amistades y una conexión romántica para considerar cómo puedes mejorar ciertas situaciones. Este viernes, ¡espera lo inesperado!
 
 ## Dinero
 
-Puede que estés atrapado/a en una situación de tensión esta semana. Puede que ambos, tu lado masculino y femenino tengan que ser abordados al considerar una nueva forma de ganar, ahorrar o gastar tu dinero en efectivo. Piensa con pragmatismo, mientras que aprecias y disfrutas las cosas buenas de la vida mientras piensas que podrías acostumbrarte a ellas.
+Esta semana hay un énfasis en la mente, el pensar y el expresar ideas. Podrías sentir la tentación de gastar en clases o talleres esta semana, sobre todo si te llevan a pasar más tiempo fuera de tus pensamientos y en búsqueda interna o externa. Sólo asegúrate de que es algo que tiene la capacidad de responder a las grandes preguntas de la vida.
