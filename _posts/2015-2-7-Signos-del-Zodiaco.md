@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 25 de abril 2023
-description: Horóscopos del dia de hoy 25 de abril 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 26 de abril 2023
+description: Horóscopos del dia de hoy 26 de abril 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-04-25
+ lastmod: 2023-04-26
 ---
-Hoy, comunícate con confianza mientras la Luna forme trígono con Júpiter. Pero debido a la influencia de Neptuno, visualiza y luego revisa tus palabras si es necesario. Esta noche, algunas personas piensan que argumentar alivia el estrés cuando la Luna aspecta a los tensos Marte y Plutón. Si no tienes pareja, podrías dejarte llevar por tus ciegos instintos en vez de tu destino o algo que realmente hubieras elegido.
+Hoy, Mercurio y Marte se sumergen en las profundas aguas emocionales de Plutón. Esta conexión requiere de compensación de presión para superar la fiebre de impaciencia. Esta noche, los pensamientos están influenciados por los sentimientos. La Luna Nueva en Cáncer cierra temporalmente la comunicación abierta. Pero teniendo en cuenta la influencia de Plutón anteriormente mencionada, puede que sea algo bueno.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
