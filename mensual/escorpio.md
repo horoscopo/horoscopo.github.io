@@ -1,24 +1,28 @@
 ---
 layout: horoscopos
-title: Horoscopo Escorpio Abril 2023
-description: El Horóscopo Abril de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Escorpio Mayo 2023
+description: El Horóscopo Mayo de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/escorpio/
 amplink: /horoscopo-mensual/amp/escorpio/
 home: FALSE
-keywords: horóscopo abril, horoscopos en español, horóscopo Escorpio abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Escorpio, Tarot, Astrologia, Zodíaco, Escorpio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo mayo, horoscopos en español, horóscopo Escorpio mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Escorpio, Tarot, Astrologia, Zodíaco, Escorpio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/escorpio_mes.png#2023-03-29
+ogimg: /images/mes/escorpio_mes.png#2023-04-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-03-29'
+ lastmod: '2023-04-28'
 ---
 
 
- > Escorpio, cuidado con la sensibilidad durante el mes de abril, porque puede jugarte alguna mala pasada con tu pareja. Por otro lado, por fin parece que las cosas ponen en su sitio en la vida a quien se lo merece y por eso vas a disfrutar con ciertas situaciones.
+ > Escorpio, parece que ha llegado la hora de que mayo sea el mes en el que empieces a creértelo más, así que, sal ahí con la cabeza bien alta porque verás oportunidades donde los demás no ven nada y, además, podrás con todo lo que te venga.
 
 
 
-Si cierto problema se ha resistido a tus mejores esfuerzos, la Luna llena del 6 de abril podría darte lo que necesitas para lograr un gran avance. Podría ser tan simple como la persona adecuada regresando de vacaciones y contestando todas tus preguntas. Obtén las respuestas que necesitas y el progreso que deseas sin ningún esfuerzo adicional de tu parte. La Luna Nueva del 20 de abril trae el primer eclipse de sol y hace tu mundo mucho más grande y más brillante. Descubre un nuevo y exótico gusto o un placer que te lleve a lugares sin costarte mucho. Marte comienza a moverse directamente el 29 de abril. Prepárate para retomar un tema que se comenzó a debilitar desde mediados de abril y termínalo.
+Chispas de inspiración encenderán un fuego dentro de ti este mes cuando el sol en Tauro arde intensamente en tu novena casa solar. Estas vibras están listas para llevarte en algunos viajes de la mente, aunque puede que también sientas ánimos de empacar para realizar alguna exploración física. Ya sea que te encuentres fantaseando en tu escritorio o estés por embarcarte en una aventura, permítete dejar atrás lo que se espera de ti. Simplemente no dejes que este sentimiento te acompañe muy lejos, querido Escorpio. Aún necesitas ocuparte de tu trabajo y tus responsabilidades.
+Tu intuición también recibirá un buen impulso de esta posición solar mientras el universo busca formas de guiarte y comunicarse contigo. Sin embargo, tu tercer ojo podría comenzar a frustrarte cuando la luna nueva se manifiesta en el sector de tu carta astral que rige la comunicación y los procesos mentales el 19 de mayo. Este clima cósmico podría ponerte ante una encrucijada, ya que Luna te hace romantizar tu futuro mientras que Plutón te enfrenta a la dura realidad logística que rodea esos sueños. No te desanimes por el trabajo que aún tienes por hacer. En su lugar, hazlo poco a poco.
+La temporada de Gñeminis comienza el día 21, lo que cambia tu enfoque hacia tus ambiciones profesionales. Estas vibras pueden jugar un papel fundamental en el crecimiento de tu carrera durante el próximo año, pero necesitarás ser paciente durante el proceso. En vez de sentir ansiedad por un ascenso, busca formas de mostrar tus talentos inigualables. Tomar un par de turnos o tareas extras pondrá el centro de atención en tu lealtad y ética de trabajo, lo que no pasará desapercibido por tus superiores.
+Días destacados: 2, 19, 30
+Días desafiantes: 10, 18, 22

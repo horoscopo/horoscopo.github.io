@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: Horoscopo Acuario Abril 2023
-description: El Horóscopo Abril de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Acuario Mayo 2023
+description: El Horóscopo Mayo de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/acuario/
 amplink: /horoscopo-mensual/amp/acuario/
 home: FALSE
-keywords: horóscopo abril, horoscopos en español, horóscopo Acuario abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Acuario, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo mayo, horoscopos en español, horóscopo Acuario mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Acuario, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/acuario_mes.png#2023-03-29
+ogimg: /images/mes/acuario_mes.png#2023-04-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-03-29'
+ lastmod: '2023-04-28'
 ---
 
 
- > Acuario, te espera un abril movidito cargado de aventuras y novedades. No esperes a estar sentada en el sofá, porque vas a tener que ponerte en marcha, ordenar tus pensamientos y salir ahí fuera a mostrar quién eres de verdad.
+ > Acuario, vivirás un mes de mayo que será fundamental a la hora de cómo continuas el año 2023. De ti depende cómo quieres que sea el camino, lo importante es que no te precipites y que vayas paso a paso hacia el cumplimiento de tus sueños. Aprovecha los primeros 20 días para llevar a cabo tus proyectos más inmediatos, ya que contarás con todo lo que necesitas para negociar y sacar provecho de ello. Vigila tu entorno y afina los detalles de la situación. No te pierdas en el ruido de los demás y sigue adelante con tus objetivos.
 
 
 
-Te encantará pasar la temporada en casa este mes, estimable Acuario, ya que el sol, Venus y Mercurio en Aries transitan por el sector de tu carta astral que rige la felicidad doméstica. Trabajar durante esta época te brindará una sensación de comodidad y nostalgia, así que busca la receta de galletas de tu abuela, prepara chocolate caliente e invita a tus seres queridos a divertirse y conversar frente a la chimenea. Sin embargo, debes tener en cuenta que no estás organizando todo esto a solas. Pide ayuda con los platos y la limpieza al final de las reuniones.
-Saca a relucir toda tu astucia durante la luna llena, cuando la luna se acerque al apasionado Marte el 6 de abril. Hacer regalos a familiares y amistades puede ayudarte a desconectar temporalmente de cualquier estrés que esté ocupando espacio en tu vida profesional mientras llenas tu corazón de gratitud y amor. Expresarte a través de gestos amables o esmerados regalos te recuerda todo lo bueno de este mundo y te ayuda a fortalecer tus lazos más importantes.
-Tendrás más ganas de aventurarte una vez que la temporada de Tauro comience el día 20, activando tu quinta casa solar. Estas vibras están relacionadas con la creatividad, la confianza y el disfrute de tus amistades, por lo que es importante que aceptes cualquier tentadora invitación social. Tómate un momento para considerar cómo te gustaría fortalecer tu imagen y tu ego durante la luna nueva del 20 de abril, y no te sientas culpable si tu agenda se vuelve un poco superficial o egoísta.
-Días destacados: 6, 15, 17
-Días desafiantes: 1, 9, 29
+Marte forma una cuadratura con Urano el 1 de mayo. Controla tu temperamento, y no dejes que nadie te provoque (puede que lo intenten). Busca un logro en el trabajo o en algún entorno social durante la luna llena del día 5. Puede que haya fricciones o resistencia al principio, pero luego serás quien avance.
+Mercurio se torna estacionario directo el día 18. Tómate tu tiempo para reorganizarte y volver a contactar a alguien que te quedó mal recientemente. Durante la luna nueva del 19 de mayo, rodéate de gente feliz que parece estar divirtiéndose más que tú. Sin embargo, las cosas pueden no ser lo que parecen. Ponte alegre y decide por tu cuenta lo que es agradable y entretenido. Marte se torna estacionario directo al día siguiente. Puede que lleve algunos días tener más motivación, reunirte con una vieja pasión, y volver a estar a toda marcha, pero lo lograrás.
+
+Días destacados: 7, 12, 28
+Días desafiantes: 9, 21

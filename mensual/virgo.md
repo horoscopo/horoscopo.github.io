@@ -1,24 +1,27 @@
 ---
 layout: horoscopos
-title: Horoscopo Virgo Abril 2023
-description: El Horóscopo Abril de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Virgo Mayo 2023
+description: El Horóscopo Mayo de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/virgo/
 amplink: /horoscopo-mensual/amp/virgo/
 home: FALSE
-keywords: horóscopo abril, horoscopos en español, horóscopo Virgo abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Virgo, Tarot, Astrologia, Zodíaco, Virgo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo mayo, horoscopos en español, horóscopo Virgo mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Virgo, Tarot, Astrologia, Zodíaco, Virgo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/virgo_mes.png#2023-03-29
+ogimg: /images/mes/virgo_mes.png#2023-04-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-03-29'
+ lastmod: '2023-04-28'
 ---
 
 
- > Este mes de abril tus planetas amigos te animan a abrirte a otras perspectivas, Virgo. Antes de emitir un juicio precipitado, tómate el tiempo necesario para revisar la situación. En los últimos diez días del mes la luna nueva te mostrará que tu entorno se está esforzando por ti, para que creas que lo imposible puede hacerse posible. Tendrás el apoyo de tus seres queridos y toda su confianza, si te animas a ir más allá de lo que conoces.
+ > Virgo, este mes encontrarás la solución a temas relacionados con tu hogar o tu familia que llevan mucho tiempo en tu vida. mayo será el salto final que necesitas para que todas las piezas empiecen a encajar en su lugar. Será un buen momento para hacer algún viaje, relacionarte con personas extranjeras o conseguir nuevas oportunidades lejos de tu hogar.
 
 
 
-Mercurio se mueve directo el 5 de abril y la vida se vuelve más fácil, pero no de inmediato. Concéntrate en el trabajo durante la luna llena del 6 de abril. Aprovecha tu tiempo a solas para soñar e inspirarte (y ahora es un buen momento para hacerlo, así que piensa en grande) y deja que tu buen desempeño convierta tus planes profesionales en realidad. La vida en el hogar puede estar constantemente en movimiento y complicarse un poco con el eclipse de sol del 20 de abril. Un gran trígono en signos de tierra mantendrá tu atención en lo verdaderamente importante y en lo que te hará feliz. No tengas miedo y actúa de manera práctica. 
+Te sentirás con energía (tal vez, demasiada) durante la Luna Llena del 5 de mayo. Mantén una vida diaria simple y no te distraigas con interrupciones ni preocupaciones de personas que están mucho más distraídas que tú. Es un periodo de tiempo ajetreado, y muchos podrían descontrolarse. La Luna Nueva del 19 de mayo viene cargada de energía y ambición. Podría ser difícil pensar sin sentir distintas emociones. Si evitas la impaciencia o impulsividad, todo puede estar bien. El 28 de mayo, la conjunción entre Mercurio y Marte en Cáncer te otorga capacidades y poder adicional para lograr algo difícil que ha estado pendiente.
+
+Mejores días: 4, 10, 21
+Peores días: 13, 30

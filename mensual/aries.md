@@ -1,29 +1,29 @@
 ---
 layout: horoscopos
-title: Horoscopo Aries Abril 2023
-description: El Horóscopo Abril de Aries todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Aries Mayo 2023
+description: El Horóscopo Mayo de Aries todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/aries/
 amplink: /horoscopo-mensual/amp/aries/
 home: FALSE
-keywords: horóscopo abril, horoscopos en español, horóscopo Aries abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Aries, Tarot, Astrologia, Zodíaco, Aries, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo mayo, horoscopos en español, horóscopo Aries mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Aries, Tarot, Astrologia, Zodíaco, Aries, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/aries_mes.png#2023-03-29
+ogimg: /images/mes/aries_mes.png#2023-04-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-03-29'
+ lastmod: '2023-04-28'
 ---
 
 
- > Aries, este mes ¡la suerte sigue de tu parte! Tendrás ideas de sobra y proyectos por comenzar. Saturno deja tu signo a principios de mes, pero durante su estancia te animó a estructurar tus ideas a la vez que las frenaba. En abril se liberan las restricciones. Tienes el campo libre y te sientes mejor para relacionarte con los demás. Estarás motivado a hacer que las cosas se muevan en la dirección que tú quieres. Hasta el 25 reaccionarás rápido y bien y todas las luces estarán en verde para que puedas aprovechar, sobre la marcha, las oportunidades que se presentarán.
+ > Aries, no vas a querer que acabe el mes de mayo, pues todo serán buenas noticias para tu persona. Te sentirás muy segura de ti misma y eso lo notarás en el terreno sentimental y también en el laboral.
 
 
 
-Cuídate bien y no te dejes llevar demasiado durante la luna llena del 6 de abril. Siempre hay más cosas para hacer que tiempo para hacerlas. Tómatelo con calma y enfócate. No necesitarás volver a hacer algo que consigues terminar ahora. 
-El día 9, la luna forma una conjunción con Mercurio. Piensa mucho y en profundidad sobre algo importante. Mercurio se torna retrógrado el 16 de abril, justo después de que Venus se torna directo. No te apresures en hablar sin pensar, en especial sobre amor. 
-Para la luna nueva del día 20, tenemos un eclipse solar, verás aspectos de ti en tu pareja. Sé una persona más generosa. Te sorprenderá la cantidad de afecto y buena voluntad que vuelve a ti. Ahora salgan más y sean más ambiciosos juntos. 
-Mercurio forma una cuadratura con Marte el 26 de abril. Analiza, pero no te critiques demasiado. Al día siguiente, el sol y luego Júpiter forman una conjunción con Mercurio. Ahora los instintos y las primeras impresiones podrían ser más útiles. 
-Días destacados: 9, 14, 19
-Días desafiantes: 16, 26
+La energía podría ser algo impredecible en tu camino profesional este mes, estimable Aries, cuando el sol viaja por el excéntrico Acuario. Ya sea que se trate de competir con nuevos colegas, un cambio en tus responsabilidades o insatisfacción con tu carrera profesional, puedes esperar lo inesperado ahora.
+Estos sentimientos podrían parecer particularmente pronunciados durante el eclipse solar junto a la luna llena en Tauro el 5 de mayo, que forma una fuerte cuadratura en T con el rebelde Urano. Sentir que trabajas demasiado o que eres invisible para tus superiores podría provocar resentimiento, aunque deberías proceder con cuidado si decides confrontar a tu jefe o tus colegas sobre un problema con el que estás lidiando.
+Por suerte, tendrás la oportunidad de enfocarte en socializar y construir una comunidad de amistades cuando el sol entra a Géminis y tu onceava casa solar el día 21. Presta atención a cualquier persona conocida que ingresa a tu esfera durante la luna nueva al día siguiente, especialmente si te encuentras con un espíritu afín o formas un vínculo instantáneo con alguien. Desafortunadamente, la naturaleza acuática de esta lunación podría crear turbulencias emocionales en tu círculo de amistades, y puede que te llamen para dar apoyo a un ser querido.
+El 19 de mayo también tiene una importancia personal cuando Venus entra al fogoso Aries. Esta posición planetaria te pide que cuides de ti sin limitaciones, especialmente si estás lidiando con problemas personales. Sin embargo, también podrías sentir que te domina la impulsividad más de lo normal cuando tu regente planetario viaja por uno de los signos del zodíaco más impacientes. Si bien tus instintos serán fuertes, intenta no adentrarte en una relación o compromiso sin antes haber examinado por completo la situación.
+Días destacados: 2, 7, 15
+Días desafiantes: 3, 4, 16

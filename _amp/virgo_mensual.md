@@ -1,18 +1,21 @@
 ---
 layout: amp
-title: Horoscopo Virgo Abril 2023 
+title: Horoscopo Virgo Mayo 2023 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Virgo_mes.png#2023-03-29
+ogimg: /images/mes/Virgo_mes.png#2023-04-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-03-29'
+ lastmod: '2023-04-28'
 ---
 
 
-Mercurio se mueve directo el 5 de abril y la vida se vuelve más fácil, pero no de inmediato. Concéntrate en el trabajo durante la luna llena del 6 de abril. Aprovecha tu tiempo a solas para soñar e inspirarte (y ahora es un buen momento para hacerlo, así que piensa en grande) y deja que tu buen desempeño convierta tus planes profesionales en realidad. La vida en el hogar puede estar constantemente en movimiento y complicarse un poco con el eclipse de sol del 20 de abril. Un gran trígono en signos de tierra mantendrá tu atención en lo verdaderamente importante y en lo que te hará feliz. No tengas miedo y actúa de manera práctica. 
+Te sentirás con energía (tal vez, demasiada) durante la Luna Llena del 5 de mayo. Mantén una vida diaria simple y no te distraigas con interrupciones ni preocupaciones de personas que están mucho más distraídas que tú. Es un periodo de tiempo ajetreado, y muchos podrían descontrolarse. La Luna Nueva del 19 de mayo viene cargada de energía y ambición. Podría ser difícil pensar sin sentir distintas emociones. Si evitas la impaciencia o impulsividad, todo puede estar bien. El 28 de mayo, la conjunción entre Mercurio y Marte en Cáncer te otorga capacidades y poder adicional para lograr algo difícil que ha estado pendiente.
+
+Mejores días: 4, 10, 21
+Peores días: 13, 30

@@ -1,18 +1,22 @@
 ---
 layout: amp
-title: Horoscopo Géminis Abril 2023 
+title: Horoscopo Géminis Mayo 2023 
 permalink: /horoscopo-mensual/amp/geminis/
 normallink: /horoscopo-mensual/geminis/
 home: FALSE
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Géminis_mes.png#2023-03-29
+ogimg: /images/mes/Géminis_mes.png#2023-04-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-03-29'
+ lastmod: '2023-04-28'
 ---
 
 
-Podrías ser muy popular bajo la Luna llena del 6 de abril. Y puede que hasta también lo disfrutes. La timidez y la reserva no te funcionarán muy bien ahora. Sonríe, acepta tu visibilidad social y prepárate para hacer un montón de nuevas amistades. Vuélvete un líder social al decir tu verdad. En los días alrededor de la Luna Nueva del 20 de abril en conjunto al Eclipse total de Sol, céntrate en tu persona y en tu propio bienestar. Si te llueven asesoramientos mientras sientes preocupación por tu salud y felicidad, escucha, pero sé tú quien juzgue los cambios que le harás a tu rutina diaria. El fin de semana del 28 y 29 de abril es un momento muy romántico y emocional. Manifiesta tus sueños románticos ahora. 
+Será difícil quitarte la sonrisa de la cara este mes, estimable Géminis, porque el sol, Venus y Mercurio en Sagitario transitan por el sector de tu carta astral que rige el amor. Este clima cósmico te enamorará de tu vida y del mundo que te rodea, por lo que es el momento ideal para nutrir tus relaciones más valiosas. Si estás buscando una nueva pareja, estas vibras son perfectas para salir. Sin embargo, cuidar de ti y mantener el equilibrio en tu corazón y mente cumplirán un papel vital para sobrevivir a la temporada, así que intenta no dispersarte demasiado entre los compromisos sociales y el trabajo.
+La luna llena el 5 de mayo acompañada del eclipse lunar, trae fuerza, encanto y popularidad a tu vida. Una conjunción entre la luna y Marte despierta profundas pasiones en tu interior, llamándote a que reconozcas lo que más desea tu corazón. Sin embargo, será fácil confundir lujuria con amor en este momento, así que intenta no adelantarte cuando se trata de nuevas relaciones. Este evento lumínico también aumentará tu motivación, aunque deberás tener en cuenta hacia dónde diriges tu atención si deseas aprovechar al máximo estas alentadoras vibras.
+El solsticio de invierno comienza cuando el sol ingresa a Capricornio y al sector de tu carta astral que rige la transformación personal el día 21. Esta ubicación solar puede ayudarte a liberar cualquier carga que hayas acumulado durante el año y así poder hacer espacio para mejores y más saludables oportunidades en el 2023. La luna nueva del día 19 te alienta a que aproveches tu poder personal, alejándote de cualquier cosa o persona que no esté aportando positividad a tu vida.
+Días destacados: 6, 15, 19
+Días desafiantes: 1, 8, 29
