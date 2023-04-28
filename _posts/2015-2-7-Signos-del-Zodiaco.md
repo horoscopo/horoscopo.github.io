@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 27 de abril 2023
-description: Horóscopos del dia de hoy 27 de abril 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 28 de abril 2023
+description: Horóscopos del dia de hoy 28 de abril 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-04-27
+ lastmod: 2023-04-28
 ---
-La Luna forma sextil con el poderoso Plutón, por lo que el día de hoy se trata de la colaboración ventajosa entre creativas personalidades que se reúnen sintiéndose libres de restricciones e inspiradas por la estimulación intelectual. Esta noche, la Luna fuera de órbita en Escorpión aumenta la capacidad de anticipar pensamientos románticos y, tal vez, manipular las reacciones. Se te advierte mantener tus emociones bajo control.
+Captura oportunidades de oro cuando el Sol forme sextil con Júpiter. De hecho, también aprovecha el día con confianza y sin esfuerzo. Esta noche, será casi imposible notar ciertas similitudes cuando la Luna forme conjunción con Neptuno, el planeta de las ideas escalofriantes. Podría haber un valioso recordatorio sobre las lecciones aprendidas acerca de la paciencia.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
