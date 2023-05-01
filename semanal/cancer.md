@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 24 de abril 2023 al 30 de abril 2023 
-description: Horóscopo semanal cancer 24 de abril 2023 al 30 de abril 2023. Todo acaba cicatrizando, pero tienes que dejar que cicatrice Cáncer. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
+title: cancer 01 de mayo 2023 al 07 de mayo 2023 
+description: Horóscopo semanal cancer 01 de mayo 2023 al 07 de mayo 2023. Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2023-04-24
+ogimg: /images/zodiac/semanal_cancer.png#2023-05-01
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-04-24'
+ lastmod: '2023-05-01'
 ---
 
 
 
-## Todo acaba cicatrizando, pero tienes que dejar que cicatrice Cáncer. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
+## Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
 
-Son muchos los que quieren arruinar tu vida Cáncer, los que no pueden soportar cuando subes a una foto a alguna red social, los que rabian cuando te ven feliz. Pero es que ahora, estás conectado a tu vida más que nunca, crees en ti mismo y sabes las posibilidades que tienes en este mundo. Y son muchas. Y esa seguridad tan fuerte es la que hará que consigas todo lo que te propongas pero también te sacará algún enemigo que otro. Pasa Cáncer, tú a lo tuyo, siempre. Todo pasa por alguna razón y lo tienes más que claro pero cuando le toca a uno mismo cuesta el doble aceptarlo pero todo pasa y todo llega Cáncer. Pero ya pasó, y ya lo superaste, o al menos, los aceptaste. Los pocos pensamientos negativos que aún te quedan acabarán por desaparecer, los buenos son los que al final prevalecen. Has tenido falta de confianza por momentos, falta de confianza que te ha ahogado, que no te ha dejado respirar, que te ha ido apagando lentamente aunque tú lucharás hasta el último minuto porque no pasara… Acuérdate de esos malos ratos Cáncer. Y no los repitas. Que la primera vez que algo te pase podrá ser un error, pero si te pasa dos veces es una elección. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Cáncer. Ahora brillas así que, aprovecha. Aprovecha todo.
-El encantador Venus se traslada más profundamente a tu sector profesional, lo que mejora tu capacidad de conectar con personas importantes. Esto podría encontrarte avanzando significativamente en las próximas semanas. Al mismo tiempo, hay algunas poderosas fuerzas trabajando en tu sector de creatividad y romance. Si bien, al parecer, tus relaciones con las personas que ves todos los días son buenas en general, las relaciones con una pareja a largo plazo o con un nuevo romance podrían ser muy intensas y bastante demandantes. Lo mismo se aplica a los planes creativos, que pueden representar un intenso proceso de comienzo a fin. 
-  Debido a que el práctico Saturno y el radical Plutón ahora están retrógrados en este sector, se podrían estar gestando profundos cambios lentamente. Los obstáculos para la creatividad y el flujo de emociones podrían desvanecerse de a poco con el tiempo. Este fin de semana, la conexión del sol con el soñador Neptuno sugiere que un nuevo programa o filosofía espiritual podrían llamarte la atención.
+No estás mal con lo que tienes no, pero ya no eres el mismo que antes Cáncer. Has cambiado, y quieres otra vida, llenarte de otras sensaciones que te alimenten, que te hagan crecer como persona, metas y objetivos nuevos. Quieres llenar tu vida de personas inigualables, de gente que merece la pena de verdad. Quieres que tus días estén llenos de esas personas que te hacen ver la belleza del mundo. Quieres gente aventurera cerca, que no se raye por estupideces, que no te raye a ti… Quieres perseguir puestas de sol, quieres perseguir lunas llenas, quieres salir de la mierda de la rutina que a veces te ahoga. Quieres personas que no vean el mundo de la misma manera que tú, personas que tengan la capacidad de hacerte cuestionar todo lo que creías que era cierto. Necesitas vidilla, aventura, es lo que más deseas ahora, búscala Cáncer, búscala y sal de la rutina como sea. Si no tienes sueños o metas de este tipo te acabas apagando, y mucho. O te empiezas a ilusionar y a perseguir lo que de verdad quieres o vas para abajo Cáncer. Si quieres cambiar algo es porque no estás satisfecho del todo Cáncer, esto funciona así. Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
+Con Marte recientemente en Escorpión, la intensidad llena ésta y las próximas seis semanas. Sin embargo, tu aumentada fuerza de voluntad y determinación podrían verse afectadas tanto por Mercurio como Júpiter girando hacia atrás. No trates de forzar el ritmo. En vez, céntrate en lo que sí esté funcionando y toma las cosas un paso a la vez. La mezcla de energías de esta semana también podría representar un punto decisivo, sobre todo si sientes la necesidad de tomar una decisión clave que podría tener consecuencias importantes.
 
 ## Dinero
 
-Te enfrentas a una seria transformación esta semana. Estás construyendo un mejor ingreso y una mayor seguridad en todos los aspectos de tu vida. Mientras que hablas a favor de tus necesidades y te redefines a ti mismo/a como persona, el Universo te anima a aprender un nuevo idioma, a que pienses en expandir lo que haces en los mercados extranjeros y prosperar. ¡Se ve el signo de dinero en tu futuro!
+Tienes toneladas de nueva energía para darles una impresión positiva a todos los que conoces. Es un buen momento para programar una entrevista de trabajo o hacer presentaciones para hacerle más publicidad a tus productos y servicios. El Universo pone más atención en el romance, los niños y la familia. Mientras más utilices tu personalidad para impresionar a los demás, mejor será la situación financiera de la gente que realmente te importa.

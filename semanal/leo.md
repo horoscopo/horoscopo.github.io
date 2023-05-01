@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: leo 24 de abril 2023 al 30 de abril 2023 
-description: Horóscopo semanal leo 24 de abril 2023 al 30 de abril 2023. Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
+title: leo 01 de mayo 2023 al 07 de mayo 2023 
+description: Horóscopo semanal leo 01 de mayo 2023 al 07 de mayo 2023. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2023-04-24
+ogimg: /images/zodiac/semanal_leo.png#2023-05-01
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-04-24'
+ lastmod: '2023-05-01'
 ---
 
 
 
-## Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
+## Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
 
-Organízate Leo, organiza tu mente, ¿qué es lo que quieres hacer? ¿con qué podrías ser feliz? ¿qué te gustaría tener que ahora no tienes? Hay que empezar por eso, y después hacer un plan para que se vuelva realidad. Sí, hay que ponerle mucho, muchísimo esfuerzo a todo, está claro, pero tú puedes hacerlo, tienes fuerza más que de sobra, sólo necesitas ese empujón a veces, eso quizás es lo que ahora te falta, en cuanto lo des, las cosas empezarán a fluir tal y como tú quieres… Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas. No aceptes menos de lo que mereces, no te conviene, nunca te ha convenido pero a veces has pasado por el aro. Si cree que necesitas otras cosas, hazlo, levántate, mueve el culo, busca lo que te gusta y pon el máximo de ganas en conseguirlo. Quejarse es sencillo y a veces necesario, pero de verdad, ¿qué sacas con eso? ¿simplemente amargarte el día? Pues sí. Empieza a actuar. Es muy probable que haya momentos en los que no te queden fuerzas, pero eres Leo, que a pesar de estar hundido por dentro saca ganas de donde hagan falta, pues aplica esa testarudez que tienes para conseguir lo que te beneficia en vez de quedarte de mala hostia con pensamientos negros y dándole más vueltas a las cosas de la cuenta.
-Venus en el apasionado Escorpión podía darte ganas de perder unas cuantas libras. Mientras que alistarte para el fin de semana puede estar en lo alto de tu agenda, ten cuidado al salir con amigos si quieres terminar la semana sin problemas. Evita alterar los planes mejor trazados al guardarte tus polémicos comentarios. Si tus propios planes se ven alterados, tendrás que tomarlo con calma. El reciente eclipse solar es perfecto para llevar una relación amorosa a un nuevo nivel.
+Hay cosas que no se pueden cambiar Leo, y de verdad, no merece estar toda la vida luchando por ello, por intentar abrir los ojos al resto, por tratar de cambiar opiniones para mejor… Y menos cuando al final eres tú el que gasta tiempo para nada. Hay gente que no quiere abrir los ojos Leo, hay gente que le importa una mierd* el mundo. Y está bien, es respetable, pero aléjate de ellos. Porque personas así no aportan nada, porque roban energía, porque no tienen aspiraciones, porque no motivan al resto. Porque no te motivan a ti. Mira por ti ahora, se tu prioridad, se el número uno en todo lo que hagas, y si el resto quiere estar a tu lado está bien, que esté, pero no te desvivas por nadie como lo has hecho hasta ahora. Deja de castigarte por lo que está fuera de tu control, hay cosas que no se pueden cambiar, así que, no inviertas tanto tiempo en eso. Todos tenemos una historia Leo pero recuérdate que hay más de una elección, no hace falta que te quedes siempre con una cosa, no hace falta aferrarte como has hecho hasta ahora. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
+Tu vida social podría ser muy divertida. También es necesario para tu salud y bienestar. La oportunidad de relajarte con una buena compañía puede ser justo lo que necesitas para contrarrestar todo el arduo trabajo que has estado haciendo. Además, el sensual Venus en tu sector de estilo de vida te anima a cuidar de tu cuerpo con suficiente descanso, buena comida y ejercicio. Puede haber una tendencia a subestimar todas estas cosas en tu deseo de avanzar. 
+  Si el intenso enfoque de la última semana hizo que te quedaras sin energías, prueba con un masaje u otro tratamiento que te ayude a aliviar la tensión y revitalizarte. La presencia del sol en tu sector de creatividad puede ser un indicio de que debes enfocarte en los pasatiempos o las manualidades que disfrutas, ya que esto también puede ser terapéutico. Cuanto más tiempo tardes en nutrirte y renovar tu energía, más sencillo será avanzar.
 
 ## Dinero
 
-Tienes una calidad de ideas y de ensueño que es muy atractiva para los demás en este momento. Sin embargo, ten cuidado con parecer como que saliste de un cuento de hadas o con parecer excesivamente intelectual. Puede que tu mensaje no sea entendido por las cabezas de algunas personas que necesites a bordo en tus planes personales y económicos. Al mismo tiempo, un aspecto de apoyo muestra que eres maestro/a por naturaleza. Considera cómo puedes compartir tus conocimientos con los demás por algo extra de dinero.
+Esta semana destaca la necesidad de actualizar tu conjunto de habilidades. El mejorar tu educación, no sólo te da más confianza en tus posibilidades, también logra que los demás tengan el habito de percibirte con el grado de experiencia que empiezas a tener. Es posible que necesites incorporar conocimientos de vidas pasadas. No hay necesidad de saber porque eres bueno/a en lo que haces, simplemente lo eres.

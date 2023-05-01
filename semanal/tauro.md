@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 24 de abril 2023 al 30 de abril 2023 
-description: Horóscopo semanal tauro 24 de abril 2023 al 30 de abril 2023. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
+title: tauro 01 de mayo 2023 al 07 de mayo 2023 
+description: Horóscopo semanal tauro 01 de mayo 2023 al 07 de mayo 2023. Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud Tauro, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2023-04-24
+ogimg: /images/zodiac/semanal_tauro.png#2023-05-01
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-04-24'
+ lastmod: '2023-05-01'
 ---
 
 
 
-## Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
+## Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud Tauro, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
 
-El mundo no te entiende Tauro, ya estás acostumbrado a eso, pero no te frustres, en serio no te frustres. Ha llegado un momento en el que ya no quieres las cosas a medias, o te lo dan todo o mejor que no te den nada. Estás harto de hacerte ilusiones que después no se cumplen, estás harto de depender siempre de la felicidad de los demás, de sus decisiones… Y te has dado cuenta de que vales mucho, de que si el resto no es capaz de valorar lo que podrías llegar a dar no es problema tuyo. Ahora sí sabes lo que vales Tauro, ahora sí sabes lo que mereces. A pesar de que ahora sea todo o nada ni siquiera necesitas eso del resto, ¡qué va! Porque las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz. Quieres “sobrevivir” en el mundo sin necesidad de nadie, sin necesidad de nada que te ate y te corte las alas, sin broncas, sin malos rollos, sin dramas ni peleas. Cuando te metes en bucles así no avanzas y si no avanzas te estancas, y si te estancas dejas de ser feliz. Ya has estado en el fondo mucho tiempo Tauro, ahora que has salido no vuelvas a caer. No eres de hierro no, pero procura serlo esta semana, aunque sea complicado. Descúbrete a ti mismo y descubre tu misión en la vida, y hazlo solo, y en vez de darle vueltas a lo malo, quédate con los buenos momentos, con lo que de verdad no falla.
-La Luna Nueva en Aries del lunes es la mejor del año para ti. Es hora de que empieces de nuevo en las áreas que lo creas necesario. Esta es una gran oportunidad para que escribas tus planes para el mes que se aproxima lo más detalladamente posible, los visualices y los consultes con frecuencia. Al mismo tiempo, en esta semana podrías avanzar con una idea que realmente te apasiona. Si hay otras personas involucradas, puede que sea necesario negociar con prudencia.
+Para alcanzar la felicidad, TÚ FELICIDAD, 
+y ese es tu trabajo ahora. Dejar de pensar, o al menos, intentar engañar a tu mente y a tu cabeza para que piense lo menos posible…
+Ciertos asuntos profesionales dan paso a opciones más sociables conforme Venus sale de Capricornio y entra a Acuario. Esta semana trae consigo uno o dos cambios astrológicos que sin duda cambiarán tu enfoque. Sin embargo, si se te presenta la oportunidad de seguir adelante con una idea empresarial, o consigues financiación para un negocio, tendrás ansias de analizarla. La actividad solar el jueves, trayéndote la oportunidad de dejar de lado todo lo que ya no te sirve con el fin de hacer espacio para que cosas nuevas entren a tu vida.
 
 ## Dinero
 
-Esta semana, el Universo pone de relieve tu sector de amistades, compañeros y otras relaciones serias. Algo que reciente se formó es cada vez más serio. Esta podría ser una unión comercial mutuamente beneficiosa o incluso una asociación o fusión entre tu empresa y otro negocio. Puede que no se mueva tan rápido como te gustaría, pero es algo genial a largo plazo. Busca nuevas oportunidades en lo desconocido o en un campo completamente original.
+Puede que tengas las manos llenas ahora con cuestiones relacionadas con el empleo y la salud. Puede que tu carga de trabajo de repente se duplique, o puede que recibas más proyectos independientes que son demasiado buenos para dejarlos pasar. Tu red de fuentes de empleo se expande, lo que indica que también podrías enterarte de un trabajo en tu campo que realmente te interese. Con toda tu suerte en efecto, lo mejor es que trates de entrar a esta compañía.
