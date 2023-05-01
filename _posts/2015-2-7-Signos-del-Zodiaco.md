@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 30 de abril 2023
-description: Horóscopos del dia de hoy 30 de abril 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 01 de mayo 2023
+description: Horóscopos del dia de hoy 01 de mayo 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-04-30
+ lastmod: 2023-05-01
 ---
-Las ideas no surgirán de la cabeza de uno ahora. Vienen a través de la investigación o el cálculo. Mercurio está en Escorpión, el signo de la investigación, el descubridor de las cosas ocultas. Obtendrás excelentes resultados al resolver misterios. Esta noche, la Luna saliéndose de su órbita es como pasar de la miel al hielo. ¡Algo que sin duda arruina el buen estado de ánimo!
+Si sientes que tienes razón, mantente firme y ponle fin a ese viejo y molesto problema. Una decisión tomada mientras la Luna forma sextil con Saturno es basada en razonamiento sano. Ten un plan alterno esta noche cuando la gente cambie los acuerdos en el último minuto. En este sentido, los ajustes tienen un resultado positivo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
