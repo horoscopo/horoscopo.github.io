@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 01 de mayo 2023 al 07 de mayo 2023 
-description: Horóscopo semanal piscis 01 de mayo 2023 al 07 de mayo 2023. La realidad es esta y sí, aunque a veces sea una mierda busca SIEMPRE el lado bueno, en el fondo nunca dejas de hacerlo, aunque a veces te superen las circunstancias. Hay gente que sigue echando de menos al Piscis de siempre…
+title: piscis 08 de mayo 2023 al 14 de mayo 2023 
+description: Horóscopo semanal piscis 08 de mayo 2023 al 14 de mayo 2023. Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2023-05-01
+ogimg: /images/zodiac/semanal_piscis.png#2023-05-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-05-01'
+ lastmod: '2023-05-08'
 ---
 
 
 
-## La realidad es esta y sí, aunque a veces sea una mierda busca SIEMPRE el lado bueno, en el fondo nunca dejas de hacerlo, aunque a veces te superen las circunstancias. Hay gente que sigue echando de menos al Piscis de siempre…
+## Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
 
-A veces parece que no progresas, y te estancas, y te lamentas, y te das por vencido/a… Pero no, lo que pasa es que las cosas van más lentas de lo que queremos. Y todo lo que des hoy te va a repercutir en el futuro, aunque ahora parezca que no funciona del todo. ¿Estás en el lugar correcto Piscis? Seguro que sí, siempre has sido listo/a como para saber lo que haces… No hace falta que ahora pruebes otras cosas, lo que tienes que hacer es enfocarte en las que tienes, y tratar de hacer todo bien. La constancia es la clave del éxito Piscis. No te pierdas ahora por otras sendas, de verdad, vas bien encaminado ahora pero échale ganas y sobretodo no te rindas. Y tampoco dejes que la influencia del resto tenga poder sobre ti, ni mucho ni poco, NADA.
-Tendrás una gran cantidad de energía mental para invertir en proyectos esta semana, sobre todo si implican investigación o algún tipo de estudio. Al apoderarte de cierta información y utilizarla para apoyar tu causa, puedes llegar muy lejos. La Luna Llena del 5 puede acelerar tu progreso si es que estás haciendo planes de viaje, te encuentras de viaje, o incluso estás aprendiendo un nuevo idioma. También tendrás ganas de reflexionar sobre tus prioridades, lo que podría resultar en la toma de una o dos decisiones importantes.
+La meta es dura Piscis, pero lo conseguirás. Estás en un proceso de adaptación, estás peleando fuertemente para que las cosas salgan como tú quieres. No hay Piscis que no lo de todo cuando realmente desea algo… y así estás tú ahora, peleando como el que más. Pero a veces también sientes que nadas a contracorriente, y al final, te acaba arrastrando. Los mejores comienzos, normalmente, vienen después que los peores finales así que piensa que el estrés que has podido pasar últimamente no será en vano… Si las cosas cuestan, es por algo, pero tú lo tienes claro, vas a por todo a muerte, a fuego, y ya no te importará quien se cruce en tu camino o quien quiera estar a tu lado, porque los de verdad están estarán…No hay más… Tu carácter será más poderoso que nunca pero debes creértelo, ahora mucho más. Rodéate de personas que te hagan crecer, no de personas que te estanquen o intenten hundirte, es obvio que sabes de sobra quienes son pero a veces, el problema es que intentas cambiar a los demás, aunque sólo sea por orgullo, pero no, debes aprender simplemente a alejarte, a veces, sin ni siquiera despedirte Piscis. Porque un mínimo acercamiento a lo que te hace mal puede suponer muchos pasos atrás… Cuesta dejar a un lado cosas en las que tenías mucha fé, pero a veces, si no las dejas jamás verás los miles de caminos que se te abrirán a los lados. No hace falta que digas todo lo que piensas o que hagas todo lo que crees que debes hacer, en ocasiones, dar media vuelta y dejar todo es lo mejor… Te va a costar la salud si no lo haces, y tu propia vida Piscis… No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
+La actividad lunar en un sector más apartado de tu carta astral te alienta a olvidarte del trabajo y las responsabilidades por hoy y a tomarte un descanso para celebrar. Tendrás muchas oportunidades para retomar el ritmo de la rutina durante el resto de la semana. De hecho, puede que tengas la agenda particularmente ocupada durante este período, por lo que buscar momentos para relajar es muy importante. También hay una actividad dinámica en el plano hogareño, lo que podría crear un cambio positivo.
 
 ## Dinero
 
-Tus pensamientos e ideas pueden tornarse a la familia y la diversión por ahora, pero el Universo te está empujando a pensar en instituciones grandes como una forma de ganar dinero. Si tu dinero está en un banco pequeño o local, puede ser momento de darles a los bancos grandes una oportunidad. Mejores tarifas y opciones de ahorro significan más dinero para ti y tu clan.
+Esta semana es acerca de los aspectos que afectan dinero y valores. Esto es extremadamente afortunado, dándote la oportunidad de mejorar tus finanzas ahora. Se te está empujando a centrarte en la familia y el romance. Podría ser bueno tomarte un descanso o renovar tu convicción de equilibrar tu vida laboral con tu vida personal.

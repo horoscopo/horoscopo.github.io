@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 01 de mayo 2023 al 07 de mayo 2023 
-description: Horóscopo semanal sagitario 01 de mayo 2023 al 07 de mayo 2023. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Sagitario.
+title: sagitario 08 de mayo 2023 al 14 de mayo 2023 
+description: Horóscopo semanal sagitario 08 de mayo 2023 al 14 de mayo 2023. Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies Sagitario, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres Sagitario, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2023-05-01
+ogimg: /images/zodiac/semanal_sagitario.png#2023-05-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-05-01'
+ lastmod: '2023-05-08'
 ---
 
 
 
-## Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Sagitario.
+## Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies Sagitario, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres Sagitario, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
 
-¿Cuál es la diferencia ahora? Pues que el tiempo en darte cuenta de que estabas haciendo el tonto, se acorta. Vamos, que puedes caer y volver atrás cuando no deberías pero te das cuenta en seguida. 
- lo que pasa es que lo que sí debes aprender es a no tener que caer ni una vez más, aunque parezca que las cosas no te afectan, te afectan… ¿Por qué no cerrar las puertas que debes cerrar definitivamente y abrir las que te están esperando? Probablemente ganes mucho más… Piénsalo… Y actúa Sagitario.
-El eclipse lunar junto a luna llena en los primeros días de la semana podría impulsarte a que disfrutes momentos con familia y amistades y a que empieces a pensar en tus planes para el futuro. Trata de no tener la agenda completa el 1 de mayo. La luna llena y el eclipse lunar te sugiere que aproveches al máximo esta oportunidad para divertirte y relajarte. Sin embargo, otros aspectos esta semana podrían alertarte sobre nuevas posibilidades. Con el fogoso Marte alineándose con el expansivo Júpiter en tu sector de recursos compartidos, una idea comercial podría dar buenos resultados, por lo que vale la pena investigar de qué se trata.
+Llegan oportunidades grandes Sagitario y muy buenas, pero cuidado, deja de flojear y de ver el lado negativo. Esta semana tienes que cambiar el chip, y cambiarlo de golpe. Las cosas irán bien. Si los recuerdos te invaden haz lo que sea para entretenerte y dejarlo ahí, a las puertas, sin que puedan entrar en tu cabeza y desestabilizarte. Ten cuidado y no pagues con la misma moneda los golpes que la vida te ha podido dar, no merece la pena caer tan bajo como otros aunque tengas unas ganas tremendas de dar a más de uno su merecido. En el fondo no eres así, y eso sólo trae mala vibra a tu vida. Cuando esas personas se acerquen a ti, mándalas bien lejos. Esta semana habrá algunos días en los que te costará levantarte y empezar con fuerza, pero trata de pensar que tienes que buscar una rutina, una forma de vida nueva, trata de pensar que cada día será mejor que el anterior. Hay buenas noticias Sagitario, noticias que estabas esperando desde hace mucho tiempo. Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no Sagitario, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
+Este es el momento de salir, dejarte ver y disfrutar de tus actividades sociales. Puede que hasta incluso tengas más invitaciones que tiempo durante los próximos días. Incluso con el acelerado ritmo lograrás divertirte. Las oportunidades para salir a citas con gente nueva también se vislumbran abundantes, al igual que las oportunidades de disfrutar de buenos ratos con tu pareja haciendo cosas que amas. Ciertas personas podrían ser menos cooperativos de lo que han sido una vez que Urano se torne retrógrado a partir del viernes, lo que podría ser un inconveniente.
 
 ## Dinero
 
-Esta semana hay actividad en tu sector de herencia y propiedad compartida. Necesitas prestar más atención a tu principal fuente de dinero - tu carrera. A pesar de que una herencia podría apoyar tus sueños a largo plazo, tu carrera te apoya emocionalmente también. El Universo te proporciona un mayor descanso del que pudiste haber gozado en los últimos tiempos. Puedes utilizar toda la estabilidad que pudiste haber reunido en otras áreas.
+Estás encaminado/a hacia un tiempo afortunado. No sólo te sientes más atractivo/a, también tienes una confianza agradable que los demás encuentran magnética. Esto durará durante las próximas semanas, así que asegúrate de recibir tratamiento de estrella durante ese tiempo. Eres presa de ideas creativas alrededor de tu casa. Sólo asegúrate de que tus planes no exceden tu presupuesto, o por lo menos ten un plan de factor de contingencia en caso de que te pases.
