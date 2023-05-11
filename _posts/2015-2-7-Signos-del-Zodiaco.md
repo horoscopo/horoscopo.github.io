@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 10 de mayo 2023
-description: Horóscopos del dia de hoy 10 de mayo 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 11 de mayo 2023
+description: Horóscopos del dia de hoy 11 de mayo 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-05-10
+ lastmod: 2023-05-11
 ---
-¡Qué bueno es comenzar a encontrar alegría en conversaciones cuando Mercurio inicia su tránsito en Libra! Sin embargo, puede que sea un poco más difícil tomar decisiones con respecto a cualquier cosa importante. A veces, cuando la Luna se encuentra en Acuario como lo hace esta noche, todos quieren ser tus amigos, algo que no es un mal comienzo para algo más serio.
+Los sentimientos son susceptibles el día de hoy. Por lo que no agites aún más las cosas cuando la Luna en el feroz Leo aspecte a Urano y a Plutón. Venus se encuentra a punto de cambiar de signo esta noche, cuando las parejas deberían de darse el beneficio de la duda. Solteros, el planeta del amor encontrándose en zona neutral despierta mucha incertidumbre. Este no es buen momento para empezar algo nuevo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
