@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 12 de mayo 2023
-description: Horóscopos del dia de hoy 12 de mayo 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 13 de mayo 2023
+description: Horóscopos del dia de hoy 13 de mayo 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-05-12
+ lastmod: 2023-05-13
 ---
-Marte aumenta tus avances estratégicos al encontrarse en el fino y dedicado Virgo. Es buen momento para alabar un poco tus propias acciones. ¿Cuál es el punto de hacer algo perfectamente si nadie más se entera de ello? Cuando Mercurio cuadra a Plutón, trata de evitar buscar una respuesta complicada cuando una sencilla está justo en frente de ti.
+Compite con tal de poder ganar cuando el Sol aspecte a Plutón y Marte forme sextil con el suertudo Júpiter el día de hoy. Esta noche irradias luz desde tu interior, cortesía de Venus en el efusivo Leo. El planeta del amor forma trígono con Saturno, restringiendo un poco a las relaciones, pero te percatarás de que es algo bueno. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
