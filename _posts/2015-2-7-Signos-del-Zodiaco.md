@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 14 de mayo 2023
-description: Horóscopos del dia de hoy 14 de mayo 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 15 de mayo 2023
+description: Horóscopos del dia de hoy 15 de mayo 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-05-14
+ lastmod: 2023-05-15
 ---
-Mantente alerta a las cosas que necesitan ser cambiadas. El proceso también incluye cambiar la opinión ya sea de uno mismo o de alguien más cuando la Luna en Cáncer se opone a Plutón. Esta noche, tu actitud es elusiva e incluso reclusa, cuando el deseo de cerrarte al mundo existe. En realidad, la tranquilidad es muy placentera.
+Ten receptividad al cambio el día de hoy. Es beneficioso y te apunta hacia direcciones lucrativas, una de las cuales podría ser una agradable sorpresa. Sal de tu caparazón y vuélvete el centro de atención bajo la Luna en Cáncer de esta noche. Es un momento de armonía doméstica para aquellas parejas que decidan quedarse en casa. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
