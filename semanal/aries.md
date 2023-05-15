@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: aries 08 de mayo 2023 al 14 de mayo 2023 
-description: Horóscopo semanal aries 08 de mayo 2023 al 14 de mayo 2023. Es difícil comprenderte Aries, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
+title: aries 15 de mayo 2023 al 21 de mayo 2023 
+description: Horóscopo semanal aries 15 de mayo 2023 al 21 de mayo 2023. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2023-05-08
+ogimg: /images/zodiac/semanal_aries.png#2023-05-15
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-05-08'
+ lastmod: '2023-05-15'
 ---
 
 
 
-## Es difícil comprenderte Aries, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
+## Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
 
-Es muy importante que eches la vista atrás Aries, que mires al pasado, que te des cuenta de lo que ya pasaste una vez y de lo que no quieres que se vuelva a repetir nunca mas. Valora lo que tienes ahora, y si el resto no lo hace contigo de la misma manera algo falla así que, ¡fuera! No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día. Esta semana toca reflexionar, toca poner en una balanza lo bueno y lo malo, toca comprender de verdad si estás haciendo lo que te gusta y lo que te hace feliz y sobretodo si estás con las personas que merecen la pena. Sólo tenemos una vida y, o cambias el chip y aprendes a aprovecharla o cuando mires atrás te lamentarás por todo el tiempo que has estado perdiendo. Sólo tenemos esas dos opciones.
-El romance es una posibilidad si estás de viaje. O puede que tengas la posibilidad de revivir la llama del amor si es que ya tienes pareja. De cualquier modo, alejarte de todo puede tener una positiva recompensa y darte la posibilidad de desconectarte de todo después de una época de agenda ocupada. Verifica los detalles si planeas viajar, ya que una extraña conexión entre el acelerado Mercurio y el etéreo Neptuno sugiere la posibilidad de cometer errores. Puede que debas enfocarte en los intensos sentimientos entre tú y una de tus amistades si es que quieres llegar a un acuerdo.
+Nadie se cura por herir a otro Aries. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que, a menudo pesa más de la cuenta, pero todo pasa, y todo llega. A muchos se les hace complicado entender por qué le das tantas vueltas a todo, por qué sufres momentos de ansiedad que parecen no calmarse con nada, por qué puedes llegar a ser tan autodestructivo con tus propios pensamientos… No olvidas nada, ese es el problema a veces, y también la virtud en otros momentos. Y es duro para el resto sí, pero más duro es para ti. Tienes que canalizar todo eso y llevarlo hacia lo productivo, mandar toda esa energía hacia lo que te hace feliz. Las traiciones están ahí, y no todo el mundo es como tú, no todo el mundo valora la sinceridad como tú lo haces, no todos tienen tu coraje… Debes aprenderlo para no caer en los mismos errores una y otra vez, y sobretodo para no hacerte daño.
+Podrías sentir la tentación de gastar en planes, eventos sociales y buenos momentos con amigos. Sin embargo, te irá mejor si puedes limitar la cantidad de dinero que gastas. Incómodos aspectos que surgen durante la semana sugieren que cuanto menos gastes, más fáciles serán las cosas para ti. Esto no quiere decir que no puedas divertirte, simplemente no serás capaz de elegir las opciones más caras. No hay garantía de que tales serán más divertidas, así que relájate y disfruta de lo que puedes pagar.
 
 ## Dinero
 
-Tus poderes psíquicos están a todo lo que da. Podrías hacer algo de dinero a través de la intuición pura. Estate en el lugar correcto en el momento adecuado para obtener información sobre una oportunidad nueva y excitante, como el tener cierto sentido sobre lo que pasará en la bolsa de valores o el soñar con la idea de un nuevo negocio. Tu creatividad también esta en un punto muy alto, sólo asegúrate de pagar cualquier deuda grande que tengas.
+Podrías estar considerando la forma de lograr realizar viejas esperanzas y sueños. Las amistades, los contactos sociales, las maniobras políticas y los grupos te ayudan a estar un paso adelante y establecerte como experto en tu campo. A medida que expandes tu influencia en estos reinos, haz todo lo posible para preservar las inversiones y propiedades compartidas. Si es necesario, gasta para mantenerlas o mejorarlas hasta que las puedas vender directamente.

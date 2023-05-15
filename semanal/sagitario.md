@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 08 de mayo 2023 al 14 de mayo 2023 
-description: Horóscopo semanal sagitario 08 de mayo 2023 al 14 de mayo 2023. Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies Sagitario, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres Sagitario, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
+title: sagitario 15 de mayo 2023 al 21 de mayo 2023 
+description: Horóscopo semanal sagitario 15 de mayo 2023 al 21 de mayo 2023. Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2023-05-08
+ogimg: /images/zodiac/semanal_sagitario.png#2023-05-15
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-05-08'
+ lastmod: '2023-05-15'
 ---
 
 
 
-## Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies Sagitario, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres Sagitario, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
+## Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
 
-Llegan oportunidades grandes Sagitario y muy buenas, pero cuidado, deja de flojear y de ver el lado negativo. Esta semana tienes que cambiar el chip, y cambiarlo de golpe. Las cosas irán bien. Si los recuerdos te invaden haz lo que sea para entretenerte y dejarlo ahí, a las puertas, sin que puedan entrar en tu cabeza y desestabilizarte. Ten cuidado y no pagues con la misma moneda los golpes que la vida te ha podido dar, no merece la pena caer tan bajo como otros aunque tengas unas ganas tremendas de dar a más de uno su merecido. En el fondo no eres así, y eso sólo trae mala vibra a tu vida. Cuando esas personas se acerquen a ti, mándalas bien lejos. Esta semana habrá algunos días en los que te costará levantarte y empezar con fuerza, pero trata de pensar que tienes que buscar una rutina, una forma de vida nueva, trata de pensar que cada día será mejor que el anterior. Hay buenas noticias Sagitario, noticias que estabas esperando desde hace mucho tiempo. Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no Sagitario, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
-Este es el momento de salir, dejarte ver y disfrutar de tus actividades sociales. Puede que hasta incluso tengas más invitaciones que tiempo durante los próximos días. Incluso con el acelerado ritmo lograrás divertirte. Las oportunidades para salir a citas con gente nueva también se vislumbran abundantes, al igual que las oportunidades de disfrutar de buenos ratos con tu pareja haciendo cosas que amas. Ciertas personas podrían ser menos cooperativos de lo que han sido una vez que Urano se torne retrógrado a partir del viernes, lo que podría ser un inconveniente.
+Tienes que ser tu prioridad ahora, tienes que cuidar de tus necesidades antes que de las demás Sagitario. Has perdido mucho por tomar decisiones que no eran las correctas, por intentar dar oportunidades en balde… Tienes que ser un poco egoísta Sagitario, ahora más que nunca. Tu tiempo vale oro pero últimamente parece que no lo valorabas como tal, dedícate a las cosas importantes, las que te van a dar frutos, las que te van a hacer sentir bien contigo mismo/a. Muévete del sitio en el que estás si eso no lo encuentras, cambia de país, de ciudad, de barrio, de entorno. Lo que sea Sagitario, cambia lo que sea para alcanzar lo que crees que puedes. Piérdete las veces que haga falta, prueba aunque no estés seguro de si las cosas saldrán bien o mal, si tu corazón y tu instinto te llaman, ves. Cuida de tus emociones Sagitario, cuídalas bien y que ahora sean lo más importante de todo. Tienes derecho a elegir qué tipo de gente quieres en tu vida, puedes alejarte de las amistades tóxicas Sagitario, debes olvidarte de las conexiones que sabes que no van a ningún lugar. Esta semana tienes que planificarlo todo, tienes que comprender que si no das el paso tú nadie lo hará, es sólo un empujón hacia tus sueños y tus metas. No te estanques, y vuelve a ponerte el primero en todo.
+Puede que esta semana un espíritu festivo te invada con fuerza mientras que el despreocupado Venus y el extravagante Júpiter conectan en tu sector social. Es una oportunidad para organizar una reunión o disfrutar de asistir a fiestas y eventos. Si te estás preparando para un evento que sucederá la próxima semana, escribir una lista de tareas puede ser muy útil. Con el fantasioso Neptuno en la escena, podrías olvidarte de algo importante. Si puedes, sería prudente evitar una discusión el fin de semana.
 
 ## Dinero
 
-Estás encaminado/a hacia un tiempo afortunado. No sólo te sientes más atractivo/a, también tienes una confianza agradable que los demás encuentran magnética. Esto durará durante las próximas semanas, así que asegúrate de recibir tratamiento de estrella durante ese tiempo. Eres presa de ideas creativas alrededor de tu casa. Sólo asegúrate de que tus planes no exceden tu presupuesto, o por lo menos ten un plan de factor de contingencia en caso de que te pases.
+Hay algunos desafíos en tu camino esta semana. Las relaciones son clave para tu éxito ahora, y el Universo te está empujando hacia ellos de una manera no tan sutil. El socializar es ante todo divertido, pero también puede ponerte en contacto con importantes clientes nuevos que podrían serte útiles en el futuro.

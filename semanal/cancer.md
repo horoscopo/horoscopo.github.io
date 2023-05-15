@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 08 de mayo 2023 al 14 de mayo 2023 
-description: Horóscopo semanal cancer 08 de mayo 2023 al 14 de mayo 2023. No es que estés cambiando Cáncer, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
+title: cancer 15 de mayo 2023 al 21 de mayo 2023 
+description: Horóscopo semanal cancer 15 de mayo 2023 al 21 de mayo 2023. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2023-05-08
+ogimg: /images/zodiac/semanal_cancer.png#2023-05-15
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-05-08'
+ lastmod: '2023-05-15'
 ---
 
 
 
-## No es que estés cambiando Cáncer, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
+## Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
 
-Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. Quieres perder el interés de algunas cosas pero no puedes. Sabes de sobra lo que está bien y lo que está mal, lo que deberías dejar a un lado ya pero a la hora de la verdad, sientes como si algo te atrapara, como si no pudieras decir “hasta aquí” definitivamente, como si no pudieras alejarte del todo de verdad. Pero en vez de marcharte, te quedas, y te quedas de mala hostia, y te enzarzas en pensamientos negros, en peleas tontas y en discusiones que no merecen la pena. Tu te quieres mucho, y sabes lo que vales, pero a la vez te dejas llevar, esa pasión incontrolada es la causante de tus alegrías más grandes y de tus dolores de cabeza más intensos. Y no puedes parar. Y te sientes encerrado en un círculo, un círculo del que cuando empiezas a salir te jala para adentro otra vez… Está bien echarle picante a la vida Cáncer, en serio, está bien que haya un poquito de locura, pero no te pases porque al final vas a acabar por pagar un precio alto por esto. Ahora puedes con todo Cáncer, recuperarte te lleva un par de días o tres pero, ¿es lo que quieres para tu futuro? No mantengas demasiado lo que debería estar muy lejos de ti.
-Puedes ser parte de un proyecto que mejore tu reputación. La posición del Sol en una parte más privada de tu carta indica que este es el momento para dar un paso atrás, ya que puedes tener ideas importantes sobre tu propósito y a dónde te diriges en la vida y qué es lo que realmente quieres. La entrada de Venus en tu sector de dinero puede llevarte a que gastes en algunos lujos, quizá en un obsequio para ti o para alguien más; algo que realmente podrías disfrutar.
+Acepta las ofertas que creas que debas aceptar y sobre todo, cree en ti, porque solo o acompañado puedes hacer lo que quieras, puedes llegar hasta donde quieras llegar… Empieza a dedicarle todo el tiempo del mundo a lo que te hace feliz, lo necesitas. Las dudas han quedado atrás, ya te lanzas, y más cuando te estás dando cuenta que si sientes que vas a apostar para ganar tienes que hacerlo ya. Esta semana es muy probable que empieces a abrir los ojos ante cosas nuevas, van a ofrecerte demasiado, conocen tu talento, pero debes ser hábil para elegir qué es lo que más te conviene, qué es lo que realmente necesitas y qué es lo que te hará crecer en un futuro. A la mierda lo demás Cáncer. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora. Algo muy importante que debes saber es que cuando hagas lo que deseas, procura mandar muy lejos lo que no deseas, ¿y por qué? Porque al final lo que está podrido acabará por pudrir al resto de cosas. Es decir, si empiezas con buen pie algo pero tienes un lastre de cosas o personas que lo que te hacen es que de nuevo vayas hacia atrás, jamás vas a progresar, nunca. Por eso, aleja primero las cosas que debas alejar y cuando estés libre totalmente de ese tipo de negatividad, lánzate a hacer lo que más te gusta, y dedícate a ello al 100%. Te espera una buena semana pero por favor, deja de pensar en idioteces que no te sacan de nada.
+Prepárate para una semana interesante en la que tendrás el deseo de ampliar tus horizontes. Lo único que podría impedírtelo sería cualquier duda que pudieras estar albergando. Alguien podría intervenir como tutor, animándote a expandir tu zona de confort y probar. La Luna Nueva del 19 es el momento perfecto para anotar tus objetivos para ésta y la próxima semana y emocionarte enormemente para alcanzarlos. ¡Todo lo que se necesita es que des el primer paso!
 
 ## Dinero
 
-Tienes una semana de mucho trabajo por delante con planetas afectando tu sector de carrera y autoridad. Estás asumiendo una posición más poderosa en el trabajo ahora, y posiblemente un título o una nueva posición junto con ello. Celebra tu éxito en lugar de buscar una posición aún mayor. Ciertos aspectos indican un momento de tener más seriedad en el desarrollo de redes de profesionales que te pueden apoyar en los momentos de apuro.
+Provees un par de ojos frescos a los acontecimientos de esta semana con actividad en tu sector de apariencias. Una amistad puede tener una sugerencia útil sobre cómo ganar más dinero o conseguir la promoción que has estado buscando. Incluso si no piensas igual, escucha a esta persona. Tal ve esta situación con más claridad que tú. Se te pide traer un lado mucho más serio de tu personalidad a la mesa.
