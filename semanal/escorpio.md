@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 15 de mayo 2023 al 21 de mayo 2023 
-description: Horóscopo semanal escorpio 15 de mayo 2023 al 21 de mayo 2023. Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
+title: escorpio 22 de mayo 2023 al 28 de mayo 2023 
+description: Horóscopo semanal escorpio 22 de mayo 2023 al 28 de mayo 2023. La guerra que tienes dentro está deseando encontrar un poco de paz Escorpio, de verdad, ya no puede aguantar tanto. ¿Qué pasa con tus metas, con tus objetivos? Primero debes ponerte a ti mismo ahora. ¿No te acuerdas de cuantas cosas has rechazado por amor? ¿o de cuanto has dejado de lado?
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2023-05-15
+ogimg: /images/zodiac/semanal_escorpio.png#2023-05-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-05-15'
+ lastmod: '2023-05-22'
 ---
 
 
 
-## Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
+## La guerra que tienes dentro está deseando encontrar un poco de paz Escorpio, de verdad, ya no puede aguantar tanto. ¿Qué pasa con tus metas, con tus objetivos? Primero debes ponerte a ti mismo ahora. ¿No te acuerdas de cuantas cosas has rechazado por amor? ¿o de cuanto has dejado de lado?
 
-Eres más resistente que nunca, tienes más poder sobre ti mismo y has sobrevivido. Incluso cuando pensabas que no volverías a sonreír de nuevo, lo has hecho. Incluso cuando las peores circunstancias te estaban dejando sin fuerzas, le echaste valor y saliste adelante.
-Tratar de hacer cualquier avance esta semana podría ser complicado. Los demás pueden ser bastante demandantes, y sus necesidades podrían ocupar una gran parte de tu tiempo y energía. Tú también tienes planes con los que debes cumplir, e incluso la presencia de Mercurio retrógrado puede provocar demoras. Si sientes demasiada presión, tendrás que poner límites firmes. Hazles saber a los demás que solo puedes cumplir hasta determinado punto y mantente firme. La capacidad de decir que no y mantenerte firme en tu respuesta puede resultarte especialmente útil en los próximos días. 
-Aun así, tus amistades podrían brindarte mucho apoyo y tener ganas de ayudarte en lo que puedan. Cuando el encantador Venus, que está en tu sector social, se dirige al ejemplar Saturno el fin de semana, alguien podría intervenir o darte un invaluable consejo. No sientas que debes manejar esta situación sin ayuda; simplemente pídela.
+No sabes muy bien qué hacer con tus sentimientos, si guardarlos en un cajón y esperar a que se tranquilicen o si sacarlos y dejan que fluyan como locos.
+El panorama podría intensificarse esta semana. Cuando tu planeta regente, conecta con el poderoso Plutón, podrías sentir una imperiosa necesidad de seguir adelante con un plan. Y cuando ambos planetas conectan con el jovial Júpiter, la idea de dar un gran paso hacia adelante parece algo natural. Pero ¿lo es? Puede que sea prudente pedir otra opinión antes de dar el paso. 
+ Cuando el encantador Venus ingresa a Géminis y a tu sector de comunicación el martes, te resultará sencillo tranquilizar a los demás. Esto puede ser útil en algunas de las situaciones en que te encuentres. El miércoles podría encontrarte en desacuerdo con una persona y es posible que debas llegar a un acuerdo para poder avanzar. Por último, la luna el domingo podría animarte a hacer algunos gastos cuando la mejor opción puede ser un masaje o un tratamiento de spa.
 
 ## Dinero
 
-Es posible que te hayas estado preocupado por dinero últimamente, sobre todo tu deuda, la cual podría haber permanecido sin resolver durante gran parte del año. Ahora, con algunos aspectos positivos, es el momento de abordarla por última vez. Esto podría implicar el corte de las tarjetas de crédito. O podría tratarse de hacer un plan de pago al que puedas apegarte hasta que sea pagado. Puedes finalmente hacer que suceda, así que no te demores.
+Puede que te encuentres en plena acción, llamando a compañías de tarjetas de crédito, pagando saldos y destruyendo viejas tarjetas de crédito. ¡Buen trabajo! Esta misma ráfaga de energía te ayudará a establecer un curso financiero nuevo en este momento de tu vida. Sin embargo, tu lugar de trabajo podría necesitar un cambio. Sin embargo, es demasiado pronto para renunciar, así que trata de verle la mejor cara.

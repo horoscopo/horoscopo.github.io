@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 15 de mayo 2023 al 21 de mayo 2023 
-description: Horóscopo semanal capricornio 15 de mayo 2023 al 21 de mayo 2023. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
+title: capricornio 22 de mayo 2023 al 28 de mayo 2023 
+description: Horóscopo semanal capricornio 22 de mayo 2023 al 28 de mayo 2023. Tómate un tiempo Capricornio, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2023-05-15
+ogimg: /images/zodiac/semanal_capricornio.png#2023-05-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-05-15'
+ lastmod: '2023-05-22'
 ---
 
 
 
-## Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
+## Tómate un tiempo Capricornio, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
 
-Tu cabeza quiere un cambio Capricornio, y tu corazón también, y te lo está pidiendo a gritos pero sigues siendo testarudo cuando quieres, y muchas veces aunque a tu alrededor haya una vibra negativa casi imposible de aguantar, tú te la echas a la espalda y la aguantas como el que más. Pero mira Capricornio, no se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo. A veces, parece que no quieres salir de tu estado de confort, de esa zona en la que de confort en el fondo hay poco. Y no quieres salir por miedo a encontrarte cosas peores pero Capricornio por favor, si lo que hay no te llena o no te realiza como persona algo tendrás que hacer ¿no? Esta semana vas a tener sensaciones muy diferentes, sentimientos con un pasado que no es tan pasado. Tienes que acordarte de muchas cosas, acordarte de que eras feliz antes de tener lo que tienes ahora, de que debes seguir creciendo, de que has de liberarte de algunas expectativas muy grandes que tenías y que después han resultado ser falsedad y mentira… Arréglate y déjate de perezas, sal, disfruta, respira aires nuevos y cambia el chip.
-Venus entrando a tu sector de comunicación podría animarte a negociar en lugar de hacer algo un poco más drástico, especialmente cuando se trata de problemas interpersonales. La Luna Nueva manifestándose en el mismo sector también podría empujarte a tomar acción, pero en este caso, es posible que desees resolver el asunto de una vez por todas; lo que podría significar abandonar una relación incómoda. Si eliges las palabras correctas, puede que no sea tan difícil como parece serlo.
+Capricornio, que estés triste de vez en cuando no es malo, que saques lo que tienes dentro desde hace mucho tiempo tampoco… Esta semana llegan momentos así, pero no hay que darle mayor importancia. La tristeza no viene a castigarte ni tampoco es una señal de que no estás evolucionando o de que te estás alejando de la luz o de la paz… No has hecho nada malo Capricornio. La tristeza se tiene que curar sola, abre bien los ojos y deja que te muestre el camino si lo has olvidado, deja que te haga sentir otra vez lo que vales, lo que debes hacer, deja que te ilumine, deja que te recuerde los errores que cometiste para que no vuelvan a darse. Y verás cómo agradecerás después haber estado triste, haber estado por momentos solo, haber recordado tantas cosas…
+A medida que Mercurio, tu planeta personal, entra en su fase retrógrada en tu sector espiritual, puedes utilizar esta oportunidad para conectar con tu ser más profundamente. Este tránsito puede ser particularmente útil para llevar un diario de sueños. Mientras más familiaridad tengas con los mensajes de tu mente subconsciente, mejor comprenderás la orientación que pueden ofrecerte. Cuando Venus entre a este mismo sector al final de la semana, la oportunidad de ofrecer tu tiempo para ayudar a los demás podría ser muy gratificante.
 
 ## Dinero
 
-Es probable que esta semana encuentres más de una zona de la cuál sacar más dinero en efectivo. Como un imán, los aspectos te colocan en el lugar correcto en el momento adecuado para conocer a las personas adecuadas. Tu personalidad dará una buena impresión. Es tu sector de vidas pasadas, karma y sueños el que está haciendo una contribución clave a esto. Incluso si no es inmediatamente obvio, estás siendo conducido/a en la dirección financiera adecuada.
+Esta semana hace hincapié en la seguridad, dinero y valores. Un aspecto armonioso te da licencia para gastar en ese viaje que has estado deseando hacer, ese taller de fin de semana que te traerá más dinero en efectivo a largo plazo e incluso esa idea creativa que ha estado deambulando en la parte trasera de tu cerebro. Haz que suceda y estarás feliz por ello.

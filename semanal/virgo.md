@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 15 de mayo 2023 al 21 de mayo 2023 
-description: Horóscopo semanal virgo 15 de mayo 2023 al 21 de mayo 2023. No te permitas sentir la presencia de nada que tenga ya que ver con el pasado Virgo, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
+title: virgo 22 de mayo 2023 al 28 de mayo 2023 
+description: Horóscopo semanal virgo 22 de mayo 2023 al 28 de mayo 2023. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2023-05-15
+ogimg: /images/zodiac/semanal_virgo.png#2023-05-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-05-15'
+ lastmod: '2023-05-22'
 ---
 
 
 
-## No te permitas sentir la presencia de nada que tenga ya que ver con el pasado Virgo, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
+## Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
 
-Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después. Te propusiste no dar tanta importancia a problemas que sabes que no están en tus manos así que, inténtalo de verdad, si no está en tus manos arreglarlo, para qué vas a torturarte. 
- Busca siempre la parte buena de cada momento en el que te encuentres.
-A pesar de que la semana pudiera parecer menos productiva de ciertas maneras, hay mucho sucediendo detrás de escenas que es muy importante. El actual enfoque en un sector más apartado de tu carta te invita a sumergirte de lleno y utilizar recursos ocultos que podrían inspirarte y motivarte. Una idea realmente podría emocionarte, y si ese es el caso, tal vez debas darle seguimiento. Cuida tus finanzas una vez que Urano se torne retrógrado a partir del viernes.
+Eres demasiado honesto con el resto Virgo y a pesar de que a veces quieras esconder tus sentimientos, no puedes, y en el fondo llevas siempre el corazón en la manga… Es difícil comprenderte Virgo, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones… Es complicado para ti encontrar a alguien que de verdad comprenda que sólo es miedo al dolor, que tú lo que quieres es amor, amor de esos de película, romance puro, dulce, fiel y sincero… Que quizás con un abrazo se solucionaría tanto, con una palabra bonita, con un “te quiero” o “estoy aquí”… Pero no lo pides… Ni tampoco quieres. Siempre fuiste de los que prefieren esperar a que al resto les salgan los detalles. Y es complicado, complicado porque has estado más destrozado de lo que has sido querido. No confías fácilmente, siempre estás alerta, esperando esa “puñalada”, esperando esa traición… Tienes que cambiar el chip Virgo, tienes que tratar de fiarte en quien de verdad te está demostrando confianza. No renuncies a las cosas bonitas, no renuncies a empezar un nuevo camino, a dejarte querer, no renuncies a ser temerario de vez en cuando, no renuncies a encontrar sensaciones nuevas porque a veces parezca que hay más seguridad en tu soledad. Es complicado encontrar algo cuando no sabes bien qué es lo que buscas… Mira en tu interior y no desesperes, llevará su tiempo, pero lo vas a encontrar. Observa las señales.
+Si sientes que un cambio de estilo de vida está en orden, ésta podría ser una semana muy positiva para ponerlo en práctica. De hecho, es posible que desees hacer borrón y cuenta nueva, sobre todo si no lograste hacerlo el mes pasado. Pon en marcha tus resoluciones - lograrás un mayor progreso en esta ocasión. Finalmente, podría haber un choque de ideas entre tú y tu pareja o un interés romántico sobre varios asuntos y cuestiones de libertad personal. Esto tendrá que ser discutido para que su relación siga avanzando.
 
 ## Dinero
 
-Las relaciones serias en tu vida y los problemas financieros que compartes se destacan esta semana. El tener esa importante conversación con tu pareja puede ayudar a aliviar los problemas de dinero antes de que se manifiesten, no después. Eres capaz de utilizar tus habilidades de comunicación para convencer a otros de que tú y tus proyectos son dignos de inversión.
+Es una semana de desarrollo en tu sector de relaciones. Esto podría significar que alguien a quien has dudado contactar es todo oídos ahora, o que recibes energía de apoyo para ir más profundo, ya sea personal o profesional. Si has estado buscando una fusión de empresas, el Universo puede ayudarte. Mientras tanto, tu vida en el hogar necesita más atención y algunos gastos adicionales.

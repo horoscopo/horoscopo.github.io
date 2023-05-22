@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 15 de mayo 2023 al 21 de mayo 2023 
-description: Horóscopo semanal piscis 15 de mayo 2023 al 21 de mayo 2023. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
+title: piscis 22 de mayo 2023 al 28 de mayo 2023 
+description: Horóscopo semanal piscis 22 de mayo 2023 al 28 de mayo 2023. Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2023-05-15
+ogimg: /images/zodiac/semanal_piscis.png#2023-05-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-05-15'
+ lastmod: '2023-05-22'
 ---
 
 
 
-## Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
+## Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
 
-La gente no hará siempre lo que tu quieres, la gente no agradecerá ni te dará lo mismo a ti, pero no, no te decepciones, es tiempo de dar un giro a todo. Sinceramente ¿de qué te saca dar más vueltas de lo debido a cosas que realmente no te hacen bien? Entrena tu mente, entrénala para ver las cosas buenas hasta en lo peor. Lo que parecía que no tenía solución, de repente lo tiene, las excusas que a veces ponías sólo por el miedo a que algo peor pasara ya no están. La felicidad se puede hallar hasta en los momentos más oscuros si somos capaces de usar bien la luz, y de eso, estás más seguro que nunca. Pues adelante Piscis, la luz está en tus manos, solamente tienes que alumbrar lo que de verdad te conviene, ya basta de ir detrás de cosas o personas que lo que intentan hacer es apagarte, eres fuerte, y estás conociendo gente nueva que puede apoyarte en todo. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
-Mantén una mente abierta esta semana y no te limites a lo ya conocido y ya probado. En lo que respecta a tu trabajo y carrera profesional, cierta conversación podría revelar opciones que podrían parecer un tanto descabelladas. Sin embargo, si esta persona también puede proporcionarte pruebas, podría terminar persuadiéndote. El Eclipse Solar del Sábado te alienta a estudiar activamente y adquirir conocimiento en áreas clave. De esta manera, podrás ponerte en camino hacia un mejor trabajo, mejores tratos de negocios, y un mayor ingreso en el futuro.
+Mira Piscis, tú ahora tienes que ser tu prioridad, y el resto también debería tratarte como eso. No puedes conformarte siempre con estar en segundo lugar, no puedes conformarte con lo que tienes o con lo que parece que la vida te da. Tú eliges tu vida sí, y tú también cometes errores al escoger caminos que al final no estaban hechos para ti. Pero de eso se trata ¿no? De aprender, lo más rápido que puedas, y de desechar cuando algo no funciona. Hazte valer Piscis, hazte valer con las personas que te rodeas, tienen que hacer un esfuerzo por tenerte contento, por tenerte feliz… No te mereces menos. No puedes ser siempre la persona que ayuda al resto mientras recibes una cuarta parte, o a veces incluso nada de vuelta; no puedes ser quien espera los mensajes de regreso, quien espera que las promesas se cumplan… En serio, siempre estás haciendo todo lo posible para que las personas que están cerca de ti se sientan cómodas a tu lado, pero no siempre recibes lo mismo del resto. Si no hay un interés real empieza a mandar a la mierda, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… No te conformes con los segundos lugares de nada. Ahora y siempre mereces ser una prioridad.
+El lunes podría coincidir con el deseo de sólo dedicarte a lo tuyo. Una atracción instantánea podría darte ansias por saber más. Con tu sector de ocio, placer y romance bajo enfoque, esta semana podría no ser la mejor para encontrar y mantener el amor. Una complicada mezcla de influencias sugiere que sentimientos de desconfianza y sospecha podrían arruinar un nuevo o incluso largo romance. Sin embargo, si no hay hechos concretos, puede que sea mejor esperar y ver qué pasa.
 
 ## Dinero
 
-Puede que sientas  como que el Universo apoya tus proyectos y metas esta semana. Pero puede que tengas que acceder a tus poderes de comunicación para expresar tu opinión y obtener lo que viene a ti financiera y de otras formas. En otras noticias, las indicaciones muestran que tu panorama de deuda está a punto de mejorar muchísimo. Has hecho un buen trabajo, por lo que disfruta de las recompensas.
+Lo tuyo es el poder ahora. Los demás acuden a ti en busca de respuestas y tú se las proporcionas - por un precio. Cierta tensión puede surgir entre tu tiempo de descanso y tu imagen. Cierta actividad en tu sector de viajes y educación superior indica que piensas en qué parte te vendría bien reforzar tus habilidades. Clases de fin de semana podrían permitirte cobrar más.
