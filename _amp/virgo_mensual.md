@@ -1,21 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Virgo Mayo 2023 
+title: Horoscopo Virgo Junio 2023 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Virgo_mes.png#2023-04-28
+ogimg: /images/mes/Virgo_mes.png#2023-05-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-04-28'
+ lastmod: '2023-05-28'
 ---
 
 
-Te sentirás con energía (tal vez, demasiada) durante la Luna Llena del 5 de mayo. Mantén una vida diaria simple y no te distraigas con interrupciones ni preocupaciones de personas que están mucho más distraídas que tú. Es un periodo de tiempo ajetreado, y muchos podrían descontrolarse. La Luna Nueva del 19 de mayo viene cargada de energía y ambición. Podría ser difícil pensar sin sentir distintas emociones. Si evitas la impaciencia o impulsividad, todo puede estar bien. El 28 de mayo, la conjunción entre Mercurio y Marte en Cáncer te otorga capacidades y poder adicional para lograr algo difícil que ha estado pendiente.
-
-Mejores días: 4, 10, 21
-Peores días: 13, 30
+Te sentirás el centro de atención durante la luna llena del 4 de junio. Siéntete importante y popular sin importar quién esté o qué estés haciendo. Siente la magia y se hará real. La creatividad abunda con la luna nueva del 18 de junio. Haz algo bello, romántico, delicioso, elegante y quizá hasta un poco sexy también. Es muy probable que el evento sea en tu hogar en vez de en un lugar público. Compra nuevos utensilios, compra flores y vístete elegante para sentirte bien. Puede que sea hora de decirle adiós a una de tus fantasías cuando Venus se oponga a Neptuno el 29 de junio. Esto dará paso a una realidad más agradable. 

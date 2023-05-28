@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: Horoscopo Géminis Mayo 2023
-description: El Horóscopo Mayo de Géminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Géminis Junio 2023
+description: El Horóscopo Junio de Géminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/geminis/
 amplink: /horoscopo-mensual/amp/geminis/
 home: FALSE
-keywords: horóscopo mayo, horoscopos en español, horóscopo Géminis mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Géminis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo junio, horoscopos en español, horóscopo Géminis junio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Géminis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/geminis_mes.png#2023-04-28
+ogimg: /images/mes/geminis_mes.png#2023-05-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-04-28'
+ lastmod: '2023-05-28'
 ---
 
 
- > Géminis, tendrás que estar atento a tus reacciones si quieres que mayo sea todo un éxito para ti. Tu instinto dicta que vayas directo al grano para conseguir lo quieres y tienes razón, porque la suerte te sonreirá. Sin embargo, ten en cuenta a los que te rodean y sus opiniones y evitarás ser el centro de las críticas. Utiliza sabiamente tu franqueza natural.
+ > Géminis, parece que en junio no va a haber quién te pare y vas a cumplir todo lo que te propones. En el amor por fin pasarás página y te vas a centrar en lo que de verdad importa: tú misma.
 
 
 
-Será difícil quitarte la sonrisa de la cara este mes, estimable Géminis, porque el sol, Venus y Mercurio en Sagitario transitan por el sector de tu carta astral que rige el amor. Este clima cósmico te enamorará de tu vida y del mundo que te rodea, por lo que es el momento ideal para nutrir tus relaciones más valiosas. Si estás buscando una nueva pareja, estas vibras son perfectas para salir. Sin embargo, cuidar de ti y mantener el equilibrio en tu corazón y mente cumplirán un papel vital para sobrevivir a la temporada, así que intenta no dispersarte demasiado entre los compromisos sociales y el trabajo.
-La luna llena el 5 de mayo acompañada del eclipse lunar, trae fuerza, encanto y popularidad a tu vida. Una conjunción entre la luna y Marte despierta profundas pasiones en tu interior, llamándote a que reconozcas lo que más desea tu corazón. Sin embargo, será fácil confundir lujuria con amor en este momento, así que intenta no adelantarte cuando se trata de nuevas relaciones. Este evento lumínico también aumentará tu motivación, aunque deberás tener en cuenta hacia dónde diriges tu atención si deseas aprovechar al máximo estas alentadoras vibras.
-El solsticio de invierno comienza cuando el sol ingresa a Capricornio y al sector de tu carta astral que rige la transformación personal el día 21. Esta ubicación solar puede ayudarte a liberar cualquier carga que hayas acumulado durante el año y así poder hacer espacio para mejores y más saludables oportunidades en el 2023. La luna nueva del día 19 te alienta a que aproveches tu poder personal, alejándote de cualquier cosa o persona que no esté aportando positividad a tu vida.
-Días destacados: 6, 15, 19
-Días desafiantes: 1, 8, 29
+Mantén un estricto control de tus finanzas, Géminis, porque Saturno y Urano forman una cuadratura en la primera mitad del mes. Este clima cósmico puede generar gastos imprevistos en cualquier momento, por lo que quizás quieras llenar tu cuenta bancaria con algo de dinero extra en caso de emergencia. Por suerte, con el sol y Venus transitando por Géminis y el sector de tu carta natal que rige las ambiciones profesionales, tendrás la oportunidad de avanzar en tus objetivos laborales, lo que puede ayudarte a conseguir algún ingreso extra.
+Te expresarás más en la oficina cuando Mercurio entra a Libra el 10 de junio, lo que te alentará a compartir ideas e invertir más tiempo en socializar con tus colegas. En las próximas semanas, hacer nuevas conexiones se sentirá más orgánico, y las relaciones que forjes ahora podrían abrirte puertas en el futuro. Si tienes que seguir formándote o necesitas una nueva certificación para ascender en tu empresa, utiliza esta energía como motivación para iniciar este proceso, ya que tu mente absorberá más fácilmente la información relacionada con tu profesión.
+Notarás un cambio cuando el sol y Venus entran al signo de Cáncer el día 21, lo que te hará entrar en un estado mental social y a la vez estratégico. Estas energías son perfectas para crear un círculo social, ya que los astros te bendicen con un encanto magnético que es perfecto para atraer a nuevas amistades. Si has estado esperando para abrirte camino en la escala social, ahora sería un buen momento para avanzar y establecer relaciones con personas a las que admiras. Solo recuerda no dejar que tus ganas de tener popularidad o fama se interpongan en tu autenticidad. Intenta avanzar únicamente con buenas intenciones.
+Días destacados: 3, 6, 13
+Días desafiantes: 5, 12, 19

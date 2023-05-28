@@ -1,22 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Escorpio Mayo 2023 
+title: Horoscopo Escorpio Junio 2023 
 permalink: /horoscopo-mensual/amp/escorpio/
 normallink: /horoscopo-mensual/escorpio/
 home: FALSE
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Escorpio_mes.png#2023-04-28
+ogimg: /images/mes/Escorpio_mes.png#2023-05-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-04-28'
+ lastmod: '2023-05-28'
 ---
 
 
-Chispas de inspiración encenderán un fuego dentro de ti este mes cuando el sol en Tauro arde intensamente en tu novena casa solar. Estas vibras están listas para llevarte en algunos viajes de la mente, aunque puede que también sientas ánimos de empacar para realizar alguna exploración física. Ya sea que te encuentres fantaseando en tu escritorio o estés por embarcarte en una aventura, permítete dejar atrás lo que se espera de ti. Simplemente no dejes que este sentimiento te acompañe muy lejos, querido Escorpio. Aún necesitas ocuparte de tu trabajo y tus responsabilidades.
-Tu intuición también recibirá un buen impulso de esta posición solar mientras el universo busca formas de guiarte y comunicarse contigo. Sin embargo, tu tercer ojo podría comenzar a frustrarte cuando la luna nueva se manifiesta en el sector de tu carta astral que rige la comunicación y los procesos mentales el 19 de mayo. Este clima cósmico podría ponerte ante una encrucijada, ya que Luna te hace romantizar tu futuro mientras que Plutón te enfrenta a la dura realidad logística que rodea esos sueños. No te desanimes por el trabajo que aún tienes por hacer. En su lugar, hazlo poco a poco.
-La temporada de Gñeminis comienza el día 21, lo que cambia tu enfoque hacia tus ambiciones profesionales. Estas vibras pueden jugar un papel fundamental en el crecimiento de tu carrera durante el próximo año, pero necesitarás ser paciente durante el proceso. En vez de sentir ansiedad por un ascenso, busca formas de mostrar tus talentos inigualables. Tomar un par de turnos o tareas extras pondrá el centro de atención en tu lealtad y ética de trabajo, lo que no pasará desapercibido por tus superiores.
-Días destacados: 2, 19, 30
-Días desafiantes: 10, 18, 22
+El 4 de junio, la luna llena quiere que estés saludable y feliz en todas las pequeñas cosas que haces día a día. Aprecia algo pequeño, ya sea una planta que florece en tu casa o una nueva taza para el café, y date cuenta de que, en realidad, que sea pequeño no significa que sea insignificante. La luna nueva del día 18 te promete un tiempo de descanso en privado muy enriquecedor. Úsalo con discreción, a solas o con algunas personas cercanas especiales, y adopta perspectivas que pueden mejorar el resto de tu año. El 30 de junio, la actividad lunar está cargada de amor y afecto. Puede que no aparezca tu alma gemela, pero es una posibilidad. 

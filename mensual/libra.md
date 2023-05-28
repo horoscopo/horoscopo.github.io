@@ -1,31 +1,27 @@
 ---
 layout: horoscopos
-title: Horoscopo Libra Mayo 2023
-description: El Horóscopo Mayo de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Libra Junio 2023
+description: El Horóscopo Junio de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/libra/
 amplink: /horoscopo-mensual/amp/libra/
 home: FALSE
-keywords: horóscopo mayo, horoscopos en español, horóscopo Libra mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Libra, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo junio, horoscopos en español, horóscopo Libra junio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Libra, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/libra_mes.png#2023-04-28
+ogimg: /images/mes/libra_mes.png#2023-05-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-04-28'
+ lastmod: '2023-05-28'
 ---
 
 
- > Libra nuevas ilusiones llegarán a tu vida durante el mes de mayo. Los buenos aspectos astrales de los que disfrutará tu signo, te ayudarán a que pases página y te olvides de ciertos asuntos que te han mantenido distraída, malhumorada y hasta triste.
-Procura no poner demasiado énfasis en esa relación que en el fondo sabes que no tiene futuro y céntrate más en otras prioridades que tienes desatendidas, pero que son mucho más importantes.
+ > Libra, después de unos meses en los que no te ha dado tiempo ni a pararte a pensar, por fin llega un mes de junio en el que sabrás de verdad lo que quieres, lo que servirá para tomar las riendas de tu vida para encontrar así el equilibrio.
 
 
 
-Venus se torna retrógrado en Escorpión el 5 de mayo. El amor se vuelve incluso más serio, misterioso y profundo. Puede que quieras entrar de cabeza en una relación, pero posponer los compromisos formales hasta después del 16 de mayo es tu mejor opción. 
-Los momentos personales de tranquilidad son de gran importancia durante la luna llena del día 5. Vuelve a entrar en contacto con tus propios pensamientos e impresiones internas y profundas. No importa si tienes mucho qué hacer, pon en tu agenda más tiempo libre para ti. 
-El 10 de mayo, Mercurio forma una oposición con Urano. Tu intuición funciona perfectamente sin saber todo antes de tiempo. 
-Cuando el sol forma una cuadratura con Plutón al día siguiente. Tienes derecho a tener algunas inseguridades. Sin embargo, no te paralices, en cambio, haz algunos cambios y mejoras. 
-Puedes correr, pero no puedes esconderte de la luna nueva del 19 de mayo. Irradias encanto, y las personas te encontrarán. Quieren agradarte sin importar cómo te sientas o qué hagas. Alguien totalmente inesperado podría acercarse a ti. 
-Días destacados: 13, 18, 27
-Días desafiantes: 2, 10
+El mes de junio te trae un reconocimiento importante.
+El 7 de junio comienza el mes de la Cabra de fuego yin. Durante las próximas cuatro semanas, tendrás más oportunidades financieras que lo normal. Además de las fuentes de ingreso que ya tienes, puede que una persona te proponga hacer negocios. Quizás quiera asociarse a ti o hacer una colaboración con su negocio y el tuyo. Caballo, si trabajas para otra persona, tus ventas pueden incrementar o puedes obtener un aumento.
+La luna llena hace su aparición el día 4, y esto puede ayudarte a enfocarte en hacer arreglos en el hogar durante las próximas dos semanas. Caballo, quizás busques un contratista o un plomero para que repare tu lavabo, pero es posible que puedas hacer la reparación por tu cuenta. Te sentirás la persona más capaz del mundo cuando veas un tutorial en Internet, encuentres el problema y lo soluciones sin ayuda externa.
+La luna nueva hace su aparición el 18 de junio. Caballo, eres una persona social por naturaleza y, últimamente, has disfrutado interactuar y conectar con otras personas más que otras veces. Puede que ahora te des cuenta de cuánto te gusta estar en compañía de gente y hacerla sentir bien. Más de una persona halagará tu sonrisa cuando salgas en las próximas semanas.

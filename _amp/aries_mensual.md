@@ -1,23 +1,23 @@
 ---
 layout: amp
-title: Horoscopo Aries Mayo 2023 
+title: Horoscopo Aries Junio 2023 
 permalink: /horoscopo-mensual/amp/aries/
 normallink: /horoscopo-mensual/aries/
 home: FALSE
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/Aries_mes.png#2023-04-28
+ogimg: /images/mes/Aries_mes.png#2023-05-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-04-28'
+ lastmod: '2023-05-28'
 ---
 
 
-La energía podría ser algo impredecible en tu camino profesional este mes, estimable Aries, cuando el sol viaja por el excéntrico Acuario. Ya sea que se trate de competir con nuevos colegas, un cambio en tus responsabilidades o insatisfacción con tu carrera profesional, puedes esperar lo inesperado ahora.
-Estos sentimientos podrían parecer particularmente pronunciados durante el eclipse solar junto a la luna llena en Tauro el 5 de mayo, que forma una fuerte cuadratura en T con el rebelde Urano. Sentir que trabajas demasiado o que eres invisible para tus superiores podría provocar resentimiento, aunque deberías proceder con cuidado si decides confrontar a tu jefe o tus colegas sobre un problema con el que estás lidiando.
-Por suerte, tendrás la oportunidad de enfocarte en socializar y construir una comunidad de amistades cuando el sol entra a Géminis y tu onceava casa solar el día 21. Presta atención a cualquier persona conocida que ingresa a tu esfera durante la luna nueva al día siguiente, especialmente si te encuentras con un espíritu afín o formas un vínculo instantáneo con alguien. Desafortunadamente, la naturaleza acuática de esta lunación podría crear turbulencias emocionales en tu círculo de amistades, y puede que te llamen para dar apoyo a un ser querido.
-El 19 de mayo también tiene una importancia personal cuando Venus entra al fogoso Aries. Esta posición planetaria te pide que cuides de ti sin limitaciones, especialmente si estás lidiando con problemas personales. Sin embargo, también podrías sentir que te domina la impulsividad más de lo normal cuando tu regente planetario viaja por uno de los signos del zodíaco más impacientes. Si bien tus instintos serán fuertes, intenta no adentrarte en una relación o compromiso sin antes haber examinado por completo la situación.
-Días destacados: 2, 7, 15
-Días desafiantes: 3, 4, 16
+Podrás atravesar las barreras profesionales este mes mientras el sol transita por el expansivo Géminis, lo que activa el sector de tu carta astral que rige la profesión. Tus colegas y superiores podrían ser más emocionalmente abiertos que de costumbre, estimable Aries, por lo tanto, utiliza estas vibras para desarrollar tus relaciones profesionales. Una actitud cariñosa hacia tus colegas de trabajo puede ayudarte a ganar su devoción, lo que incrementará tu popularidad en la oficina. Sin embargo, podrías sentirte más sensible que de costumbre, por lo que debes recordar no comprometerte con cosas que no puedes manejar.
+Mientras tanto, la luna llena del 4 de junio es el momento perfecto para estrategizar sobre tu futuro ya que Mercurio, tu planeta regente, forma una alianza cósmica con el pragmático Saturno.
+Y es muy probable que tu arduo trabajo de frutos cuando Mercurio se una al auspicioso Júpiter el día 20 del mes. No tengas miedo de llevarte el crédito por el trabajo que realizaste, y prepárate a recibir buenas noticias. El sol entra al pasional Cáncer, por lo que este día también marca el comienzo de la primavera. Esta ubicación solar inicia un fuego en el sector de tu carta astral que rige la comunidad, lo que te ayuda a ganar atención en las próximas semanas.
+Considera organizar una reunión con amistades y colegas cuando la actividad lunar del 30 de junio. Esta energía te brinda la oportunidad de sobresalir entre tus pares, lo que finalmente podría hacer que encuentres más oportunidades al final del camino. O por lo menos, puedes sentar los cimientos sobre las que construir relaciones estables y de confianza con personas que te importan.
+Días destacados: 5, 9, 23
+Días desafiantes: 6, 16, 21
