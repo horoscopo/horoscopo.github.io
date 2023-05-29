@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 28 de mayo 2023
-description: Horóscopos del dia de hoy 28 de mayo 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 29 de mayo 2023
+description: Horóscopos del dia de hoy 29 de mayo 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-05-28
+ lastmod: 2023-05-29
 ---
-La bandera de advertencia es levantada conforme Marte aspecta a Urano, el planeta de lo inédito y lo desconocido. Algo salvaje está en el aire que podría disparar saltos cuánticos hoy, así que mantente alerta. Esta noche es el momento de cerrar el último capítulo y prepararte para el siguiente con Venus a punto de salir de Capricornio.
+Es importante darle prioridad a la información de una manera lógica. Cuando el Sol cuadra al impredecible Urano como lo hace hoy, tú también necesitas rutas alternativas y planes de contingencia para reducir el caos a un mínimo. Esta noche, los opuestos se atraen. Los solteros se involucran, aunque la otra persona no sea realmente su tipo. Si conoces a alguien, tómate tu tiempo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
