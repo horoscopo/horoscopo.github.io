@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 22 de mayo 2023 al 28 de mayo 2023 
-description: Horóscopo semanal escorpio 22 de mayo 2023 al 28 de mayo 2023. La guerra que tienes dentro está deseando encontrar un poco de paz Escorpio, de verdad, ya no puede aguantar tanto. ¿Qué pasa con tus metas, con tus objetivos? Primero debes ponerte a ti mismo ahora. ¿No te acuerdas de cuantas cosas has rechazado por amor? ¿o de cuanto has dejado de lado?
+title: escorpio 29 de mayo 2023 al 04 de junio 2023 
+description: Horóscopo semanal escorpio 29 de mayo 2023 al 04 de junio 2023. Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar Escorpio. 
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2023-05-22
+ogimg: /images/zodiac/semanal_escorpio.png#2023-05-29
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-05-22'
+ lastmod: '2023-05-29'
 ---
 
 
 
-## La guerra que tienes dentro está deseando encontrar un poco de paz Escorpio, de verdad, ya no puede aguantar tanto. ¿Qué pasa con tus metas, con tus objetivos? Primero debes ponerte a ti mismo ahora. ¿No te acuerdas de cuantas cosas has rechazado por amor? ¿o de cuanto has dejado de lado?
+## Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar Escorpio. 
 
-No sabes muy bien qué hacer con tus sentimientos, si guardarlos en un cajón y esperar a que se tranquilicen o si sacarlos y dejan que fluyan como locos.
-El panorama podría intensificarse esta semana. Cuando tu planeta regente, conecta con el poderoso Plutón, podrías sentir una imperiosa necesidad de seguir adelante con un plan. Y cuando ambos planetas conectan con el jovial Júpiter, la idea de dar un gran paso hacia adelante parece algo natural. Pero ¿lo es? Puede que sea prudente pedir otra opinión antes de dar el paso. 
- Cuando el encantador Venus ingresa a Géminis y a tu sector de comunicación el martes, te resultará sencillo tranquilizar a los demás. Esto puede ser útil en algunas de las situaciones en que te encuentres. El miércoles podría encontrarte en desacuerdo con una persona y es posible que debas llegar a un acuerdo para poder avanzar. Por último, la luna el domingo podría animarte a hacer algunos gastos cuando la mejor opción puede ser un masaje o un tratamiento de spa.
+Acaba un mes y empieza otro nuevo, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo, desde la felicidad más satisfactoria hasta el llanto más amargo. Y además te diría que intentaras controlarlo pero en realidad ahora lo mejor es que lo sueltes todo y te quedes a gusto y paz cuando lo hagas. Si te entran momentos de desánimos mira a tu alrededor y encontrarás a esas personas que te estiman, que te consideran y que te ven como un ejemplo a seguir, en serio. No les defraudes y demuéstrales que eres fuerte y que cuando te da el bajón es simplemente eso, un bajón del que más temprano que tarde te acabas reponiendo. En tus momentos de alegría máxima ándate con ojo y no te lances sin mirar a los dos lados, ponle cabeza a las cosas que llegan, confía en ellas pero hasta cierto punto. Como eres así de imprevisible muchas veces y tus emociones son como una especie de huracán aunque las lleves siempre por dentro, lo mismo estás contento que triste y tomas decisiones precisamente cuando te encuentras en esos estados. Pues no, cuando quieras hacer algo, párate a pensar, frénate unos minutos, unas horas, y cuando eso de “lo quiero todo y lo quiero ya” haya pasado, elige. Todo pasa Escorpio, y aunque estás en esa etapa de un cambio a otro, lo bueno llega, sólo un poco de paciencia… Y sonríe un poco más, y no te preocupes por tus subidas y bajadas porque van a pasar pronto. Sólo es una etapa de decisiones. Decisiones que marcarán tu vida ahora.
+Tu seguridad y coraje pueden aumentar esta semana, ya que una potente mezcla de energías en tu signo te alienta a enfocarte en aquellas actividades que significan más para ti. Si tienes talento para la organización y la gerencia, entonces los próximos días podrían ponerte al mando de un evento clave y animar a otros a involucrarse. Al mismo tiempo, quizás también te beneficies de la oportunidad de relajarte y reflexionar sobre la vida, ya que hacerlo puede permitirte que intuyas cuáles son los cambios que más necesitas hacer.
 
 ## Dinero
 
-Puede que te encuentres en plena acción, llamando a compañías de tarjetas de crédito, pagando saldos y destruyendo viejas tarjetas de crédito. ¡Buen trabajo! Esta misma ráfaga de energía te ayudará a establecer un curso financiero nuevo en este momento de tu vida. Sin embargo, tu lugar de trabajo podría necesitar un cambio. Sin embargo, es demasiado pronto para renunciar, así que trata de verle la mejor cara.
+El Universo lleva tu vida monetaria a un delicado equilibrio. Tus ideas creativas y enfoques son admirables ahora, y directamente afectarán a tu sector de viajes, aprendizaje y metafísica. Si sientes que necesitas aumentar tu educación, no dudes en gastar dinero en una clase o seminario. Todo esto es para el mejoramiento de tu futuro, y dará sus frutos monetarios en poco tiempo.

@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 22 de mayo 2023 al 28 de mayo 2023 
-description: Horóscopo semanal geminis 22 de mayo 2023 al 28 de mayo 2023. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. 
+title: geminis 29 de mayo 2023 al 04 de junio 2023 
+description: Horóscopo semanal geminis 29 de mayo 2023 al 04 de junio 2023. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2023-05-22
+ogimg: /images/zodiac/semanal_geminis.png#2023-05-29
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-05-22'
+ lastmod: '2023-05-29'
 ---
 
 
 
-## Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. 
+## No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
 
-No te mereces poco Géminis… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas… Cuando alguien se preocupa por ti, se preocupa todo el tiempo, y eso es lo que vale. No es que todo el mundo que te rodea sea malo, es que aún te queda basura por sacar a la calle. No tomes una decisión a la ligera pues sí o sí tendrás que aceptar las consecuencias. Mejor tómate un tiempo para pensar mejor las cosas. A veces pensamos que porque no recibimos una consecuencia inmediata a nuestras acciones tal vez nunca va a llegar, pero estamos completamente equivocados. Las cosas tarde o temprano pasan factura Géminis, tanto a ti como a los demás, por eso, procura tener los pies en la tierra y no dejarte llevar por esos arrebatos locos que te están dando últimamente. Es como si quisieras controlarte, porque en el fondo sabes como acaba todo, pero a la vez te frustra no plantar cara a más de uno que tienes metido entre ceja y ceja últimamente. Es complicado. No es una mala semana pero si habrá bastantes altibajos. A veces quieres solucionar tus problemas, a la de ya, poner punto y final a todo y empezar de cero, como si fuera tan fácil. La dificultad contigo es que no son causas tontas, no son cosas que de la noche a la mañana y con un simple perdón puedan solucionarse. Arrastras demasiado desde hace mucho tiempo Géminis. Así que no, de un día para otro no arreglarás mucho, bueno quizás desahogarte un poco pero, ¿de que te vale eso si volverás de nuevo a lo mismo de siempre? ¿No has pensado en evitar ciertas situaciones que te causan daño? ¿No has pensado en alejarte por un tiempo de personas que en vez de reír te hacen llorar? ¿Por qué no lo haces? Tu respuesta muchas veces es la misma: “No voy a rendirme, esto lo soluciono yo como sea”. Y sí, estás en lo cierto porque si fuera por ti ya lo habrías hecho, el problema es que no tienes por qué solucionarle la vida a otros.
-El Sol y Mercurio entran a tu signo a mediados de la semana, lo que da por finalizado un período más introspectivo. Ahora el cosmos te inspira a expresar lo que sientes y revelar tu verdadero ser. Esta también puede ser una oportunidad para que expreses esas ideas en las que has soñado durante semanas. Con la actividad lunar del viernes, es el momento perfecto para que empieces un proyecto que significa mucho para ti.
+Tienes mucha energía esta semana y vas a tener unos altibajos demasiado fuertes así que, intenta canalizarla como sea y enfócate en la dirección correcta. Si toda esa fuerza que tienes la proyectas en algo que te hace daño eso mismo que te hace daño se multiplicará por tres. 
+Cuando te sientas mal, tira de memoria Géminis y acuérdate de que las historias se repiten, y con las mismas personas la gran mayoría de las veces.
+Tus relaciones están bajo enfoque en gran medida a principios de la semana debido a que la Luna saca a relucir sentimientos que pudiera haber sido enterrados bajo la superficie. Ten cuidado al discutir cuestiones delicadas, ya que se requerirá de tacto y diplomacia. Evita hacer o decir cualquier cosa que pudieras llegar a lamentar más tarde. Préstale atención a cualquier corazonada que te surja hacia el final de la semana, hacerlo podría ayudarte a ahorrar dinero o evitar retrasos. El domingo es ideal para el romance o cualquier actividad que disfrutes.
 
 ## Dinero
 
-Tienes el tipo de confianza que el dinero no puede comprar. Tu risa parece más enérgica, y tu personalidad es tan fuerte que fácilmente puede tomar control de una habitación. Sin embargo, es posible que tengas que atender ciertos asuntos en tu hogar. Esto podría significar reparaciones costosas o incluso tener que mudarte para evitar unos vecinos ruidosos. Cualquiera que sea el caso, es probable que tengas que recurrir a tus ahorros para cubrirlo.
+Es una gran semana para trazar un plan de negocios y pensar en cómo recaudar dinero para éste. Podrías estar pensando en cómo recaudar fondos a través de beneficios, préstamos, subvenciones e incluso donaciones en especie de empresas de mayor tamaño. Ahora más que nunca es posible que recibas una respuesta positiva. El Universo indica un momento de expansión en tu círculo social.

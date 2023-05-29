@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 22 de mayo 2023 al 28 de mayo 2023 
-description: Horóscopo semanal acuario 22 de mayo 2023 al 28 de mayo 2023. Da la bienvenida a tu nueva vida Acuario, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
+title: acuario 29 de mayo 2023 al 04 de junio 2023 
+description: Horóscopo semanal acuario 29 de mayo 2023 al 04 de junio 2023. Quita importancia a las cosas Acuario, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2023-05-22
+ogimg: /images/zodiac/semanal_acuario.png#2023-05-29
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-05-22'
+ lastmod: '2023-05-29'
 ---
 
 
 
-## Da la bienvenida a tu nueva vida Acuario, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
+## Quita importancia a las cosas Acuario, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
 
-Llega una buenísima semana Acuario pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada. Tienes que trabajar duro ahora, tienes que empezar a sacar cada uno de los proyectos que tienes en tu cabeza, terminarlos de una vez o empezarlos. Pero ya. En serio, tienes un potencial impresionante y con un poco que te pongas las pilas conseguirás lo que de verdad siempre has querido. Todo irá bien Acuario, eres joven, te sientes joven, si en algún momento pareces inseguro o perdido no te preocupes, es parte del camino, pero no tires la toalla por nada del mundo ahora. Tómate un respiro, escápate unos días si puedes, y desconecta para volver con más fuerzas, pero una vez que estás centrado en algo no te salgas del camino por nada del mundo. Cuando le pones todas las fuerzas del mundo siempre lo consigues así que, pónselas a todo. Toma el control de tu destino, cree en ti mismo otra vez, ignora a todos esos que tratan de desalentarte, que te desaniman, que se cruzan en tu vida sólo por el hecho de querer molestar, evita la negatividad a toda costa. Todo llega en el momento adecuado Acuario, y a ti te va tocando ya. Tú y tú y más tú. Pelea por lo que es tuyo Acuario, pelea por lo que te mereces.
-Tu vida social sigue estando muy activa y parece que te estás divirtiendo a lo máximo. Esta semana te trae una oportunidad de oro para convertir tus sueños en realidad, especialmente si trabajas en la misma sintonía con amistades o con otras personas. La luna en tu sector de amistad sugiere que este podría ser el momento perfecto para poner en marcha este proyecto. El enfoque se desplaza hacia un sector más apartado de tu carta astral el Domingo. Las cuatro semanas que se acercan serán un período de relajación y reflexión.
+Te crees que eres débil Acuario, a veces te menosprecias demasiado, más de lo que deberías, te crees que no llegas, que no puedes, te crees que quizás se te está yendo de las manos el tiempo que estás tardando en curarte de viejas heridas, piensas que ya tenía que tener superado mucho, pero no… Todo tiene su tiempo, no quieras comerte el mundo en un minuto porque seguro que lo escupes al minuto siguiente. Vas a tardar en ser “normal” otra vez, porque tienes sentimientos Acuario, porque las cosas te duelen, porque vas a tardar en recuperarte del todo… Pero eh, que saldrás de cualquier cosas, que tu te pones las pilas y te mentalizas y trepas hasta de lo más profundo. Esta semana dedícate a mimar algunas relaciones que tienes cerca y que, por tener tu mente en otro lugar, estás descuidando. Y quiérete un poco más, y piensa que los bajones son normales, y más cuando estás en un proceso de duelo, de superar algunas cosas y de cambiar otras de forma radical. Nadie sabe estar de un minuto a otro sin parte de su vida anterior Acuario… Tómate un tiempo Acuario, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
+Colaborar con otras personas sobre una idea dinámica podría funcionar muy bien para ti durante las próximas semanas. Con el eclipse solar en tu sector de comunicaciones, hay potencial para un nuevo comienzo que podría evolucionar en el tiempo y llevarte al éxito. Y, si incluye posibilidades creativas, entonces será mucho mejor. Quizás también veas que las relaciones empiezan a relajarse durante las próximas semanas, ya que el serio Saturno se torna directo luego de varios meses de estar en su fase retrógrada. Interactuar de aquí en adelante será mucho más fácil.
 
 ## Dinero
 
-Es una semana tensa para ti. Considera la posibilidad de aprender algo nuevo, asistiendo a un curso formal de educación o el uso de los viajes como una forma de educación. El poner un poco de pensamiento en lo que te da curiosidad le permite a tu mente moverse en una dirección decididamente positiva. Es importante el ver dónde tienes raices. El poner tu confianza en las instituciones financieras no es necesariamente una cosa mala.
+Es un momento interesante. Nadie te puede pasar por alto, así que trata de usar este tiempo a tu favor. Expón tus atributos. Ofrécete para dar una presentación si la hay y prueba un nuevo estilo para darla. Tu sector de diversión, romanticismo, niños y miembros de la familia entra en juego. ¿Cómo puedes usar tus conexiones familiares para avanzar en cuanto a dinero se refiere?

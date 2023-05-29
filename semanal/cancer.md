@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 22 de mayo 2023 al 28 de mayo 2023 
-description: Horóscopo semanal cancer 22 de mayo 2023 al 28 de mayo 2023. Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda Cáncer, pero sé constante.
+title: cancer 29 de mayo 2023 al 04 de junio 2023 
+description: Horóscopo semanal cancer 29 de mayo 2023 al 04 de junio 2023. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2023-05-22
+ogimg: /images/zodiac/semanal_cancer.png#2023-05-29
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-05-22'
+ lastmod: '2023-05-29'
 ---
 
 
 
-## Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda Cáncer, pero sé constante.
+## No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
 
-A veces sientes como si no avanzaras Cáncer, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente. Las cosas de palacio van despacio ¿ok? Así que no desesperes. Estás en una de esas etapas en las que lo quieres todo ya, aquí y ahora, que lo malo pase pronto y que lo bueno se quede en tu vida por mucho tiempo pero date eso, TIEMPO. Esta semana tendrás momentos de mucho estrés emocional, hay cosas que no están solucionadas del todo pero todo llega, y antes de lo que esperabas… Deja de preocuparte por los fallos que ya se cometieron y empieza a darle importancia a las oportunidades que puedes dejar escapar si no reaccionas a tiempo y si no reaccionas bien. Prueba Cáncer, prueba todo lo que puedas y más, no hace falta querer tener una vida perfecta, lo suyo es tener una vida FELIZ. El hecho de que puedas dejar muchas cosas atrás no es malo, porque otras muchas llegan, pero no fuerces la situación ni esperes que todo cambie de un día para otro. Tienes que trabajártelo, tienes que ir paso a paso y pensar que no tienes una buena o mala vida, si no sólo una vida, y que está en ti hacerla buena o mala. Ánimo Cáncer, feliz semana.
-Durante esta y las próximas semanas, tu gran fuerza podría ser reconocida. Con el fuerte enfoque en tu signo, tu carisma y confianza están en su punto más alto. Esto podría llevarte a probar ideas y proyectos que usualmente no te interesarían. En este momento, vas a saborear el reto. El Sol reforzando en Geḿinis más adelante en la semana podría llevarte a mirar por debajo de la superficie para llegar a la verdad de un asunto o problema en curso.
+Quita importancia a las cosas Cáncer, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente… Pon la mente en blanco como sea si no quieres empezar a dejar de dormir esta semana. Hay cosas que no están en tu mano, hay cosas que llegan y se van solas, sin que podamos hacer nada, pero sin embargo, la vida sigue y hay otras muchas en las que si puedes hacer mucho. Pues céntrate en esas Cáncer. En las que verdaderamente están ahí, en tu mano. Tienes que tener un plan B para engañar a tu mente, sal un poco más y cuando no te apetezca mucho, oblígate, hazte el favor de relacionarte con tus amigos, de sacar tus sentimientos, lo que pasa por tu cabeza. Los nervios sólo te acabarán consumiendo por dentro. Deja fluir, deja correr, deja pasar las cosas y no vuelvas a abrir las puertas de tu vida a la gente que te hace daño. Si te rodeas de buenas personas, lo positivo empezará a aparecer en tu vida, pero si por tu alrededor la energía mala se palpa, no esperes nada bueno. Deja que las cosas se marchen de tu vida si así tiene que ser, y márchate tú si eso es lo que sabes que debes hacer… Aférrate a ti mismo, sólo a ti… Por una vez manda a la mierda y céntrate en lo que de verdad te hará feliz.
+Con el actual enfoque en tu sector de estilo de vida, podrías sentir motivación a ajustar tu rutina de salud. Venus entra a este sector el martes, por lo que puede que tengas que empujarte a hacer ejercicio todos los días o apegarte a una dieta. Lo que realmente necesitas es confianza y tener fe en ti, incluso si tal ha sido sacudida últimamente. Júpiter está ahora avanzando, por lo que poco a poco te percatarás de que sientes más seguridad y tienes más capacidad para lidiar con los problemas y asumir retos.
 
 ## Dinero
 
-Para ti, esta semana es sobre la auto-expresión. Puedes ser una persona muy creativa, por lo que puedes tener la tentación de tratar de mejorar tu vestuario o dar un cambio radical de look. Ciertos aspectos que afectan la belleza y el afecto dicen que tu familia, pareja romántica o niños te apoyan en tus metas financieras y personales. Es bueno saber que tienes un equipo de apoyo.
+Estás buscando una nueva manera de ganar dinero extra ahora, y puede que todavía no tengas la solución perfecta. Pero con los aspectos afectando tu sector de trabajo, te percatarás de que hay más oportunidades de las que piensas. Como por ejemplo trabajar más horas, o encontrar un trabajo de fin de semana. Tu carrera se verá afectada positivamente por cualquier acción que tomes.
