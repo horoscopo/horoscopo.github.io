@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 01 de junio 2023
-description: Horóscopos del dia de hoy 01 de junio 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 02 de junio 2023
+description: Horóscopos del dia de hoy 02 de junio 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-06-01
+ lastmod: 2023-06-02
 ---
-No es ni aquí ni allá, tal vez, pero argumentar no te lleva a ninguna parte durante la Luna saliéndose de su órbita el día de hoy. ¿Será que este molesto día llegará a su fin? Pues sí, lo hará. La de esta noche es una sensata y controlada Luna en Capricornio. Si no tienes pareja, disfruta de no tener que toparte con historias de ficción. Lo que ves es lo que hay. 
+La Luna en Cáncer le otorga poder extra a los sentimientos y estimula entendimiento entre las personas. El reto implica evitar hablar sobre temas importantes, nunca llegar a ellos y luego tomar decisiones basadas en la emoción. Ese mismo ritmo continúa por la tarde cuando la Luna forma trígono con Neptuno. Este último añadiéndole ilusión a la ecuación.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
