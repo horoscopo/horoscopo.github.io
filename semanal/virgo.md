@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 29 de mayo 2023 al 04 de junio 2023 
-description: Horóscopo semanal virgo 29 de mayo 2023 al 04 de junio 2023. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
+title: virgo 05 de junio 2023 al 11 de junio 2023 
+description: Horóscopo semanal virgo 05 de junio 2023 al 11 de junio 2023. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2023-05-29
+ogimg: /images/zodiac/semanal_virgo.png#2023-06-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-05-29'
+ lastmod: '2023-06-05'
 ---
 
 
 
-## Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
+## En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
 
-Deja de creer que sabes lo que necesitan. En serio, a veces tener tanta empatía puede ser un problema. Siempre estás haciendo un esfuerzo por adaptarte a lo que los demás necesitan y como siempre también, te acabas olvidando de ti misma/o. 
- No lo has pasado del todo bien pero empiezas a renacer Virgo. No quieres mal rollo ni tampoco a personas que te causan una ansiedad ni un estrés terrible a tu lado.
-Puede que una oportunidad asociada con tu profesión o ambición aparezca en las cartas esta semana. Con la actividad lunar alentándote, quizá te convenga aprovecharla. Este es el momento indicado para hacerlo, ya que no tienes ningún apuro. Con Venus en ese mismo sector y actualmente en fase retrógrada, las cosas podrían cambiar en las próximas semanas. Si te mueves paso a paso, podrás navegar estas semanas con habilidad y confianza.
+A veces quieres llegar al fondo de cualquier cosa Virgo, pero el problema es que también a veces, eso, no te hace ningún bien. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Virgo. De verdad, a veces es mejor tener paz que tener razón. ¿Por qué no tratas de pasar del mal rollo? ¿Por qué no te alejas de lo que te pone los nervios de punta? Quizás debas dar algunas lecciones y quizás deberías hacerte de rogar un poco. Al menos para que el resto despierte. Muchos no saben lo que se pierden al perder a Virgo, eh. Esta semana deberías hacerte valer un poco, deberías recordarte todas las lecciones que ya llevas aprendidas y dejar de repetir patrones todo el tiempo. Sé valiente y no te engañes a ti mismo. Cuando haces algo por alguien no esperas que hagan lo mismo por ti porque lo haces de corazón pero tampoco esperas que no muevan ni un dedo. Tú sabes de sobra lo que funciona y lo que no funciona Virgo así que, por favor, empieza a ser un poco más productivo y deja de perder el tiempo. Ve a por lo que interesa, a por lo que aporta, a por lo que te hace mejor. No vuelvas a dejar tus planes de lado por nada ni por nadie.
+Deberías sentirte en tu elemento con Venus y Marte en tu signo aumentando tu vitalidad y elevando tu confianza. Y con tu vida social todavía muy activa, podrías ser el centro de atención en cualquier evento, ya que tu carisma brilla más de lo normal. No derroches tu dinero si sales en los próximos días, ya que, al sentirte bien, podrías fácilmente gastar más dinero del que puedes permitirte, especialmente después de una época festiva costosa.
 
 ## Dinero
 
-Puede que esta semana sientas un poco más de despiste y menos conexión de lo normal. Hay un poco de pesadez añadida a tu sector de familia y romance. Puede que el impulso lleve a esto de nuevo, sobre todo cuando se trate de gasto. Sin embargo, el divertirte con tu presupuesto puede ser tan simple como usar tu imaginación. Ten tanta creatividad como te sea posible bajo las circunstancias.
+Es una semana complicada para ti aunque las cosas parezcan estar bien, sobre todo cuando se trata de tu relación. Vas avanzando en tus uniones con los sindicatos profesionales y personales y todo es bueno en ese frente. Sin embargo, los aspectos que afectan a tu carrera hacen que sea difícil ver el bosque por los árboles. Tómate el tiempo necesario para establecer un camino claro hacia tus metas.

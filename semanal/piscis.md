@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 29 de mayo 2023 al 04 de junio 2023 
-description: Horóscopo semanal piscis 29 de mayo 2023 al 04 de junio 2023. Esta semana vas a abrir los ojos Piscis, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
+title: piscis 05 de junio 2023 al 11 de junio 2023 
+description: Horóscopo semanal piscis 05 de junio 2023 al 11 de junio 2023. Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2023-05-29
+ogimg: /images/zodiac/semanal_piscis.png#2023-06-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-05-29'
+ lastmod: '2023-06-05'
 ---
 
 
 
-## Esta semana vas a abrir los ojos Piscis, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
+## Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
 
-Quieres sonreír cuando pase el tiempo y sobretodo no quedarte con las ganas por no haber hecho lo que sentías. No te encierres en lo que debes o no debes hacer Piscis, ahora simplemente fluye… Con la vida, con tus amigos, con tu gente, con los que quieres… 
-porque así es como la vida te acaba compensando con nuevas bienvenidas.
-Este es un excelente momento para enfocarte en tus metas e intereses personales. Sin embargo, no te apures a tomar cualquier decisión. Mientras Mercurio continúe en su fase retrógrada, puede que debas hacer cambios de todos modos. Mientras tanto, lo mejor sería que investigues cuáles son tus opciones. También podrías considerar una idea que habías rechazado pero que ahora te atrae mucho. De hecho, a medida que el sol y el diplomático Venus conectan con el comunicativo Mercurio, analizar esto con los demás puede ayudarte a decidir si debes seguir adelante o no.
+Aunque creas que tus asuntos están cerrados del todo no es así, y en el fondo lo sabes, por eso por fuera querrías hacer muchas cosas ya, en el momento, pero sin embargo por dentro sabes que con calma y con cabeza fría las decisiones se toman mucho mejor. 
+ En la vida, valora lo que pierdes, pero mucho más lo que ganas. Debes aprender a desprenderte de lo que no te hace bien, debes aprender a echar de tu vida o a alejarte de lo que te causa más de un problema.
+La fiebre de salir a gastar podría apoderarse de ti al comienzo de la semana gracias a la reciente Luna Llena que te anima a gastar en objetos que has codiciado desde hace algún tiempo. Puede que decidas que los quieres comprar sin importar qué suceda, y si es así, pues no te queda más que también disfrutar de ellos. La comunicación es la clave mientras la actividad solar en tu sector de conversación y pensamiento, lo que podría inspirarte a ponerte en contacto con miembros de tu familia o cualquier otra persona que no hayas visto en mucho tiempo.
 
 ## Dinero
 
-Con cierta actividad en tu sector de auto-expresión esta semana, eres libre de manifestar tu propio ser. A veces esto puede significar que otros proyectan lo que quieren ver en ti, así que ten cuidado con personas que puedan no ser conscientes de sus propios problemas. Esto es especialmente importante esta semana. Tu vida hogareña, por no hablar de tu hogar, podría depender de tu capacidad para mantener un flujo de efectivo constante.
+Puede que parezca que el dinero está en todo tu alrededor ahora. Dado que cierta actividad afecta al sector que rige la deuda o el dinero de otros, puede ser extremadamente bueno establecer un nuevo plan de pago para las facturas pendientes, o buscar dinero por parte de los inversionistas para un nuevo proyecto. Si estás tratando de atraer dinero, arma un plan de negocios sólido. Enumera tus habilidades, pasión, y -sobre todo- las cifras para mostrar tu valor real.

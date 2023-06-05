@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 29 de mayo 2023 al 04 de junio 2023 
-description: Horóscopo semanal acuario 29 de mayo 2023 al 04 de junio 2023. Quita importancia a las cosas Acuario, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
+title: acuario 05 de junio 2023 al 11 de junio 2023 
+description: Horóscopo semanal acuario 05 de junio 2023 al 11 de junio 2023. Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2023-05-29
+ogimg: /images/zodiac/semanal_acuario.png#2023-06-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-05-29'
+ lastmod: '2023-06-05'
 ---
 
 
 
-## Quita importancia a las cosas Acuario, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
+## Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
 
-Te crees que eres débil Acuario, a veces te menosprecias demasiado, más de lo que deberías, te crees que no llegas, que no puedes, te crees que quizás se te está yendo de las manos el tiempo que estás tardando en curarte de viejas heridas, piensas que ya tenía que tener superado mucho, pero no… Todo tiene su tiempo, no quieras comerte el mundo en un minuto porque seguro que lo escupes al minuto siguiente. Vas a tardar en ser “normal” otra vez, porque tienes sentimientos Acuario, porque las cosas te duelen, porque vas a tardar en recuperarte del todo… Pero eh, que saldrás de cualquier cosas, que tu te pones las pilas y te mentalizas y trepas hasta de lo más profundo. Esta semana dedícate a mimar algunas relaciones que tienes cerca y que, por tener tu mente en otro lugar, estás descuidando. Y quiérete un poco más, y piensa que los bajones son normales, y más cuando estás en un proceso de duelo, de superar algunas cosas y de cambiar otras de forma radical. Nadie sabe estar de un minuto a otro sin parte de su vida anterior Acuario… Tómate un tiempo Acuario, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
-Colaborar con otras personas sobre una idea dinámica podría funcionar muy bien para ti durante las próximas semanas. Con el eclipse solar en tu sector de comunicaciones, hay potencial para un nuevo comienzo que podría evolucionar en el tiempo y llevarte al éxito. Y, si incluye posibilidades creativas, entonces será mucho mejor. Quizás también veas que las relaciones empiezan a relajarse durante las próximas semanas, ya que el serio Saturno se torna directo luego de varios meses de estar en su fase retrógrada. Interactuar de aquí en adelante será mucho más fácil.
+No sabes cómo desviar tus sentimientos Acuario, sientes con muchísima pasión muchas cosas pero otras se están apagando poco a poco. Y no entiendes por qué, no entiendes como se avivan llamas con personas que no merecen la pena, y como se te apagan con otras que sí. Vas a tener dificultad para liberarte de algunas cosas Acuario… Cuando sientes algo por alguien tu corazón no puede frenar y ahora eso es lo que te está pasando… No eres estúpido por intentar revivir viejos recuerdos y tratar de entender qué fue lo que salió mal o qué es lo que está fallando. La cuestión es que tienes que hablar las cosas, no puedes dejar que se vayan acumulando en tu interior. Si algo no va del todo bien dilo de una vez Acuario. A veces te imaginas un futuro donde termina todo bien, donde eres feliz, donde sonríes cada día, el problema es que el futuro se construye con lo que vas haciendo ahora, y si quieres tener ese futuro deberás empezar a cambiar. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay, y en eso no se puede cambiar por mucho que lo intentes. Date el lujo de sentir lo que sientes, aunque esos sentimientos vayan en contra de lo que querrías sentir. Vamos Acuario que esta semana emocionalmente hablando vas a tener un jaleo en tu cabeza serio y es muy probable que necesites un buen tiempo para aclararte.
+Tu vida parece estar muy ocupada en todos los frentes conforme disfrutas de cada momento. Asegúrate de delegar algunas tareas con el fin de tener tiempo para disfrutar de la semana de festividades. Ciertas relaciones podrían volverse importantes bajo la actividad lunar en tu signo, fomentando que expreses libremente tus sentimientos. El 9 de junio podría ser un día muy emocional por muchas razones pero agradable de todos modos. Además, hay buenas noticias en el frente profesional conforme ciertas influencias estabilizan tu situación, incrementando tu confianza y aminorando tu angustia.
 
 ## Dinero
 
-Es un momento interesante. Nadie te puede pasar por alto, así que trata de usar este tiempo a tu favor. Expón tus atributos. Ofrécete para dar una presentación si la hay y prueba un nuevo estilo para darla. Tu sector de diversión, romanticismo, niños y miembros de la familia entra en juego. ¿Cómo puedes usar tus conexiones familiares para avanzar en cuanto a dinero se refiere?
+Un sentimiento de expansión y repentina revelación podría darte una idea que simplemente no puedas contener. Ya que hay cierta actividad en tu sector de relaciones serias y matrimonio, las mejores nociones de hacer dinero pueden provenir de estas áreas. Crea una lluvia de ideas con respecto al matrimonio y la familia y puede que formules una idea para un libro, programa de entrenamiento, o un producto de mucho interés. Venderlo no va a ser difícil.

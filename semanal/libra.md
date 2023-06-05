@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: libra 29 de mayo 2023 al 04 de junio 2023 
-description: Horóscopo semanal libra 29 de mayo 2023 al 04 de junio 2023. De verdad Libra, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
+title: libra 05 de junio 2023 al 11 de junio 2023 
+description: Horóscopo semanal libra 05 de junio 2023 al 11 de junio 2023. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Libra. Ahora brillas así que, aprovecha. Aprovecha todo.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2023-05-29
+ogimg: /images/zodiac/semanal_libra.png#2023-06-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-05-29'
+ lastmod: '2023-06-05'
 ---
 
 
 
-## De verdad Libra, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
+## Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Libra. Ahora brillas así que, aprovecha. Aprovecha todo.
 
-No eres frágil Libra, no dejes que el resto piense eso de ti, no lo pienses tú de ti mismo/a. Esta semana rompe con todo, rompe con eso que lleva ahogando todo este tiempo, rompe con patrones que estabas siguiendo como un robot, sin saber ni siquiera si era eso lo que de verdad buscabas. Toma decisiones de una vez. ¿Estás a gusto con la vida que estás viviendo? No del todo Libra, y lo sabes. Pero no te conformes, no pienses que es lo único que hay porque hay muchísimo más ahí fuera. Tienes tanto potencial que estás desaprovechando… Cuando tienes episodios de bajón es porque en realidad sabes que lo que estás haciendo hoy no te va a llevar a ningún sitio el día de mañana, y eso es lo que te frustra Libra, saber que el futuro que tienes ahora es muy incierto, saber que, a pesar de que puedas estar medio bien ahora, no estás plantando nada para recoger después. Haz lo que de verdad te hace feliz Libra, no tengas miedo porque con miedo no vas a ninguna parte. Es triste tener que vivir una vida que sabes de sobra que no está hecha para ti. Cambia el entorno, cambia el plan y no dependas de nada ni de nadie… Si no cambias la dinámica de tu vida te vas a acabar asfixiando Libra, y sabes lo complicado que es salir de ahí después…
-Aunque podrías sentirte impaciente por comprometerte con tus responsabilidades, puede que por otra parte tengas ganas de dejarlo todo. Este podría ser un momento en el que prefieras hacer tus cosas antes que ocuparte de asuntos de negocios o tareas frecuentes. La clave está en administrar tu tiempo y tener días para salir y divertirte. La actividad lunar del Viernes podría funcionar mejor para ti si te das tiempo para un masaje u otro tratamiento de salud.
+Últimamente sientes que las decisiones que has tomado no han sido las más acertadas pero todo se puede arreglar. 
+Como si, por momentos, no fueras capaz de encontrar salida a tus preocupaciones, a todo ese estrés mental, a ese círculo en el que te has metido solo.
+La próxima semana podría estar llena de interacciones sólidas que forman nuevas relaciones y profundizan las que ya tienes. Las opciones de placer y recreación también podrían acercarte más a otras personas y puede que tengas ganas de divertirte junto con ellas. Quizá quieras colaborar con ciertas personas en nuevos proyectos y esto puede darte buenos resultados. Puede que debas ponerte firme, ya que un fuerte vínculo entre Venus y Plutón sugiere que quizá otra persona trate de salirse con la suya.
 
 ## Dinero
 
-Esta semana se trata de tu dinero y valores. Puede ser una buena semana con más oportunidades de ganar dinero en el camino que aparentemente surgen de la nada. Esto significa que por el momento es posible que tengas que pasar más tiempo en el trabajo y menos tiempo socializando. Es posible que tus grupos sociales te estén drenando al pedir demasiado de ti, creando mucha tensión y fatiga.
+Esta semana se trata de tu dinero y tus valores. Algunos aspectos te traerán suerte y ampliarán tus oportunidades, mientras que otros lograrán un cambio repentino, a veces violento. Si has estado tratando de eliminar ciertas ideas anticuadas con respecto al dinero (o la cantidad que se te permite tener), este es el momento de dejarlas ir. Tu comunicación anda en alto y eso vale la pena.

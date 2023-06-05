@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: leo 29 de mayo 2023 al 04 de junio 2023 
-description: Horóscopo semanal leo 29 de mayo 2023 al 04 de junio 2023. No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario Leo.
+title: leo 05 de junio 2023 al 11 de junio 2023 
+description: Horóscopo semanal leo 05 de junio 2023 al 11 de junio 2023. A veces sientes como si no avanzaras Leo, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2023-05-29
+ogimg: /images/zodiac/semanal_leo.png#2023-06-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-05-29'
+ lastmod: '2023-06-05'
 ---
 
 
 
-## No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario Leo.
+## A veces sientes como si no avanzaras Leo, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
 
-Siempre habrá cosas y personas que nos hagan dudar de todo, que nos hagan replantearnos si vamos por el bueno camino, o si no tuvimos que dejar eso que dejamos atrás… 
- aunque el corazón te insista en que hagas muchas cosas que luego pueden traerte quebraderos de cabeza intensos.
-La sensación de intranquilidad puede deberse a la presencia de Marte en tu sector espiritual. Este vital planeta puede alborotar las emociones, y podrías experimentar un desequilibrio a menos que puedas procesarlas y librarlas cuidadosamente. 
-Tu estado de ánimo podría verse influenciado por un extraño ángulo entre el dinámico Marte y el eléctrico Urano en tu sector de habla y pensamiento. Una forma de manejar esto puede ser caminar mucho o hacer otro tipo de vigorosa actividad física. Esto podría ayudarte a sentir una mayor conexión con la tierra, y más enfoque y tranquilidad en general. Incluso una caminata corta en un bello paisaje puede tranquilizar tu mente. La presencia del encantador Venus en tu sector de relaciones sugiere que los demás podrían ser muy comprensivos. Pueden ser una excelente compañía si tienes ganas de salir e ir a un evento social u otro tipo de reunión.
+No pelees Leo, no discutas, no pierdas el tiempo con nada ni con nadie. Esta semana estás apático por momentos, como si hubieras tirado la toalla en muchos aspectos de tu vida, como si ya no te importara pelear por algo que ves que no merece la pena. Pero el problema no es que digas “hasta aquí”, el problema es que sigues ahí, sin fuerzas, mostrándote casi indiferente hacia todo lo que gira en torno a ti, como si ya nada importara. Pero el caso es que sí que importan muchas cosas, muchísimas, pero debes dejar de lado de verdad las que ya no tienen cabida. Haz algo diferente Leo, tienes que curarte aún de algunos palos, tienes que darte un chute de fuerza y de energía y remontar como sea… Vete a una cafetería, solo, y piensa en todo lo que ha pasado, escríbelo, acuérdate de cuanto tiempo has estado dando todo de ti, plantéate si merece la pena seguir haciéndolo… A veces, para curarte de todo ese estrés emocional hay que descansar, y a veces descansar es ocultarse del mundo por un tiempo, es tener todo lo que necesitas dentro de ti. Quizás sea bueno que te alejes de lo que te daña y lo veas desde fuera, como un espectador Leo, vas a ver muchas más cosas de las que creías ver, vas a sentir que es cierto que mereces un cambio.
+Tus finanzas reciben un impulso esta semana, pero no antes de haberte tenido que esforzar para hacerle frente a algunos problemas. Los retrasos en referente a la entrada o salida de dinero podrían causarte frustración, pero no es nada que no se pueda resolver. Con Marte entrando a este sector de tu carta el Sábado, sentirás motivación a explorar nuevas maneras de ganar dinero extra y aumentar tus ingresos. Las ganas de tomar una clase podrían dejarte con la emoción de las posibilidades que tengas por delante.
 
 ## Dinero
 
-Tu vida laboral puede ser más difícil de lo normal esta semana, pero estás aprendiendo habilidades importantes que te podrán arriba en la cadena alimenticia. Mientras tanto, tu carrera está pasando por un montón de cambios. Toma un paso a la vez para una mayor recompensa.
+Puede que te estés preguntando en qué momento comenzarás a sentir motivación de nuevo. El tratar de mantenerte quieto/a, es como tratar de evitarle a un tornado el girar; pero lo estás manejando lo mejor que puedes. Esta semana, tu carrera se dirige a un territorio nuevo y emocionante. Si has estado tenido el ojo en la oficina de al lado, piensa en convertirte en una figura de autoridad en tu campo. Podrías darte cuenta de que el cheque que va con ella se avecina.
