@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 05 de junio 2023
-description: Horóscopos del dia de hoy 05 de junio 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 06 de junio 2023
+description: Horóscopos del dia de hoy 06 de junio 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-06-05
+ lastmod: 2023-06-06
 ---
-Hoy, presta atención, ya que Saturno, el planeta que suele darle a uno lecciones, sugiere que pensemos seriamente ciertos problemas. Las parejas tienen la intención de preservar el espacio que tanto parecen necesitar bajo la Luna en Acuario de esta noche. Solteros, la atracción tiene mucho que ver con la actitud y el enfoque cuando Júpiter aspecta a Urano.
+Decide cuáles son tus nuevos objetivos, ya que cuando te propones algo, sueles obtenerlo. ¿Qué es lo que te llega tanto al corazón que no podrías abandonarlo? El romance es cariñoso y afectivo mientras Venus forma trígono con Plutón hoy.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
