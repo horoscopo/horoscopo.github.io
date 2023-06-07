@@ -1,0 +1,28 @@
+---
+layout: horoscopos
+title: geminis hoy gratis 07 de junio del 2023 
+description: Horóscopo del dia de hoy para geminis. Horoscopo de hoy 07 de junio del 2023. Las predicciones de amor, trabajo, vida personal gratis.
+permalink: /horoscopo-diario-gratis/geminis/
+amplink: /horoscopo-diario-gratis/amp/geminis/
+home: FALSE
+redirect_from: /p/geminis.html
+keywords: geminis,horoscopo,horoscopo geminis junio 2023,horoscopo geminis hoy,tarot geminis junio 2023,horoscopo geminis,tarot geminis hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy geminis,horoscopo diario del tarot, Horoscopo de hoy geminis 07 de junio del 2023,horóscopo del día,signos zodiacales 2023, el horoscopo de hoy
+horoscopo:
+ signo: geminis
+ video: -DQpmrrAIeU
+ogimg: /images/geminis_char.png
+sitemap:
+ priority: 1
+ changefreq: 'daily'
+---
+
+
+Podrías tener algunas ideas extrañas hoy. Puede ser que te lleven en una dirección que no tiene absolutamente nada que ver con tu situación actual. No tengas miedo de explorar estos territorios extraños, ya que pueden darte una perspectiva importante que, de lo contrario, no habrías tenido. La sabiduría se encuentra en el más improbable de los lugares, así que no rechaces algo porque te parezca un poco estrafalario al principio.
+
+## Amor
+
+Recuerda que un sueño es aquello que hace latir tu corazón. Hoy comparte el amor con la gente del trabajo, con desconocidos, ¡incluso con las mascotas! Y no, esto no quiere decir amor romántico, sino amor universal. Habrá un montón de tiempo para el romance cuando se ponga el Sol.
+
+## Trabajo
+
+La verdad sale a la luz. Acepta esta verdad y actúa en consecuencia en lugar de negarla y simular que no te afecta. Enfrentar los hechos tendrá resultados que beneficiarán a todos.
