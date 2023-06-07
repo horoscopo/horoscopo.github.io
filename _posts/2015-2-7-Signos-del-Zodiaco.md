@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 06 de junio 2023
-description: Horóscopos del dia de hoy 06 de junio 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 07 de junio 2023
+description: Horóscopos del dia de hoy 07 de junio 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-06-06
+ lastmod: 2023-06-07
 ---
-Decide cuáles son tus nuevos objetivos, ya que cuando te propones algo, sueles obtenerlo. ¿Qué es lo que te llega tanto al corazón que no podrías abandonarlo? El romance es cariñoso y afectivo mientras Venus forma trígono con Plutón hoy.
+Una buena dosis de suerte llena el día cuando Marte conjunta al afortunado Júpiter. Considera esta noche como un reto, lo necesitas. También necesitas aventura y puedes encontrarla bajo la Luna en Sagitario. Independientemente de que pudieras pensar lo contario, tienes tiempo para detenidamente contemplar tus acciones.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
