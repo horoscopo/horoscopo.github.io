@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 05 de junio 2023 al 11 de junio 2023 
-description: Horóscopo semanal escorpio 05 de junio 2023 al 11 de junio 2023. No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya Escorpio. Muévete o haz que se mueva el resto.
+title: escorpio 12 de junio 2023 al 18 de junio 2023 
+description: Horóscopo semanal escorpio 12 de junio 2023 al 18 de junio 2023. No más paciencia Escorpio. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2023-06-05
+ogimg: /images/zodiac/semanal_escorpio.png#2023-06-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-06-05'
+ lastmod: '2023-06-12'
 ---
 
 
 
-## No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya Escorpio. Muévete o haz que se mueva el resto.
+## No más paciencia Escorpio. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
 
-Es mejor reflexionar que lamentar Escorpio. Siempre. 
-Sí, quizás aún cargas a tu espalda demasiadas cosas que sabes que no te pertenecen del todo pero, eres así Escorpio, y en eso no cambiarás nunca. A pesar de todo, te has acostumbrado a llevarlas y a pesar de todo, ahora no te tira para abajo nadie.
-¡Traduce tus inquietos impulsos hacia planes que puedan allanar el camino hacia un futuro mejor! Una parte de ti podría estar buscando algo nuevo, fresco y emocionante en la vida. Moverte hacia nuevos círculos y conectar con personas clave podría tener una influencia positiva en tu bienestar y felicidad. Venus entrando a tu signo podría animarte a cambiar tu estilo al vestir o de cabello, dándote una nueva y brillante imagen. Si hacerlo aumenta tu confianza, ¡adelante!
+Has estado esforzándote mucho por hacer las cosas bien, por tratar de arreglarlo todo, por conseguir tus metas y tus objetivos así que, esta semana te mereces hacer todo lo que hagas por y para ti Escorpio.
+Actualmente estás agarrando tu paso y comenzando a tener un sentimiento más aventurero en relación a ciertas ideas clave. Las cosas toman un giro más positivo a finales de esta semana con Mercurio terminando su fase retrógrada. Te percatarás de que el viajar se vuelve más fácil, las cuestiones legales más simples y el estudiar menos exigente. Otro cambio se da el viernes conforme el Sol entra a tu sector profesional de ambiciones, animándote a formar valiosas conexiones. Una vez que hagas esto, tus planes comenzarán a funcionar.
 
 ## Dinero
 
-Esta semana hay un choque de energías poderosas en el cielo. Estas eliminando a las personas que no son compatibles con tu vida. Es hora de dejar de esconderse detrás de los demás o fingir que están ahí sólo para servir. Es hora de ponerse de pie. Tienes que esforzarte para poder obtener el tipo de dinero que deseas y mereces.
+Puede que estés pensando en cómo nivelar tus lados masculino y femenino esta semana. Uno quiere que avances en tus habilidades de comunicación para que puedas codearte con los grandes. No tienes que dejar que los demás verbalmente caminen sobre ti, ni tu tienes que dominar. Tu lugar de trabajo es donde puedes mostrar de lo que estás hecho/a para usar tu creatividad y habilidad para tratar con la gente.

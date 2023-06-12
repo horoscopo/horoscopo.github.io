@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 05 de junio 2023 al 11 de junio 2023 
-description: Horóscopo semanal cancer 05 de junio 2023 al 11 de junio 2023. Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
+title: cancer 12 de junio 2023 al 18 de junio 2023 
+description: Horóscopo semanal cancer 12 de junio 2023 al 18 de junio 2023. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Cáncer, no hay casualidades ni coincidencias.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2023-06-05
+ogimg: /images/zodiac/semanal_cancer.png#2023-06-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-06-05'
+ lastmod: '2023-06-12'
 ---
 
 
 
-## Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
+## Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Cáncer, no hay casualidades ni coincidencias.
 
-Y aunque por dentro te tiemblen las piernas sabes lo que está bien y lo que está mal, sabes lo que te hace daño hoy y lo que te hará daño mañana.
-Aunque puede que sientas impaciencia al principio, irradias suficiente encanto y carisma para impresionar a las personas adecuadas. Alguien podría sentirse atraído hacia ti como resultado, lo que podría conducir a una cita romántica o incluso un negocio lucrativo. Puede que recibas un impulso de energía cuando el Sol se deslice a tu sector de salud y bienestar el Domingo. Su presencia aquí durante el mes por delante resalta tu enfoque hacia sentirte en forma y fabulosamente, animándote a comenzar aquella dieta o rutina de ejercicios que has estado planeando.
+Tienes que improvisar más Cáncer, tienes que dejar a un lado lo políticamente correcto porque aunque tú hagas las cosas bien y como deben hacerse, después, cualquier imbécil te jode a ti la vida por hacer las cosas a su manera. Mira Cáncer, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie. Tienes que aprender a ver quien realmente se subiría al barco contigo si te marchas hacia otro lado y quien te apoyaría para que lo hicieras. Tienes que darte cuenta de tantas cosas… Así que, empieza a testar a algunos, empieza a ponerles un poco al límite. Estás en ese punto en el que todo te da un poco igual, en el que vives los días porque tienes que vivirlos, así como mecanizado, robotizado Cáncer… Y tú no eres así… Quizás estás mirando hacia donde no debes mirar… Si quieres caminar hacia delante no puedes quedarte con lo que “tienes seguro”, porque en el fondo no es tan seguro ni tan estable como tu piensas pero qué pasa, que hasta que no se rompa en mil pedazos no cambiarás el chip? Pues no Cáncer, en serio, ves cambiándolo ya, antes de que ocurra lo peor. Fluye esta semana y deja que la vida te de sorpresas… Y agarra esas sorpresas. No tienes nada que perder. Feliz semana Cáncer.
+Cálidos y tiernos sentimientos animan tu vida esta semana, alentándote a conectar con amistades o familiares que no has visto o sobre quienes no has tenido noticias en algún tiempo. Un enfoque muy animado trae oportunidades de conectar con tus vecinos o de apoyar a organizaciones de caridad o de otro tipo en tu vecindario. Aunque el animado Mercurio da indicios de que podrías encontrarte con algunas demoras, tener una perspectiva optimista puede hacer toda la diferencia. Sin embargo, no derroches el dinero, ya que el estimulante Marte en tu sector de dinero puede animarte a comprar.
 
 ## Dinero
 
-Tienes una relación tensa entre tu hogar y profesión esta semana. Puede que sientas un poco de agobio en el trabajo o que tu carrera pasa por muchos obstáculos en el presente. Al mismo tiempo, tu vida hogareña y sentimientos interiores son algo tumultuosos o turbulentos. Establece un equilibrio al mantener una estrecha vigilancia en tu flujo de efectivo para ayudar a aliviar el estrés. Las cosas mejorarán desde allí.
+Si esta semana estás pensando en cambiar de trabajo, voilà, las fuerzas parecen ayudar. Los planetas que afectan tu trabajo día a día te piden que pienses acerca de cómo cambiar tu situación actual para bien (¿tal vez un aumento?). O empezar a buscar algo mejor. Los aspectos opuestos apoyan que renuncies, pero sólo cuando el tiempo y el dinero estén en orden. Si tu conjunto de habilidades necesita mejorar, pídale a alguien de más arriba que te enseñe algo nuevo.

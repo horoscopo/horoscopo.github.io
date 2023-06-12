@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: aries 05 de junio 2023 al 11 de junio 2023 
-description: Horóscopo semanal aries 05 de junio 2023 al 11 de junio 2023. Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
+title: aries 12 de junio 2023 al 18 de junio 2023 
+description: Horóscopo semanal aries 12 de junio 2023 al 18 de junio 2023. Empieza a hacerte promesas a ti mismo Aries, empieza a prometerte amor propio, hoy y siempre. 
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2023-06-05
+ogimg: /images/zodiac/semanal_aries.png#2023-06-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-06-05'
+ lastmod: '2023-06-12'
 ---
 
 
 
-## Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
+## Empieza a hacerte promesas a ti mismo Aries, empieza a prometerte amor propio, hoy y siempre. 
 
-Esta semana va a estar cargada de altibajos Aries, va a ser una semana muy movidita. Y cuando estés arriba estarás mucho tiempo pero el problema es cuando estás abajo… Paciencia y sangre fría. Vas a tomar decisiones adecuadas pero al fin y al cabo los cambios te trastocan mucho. Tus expectativas son muy altas siempre y como te falle algo, aunque sea por poco, te amarga la existencia. Pero como siempre Aries, hay cosas que no están en tu mano. En realidad hay cosas que aún no has perdonado del todo, hay algo que por dentro te agita, algo que no te deja dormir como quisieras. Pero deja de investigar de una vez, deja de gastar tu tiempo en encontrar errores de los demás. Si no te gusta algo, ¡a la mierda! Sin contemplaciones. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón. La cabeza Aries, la cabeza es la que vale ahora y la que te acabará por salvar. Que no te empujen al límite Aries, no te enredes en mierdas del resto, de verdad. Los cambios no son malos y estos ni siquiera van a ser tan complicados como tú piensas…
-Las cuestiones de estilo de vida siguen manteniendo tu tiempo ocupado, lo que significa que tu semana estará ocupada mientas trabajas y vas al gimnasio. Si logras añadir creatividad a la hora de variar tu rutina diaria, te será más fácil apegarte a ella. Marte en tu sector de placer podría alentarte a explorar eventos culturales, como exposiciones de arte o artesanías, conciertos y mucho más. ¡Diviértete! La probabilidad de ganar algo de dinero extra durante el fin de semana podría volverse algo habitual.
+¿Cómo quieres gastar tu vida Aries? ¿sintiéndote mal? ¿arrepintiéndote por lo que has hecho, o peor aún, por lo que no has hecho? ¿odiando y sintiendo rencor? ¿no afrontando los problemas o las situaciones? Sé valiente Aries, siempre lo has sido, y sigue creyendo en ti mismo, y haz lo que te haga sentir bien, y trata de huir de lo que te encoge el corazón, de lo que te hace daño, y manda lejos a tus pensamientos oscuros que lo único que hacen es que entres en bucles y que desperdicies tu tiempo. Tienes esta vida Aries, sólo esta así que, trata de sentirte orgulloso de cómo la estás llevando. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Aries. Piénsalo bien, ¿qué más puede afectarte? NADA. Eres como eres y nadie va a cambiarte pero tienes que aprender a que te de un poco más igual todo, tienes que aprender a no obsesionarte con nada. Si las cosas no salen del todo bien es porque hay algo mejor que te espera. Y pasará… Pero cambia la manera de ver las cosas porque es la única forma en que cambien las cosas que ves. Feliz semana Aries.
+¿Será que el romance podría estar en el aire? La alineación cósmica del martes sugiere que es posible. El delicioso lazo entre Venus y Marte podría verte en la fascinante compañía de alguien. Marte inicia su fase retrógrada al final de esta semana, por lo que sería mejor no tener demasiadas expectativas acerca de cómo esto podría resultar. Toma cada día como venga, ya que es tu mejor opción por ahora. Con respecto a una decisión profesional, a partir del jueves podrías obtener una segunda oportunidad en una posibilidad que pensabas que habías perdido.
 
 ## Dinero
 
-Te diriges a un tiempo de transformación. Tanto está cambiando ahora en tu sector de carrera y figuras de autoridad que no tienes mucho tiempo para ti mismo/a. Haz valer tus necesidades en las negociaciones salariales, así como en cuestiones diarias de trabajo. Ahora estás subiendo de nivel y es posible que la carga adicional de responsabilidad sea a veces difícil de soportar. Sin embargo, estás cambiando para bien.
+Esta semana se trata del dinero de otras personas y de la deuda, así como la política, los grupos sociales, esperanzas y sueños. Puede que el dinero no esté allí para poder llevar un viejo sueño a la realidad, pero eso no significa que te debas olvidar de él. Las actividades en redes, incluso en línea, pueden ayudarte a atraer a los donantes que necesitas para hacer que esto suceda. Esfuérzate para mantener el equilibrio y la paciencia a medida que avanzas.

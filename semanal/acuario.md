@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 05 de junio 2023 al 11 de junio 2023 
-description: Horóscopo semanal acuario 05 de junio 2023 al 11 de junio 2023. Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
+title: acuario 12 de junio 2023 al 18 de junio 2023 
+description: Horóscopo semanal acuario 12 de junio 2023 al 18 de junio 2023. Estás renaciendo Acuario, renaciendo de las cenizas… Y ya era hora…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2023-06-05
+ogimg: /images/zodiac/semanal_acuario.png#2023-06-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-06-05'
+ lastmod: '2023-06-12'
 ---
 
 
 
-## Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
+## Estás renaciendo Acuario, renaciendo de las cenizas… Y ya era hora…
 
-No sabes cómo desviar tus sentimientos Acuario, sientes con muchísima pasión muchas cosas pero otras se están apagando poco a poco. Y no entiendes por qué, no entiendes como se avivan llamas con personas que no merecen la pena, y como se te apagan con otras que sí. Vas a tener dificultad para liberarte de algunas cosas Acuario… Cuando sientes algo por alguien tu corazón no puede frenar y ahora eso es lo que te está pasando… No eres estúpido por intentar revivir viejos recuerdos y tratar de entender qué fue lo que salió mal o qué es lo que está fallando. La cuestión es que tienes que hablar las cosas, no puedes dejar que se vayan acumulando en tu interior. Si algo no va del todo bien dilo de una vez Acuario. A veces te imaginas un futuro donde termina todo bien, donde eres feliz, donde sonríes cada día, el problema es que el futuro se construye con lo que vas haciendo ahora, y si quieres tener ese futuro deberás empezar a cambiar. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay, y en eso no se puede cambiar por mucho que lo intentes. Date el lujo de sentir lo que sientes, aunque esos sentimientos vayan en contra de lo que querrías sentir. Vamos Acuario que esta semana emocionalmente hablando vas a tener un jaleo en tu cabeza serio y es muy probable que necesites un buen tiempo para aclararte.
-Tu vida parece estar muy ocupada en todos los frentes conforme disfrutas de cada momento. Asegúrate de delegar algunas tareas con el fin de tener tiempo para disfrutar de la semana de festividades. Ciertas relaciones podrían volverse importantes bajo la actividad lunar en tu signo, fomentando que expreses libremente tus sentimientos. El 9 de junio podría ser un día muy emocional por muchas razones pero agradable de todos modos. Además, hay buenas noticias en el frente profesional conforme ciertas influencias estabilizan tu situación, incrementando tu confianza y aminorando tu angustia.
+Deberían valorarte más Acuario, los demás y tú el primero, deberían saber escucharte cuando estás mal, saber comprender porque te sientes en ocasiones así, tratar de meterse un poco en ti, en tu lugar, y descubrirte. Eso es, deberías descubrirte de verdad, y ahora no podrán decir que tú no te estás dejando… No es que te sientas solo, pero muchas veces sientes que vives en un mundo en el que nadie es capaz, por un momento, de ponerse en tu lugar, en el que nadie es capaz de pensar que quizás tú también tienes tus momentos de bajón, tus momentos de pena o de dudas. Bajo esa fachada se esconden sentimientos complicados que muchas veces ni siquiera tú entiendes. Quizás es conformismo, quizás dependencia del resto, o quizás un cúmulo de circunstancias que llevas acumuladas mucho tiempo. Y los días empiezan a pasar, y ves que avanzas, pero a veces no tan deprisa como esperabas. Y ves que el tiempo pasa, y empiezas a estresarte, y te frenas, y de repente quieres ir más deprisa porque ya perdiste mucho tiempo, y te vuelves a frenar. Para Acuario, para un poco. No puedes fingir que las cosas no te importan ¿vale? Porque además, eso al final duele el doble. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… Ahí es cuando empiezas a frenarte, por muy claro que lo tengas todo. Piensa que caminar entre las piedras también es avanzar, así que, lo que has hecho, lo has hecho bien, ahora averigua si quieres seguir por ese camino.
+Con un enfoque en tu sector de horizontes lejanos, puede que disfrutes mucho esta y las próximas semanas. El contexto estelar te anima a darte gustos al máximo con tu amor por los viajes y las nuevas experiencias. Si no has viajado en algún tiempo, los próximos días podrían encontrarte organizando unas vacaciones, preparándote para un viaje o tal vez disfrutando de una caminata por un sendero de excursionismo. Este es el momento para recibir las nuevas oportunidades y aventuras, ya que te beneficiarás ampliamente al hacerlo.
 
 ## Dinero
 
-Un sentimiento de expansión y repentina revelación podría darte una idea que simplemente no puedas contener. Ya que hay cierta actividad en tu sector de relaciones serias y matrimonio, las mejores nociones de hacer dinero pueden provenir de estas áreas. Crea una lluvia de ideas con respecto al matrimonio y la familia y puede que formules una idea para un libro, programa de entrenamiento, o un producto de mucho interés. Venderlo no va a ser difícil.
+Es un buen momento para ti, queriendo más que nada iniciar una nueva cuenta de ahorro y plan de inversiones para asegurar tu futuro. Pero hay tentaciones por todas partes debido a cierta actividad en tu sector de viajes, educación y espiritualidad. La necesidad de viajar y aprender tiene mucho poder sobre ti, y el dinero constantemente se sale de ese agujero en tu bolsillo. Trata de resistirte a la tentación de derrochar. Siempre se puede aprender de los acontecimientos de la vida.

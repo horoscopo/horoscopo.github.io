@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 05 de junio 2023 al 11 de junio 2023 
-description: Horóscopo semanal piscis 05 de junio 2023 al 11 de junio 2023. Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
+title: piscis 12 de junio 2023 al 18 de junio 2023 
+description: Horóscopo semanal piscis 12 de junio 2023 al 18 de junio 2023. Eres un signo de agua, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2023-06-05
+ogimg: /images/zodiac/semanal_piscis.png#2023-06-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-06-05'
+ lastmod: '2023-06-12'
 ---
 
 
 
-## Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
+## Eres un signo de agua, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
 
-Aunque creas que tus asuntos están cerrados del todo no es así, y en el fondo lo sabes, por eso por fuera querrías hacer muchas cosas ya, en el momento, pero sin embargo por dentro sabes que con calma y con cabeza fría las decisiones se toman mucho mejor. 
- En la vida, valora lo que pierdes, pero mucho más lo que ganas. Debes aprender a desprenderte de lo que no te hace bien, debes aprender a echar de tu vida o a alejarte de lo que te causa más de un problema.
-La fiebre de salir a gastar podría apoderarse de ti al comienzo de la semana gracias a la reciente Luna Llena que te anima a gastar en objetos que has codiciado desde hace algún tiempo. Puede que decidas que los quieres comprar sin importar qué suceda, y si es así, pues no te queda más que también disfrutar de ellos. La comunicación es la clave mientras la actividad solar en tu sector de conversación y pensamiento, lo que podría inspirarte a ponerte en contacto con miembros de tu familia o cualquier otra persona que no hayas visto en mucho tiempo.
+Tienes que plantarte Piscis, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad. Y ahora es lo que más necesitas, y sobretodo estabilidad emocional. Asegúrate de que todo está bien cerrado, asegúrate de no tener deudas con nadie, de terminar con los capítulos de tu vida que están abiertos y que ya no sirven para nada, y cuando lo hayas hecho encontrarás esa paz que a veces tanto necesitas. No te comprometas con nada a largo plazo, disfruta un poco más del momento, organiza tu vida y no te estreses porque no te salgan todas las cosas que quieres hacer en el momento. Tienes que utilizar tu tiempo en lo que más te ayude, en lo que te haga mejor persona. Este es el comienzo de una nueva semana, puedes desperdiciarla o usarla para hacer cosas buenas. Lo que hagas hoy será muy importante, estás gastando un día de tu vida en ello. Cuando llegue mañana, ese día se habrá ido para siempre, lo habrás dejado atrás así que, haz que sea un buen día. Olvídate de tratar de buscar siempre algo que todavía no existe y céntrate en el mismísimo momento. Vas a ver como la ansiedad desaparece. Feliz semana Piscis.
+Necesitarás tomar una decisión con respecto a si deseas algo o no. Poderosas influencias surgiendo en este momento podían hacerte dudar, lo que podría resultar ser fatal. Si sientes incierto con respecto a algo, deja que tus instintos sean tu guía. Sin embargo, puede que confiar en tu intuición no sea tan fácil como debería ser. En ese caso, acudir a una amistad de confianza puede ser tu mejor alternativa. Tal persona podría ser capaz de detectar ciertos defectos o ventajas que tú no pudiste distinguir.
 
 ## Dinero
 
-Puede que parezca que el dinero está en todo tu alrededor ahora. Dado que cierta actividad afecta al sector que rige la deuda o el dinero de otros, puede ser extremadamente bueno establecer un nuevo plan de pago para las facturas pendientes, o buscar dinero por parte de los inversionistas para un nuevo proyecto. Si estás tratando de atraer dinero, arma un plan de negocios sólido. Enumera tus habilidades, pasión, y -sobre todo- las cifras para mostrar tu valor real.
+Esta semana podría ser un reto para ti. Podías sentir como si alguien te obligara a hacer algo contra tu voluntad. Pero el Universo está simplemente tratando de empujarte hacia tu hogar y a los sentimientos internos. Esto podría revelar algo importante acerca de cómo ganar más dinero a corto plazo. Trabajar en casa puede ser una buena opción.
