@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 11 de junio 2023
-description: Horóscopos del dia de hoy 11 de junio 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 12 de junio 2023
+description: Horóscopos del dia de hoy 12 de junio 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-06-11
+ lastmod: 2023-06-12
 ---
-La exploración dirige el curso de la vida hacia una nueva dirección. Los corazones son tan puros como el oro cuando la Luna aspecta a Júpiter esta noche. Una buena manera de comenzar una relación, ¿no te parece?
+Un momento de miedo proveniente de la Luna cuadrando a Plutón te aconseja analizar lo mucho que estás tratando de ocultar el hecho de que tu opinión ha cambiado o de que (¡oh, no!) te equivocaste acerca de algo. Por la noche, disfruta de hacer nuevas amistades con una sutil pizca de emoción proveniente de la Luna en Aries.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
