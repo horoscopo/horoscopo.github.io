@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 13 de junio 2023
-description: Horóscopos del dia de hoy 13 de junio 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 14 de junio 2023
+description: Horóscopos del dia de hoy 14 de junio 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-06-13
+ lastmod: 2023-06-14
 ---
-Hoy, las personas se comunican con seriedad, confianza y dicen la versión corta de las cosas mientras Mercurio retrógrado se opone a Júpiter. En realidad, esta es sólo una forma efectiva de comunicación, sin palabras ambiguas que podrían ser mal interpretadas. Esta noche, las personas absorben sus estados de ánimo mutuos de manera perceptiva bajo la Luna en Cáncer. ¡Cuidado! Esto incluye emociones ardiendo en los corazones.
+Un cambio en las circunstancias podría resultar en un cambio temporal de dirección cuando la Luna aspectando a Urano te tome por sorpresa el día de hoy. En este sentido, puede que algo surja de aquí. Aprovecha la oportunidad. Esta noche, los mensajes son transmitidos fácil y agradablemente cuando la Luna forma sextil con Mercurio. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
