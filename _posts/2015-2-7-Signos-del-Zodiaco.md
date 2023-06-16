@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 15 de junio 2023
-description: Horóscopos del dia de hoy 15 de junio 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 16 de junio 2023
+description: Horóscopos del dia de hoy 16 de junio 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-06-15
+ lastmod: 2023-06-16
 ---
-Hoy podría haber algunos sorprendentes e intuitivos saltos cuando la Luna forme sextil con Neptuno y aspecte al profundamente perspicaz Saturno. Se siente como si algunas cosas hubieran sido destinadas. La química sobrecalienta el aire cuando Venus forma sextil con Marte. Esta conexión es oportuna. Si tienes pareja, tal acentúa la armonía, por lo que disfruten de su acogedora y mutua compañía.
+Mantente alerta y sé consciente de que no debes tratar de apresurar las cosas durante el trígono entre Marte y Plutón que durará los próximos cuatro días. Si vale la pena hacerlo, requerirá de tiempo. Comienza a planear. Demasiada gente y demasiada emoción crean confusión bajo la Luna en Escorpión de esta noche.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
