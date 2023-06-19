@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 12 de junio 2023 al 18 de junio 2023 
-description: Horóscopo semanal cancer 12 de junio 2023 al 18 de junio 2023. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Cáncer, no hay casualidades ni coincidencias.
+title: cancer 19 de junio 2023 al 25 de junio 2023 
+description: Horóscopo semanal cancer 19 de junio 2023 al 25 de junio 2023. Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2023-06-12
+ogimg: /images/zodiac/semanal_cancer.png#2023-06-19
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-06-12'
+ lastmod: '2023-06-19'
 ---
 
 
 
-## Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Cáncer, no hay casualidades ni coincidencias.
+## Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
 
-Tienes que improvisar más Cáncer, tienes que dejar a un lado lo políticamente correcto porque aunque tú hagas las cosas bien y como deben hacerse, después, cualquier imbécil te jode a ti la vida por hacer las cosas a su manera. Mira Cáncer, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie. Tienes que aprender a ver quien realmente se subiría al barco contigo si te marchas hacia otro lado y quien te apoyaría para que lo hicieras. Tienes que darte cuenta de tantas cosas… Así que, empieza a testar a algunos, empieza a ponerles un poco al límite. Estás en ese punto en el que todo te da un poco igual, en el que vives los días porque tienes que vivirlos, así como mecanizado, robotizado Cáncer… Y tú no eres así… Quizás estás mirando hacia donde no debes mirar… Si quieres caminar hacia delante no puedes quedarte con lo que “tienes seguro”, porque en el fondo no es tan seguro ni tan estable como tu piensas pero qué pasa, que hasta que no se rompa en mil pedazos no cambiarás el chip? Pues no Cáncer, en serio, ves cambiándolo ya, antes de que ocurra lo peor. Fluye esta semana y deja que la vida te de sorpresas… Y agarra esas sorpresas. No tienes nada que perder. Feliz semana Cáncer.
-Cálidos y tiernos sentimientos animan tu vida esta semana, alentándote a conectar con amistades o familiares que no has visto o sobre quienes no has tenido noticias en algún tiempo. Un enfoque muy animado trae oportunidades de conectar con tus vecinos o de apoyar a organizaciones de caridad o de otro tipo en tu vecindario. Aunque el animado Mercurio da indicios de que podrías encontrarte con algunas demoras, tener una perspectiva optimista puede hacer toda la diferencia. Sin embargo, no derroches el dinero, ya que el estimulante Marte en tu sector de dinero puede animarte a comprar.
+Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca Cáncer. La gente se cree muchas veces que no sufres, que eres demasiado frío en ocasiones por no mostrar tus verdaderos sentimientos, por no abrirte en canal como hacen otros. Pero la verdad no es esa. Estás cansado de dar, de intentar, de dejar de lado tus derechos porque los demás no se tomen las cosas mal, incluso de arrastrarte. De verdad que estás harto de todo eso. A veces hay que ceder Cáncer pero el problema contigo es que tu das la mano y se toman todo el brazo. Empieza a imponerte un poco. Una cosa es que seas bueno, otra cosa es que te puedan sacar hasta la sangre por esto. No te enfades contigo mismo si no has sabido decir todo lo que piensas, aún tienes posibilidad de remediarlo, de hecho, necesitas remediarlo. No puedes pretender que nada cambie si tú no cambias Cáncer, a veces las decisiones más complicadas son las que al final nos harán libres. Y necesitas sentir eso ahora. Disfruta de la semana y recuerda que eres como eres, que nadie puede hacerte cambiar pero que tú tampoco podrás cambiar a nadie. Conecta con quien conecta contigo.
+¿En qué es lo que más quieres invertir? Sea lo que sea, la Luna Nueva del lunes te anima a moverte hacia la dirección que te traiga el mejor resultado posible. Podrías tener más recursos a tu disposición de los que crees tener, lo que incluye tener fe en ti y en lo que estás esperando alcanzar. Si te preocupa lo que podrías acabar perdiendo, podría ser debido a que ciertos temores están bloqueando el proceso. Puede que tales comiencen a disiparse cuando des el primer paso.
 
 ## Dinero
 
-Si esta semana estás pensando en cambiar de trabajo, voilà, las fuerzas parecen ayudar. Los planetas que afectan tu trabajo día a día te piden que pienses acerca de cómo cambiar tu situación actual para bien (¿tal vez un aumento?). O empezar a buscar algo mejor. Los aspectos opuestos apoyan que renuncies, pero sólo cuando el tiempo y el dinero estén en orden. Si tu conjunto de habilidades necesita mejorar, pídale a alguien de más arriba que te enseñe algo nuevo.
+Estás en medio de un replanteamiento serio cuando se trata de gastar. Puede que te estés preguntando cómo proteger a tu familia a largo plazo, lo que te podría llevar a considerar la contratación de un asesor financiero u otro experto. Otros miembros de tu tribu pueden tener ideas sorprendentemente buenas acerca de cómo ahorrar e invertir para un futuro compartido. Escucha.

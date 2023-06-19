@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 12 de junio 2023 al 18 de junio 2023 
-description: Horóscopo semanal sagitario 12 de junio 2023 al 18 de junio 2023. Llega una semana bonita Sagitario, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención Sagitario, y seguramente la persona que menos te esperabas…
+title: sagitario 19 de junio 2023 al 25 de junio 2023 
+description: Horóscopo semanal sagitario 19 de junio 2023 al 25 de junio 2023. A veces hay que llevar al límite las cosas Sagitario, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2023-06-12
+ogimg: /images/zodiac/semanal_sagitario.png#2023-06-19
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-06-12'
+ lastmod: '2023-06-19'
 ---
 
 
 
-## Llega una semana bonita Sagitario, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención Sagitario, y seguramente la persona que menos te esperabas…
+## A veces hay que llevar al límite las cosas Sagitario, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
 
-El mundo puede esperar Sagitario, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir… No paras, tu mente no para ni un momento y al final como no eches el freno te acabará pasando factura. Relájate Sagitario, disfruta de los pequeños momentos que la vida te da, de esos momentos que no cuestan tanto pero que valen mucho y sobretodo piensa que todo llega pero que no hay que forzar las situaciones. Todo se acaba colocando en el lugar que debe estar. Necesitas descansar un poco pero no puedes estar aquí queriendo estar allí porque así ni descansas ni nada. Vas a empezar un proyecto muy bueno y va a suponer un cambio muy grande en tu vida pero debes estar centrado al 100% y no tener la cabeza en otras cosas así que, por ahora, trata de disfrutarte un poco, trata de relajarte y de hacer las cosas con calma pero sin parar. Y pasa de los jueguecitos mentales esta vez, al final esa clase de personas sólo quieren sacarte de tu camino. Sé más inteligente que ellos y en vez de la impulsividad utiliza el sentido común. No te aportan nada.
-Con tu sector de estilo de vida como el centro de atención durante unas semanas, tienes la oportunidad de mejorar tu estado de salud o de progresar en el trabajo. De hecho, este es un buen momento para que evalúes tu nivel general de felicidad y pienses qué puedes hacer para aumentarlo. El cosmos te inspira a buscar intuitivamente lo que necesitas para sentirte con más vitalidad y energía, y puede que no sea lo que esperabas. Si necesitas un consejero de vida o un entrenador personal, cualquiera de estas dos opciones podría dar resultado.
+Tienes que enderezar un poco tu vida Sagitario, y dejar de lado algunas inseguridades, de hecho, serás más feliz cuando empieces a creerte lo que vales de verdad, lo que puedes llegar a conseguir y sobretodo lo que te mereces. En realidad debes encontrar esa seguridad en tu día a día y no dejar que nadie te la arrebate. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte. No necesitas a nadie para ser feliz pero si están cerca de ti sí que necesitas que cuiden también de tu vida como tu haces con ellos. Últimamente has asumido cosas que no te pertenecen, has perdonado y has tratado de olvidar para mantener un equilibrio pero a veces no se trata de eso, se trata de rebelarte, se trata de dejar las cosas claras a más de uno y sobretodo de estar en paz contigo mismo, de respirar. Aprecias la sencillez y odias pelear, así que, ¿para qué peleas? No te preocupes innecesariamente por nada ni por nadie, y si estás un poco estresado o abrumado tómate unos días, relaja la mente y vuelve para continuar lo que sea que tengas. Es posible que necesites un poco de espacio, y no es malo, simplemente es eso, necesario.
+Puede que sea difícil mantenerte en rumbo con respecto a tus compromisos, sobre todo cuando hay tanto por hacer y tantos lugares a los cuales ir. Podrías sentir atracción hacia la aventura, tal vez la emoción de un nuevo romance o la oportunidad de ir a un lugar que has deseado visitar por mucho tiempo. Bien te puede ser posible cumplir con tus responsabilidades y al mismo divertirte si tienes disposición a pensar de manera diferente. En otra nota, puede que estés haciendo más que tu parte justa de trabajo hogareño.
 
 ## Dinero
 
-Eres un genio, por supuesto. Lo que pasa es que los demás no se han percatado de ello. Puede que te atraigan todas las cosas que son únicas e individuales, especialmente en lo que respecta a tu dinero. Y puesto que la actividad está en tu sector de grupos y política, realmente es el momento de correr la voz sobre lo que actualmente estás haciendo para ganar dinero, así como las cosas que quieres hacer en el futuro.
+Eres casi como una pantalla en la que otros pueden proyectan sus esperanzas, miedos, logros y mucho más. Esto te permite ser quien quieras ser esta semana también. Así que si quieres un mejor trabajo o una posición en la cadena alimenticia desde donde estás ahora, actúa como si ya fuera tuyo. Ciertos aspectos te ayudarán a manifestar los cambios financieros que quieres ver en tu vida y poder guardar algo para el futuro.
