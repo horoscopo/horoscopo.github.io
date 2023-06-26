@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 19 de junio 2023 al 25 de junio 2023 
-description: Horóscopo semanal geminis 19 de junio 2023 al 25 de junio 2023. Siempre te adelantas a los malos tiempos, de hecho es como si los vieras venir, e intentas retirarte de ese camino… Así que, que ahora no vengan a contarte cuentos, y mucho menos a hacerte creer que eres tú el que estabas equivocado.
+title: geminis 26 de junio 2023 al 02 de julio 2023 
+description: Horóscopo semanal geminis 26 de junio 2023 al 02 de julio 2023. A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad Géminis, ahora estás que lo partes.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2023-06-19
+ogimg: /images/zodiac/semanal_geminis.png#2023-06-26
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-06-19'
+ lastmod: '2023-06-26'
 ---
 
 
 
-## Siempre te adelantas a los malos tiempos, de hecho es como si los vieras venir, e intentas retirarte de ese camino… Así que, que ahora no vengan a contarte cuentos, y mucho menos a hacerte creer que eres tú el que estabas equivocado.
+## A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad Géminis, ahora estás que lo partes.
 
-A veces, no es fácil vivir la vida Géminis, a veces no es fácil enfrentarte al mundo con una sonrisa cuando en el fondo estás llorando por dentro. Pero la vida sigue, y aún tienes fuerza suficiente dentro de ti como para aguantar lo que te echen. Algún día te olvidarás de las heridas, de la razón por la que llorabas y por qué o quién te llenaste de dolor. Hay que dejar que las cosas se desarrollen a su manera y a su propio ritmo, no trates de que las cosas pasen a tu manera Géminis. En realidad ese no es el plan, y, en el fondo, no te beneficia. Lo que importa en el fondo es el último capítulo, no tanto el primero…
-Tu sector social entra en acción a partir del 19 de junio y podrías tener más actividades que antes, ya que habrá eventos importantes y ocasiones festivas. Podrías organizar una gran fiesta o un acto benéfico y con tu capacidad para organizar eventos, todo saldrá a la perfección. Mercurio se vuelve retrógrado esta semana, por lo que debes ser prudente al firmar un contrato que te involucre a largo plazo. Es mejor que esperes hasta que Mercurio vuelva a avanzar el 22 de junio.
+En la vida estamos acostumbrados a arrepentirnos de muchas cosas que en su día hicimos mal pero que también ahora podemos arreglar, empezando por cambiar nuestra actitud. Si no tiene solución no hay que preocuparse más, es algo con lo que te tocará vivir, para bien o para mal, el resto de tu vida, es algo que no cambiará. Pero lo que aún tiene solución, sea la que sea, ¿por qué no solucionarlo? Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. Aguantarse toda la vida algo dentro no es bueno, hay que sacar lo que uno siente, las discusiones a menudo son buenas, siempre que sean respetando al otro, el hecho de decir qué es lo que cambiarías, qué es lo que te pareció mal, qué es lo que te hubiera gustado decir hace mucho tiempo… Todas esas cosas limpian a uno por dentro, el rencor, la rabia, las ganas de decir y no poder, el poder decir pero después no hacer, todo eso, cuando no se saca fuera se acumula, y ¿por qué no sacarlo ahora? ¿Por qué no decir todas esas palabras que no se dijeron? ¿Por qué no dejar limpia tu alma? Hubo un tiempo en el que te funcionó eso de querer decir tanto y saber que es mejor no decir nada… Pero ahora quizás es el momento de que las cosas cambien Géminis…
+No permitas que nadie te apresure a tomar una decisión o a hacer un compromiso antes de tiempo. Con Mercurio tornándose retrógrado, es esencial leer con mucho cuidado las cláusulas de un contrato o documento legal antes de fir Alguien podría estarse sintiendo muy sensible, dándote la sensación de que tienes que andarte con mucho cuidado. En esta situación, vale la pena tener honestidad en lugar de tolerar las tendencias manipuladoras de alguien. El romance puede florecer cuando la oportunidad para una cita especial aumenta tu innata pasión.
 
 ## Dinero
 
-¡Vas con todo esta semana! Esto proporciona una gran explosión de energía destinada a mejorar tu publicidad para atraer a nuevos compradores o esfuerzos de ganar dinero, como iniciar un nuevo negocio. Si estás buscando una nueva posición, primero pregunta sobre el salario para que no te decepciones después de haber hecho la entrevista. Un aspecto inarmónico podría significar que la familia y el romance se ponen en segundo plano durante un tiempo.
+Podrías estar siendo llamado/a a asumir un papel de liderazgo en el trabajo. Puede que tengas que sentir comodidad al hablar en público e iniciar una nueva ronda de llamadas en frío para incrementar tus ventas. La comunicación en todas sus formas, será muy importante. Tu carrera necesita un poco de energía concentrada y deliberada. Disminuye  la confusión con el fin de obtener lo que se aproxima a ti.

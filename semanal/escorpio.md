@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 19 de junio 2023 al 25 de junio 2023 
-description: Horóscopo semanal escorpio 19 de junio 2023 al 25 de junio 2023. Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
+title: escorpio 26 de junio 2023 al 02 de julio 2023 
+description: Horóscopo semanal escorpio 26 de junio 2023 al 02 de julio 2023. Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2023-06-19
+ogimg: /images/zodiac/semanal_escorpio.png#2023-06-26
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-06-19'
+ lastmod: '2023-06-26'
 ---
 
 
 
-## Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
+## Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
 
-No vas a decir no a nada, ¿para qué? Que la vida te haya fallado mucho no significa que lo vaya a hacer más veces, o siempre. Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta. Es como cuando crees que un tema está totalmente cerrado pero en el fondo de tu alma te gustaría que estuviera un poco abierto, sólo para poder asomarte a ver qué es lo que pasa, y de repente sin que tu lo quieras se empieza a abrir, y no porque tú lo hayas buscado si no porque te ha buscado a ti. Y claro, no sabes si esto es bueno o malo, porque no lo esperabas. Pues Escorpio, todo pasa por alguna razón, de verdad, quizás tienes un objetivo en la vida de otros ahora, quizás necesitas enseñarles o hacerles la vida más fácil, servirles de complemento y que ellos te complementen a ti. A veces hay que estar con esas personas sólo para disfrutarlas, sin más. Sin compromisos, conociéndolas, escucharlas sin implicarte en nada… ser más contemplativos, más frívolos, sin pensar por qué estás ahí ahora o qué pasaría si no estuvieras. Piénsalo así, sin darle más vueltas a todo. Si la puerta se está abriendo es por algo, y en tu mano está volverla a cerrar de golpe o mirar un poco, a ver qué intenciones hay. Todo pasa por una razón, y claro que asusta, pero en el fondo, ¿no es un poco lo que querías? La diferencia es que el paso ahora, no lo has dado tú, si no que simplemente te ha llegado. Prueba a ver, no digas que no y no digas que nunca, porque nunca se sabe…
-Puede que te enfrentes a tu familia con respecto a una decisión clave durante esta semana, pero podría ser parte de un asunto más importante que podría salir a la luz a medida que transcurre la semana. La forma de manejar esto podría ser ponerte en el lugar de la otra persona. Hacerlo debería fomentar la discusión y ayudarles a llegar a un compromiso. Tu planeta regente se vuelve retrógrado el miércoles, lo que podría encontrarte aprovechando cualquier oportunidad para tu mejora a un nivel personal.
+Tienes conversaciones pendientes Escorpio, tienes algunas cosas que solucionar y mejor que lo hagas cuanto antes si no quieres tener después quebraderos de cabeza. En el fondo lo tienes todo súper claro, sabes lo que te interesa y sabes qué camino debes tomar para lograr lo que de verdad te dará felicidad: la realización autopersonal. De verdad Escorpio, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella. Tienes talento, tienes actitud y sobretodo tienes oportunidades para hacerlo. Esta semana pasarán cosas buenas Escorpio, la vida te dará oportunidades, te pondrá en el lugar en el que debes estar. No dejes pasar nada, vas a terminar una etapa que te dio mucha felicidad pero es necesario avanzar. Di sí a los proyectos que llegan, céntrate en ti y en superarte día a día y por favor, pasa totalmente de los malos rollos y de las malas influencias. Si no lo haces no avanzarás, y ahora tienes por delante mucho en juego. Pasa más tiempo con los tuyos y desahógate cuando lo necesites. No por callarte se solucionará nada, a veces es necesario hablarlo y ver otros puntos de vista.
+A una parte de ti le gustaría estar de viaje a medida que se acerca el nuevo Julio. Sin embargo, un enfoque muy definido en la comunicación y en tu entorno local sugiere que podrías tener muchas cosas que hacer en tu lugar. Puede que surjan algunas oportunidades creativas que podrías aprovechar sin problemas. A medida que el brillante sol se alinea con el etéreo Neptuno, un encuentro podría ser una señal del destino e incluso hasta mejorar tu reputación. Puede que te sientas más audaz cuando el planeta rojo en tu signo te empuja hacia adelante.
 
 ## Dinero
 
-Puede ser que tus ideas no tengan esa habitual ligereza ahora y podrían incluir algunos conceptos muy serios. La buena noticia es que podrán ser puestos a buen uso muy pronto. Hasta entonces, la preocupación por tu hogar domina tu pensamiento. Puedes darte cuenta de que tiene mucha tentación en gastar en renovaciones o redecorar, especialmente si estás estableciendo una oficina dentro de tu hogar. Sin embargo, no necesitas de mucho.
+Está subiéndote a grandes olas de cambio en tu vida monetaria. Tienes muchas ideas creativas sobre cómo ganar y ahorrar más, lo cual es genial. Pero también eres un poco inestable a veces, así que tener un plan B, C, y D no estaría de más. Mientras tanto, tu sector de carrera se está encendiendo, pidiéndote que asumas un rol de liderazgo.

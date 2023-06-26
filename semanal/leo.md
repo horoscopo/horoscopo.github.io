@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 19 de junio 2023 al 25 de junio 2023 
-description: Horóscopo semanal leo 19 de junio 2023 al 25 de junio 2023. Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
+title: leo 26 de junio 2023 al 02 de julio 2023 
+description: Horóscopo semanal leo 26 de junio 2023 al 02 de julio 2023. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Leo porque no eres así. 
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2023-06-19
+ogimg: /images/zodiac/semanal_leo.png#2023-06-26
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-06-19'
+ lastmod: '2023-06-26'
 ---
 
 
 
-## Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
+## Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Leo porque no eres así. 
 
-Madura Leo, madura y aléjate de las personas y de las situaciones que dañan tu autoestima, tus valores, tu moral… Aléjate de las personas que tratan de apagarte lentamente. Que a veces te crees muy fuerte Leo, te crees que puedes con todo, que nada ni nadie te hará daño… Pero por dentro hay corrosión, por dentro hay recuerdos que no son fáciles de olvidar y que se van acumulando… A pesar de que tengas muy bien aprendidas las lecciones te cuesta ponerlas en marcha, perdonas demasiado, perdonas incluso sabiendo que ya no hay nada que hacer, que las cosas no van a cambiar, que todo esto ya lo has vivido y que es más de lo mismo. Lo peor no es eso, lo peor es que tú peleas hasta el final, lo peor es que tu perdonas cosas imperdonables, y lo peor es que al final, si te tratan bien, parece que todo se te olvida. Tienes que empezar a dejar que el resto luche por tu Leo, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado. Esta semana hay una fuerte reconciliación con alguien importante para ti, pero tienes que estar muy seguro de querer reconciliarte, tienes que tener tus ideas claras y pase lo que pase comprender que el alma siempre sabe cómo curarse a sí misma. El desafío es silenciar a la mente cuando no calla.
-No te sorprendas si te sientes emocional esta semana. Con la reciente Luna nueva manifestándose en tu sector de relaciones, las emociones podrían intensificarse. Además, tal vez sientas la tentación de actuar impulsivamente o tomar una decisión a ciegas, lo que puede no ser una buena señal para ti. Sin embargo, puedes hacer que los próximos días sean un éxito si piensas antes de actuar y evalúas cada decisión con cuidado. Busca consejo si lo necesitas, pero asegúrate de que provenga de una fuente confiable.
+No es que estés cambiando Leo, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo, prefieres, digamos, no arriesgar. La gente a menudo es muy egoísta, y cree que porque tengas una actitud diferente, eres tú quien está fallando, y no. El problema es que no eres estúpido/a y que si estás cambiando es porque ya has recorrido el mismo camino varias veces y sabes que en el fondo, y en estos momentos ya no te llevará a ningún sitio. A lo largo de tu vida has perdonado cosas que sabes que a ti jamás te perdonarían y por eso, te has sentido impotente muchas veces, porque en el fondo, y en tu interior, eso es fallarte a ti mismo/a, por eso estás cambiando o lo estás intentando hacer a muerte, porque no es algo bueno para ti, ni más ni menos. Los que te quieran y estén a tu lado deben entenderlo, y los que te tachen de egoísta sabes que no están mirando por tu bien si no por lo que les interesa a ellos… Esta semana te vas a sentir más fuerte que nunca, aunque lo hagas solo/a, te vas a sentir libre, vas a sentir que puedes con todo. Te lo has prometido a ti mismo/a…
+Parece que se avecinan tiempos agitados, en los que puedes recibir buenas noticias o incluso una oferta que no puedes rechazar. Aunque la carga de trabajo sea grande, tómate tiempo para evaluar una oportunidad inesperada. Puede ser el camino hacia un sueño profesional. La vida en el hogar se mantiene positiva y animada. Tanto es así que considerarías realizar algunos cambios en tu estilo de vida para aumentar tu energía en las siguientes semanas atareadas.
 
 ## Dinero
 
-Es una semana muy ocupada para ti conforme los aspectos afectan tu vida hogareña y sentimientos internos. Podrías estar pensando trabajar desde casa o simplemente usar tu dinero para mejorar la apariencia de tu hogar. Ciertamente hay una gran cantidad de energía que poner en un proyecto como este en estos momentos.
+Puede que tengas la tentación de contar tu historia en más de una forma. Podrías percatarte de que tu escritorio está lleno de intentos de otras personas en busca de trabajo, buscando contribuciones para sus asociaciones, o que sólo quieren ponerse al día. Pero también estás de un humor soñador, y fácilmente podrías pensar en una estupenda idea para la próxima gran novela. Tu creatividad está zumbando a toda máquina.
