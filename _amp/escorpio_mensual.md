@@ -1,18 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Escorpio Junio 2023 
+title: Horoscopo Escorpio Julio 2023 
 permalink: /horoscopo-mensual/amp/escorpio/
 normallink: /horoscopo-mensual/escorpio/
 home: FALSE
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Escorpio_mes.png#2023-05-28
+ogimg: /images/mes/Escorpio_mes.png#2023-06-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-05-28'
+ lastmod: '2023-06-28'
 ---
 
 
-El 4 de junio, la luna llena quiere que estés saludable y feliz en todas las pequeñas cosas que haces día a día. Aprecia algo pequeño, ya sea una planta que florece en tu casa o una nueva taza para el café, y date cuenta de que, en realidad, que sea pequeño no significa que sea insignificante. La luna nueva del día 18 te promete un tiempo de descanso en privado muy enriquecedor. Úsalo con discreción, a solas o con algunas personas cercanas especiales, y adopta perspectivas que pueden mejorar el resto de tu año. El 30 de junio, la actividad lunar está cargada de amor y afecto. Puede que no aparezca tu alma gemela, pero es una posibilidad. 
+El trígono entre la Luna y Júpiter del 1 de julio comienza con una nota generosa y compasiva. Danza y diviértete bajo la Luna Llena del 3 de julio, momento en el que tu vida social debería resplandecer y brillar. Espera recibir invitaciones o boletos para un gran concierto o espectáculo. No tienes que ser tú quien organice la fiesta esta vez. La Luna Nueva del 17 de julio destaca las comodidades humanas y lo saludable que tales pueden ser. Puede que a veces sea difícil moderar lo que comes y cuanto comes, pero deberías ser capaz de reducir el estrés y disfrutar de un horario menos agitado. Tus días aún estarán ocupados, por supuesto.
