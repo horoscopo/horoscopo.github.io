@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: aries 26 de junio 2023 al 02 de julio 2023 
-description: Horóscopo semanal aries 26 de junio 2023 al 02 de julio 2023. Estás pasando un momento un poco extraño, estás cerrando algunos ciclos y por otro lado estás abriendo otros pero no estás seguro del todo. De nada. El corazón te dice unas cosas, la cabeza otras, y en medio estás tú, dejándote guiar a veces por una cosa pero sin desatender a la otra. 
+title: aries 03 de julio 2023 al 09 de julio 2023 
+description: Horóscopo semanal aries 03 de julio 2023 al 09 de julio 2023. Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida Aries, vuelve a brillar.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2023-06-26
+ogimg: /images/zodiac/semanal_aries.png#2023-07-03
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-06-26'
+ lastmod: '2023-07-03'
 ---
 
 
 
-## Estás pasando un momento un poco extraño, estás cerrando algunos ciclos y por otro lado estás abriendo otros pero no estás seguro del todo. De nada. El corazón te dice unas cosas, la cabeza otras, y en medio estás tú, dejándote guiar a veces por una cosa pero sin desatender a la otra. 
+## Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida Aries, vuelve a brillar.
 
-Tienes que empezar a vivir de nuevo Aries, a dejar ir cuando debas dejar ir, a mantener cuando debas mantener, y a dejar de sufrir por cosas que de verdad te quitan el sueño. Nada del pasado se puede cambiar pero sí que puedes mejorarlo, y esa es tu misión ahora. Mejorar tu calidad de vida. No salgas corriendo y esperes que todo se solucionará solo porque no es así, deja de disculparte cuando no estás haciendo nada malo, y nunca vuelvas a tapar nada. La sinceridad por delante de todo, no te mientas a ti mismo. Prueba a meditar un poco, piensa cómo debes decir las cosas y aunque no quieras hacer daño tampoco dejes que los demás te lo hagan a ti. Hay cosas que quieres que salgan a la luz, pero tranquilo, la verdad siempre va a salir así que, ahí te darás cuenta de quien sí y quien no, de la honestidad de las personas. De verdad Aries, olvídate de lo que debes hacer, olvídate un poco de las obligaciones de tu día a día y dedícate más tiempo a ti. Y si las decepciones llegan no te lamentes. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
-Sigue habiendo un intenso enfoque en tu sector de comunicación, que continuará durante algún tiempo más. Sin embargo, el lunes podría coincidir con un malentendido, que podría deberse a un genuino error. Antes de que digas cualquier cosa, puede que lo prudente sea dejar que las cosas se tranquilicen durante uno o dos días, ya que todo podría terminar en la nada. 
-El martes puede ser un buen día para una cita romántica o un divertido evento social. Si alguien te hace una invitación, aprovéchala al máximo.
-El fin de semana podría encontrarte buscando una vía de escape de tu rutina habitual. Cuando el expresivo Mercurio se conecta con el incansable Urano, puede que no estés a gusto con tus actividades normales. De ser así, este puede ser un buen momento para experimentar con nuevas ideas o inscribirte en una interesante clase o experiencia. Nunca sabes si esto podría llevarte a nuevos y positivos desarrollos en el futuro.
+Controla tus impulsos y sobretodo tus nervios e intenta evitar conflictos con las personas cercanas a ti. No saldrá nada bien. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. Cuenta hasta diez antes de saltar con alguna mala palabra, piénsalo dos veces antes de estropearlo. Resiste la tentación de crear un conflicto. Diplomacia y pies de plomo Aries. Siempre la has tenido pero claro, todo el mundo tiene sus límites. Define tus prioridades y no acumules, es importante que lo tengas claro, si acumulas lo único que puede pasar es que explotes, y además que salpique a todos, sin excepción, porque el día que Aries estalla, nadie se salva.
+Si una inesperada oportunidad se te presenta, puede que te dispongas a ver a dónde te conduce, incluso si no sabes mucho sobre ella. Existe la posibilidad de que pueda abrirle la puerta a un beneficio inesperado. Los días de entre semana traen consigo un poderoso aspecto que podría animarte a obtener lo que quieres. Sólo que primero asegúrate de que sea adecuado para ti. La Luna Llena en tu sector empresarial sugiere que debes tener mucho cuidado con ofertas, especialmente las que implican una gran cantidad de dinero.
 
 ## Dinero
 
-Puedes lograr cualquier cosa que te propongas esta semana. ¿Te acuerdas de esa lista de tareas que está  haciendo un agujero en tu bolsillo? Esta es la semana indicada para hacerle frente a los elementos más difíciles. ¡No te puedes negar a hacerlo! La suerte y la creatividad ayudan a que tu vida social explote. Así que, junta a los contactos que tengas para ver cómo se pueden ayudar mutuamente a subir la escalera del éxito. De esta manera, todo el mundo gana.
+Esta semana estás llegando a un público mucho más grande con tu trabajo, lo que conduce a más dinero a la larga. Es posible que estés reconectando con la gente de tu pasado y consiguiendo presentaciones con nuevos fans. No importa lo que hagas para ganarte la vida, estás siendo empujado/a al escenario para entregar un mensaje único. Los aspectos te dan el apoyo y la fuerza que necesitas de estrechas relaciones. Gozas de un periodo en el que es muy poco probable que hagas errores, disfruta de este personal y financieramente.

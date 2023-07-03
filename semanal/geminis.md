@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 26 de junio 2023 al 02 de julio 2023 
-description: Horóscopo semanal geminis 26 de junio 2023 al 02 de julio 2023. A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad Géminis, ahora estás que lo partes.
+title: geminis 03 de julio 2023 al 09 de julio 2023 
+description: Horóscopo semanal geminis 03 de julio 2023 al 09 de julio 2023. Fuera las preocupaciones. Tira del carro Géminis, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2023-06-26
+ogimg: /images/zodiac/semanal_geminis.png#2023-07-03
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-06-26'
+ lastmod: '2023-07-03'
 ---
 
 
 
-## A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad Géminis, ahora estás que lo partes.
+## Fuera las preocupaciones. Tira del carro Géminis, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
 
-En la vida estamos acostumbrados a arrepentirnos de muchas cosas que en su día hicimos mal pero que también ahora podemos arreglar, empezando por cambiar nuestra actitud. Si no tiene solución no hay que preocuparse más, es algo con lo que te tocará vivir, para bien o para mal, el resto de tu vida, es algo que no cambiará. Pero lo que aún tiene solución, sea la que sea, ¿por qué no solucionarlo? Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. Aguantarse toda la vida algo dentro no es bueno, hay que sacar lo que uno siente, las discusiones a menudo son buenas, siempre que sean respetando al otro, el hecho de decir qué es lo que cambiarías, qué es lo que te pareció mal, qué es lo que te hubiera gustado decir hace mucho tiempo… Todas esas cosas limpian a uno por dentro, el rencor, la rabia, las ganas de decir y no poder, el poder decir pero después no hacer, todo eso, cuando no se saca fuera se acumula, y ¿por qué no sacarlo ahora? ¿Por qué no decir todas esas palabras que no se dijeron? ¿Por qué no dejar limpia tu alma? Hubo un tiempo en el que te funcionó eso de querer decir tanto y saber que es mejor no decir nada… Pero ahora quizás es el momento de que las cosas cambien Géminis…
-No permitas que nadie te apresure a tomar una decisión o a hacer un compromiso antes de tiempo. Con Mercurio tornándose retrógrado, es esencial leer con mucho cuidado las cláusulas de un contrato o documento legal antes de fir Alguien podría estarse sintiendo muy sensible, dándote la sensación de que tienes que andarte con mucho cuidado. En esta situación, vale la pena tener honestidad en lugar de tolerar las tendencias manipuladoras de alguien. El romance puede florecer cuando la oportunidad para una cita especial aumenta tu innata pasión.
+Aunque nadie lo quiera para sí mismo hay que dejar algo claro: el sufrimiento a veces es nuestro mejor maestro. Sí Géminis, si aún sufres es porque no has aprendido esa lección en particular, es porque aún no te has armado de valor para dejar de lado lo que no te hace ningún bien, lo que no te aporta. Cuando por fin lo hagas y te decidas de verdad, el sufrimiento se acabará yendo… Pero si sólo tratas de engañarte la misma lección acabará por venir una y otra vez a tu vida. Acompañada de dolor.
+Cuando el alegre Júpiter se vuelve retrógrado a mitad de semana (y permanece así hasta el próximo Lunes), podrías animarte a revisar un negocio o una conversación reciente, y cualquier promesa que hayas hecho. Al mismo tiempo, el interactivo Mercurio y el amoroso Venus ingresan a Aries y a un sector más intenso de tu carta. Esto podría inspirarte a deshacerte de cualquier plan que ya no te sirva. También puedes descartar las antiguas asociaciones que parecen haber superado su fecha de vencimiento, si sientes que es una buena idea. Sigue adelante solo si tus instintos así te lo indican.
 
 ## Dinero
 
-Podrías estar siendo llamado/a a asumir un papel de liderazgo en el trabajo. Puede que tengas que sentir comodidad al hablar en público e iniciar una nueva ronda de llamadas en frío para incrementar tus ventas. La comunicación en todas sus formas, será muy importante. Tu carrera necesita un poco de energía concentrada y deliberada. Disminuye  la confusión con el fin de obtener lo que se aproxima a ti.
+Esta semana es acerca de los aspectos que afectan a tu sector de deuda y el dinero de otros. Tu carrera está afectando a este sector también. Sin embargo, puede que se te ponga a prueba en el sector de amistades u otros grupos. Tales son simplemente inestables y pueden ser de apoyo un día, pero no al siguiente. Es mejor ir en solitario hasta que puedas encontrar gente en quién puedas confiar.

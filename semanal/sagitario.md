@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 26 de junio 2023 al 02 de julio 2023 
-description: Horóscopo semanal sagitario 26 de junio 2023 al 02 de julio 2023. Llega una buenísima semana Sagitario pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
+title: sagitario 03 de julio 2023 al 09 de julio 2023 
+description: Horóscopo semanal sagitario 03 de julio 2023 al 09 de julio 2023. Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2023-06-26
+ogimg: /images/zodiac/semanal_sagitario.png#2023-07-03
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-06-26'
+ lastmod: '2023-07-03'
 ---
 
 
 
-## Llega una buenísima semana Sagitario pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
+## Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
 
-Sin querer, y a veces queriendo y siendo consciente te pones ataduras a algunas personas que son dañinas para ti. Y sabiendo que pueden tirar de ti y hacer lo que les de la gana no te sueltas, no utilizas la llave para abrir esos grilletes y ser libre.
-El actual enfoque en horizontes lejanos puede llevarte a hacer planes de viaje y considerar opciones de estudio. Y cuanto más te dispongas a salirte de su zona de confort, más interesantes serán las puertas que se abrirán a tu paso. En cuanto a un cambio de carrera, sería prudente confiar en tus instintos. Puede que un puesto de trabajo parezca ser perfecto, pero si sospechas que no lo es, investiga más a fondo. También es posible que un patrón de creencias te esté evitando intentar algo nuevo.
+Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados, porque serán victorias más adelante. Así que, por eso, no te vas a decepcionar al final.
+Aunque tu tiempo estará ocupado mientras haces malabares en el frente hogareño, la Luna Llena iniciando la semana podría volverte el centro de atención por una razón u otra. Si necesitas una oportunidad para compartir una brillante idea o mostrar tus habilidades, este es el momento perfecto para ello. Saturno se torna directo en tu sector de relaciones el Sábado, lo que puede ayudarte a mejorar tus interacciones, especialmente si has tenido problemas recientemente. Las soluciones podrían estar ahora a tu alcance.
 
 ## Dinero
 
-Estás trabajando duro para saldar tus deudas para poder disfrutar de una mejor calidad de vida. Ponte en contacto mediante llamadas telefónicas y cartas a las empresas a las que les debes dinero con el fin de organizar planes realistas de pago. Al mismo tiempo, gasta algo en tu familia, pareja romántica y actividades creativas. El balance debe ser mantenido.
+Con actividad en el área de tu carta que rige las vidas pasadas, el karma y las instituciones, es muy probable que estés reevaluando tus planes de trabajo para el futuro. Empresas o personas con las que pensaste que no te gustaría trabajar parecen tener todo lo que quieres y necesitas ahora; desde la distribución de redes, a acceso a acaudalados donantes. Para ganar más, encuentra la manera de trabajar dentro del sistema. Te percatarás de que no es tan malo como piensas.
