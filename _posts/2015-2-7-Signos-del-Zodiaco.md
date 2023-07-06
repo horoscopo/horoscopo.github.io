@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 05 de julio 2023
-description: Horóscopos del dia de hoy 05 de julio 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 06 de julio 2023
+description: Horóscopos del dia de hoy 06 de julio 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-07-05
+ lastmod: 2023-07-06
 ---
-Cuando la Luna en Géminis forma trígono con Mercurio y los teléfonos no paran de sonar, el Universo envía grandes piezas de información. A esto, añádele ideas que te llegan de fuentes del más allá (intuición). Cuando Venus, el planeta del amor, se encuentra a punto de cambiar de signo como lo está esta noche, es momento de dejar el pasado donde pertenece - atrás.
+Trata de avanzar durante los próximos diez días, grandes sorpresas te esperan cuando Júpiter aspecta a Urano. Las cosas se desarrollan a tu favor cuando el Sol forma sextil con Plutón, momento en el que es aconsejable invertir en tu futuro. Esta noche, podría haber gran pasión para ambos, parejas y solteros, mientras la Luna también aspecte a Plutón.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
