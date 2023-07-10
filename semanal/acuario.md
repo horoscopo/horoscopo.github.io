@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 03 de julio 2023 al 09 de julio 2023 
-description: Horóscopo semanal acuario 03 de julio 2023 al 09 de julio 2023. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
+title: acuario 10 de julio 2023 al 16 de julio 2023 
+description: Horóscopo semanal acuario 10 de julio 2023 al 16 de julio 2023. Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2023-07-03
+ogimg: /images/zodiac/semanal_acuario.png#2023-07-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-07-03'
+ lastmod: '2023-07-10'
 ---
 
 
 
-## Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
+## Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
 
-Te estás dando cuenta de quien sí y quien no Acuario. Y además bien rapidito. Ya no te apetece pasar ni una más por alto, ya no te apetece tener que sonreír si no te apetece sonreír. Es cierto que te adaptas a todo Acuario pero ahora sí te vas a alejar de lo que no te hace ni put* gracia y aquí se incluyen momentos, personas y situaciones. Esta semana estás a tope Acuario, no te apetece anclarte en ningún sitio, no te apetece sentarte a ver la vida pasar. Nada de eso, quieres sol, quieres que el aire te de en la cara y salir a pasar el rato con amigos, socializarte y divertirte sin tener que pensar en nada más. Amplía tu mente Acuario, amplía tu mente y tómate una temporada sabática, aunque sean unos días o unas semanas. Haz lo que tengas que hacer pero hazlo con calma, y apaga el teléfono por favor. Si en realidad quieres tomarte un tiempo por y para ti no puedes estar ahí todo el día enganchado a todo. Esta semana tienes que cargar pilas, y debes cargarlas pasando tiempo con las personas que quieres y dejando un poco a un lado algunas obligaciones y responsabilidades. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Acuario, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
-La buena noticia de esta semana es que tu regente Mercurio avanza el 3 de julio en tu sector de comunidad y amistades. Esto podría coincidir con una oportunidad inesperada que tal vez hayas rechazado antes, muy a tu pesar. Parece que puede volver a presentarse, y este es el momento de aprovecharla. Por otro lado, prestarle atención a tu intuición o a tus sueños podría ser un buen punto de referencia en un asunto profesional, en especial si tienes más de una opción.
+A veces te confundes Acuario, y este es uno de esos momentos. No es que no sepas lo que quieres, es que no sabes realmente si es lo que más te conviene, si es en realidad lo que debes hacer. Es algo así como sentirte perdido, tienes en tu cabeza muchas ideas por hacer, muchas situaciones que crear, pero no puedes averiguar cómo hacerlas, cómo sacarlas adelante. Frena un momento, no corras antes de andar. Admite que no todo va tan bien como tú creías, admite que quizás te equivocaste a la hora de tomar algunas decisiones que te han llevado a estar donde estás, encuentra el por qué de eso Acuario. Y cuando lo veas, comprende que debes dejar ir, tómate un momento, respira profundamente y empieza a curarte de verdad. Acuario, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más. Si lo estás viendo venir no dejes que entre, no des oportunidad a lo que sabes de sobra que saldrá mal. Tómate esta semana por y para ti, de verdad que necesitas un descanso, un respiro, salir de esa zona de mala vibra y despejarte. Puedes con todo Acuario, está claro, pero, ¿merece la pena pelear por ello? Piensa fríamente, y no te dejes guiar por la pasión, utiliza esta vez la cabeza.
+El vínculo que Saturno forma con Venus el lunes sugiere que una sabia inversión podría beneficiarte de formas sutiles, tal vez aumentando tu confianza al proporcionarte información que mejore tu comprensión hacia tu misma persona. De hecho, contratar a un asesor de vida es una de las posibilidades, ya que hacerlo podría darte exactamente lo que necesitas para superar cualquier bloqueo y seguir adelante. Es posible que tengas una conexión casi telepática con cierta persona, lo que podría resultar ser muy revelador esta semana.
 
 ## Dinero
 
-La buena noticia es que el Universo te está haciendo parecer interesante y único/a con todos. La mala noticia es que aporta una buena dosis de tensión a tu sector de profesión. Es posible que desees que tu individualidad y  tus buenas ideas brillen, pero alguien en el trabajo quiere mantener el statu quo. El dinero viene cuando eres capaz de alzar la línea sólo un poco con tal de encontrar un foro de apoyo para tus habilidades.
+Con ciertos aspectos afectando tu vida hogareña y emociones internas, puede que desees regresar el tiempo en tu vida para poder volver atrás y corregir los errores del pasado. Pero estamos aquí para aprender, no para controlar. Cierta actividad en tu sector de viajes, idiomas y educación superior afirma que puedes encontrar un mayor acceso a dinero si logras exponer tus habilidades en mercados fuera de tu país. Enfoca tus esfuerzos en Internet para conectar con nuevos clientes.

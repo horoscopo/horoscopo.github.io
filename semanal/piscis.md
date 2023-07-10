@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 03 de julio 2023 al 09 de julio 2023 
-description: Horóscopo semanal piscis 03 de julio 2023 al 09 de julio 2023. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
+title: piscis 10 de julio 2023 al 16 de julio 2023 
+description: Horóscopo semanal piscis 10 de julio 2023 al 16 de julio 2023. Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2023-07-03
+ogimg: /images/zodiac/semanal_piscis.png#2023-07-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-07-03'
+ lastmod: '2023-07-10'
 ---
 
 
 
-## No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
+## Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 
-Estás alcanzando una madurez Piscis, y no es que antes fueras inmaduro no, pero ahora estás aprendiendo a alejarte de las personas y situaciones que amenazan tu paz mental, el respeto, los valores, la moral y tu amor propio. Y eso está bien pero aún así, a pesar de que te has alejado de eso, hay momentos en los que, inevitablemente vuelves a caer, aunque no sean las mismas situaciones ni las mismas personas. No puedes presumir de haber superado ciertas cosas para repetir después los mismos errores. Eres fuerte Piscis y sea cual sea el estrés, el dolor o el odio que puedas sentir esta semana respira profundo y deja que se vaya, y no te enzarces con nadie, no vas a cambiar las cosas. Un pensamiento negativo puede arruinar mil vibraciones positivas. No pierdas más el tiempo. Organiza tu semana y ves paso por paso, organiza tu vida y trátate bien y con respeto. Si te valoras a ti mismo y te cuidas, el resto también lo hará. Y hay algo muy importante que debes saber esta semana, no cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás. Y no detengas ni frenes tu vida ahora.
-A medida que Saturno entra más profundamente a tu signo, podría animarte a tomar mucho más en serio tus objetivos, planes y ambiciones. La Luna Llena del inicio de semana podría coincidir con un evento inesperado que pudiera exigir una solución espontánea. Déjate guiar por tus instintos con respecto a este tema, lo que sientas que es lo correcto, probablemente lo es. Además, el actual enfoque en la parte superior de tu carta podría animarte a convertirte en un fiel miembro de tu comunidad y asumir responsabilidades para su beneficio.
+A veces dejas las puertas medio abiertas Piscis, crees que puedes cerrarlas cuando quieras, crees que eres lo suficientemente fuerte como para mandarlo todo a la mierda cuando desees… Pero no es del todo así. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Piscis porque no eres así. Parece que tuvieras miedo de cerrar definitivamente algunos capítulos, parece que aún te aferrarás a que pueden tener solución. Está bien Piscis, aférrate a lo que quieras, pero que eso no te afecte en tu día a día. Tienes que ver las cosas por ti mismo para dejarlas a un lado o continuar con ellas, así que, tropieza, date la hostia necesaria que te haga abrir los ojos pero, mientras tanto, que no te frene. Sacúdete un poco de las cosas negativas que pululan a tu alrededor, no pagues un precio alto por mantener algo que ni siquiera sabes si quieres mantener. Si necesitas pensar, márchate, desaparece unos días, vete solo y pasa de todo. En serio, algo te está reteniendo a quedarte, algo te está impidiendo continuar hacia delante, ten cuidado Piscis, con las decisiones que tomas, y con dejar puertas medio abiertas por miedo a que se cierren del todo…
+El enfoque se acentúa en un sector sensible de tu carta, uno que está asociado con recursos compartidos y secretos. De hecho, las próximas semanas te traen la oportunidad de llegar a conocerte mejor y tal vez tomar algunas decisiones radicales sobre algunos aspectos clave de tu vida. Cuando se trate de trabajo en equipo y de convencer a gente que te apoye con una idea, podrías enfrentarte a algo de oposición. Tómate tu tiempo. Puede que, dentro de una semana, tal situación ya se haya esfumado.
 
 ## Dinero
 
-Tienes una situación muy interesante esta semana conforme aspectos celestiales te presionan a tener una mayor productividad. La actividad en tu sector asociado con viajes al extranjero, la metafísica y la educación superior te empuja a ampliar tu negocio en territorio desconocido. Haz que ocurra este año y estarás cosechando los beneficios el próximo año.
+Puedes tener la tentación de ir a por un trabajo que no pensabas que podrías conseguir hace una semana. Estás ganando seguridad, no sólo acerca de tus habilidades innatas, sino también acerca de cómo te expones al mundo con tu discurso, gestos y forma de vestir. Ciertos aspectos indican un tiempo de resolución de problemas a nivel familiar o con tu pareja romántica. Dos o tres mentes piensan mejor que una cuando se trata de la construcción de tu nueva imagen.

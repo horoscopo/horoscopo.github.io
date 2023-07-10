@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 03 de julio 2023 al 09 de julio 2023 
-description: Horóscopo semanal cancer 03 de julio 2023 al 09 de julio 2023. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
+title: cancer 10 de julio 2023 al 16 de julio 2023 
+description: Horóscopo semanal cancer 10 de julio 2023 al 16 de julio 2023. Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2023-07-03
+ogimg: /images/zodiac/semanal_cancer.png#2023-07-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-07-03'
+ lastmod: '2023-07-10'
 ---
 
 
 
-## A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
+## Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
 
-No te calientes Cáncer, sal de todo lo que te cause malestar, respira aire fresco y vuelve a tu sitio. La gente no te conoce, está claro. Te estás tragando muchas cosas por tener un poco de educación pero el día menos pensado todo va a estallar como una bomba. Y se van a quedar en shock seguro. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces. Sabes lo que te ha traído el no callarte… Pero no Cáncer, tienes que marcar tu terreno como sea, tienes que hacerte valer y que dejar claro cual es tu territorio, cual es tu línea, cuales son tus límites. Hay personas que creen que pueden sobrepasarlos, y lo piensan porque no han visto tu peor lado. Esta semana como sigan así va a arder Troya. Y sí, tienes todo el derecho a hacerlo. A ti no te chista nadie, a ti no te vacila nadie, a ti no te manda nadie. Y si sienta mal que siente mal. No es tu problema. Pero como consejo, en vez de estallar una sola vez, hazlo poquito a poco, no te calles nada nunca más. Por tu bien Cáncer, porque después quedas tu como loco/a y eso no… Tú no eres ningún loco/a, pero tampoco eres imbécil. De eso nada.
-Tu vida social se ha mantenido ocupada, pero tendrá un brillo extra cuando el Sol ingrese a este sector durante un período de cuatro semanas. Y con Mercurio retrógrado, este podría ser un momento para encuentros o reuniones familiares que disfrutarás mucho. Marte también se mueve a un sector más privado de tu carta, lo que podría alterar tus sueños y tu psiquis. Esta es una oportunidad para explorar los patrones internos,  los funcionamientos profundos de tu mente y comprender mejor qué debes saber acerca de ti.
+No te arrepientas de abrirte Cáncer, no te arrepientas de haber dado mucho, o de haber dado poco. En serio, no te arrepientas. Eres como eres, y aunque últimamente te hayas llevado más disgustos que otra cosa mira, no puedes cambiar. Cada momento en el que decides ser real y sensible, o emocional con alguien, estás siendo tú mismo de verdad, estás ganando al fin y al cabo, ganando experiencia, fortaleza, ganando pasión, corazón, bondad, estás siendo tú mismo aprendiendo a quererte tal cual, sin miedo a lo que pueda pasar. Y eso nunca puede ser un error. Esta semana tendrás momentos más débiles Cáncer, momentos en los que quizás te sientas incluso un poco mal, y ni siquiera sepas por qué, momentos en los que estalles por cualquier estupidez, estupideces sin mucha lógica ya pero al fin y al cabo que aún te afectan aunque no quieras. No importa lo perdido que puedas estar, va a pasar Cáncer, no importa lo que esté pasando por tu vida y por tu corazón ahora, vas a sobrevivir ¿ok? Esta semana quizás sea un poco dura pero te servirá para abrir los ojos Cáncer, para darte cuenta de que, o te mueves o caducas. Lo mejor que podrás hacer ahora será cortar con la mierda. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos, y proponte metas de nuevo, y no desistas porque no salgan a la primera. Necesitas un poco de motivación extra.
+Puede que en esta semana pases más tiempo libre con tu familia, tus amistades o quizá con la persona que te interesa últimamente. Y con el romántico Venus paseándose por Piscis y tu casa de diversión y juegos, este podría ser el momento ideal para revivir una relación amorosa. ¿Por tu cuenta? Puede que te atraiga una persona un tanto misteriosa. Este puede ser el momento perfecto para llegar a conocerla.
 
 ## Dinero
 
-Los aspectos de esta semana podrían arruinar tus esfuerzos comunicativos. Las posibilidades de confundir tus ideas abundan, así que no abras la boca sin pensar primero. La forma en la que actualmente ganas dinero está cambiando. Ir con la corriente te obtendrá los mejores resultados.
+Esta semana tienes un tipo especial de energía en el frente de trabajo. Parece que no puedes hacer nada mal, lo cuál es una buena cosa que mostrarle a tus superiores. Mientras que tu creatividad es fuerte y los sueños son fuente de inspiración, no elimines ciertos aspectos con tal de llegar a la meta más rápido. ¡So lo haces esta semana, sólo quedaras atrapado/a!

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 03 de julio 2023 al 09 de julio 2023 
-description: Horóscopo semanal escorpio 03 de julio 2023 al 09 de julio 2023. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+title: escorpio 10 de julio 2023 al 16 de julio 2023 
+description: Horóscopo semanal escorpio 10 de julio 2023 al 16 de julio 2023. La vida es un ciclo Escorpio, y tienes que estar preparado para lo que venga. Algunas personas se cruzan en tu camino y cambian toda tu dirección, ahora bien, debes valorar si es eso lo que te interesa ahora. No te quedes con lo malo conocido.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2023-07-03
+ogimg: /images/zodiac/semanal_escorpio.png#2023-07-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-07-03'
+ lastmod: '2023-07-10'
 ---
 
 
 
-## No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+## La vida es un ciclo Escorpio, y tienes que estar preparado para lo que venga. Algunas personas se cruzan en tu camino y cambian toda tu dirección, ahora bien, debes valorar si es eso lo que te interesa ahora. No te quedes con lo malo conocido.
 
-Por fin has tomado decisiones, y además decisiones que te benefician, 
-por fin están tomando alternativas a la vida que estabas llevando y por fin te estás enfrentando a los problemas de una vez.
-Si algunos asuntos parecen estar reteniéndote y evitando que progreses, la actual mezcla de influencias podría llevarte a que separes las varias cuestiones. Tal vez sea tiempo de liberar esas emociones arraigadas que consumen gran parte de tu energía, en especial si estás intentando evitar que vuelvan a aparecer. Discutir estos asuntos con una amistad de confianza puede darte tranquilidad y seguridad para poder liberarlas. Con respecto al trabajo, un nuevo contacto podría ser muy útil.
+Tienes muchas preguntas que solamente puedes contestarte tú a ti mismo ahora. 
+Hasta ahora todo ha ido más o menos bien, o sea, has ido superando cada traba que la vida te iba poniendo pero de repente te quedas estacando por algo y no sabes qué dirección tomar.
+Tal vez sientas que llegó el momento de aceptar el lado más serio del año, lo cual podría significar dedicarle tiempo y energía a cumplir tus objetivos. Sin embargo, a medida que Venus, el planeta que rige tus relaciones, entra a un sector más práctico de tu carta astral, te convendría sumar otras personas a tu plan. Convence a tus amistades de que se unan a un gimnasio y compartan la alegría de estar en forma. Busca los lugares de comida más saludables o las mejores clases de yoga y disfruta de recibir este apoyo.
 
 ## Dinero
 
-Es probable que estés mezclando tus contactos personales con los profesionales esta semana. El Universo te muestra cómo buscar a las personas de cualquier grupo que puedan ayudarte a avanzar en un producto, servicio, empresa o causa. Esta semana, busca a los nacidos en otros países, o los que hablan otro idioma. Cierta actividad en tu sector de dinero indica que tienes la creatividad, pero no la verdadera visión para los negocios con el fin de ganar más dinero ahora.
+Estás pensando en grande esta semana. Puede que tengas la tentación de ponerte en contacto con los profesionales calificados que te ayudarán a poner tus finanzas en orden o bien decidir de una vez por todas el dejar de vivir esperando cheque tras cheque. Usa tu inteligencia innata y el poder de organización para hablar a favor de lo que quieres, y haz un plan infalible para lograr que se haga. Mantén enfoque y claridad acerca de  lo que quieres lograr.
