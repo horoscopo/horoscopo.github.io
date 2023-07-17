@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 10 de julio 2023 al 16 de julio 2023 
-description: Horóscopo semanal sagitario 10 de julio 2023 al 16 de julio 2023. Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
+title: sagitario 17 de julio 2023 al 23 de julio 2023 
+description: Horóscopo semanal sagitario 17 de julio 2023 al 23 de julio 2023. Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. Sagitario, esta semana has de cerrar algunos ciclos de verdad.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2023-07-10
+ogimg: /images/zodiac/semanal_sagitario.png#2023-07-17
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-07-10'
+ lastmod: '2023-07-17'
 ---
 
 
 
-## Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
+## Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. Sagitario, esta semana has de cerrar algunos ciclos de verdad.
 
-No pienses tanto por favor Sagitario, claro que saldrá bien, claro que deberías arriesgar por tus metas, claro que es lo que quieres. Eres Sagitario por favor, a pesar de que por tu cabeza puedan pasar un sinfín de locuras, y de las buenas, sabes lo que haces, sabes que si te paras a pensar más de dos días seguidos algo es que hay que hacer algo para cambiarlo, para bien o para mal. O sea, ves a por todas. 
- cultivar para luego recoger una buena cosecha y no dejarte abatir ni decaer por ninguna situación que se cruce en el camino.
-Estás en tu elemento y con ganas de explorar tu creatividad, romance y actividades de carácter empresarial. Tus mejores momentos suceden cuando piensas y organizas las cosas bajo presión. La actividad lunar del Viernes les trae una agradable y optimista energía a eventos sociales clave, haciéndolos más agradables de lo habitual. Venus regresa de nuevo a tu signo, lo que podría llevarte a criticar un poco más tu imagen y darte el deseo de hacer algunos cambios. ¡El romance requiere de un manejo cuidadoso también!
+Tienes que esforzarte Sagitario, esforzarte para no cagarla de nuevo. Tienes que esforzarte para no enviar mensajes cuando te dan esos impulsos y arrebatos en los que no te controlas, tienes que esforzarte en no perder los papeles cuando algo no sale, tienes que esforzarte en tratar de vivir en el momento y en pasar de malos rollos. Ya está bien Sagitario, hazte valer de una vez. Siempre te tratan de buenas persona, que lo eres sí, pero de ahí a que se aprovechen… No. Esta semana hay un gran cambio que llevas esperando mucho tiempo, céntrate en ello, es muy importante que mantengas tu cabecita ahí y que lo externo te deje de afectar. Y que el resto se gane estar a tu lado si realmente quiere, que las palabras se las lleva el viento y a ti, otra cosa no, pero hay mucha fila detrás que quiere engancharte… Nada tiene que ser ahora suficiente para ti Sagitario, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. Si de verdad se preocupan por ti, no dejarán que la vida se interponga en el camino, no importará lo ocupadísimos que estén, el tiempo para las cosas que importan se saca. Así que, esta vez, estate tranquilo Sagitario, sin remordimiento de ningún tipo, y espera a que el resto te busque…
+Aunque puede que sientas muchas ganas de cumplir un objetivo, una persona podría decirte que lo hagas con cautela. ¿Deberías hacerle caso? Quizá no, ya que otra potente mezcla de energías sugiere que debes escuchar a tus instintos, y aquello que percibes como una buena jugada, quizá lo sea. Hay momentos en los que ciertas personas en tu vida te dan buenos consejos, pero durante los primeros días de la semana, esto podría hacerte dudar más que ayudarte.
 
 ## Dinero
 
-Nunca ha sido tu punto fuerte el sentarte y aceptar, lo cuál se sentirá doble esta semana. Algunos aspectos negativos crearán olas. Trata de llevar las facciones beligerantes en tu red social a la mesa de la paz conforme te haces cargo de los asuntos de deuda o propiedad que poseas con otra persona. El dejar que alguien más se haga cargo de ello no dará los mejores resultados ahora. Sabes perfectamente qué es  lo mejor para los dos.
+Esta semana se le puede considerar un cese al fuego de todo tipo. Los aspectos en tu casa de vidas pasadas, sueños y karma significan que es extremadamente importante el ser amable y cortés con los demás. Recuerda los modales que te enseñó tu madre. Así como ella dijo, una cucharada de azúcar ayuda a mejorar incluso hasta las noticias financieras más desagradables. Todo mejorará en poco tiempo. Hasta entonces, lucha por tener paciencia.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 10 de julio 2023 al 16 de julio 2023 
-description: Horóscopo semanal capricornio 10 de julio 2023 al 16 de julio 2023. No te destruyas Capricornio, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
+title: capricornio 17 de julio 2023 al 23 de julio 2023 
+description: Horóscopo semanal capricornio 17 de julio 2023 al 23 de julio 2023. Deberías empezar a poner las cosas claras Capricornio, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2023-07-10
+ogimg: /images/zodiac/semanal_capricornio.png#2023-07-17
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-07-10'
+ lastmod: '2023-07-17'
 ---
 
 
 
-## No te destruyas Capricornio, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
+## Deberías empezar a poner las cosas claras Capricornio, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
 
-Quizás deberías dejar de planear todo ahora Capricornio, dejar un poco el volante sin conductor… A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos. Luchar por lo que importa está bien Capricornio, pero luchar por lo que no, sólo es una pérdida de tiempo, una gran pérdida de tiempo. Gastas muchas fuerzas en ello, en tratar de que todo salga tal y como esperabas, pero a veces por más que hagas, tu destino es otro. No te agobies ni te preocupes más de la cuenta ahora. Déjate llevar y no escribas finales para todo. Porque los finales acaban dando un giro y no terminan como creías. No puedes saberlo todo, ni tampoco controlarlo, y cuando lo entiendas quizás llegue la paz que tanto necesitas ahora mismo. Y no trates de apresurar nada porque cuando sea el momento va a suceder…
-La idea del cambio podría interesarte, pero no sucederá a nada menos que hagas algo al respecto. Un importante enfoque en un área sensible de tu carta puede hacer que conectes con sentimientos que han estado enterrados durante algún tiempo. Esto puede animarte a que los proceses. Sin embargo, no te apresures demasiado. Lo mejor es adoptar un enfoque gentil. Por otro lado, con el encantador Venus dirigiéndose hacia el vital Marte, el deseo de apurar una relación romántica podría no ser beneficioso. Puede que lo mejor sea ir con la corriente.
+Necesitas tener un objetivo en la vida Capricornio, pelear por lo que quieres, tener ambición y no estancarte. Si no, te acabas marchitando… Y a veces te encuentras quieto, parado, sin saber hacia qué dirección moverte, sin saber si es bueno mandar todo a la mierda y empezar desde cero otra vez más o quedarte como estás. Esta semana llega un proceso duro pero que al final te habrá merecido la pena. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas. Como si a mitad del camino te empezaran a flaquear las piernas y te quedaras sin fuerzas. Nada Capricornio, no puede flaquearte nada ahora. Cualquier proceso de cambio tiene un tiempo y ahí es donde estás ahora. Acoplándote a las nuevas situaciones. Todo ese estrés pasará, y los momentos duros empezarán a suavizarse, como siempre ha pasado… No le temas a eso porque todo se coloca en su lugar. Disfruta del momento que estás viviendo, saca la parte positiva de todo, aunque a veces parezca que no la hay, y déjate llevar un poco, sin pensar tanto, que no es tan negro todo…
+Tal vez sea demasiado pronto para pensar en tus planes para los próximos doce meses, sobre todo porque el enlace entre Saturno y Neptuno podría inclinarte a evitar hacer demasiados compromisos y en vez, pasar tiempo fantaseando, creando, o reflexionando sobre el sentido de la vida. El romance entra a aguas más profundas y emocionales cuando Venus se desliza a Escorpión, añadiéndole pasión y misterio a la mezcla. Ten cuidado el final de la semana, Marte cuadrando a Plutón podría resultar en una gran pelea.
 
 ## Dinero
 
-Esta semana, te desafía cierto aspecto en tu sector de carrera y autoridad. Aunque puede traer noticias e incentivos adicionales a esta área, puede que no te sientas de lo mejor con lo que está sucediendo. O puede que lo percibas como un golpe a tu ego. Debes saber que lo que sucede no es personal y sólo mejorará tus oportunidades para el futuro.
+El Universo te apoya ahora, lo que indica un momento de renovada atención hacia el romance, los niños y la familia. Si trabajas en una de estas áreas, el dinero viene casi sin esfuerzo. Si tienes una idea para un producto o servicio que se enfoque en estos grupos demográficos, es un momento ideal para lanzar esto al mercado. Algo escrito o hablado puede ser el medio. Agarra pluma y papel y deja que la inspiración tome vuelo.

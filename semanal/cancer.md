@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 10 de julio 2023 al 16 de julio 2023 
-description: Horóscopo semanal cancer 10 de julio 2023 al 16 de julio 2023. Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+title: cancer 17 de julio 2023 al 23 de julio 2023 
+description: Horóscopo semanal cancer 17 de julio 2023 al 23 de julio 2023. Tienes que empezar a dejar que el resto luche por tu Cáncer, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2023-07-10
+ogimg: /images/zodiac/semanal_cancer.png#2023-07-17
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-07-10'
+ lastmod: '2023-07-17'
 ---
 
 
 
-## Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+## Tienes que empezar a dejar que el resto luche por tu Cáncer, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
 
-No te arrepientas de abrirte Cáncer, no te arrepientas de haber dado mucho, o de haber dado poco. En serio, no te arrepientas. Eres como eres, y aunque últimamente te hayas llevado más disgustos que otra cosa mira, no puedes cambiar. Cada momento en el que decides ser real y sensible, o emocional con alguien, estás siendo tú mismo de verdad, estás ganando al fin y al cabo, ganando experiencia, fortaleza, ganando pasión, corazón, bondad, estás siendo tú mismo aprendiendo a quererte tal cual, sin miedo a lo que pueda pasar. Y eso nunca puede ser un error. Esta semana tendrás momentos más débiles Cáncer, momentos en los que quizás te sientas incluso un poco mal, y ni siquiera sepas por qué, momentos en los que estalles por cualquier estupidez, estupideces sin mucha lógica ya pero al fin y al cabo que aún te afectan aunque no quieras. No importa lo perdido que puedas estar, va a pasar Cáncer, no importa lo que esté pasando por tu vida y por tu corazón ahora, vas a sobrevivir ¿ok? Esta semana quizás sea un poco dura pero te servirá para abrir los ojos Cáncer, para darte cuenta de que, o te mueves o caducas. Lo mejor que podrás hacer ahora será cortar con la mierda. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos, y proponte metas de nuevo, y no desistas porque no salgan a la primera. Necesitas un poco de motivación extra.
-Puede que en esta semana pases más tiempo libre con tu familia, tus amistades o quizá con la persona que te interesa últimamente. Y con el romántico Venus paseándose por Piscis y tu casa de diversión y juegos, este podría ser el momento ideal para revivir una relación amorosa. ¿Por tu cuenta? Puede que te atraiga una persona un tanto misteriosa. Este puede ser el momento perfecto para llegar a conocerla.
+Empieza a cambiar la mentalidad Cáncer, empieza a cambiar eso de “estoy roto y sin fuerzas” por “estoy creciendo y me estoy curando de todo”, ya verás como tu vida cambia para mejor, y ya verás que deprisa. Quizás tengas que volver a conectar con tu pasado y cambiar la historia, quizás tengas que entender de una vez que todo pasó por alguna razón, que por eso estás aquí, quizás debas perdonar de verdad, perdonarte a ti mismo y dejar todo lo que te preocupa atrás. Si sigues hablando de algo es porque ese algo aún es importante para ti, aún quema dentro, y hay que enfrentarlo para que por fin salga de tu vida. Es complicado Cáncer, es complicado cargar con cosas que te hicieron daño en su día, y mucho más para ti, que no puedes olvidar tan fácilmente. Pero piensa que no puedes perder el tiempo con eso, piensa que tu tiempo es oro y que todo lo que inviertas en pensar demasiado lo podrías estar invirtiendo en hacer cosas productivas por y para ti. A veces, para encontrar un poco de paz debes estar dispuesto a perder tu conexión con algunas personas, con algunos lugares y con cosas que llevan creando mucho ruido en tu vida desde hace un tiempo… Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+Tus palabras tienen poder esta semana, así que trata de usarlas con sabiduría. Aun así, esto puede ser más fácil dicho que hecho. La luna nueva de esta semana podría sacar ciertos sentimientos hacia la superficie, animándote a decir las cosas como son incluso si hacerlo le resulta ciertamente molesto a alguien. Mientras que aclarar las cosas puede ser liberador, podrías dañar una amistad si actúas sin tomar en cuenta sus sentimientos. Si se trata de una vieja relación, vale la pena invertir tiempo para solucionar el problema.
 
 ## Dinero
 
-Esta semana tienes un tipo especial de energía en el frente de trabajo. Parece que no puedes hacer nada mal, lo cuál es una buena cosa que mostrarle a tus superiores. Mientras que tu creatividad es fuerte y los sueños son fuente de inspiración, no elimines ciertos aspectos con tal de llegar a la meta más rápido. ¡So lo haces esta semana, sólo quedaras atrapado/a!
+No podrías ser más social en estos momentos aunque trataras, y esto va a ayudarle a tu trabajo a obtener la atención de las personas que te pueden ayudarte a avanzar. Asiste a eventos de trabajo y amplia tu red social tanto como sea posible. Al mismo tiempo, mejora tus habilidades de comunicación para obtener el tipo de dinero que quieres y necesitas de ciertos trabajos o tareas independientes.
