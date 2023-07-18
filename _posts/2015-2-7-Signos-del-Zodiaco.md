@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 17 de julio 2023
-description: Horóscopos del dia de hoy 17 de julio 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 18 de julio 2023
+description: Horóscopos del dia de hoy 18 de julio 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-07-17
+ lastmod: 2023-07-18
 ---
-Entra a la etapa de planificación, porque tienes un buen periodo de tiempo por delante con Marte en Cáncer prometiéndote tanto velocidad como estabilidad. El misterio y el magnetismo se vuelven el nombre del juego esta noche cuando Venus, el planeta del amor, aspecta al complejo Plutón.
+A veces el día parece ser demasiado largo. Hoy es uno de esos días en los que el tiempo parece extenderse. ¡Cuidado! No cedas a la tentación de operar en piloto automático. La Luna Nueva aspectando a Marte en Piscis a las altas horas de la noche provocando algún tipo de acción que podría venir directamente del corazón y las emociones.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
