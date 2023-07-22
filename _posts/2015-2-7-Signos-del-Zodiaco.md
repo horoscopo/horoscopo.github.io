@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 21 de julio 2023
-description: Horóscopos del dia de hoy 21 de julio 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 22 de julio 2023
+description: Horóscopos del dia de hoy 22 de julio 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-07-21
+ lastmod: 2023-07-22
 ---
-Con Mercurio y Neptuno, la imaginación trabaja horas extras y podría dar lugar a decisiones equivocadas. Piensa en ello. Esta noche, las interrupciones momentáneas pueden venir de la nada y tomarte por sorpresa cuando la Luna aspecta tanto a Marte como Urano. Ciertamente no será ni aburrido, ni lo mismo de siempre.
+Cuando la Luna se opone a Plutón hoy, puede que se te inspire a dar ese clavado que has estado temiendo dar. ¡Posiblemente también te preguntes por qué te tardaste tanto tiempo en dar el paso! Esta noche, tanto las parejas como las amistades comparten sentimientos positivos. Los solteros los comparten con un aire de impaciencia. La primera pista de superficialidad son los halagos hipócritas.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
