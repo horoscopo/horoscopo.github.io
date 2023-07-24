@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 17 de julio 2023 al 23 de julio 2023 
-description: Horóscopo semanal sagitario 17 de julio 2023 al 23 de julio 2023. Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. Sagitario, esta semana has de cerrar algunos ciclos de verdad.
+title: sagitario 24 de julio 2023 al 30 de julio 2023 
+description: Horóscopo semanal sagitario 24 de julio 2023 al 30 de julio 2023. Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca Sagitario.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2023-07-17
+ogimg: /images/zodiac/semanal_sagitario.png#2023-07-24
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-07-17'
+ lastmod: '2023-07-24'
 ---
 
 
 
-## Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. Sagitario, esta semana has de cerrar algunos ciclos de verdad.
+## Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca Sagitario.
 
-Tienes que esforzarte Sagitario, esforzarte para no cagarla de nuevo. Tienes que esforzarte para no enviar mensajes cuando te dan esos impulsos y arrebatos en los que no te controlas, tienes que esforzarte en no perder los papeles cuando algo no sale, tienes que esforzarte en tratar de vivir en el momento y en pasar de malos rollos. Ya está bien Sagitario, hazte valer de una vez. Siempre te tratan de buenas persona, que lo eres sí, pero de ahí a que se aprovechen… No. Esta semana hay un gran cambio que llevas esperando mucho tiempo, céntrate en ello, es muy importante que mantengas tu cabecita ahí y que lo externo te deje de afectar. Y que el resto se gane estar a tu lado si realmente quiere, que las palabras se las lleva el viento y a ti, otra cosa no, pero hay mucha fila detrás que quiere engancharte… Nada tiene que ser ahora suficiente para ti Sagitario, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. Si de verdad se preocupan por ti, no dejarán que la vida se interponga en el camino, no importará lo ocupadísimos que estén, el tiempo para las cosas que importan se saca. Así que, esta vez, estate tranquilo Sagitario, sin remordimiento de ningún tipo, y espera a que el resto te busque…
-Aunque puede que sientas muchas ganas de cumplir un objetivo, una persona podría decirte que lo hagas con cautela. ¿Deberías hacerle caso? Quizá no, ya que otra potente mezcla de energías sugiere que debes escuchar a tus instintos, y aquello que percibes como una buena jugada, quizá lo sea. Hay momentos en los que ciertas personas en tu vida te dan buenos consejos, pero durante los primeros días de la semana, esto podría hacerte dudar más que ayudarte.
+Esfuérzate un poco más de lo que hiciste ayer Sagitario, simplemente eso, lo que has aprendido todos estos años se ha instalado ya en tu cabecita. Y bien sabes que cuando quieres cambiar algo y empiezas a presionarte todo sale mal. 
+ de hecho ahora es ese momento en el que puedes utilizar todo lo que sabes para ser un poco más feliz.
+Mejorar tus habilidades puede ser una manera de conseguir nuevas oportunidades en tu vida. La actividad lunar del martes puede ser el mejor momento para ver qué te ofrece el mundo y así aumentar tus opciones. ¿Quieres empezar un taller de escritura creativa, diseño de interiores o de marketing en línea? Cualquiera de estas opciones es posible si te dispones a asumir el trabajo que implica tu decisión. El romance puede llegar durante un evento especial de la época de fiestas si no estás con nadie y buscas amor.
 
 ## Dinero
 
-Esta semana se le puede considerar un cese al fuego de todo tipo. Los aspectos en tu casa de vidas pasadas, sueños y karma significan que es extremadamente importante el ser amable y cortés con los demás. Recuerda los modales que te enseñó tu madre. Así como ella dijo, una cucharada de azúcar ayuda a mejorar incluso hasta las noticias financieras más desagradables. Todo mejorará en poco tiempo. Hasta entonces, lucha por tener paciencia.
+Te beneficiarás de dos maneras cruciales en estos momentos. Dado que ciertos aspectos están afectando a tu sector de grupos, política y trabajo por cuenta propia, puede que estés considerando trabajar desde casa o iniciar un nuevo negocio desde la comodidad de tu habitación. La suerte se combina con repentinas ideas brillantes. Puede parecer una broma, pero puede que de verdad funcione.

@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 17 de julio 2023 al 23 de julio 2023 
-description: Horóscopo semanal escorpio 17 de julio 2023 al 23 de julio 2023. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+title: escorpio 24 de julio 2023 al 30 de julio 2023 
+description: Horóscopo semanal escorpio 24 de julio 2023 al 30 de julio 2023. Toma decisiones YA, AQUÍ y AHORA Escorpio. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2023-07-17
+ogimg: /images/zodiac/semanal_escorpio.png#2023-07-24
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-07-17'
+ lastmod: '2023-07-24'
 ---
 
 
 
-## No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+## Toma decisiones YA, AQUÍ y AHORA Escorpio. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
 
-¿Cómo quieres gastar tu vida Escorpio? ¿sintiéndote mal? ¿arrepintiéndote por lo que has hecho, o peor aún, por lo que no has hecho? ¿odiando y sintiendo rencor? ¿no afrontando los problemas o las situaciones? Sé valiente Escorpio, siempre lo has sido, y sigue creyendo en ti mismo, y haz lo que te haga sentir bien, y trata de huir de lo que te encoge el corazón, de lo que te hace daño, y manda lejos a tus pensamientos oscuros que lo único que hacen es que entres en bucles y que desperdicies tu tiempo. Tienes esta vida Escorpio, sólo esta así que, trata de sentirte orgulloso de cómo la estás llevando. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Escorpio. Piénsalo bien, ¿qué más puede afectarte? NADA. Eres como eres y nadie va a cambiarte pero tienes que aprender a que te de un poco más igual todo, tienes que aprender a no obsesionarte con nada. Si las cosas no salen del todo bien es porque hay algo mejor que te espera. Y pasará… Pero cambia la manera de ver las cosas porque es la única forma en que cambien las cosas que ves. Feliz semana Escorpio.
-La luna nueva del inicio de semana en tu sector de recreación y romance puede ser una oportunidad para relajarte y disfrutar mucho. Durante los últimos meses, debido al enfoque a largo plazo en tu sector de trabajo y servicio, es posible que hayas estado bajo mucha presión. Esta luna nueva puede ser la válvula de escape que te permita relajarte. Si puedes planificar una emocionante actividad, mucho mejor. Utiliza todas tus armas y haz que valga la pena. 
-El conversador Mercurio se une al sol en Leo en tu sector social el martes. Esto agrega una chispa adicional a todo tipo de eventos y reuniones sociales.
-Los aspectos más silenciosos del fin de semana podrían encontrarte disfrutando de pasar tiempo en casa. Tal vez te resulte muy satisfactorio mirar una inspiradora película o leer una buena novela. En este momento, te agradará quedarte en casa y hacer lo que te gusta.
+No eres frágil Escorpio, no dejes que el resto piense eso de ti, no lo pienses tú de ti mismo/a. Esta semana rompe con todo, rompe con eso que lleva ahogando todo este tiempo, rompe con patrones que estabas siguiendo como un robot, sin saber ni siquiera si era eso lo que de verdad buscabas. Toma decisiones de una vez. ¿Estás a gusto con la vida que estás viviendo? No del todo Escorpio, y lo sabes. Pero no te conformes, no pienses que es lo único que hay porque hay muchísimo más ahí fuera. Tienes tanto potencial que estás desaprovechando… Cuando tienes episodios de bajón es porque en realidad sabes que lo que estás haciendo hoy no te va a llevar a ningún sitio el día de mañana, y eso es lo que te frustra Escorpio, saber que el futuro que tienes ahora es muy incierto, saber que, a pesar de que puedas estar medio bien ahora, no estás plantando nada para recoger después. Haz lo que de verdad te hace feliz Escorpio, no tengas miedo porque con miedo no vas a ninguna parte. Es triste tener que vivir una vida que sabes de sobra que no está hecha para ti. Cambia el entorno, cambia el plan y no dependas de nada ni de nadie… Si no cambias la dinámica de tu vida te vas a acabar asfixiando Escorpio, y sabes lo complicado que es salir de ahí después…
+Podrías ser el centro de atención durante esta semana y las próximas. El Sol y Marte en tu sector de ambiciones te animan a demostrar tus capacidades y habilidades, y hacerles saber a los demás lo que puedes hacer. Pero también tendrás una actitud dinámica y querrás esforzarte por lo que quieres. Si has tenido obstáculos para llegar al éxito en las últimas semanas, tendrás la confianza suficiente para hacerlos a un lado y forjar tu camino hacia la meta.
 
 ## Dinero
 
-Esta semana estás pensando en la manera de expresar tu lado serio. Tienes algunas cosas pesadas en la mente, y mantenerlas dentro  no le hace bien a nadie. En vez de eso, encuentra a tu locutor interno, y dale la noticia de una manera neutral e imparcial. Al menos tu sector de trabajo es un lugar seguro en el que puedes dejar que tu nuevo “yo” salga. La gente quiere escuchar lo que tienes que decir, sobre todo tus ideas sobre cómo ahorrarle dinero a la empresa.
+Podrías tener la tentación de descubrir alguna belleza oculta en tu vida, tu personalidad o tu estilo. Justo debajo de la superficie, podrías ser una persona completamente diferente a la que proyectas a los demás. Deléitate con el progreso que has hecho en tu vida en lugar de insistir en lo que aún no has logrado alcanzar. Abandonar tus propias necesidades en tu carrera y sector de dinero no tiene sentido.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 17 de julio 2023 al 23 de julio 2023 
-description: Horóscopo semanal piscis 17 de julio 2023 al 23 de julio 2023. Piscis, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
+title: piscis 24 de julio 2023 al 30 de julio 2023 
+description: Horóscopo semanal piscis 24 de julio 2023 al 30 de julio 2023. Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2023-07-17
+ogimg: /images/zodiac/semanal_piscis.png#2023-07-24
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-07-17'
+ lastmod: '2023-07-24'
 ---
 
 
 
-## Piscis, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
+## Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
 
-Eres hábil para descubrir las cosas aunque a veces solamente te ciegas por tus impulsos, por tus ganas de tenerlo. Esta semana abre bien los ojos a las proposiciones, no todo lo que brilla es oro, demuestra que estás por delante de todo eso, demuestra que ya no te sorprenderás por cualquier cosa, necesitas pruebas y sobre todo garantías de que va a salir bien. No vuelvas a pensar de nuevo por qué decidiste esto cuando debías haber hecho lo otro, porque todo pasa por alguna razón y sí, las malas decisiones muy a menudo, te llevan a situaciones maravillosas. Cuando algo está apagado, está apagado, tratar de encenderlo a veces es algo imposible y si se apagó, fue por alguna razón. Las cosas rotas pueden arreglarse pero a veces, es mejor comprar algo nuevo, cambiar de rumbo, cambia de “producto”, quizás lo que creías tener ya no merece la pena. Necesitas un objetivo que perseguir, algo donde poner todas tus fuerzas y gastar toda tu energía. Es el momento del cambio Piscis, es el momento de que todo lo bueno que deseas llegue, tu actitud lo determina, así que, ¡a por todas!
-Tu vida social se ve lista para rockear esta semana con mucha acción en este sector de tu carta. Mercurio se torna retrógrado el martes, por lo que es posible que viejos amigos o incluso viejos amantes regresen de nuevo a tu vida. Las próximas tres semanas podrían traer oportunidades para reuniones y así hacer las paces. El Eclipse Solar del jueves podría traer cambios con respecto a tu situación social actual. Pase lo que pase, es posible que hagas nuevas amistades que podrían catapultarte al éxito.
+A veces quieres llegar al fondo de cualquier cosa Piscis, pero el problema es que también a veces, eso, no te hace ningún bien. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Piscis. De verdad, a veces es mejor tener paz que tener razón. ¿Por qué no tratas de pasar del mal rollo? ¿Por qué no te alejas de lo que te pone los nervios de punta? Quizás debas dar algunas lecciones y quizás deberías hacerte de rogar un poco. Al menos para que el resto despierte. Muchos no saben lo que se pierden al perder a Piscis, eh. Esta semana deberías hacerte valer un poco, deberías recordarte todas las lecciones que ya llevas aprendidas y dejar de repetir patrones todo el tiempo. Sé valiente y no te engañes a ti mismo. Cuando haces algo por alguien no esperas que hagan lo mismo por ti porque lo haces de corazón pero tampoco esperas que no muevan ni un dedo. Tú sabes de sobra lo que funciona y lo que no funciona Piscis así que, por favor, empieza a ser un poco más productivo y deja de perder el tiempo. Ve a por lo que interesa, a por lo que aporta, a por lo que te hace mejor. No vuelvas a dejar tus planes de lado por nada ni por nadie.
+Venus, tu planeta regente, ingresa a Escorpión y a tu sector de relaciones el martes, donde se une al animado Júpiter y al esclarecedor sol. Como resultado de esto, una relación podría desarrollarse con calidez y pasión. En los próximos días, puede que te sientas especialmente cerca de esta persona. Tu vida social también comienza a animarse y podría traerte mucha satisfacción y diversión. Mientras tanto, una poderosa influencia sugiere que las poderosas percepciones con respecto a una situación clave podrían fomentar un cambio de perspectiva.
 
 ## Dinero
 
-Eres una persona inteligente, sobre todo cuando se trata de trabajo y dinero. No te contenta dejar las cosas como están (¡bien por ti!); y deseas hacer algunos cambios positivos. Tus relaciones señalan el camino hacia una vida mejor. Alguien (o más de una persona) quiere verte tener éxito. Escucha lo que tales personas tengan que decir al respecto.
+Estás tratando de encontrarle solución a un dilema monetario en curso. Te estás convirtiendo en una figura de autoridad en tu campo. Y ahora te preparas para aprovechar todo lo que has cultivado. El cosmos está afectando a tu sector de dinero y valores, mostrando que el flujo de efectivo debería de aumentar muy pronto con un poco de esfuerzo y decisión.

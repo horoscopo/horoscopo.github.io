@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: libra 17 de julio 2023 al 23 de julio 2023 
-description: Horóscopo semanal libra 17 de julio 2023 al 23 de julio 2023. El mundo puede esperar Libra, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+title: libra 24 de julio 2023 al 30 de julio 2023 
+description: Horóscopo semanal libra 24 de julio 2023 al 30 de julio 2023. Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2023-07-17
+ogimg: /images/zodiac/semanal_libra.png#2023-07-24
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-07-17'
+ lastmod: '2023-07-24'
 ---
 
 
 
-## El mundo puede esperar Libra, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+## Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
 
-La meta es dura Libra, pero lo conseguirás. Estás en un proceso de adaptación, estás peleando fuertemente para que las cosas salgan como tú quieres. No hay Libra que no lo de todo cuando realmente desea algo… y así estás tú ahora, peleando como el que más. Pero a veces también sientes que nadas a contracorriente, y al final, te acaba arrastrando. Los mejores comienzos, normalmente, vienen después que los peores finales así que piensa que el estrés que has podido pasar últimamente no será en vano… Si las cosas cuestan, es por algo, pero tú lo tienes claro, vas a por todo a muerte, a fuego, y ya no te importará quien se cruce en tu camino o quien quiera estar a tu lado, porque los de verdad están estarán…No hay más… Tu carácter será más poderoso que nunca pero debes creértelo, ahora mucho más. Rodéate de personas que te hagan crecer, no de personas que te estanquen o intenten hundirte, es obvio que sabes de sobra quienes son pero a veces, el problema es que intentas cambiar a los demás, aunque sólo sea por orgullo, pero no, debes aprender simplemente a alejarte, a veces, sin ni siquiera despedirte Libra. Porque un mínimo acercamiento a lo que te hace mal puede suponer muchos pasos atrás… Cuesta dejar a un lado cosas en las que tenías mucha fé, pero a veces, si no las dejas jamás verás los miles de caminos que se te abrirán a los lados. No hace falta que digas todo lo que piensas o que hagas todo lo que crees que debes hacer, en ocasiones, dar media vuelta y dejar todo es lo mejor… Te va a costar la salud si no lo haces, y tu propia vida Libra… No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
-Aunque Mercurio, el planeta del habla y el pensamiento, continúa avanzando a mitad de semana después de su fase retrógrada, tal vez no sea malo evitar derroches y gastos impulsivos, en particular durante las próximas dos semanas. Un aspecto positivo podría hacer que tú y otra persona se sientan más cercanas, quizás como resultado de confiar el uno en el otro. No importa si esto es una amistad o un romance, podrías ver que algo especial se desenvuelve entre ustedes y que lleva a un vínculo fuerte y de apoyo en el futuro.
+Empieza a hacerte promesas a ti mismo Libra, empieza a prometerte amor propio, hoy y siempre. Has dejado abandonadas algunas cosas últimamente, has dejado de lado tu estilo, tu manera de vivir, tus ganas, tu fuerza, tu pasión… Lo has dejado de lado para entrar en conflictos internos y externos con otras personas… Prométete quererte cada día, y anteponerte siempre al resto por favor, prométete ir donde tu corazón te lleve, donde lata con más fuerza sin tener que pensar constantemente en el daño colateral que puedes causar, prométete no ceder cuando sabes que no debes… Hay sentimientos que no se pueden controlar, pero la tensión y la impulsividad sí. Así que, deja de enredarte en historias que no van contigo. Si hay que dejar las cosas claras que se dejen claras de una vez por todas. Saca los jueguecitos de tu vida, saca las estupideces, saca la basura Libra. Y saca lo que tienes dentro y lo que llevas cargando un tiempo. Hay cosas que simplemente no están hechas para ti, por mucho empeño que le pongas, hay cosas que por más que intentes solucionar no se van a dar, pero tienes que hacerte una pregunta, ¿cuánto tiempo estás dispuesto a aguantar donde estás? Deja que el tiempo cure… Y recuerda, tu amor propio antes que nada y mucho más ahora.
+Un dinámico aspecto entre Venus y Urano sugiere que una llamada o mensaje surgirá de la nada y podría ser una grata sorpresa. Si alguien te invita a salir, prepárate para aceptar, ya que podría resultar ser algo muy bueno. Sin embargo, también te encuentras en una fase natural en la que te ayuda tomarte un descanso del estrés y las tensiones de la vida cotidiana. Aprovecha esta oportunidad para deshacerte de cualquier carga emocional que te esté impidiendo avanzar. Al hacerlo, notarás que tu energía aumenta.
 
 ## Dinero
 
-Este período es acerca de grupos, política y autoempleo. Si has estado buscando la manera de ganar más y crear mayor estabilidad, el Universo te da la suerte y la oportunidad de hacer que esto suceda. Acude a tus amistades y redes sociales para ayudarte a construir tu clientela mientras haces la transición de tu empleo actual. Asegúrate de proteger tus ideas y productos con derechos de autor y marcas registradas para asegurar beneficios futuros.
+Tienes que pensar un poco acerca de tu casa. Desde la decoración, la organización, los muebles, tienes mucho que hacer por ahora. Pero hay cierta confusión en tus relaciones más cercanas. Ya sea que se trate de personal o profesional, la comunicación debe ser clara y concisa para que no se malinterprete. Mucho está en juego en éste aspecto.
