@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 25 de julio 2023
-description: Horóscopos del dia de hoy 25 de julio 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 26 de julio 2023
+description: Horóscopos del dia de hoy 26 de julio 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-07-25
+ lastmod: 2023-07-26
 ---
-Saborea los grandes sentimientos de esta mañana. La comunicación es una prioridad durante el oportuno aspecto de la tarde entre la Luna y Mercurio. Esta noche, los planes pueden cambiar en el último momento con la Luna saliéndose de su órbita. ¿Tal vez algo fue programado con demasiada anticipación? No te preocupes, te saldrá bien al segundo intento.
+Esta mañana, anota las cosas mientras una cuadratura fija entre la Luna y Mercurio jueguen trucos con tu mente. Deja que tu imaginación vuele cuando la Luna forme trígono con Neptuno por la tarde. Más tarde, tienes poder de persuasión con el sextil de esta noche entre la Luna y Plutón. ¿Hay alguna pregunta en tu mente que requiera de respuesta?
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
