@@ -1,23 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Piscis Julio 2023 
+title: Horoscopo Piscis Agosto 2023 
 permalink: /horoscopo-mensual/amp/piscis/
 normallink: /horoscopo-mensual/piscis/
 home: FALSE
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Piscis_mes.png#2023-06-28
+ogimg: /images/mes/Piscis_mes.png#2023-07-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-06-28'
+ lastmod: '2023-07-28'
 ---
 
 
-Ocuparás todo tu tiempo con manualidades, proyectos que te apasionan e iniciativas creativas este mes, estimable Piscis, mientras la actividad solar brilla en tu quinta casa solar.
-Esta ubicación destacada puede motivar tu lado artístico e impulsarte a comenzar nuevos proyectos en tu hogar. Sentirás más preocupación de la habitual por los detalles, aunque debes tener la precaución de que tu búsqueda de la perfección no les quite diversión a tus iniciativas más recientes. Sentirte a gusto en tu propio cuerpo también será una prioridad y tendrá un impacto directo en tus niveles de energía y confianza.
-El 9 de julio marca el comienzo del viaje retrógrado de Mercurio por Libra, lo que está destinado a traer alteraciones a tu rutina diaria y a tus metas de bienestar. Encontrar tiempo para ti podría parecer particularmente desafiante, en especial si otras personas dependen de tus cuidados. Una agenda cada vez más ocupada podría hacer que tengas dificultades para l comer sano, meditar o hacer ejercicio, y quizás tengas planificar de antemano para encontrar tiempo para ti mientras nutres tu cuerpo.
-El día 22 marca el comienzo de la temporada de Leo, lo que te presenta con una oportunidad para recuperar la armonía. Esta energía se siente particularmente pronunciada en lo que respecta a tu vida profesional, lo que hace que sea un buen momento para reorganizar tu lugar de trabajo. Mejorar la estética de tu escritorio puede ayudarte a que sientas más calma durante la semana, así que tal vez sea una buena idea invertir en algunos cristales o herramientas de aromaterapia. Si has estado teniendo dificultades para lidiar con la tensión con tus colegas, este período astrológico puede ayudarte a limar estas asperezas, aunque quizás necesites esforzarte un poco más para establecer la paz.
-Días destacados: 4, 10, 25
-Días desafiantes: 16, 24, 30
+No tienes que decirle a todo el mundo todo, y decir menos podría hacer que te sientas mejor. Los días alrededor de la Luna Llena del 1 de agosto serán ocupados, pero alentarán la discreción. Acércate a tus amistades de confianza y aprende algunos de sus secretos. Ata un millón de pequeños cabos sueltos durante la semana de Luna Nueva del 16 de agosto y haz que la vida diaria sea más simple y más fácil de lo que pudieras creer posible. La rutina diaria es rara vez glamorosa, pero la tuya lo será una vez que te adentres en ella. El fin de semana del 23 de agosto será suertudo y divertido con posiblemente grandes planes sociales. Pero Mercurio estará retrógrado, por lo que omite cualquier discusión personal profunda.

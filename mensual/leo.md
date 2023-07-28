@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: Horoscopo Leo Julio 2023
-description: El Horóscopo Julio de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Leo Agosto 2023
+description: El Horóscopo Agosto de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/leo/
 amplink: /horoscopo-mensual/amp/leo/
 home: FALSE
-keywords: horóscopo julio, horoscopos en español, horóscopo Leo julio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Leo, Tarot, Astrologia, Zodíaco, Leo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo agosto, horoscopos en español, horóscopo Leo agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Leo, Tarot, Astrologia, Zodíaco, Leo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/leo_mes.png#2023-06-28
+ogimg: /images/mes/leo_mes.png#2023-07-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-06-28'
+ lastmod: '2023-07-28'
 ---
 
 
- > Leo, en julio te moverás entre el ánimo y el desánimo, pues estás en un momento de cambio de visión de vida. Apóyate en tus amigos, pues estarán para ti y sabrán consolarte cuando te supere la situación y te darán la estabilidad necesaria para salvarte de una mala decisión. Con Júpiter entrando en Tauro el día 16, empezarás a notar que las nuevas posibilidades, que intuyes desde hace tiempo, empiezan a hacerse tangibles.
+ > Leo, este mes encontrarás la solución a temas relacionados con tu hogar o tu familia que llevan mucho tiempo en tu vida. agosto será el salto final que necesitas para que todas las piezas empiecen a encajar en su lugar. Será un buen momento para hacer algún viaje, relacionarte con personas extranjeras o conseguir nuevas oportunidades lejos de tu hogar.
 
 
 
-El 2 de julio, la conjunción entre Marte y Saturno te da una tremenda autoridad. Úsala sabiamente. Haz que el mundo se sorprenda (y tú también) durante la luna nueva del día 17. Comienza algo nuevo, que exprese un lado que sueles esconder de ti. La conjunción entre Marte y Plutón el 26 de julio podría encender los temperamentos. Evita el conflicto y dale un uso positivo a la pasión. Con la luna llena del día 3, sé la buena suerte de alguien, y haz crecer y florecer tu reputación. Hacer el favor correcto en el momento adecuado no será olvidado. No será cuestión de elegir qué hacer para quién. Actúa con espontaneidad y deja que la gente se acerque a ti. 
+Haz lo que más te plazca durante la luna nueva del 16 de agosto. Puede haber muchas sugerencias y opiniones, pero este es el momento para hacer lo que te hace feliz. Mercurio forma un trígono con Saturno el día 18, lo que trae de vuelta un asunto sin resolver al que le ha llegado la hora. Ahora puedes resolverlo con facilidad. Es una luna llena intensa la del 31 de agosto, pero no tiene por qué ser estresante o desalentadora. Intenta buscar algo de tiempo para pasar en privado y siéntete bien sobre lo que haces, los sacrificios que estás haciendo, y las buenas causas que estás promoviendo. Todo está haciendo que avances y te sientas mejor. 
 
-Días destacados: 7, 10, 23
-Días desafiantes: 4, 21
+Días destacados: 4, 14, 31
+Días desafiantes: 1, 25
