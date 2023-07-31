@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 24 de julio 2023 al 30 de julio 2023 
-description: Horóscopo semanal cancer 24 de julio 2023 al 30 de julio 2023. La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+title: cancer 31 de julio 2023 al 06 de agosto 2023 
+description: Horóscopo semanal cancer 31 de julio 2023 al 06 de agosto 2023. El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho Cáncer. Más que nunca…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2023-07-24
+ogimg: /images/zodiac/semanal_cancer.png#2023-07-31
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-07-24'
+ lastmod: '2023-07-31'
 ---
 
 
 
-## La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+## El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho Cáncer. Más que nunca…
 
-A veces sientes como si no avanzaras Cáncer, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente. Las cosas de palacio van despacio ¿ok? Así que no desesperes. Estás en una de esas etapas en las que lo quieres todo ya, aquí y ahora, que lo malo pase pronto y que lo bueno se quede en tu vida por mucho tiempo pero date eso, TIEMPO. Esta semana tendrás momentos de mucho estrés emocional, hay cosas que no están solucionadas del todo pero todo llega, y antes de lo que esperabas… Deja de preocuparte por los fallos que ya se cometieron y empieza a darle importancia a las oportunidades que puedes dejar escapar si no reaccionas a tiempo y si no reaccionas bien. Prueba Cáncer, prueba todo lo que puedas y más, no hace falta querer tener una vida perfecta, lo suyo es tener una vida FELIZ. El hecho de que puedas dejar muchas cosas atrás no es malo, porque otras muchas llegan, pero no fuerces la situación ni esperes que todo cambie de un día para otro. Tienes que trabajártelo, tienes que ir paso a paso y pensar que no tienes una buena o mala vida, si no sólo una vida, y que está en ti hacerla buena o mala. Ánimo Cáncer, feliz semana.
-Hay mucha acción en tu sector de comunicación que puede ser muy productiva en las próximas semanas. Esta puede ser una excelente oportunidad para ampliar tu red de contactos, negociar y discutir importantes contratos o negocios. Aunque puede que sientas deseos de hacer avanzar las cosas, tu energía podría disminuir considerablemente una vez que Marte conecte con Saturno a mitad de semana y con Neptuno el viernes. Puede que tengas que aligerar tu horario y tomar las cosas con más lentitud. Volverás a la normalidad la próxima semana.
+Los finales no significan que hayas fallado en algo Cáncer, los finales a veces sirven para abrir nuevas puertas a algo. Cáncer, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierda, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces. Pero a veces parece que no llega, y mientras tanto, malgastas tu tiempo, malgastas momentos de tu vida en pelear por y para nada, para no conseguir lo que de verdad sabes que te mereces… No tienes que cambiar de vida, no tienes que encontrar un nuevo lugar, con nuevas amistades, con nuevas personas que aviven tu fuego… Es mucho lo que te rodea que es bueno pero sí es necesario restaurar o abandonar esas cosas que ya están rotas y que a veces cobran mucha más importancia que todo lo bonito y bello que está a tu alrededor. Quizás te de tristeza pero estás aprendiendo a aceptar los finales como algo que en su día fue bueno en vez de sentirlo como un fracaso… Las cosas no están destinadas para durar toda la vida, algunas cosas sólo nos enseñan lecciones y después se marchan, algunos finales son necesarios. Aprende a despedirte, aprende a dejar un espacio en tu vida para lo mejor y los mejores. Para lo correcto. El final a veces es libertad y esperanza Cáncer…
+Podrías preguntarte si una idea en la que has invertido es buena después de todo. Si bien las cosas pueden parecer un poco lentas en este momento, ten por seguro que mejorarán. Mientras tanto, el cosmos te alienta a trabajar con un presupuesto con el que puedas mantenerte y que, al mismo tiempo, te permita disfrutar de buenos momentos. La actividad lunar en tu sector de relaciones puede alentarte a llevar una relación nueva o de hace bastante tiempo a un nuevo nivel.
 
 ## Dinero
 
-Puede que necesites solicitar una audiencia más amplia para que puedas atraer a los compradores, inversionistas y otras personas con dinero. Algo que has estado planeando requiere de dinero con el fin de despegar. Es muy importante prestar atención al dinero que compartes con los demás. Las co-inversiones o deudas deben de ser atendidas. Asegúrate de salvar bien tus documentos y pagar los honorarios a tiempo. A partir de ahí, podrás cosechar recompensas.
+Esta semana es perfecta para tener una mentalidad transformadora. Los aspectos astrales agitan tu sector hogareño y despiertan algunos sentimientos internos. Podrías sentir algo de inestabilidad en estas áreas y tal vez necesites pasar algo de tiempo curándote y desarrollando un plan de recuperación. Tómate todo el tiempo que necesites para hacer que suceda.

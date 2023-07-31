@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 24 de julio 2023 al 30 de julio 2023 
-description: Horóscopo semanal piscis 24 de julio 2023 al 30 de julio 2023. Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
+title: piscis 31 de julio 2023 al 06 de agosto 2023 
+description: Horóscopo semanal piscis 31 de julio 2023 al 06 de agosto 2023. En serio Piscis, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2023-07-24
+ogimg: /images/zodiac/semanal_piscis.png#2023-07-31
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-07-24'
+ lastmod: '2023-07-31'
 ---
 
 
 
-## Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
+## En serio Piscis, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
 
-A veces quieres llegar al fondo de cualquier cosa Piscis, pero el problema es que también a veces, eso, no te hace ningún bien. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Piscis. De verdad, a veces es mejor tener paz que tener razón. ¿Por qué no tratas de pasar del mal rollo? ¿Por qué no te alejas de lo que te pone los nervios de punta? Quizás debas dar algunas lecciones y quizás deberías hacerte de rogar un poco. Al menos para que el resto despierte. Muchos no saben lo que se pierden al perder a Piscis, eh. Esta semana deberías hacerte valer un poco, deberías recordarte todas las lecciones que ya llevas aprendidas y dejar de repetir patrones todo el tiempo. Sé valiente y no te engañes a ti mismo. Cuando haces algo por alguien no esperas que hagan lo mismo por ti porque lo haces de corazón pero tampoco esperas que no muevan ni un dedo. Tú sabes de sobra lo que funciona y lo que no funciona Piscis así que, por favor, empieza a ser un poco más productivo y deja de perder el tiempo. Ve a por lo que interesa, a por lo que aporta, a por lo que te hace mejor. No vuelvas a dejar tus planes de lado por nada ni por nadie.
-Venus, tu planeta regente, ingresa a Escorpión y a tu sector de relaciones el martes, donde se une al animado Júpiter y al esclarecedor sol. Como resultado de esto, una relación podría desarrollarse con calidez y pasión. En los próximos días, puede que te sientas especialmente cerca de esta persona. Tu vida social también comienza a animarse y podría traerte mucha satisfacción y diversión. Mientras tanto, una poderosa influencia sugiere que las poderosas percepciones con respecto a una situación clave podrían fomentar un cambio de perspectiva.
+Tienes que tener claro que en este mundo no estamos para gustar a todos, o quizás gustas a todos, pero el problema es que hay mucha envidia cerca aunque no siempre seas capaz de verla… 
+Aprende a marcharte Piscis… Sin complicaciones…
+Puede que parezca como si fueras a perderte de una oportunidad de oro si no te apresuras. Pero si, como la alineación actual sugiere, sientes emoción por las muchas posibilidades que tienes abiertas, tal vez deberías considerar la posibilidad de cortar los proyectos o actividades que ya no te parecen muy atractivas. Si lo haces, significa que serás capaz de aprovechar al máximo las nuevas opciones que son puestas en tu camino. Además, cuidar un poco más tus finanzas también podría serte beneficioso ahora.
 
 ## Dinero
 
-Estás tratando de encontrarle solución a un dilema monetario en curso. Te estás convirtiendo en una figura de autoridad en tu campo. Y ahora te preparas para aprovechar todo lo que has cultivado. El cosmos está afectando a tu sector de dinero y valores, mostrando que el flujo de efectivo debería de aumentar muy pronto con un poco de esfuerzo y decisión.
+Puede que sientas más madurez acerca de la forma en la que manejas el dinero. Puede que las inversiones de riesgo ya no llamen más tu atención. En vez, puede que estés buscando acciones, bonos y otros vehículos con una perspectiva más conservadora. Ciertos aspectos demuestran que tu vida social puede estallar de repente e inesperadamente con invitaciones sociales. Trata de balancear todo con gracia y ecuanimidad.
