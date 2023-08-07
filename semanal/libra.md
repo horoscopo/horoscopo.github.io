@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: libra 31 de julio 2023 al 06 de agosto 2023 
-description: Horóscopo semanal libra 31 de julio 2023 al 06 de agosto 2023. No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Libra, abre las puertas y ciao. No tienes que mantener nada…
+title: libra 07 de agosto 2023 al 13 de agosto 2023 
+description: Horóscopo semanal libra 07 de agosto 2023 al 13 de agosto 2023. Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor Libra, sin remordimientos.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2023-07-31
+ogimg: /images/zodiac/semanal_libra.png#2023-08-07
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-07-31'
+ lastmod: '2023-08-07'
 ---
 
 
 
-## No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Libra, abre las puertas y ciao. No tienes que mantener nada…
+## Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor Libra, sin remordimientos.
 
-Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Libra, por qué te lo callas y te lo llevas callando tanto tiempo? No te das cuenta de que sufres en silencio, no te das cuenta de que acumulas y por eso a veces no avanzas? No eres sensible ni débil por hacerlo, eres real Libra, y si las cosas te duelen no puedes hacer como si no pasara nada, no puedes dejarlo a un lado y seguir como si nada. Tú no funcionas así Libra. Has perfeccionado esa sonrisa falsa, has perfeccionado eso de aguantar por fuera como si estuviera entero cuando por dentro estabas roto en mil pedazos, has aprendido a engañar a los demás. Está bien que no quieras preocupar a algunas personas, pero no todo va tan bien como te gustaría Libra, y mira, tampoco te lo vas a comer todo vale? No ignores tus sentimientos, no trates de aplastarlos para que no se interpongan en tu camino, no intentes de forzar y de mantener fuera de tu vida lo que aún está dentro, la tentación siempre estará ahí hasta que no cortes realmente con el problema… No te sientas imbécil por llorar, por preocuparte demasiado aún, todo tiene un proceso… Y ese proceso llega a su fin… Feliz semana…
-Hay un gran enfoque en tu sector espiritual. Esto podría animarte a reflexionar sobre tu vida. Después de algunos encantadores eventos festivos, puede que te agrade volver a casa y encontrar el tiempo para relajar mente, cuerpo y alma profundamente. También podrías tener oportunidades para deshacerte de cualquier irritante cuestión. Esto puede aliviarte mucho. La noches del Sabado luce agradablemente animada, con alegres conexiones lunares con el conversador Mercurio y el electrificante Urano, ayudándote a disfrutar con estilo.
+Vale, puede que te lleves o que ya te estés llevando decepciones, pero piénsalo bien, son decepciones que no te sorprenden demasiado. Las cosas ya no te afectan como antes, es muy raro que algo te de la sorpresa de tu vida, ya has pasado demasiado pero aún así, por muy duro que parezcas a veces, las cosas duelen. Bueno, lo hecho, hecho está, y quizás en tus manos tengas poco poder para cambiar los fallos que cometen los demás, pero ¡despierta! En tus manos sí está el poder de cambiar lo que tú quieres, para ti, para tu vida. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. Todo pasa, todo cambia y todo llega Libra. A veces la opción más difícil y la mejor opción son la misma. Tener el control de uno mismo es fundamental para caminar hacia delante y eso es lo que debes tener controlado ahora, no se trata de lo que tienes o de lo que no tienes, se trata de lo que quieres llegar a tener, con lo que de verdad te quieres llegar a sentir satisfecho. No te dejes arrastrar de nuevo por la mierda.
+La tentación podría ser dar y dar hasta agobiarte. El enfoque en el signo de Piscis y tu sector de trabajo y servicio sugiere que sientes que es tu deber ayudar a los demás, sin importar tus propias necesidades. Pero este enfoque no puede sostenerse. Y con el alegre Mercurio y el sol en línea con el precavido Saturno esta semana, el cosmos te anima a establecer límites más saludables. Tendrás que darle algo a tu persona en algún momento, y este puede ser el momento para hacerlo.
 
 ## Dinero
 
-Tu situación en casa y emociones internas indican un posible cambio para ti. ¿Has estado pensando en crear más espacio para ti? Un cambio de escenario puede ser justo lo que necesitas para aumentar tu creatividad y obtener el néctar que fluirá hacia un nuevo trabajo o nueva fuente de ingresos. El truco está en no exagerar éste esfuerzo, busca un balance entre el gasto y el ahorro.
+Tienes una extraña habilidad para predecir el futuro cuando se trata de dinero. Sabes cuando las cosas van a ir bien y cuando no. Puede que ahora tus poderes psíquicos sean más fuertes que de costumbre. Como tal, es una buena idea que guardes algo de dinero extra para la diversión que deseas tener en unas vacaciones con tu familia, amigos o a solas. Visualiza los beneficios conforme ahorras regularmente.

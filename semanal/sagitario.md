@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 31 de julio 2023 al 06 de agosto 2023 
-description: Horóscopo semanal sagitario 31 de julio 2023 al 06 de agosto 2023. No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
+title: sagitario 07 de agosto 2023 al 13 de agosto 2023 
+description: Horóscopo semanal sagitario 07 de agosto 2023 al 13 de agosto 2023. Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles Sagitario, ¡NO MEZCLES!
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2023-07-31
+ogimg: /images/zodiac/semanal_sagitario.png#2023-08-07
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-07-31'
+ lastmod: '2023-08-07'
 ---
 
 
 
-## No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
+## Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles Sagitario, ¡NO MEZCLES!
 
-Cada día que pasa te das más cuenta de que mereces cosas buenas Sagitario, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento. Tú eres tu vida y tú eres tu centro ahora mismo. Nada de comeduras de cabeza por situaciones ajenas a ti o por terceras personas, nada de eso de verdad. Tienes demasiado encima como para dedicar más tiempo a otras cosas que no seas tú mismo/a. Esta semana vas a estar pletórico, empezando porque te has dado cuenta de lo que realmente es importante. Huye de las broncas, no te enfrentes a nadie, si los demás quieren llevar un ritmo de vida caótico que lo lleven, no es problema tuyo pero escapa cuanto antes y que no te salpique. Eres como eres y nadie podrá cambiarte por mucho que se empeñen. Un alma libre, pura, buena pero no imbécil… Empieza a escribir una historia nueva si el cuerpo te lo pide. Lo has hecho toda tu vida. No te puede temblar más el pulso con nada. Empieza el cambio. Sólo debes de dar el primer paso, y después otro y otro… A ver si así, el resto reacciona. Sobretodo cuando sepan que no estarás ahí para aguantar nada que te haga daño… ¡Con la escuela que tienes tú ya! Feliz semana Sagitario.
-Una relación podría ser el catalizador para que entres en acción o tomes una decisión que podría cambiar tu vida de una manera impresionante. Tu manera de pensar puede inclinarse hacia el futuro cuando un encuentro te permite ver las posibilidades que nunca tuviste en cuenta. Además, Venus, tu planeta regente, entra en fase retrógrada el sábado, por lo que mejor evita comprometerte con una persona o sociedad hasta después del Sabado. Sabrás exactamente qué hacer en ese momento.
+Fíate de ti mismo Sagitario, de ti mismo y de tus acciones. De nadie más. Las expectativas no funcionan siempre, es más cuantas más expectativas tienes de algo más duro es el golpe después si no se cumplen como tu querías que se cumplieran. Por muy desconfiado y duro que parezcas ser, al final acabas confiando Sagitario y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto, has dejado de lado tu personalidad, tu opinión acerca de algo. Eso es lo que duele. Por eso ahora, lo mejor es no dar demasiado. Deja que sea el resto el que te de a ti. Déjate mimar. Deja que los demás te demuestren en vez de ser tú quien siempre demuestre al resto. No siempre tienes que ser tú el que está equivocado, no siempre tienes que ser tu el que vaya detrás del resto, el que tiene que arreglar constantemente todo. Si te sientes más frío ahora no te preocupes, son etapas, también tiene que haber momentos en los que no des todo de ti. Y ese es uno de ellos. Y no es que hayas cambiado, es que has sabido valorarte, has aprendido a no dar el 100% cuando sólo recibes la mitad, o ni siquiera eso. Los demás se hacen fuertes cuando el débil eres tú. Deja de poner en primer lugar los propósitos de los demás y pon los tuyos antes.
+Las oportunidades abundan en los próximos días, pero una en particular podría ser muy buena noticia para ti, especialmente si trae consigo un nuevo comienzo. Puede que sea buena idea ser paciente al respecto, ya que con Venus retrógrado pueden surgir algunos cambios en las próximas semanas. Sácate tus dudas y da pasos tentativos, pero prepárate para adaptarte por si acaso. La entrada de Mercurio a tu sector de hogar y familia puede ser una oportunidad para que tengas conversaciones importantes.
 
 ## Dinero
 
-Si has estado teniendo la intención de poner tus cuentas en orden, este es un buen momento para hacerlo. Tu sector de deuda y el dinero de los demás es el más afectado. Si estás tratando de recaudar dinero para una nueva idea de negocio, es un buen momento para hacerlo. El Universo se está centrando en los procesos, tales como solicitudes de préstamos, y asegurándose de que las respuestas que recibas sean positivas. Pon tal dinero a buen uso.
+Tienes una situación interesante esta semana. Tu vida puede ser más difícil de lo que es, sobre todo cuando se trata de lo que es tuyo. Definir cómo vas a ganar dinero ahora y en el futuro es mejor que dejarlo todo al azar. Confiar excesivamente en los demás no es la mejor opción ahora.

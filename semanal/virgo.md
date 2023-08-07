@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 31 de julio 2023 al 06 de agosto 2023 
-description: Horóscopo semanal virgo 31 de julio 2023 al 06 de agosto 2023. Virgo, tienes que cambiar un poco el entorno que te rodea, dar nuevas oportunidades a otras personas, cambiar de lugar por un tiempo, cambiar de hábitos. Procura levantarte cada mañana y trazar un plan de lo que quieres conseguir a lo largo del día.
+title: virgo 07 de agosto 2023 al 13 de agosto 2023 
+description: Horóscopo semanal virgo 07 de agosto 2023 al 13 de agosto 2023. Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2023-07-31
+ogimg: /images/zodiac/semanal_virgo.png#2023-08-07
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-07-31'
+ lastmod: '2023-08-07'
 ---
 
 
 
-## Virgo, tienes que cambiar un poco el entorno que te rodea, dar nuevas oportunidades a otras personas, cambiar de lugar por un tiempo, cambiar de hábitos. Procura levantarte cada mañana y trazar un plan de lo que quieres conseguir a lo largo del día.
+## Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. 
 
-Porque quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que 
- Pero no, debes escapar de esos pensamientos, enfocarte en otras cosas en las que no debas decidir esto o lo otro, si no que simplemente fluyas sin más, 
-pero otras muchas veces sí, así que, plantéate en cuales puedes hacer algo para cambiar el rumbo y en cuáles lo mejor de todo es dar media vuelta y olvidar, aunque sea complicado…
-Necesitas tomar una decisión clave el Martes. La actividad lunar de mitad de semana en tu sector hogareño alienta nuevos comienzos, por lo que si te has preparado para empezar un proyecto o seguir con la siguiente fase de un plan, es el momento adecuado para actuar. Lo que sea que comiences ahora podría cambiar tu vida de una manera positiva. Mientras tanto, Marte se une a Venus en Libra el jueves, haciendo de este un momento excelente para anunciar tus productos y servicios y hacerle llegar tu mensaje al mundo.
+Esta semana va a estar cargada de altibajos Virgo, va a ser una semana muy movidita. Y cuando estés arriba estarás mucho tiempo pero el problema es cuando estás abajo… Paciencia y sangre fría. Vas a tomar decisiones adecuadas pero al fin y al cabo los cambios te trastocan mucho. Tus expectativas son muy altas siempre y como te falle algo, aunque sea por poco, te amarga la existencia. Pero como siempre Virgo, hay cosas que no están en tu mano. En realidad hay cosas que aún no has perdonado del todo, hay algo que por dentro te agita, algo que no te deja dormir como quisieras. Pero deja de investigar de una vez, deja de gastar tu tiempo en encontrar errores de los demás. Si no te gusta algo, ¡a la mierda! Sin contemplaciones. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón. La cabeza Virgo, la cabeza es la que vale ahora y la que te acabará por salvar. Que no te empujen al límite Virgo, no te enredes en mierdas del resto, de verdad. Los cambios no son malos y estos ni siquiera van a ser tan complicados como tú piensas…
+Podría parecer como si te estuvieras enfrentando a problemas en dos frentes. En primer lugar, una cuestión personal podría estarte haciendo sentir mal, o peor, enfureciéndote. En segundo lugar, otra cuestión incómoda podría tener el efecto contrario, dejándote con una sensación de agotamiento. Entre ambas, te ayudaría mantener límites firmes y delegar en lugar de decir que sí a más solicitudes. Con Venus entrando a Escorpión y a tu sector financiero, considera mimarte o al menos darte un par de lujos.
 
 ## Dinero
 
-Para ti, esta semana es sobre los aspectos de apoyo que afectan a tu sector de las relaciones y el matrimonio. Es probable que te percates de que los demás estarán de acuerdo con tus distintos planes financieros. Eso sí, no te sorprendas si uno o más de ellos quieren revisar tu plan de negocios para evitar cualquier defecto o volver a revisar tus matemáticas. No te ofendas. Esta es su manera de ayudarte, ten agradecimiento.
+El Universo está afectando a tu sector de deuda y el dinero de los demás, mientras que le trae cambios a tu sector profesional. Este no es el momento de gastar en exceso. Más bien, es mejor invertir este tiempo en pagar tus deudas más urgentes mientras que consolidas tu carrera con otras actividades de desarrollo de habilidades, tales como seminarios. Te convertirás en un valor incalculable para tu empleador y también garantizarás tu seguridad en tu empleo.
