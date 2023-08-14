@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 07 de agosto 2023 al 13 de agosto 2023 
-description: Horóscopo semanal capricornio 07 de agosto 2023 al 13 de agosto 2023. Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana Capricornio.
+title: capricornio 14 de agosto 2023 al 20 de agosto 2023 
+description: Horóscopo semanal capricornio 14 de agosto 2023 al 20 de agosto 2023. Hay cosas que ya no funcionan Capricornio, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2023-08-07
+ogimg: /images/zodiac/semanal_capricornio.png#2023-08-14
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-08-07'
+ lastmod: '2023-08-14'
 ---
 
 
 
-## Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana Capricornio.
+## Hay cosas que ya no funcionan Capricornio, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
 
-A veces, dar estos pasos solos nos hacen mucho más fuertes en la vida… Además 
- nada es para siempre, ni siquiera los problemas ni las preocupaciones…
-Puede que tu agenda esté muy llena, y más que nada de trabajo. Sin embargo, con el fuerte enfoque de ahora en tu sector de hogar y familia, puede que te sientas mejor si logras equilibrar un poco las cosas. ¿Necesitas encargarte de todas esas responsabilidades ahora mismo? Si algunas pueden esperar, anótalas en tu agenda para la semana que viene o para otro momento. La oportunidad de estar con las personas que más quieres y aprovechar un poco de tranquilidad es fundamental para tu felicidad esta semana.
+Debes tener cuidado si no quieres que la caída sea desde muy arriba. No tiene por qué pasar, está claro, pero debes prevenir y no entregarte al 100% en todo lo que haces, porque los golpes duros duelen menos cuando no diste todo de ti, ves con un poquito de ojo esta semana.
+Las cosas lucen bien para ti esta semana con el planeta de la belleza, Venus, ingresando a tu signo para que sientas incluso más atractivo en ti de lo habitual. Esta influencia puede respaldar cualquier cambio reciente y podría animarte a renovar tu imagen. Tu enfoque está en avanzar con audacia y en aprovechar las nuevas oportunidades. Puede que te atraiga especialmente una idea mientras el sol aspecta al potente Plutón en tu sector de conversación y pensamiento. Plantar una semilla ahora podría dar como resultado grandes desarrollos más adelante.
 
 ## Dinero
 
-Con tantos planetas afectando tu sector de dinero esta semana, puede que tengas la tentación de correr y esconderte. Pero a medida que el Universo se centra en tu sector de dinero y valores, se te está pidiendo ser más responsable en la forma en la que ganas dinero. También se te insta a ser mucho más sociable cuando se trata de tu dinero.
+Esta semana, el Universo está mejorando tu creatividad, pero también haciéndote trabajar un poco más duro de lo que debería. Al mismo tiempo, tus sectores de comunicación, instituciones, karma y vidas pasadas se ven afectados. No es el momento de enfadar a tu jefe o de demostrar llamativamente tu independencia. Trata de llevarte bien.

@@ -1,27 +1,29 @@
 ---
 layout: horoscopos
-title: virgo 07 de agosto 2023 al 13 de agosto 2023 
-description: Horóscopo semanal virgo 07 de agosto 2023 al 13 de agosto 2023. Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. 
+title: virgo 14 de agosto 2023 al 20 de agosto 2023 
+description: Horóscopo semanal virgo 14 de agosto 2023 al 20 de agosto 2023. Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2023-08-07
+ogimg: /images/zodiac/semanal_virgo.png#2023-08-14
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-08-07'
+ lastmod: '2023-08-14'
 ---
 
 
 
-## Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. 
+## Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
 
-Esta semana va a estar cargada de altibajos Virgo, va a ser una semana muy movidita. Y cuando estés arriba estarás mucho tiempo pero el problema es cuando estás abajo… Paciencia y sangre fría. Vas a tomar decisiones adecuadas pero al fin y al cabo los cambios te trastocan mucho. Tus expectativas son muy altas siempre y como te falle algo, aunque sea por poco, te amarga la existencia. Pero como siempre Virgo, hay cosas que no están en tu mano. En realidad hay cosas que aún no has perdonado del todo, hay algo que por dentro te agita, algo que no te deja dormir como quisieras. Pero deja de investigar de una vez, deja de gastar tu tiempo en encontrar errores de los demás. Si no te gusta algo, ¡a la mierda! Sin contemplaciones. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón. La cabeza Virgo, la cabeza es la que vale ahora y la que te acabará por salvar. Que no te empujen al límite Virgo, no te enredes en mierdas del resto, de verdad. Los cambios no son malos y estos ni siquiera van a ser tan complicados como tú piensas…
-Podría parecer como si te estuvieras enfrentando a problemas en dos frentes. En primer lugar, una cuestión personal podría estarte haciendo sentir mal, o peor, enfureciéndote. En segundo lugar, otra cuestión incómoda podría tener el efecto contrario, dejándote con una sensación de agotamiento. Entre ambas, te ayudaría mantener límites firmes y delegar en lugar de decir que sí a más solicitudes. Con Venus entrando a Escorpión y a tu sector financiero, considera mimarte o al menos darte un par de lujos.
+Vas a abrir los ojos y, aunque no des los pasos al momento, las ideas las tendrás claras. 
+ La rutina no te hace mal, pero si la monotonía, y te encuentras en el punto de cambiar para renovarte. 
+ Cambiar el chip hará que entiendas muchas cosas que hasta ahora te preocupaban. Necesitas mirarte por dentro y ver hasta dónde eres capaz de llegar y sobretodo, hasta donde QUIERES llegar. Quieres ser feliz y harás lo que sea para conseguirlo, lo sabes.
+Tu salud, bienestar, trabajo y estilo de vida son una parte muy importante de la agenda de esta semana. También es importante desarrollar la mentalidad adecuada para lograr tus objetivos en estas áreas. No pienses que nunca perderás peso o tendrás la casa que quieres - porque no es cierto. Sólo tienes que creer que es posible. A medida que Urano retrocede en tu sector monetario desde el viernes, ayudaría que tuvieras cuidado en vez de manejar impulsivamente tus recursos.
 
 ## Dinero
 
-El Universo está afectando a tu sector de deuda y el dinero de los demás, mientras que le trae cambios a tu sector profesional. Este no es el momento de gastar en exceso. Más bien, es mejor invertir este tiempo en pagar tus deudas más urgentes mientras que consolidas tu carrera con otras actividades de desarrollo de habilidades, tales como seminarios. Te convertirás en un valor incalculable para tu empleador y también garantizarás tu seguridad en tu empleo.
+Esta semana tiene aspectos favorables que indican que estás buscando maneras de ganar dinero que emplean tus prodigiosas habilidades de comunicación y te darán más placer en general. Tus relaciones jugarán un papel importante esta semana. Entabla una conversación con un desconocido y es posible que te percates que tienen más en común de lo que pensaban.

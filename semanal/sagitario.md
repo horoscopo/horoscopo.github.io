@@ -1,27 +1,29 @@
 ---
 layout: horoscopos
-title: sagitario 07 de agosto 2023 al 13 de agosto 2023 
-description: Horóscopo semanal sagitario 07 de agosto 2023 al 13 de agosto 2023. Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles Sagitario, ¡NO MEZCLES!
+title: sagitario 14 de agosto 2023 al 20 de agosto 2023 
+description: Horóscopo semanal sagitario 14 de agosto 2023 al 20 de agosto 2023. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2023-08-07
+ogimg: /images/zodiac/semanal_sagitario.png#2023-08-14
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-08-07'
+ lastmod: '2023-08-14'
 ---
 
 
 
-## Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles Sagitario, ¡NO MEZCLES!
+## A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
 
-Fíate de ti mismo Sagitario, de ti mismo y de tus acciones. De nadie más. Las expectativas no funcionan siempre, es más cuantas más expectativas tienes de algo más duro es el golpe después si no se cumplen como tu querías que se cumplieran. Por muy desconfiado y duro que parezcas ser, al final acabas confiando Sagitario y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto, has dejado de lado tu personalidad, tu opinión acerca de algo. Eso es lo que duele. Por eso ahora, lo mejor es no dar demasiado. Deja que sea el resto el que te de a ti. Déjate mimar. Deja que los demás te demuestren en vez de ser tú quien siempre demuestre al resto. No siempre tienes que ser tú el que está equivocado, no siempre tienes que ser tu el que vaya detrás del resto, el que tiene que arreglar constantemente todo. Si te sientes más frío ahora no te preocupes, son etapas, también tiene que haber momentos en los que no des todo de ti. Y ese es uno de ellos. Y no es que hayas cambiado, es que has sabido valorarte, has aprendido a no dar el 100% cuando sólo recibes la mitad, o ni siquiera eso. Los demás se hacen fuertes cuando el débil eres tú. Deja de poner en primer lugar los propósitos de los demás y pon los tuyos antes.
-Las oportunidades abundan en los próximos días, pero una en particular podría ser muy buena noticia para ti, especialmente si trae consigo un nuevo comienzo. Puede que sea buena idea ser paciente al respecto, ya que con Venus retrógrado pueden surgir algunos cambios en las próximas semanas. Sácate tus dudas y da pasos tentativos, pero prepárate para adaptarte por si acaso. La entrada de Mercurio a tu sector de hogar y familia puede ser una oportunidad para que tengas conversaciones importantes.
+Te da miedo empezar etapas nuevas, te da miedo dejar a un lado lo que ya has conseguido, te da miedo mandarlo todo a la mierda y también te da miedo darlo todo por algo o por alguien. Y al final, te mantienes como estás, aunque sabes de sobra que como estás no eres plenamente feliz. 
+Date un respiro, toma algún día para pensar y relajarte, mímate un poco y deja que los sentimientos y las emociones vayan saliendo solos. 
+como si no quisieras sentir lo que sientes, como si quisieras sentir lo que no sientes. Es una estupidez porque al final, todo sale.
+El positivo y continuo enlace que Júpiter forma con Plutón en tu sector de creatividad significa que este es uno de los mejores momentos para exhibir una habilidad o charlar con alguien que tenga influencia en uno de tus proyectos. Si perseveras, grandes cosas podrían sucederte como resultado. Mientras tanto, si estás fuera de casa con amigos, puede que sientas ganas de ayudar con una fiesta de caridad o donar tu tiempo de otras maneras; algo que de verdad podrías disfrutar.
 
 ## Dinero
 
-Tienes una situación interesante esta semana. Tu vida puede ser más difícil de lo que es, sobre todo cuando se trata de lo que es tuyo. Definir cómo vas a ganar dinero ahora y en el futuro es mejor que dejarlo todo al azar. Confiar excesivamente en los demás no es la mejor opción ahora.
+Puede que solicites una audiencia más grande con el fin de atraer a compradores, inversionistas y otras personas con dinero. Algo que estas planeando requiere de más dinero con el fin de despegar. Es muy importante el prestar atención al dinero que compartes con otros. Algunos co-inversionistas o algunas deudas necesitarían ser atendidas. Asegúrate de firmar documentos y pagar honorarios a tiempo. A partir de ahí, podrás cosechar recompensas.
