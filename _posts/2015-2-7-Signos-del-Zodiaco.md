@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 20 de agosto 2023
-description: Horóscopos del dia de hoy 20 de agosto 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 21 de agosto 2023
+description: Horóscopos del dia de hoy 21 de agosto 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-08-20
+ lastmod: 2023-08-21
 ---
-Decide cuáles son tus nuevos objetivos, ya que cuando te propones algo, sueles obtenerlo. ¿Qué es lo que te llega tanto al corazón que no podrías abandonarlo? El romance es cariñoso y afectivo mientras Venus forma trígono con Plutón hoy.
+Hoy surgen fragmentos de información apoyados por los hechos. La comunicación constructiva trabaja en cooperación con la acción expansiva cuando Mercurio forma sextil con Júpiter. Esta noche, las acciones de la gente podrían sorprenderte mucho. Escuchar y observar te permiten echarle una mirada al futuro, una que es más emocionante.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
