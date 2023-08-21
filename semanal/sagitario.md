@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 14 de agosto 2023 al 20 de agosto 2023 
-description: Horóscopo semanal sagitario 14 de agosto 2023 al 20 de agosto 2023. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
+title: sagitario 21 de agosto 2023 al 27 de agosto 2023 
+description: Horóscopo semanal sagitario 21 de agosto 2023 al 27 de agosto 2023. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2023-08-14
+ogimg: /images/zodiac/semanal_sagitario.png#2023-08-21
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-08-14'
+ lastmod: '2023-08-21'
 ---
 
 
 
-## A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
+## No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
 
-Te da miedo empezar etapas nuevas, te da miedo dejar a un lado lo que ya has conseguido, te da miedo mandarlo todo a la mierda y también te da miedo darlo todo por algo o por alguien. Y al final, te mantienes como estás, aunque sabes de sobra que como estás no eres plenamente feliz. 
-Date un respiro, toma algún día para pensar y relajarte, mímate un poco y deja que los sentimientos y las emociones vayan saliendo solos. 
-como si no quisieras sentir lo que sientes, como si quisieras sentir lo que no sientes. Es una estupidez porque al final, todo sale.
-El positivo y continuo enlace que Júpiter forma con Plutón en tu sector de creatividad significa que este es uno de los mejores momentos para exhibir una habilidad o charlar con alguien que tenga influencia en uno de tus proyectos. Si perseveras, grandes cosas podrían sucederte como resultado. Mientras tanto, si estás fuera de casa con amigos, puede que sientas ganas de ayudar con una fiesta de caridad o donar tu tiempo de otras maneras; algo que de verdad podrías disfrutar.
+Ojalá pudiéramos tener un botón de reinicio en la vida Sagitario, pero no lo hay. No puedes traer nada de vuelta ni tampoco lo puedes deshacer. Todas tus acciones tienen consecuencias, y lo que hagas y digas hoy tendrá un impacto duradero en el resto de tu vida. Debes entender esto para, a partir de ahora hacer las cosas mejor por y para ti, para no sufrir después, para tomar buenas decisiones. Sé consciente mientras lo haces. Estás en un proceso de curación, no quieras correr más de la cuenta porque estás cosas se toman su tiempo pero piensa que un poco de progreso cada día se suma a los grandes resultados.
+Si tienes que hacer promesas esta semana, piénsalo con cuidado. Confía en tus instintos para saber cuál debería ser el próximo paso. Sin embargo, con el curioso Mercurio formando un positivo aspecto con el expansivo Júpiter, no sería tan malo que pienses primero en tus necesidades. Por otro lado, el fogoso Marte entra tu sector de estilo de vida el Jueves para quedarse allí seis semanas, lo cual podría alentarte a pensar sobre tu salud y sobre qué podrías hacer para ser más saludable.
 
 ## Dinero
 
-Puede que solicites una audiencia más grande con el fin de atraer a compradores, inversionistas y otras personas con dinero. Algo que estas planeando requiere de más dinero con el fin de despegar. Es muy importante el prestar atención al dinero que compartes con otros. Algunos co-inversionistas o algunas deudas necesitarían ser atendidas. Asegúrate de firmar documentos y pagar honorarios a tiempo. A partir de ahí, podrás cosechar recompensas.
+No siempre se te conoce por tu sutileza, y esta semana no es diferente. Tus habilidades comunicativas y estilo personal pueden ser poco convencionales, por lo que bájale un poco al tono si estás tratando de dar una buena primera impresión. Estás pensando en cómo hacer que tu carrera sea un poco más independiente y menos centrada en la oficina. Muéstreles que pueden confiar en ti y que eres capaz de hacerlo bien.

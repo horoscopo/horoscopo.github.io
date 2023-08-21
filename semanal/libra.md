@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: libra 14 de agosto 2023 al 20 de agosto 2023 
-description: Horóscopo semanal libra 14 de agosto 2023 al 20 de agosto 2023. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada Libra. 
+title: libra 21 de agosto 2023 al 27 de agosto 2023 
+description: Horóscopo semanal libra 21 de agosto 2023 al 27 de agosto 2023. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2023-08-14
+ogimg: /images/zodiac/semanal_libra.png#2023-08-21
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-08-14'
+ lastmod: '2023-08-21'
 ---
 
 
 
-## Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada Libra. 
+## Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
 
-¿Cuál es la diferencia ahora? Pues que el tiempo en darte cuenta de que estabas haciendo el tonto, se acorta. Vamos, que puedes caer y volver atrás cuando no deberías pero te das cuenta en seguida. 
- lo que pasa es que lo que sí debes aprender es a no tener que caer ni una vez más, aunque parezca que las cosas no te afectan, te afectan… ¿Por qué no cerrar las puertas que debes cerrar definitivamente y abrir las que te están esperando? Probablemente ganes mucho más… Piénsalo… Y actúa Libra.
-Hay momentos en los que lo único que quieres es que te dejen en paz. Sin embargo, este deseo de hacer lo tuyo podría crear frustración en algunos miembros de tu familia que sienten que deberían tener voz en tus asuntos. Los días por delante podrían requerir de un manejo cuidadoso ya sea que estés tratando con tu socio empresarial o un familiar. Existe la posibilidad de que haya un choque este fin de semana, pero puede ser minimizado si manejas alguna situación ya sea con sensibilidad, o en su caso, con profesionalismo.
+Es probable que realices o cierres un gran proyecto esta semana, que firmes algún tipo de contrato, o que se acabe algún capítulo de tu vida que estabas deseando cerrar. Pero recuerda estar entero cuando esto pase. Nada de dudas porque si no, podría salir todo mal, podría quedarse en nada al final. 
+Tienes contacto con algunas personas aún que no deberías así que, empieza a limpiar un poco a gran parte de tus contactos. No te hacen del todo bien.
+Ten cuidado al hablar de temas delicados. Este tipo de conversaciones podrían hacer que otra persona te confronte. De hecho, quizá sería mejor no causar ningún problema, particularmente durante el fin de semana y especialmente si quieres pasar un momento tranquilo con esta persona. ¿Por qué no sacas el tema más adelante en la semana? Quizá se sientan más relajados al respecto. Por otro lado, puede que causes una buena impresión en una persona de autoridad gracias a tu encanto y tus habilidades innatas. No desaproveches esta conexión.
 
 ## Dinero
 
-Es hora de pensar en cómo pudiste haber tomado la palabra de otras personas en asuntos de dinero o hayas tomado cierto esquema de inversión que es demasiado bueno para ser verdad. Puede ser que alguien te haya estado vendiendo difícilmente algo relacionado con las inversiones. Necesitas más tiempo para considerar el mejor camino para ti. Sé firme pero amable y asegúrate de que tienes el tiempo que necesitas. Tú sabes que es lo mejor para ti.
+Esta semana podría ser tensa para ti. Presta especial atención a los mensajes que estés recibiendo de sus sueños y flashes psíquicos. Lejos de ser esotéricos y confusos, están justo en el blanco ahora. Al mismo tiempo, sigue añadiendo más a tus capacidades al asistir a clases, talleres y seminarios. Tienes todo lo que se necesitas, pero un poco más no te vendría mal.
