@@ -1,24 +1,23 @@
 ---
 layout: amp
-title: Horoscopo Cáncer Agosto 2023 
+title: Horoscopo Cáncer Septiembre 2023 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/Cáncer_mes.png#2023-07-28
+ogimg: /images/mes/Cáncer_mes.png#2023-08-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-07-28'
+ lastmod: '2023-08-25'
 ---
 
 
-En este momento, Escorpión, las aguas tranquilas fluyen bajo la superficie, ya que el sol transita por el sector de tu carta natal que rige el subconsciente. Esta posición solar te ofrece la oportunidad de recuperar el equilibrio en las profundidades de tu alma, lo que te ayudará a encontrar la armonía y la paz interior a medida que ordenas tu mente. Por suerte, la posición de Venus en tu doceava casa solar aporta a la ecuación un elemento extra de gracia, que te permite tener paciencia para ti y para el camino que te ha llevado hasta dónde estás hoy.
-Una energía más crítica y metódica entra en juego cuando Mercurio entra a Libra el 10 de agosto, y te pide que analices de forma práctica tus miedos y las conductas que provocan. Aunque afrontar tus actitudes autodestructivas del pasado no parezca la forma más relajante de pasar el tiempo, reconocer estos patrones es la única forma de superarlas. Por suerte, la lógica prevalecerá para ti durante este período, lo que te dará la oportunidad de aprender del pasado sin castigarte por los errores cometidos.
-Tu confianza aumentará cuando el sol y Venus confluyen, y serán una fuente de apoyo cósmico a medida que se acerque tu retorno solar.
-Tu popularidad aumentará durante las próximas semanas, y la luna nueva en Escorpión del 16 de agosto puede inspirarte a pensar en qué te deparará el próximo mes.
-Lamentablemente, podrías empezar a sentir que pierdes impulso y que retrocedes cuando Marte comienza a retrogradar el día 30, lo que podría traer falta de energía y motivación y obstáculos en tu camino.
-Días destacados: 6, 17, 18
-Días desafiantes: 11, 19, 27
+Está bien si necesitas dar un paso atrás de tu familia y amistades por la primera mitad del mes, estimable Cáncer, ya que un ejército de cuerpos celestes atraviesa tu doceava casa solar. Estas vibras te piden que inviertas en un momento de tranquilidad e introspección, para así poder ganar un entendimiento más claro de tu propio ser y de tus relaciones. Solo trata de no alejarte por completo de las personas que se interesan en ti, si no empezarán a preocuparse por tu bienestar.
+Júpiter, tu planeta regente, comparte un favorable aspecto con el revolucionario Urano el 17 de septiembre, lo que te da la posibilidad de hacer unos rápidos e importantes cambios. El sol ingresa a Libra el 23, lo que te trae un respiro luego del altibajo emocional que fue la temporada de Acuario.
+Las buenas vibras continuarán fluyendo, ya que un gran trino de tierra entre la luna, el nodo norte y Plutón se manifiesta en el cielo el 18, y esto te inspira a tomar el control de tu destino. Sin embargo, aquí está el truco: necesitarás mudar de piel, lo que requerirá dejar ir situaciones tóxicas o patrones de comportamiento.
+El 24 de septiembre trae sanadoras vibras a tu vida profesional cuando Venus se une a tu actual planeta regente, Neptuno. Si no te sientes feliz o con motivación en tu profesión, deberías comenzar a explorar otras opciones dentro o fuera de tu actual empresa. Esta energía también tiene matices espirituales, que pueden inspirarte a decorar tu lugar de trabajo con cristales o, quizás, con un difusor aromático.
+Días destacados: 2, 21, 22
+Días desafiantes: 11, 18, 24

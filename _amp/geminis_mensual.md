@@ -1,22 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Géminis Agosto 2023 
+title: Horoscopo Géminis Septiembre 2023 
 permalink: /horoscopo-mensual/amp/geminis/
 normallink: /horoscopo-mensual/geminis/
 home: FALSE
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Géminis_mes.png#2023-07-28
+ogimg: /images/mes/Géminis_mes.png#2023-08-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-07-28'
+ lastmod: '2023-08-25'
 ---
 
 
-El universo te pedirá que examines tus límites personales, sociales y profesionales este mes, estimable Géminis, mientras la actividad solar transita por tu décima casa solar. Esta energía será difícil de navegar, especialmente si has tenido dificultad para decir que no o para establecer una agenda razonable para ti. Si has estado encontrando obstáculos en tu camino, sería prudente que examines tu rol en dichas circunstancias, algo que te ayudará a encontrar la manera de sortearlos. Estos sentimientos se verán acentuados cuando Saturno entra a Piscis el 7 de agosto, exigiendo que tomes con seriedad tus objetivos y tu afán de éxito.
-Notarás un cambio cuando el conversador Mercurio entra a Aries y al sector de tu carta astral que rige la comunidad el día 18. Esta ubicación planetaria seguramente impulsará tu vida social, en especial cuando el mes comience dos días más tarde. En las próximas semanas, es posible que se forjen nuevas conexiones y que el universo te pida que dediques más energía a hacer de tu rincón del mundo un lugar mejor. Asegúrate de establecer tus intenciones en torno a objetivos sociales durante la luna nueva del 16 de agosto, y considera hacer una donación a una organización sin ánimo de lucro en honor a esta lunación.
-Marte sale tu signo el día 25, y entra al sensible Cáncer y al sector de tu carta astral que rige el lujo. Esta ubicación planetaria podría hacer que te sientas más emocional y exhibas más obstinación de lo habitual, aunque pasar tiempo en la naturaleza y darte pequeños gustos puede ayudarte a encontrar consuelo y calma. Esta energía también es ideal para invertir en tu espacio, haciendo que sea la ocasión perfecta para que pongas esfuerzo y energía en buscar felicidad doméstica.
-Días destacados: 5, 11, 17
-Días desafiantes: 15, 16, 23
+Tanto amigos como vecinos estarán a tu lado para compartir buenos momentos durante la primera semana del mes. La reciente luna llena calienta los corazones. Esto incluye miembros de tu familia que podrían haber estado manteniendo su distancia o manteniendo en secreto sus opiniones. Sal a explorar el mundo bajo el Eclipse de Luna nueva del 15 de septiembre, cuando tu ancla se encontrará bien amarrada a tu hogar. No hay nada de qué preocuparte. Simplemente, llama a algunos amigos y salgan a probar un nuevo restaurante o a una excursión a un lugar nuevo. Los asuntos familiares se suavizan una vez más bajo la Luna llena del 29 de septiembre. La armonía y el arte formarán parte de la agenda de esos días.

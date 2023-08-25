@@ -1,27 +1,30 @@
 ---
 layout: horoscopos
-title: Horoscopo Escorpio Agosto 2023
-description: El Horóscopo Agosto de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Escorpio Septiembre 2023
+description: El Horóscopo Septiembre de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/escorpio/
 amplink: /horoscopo-mensual/amp/escorpio/
 home: FALSE
-keywords: horóscopo agosto, horoscopos en español, horóscopo Escorpio agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Escorpio, Tarot, Astrologia, Zodíaco, Escorpio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo septiembre, horoscopos en español, horóscopo Escorpio septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Escorpio, Tarot, Astrologia, Zodíaco, Escorpio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/escorpio_mes.png#2023-07-28
+ogimg: /images/mes/escorpio_mes.png#2023-08-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-07-28'
+ lastmod: '2023-08-25'
 ---
 
 
- > Escorpio, este mes las energías que emanan Júpiter en tu signo y Marte en Géminis aumentan tu moral ¡tu cabeza estará llena de ideas y proyectos nuevos! No te precipites hasta mitad de agosto, cuando lo complicado se volverá simple. Tu campo de acción se abrirá a otras perspectivas y los demás estarán receptivos a tus ideas. Tus proyectos tienen todo lo que necesitas para que los lleves a buen término.
+ > Escorpio, más vale que dosifiques tus fuerzas y sepas gestionarlas bien, porque te espera un septiembre muy intenso en el que no pararás. Lo bueno es que no será en vano, ya que verás los resultados y eso te empujará a seguir hacia delante con toda tu pasión puesta en el asador.
 
 
 
-La oposición entre el sol y Júpiter es el 8 de agosto, cuando Júpiter está en su momento más brillante. Sé más prudente y ten buen juicio para elegir el cuándo y el cómo ser una persona generosa. Con la luna nueva del día 16, descubre ese pequeño truco que te permite entrenar al perro, hacer que las plantas del hogar vuelvan a florecer, o eliminar alguna pequeña molestia física. El esfuerzo será mínimo, pero los resultados parecerán mágicos. Ponte de humor para concentrarte en ti durante la luna llena del 31 de agosto. Si te aburres o el mundo exterior te distrae, una buena amistad o pareja te traerá de vuelta. Da las gracias. 
-
-Días destacados: 10, 18, 27
-Días desafiantes: 5, 22
+El universo te llevará a que hagas una seria purga este mes, estimable Escorpio, ya que tres planetas se abren paso a través del transformador Escorpión y el sector de tu carta astral que rige la muerte y el renacimiento. Utiliza esta energía para alejarte de personas y situaciones que te han estado deteniendo mientras te comprometes con quienes te apoyan y elevan.
+Mientras tanto, Marte, tu planeta regente, se encuentra en medio de su viaje retrógrado a través de Géminis y te pide que reflexiones sobre las acciones que te han traído hasta este punto. Reconocer y superar patrones de comportamiento poco saludables será una gran lección para ti ahora, en especial el 11 de septiembre, por lo que es importante que eches un compasivo pero honesto vistazo a tu propia persona.
+Por suerte, sacarás provecho del amor y la atención adicional que recibes por parte del universo, comenzando desde que el dulce Venus entra a Sagitario y al sector espiritual de tu carta astral el día 15. Esta ubicación planetaria puede ayudarte a encontrar la luz al final de cualquier túnel oscuro que puedas encontrarte en tu camino, aunque necesitarás actuar de forma proactiva para encontrar gratitud y abrir tu corazón a la felicidad.
+Los mantras positivos serán de particular ayuda una vez que Mercurio entra al signo del Arquero el 17 de septiembre, y querrás tener los ojos bien abiertos en busca de signos y sincronicidades. El universo estará dispuesto a comunicarse contigo y a guiarte.
+Estos sentimientos se verán amplificados cuando la temporada de Sagitario empieza el día 22, lo que revitaliza tu optimismo, sensación de paz y conexión con el universo.
+Días destacados: 5, 6, 28
+Días desafiantes: 18, 19, 30

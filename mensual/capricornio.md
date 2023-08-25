@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: Horoscopo Capricornio Agosto 2023
-description: El Horóscopo Agosto de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Capricornio Septiembre 2023
+description: El Horóscopo Septiembre de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/capricornio/
 amplink: /horoscopo-mensual/amp/capricornio/
 home: FALSE
-keywords: horóscopo agosto, horoscopos en español, horóscopo Capricornio agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Capricornio, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo septiembre, horoscopos en español, horóscopo Capricornio septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Capricornio, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/capricornio_mes.png#2023-07-28
+ogimg: /images/mes/capricornio_mes.png#2023-08-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-07-28'
+ lastmod: '2023-08-25'
 ---
 
 
- > Capricornio, te espera un agosto movidito cargado de aventuras y novedades. No esperes a estar sentada en el sofá, porque vas a tener que ponerte en marcha, ordenar tus pensamientos y salir ahí fuera a mostrar quién eres de verdad.
+ > Capricornio, este mes con la actividad solar de tu lado notarás que todo tu ser brilla con luz propia. Será el momento de que te atiendas de una vez por todas. Tus recursos y tus finanzas mejorarán gracias al tránsito de Venus en tu casa de la economía a lo largo del mes, y te darán un subidón de confianza en ti misma que podrás utilizar para conseguir tus metas.
 
 
 
-Mercurio ingresa a Escorpión el 1 de agosto. Mercurio se encuentra en su fase retrógrada, pero no por mucho más. Vigila tus pasos (y tus palabras). 
-Con la luna llena del día 1, un amante podría tener actos de extrema generosidad, o tú podrías recibir admiradores y afecto en exceso. Sabes lo que quieres, y en qué cantidad. Mercurio se torna estacionario directo también ese día. Relájate, pero no salgas corriendo de inmediato. Date tiempo. 
-Mercurio entra a Sagitario el 12 de agosto. Ahora, tu temporada puede subir de tono de forma segura. El día 21, mientras el sol entra al serio Virgo. Mercurio forma una conjunción con Júpiter el mismo día. Piensa en grande, pero actúa con cuidado y compasión. La generosidad moderada de hoy trae cosas buenas para el futuro. 
-No pidas nada durante la luna llena del 31 de agosto, y recibirás más de lo que puedes imaginar. Concéntrate en lo que hace falta hacer. Recibirás lo que necesitas y lo que quieres (y más). 
-Días destacados: 6, 12, 21
-Días desafiantes: 13, 24
+Prepárate para un mes ajetreado, Capricornio, ya que la actividad solar brilla sobre tu casa 6 y llena tu calendario de muchas actividades. A medida que pasa cada día, aparecerán más y más obligaciones profesionales o sociales, por lo que es importante que encuentres maneras de mantener el equilibrio y la resistencia. Implementar una rutina saludable de alimentación, sueño y ejercicio puede ayudarte a mantener tu cuerpo en marcha, en especial cuando tu agenda no cede. Aunque tienes una condición física como ninguna otra, deberías asegurarte de marcar algunas fechas para el autocuidado, o podrías terminar descuidando tus propias necesidades y topándote con una pared.
+Por suerte, no te perderás en un frenesí de actividades durante todo el mes. El 21 de septiembre marca el principio del verano y te da permiso para recuperar tu armonía personal. El romance también podría estar entre tus cartas en este momento, aunque tendrás que mantener el corazón abierto y aceptar el amor. Si actualmente estás en pareja, puedes esperar más afecto y conexión emocional, aunque es posible que tengas que dar el primer paso en esta dirección. Las Cabras solteras pueden contar con mucho coqueteo, pero intenta no esconder demasiado tus sentimientos si alguien empieza a gustarte de verdad.
+El 29, la luna llena puede ayudarte a cerrar el mes con una energía sentimental mientras el Universo busca maneras de nutrir tu corazón y tu alma. Acepta el amor en todas sus formas en este día, en especial cuando se trata de apreciarte tal cual eres. Date permiso para pasar esta noche en casa donde puedes liberar tus inhibiciones y dejar entrar a otras personas con más facilidad.
+Días destacados: 8, 10, 16
+Días desafiantes: 3, 5, 25

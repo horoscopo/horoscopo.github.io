@@ -1,29 +1,24 @@
 ---
 layout: horoscopos
-title: Horoscopo Libra Agosto 2023
-description: El Horóscopo Agosto de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Libra Septiembre 2023
+description: El Horóscopo Septiembre de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/libra/
 amplink: /horoscopo-mensual/amp/libra/
 home: FALSE
-keywords: horóscopo agosto, horoscopos en español, horóscopo Libra agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Libra, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo septiembre, horoscopos en español, horóscopo Libra septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Libra, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/libra_mes.png#2023-07-28
+ogimg: /images/mes/libra_mes.png#2023-08-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-07-28'
+ lastmod: '2023-08-25'
 ---
 
 
- > Libra se viene mucho cambio para ti durante el mes de agosto, el mes de tu aniversario.
-La clave principal será la de fluir según vengan las cosas, en vez de aferrarte a lo que ya no es.
+ > Libra, este mes podrás hacer de un talento una profesión. Si has estado pensando en cambiar tu mundo en este sector, los planetas te dan las herramientas para cambiar las cosas, sobre todo a partir del 11. El único inconveniente que puedes encontrar es la demanda emocional de tus seres queridos, o que tu hogar no sea el lugar de contención que tanto necesitas. Marte en Aries puede remover tu ambiente, pero si eres capaz de gestionar tus emociones, tienes una gran oportunidad por delante.
 
 
 
-Es posible que sientas que no siempre tienes el control de tus pensamientos este mes, estimable Libra, porque el sol viaja por el sector de tu carta astral que rige el subconsciente. La errática naturaleza de la energía de Acuario podría hacer surgir viejos recuerdos o empujarte hacia un estado de incertidumbre. Esta posición solar quizás se sienta agotadora a veces, así que no te sientas culpable al activar tu modo ermitaño cuando lo necesitas. El lado positivo es que estos vientos cósmicos pueden traer una cierta cantidad de ingenio, ayudándote a tener inspiración y sentirte inteligente e independiente a lo largo de las próximas semanas.
-El 5 de agosto, se te pedirá que ordenes tu vida durante la luna llena en Leo, cuando las estrellas te empujan hacia una existencia más eficiente. Como a veces puedes entrar en un estado de desorganización, pero esta lunación está lista para ayudarte a que te encamines de nuevo. Cuidar de tu salud también debería ser una prioridad, especialmente si tus niveles de energía han estado siendo inconsistentes. Presta atención a tu intuición y ponte en contacto con tu cuerpo para descifrar exactamente cómo puedes trabajar con estas útiles vibras.
-Un torrente de energía motivadora te invadirá cuando el sol entra a tu Virgo el día 21. Con familiares y amistades que quieren celebrarte, es poco probable que haya muchos momentos aburridos. Sin embargo, deberías usar este tiempo con sabiduría, porque la energía en juego puede ayudarte a dar pasos significativos hacia tus metas personales. La luna nueva que se manifiesta en Libra el 16 de agosto es particularmente emotiva, así que asegúrate de hacer un pacto secreto con el otro lado.
-Días destacados: 2, 6, 7
-Días desafiantes: 4, 8, 15
+Mira por debajo de la superficie de las cosas durante la Luna Nueva del 15 de septiembre. La ambigua opinión o posición de una amistad de repente podría cobrar sentido. Tu mundo en general podría de repente cobrar más sentido. Dedica más de tu tiempo en privado para pensar. Todos querrán amarte bajo la Luna Llena del 29 de septiembre. Una sonrisa de tu parte tendrá el efecto de un abrazo, un beso, o una bendición. Puede que no seas muy popular, pero un nuevo fan llegará entonces para quedarse contigo durante mucho tiempo. Por último, la conjunción entre el Sol y Neptuno del 28 de septiembre te da un día para disfrutar de sueños de amor y un futuro brillante.
