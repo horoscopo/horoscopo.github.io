@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: libra 21 de agosto 2023 al 27 de agosto 2023 
-description: Horóscopo semanal libra 21 de agosto 2023 al 27 de agosto 2023. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
+title: libra 28 de agosto 2023 al 03 de septiembre 2023 
+description: Horóscopo semanal libra 28 de agosto 2023 al 03 de septiembre 2023. A veces sientes como si no avanzaras Libra, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2023-08-21
+ogimg: /images/zodiac/semanal_libra.png#2023-08-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-08-21'
+ lastmod: '2023-08-28'
 ---
 
 
 
-## Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
+## A veces sientes como si no avanzaras Libra, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
 
-Es probable que realices o cierres un gran proyecto esta semana, que firmes algún tipo de contrato, o que se acabe algún capítulo de tu vida que estabas deseando cerrar. Pero recuerda estar entero cuando esto pase. Nada de dudas porque si no, podría salir todo mal, podría quedarse en nada al final. 
-Tienes contacto con algunas personas aún que no deberías así que, empieza a limpiar un poco a gran parte de tus contactos. No te hacen del todo bien.
-Ten cuidado al hablar de temas delicados. Este tipo de conversaciones podrían hacer que otra persona te confronte. De hecho, quizá sería mejor no causar ningún problema, particularmente durante el fin de semana y especialmente si quieres pasar un momento tranquilo con esta persona. ¿Por qué no sacas el tema más adelante en la semana? Quizá se sientan más relajados al respecto. Por otro lado, puede que causes una buena impresión en una persona de autoridad gracias a tu encanto y tus habilidades innatas. No desaproveches esta conexión.
+Pero no todo está en tus manos, y no siempre tienes que ser tú el que vaya detrás intentando solucionar el mundo a los demás, ni tampoco tienes que ser siempre el que proteja al resto, el que barra sus caminos de espinos para que no tropiecen.
+Aunque ciertos aspectos de tu vida no se estén moviendo tan rápido como desearías, esta semana sigue mostrando promesa. De hecho, debido a la gran cantidad de planetas actualmente retrocediendo, sería bueno que te centraras en proyectos más pequeños y más fácilmente manejables o dividir los más grandes en partes más pequeñas. Existe la posibilidad de que tu confianza sea más baja de lo normal, pero no permitas que eso te impide seguir adelante. La Luna Llena del jueves podría ser un llamado a continuar tus esfuerzos incluso tomando pasos pequeños.
 
 ## Dinero
 
-Esta semana podría ser tensa para ti. Presta especial atención a los mensajes que estés recibiendo de sus sueños y flashes psíquicos. Lejos de ser esotéricos y confusos, están justo en el blanco ahora. Al mismo tiempo, sigue añadiendo más a tus capacidades al asistir a clases, talleres y seminarios. Tienes todo lo que se necesitas, pero un poco más no te vendría mal.
+Para ti, esta semana es sobre la creatividad, el amor, la agresión y el salir adelante. Tienes la suerte de tener una ventana de tiempo para saldar cuentas viejas o investigar si es mejor comprar, mantener o vender inversiones compartidas. Sin embargo, sabes lo que quieres, y esta semana tienes la capacidad de gastar pródigamente en diversión familiar.

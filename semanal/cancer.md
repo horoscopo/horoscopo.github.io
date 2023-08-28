@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 21 de agosto 2023 al 27 de agosto 2023 
-description: Horóscopo semanal cancer 21 de agosto 2023 al 27 de agosto 2023. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
+title: cancer 28 de agosto 2023 al 03 de septiembre 2023 
+description: Horóscopo semanal cancer 28 de agosto 2023 al 03 de septiembre 2023. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Cáncer.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2023-08-21
+ogimg: /images/zodiac/semanal_cancer.png#2023-08-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-08-21'
+ lastmod: '2023-08-28'
 ---
 
 
 
-## A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin que otros se inmiscuyan…
+## Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Cáncer.
 
-No puedes esperar a que las cosas pasen Cáncer, no puedes esperar a que sean otros los que decidan casi tu futuro… Tanto pensar un día va a acabar contigo, de verdad. De una vez por todas plántale cara a los problema, no los dejes pasar, no pienses que el tiempo curará todo, porque no siempre lo hace, no creas que saliendo a la calle a despejarte las cosas volverán a la normalidad. Si algo no quiere salir de tu cabeza haz que salga como sea. No puedes perder otros tipos de oportunidades por tener siempre lo mismo, algo que ni avanza ni retrocede, algo que a veces parece que está ahí clavado en nuestra memoria sólo por joder. Si te pasas la vida reflexionando y pensando en como solucionar algo pero no haces nada al final lo único que acaba pasando es la vida y, bueno, a otros signos puede que esto ni siquiera les afecte pero tú eres Cáncer, esa persona que quiere vivir desde que nació, que quiere disfrutar todo, desde los sentimientos más intensos hasta los viajes más largos, desde las conversaciones más interesantes hasta el amor más pasional. ¡Despierta! Sinceramente, ¿qué haces planteándote esperar? ¿qué haces pensando que las cosas se acabarán poniendo en el lugar que le corresponden? Si no lo haces tú, no lo va a hacer nadie. No dejes pasar ni una sola oportunidad que te haga feliz a ti aunque a los demás no les guste. De verdad. Por tu propio bien. Y toma decisiones YA, AQUÍ y AHORA Cáncer. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
-Con el comunicativo Mercurio en tu sector social conectando con el suertudo Júpiter en tu signo, puede que sea el momento de moverte hacia nuevos círculos y explorar actividades nuevas para ti. Si bien a veces no estás de acuerdo con las ideas de los demás, esto puede ser una curva de aprendizaje positiva que te anime a reconsiderar tus planes y, tal vez, a aceptar desafíos incluso más grandes. Enfocarte en tus metas y ambiciones puede impulsar tu determinación para dar lo mejor de ti.
+A veces parece que no progresas, y te estancas, y te lamentas, y te das por vencido/a… Pero no, lo que pasa es que las cosas van más lentas de lo que queremos. Y todo lo que des hoy te va a repercutir en el futuro, aunque ahora parezca que no funciona del todo. ¿Estás en el lugar correcto Cáncer? Seguro que sí, siempre has sido listo/a como para saber lo que haces… No hace falta que ahora pruebes otras cosas, lo que tienes que hacer es enfocarte en las que tienes, y tratar de hacer todo bien. La constancia es la clave del éxito Cáncer. No te pierdas ahora por otras sendas, de verdad, vas bien encaminado ahora pero échale ganas y sobretodo no te rindas. Y tampoco dejes que la influencia del resto tenga poder sobre ti, ni mucho ni poco, NADA.
+Tu planeta regente, forma una extraña conexión con el nebuloso Neptuno. Podrías sentir atracción por el encantador personaje que te presenta una persona. No accedas de inmediato a una oferta o a salir: a veces, las apariencias engañan. El conversador Mercurio ingresa a su fase retrógrada en tu sector del hogar el Miercoles. Si has estado considerando una cuestión relacionada con los bienes inmuebles, puede que lo mejor sea retrasarla un tiempo. Lo mismo se aplica a los proyectos de remodelación o para el hogar. 
+La actividad lunar del viernes en tu sector de carrera y metas también podría influir en tu vida hogareña. Puede que tengas una oportunidad que te brinde el éxito que tanto te mereces, pero ¿el costo es el tiempo que pasas con tu familia? Estas cuestiones deben considerarse cuidadosamente.
 
 ## Dinero
 
-Es una gran semana para pensar y planificar. El Universo indica un tiempo de gran actividad mental. Es un momento de gran oportunidad, a partir de los pasos que tendrás que tomar para realizar tus sueños financieros a darte crédito por cosas que ya has logrado. Cierta actividad en tu sector de aprendizaje te llama para que tomes una clase de algo que te inspire.
+Puede que sientas un poco de tensión esta semana. Dado que el efecto es en el sector social, las personas pueden comportarse de forma inesperada o no estar allí cuando les necesites. Además, alguien puede desenterrar todo tipo de cosas en relación a tu zona de deudas. No dejes de levantar ninguna piedra y asegúrate dos so tres veces de haber pagado los saldos pendientes. No necesitas ninguna sorpresa por ahora.

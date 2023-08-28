@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 21 de agosto 2023 al 27 de agosto 2023 
-description: Horóscopo semanal virgo 21 de agosto 2023 al 27 de agosto 2023. No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya Virgo. Muévete o haz que se mueva el resto.
+title: virgo 28 de agosto 2023 al 03 de septiembre 2023 
+description: Horóscopo semanal virgo 28 de agosto 2023 al 03 de septiembre 2023. Siempre te adelantas a los malos tiempos, de hecho es como si los vieras venir, e intentas retirarte de ese camino… Así que, que ahora no vengan a contarte cuentos, y mucho menos a hacerte creer que eres tú el que estabas equivocado.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2023-08-21
+ogimg: /images/zodiac/semanal_virgo.png#2023-08-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-08-21'
+ lastmod: '2023-08-28'
 ---
 
 
 
-## No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya Virgo. Muévete o haz que se mueva el resto.
+## Siempre te adelantas a los malos tiempos, de hecho es como si los vieras venir, e intentas retirarte de ese camino… Así que, que ahora no vengan a contarte cuentos, y mucho menos a hacerte creer que eres tú el que estabas equivocado.
 
-Eres demasiado honesto con el resto Virgo y a pesar de que a veces quieras esconder tus sentimientos, no puedes, y en el fondo llevas siempre el corazón en la manga… Es difícil comprenderte Virgo, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones… Es complicado para ti encontrar a alguien que de verdad comprenda que sólo es miedo al dolor, que tú lo que quieres es amor, amor de esos de película, romance puro, dulce, fiel y sincero… Que quizás con un abrazo se solucionaría tanto, con una palabra bonita, con un “te quiero” o “estoy aquí”… Pero no lo pides… Ni tampoco quieres. Siempre fuiste de los que prefieren esperar a que al resto les salgan los detalles. Y es complicado, complicado porque has estado más destrozado de lo que has sido querido. No confías fácilmente, siempre estás alerta, esperando esa “puñalada”, esperando esa traición… Tienes que cambiar el chip Virgo, tienes que tratar de fiarte en quien de verdad te está demostrando confianza. No renuncies a las cosas bonitas, no renuncies a empezar un nuevo camino, a dejarte querer, no renuncies a ser temerario de vez en cuando, no renuncies a encontrar sensaciones nuevas porque a veces parezca que hay más seguridad en tu soledad. Es complicado encontrar algo cuando no sabes bien qué es lo que buscas… Mira en tu interior y no desesperes, llevará su tiempo, pero lo vas a encontrar. Observa las señales.
-Una habilidad que adquiriste en tu infancia podría ser un requisito para un trabajo o una idea de negocios. No te preocupes si hace mucho que no la pones en práctica. Una vez que empieces, puede que descubras que tienes talento. Con Marte entrando a toda velocidad a tu sector profesional, podrías sentir más determinación cuando se trata de encontrar trabajo o asegurar un contrato. El deseo puede motivarte para recorrer un largo camino. Y un poco de encanto también es de gran ayuda.
+Siempre estás sonriendo Virgo, siempre tratando de olvidar malas experiencias, las personas que te conocen por primera vez incluso se dan cuenta de eso. Tienes una energía contagiosa y llena de alegría, y todo el mundo piensa que eres feliz y que no tienes carencias de ningún tipo incluso cuando esto no es así. Estás bien con lo que tienes Virgo pero sabes que te falta mucho por hacer, el problema es que te metes en un bucle y no das el primer paso. Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. Nadie espera que estés jodido por dentro, nadie espera que a ti también te duelan las cosas mucho más de lo que demuestras, y por eso, nadie ayuda. A veces parece que luchas en silencio Virgo, que por no liarla te callas, que por no hacer la bola más grande ignoras. El problema es que no dices nada, y para muchos sigues siendo la persona más feliz de la tierra, esa que todo el mundo admira en secreto, tratando de sonreír siempre, tratando de levantarte de cada caída lo más rápido que puedes… Nadie puede ver que no es todo tan bonito, no deberías tragarte tanta mierda cuando lo lógico sería soltarla. Porque estás en tu derecho.
+Cuando el expresivo Mercurio se alinea con el encantador Venus en un sector intenso de tu carta, las conversaciones podrían revelar mucho. Puede que tengas ganas de profundizar más sobre un problema en tu relación para entender qué está pasando. Al parecer, tendrás éxito y encontrarás una solución. A mitad de semana, el conversador Mercurio se vuelve retrógrado en este mismo sector. Ten cuidado con los asuntos comerciales o con cualquier cuestión relacionada con las finanzas compartidas. Consulta los términos y condiciones antes de firmar sobre la línea punteada.
 
 ## Dinero
 
-Aspectos en tu sector de apariencia personal y autoexpresión muestran que, si bien es posible que te centres en la búsqueda de un nuevo trabajo o una nueva posición con tu empleador actual, el dinero real puede estar en la mejora de tu aspecto para que se te perciba de una manera diferente. Conseguir tener la ropa y el peinado adecuado puede hacer toda la diferencia del mundo.
+Normalmente tienes facilidad para generar e invertir dinero simplemente porque eres consciente de la seguridad como regla. Ahora, tu seguridad radica en la forma de vestir, hablar con los demás, y crear tu imagen. A partir de ahí, puedes llegar muy lejos. Puedes conocer a la gente adecuada, obtener la posición adecuada, y finalmente ganar lo que vales. Velar por tu seguridad no se queda atrás conforme creas la vida que siempre has querido.

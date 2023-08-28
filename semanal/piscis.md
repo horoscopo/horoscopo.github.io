@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 21 de agosto 2023 al 27 de agosto 2023 
-description: Horóscopo semanal piscis 21 de agosto 2023 al 27 de agosto 2023. No desaproveches las oportunidades más Piscis, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida. No le debes ninguna explicación a nadie.
+title: piscis 28 de agosto 2023 al 03 de septiembre 2023 
+description: Horóscopo semanal piscis 28 de agosto 2023 al 03 de septiembre 2023. Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2023-08-21
+ogimg: /images/zodiac/semanal_piscis.png#2023-08-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-08-21'
+ lastmod: '2023-08-28'
 ---
 
 
 
-## No desaproveches las oportunidades más Piscis, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida. No le debes ninguna explicación a nadie.
+## Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
 
-Es mejor reflexionar que lamentar Piscis. Siempre. 
-Sí, quizás aún cargas a tu espalda demasiadas cosas que sabes que no te pertenecen del todo pero, eres así Piscis, y en eso no cambiarás nunca. A pesar de todo, te has acostumbrado a llevarlas y a pesar de todo, ahora no te tira para abajo nadie.
-A donde quiera que mires podría haber tentaciones de gastar tu dinero arduamente ganado. Sin embargo, debido a tu presente situación animándote a ser un poco más frugal, podría en ti surgir el sentimiento de exclusión. De hecho, ciertas amistades podrían estar activamente alentándote a gastar de más. ¿Qué hacer? La respuesta podría estar en adoptar un enfoque creativo con tu dinero. Puede haber maneras de conseguir lo que quieres sin tener que gastar dinero en efectivo. Intercambiar podría ser una útil idea.
+A veces te acercas de nuevo a eso de lo que te alejaste porque sabías que no te convenía… Estás en una encrucijada Piscis. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo. Y te entra frustración, y rabia, y muchas ganas de poner a más de uno en su sitio, de explicar cómo te has sentido, todo lo que has sufrido, todo lo que tienes dentro… Y esa es a menudo la excusa que te pones para volver… No Piscis, error. No pongas a prueba a los demás porque tienes más de perder que de ganar. Las personas no cambian. Pero claro, eres Piscis, súper metódico con todo, y hasta que no pruebes no te quedarás a gusto. Está bien, prueba si quieres, date la oportunidad de saber si te equivocas o no, no te quedes con ninguna duda, no sigas consejos de nadie, ni siquiera de tu cabeza y termina viendo las cosas por ti mismo/a. Pero también prepárate para todo, incluso para asimilar decepciones si las hubiera… El instinto no te falla pero la impulsividad a veces sí puede hacerlo. Quizás no sea lo que esperas Piscis pero puede que al menos te refuerces más. Pase lo que pase, prométete a ti mismo/a no volver a sufrir más…
+Esta semana podría traer consigo uno o dos cambios en tu vida que podrían darte mucho gusto. Podrías notar algo de turbulencia al principio debido a la actividad Solar, el cual culmina el jueves, agitando tus sentimientos. Al mismo tiempo, tu regente comienza a retroceder durante tres semanas. Teniendo esto en cuenta, podría ser bueno tomarte cada día como venga. Tratar de planificar a futuro podría ser difícil, especialmente si suceden eventos a los que tengas que responder inmediatamente.
 
 ## Dinero
 
-Puede que sientas inquietud y satisfacción esta semana. ¿Cuándo fue la última vez que te sentiste feliz y libre? Probablemente cuando estuviste viajando y aprendiendo algo nuevo. Tu cerebro quiere ser usado. Gastar dinero en una clase o libro interesante o salir a una expedición guiada puede ser justo lo que necesitas para defenderte del aburrimiento. Los planetas se preguntan cómo te cambia lo que aprendes. Te podría sorprender la respuesta.
+El Universo está aumentando ahora tu capacidad de ganar. Esta es una gran noticia para tu estado de ánimo, que puede estar vinculado a la libertad que percibes como la que te otorga el dinero, y una buena noticia para tu ambición, que tiende a estar ligada a la forma en la que percibes tu justa compensación. A medida que tus metas profesionales empiezan a hacerse realidad, el flujo de efectivo también mejora. ¿Qué podría no gustarte de tu vida ahora?

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 21 de agosto 2023 al 27 de agosto 2023 
-description: Horóscopo semanal capricornio 21 de agosto 2023 al 27 de agosto 2023. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
+title: capricornio 28 de agosto 2023 al 03 de septiembre 2023 
+description: Horóscopo semanal capricornio 28 de agosto 2023 al 03 de septiembre 2023. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2023-08-21
+ogimg: /images/zodiac/semanal_capricornio.png#2023-08-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-08-21'
+ lastmod: '2023-08-28'
 ---
 
 
 
-## No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
+## Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
 
-Te van a echar de menos Capricornio, y te van a echar de menos porque te vas a ir alejando, poco a poco, despacio, sin hacer demasiado ruido, sin peleas ni dramas… Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso. No te sientas mal por nada, que se sienta mal el resto. Perderán a una persona excepcional. Te duele sí, pero tu coraje también puede con eso. Has estado frente a gente, justo delante, y parece que no importabas nada y sin embargo, cuando te empieces a alejar te buscarán de nuevo… Pero eso es un tira y afloja que no te conviene, alargar situaciones incómodas, avanzar dos pasos pero volver a retroceder tres… Eso es una mierda… Esta semana necesitas mucho silencio Capricornio, sí, mucho, aprender a poner la mente en blanco, aprender a marcharte de los sitios donde no estás a gusto, de los lugares que te están restando todo el tiempo, del dolor… Necesitas meditar, conectar con tu mente, que no te controle a ti y se vuelva loca por un arrebato. Cuando vuelvas a soltar esas cadenas que te atrapan te echarán de menos, mucho, se darán cuenta de lo que de verdad perdieron, de lo que ya no es recuperable, de lo que se ha marchado a buscar algo mejor… Empieza a construir, quizás vuelvas, pero quizás no. Feliz semana.
-Esta semana, puede que sientas la obligación de participar en un evento social, lo quieras o no. Esto puede deberse a las habilidades de persuasión de una de tus amistades. Puede que su insistencia te genere un poco de resentimiento. Aunque si lo haces, podrías divertirte muchísimo, en especial el viernes. El miércoles, la luna nueva en tu sector de relaciones podría poner de relieve los sentimientos entre tú y otra persona. Ve con calma y evita actuar de manera impulsiva, ya que tal vez te arrepientas más adelante.
+No puedes poner piezas en lugares que no corresponden Capricornio, no puedes forzar situaciones ni tratar de encajar algo cuando es imposible que encaje. Todo tiene un por qué, una razón, un lugar y un momento y pasará en el momento que tenga que pasar. Olvida un poco todo Capricornio, no des tanta importancia a cosas que no la tienen y ya verás como todo se vuelve a colocar en su lugar. No siempre será el lugar que tú esperes pero sí que será en el que deba. Es triste pero cuando más ignoras, más detrás de ti parecen estar y cuando más cuidas y más proteges más se alejan. Pues eso Capricornio, ignora un poco. Quizás más de uno debería despertar y entender que no estarás siempre ahí. Mantente siempre fuerte Capricornio, siempre sonriendo, siempre adelante, a pesar de que haya gente que quiera joderte la vida. Y desconfía hasta que las cosas no se demuestren con hechos, desconfía hasta que de verdad se partan el lomo por demostrártelo. Dentro de muy poco comprenderás quién merece la pena y quien no, pero debes darte un tiempo, y empezar a centrarte en ti mismo. No desperdicies el tiempo en cosas que no te dejan nada de provecho Capricornio, porque no merece la pena, y los pensamientos malos… ¡fuera! Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierda!
+Puede que la comida y la cocina sean algo que disfrutes hacer en casa mientras Venus se encuentre en el afectuoso signo de Tauro y en tu sector de familia. De hecho, puede que esto sea la excusa perfecta para invitar a todas tus amistades y disfrutar recibirlos a todos. También hay otras opciones placenteras, ya que te pueden atraer distintas actividades culturales, especialmente exposiciones, conciertos o cualquier otra cosa que despierte tu creatividad. Júpiter comienza a avanzar esta semana, cuando una amistad puede evolucionar hacia algo más.
 
 ## Dinero
 
-Tienes la posibilidad de recibir mucho apoyo por parte de viajes al extranjero, aprender un nuevo idioma, o asistir a una clase o un seminario para reforzar tu educación. Cualquier cosa que puedas hacer para que tu conjunto de habilidades sea más formidable ayudará ahora, especialmente cuando se trata de pedir más dinero. Mientras tanto, analizando el área de tu carta relacionada con tu trabajo, ¿será que es hora de cambiar de profesión?
+Es una semana muy ocupada para ti. Ciertos aspectos afectarán tu sector de dinero y valores, aumentando tus fondos, lo cual es genial. También te ayuda a hacer un plan para que tu dinero vaya más lejos. Utiliza una calculadora de ahorro para el retiro (disponible en línea) para ayudarte a ver cuánto necesita ahorrar cada mes para poder disfrutar de una vida cómoda después del retiro.

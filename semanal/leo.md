@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: leo 21 de agosto 2023 al 27 de agosto 2023 
-description: Horóscopo semanal leo 21 de agosto 2023 al 27 de agosto 2023. Esta semana no te reniegues Leo, no hables más de lo que debes, no te irrites ni pierdas los papeles por nada ni por nadie. Intenta no decir nada negativo (aunque cueste) durante 24 horas y observa cómo tu vida cambia. 
+title: leo 28 de agosto 2023 al 03 de septiembre 2023 
+description: Horóscopo semanal leo 28 de agosto 2023 al 03 de septiembre 2023. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Leo, no hay casualidades ni coincidencias.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2023-08-21
+ogimg: /images/zodiac/semanal_leo.png#2023-08-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-08-21'
+ lastmod: '2023-08-28'
 ---
 
 
 
-## Esta semana no te reniegues Leo, no hables más de lo que debes, no te irrites ni pierdas los papeles por nada ni por nadie. Intenta no decir nada negativo (aunque cueste) durante 24 horas y observa cómo tu vida cambia. 
+## Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Leo, no hay casualidades ni coincidencias.
 
-Al final sólo nos arrepentiremos de las oportunidades que no tomamos Leo así que, empieza a agarrar todas las que lleguen con fuerza. No pienses demasiado, ya has vivido mucho como para saber lo que te interesa y lo que no así que, no te dejes amedrentar por nada ni por nadie. Puedes con todo lo que te propongas y además hagas lo que hagas lo harás bien. Puedes llegar alto si empiezas a dejar de lado cosas que no son productivas y tomas otros caminos. A veces te aferras demasiado por cariño y tratas de arreglar todo, de tratar de hacer a algunas personas mejores personas, de mantener situaciones que en vez de sumarte te restan todo el tiempo, y lo peor es que todo ese tiempo que gastas podías invertirlo en ti y en avanzar mucho más con tus objetivos en la vida. Hay cosas que no quieres que ocurran pero que debes aceptar Leo, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir. Por tu bien. Procura que todo lo que decidas hacer esta semana te haga realmente feliz.
-Algo podría resultarte muy atractivo, y tal vez tengas ganas de satisfacer esos deseos de comprarlo. Sin embargo, cuando el delicioso Venus se opone al nebuloso Neptuno en tu sector de dinero, existe la posibilidad de que el brillo se apague demasiado rápido. Espera unos días. Puede que te preguntes por qué te interesaba tanto ¡y que la demora sirva para ahorrarte algo de dinero! 
-El expresivo Mercurio se vuelve retrógrado en tu sector de familia el miércoles y permanece así durante tres semanas. Este sería un buen momento para clasificar o tirar papeles que se acumulan en los cajones y las encimeras. Sigue con esta “purga” en otras áreas y te sentirás mucho más feliz. La actividad lunar en tu sector de dinero personal el viernes podría animarte a reflexionar sobre tu seguridad personal. Y podrías sentir una gran motivación por el uso de la tecnología para gestionar tus transacciones financieras diarias.
+Estás activo Leo, con ganas de hacer cosas nuevas, de conocer, de reír, de disfrutar y sobretodo con ganas de vivir el presente más que nunca. Te mereces más de lo que tienes, sí, mucho más aún…
+Si al parecer últimamente has tenido más desacuerdos que lo habitual, esto podría deberse al retroceso del fogoso Marte en tu sector de relaciones. Tal vez te resulte más fácil hablar honestamente, incluso si no es lo que la otra persona quiere escuchar. Esta fase terminará más adelante en el mes. Por ahora, tienes la posibilidad de volver a escribir esas reglas tácitas que a menudo rigen las relaciones hasta que las apoyes de manera consciente y las abordes. 
+A medida que el animado Marte ingresa a Urano, puede que sientas tal frustración respecto de una relación actual que decides cortarla, aunque sea por poco tiempo. Pasar algún tiempo a solas puede hacerte bien, y el compartir esta idea con sensibilidad puede ayudar a la otra persona a que acepte tu decisión de mejor manera. Por último, el sol puede brindarte la fortaleza necesaria para tomar sabias decisiones.
 
 ## Dinero
 
-Los planetas quieren hacer de ti una persona hermosa y magnética, un imán de gente, situaciones y oportunidades para que puedas cumplir con tus metas y sueños esta semana. Te piden que construyas confianza en ti mismo/a y que ajustes la manera en la que te expones al mundo. Cuanto más te abras a aprender de las experiencias nuevas, más fácil será tener acceso a oportunidades. Piensa en ello.
+Para aprender más sobre los caminos del amor, les pides consejos a tus amistades. Entiendes lo que es tener una pareja, cuidarla, y balancear a otra persona de una manera íntima. Los aspectos que combinan trabajo y dinero, funcionan de la misma manera. Exhibe tu interés en obtener una nueva y mejor posición. ¡Tienes posibilidades de obtener tanto eso como un aumento! Pide lo que quieres y no lo que piensas que la compañía puede pagar.
