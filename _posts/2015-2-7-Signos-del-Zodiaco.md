@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 03 de septiembre 2023
-description: Horóscopos del dia de hoy 03 de septiembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 04 de septiembre 2023
+description: Horóscopos del dia de hoy 04 de septiembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-09-03
+ lastmod: 2023-09-04
 ---
-Lleva ciertos asuntos a una conclusión para poder garantizar una transición más suave mientras Mercurio se encuentre a punto de cambiar de signo. El compromiso es la clave para las parejas esta noche. Los solteros podrían experimentar atracción física, pero se necesita tiempo para saber si tienen algo en común (el tiempo podría ser escaso bajo la cuadratura entre la Luna y Venus).
+Escucha a tu intuición cuando te apunte en la dirección correcta el día de hoy. También es una gran guía para la planificación futura, por cierto. Esta noche, súbete a la máquina del tiempo y deshazte de tu viejo equipaje con el fin de que nuevos recuerdos puedan desarrollarse. Es hora de que la metamorfosis tome efecto cuando la Luna aspecta tanto a Saturno como a Plutón.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
