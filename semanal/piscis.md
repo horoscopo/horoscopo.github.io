@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 28 de agosto 2023 al 03 de septiembre 2023 
-description: Horóscopo semanal piscis 28 de agosto 2023 al 03 de septiembre 2023. Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
+title: piscis 04 de septiembre 2023 al 10 de septiembre 2023 
+description: Horóscopo semanal piscis 04 de septiembre 2023 al 10 de septiembre 2023. Deja que duela Piscis, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2023-08-28
+ogimg: /images/zodiac/semanal_piscis.png#2023-09-04
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-08-28'
+ lastmod: '2023-09-04'
 ---
 
 
 
-## Haz que te echen de menos un poco, haz que de verdad se den cuenta de lo que tenían y de lo que han perdido o pueden perder.
+## Deja que duela Piscis, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo…
 
-A veces te acercas de nuevo a eso de lo que te alejaste porque sabías que no te convenía… Estás en una encrucijada Piscis. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo. Y te entra frustración, y rabia, y muchas ganas de poner a más de uno en su sitio, de explicar cómo te has sentido, todo lo que has sufrido, todo lo que tienes dentro… Y esa es a menudo la excusa que te pones para volver… No Piscis, error. No pongas a prueba a los demás porque tienes más de perder que de ganar. Las personas no cambian. Pero claro, eres Piscis, súper metódico con todo, y hasta que no pruebes no te quedarás a gusto. Está bien, prueba si quieres, date la oportunidad de saber si te equivocas o no, no te quedes con ninguna duda, no sigas consejos de nadie, ni siquiera de tu cabeza y termina viendo las cosas por ti mismo/a. Pero también prepárate para todo, incluso para asimilar decepciones si las hubiera… El instinto no te falla pero la impulsividad a veces sí puede hacerlo. Quizás no sea lo que esperas Piscis pero puede que al menos te refuerces más. Pase lo que pase, prométete a ti mismo/a no volver a sufrir más…
-Esta semana podría traer consigo uno o dos cambios en tu vida que podrían darte mucho gusto. Podrías notar algo de turbulencia al principio debido a la actividad Solar, el cual culmina el jueves, agitando tus sentimientos. Al mismo tiempo, tu regente comienza a retroceder durante tres semanas. Teniendo esto en cuenta, podría ser bueno tomarte cada día como venga. Tratar de planificar a futuro podría ser difícil, especialmente si suceden eventos a los que tengas que responder inmediatamente.
+Te crees que eres débil Piscis, a veces te menosprecias demasiado, más de lo que deberías, te crees que no llegas, que no puedes, te crees que quizás se te está yendo de las manos el tiempo que estás tardando en curarte de viejas heridas, piensas que ya tenía que tener superado mucho, pero no… Todo tiene su tiempo, no quieras comerte el mundo en un minuto porque seguro que lo escupes al minuto siguiente. Vas a tardar en ser “normal” otra vez, porque tienes sentimientos Piscis, porque las cosas te duelen, porque vas a tardar en recuperarte del todo… Pero eh, que saldrás de cualquier cosas, que tu te pones las pilas y te mentalizas y trepas hasta de lo más profundo. Esta semana dedícate a mimar algunas relaciones que tienes cerca y que, por tener tu mente en otro lugar, estás descuidando. Y quiérete un poco más, y piensa que los bajones son normales, y más cuando estás en un proceso de duelo, de superar algunas cosas y de cambiar otras de forma radical. Nadie sabe estar de un minuto a otro sin parte de su vida anterior Piscis… Tómate un tiempo Piscis, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
+Pensamientos sobre viajes y destinos exóticos podrían alimentar tu deseo de hacer planes de vacaciones o de darte una escapada para tomarte un breve descanso si es que necesitas un cambio de ritmo. Y tal parece que no te faltarán oportunidades románticas, especialmente con Venus y Marte aumentando la probabilidad de atracciones instantáneas y alegres citas. En otra nota, la actividad lunar del miércoles en tu sector profesional podría ser uno de los mejores momentos para poner en marcha la siguiente etapa de un plan de negocios.
 
 ## Dinero
 
-El Universo está aumentando ahora tu capacidad de ganar. Esta es una gran noticia para tu estado de ánimo, que puede estar vinculado a la libertad que percibes como la que te otorga el dinero, y una buena noticia para tu ambición, que tiende a estar ligada a la forma en la que percibes tu justa compensación. A medida que tus metas profesionales empiezan a hacerse realidad, el flujo de efectivo también mejora. ¿Qué podría no gustarte de tu vida ahora?
+Es una semana que requiere de mucha más búsqueda. Los aspectos son maravillosos para manifestar más dinero y aplicarlos a tus sueños, pero también puede oscurecer o nublar tu visión, a tu perjuicio. Incluso aunque pienses que no tienes tiempo para supervisar tu dinero, haz tiempo. Otros no son propensos a tener tus mejores intereses en el corazón. No es que haya malicia – simplemente no es su problema.

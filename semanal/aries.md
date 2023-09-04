@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: aries 28 de agosto 2023 al 03 de septiembre 2023 
-description: Horóscopo semanal aries 28 de agosto 2023 al 03 de septiembre 2023. Todo acaba cicatrizando, pero tienes que dejar que cicatrice Aries. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
+title: aries 04 de septiembre 2023 al 10 de septiembre 2023 
+description: Horóscopo semanal aries 04 de septiembre 2023 al 10 de septiembre 2023. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Aries.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2023-08-28
+ogimg: /images/zodiac/semanal_aries.png#2023-09-04
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-08-28'
+ lastmod: '2023-09-04'
 ---
 
 
 
-## Todo acaba cicatrizando, pero tienes que dejar que cicatrice Aries. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
+## Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Aries.
 
-Deberían valorarte más Aries, los demás y tú el primero, deberían saber escucharte cuando estás mal, saber comprender porque te sientes en ocasiones así, tratar de meterse un poco en ti, en tu lugar, y descubrirte. Eso es, deberías descubrirte de verdad, y ahora no podrán decir que tú no te estás dejando… No es que te sientas solo, pero muchas veces sientes que vives en un mundo en el que nadie es capaz, por un momento, de ponerse en tu lugar, en el que nadie es capaz de pensar que quizás tú también tienes tus momentos de bajón, tus momentos de pena o de dudas. Bajo esa fachada se esconden sentimientos complicados que muchas veces ni siquiera tú entiendes. Quizás es conformismo, quizás dependencia del resto, o quizás un cúmulo de circunstancias que llevas acumuladas mucho tiempo. Y los días empiezan a pasar, y ves que avanzas, pero a veces no tan deprisa como esperabas. Y ves que el tiempo pasa, y empiezas a estresarte, y te frenas, y de repente quieres ir más deprisa porque ya perdiste mucho tiempo, y te vuelves a frenar. Para Aries, para un poco. No puedes fingir que las cosas no te importan ¿vale? Porque además, eso al final duele el doble. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… Ahí es cuando empiezas a frenarte, por muy claro que lo tengas todo. Piensa que caminar entre las piedras también es avanzar, así que, lo que has hecho, lo has hecho bien, ahora averigua si quieres seguir por ese camino.
-¿Quién dijo que la diversión no puede ser algo serio? Puede que recibas una invitación a unirte a alguna actividad relacionada con habilidades y conocimiento. Relacionarte con amigos que compartan tu pasión podría hacer que esta sea una gran semana. De todas maneras, quizá te convenga averiguar el costo antes de gastar en salidas recreativas, ya que una opción puede ser más costosa que la otra. Una velada acogedora para dos el viernes podría abrirte las puertas para explorar el potencial de la relación.
+Por fin llega lo que tanto estabas esperando Aries, una brisa de aire fresco que transforme tu vida, por fin llega algo que te motiva de verdad, algo que parece cambiar, otra vez, el rumbo de tu vida. Y te gusta, te hace sentir vivo Aries. Esta semana vas a tener momentos muy emocionantes, quizás no todos sean de tu gusto pero sí la mayoría. Hacía tiempo que esperabas que algo así. Te estabas volviendo loco con tus pensamientos, a veces te enfrascas en ellos, te bloqueas, no sabes cómo salir adelante, cómo frenarlos de una vez, cómo cambiar… A pesar de que sea lo que más deseas en el mundo. Esta semana todo dará un giro de 180 grados. Vas a encontrar muchas cosas de ti mismo que hasta tú desconocías, vas a pasar de todo ese rollo del odio para después hacer las paces, de toda esa mala vibra que parecía que te perseguía y no quería soltarte. Estás muy harto de lo mismo. Vas a vivir nuevas experiencias y vas a darte cuenta de la mierda que tenías antes a tu lado, de cómo te influían las cosas tan negativas, de cómo te anclabas… Vas a ver que lo que estabas aguantando estaba muy lejos de la realidad que tú tenías en tu cabeza. Ahora ves las cosas más claras, y no vas a desaprovechar nada de lo que llega… Disfruta tu semana Aries, disfrútala al máximo.
+A pesar de que puede que tengas disposición a perder peso y tonificar tu cuerpo tanto como te sea posible, puede que hacerlo no sea fácil en práctica. La tentación de darte gustos podría interferir con tus planes. Sin embargo, puede que seas capaz de superar estos obstáculos si contratas los servicios de un entrenador personal. Aun así, el impulso de comer en exceso podría ser casi imposible de resistir una vez Venus entre a Tauro más adelante en la semana. Es posible que tengas que ceder y simplemente disfrutar.
 
 ## Dinero
 
-Tienes luz verde para cambiar tu forma de verte y actuar. Eso, a su vez, te ayudará a subir la escalera y hacer más dinero. Si has querido cambiar tu guardarropa, look, o forma de ser, esto es apoyado e incluso alentado ahora. Eclipsa a un mentor de confianza o forja tu propio camino. El Universo trae belleza, atracción, y una especie de afirmación hacia tus necesidades. Juntos, estos aumentan tu poder en el trabajo.
+Si has estado buscando maneras de ganar más dinero, puedes encontrar que mirar hacia el pasado es la mejor manera de obtener buenos resultados esta semana. Esto se debe en parte a tu casa del dinero y valores. Busca antiguos puestos, compañeros de trabajo y habilidades para traer más dinero en efectivo, ya que podrías ser capaz de usarlos para conectar con conocidos de una época anterior en tu vida que pueden ayudarte a crear una cartera de inversiones para proteger tu futuro.

@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: leo 28 de agosto 2023 al 03 de septiembre 2023 
-description: Horóscopo semanal leo 28 de agosto 2023 al 03 de septiembre 2023. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Leo, no hay casualidades ni coincidencias.
+title: leo 04 de septiembre 2023 al 10 de septiembre 2023 
+description: Horóscopo semanal leo 04 de septiembre 2023 al 10 de septiembre 2023. Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2023-08-28
+ogimg: /images/zodiac/semanal_leo.png#2023-09-04
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-08-28'
+ lastmod: '2023-09-04'
 ---
 
 
 
-## Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Leo, no hay casualidades ni coincidencias.
+## Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
 
-Estás activo Leo, con ganas de hacer cosas nuevas, de conocer, de reír, de disfrutar y sobretodo con ganas de vivir el presente más que nunca. Te mereces más de lo que tienes, sí, mucho más aún…
-Si al parecer últimamente has tenido más desacuerdos que lo habitual, esto podría deberse al retroceso del fogoso Marte en tu sector de relaciones. Tal vez te resulte más fácil hablar honestamente, incluso si no es lo que la otra persona quiere escuchar. Esta fase terminará más adelante en el mes. Por ahora, tienes la posibilidad de volver a escribir esas reglas tácitas que a menudo rigen las relaciones hasta que las apoyes de manera consciente y las abordes. 
-A medida que el animado Marte ingresa a Urano, puede que sientas tal frustración respecto de una relación actual que decides cortarla, aunque sea por poco tiempo. Pasar algún tiempo a solas puede hacerte bien, y el compartir esta idea con sensibilidad puede ayudar a la otra persona a que acepte tu decisión de mejor manera. Por último, el sol puede brindarte la fortaleza necesaria para tomar sabias decisiones.
+Tu mente lo está analizando absolutamente todo Leo, conversaciones del pasado, cosas que se dijeron, palabras que nunca se debieron decir… Como no dejes a un lado todos esos pensamientos que ya están en el pasado, acabarás viviendo en el pasado, otra vez Leo… No… Vas a arruinar todo antes de que ocurra, vas a estar en otro lugar cuando debes estar aquí, en el presente, vas a perderte oportunidades esta semana por eso. Cambia como sea. Y agarra todo lo que venga con mucha fuerza. No pienses si lo que estas haciendo está mal o bien, no pienses en el daño que quizás puedas hacer a algunos o en la alegría que les darás a otros. Piensa en ti un poquito. Todo el mundo jamás estará contento con las decisiones que tomes, por eso mismo, deja de pensar un poco en los demás y dirígete hacia donde de verdad te sientas bien. Fuera las expectativas Leo, fuera el creer que va a ocurrir algo, si tiene que ser será, pero no te comas la cabeza y no le des más vueltas a todo. La ansiedad podrá contigo en algún momento de esta semana Leo, pero ya has pasado por eso, no dejes que se apodere de tu mente, la ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+Esta semana realmente vas a estar en tu elemento y puede que hasta te comportes un poco impulsivamente. Si tienes que terminar un trabajo o proyecto antes de cierta fecha, necesitarás concentrarte, lo cual podría ser más fácil decir que hacer. Es posible que te distraigas con nuevas ideas, oportunidades, conocimientos o navegando la red. Sin embargo, te irá mejor si decides hacerles frente a tus responsabilidades en lugar de hacerlas a un lado por el simple hecho de que otras personas dependen de ti y tu imagen podría sufrir de lo contrario.
 
 ## Dinero
 
-Para aprender más sobre los caminos del amor, les pides consejos a tus amistades. Entiendes lo que es tener una pareja, cuidarla, y balancear a otra persona de una manera íntima. Los aspectos que combinan trabajo y dinero, funcionan de la misma manera. Exhibe tu interés en obtener una nueva y mejor posición. ¡Tienes posibilidades de obtener tanto eso como un aumento! Pide lo que quieres y no lo que piensas que la compañía puede pagar.
+Esta semana es sobre la energía que recibes del Universo que afecta a tu vida laboral. Es posible que desees asociarte con alguien que no conoces muy bien con el fin de terminar cierto trabajo, o aliarte con otras personas que quieren salir adelante. No te aproveches ni de los demás o del poder que tengas. Un paso lento pero constante gana la carrera. Formula tu estrategia con prudencia.
