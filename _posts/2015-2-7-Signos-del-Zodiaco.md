@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 07 de septiembre 2023
-description: Horóscopos del dia de hoy 07 de septiembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 08 de septiembre 2023
+description: Horóscopos del dia de hoy 08 de septiembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-09-07
+ lastmod: 2023-09-08
 ---
-Cuando Mercurio retrógrado aspecta a Neptuno retrógrado, retrocede un par de pasos para obtener una mejor visión de algo (o alguien). Un par de cosas requieren de más explicación. Los solteros están sujetos a caprichosos coqueteos cuando nadie se comporta seriamente esta noche, por lo que no se te olvide llevar contigo tu sentido del humor.
+Prepárate para mostrar tu excepcional tacto cuando durante todo el día y toda la noche se te pida que recuerdes la sabiduría de decir las cosas en el más suave de los tonos. Con un tono diplomático y relajado, mientras mejor te lleves con los demás, más vas a lograr. Un poco de amor incondicional también funciona bien dentro de tus relaciones importantes.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
