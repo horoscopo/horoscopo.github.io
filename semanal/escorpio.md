@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 04 de septiembre 2023 al 10 de septiembre 2023 
-description: Horóscopo semanal escorpio 04 de septiembre 2023 al 10 de septiembre 2023. Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
+title: escorpio 11 de septiembre 2023 al 17 de septiembre 2023 
+description: Horóscopo semanal escorpio 11 de septiembre 2023 al 17 de septiembre 2023. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2023-09-04
+ogimg: /images/zodiac/semanal_escorpio.png#2023-09-11
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-09-04'
+ lastmod: '2023-09-11'
 ---
 
 
 
-## Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
+## No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
 
-Tienes mucha energía esta semana y vas a tener unos altibajos demasiado fuertes así que, intenta canalizarla como sea y enfócate en la dirección correcta. Si toda esa fuerza que tienes la proyectas en algo que te hace daño eso mismo que te hace daño se multiplicará por tres. 
-Cuando te sientas mal, tira de memoria Escorpio y acuérdate de que las historias se repiten, y con las mismas personas la gran mayoría de las veces.
-Cuando el sol en tu sector de relaciones conecta con el incansable Urano, podría resultarte difícil ser paciente con ciertas personas. Los familiares podrían ser tu principal motivo de fastidio, pero las amistades también se suman. Lo que puede ayudarte es canalizar la energía mediante la actividad física, ya sea caminando o con una rutina de ejercicios. Hacerlo puede aumentar mucho tu nivel de tolerancia. El reflexivo Mercurio se vuelve retrógrado en tu sector de relaciones el miércoles y permanece así durante cerca de tres semanas, lo que podría coincidir con confusos mensajes y tal vez malentendidos. También puede ser un buen momento para analizar cuestiones que necesitan resolverse hace algún tiempo. Puede que, durante estas semanas, encuentres la solución. 
-Esta semana también es muy importante debido al actividad lunar en tu signo el viernes. Esto significa que podrías sentir tener más ganas de tomar las riendas de tu vida. Las cuestiones relacionadas con la apariencia y la imagen también podrían ser importantes durante esta etapa.
+Si aún sientes que hay cosas pendientes lo primero que debes de hacer es solucionarlas, sobre todo para poder empezar cosas nuevas, dejarlas a medias sólo te llevará a acumular y a acumular y eso no te lleva a ningún puerto, solamente a estallar en el momento menos esperado. Por eso, 
+Después podrás abrir nuevas puertas, pero no dejes entre abiertas las demás…
+La Luna Nueva podría hacer que te sientas un poco más emocional de lo habitual, lo que podría ser un problema si es que tienes mucho qué hacer. Si puedes aligerar tu horario, sería una opción preferible a tener que abrirte camino a lo largo de esos días. Hagas lo que hagas, ¡llévatela leve! Jueves y viernes podrían ser días cruciales en los que puedes lograr mucho al buscar más información u obtener alguna opinión sobre algunas de tus innovadoras ideas. Finalmente, un amigo o pareja podría necesitar algo de ti el domingo.
 
 ## Dinero
 
-Ciertos aspectos están expandiendo tus oportunidades en el trabajo y preparando el camino para un aumento de sueldo, promoción, o ambas cosas. Incluso en un día malo, eres bastante afortunado/a. Puede que estos días el dinero esté llegando tan rápida y furiosamente que es posible que necesites un nuevo plan para ahorrar e invertir. Un aspecto armonioso resalta tu sector de efectivo y valores, ¿lo detectas? No te olvides de la gente pobre conforme llegas a la cima.
+Esta semana es posible que tengas que ajustar tu forma de pensar acerca del dinero y su papel en tu vida, así como la forma en la que manejas el dinero. Es posible que hayas crecido acostumbrado/a a pensar en ti mismo/a como un protector o un derrochador. Tal vez puedes ser ambos. Ahora, vas a decir lo que piensas con respecto a asuntos financieros. La esperanza es puedas hacer esto de una manera diplomática y tolerante e incluir la perspectiva de todo el mundo.

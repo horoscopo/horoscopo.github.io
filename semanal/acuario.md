@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 04 de septiembre 2023 al 10 de septiembre 2023 
-description: Horóscopo semanal acuario 04 de septiembre 2023 al 10 de septiembre 2023. Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+title: acuario 11 de septiembre 2023 al 17 de septiembre 2023 
+description: Horóscopo semanal acuario 11 de septiembre 2023 al 17 de septiembre 2023. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Acuario.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2023-09-04
+ogimg: /images/zodiac/semanal_acuario.png#2023-09-11
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-09-04'
+ lastmod: '2023-09-11'
 ---
 
 
 
-## Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+## No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Acuario.
 
-No estás mal con lo que tienes no, pero ya no eres el mismo que antes Acuario. Has cambiado, y quieres otra vida, llenarte de otras sensaciones que te alimenten, que te hagan crecer como persona, metas y objetivos nuevos. Quieres llenar tu vida de personas inigualables, de gente que merece la pena de verdad. Quieres que tus días estén llenos de esas personas que te hacen ver la belleza del mundo. Quieres gente aventurera cerca, que no se raye por estupideces, que no te raye a ti… Quieres perseguir puestas de sol, quieres perseguir lunas llenas, quieres salir de la mierda de la rutina que a veces te ahoga. Quieres personas que no vean el mundo de la misma manera que tú, personas que tengan la capacidad de hacerte cuestionar todo lo que creías que era cierto. Necesitas vidilla, aventura, es lo que más deseas ahora, búscala Acuario, búscala y sal de la rutina como sea. Si no tienes sueños o metas de este tipo te acabas apagando, y mucho. O te empiezas a ilusionar y a perseguir lo que de verdad quieres o vas para abajo Acuario. Si quieres cambiar algo es porque no estás satisfecho del todo Acuario, esto funciona así. Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
-Ciertas cuestiones de autoestima podría desempeñar un papel en tu decisión de seguir adelante con un nuevo romance. El inicio de la semana podría ser un momento crucial debido a que tal relación podría requerir de una decisión. La verdad es que obtendrás mayor claridad si es que la puedes aplazar durante unos cuantos días. Contarles a una o más de tus amistades tu situación podría ayudarte a obtener una nueva perspectiva, sobre todo una vez que Mercurio entre a Acuario el sábado. Esto también podría aplicarse a un proyecto creativo y la incertidumbre acerca de aceptarlo o no.
+Quieres sonreír cuando pase el tiempo y sobretodo no quedarte con las ganas por no haber hecho lo que sentías. No te encierres en lo que debes o no debes hacer Acuario, ahora simplemente fluye… Con la vida, con tus amigos, con tu gente, con los que quieres… 
+porque así es como la vida te acaba compensando con nuevas bienvenidas.
+Podrías experimentar una sensación de alivio cuando el estancamiento finalmente se acabe, trayendo consigo la oportunidad de poner un proyecto creativo en marcha. Si has sentido frustración por la falta de avances en las últimas semanas, todo ello podría estar a punto de cambiar. También te sentirás como en casa con el Sol en tu sector de rutina y estilo de vida animándote a repensar tu estrategia de bienestar. Puede que te percates de que un entrenador personal puede ayudarte a tomar decisiones más sabias de lo que hubieras imaginado.
 
 ## Dinero
 
-Cierta actividad en tu sector de inversiones compartidas y propiedad sólo puede significar una cosa. Lo que posees puede llegar a la subasta conforme tratas de recaudar algo del dinero que necesitas. Asegúrate de que tú y tu pareja estén al tanto de los detalles de la venta, ya que es posible que las consecuencias sean demasiado graves como para arriesgar más. Tanto tu pareja como tu familia están contando en que tomarás las decisiones correctas.
+Esta semana tienes algunos desafíos por delante a medida que tratas de encontrar el mejor enfoque para el mes que viene. Ciertos aspectos afectan tu sector de deuda, animándote para que empieces a pagar y abstenerte de gastar más. Tu vida familiar y romántica será tu principal factor de motivación ahora.

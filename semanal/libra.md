@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: libra 04 de septiembre 2023 al 10 de septiembre 2023 
-description: Horóscopo semanal libra 04 de septiembre 2023 al 10 de septiembre 2023. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
+title: libra 11 de septiembre 2023 al 17 de septiembre 2023 
+description: Horóscopo semanal libra 11 de septiembre 2023 al 17 de septiembre 2023. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2023-09-04
+ogimg: /images/zodiac/semanal_libra.png#2023-09-11
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-09-04'
+ lastmod: '2023-09-11'
 ---
 
 
 
-## Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
+## Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
 
-La zona de confort es un sitio bonito Libra, un lugar cómodo en el que probablemente nada ni nadie pueda molestarte, pero recuerda que nada crece ahí, así que, si quieres conseguir algo que realmente merezca la pena empieza a moverte y a buscarlo. El primer paso para todo siempre es duro pero piensa que es sólo eso, un paso, que después todo fluye. Esta semana tienes que dar más de un paso para empezar a ver luz en la oscuridad, para darte cuenta de una vez que el lugar en el que estás clavado te atrapará mucho más. Llega una buena noticia, algo que te hará removerte del todo, algo que esperabas… Y llega porque en realidad tendrás una buena actitud para que las cosas que merecen la pena aparezcan. No desaproveches las oportunidades más Libra, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida Libra. No le debes ninguna explicación a nadie. Así que, cuando empieces a caminar hacia lo que de verdad te interesa y te gusta, no mires atrás porque recuerda que no debes nada a nadie, si no más bien al revés. Y ten claro que debes rodearte de personas que saquen la magia de ti, y no la locura. No te metas en juegos de niños pequeños, no te dejes llevar por las emociones ahora, que las sensaciones de otros no se cuelen en tu vida. Va a empezar a caminar hacia buen puerto Libra, y tú mismo te lo notas, no la cagues por nada ni por nadie.
-Los problemas de salud y bienestar pueden haber sido importantes para ti en las últimas semanas, pero a partir de esta semana, puede que sea momento de evaluar hasta dónde has llegado. También puede ser el momento de reorganizar y modificar tus rutinas para que funcionen mejor para ti. El enérgico Marte ingresa a este sector, de manera que también habrá más actividad con respecto a las relaciones. Podrías tener ganas de aclarar algunos asuntos o de reescribir cualquier regla silenciosa dentro una relación importante.
+Está bien que la gente que te acompaña en la vida, comparta tus metas, tus logros, y también tus decepciones y bajones. Está bien que estén a tu lado en las buenas y en las malas. Pero ellos NO son tu felicidad Libra, y no debes depender de nadie porque, si algún días te abandonan, te quedarás vacía/o por dentro.
+Si algunas promesas fueron rotas y sientes decepción, las cosas deberían comenzar a mejorar a partir del lunes conforme Mercurio avanza una vez más. Una o dos conversaciones deberían ser suficientes para asegurarte de que la persona en cuestión tenía sus propios problemas que resolver. Ponerse en contacto y reparar su relación debería ayudarles a restaurar su fe mutua. El encantador enlace entre Venus y Neptuno del sábado podría motivarte a acudir a un concierto o ver una película que te haga sentir bien.
 
 ## Dinero
 
-Tienes el apoyo del Universo esta semana, el cuál afecta a tu área asociada con los viajes al extranjero y la educación superior. Aunque pueda parecer contradictorio, es posible que tengas que mirar muy lejos de donde estás con el fin de ganar más dinero. El explorar mercados extranjeros para productos e inversiones extranjeras de ahorro ayudará a diversificar tu cartera y ganar más a largo plazo. Y aprender un nuevo idioma te ayudará con la comunicación.
+Esta semana estás preparando el escenario para un nuevo capítulo. Ha llegado el momento de parecer más profesional, por lo que salir a comprar ropa de oficina no es una mala idea. Te percatarás de que tu actitud cambia y que eres capaz de atraer el tipo de ofertas que realmente deseas. El Universo está alertando nuevas formas de pagar la deuda o solicitar financiación si necesitas una extensión de crédito.

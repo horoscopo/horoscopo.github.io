@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 04 de septiembre 2023 al 10 de septiembre 2023 
-description: Horóscopo semanal sagitario 04 de septiembre 2023 al 10 de septiembre 2023. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
+title: sagitario 11 de septiembre 2023 al 17 de septiembre 2023 
+description: Horóscopo semanal sagitario 11 de septiembre 2023 al 17 de septiembre 2023. Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2023-09-04
+ogimg: /images/zodiac/semanal_sagitario.png#2023-09-11
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-09-04'
+ lastmod: '2023-09-11'
 ---
 
 
 
-## Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
+## Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. 
 
-Para de pensar tanto en todo, para de sobreanalizar. ¿Te has parado alguna vez en seco y te has preguntado si realmente eres feliz, si realmente quieres que las cosas sigan como están? Hazlo, contigo las terapias de choque funcionan muchas veces. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? Cuando lo averigües ves a por ello. La comodidad está bien Sagitario pero está bien por un tiempo, no toda la vida, si sólo te conformas con lo que tienes al final tu vida nunca será tuya si no de los demás, las decisiones no las tomarás tú, si no todo lo que está a tu alrededor porque, al final, solamente te adaptarás a ello, tal cual, como venga, quizás enfadado y quejándote o quizás dejándote llevar pero al final, los que ganan serán los demás… Vuelve a creer en tus metas, vuelve a creer en ti mismo, vuelve a intentar conseguir lo que siempre has querido.
-El Sol en Capricornio te estimula a organizarte en relación a cuestiones de trabajo, estilo de vida y bienestar. Tu enfoque también se concentrará en el ocio y el placer cuando Venus entre a Sagitario, dándote una gran oportunidad para disfrutar del fin de semana. Además, Marte entrando a tu sector familiar podría darte ganas de eliminar el desorden. Esto significa abordar aquellas áreas que no han visto la luz del día durante algún tiempo. Te sentirás mucho mejor una vez que empieces.
+Llevabas un ritmo un poco alocado Sagitario, todo mezclado con dudas existenciales, un futuro incierto y si, altibajos constantes. Te encuentras un poco agotado por todo, sin tener aún muy claro por dónde tirar y qué camino elegir. Vives al día, el instante, el momento, mañana ya veremos y eso está muy bien pero cuando te da un momento de bajón, te hundes, y mucho. En realidad ¿es lo que quieres? Te das cuenta de que no puedes seguir así, que necesitas asentarte, “centrar” la cabeza, pero en un momento determinado todo lo que piensas se va de tu cabeza. “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate Sagitario, que no te entre la locura. Ni todo es tan malo ni todo es tan bueno. Eres demasiado nervioso y te estresas rápidamente pero eso no tiene que llevarte a hacer ninguna locura. Al revés, siéntate y, por unos minutos, aunque sean sólo 5, piensa en lo bueno que tienes, aunque lo malo pueda ser muy muy malo, y dedícate de pleno a cuidarlo. Y si tienes que relajarte más, hazlo, y si tienes que buscar alternativas a esos bucles mentales que parecen no tener fin, pues hazlo también. Con la mente despejada y, sobretodo haciendo una lista de lo que te conviene y no te conviene, tomarás el rumbo de tu vida. Y ahora cuídate más que nunca y sobretodo pon mil ojos a tu alrededor porque sabes que hay envidiosos que tienen asuntos pendientes contigo y aprovecharán cualquier momento para hacer daño, de una forma o de otra, y sobretodo, aprovecharán los momentos en los que estés bajo de ánimos para atacar y debilitarte aún más. Cuídate un poquito más Sagitario, quiérete un poquito más, y pon la mente en blanco todo lo que puedas…
+Venus se une a Mercurio en tu sector espiritual a principios de esta semana, aspecto que podría llevarte a contactar a alguien con el fin de ayudarle. Si una amistad está pasando por un momento difícil, estarás a su lado para escucharle y ofrecerle tus consejos. También te beneficiarás de prestarle atención a tus sueños, los cuales pueden parecer más vívidos de lo habitual, ya que podrían contener útil información. El gran evento astrológico de la semana es la actividad solar, aumentando tu vitalidad y carisma.
 
 ## Dinero
 
-Es necesario el llegar a tener mucha más apertura y comunicación en el trabajo. Otros pueden estar contando contigo para obtener información que necesitan para realizar sus diversas funciones, así que asegúrate de no descuidar los e-mails o mensajes. El Universo te da aún más razones para hablar desde el corazón sobre lo que necesitas, tanto en el trabajo como en tu vida personal.
+La actividad astral de esta semana tiene lugar en tu sector de carrera y autoridad. El Universo te pide que pongas más de tu enfoque en su avance. No es suficiente el dejar tu vida laboral al azar. En cambio, los pasos cuidadosos hacia un objetivo profesional concreto te obtendrán los mejores resultados y la máxima rentabilidad.

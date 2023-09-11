@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 04 de septiembre 2023 al 10 de septiembre 2023 
-description: Horóscopo semanal capricornio 04 de septiembre 2023 al 10 de septiembre 2023. Eres un signo de tierra, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
+title: capricornio 11 de septiembre 2023 al 17 de septiembre 2023 
+description: Horóscopo semanal capricornio 11 de septiembre 2023 al 17 de septiembre 2023. Tienes estilazo y personalidad propia pero no viene mal de vez en cuando hacerte algún arreglo para potenciarlo más aún. Esta semana vas a reinventarte Capricornio, estás increíble, con una energía capaz de mover montañas, con un don de palabra capaz de hacer los mejores acuerdos del mundo.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2023-09-04
+ogimg: /images/zodiac/semanal_capricornio.png#2023-09-11
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-09-04'
+ lastmod: '2023-09-11'
 ---
 
 
 
-## Eres un signo de tierra, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
+## Tienes estilazo y personalidad propia pero no viene mal de vez en cuando hacerte algún arreglo para potenciarlo más aún. Esta semana vas a reinventarte Capricornio, estás increíble, con una energía capaz de mover montañas, con un don de palabra capaz de hacer los mejores acuerdos del mundo.
 
-No te preocupes tanto por los demás y empieza a darte un poquito más de valor a ti mismo. A veces quieres arreglar al mundo Capricornio pero no te das cuenta de que es el mundo el que no se quiere arreglar. 
- Intenta no decir nada negativo durante 24 horas y observa cómo tu vida cambia. Es de quien te rodeas últimamente, ese es el problema. Sacas lo peor de ti en cuestión de segundos y eso no es bueno. Nada bueno.
-Tus amistades pueden ser de gran apoyo al animarte a salirte de tu zona de confort. El martes, una persona en particular podría tener éxito al lograr que tomes un tentativo primer paso. Es probable que la razón de esto sea que sientes atracción hacia ella y por tal tienes disposición a prestar atención a lo que tenga que decir. Sin embargo, no sería prudente esperar demasiado de esta relación por ahora. Permite que se desarrolle orgánicamente y obtendrás mejores resultados.
+Disfruta de la vida Capricornio, de verdad. A veces hay que dejar atrás lo que pertenece a atrás de una vez, y sí, por qué no, volver a dar oportunidades, volver a confiar. Es muy triste que te hayan fallado, es cierto, pero el castigo más grande es haberte hecho desconfiado con el mundo, desconfiado con todos. Hay que cambiar eso como sea, hay que cambiarlo porque hay gente buena que lo que quiere es dar, que te valora, que te quiere. Sé amable con la gente que está a tu alrededor y perdona y sigue a tu corazón. Al final del todo, si no lo haces, te vas a arrepentir muchísimo, a veces esas situaciones no vuelven Capricornio. Hay algunos problemillas que te rodean pero van a solucionarse pronto, aunque deberás tener una buena actitud para liquidarlos definitivamente. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierda en unas semanas. Quédate con lo positivo y sigue adelante con tu vida. Todo cambiará a mejor. La paz interior es la nueva meta, así que, ¡céntrate! Feliz semana Capricornio.
+Aunque es posible que sientas presión en el trabajo, cierto enfoque en tu sector espiritual te anima a tomarte un breve retiro. Es posible que desees hacer de esto un hábito regular durante las próximas semanas, dándote la oportunidad de relajarte y recargar baterías. Préstale atención a tus sueños también, ya que su inspiradora guía podría ayudarte a superar cualquier molesto problema. El día Jueves requiere de un manejo cuidadoso, especialmente si tu energía no está a la altura. Aligera tu horario con tal de facilitarte la vida.
 
 ## Dinero
 
-Esta semana, los aspectos afectan tu sector de instituciones, vidas pasadas, y karma. Lo que pones en tu trabajo y dinero es lo que recibes, dice el Universo. Si te has negado a planificar para la jubilación o el ahorro en general, esta es la semana para escuchar a tu intuición y poner manos a la obra.
+Esta semana trae un positivo suspiro de alivio entre la comunicación y las ideas, y la individualidad y el cambio repentino. Ciertos aspectos afectan a la familia, el romance y la creatividad mientras que amplificas tus esfuerzos para llevar tu producto o servicio a una audiencia global. Tienes confianza en tus capacidades, lo cual es genial. ¡Tienes mucho poder para lograr lo que quieres!
