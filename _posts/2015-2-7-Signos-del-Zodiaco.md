@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 12 de septiembre 2023
-description: Horóscopos del dia de hoy 12 de septiembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 13 de septiembre 2023
+description: Horóscopos del dia de hoy 13 de septiembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-09-12
+ lastmod: 2023-09-13
 ---
-Mira hacia futuro mientras Marte en Piscis conjunta a Neptuno. El futuro se desenrolla ante tus ojos. De verdad es posible comenzar de nuevo y construir una nueva vida basada en resoluciones. La energía lunar de esta noche se trata de esperar y necesitar de un pequeño empujón para revelar algo importante (si no fue revelado anoche).
+Las conversaciones son positivas, abiertas y audaces con el trígono entre la Luna y Mercurio de esta mañana. Disfrútalas. La vibra podría volverse un poco irritable y crítica durante la tarde con su oposición con Marte. Esta noche, alguien podría tomar una decisión final en relación a una persona especial si la otra parte ha persistido durante algún tiempo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
