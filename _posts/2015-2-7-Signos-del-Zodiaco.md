@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 16 de septiembre 2023
-description: Horóscopos del dia de hoy 16 de septiembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 17 de septiembre 2023
+description: Horóscopos del dia de hoy 17 de septiembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-09-16
+ lastmod: 2023-09-17
 ---
-La exploración dirige el curso de la vida hacia una nueva dirección. Los corazones son tan puros como el oro cuando la Luna aspecta a Júpiter esta noche. Una buena manera de comenzar una relación, ¿no te parece?
+Hoy, la coexistencia es pacífica bajo el trígono entre la Luna y Plutón. La gente tiene la suficiente sabiduría como para decir las cosas en el más suave de los tonos. Hay algo diferente en el aire bajo la Luna Llena de esta noche. Tomar una ruta inusual te hará experimentar sucesos inesperados. ¿Te atreverás a dejar que tu vida sea diferente?
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
