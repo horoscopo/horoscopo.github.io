@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 11 de septiembre 2023 al 17 de septiembre 2023 
-description: Horóscopo semanal geminis 11 de septiembre 2023 al 17 de septiembre 2023. Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
+title: geminis 18 de septiembre 2023 al 24 de septiembre 2023 
+description: Horóscopo semanal geminis 18 de septiembre 2023 al 24 de septiembre 2023. Llega una buenísima semana Géminis pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2023-09-11
+ogimg: /images/zodiac/semanal_geminis.png#2023-09-18
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-09-11'
+ lastmod: '2023-09-18'
 ---
 
 
 
-## Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
+## Llega una buenísima semana Géminis pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
 
-Quita importancia a las cosas Géminis, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente… Pon la mente en blanco como sea si no quieres empezar a dejar de dormir esta semana. Hay cosas que no están en tu mano, hay cosas que llegan y se van solas, sin que podamos hacer nada, pero sin embargo, la vida sigue y hay otras muchas en las que si puedes hacer mucho. Pues céntrate en esas Géminis. En las que verdaderamente están ahí, en tu mano. Tienes que tener un plan B para engañar a tu mente, sal un poco más y cuando no te apetezca mucho, oblígate, hazte el favor de relacionarte con tus amigos, de sacar tus sentimientos, lo que pasa por tu cabeza. Los nervios sólo te acabarán consumiendo por dentro. Deja fluir, deja correr, deja pasar las cosas y no vuelvas a abrir las puertas de tu vida a la gente que te hace daño. Si te rodeas de buenas personas, lo positivo empezará a aparecer en tu vida, pero si por tu alrededor la energía mala se palpa, no esperes nada bueno. Deja que las cosas se marchen de tu vida si así tiene que ser, y márchate tú si eso es lo que sabes que debes hacer… Aférrate a ti mismo, sólo a ti… Por una vez manda a la mierda y céntrate en lo que de verdad te hará feliz.
-A medida que Venus, tu planeta regente, ingresa a Cáncer al principio de la semana, les aporta un tono diplomático y relajante a las interacciones. Esta puede ser una influencia muy positiva en tus relaciones personales y empresariales, ya que te prepararás para escuchar y tendrás la voluntad de negociar. También hay sucediendo mucho en tu sector doméstico, lo que podría incluir la remodelación de una propiedad o, tal vez, hacer grandes proyectos creativos. Probablemente te gustarán mucho los resultados, incluso si debes lidiar con algunos inconvenientes.
+Acepta las ofertas que creas que debas aceptar y sobre todo, cree en ti, porque solo o acompañado puedes hacer lo que quieras, puedes llegar hasta donde quieras llegar… Empieza a dedicarle todo el tiempo del mundo a lo que te hace feliz, lo necesitas. Las dudas han quedado atrás, ya te lanzas, y más cuando te estás dando cuenta que si sientes que vas a apostar para ganar tienes que hacerlo ya. Esta semana es muy probable que empieces a abrir los ojos ante cosas nuevas, van a ofrecerte demasiado, conocen tu talento, pero debes ser hábil para elegir qué es lo que más te conviene, qué es lo que realmente necesitas y qué es lo que te hará crecer en un futuro. A la mierda lo demás Géminis. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora. Algo muy importante que debes saber es que cuando hagas lo que deseas, procura mandar muy lejos lo que no deseas, ¿y por qué? Porque al final lo que está podrido acabará por pudrir al resto de cosas. Es decir, si empiezas con buen pie algo pero tienes un lastre de cosas o personas que lo que te hacen es que de nuevo vayas hacia atrás, jamás vas a progresar, nunca. Por eso, aleja primero las cosas que debas alejar y cuando estés libre totalmente de ese tipo de negatividad, lánzate a hacer lo que más te gusta, y dedícate a ello al 100%. Te espera una buena semana pero por favor, deja de pensar en idioteces que no te sacan de nada.
+Parece que tu vida social estará muy agitada en estos momentos. Conectarte con otros te motivará a que conozcas mejor a ciertas personas, ya sea en términos de una relación de negocios o un nuevo romance. También, tal vez sientas ganas de tomar una decisión con respecto a tus proyectos creativos. Si ya has postergado esto por mucho tiempo, esta semana podría ser la mejor para comenzar. Finalmente, una reluciente mezcla de energías a mitad de semana podría ser perfecta para el romance.
 
 ## Dinero
 
-Estás experimentando un impulso de energía en tus finanzas. Tienes mucha creatividad en cuanto a la creación de ideas nuevas de cómo traer dinero a tu vida. Es posible que tengas nuevos conceptos para un segundo negocio o simplemente ideas innovadoras y de bajo costo para promover un negocio que ya tengas. Los planetas apoyan estos esfuerzos en una gran forma. ¡Estás en la cima del mundo!
+El dinero puede ser un punto de fricción para ti. Por un lado, deseas la seguridad que el dinero puede proporcionarte. Por otro lado, quieres sentirte en control, y el dinero es raramente controlable. La buena noticia es que hay un montón de energía positiva concentrada en tu sector de dinero. Con acción y un poco de suerte, debería ser fácil ganar dinero en este momento.

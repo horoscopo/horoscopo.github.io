@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: tauro 11 de septiembre 2023 al 17 de septiembre 2023 
-description: Horóscopo semanal tauro 11 de septiembre 2023 al 17 de septiembre 2023. Tienes la semana agitada Tauro. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
+title: tauro 18 de septiembre 2023 al 24 de septiembre 2023 
+description: Horóscopo semanal tauro 18 de septiembre 2023 al 24 de septiembre 2023. Estás renaciendo Tauro, renaciendo de las cenizas… Y ya era hora…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2023-09-11
+ogimg: /images/zodiac/semanal_tauro.png#2023-09-18
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-09-11'
+ lastmod: '2023-09-18'
 ---
 
 
 
-## Tienes la semana agitada Tauro. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
+## Estás renaciendo Tauro, renaciendo de las cenizas… Y ya era hora…
 
-Para alcanzar la felicidad, TÚ FELICIDAD, 
-y ese es tu trabajo ahora. Dejar de pensar, o al menos, intentar engañar a tu mente y a tu cabeza para que piense lo menos posible…
-Una sensación de bienestar podría darle a tu semana un buen comienzo. Con la positiva alineación entre el Sol y Júpiter, es posible que sientas agradecimiento y felicidad por el simple hecho de tener vida sin importar lo que esté pasando. Hay un amplio margen para positiva actividad en relación a contratos, ofertas y el establecimiento de contactos. Cuando tener ambición y mostrar un poco de agresividad podría ayudarte a obtener el mejor resultado. La Luna Nueva del viernes podría ser un buen momento para aprender a meditar o practicar la disciplina espiritual de tu elección.
+Tienes grandes planes Tauro, el problema es que tienes que pensar muy bien con quién quieres tener esos planes, con quien quieres disfrutarlos. Un día estás bien, pero después estás tres mal y eso sólo es mierda que se va acumulando constantemente en tu vida. Decide qué es lo que quieres hacer y con quien quieres compartir tus logros. Esta semana estás un poco así como que te da igual todo, que no es que te de igual en el fondo, pero no te implicas de la misma manera en la que lo hacías unas semanas antes. Cuando te propones algo vas con ello hasta el final, el problema es que quizás ahora ya no te motiva como antes nada, quizás no quieres arriesgar por nadie, quizás no te merece tanto la pena como creías… No te preocupes Tauro, si esta semana estás un poco más apático con el mundo no pasa nada. Tienes tu derecho a no querer hacer nada, a pasar un poco de todo. De hecho, pasar un poco de todo es lo que te hará ver las cosas desde fuera, lo que te hará ser más objetivo. Esta semana abrirás los ojos, verás qué merece la pena, qué puedes perder, qué debes ganar, de qué debes pasar… Y si no eres el/la mismo/a de antes con los demás, que aprendan a valorarte un poco más. Ya verás como vuelve el Tauro de siempre…
+Ten cuidado el martes. A pesar de tu gran tacto, alguien podría hacer que sientas frustración o enojo. La razón es que tú o alguien podría no estar viendo las cosas con claridad, por lo que espera hasta que conozcas bien los hechos. Además, puede que tengas ansias de apoderarte de algunas gangas de temporada. Sin embargo, evita artículos que aunque sean baratos pudieran ser una mala inversión. Por último, la entrada de Mercurio a Acuario podría verte con determinación a divertirte conforme el 2023 se asoma.
 
 ## Dinero
 
-Si has estado buscando maneras de tener más apertura acerca de tus actividades monetarias, el cosmos te provee soluciones de todo tipo. Tendrás apoyo a la hora de comunicar tus necesidades y deseos relacionados con dinero. Si ha pasado mucho tiempo desde la última vez que recibiste un aumento de sueldo, habla con tu jefe acerca de las razones por la cuales te lo mereces. Alguien como tú no malgasta las horas de trabajo, eres un valioso contribuyente.
+Estás a punto de hacer algunos cambios importantes en la forma en la que haces negocios. Tal vez estés pensando en mudarte a otra casa o trabajo. Cierta energía sensible y madura entra a tu sector del trabajo. Cuanto más puedas aprender a aceptar la responsabilidad y demostrar que otros pueden contar contigo, más recompensas financieras encontrarás. No te alejes de lo que potencialmente podría avanzar para ti.

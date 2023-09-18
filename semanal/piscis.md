@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 11 de septiembre 2023 al 17 de septiembre 2023 
-description: Horóscopo semanal piscis 11 de septiembre 2023 al 17 de septiembre 2023. Cada día que pasa te das más cuenta de que mereces cosas buenas Piscis, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+title: piscis 18 de septiembre 2023 al 24 de septiembre 2023 
+description: Horóscopo semanal piscis 18 de septiembre 2023 al 24 de septiembre 2023. No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario Piscis.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2023-09-11
+ogimg: /images/zodiac/semanal_piscis.png#2023-09-18
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-09-11'
+ lastmod: '2023-09-18'
 ---
 
 
 
-## Cada día que pasa te das más cuenta de que mereces cosas buenas Piscis, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+## No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario Piscis.
 
-No eres la misma persona que eras hace tres años, un año o unos meses atrás, estás en constante cambio, las experiencias te han hecho ser mucho más duro, mucho más fuerte, y sí, te han hecho ver que todo tiene un principio pero que nada dura eternamente. Si necesitas consejo, habla contigo mismo, recuérdate experiencias, aunque muchas sean dolorosas, nadie mejor que tú sabe por lo que has pasado, nadie mejor que tú sabe lo que no quiere volver a repetir. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo. No está bien conformarse Piscis, no está bien pensar que lo que tienes es porque lo mereces, porque no es así, lo que tienes es porque aún no has buscado o encontrado lo que de verdad deseas, pero si no eres tú quien intenta encontrarlo, nadie lo hará por ti. Pasarán los años, ¿y de verdad te quieres ver en la misma situación dentro de por ejemplo dos años? No, porque tú tienes sueños, tienes proyectos, pero sólo te falta ese empujón, esa “seguridad” que parece que tienes pero que también te falta. Rompe con todo Piscis, mírate y observa lo que ves, observa lo que vales, puedes llegar a conseguir tanto… Sólo te falta tomar esa decisión que quizás asusta tanto pero que es la decisión que hará que tu destino cambie…
-El comienzo de la semana podría encontrarte con ganas de animar un poco tu vida, tal vez organizando una fiesta u otro tipo de divertida reunión. También hay un cambio de ritmo a medida que el vital Marte ingresa a su fase retrógrada en tu sector de relaciones el Jueves y se queda allí hasta el Viernes. Este no sería un buen momento para asociarte con alguien, ya sea para colaborar en una idea o negocio, o bien para avanzar en una relación romántica. Por ahora, aguarda a que llegue el momento justo, ya que se avecinan cambios. 
-La luna nueva en tu sector de estilo de vida el miércoles podría poner bajo enfoque algunas cuestiones. Puede que te des cuenta cuánto tiempo has pasado trabajando y qué poco te dedicaste a disfrutar de la vida. Podrías tomar algunas decisiones clave como resultado de esto. Por último, el ingreso del interactivo Mercurio a tu signo del jueves podría inspirarte a compartir tus ideas, en especial las relacionadas con lo creativo.
+No puedes ser sumiso Piscis, al final, tus necesidades siempre acaban saliendo a la luz porque no puedes limitarte ni encasillarte con nada. No puedes pasarte la vida sabiendo qué es lo que debes hacer pero sin hacerlo, no puedes pasarte la vida queriendo hacer algo y que al final ese algo sólo se quede en tu cabeza, en tus pensamientos. Tienes que romper con eso. Esta semana céntrate en cumplir cada una de tus metas, trata de hacer lo que te pida el cuerpo sin necesidad de quejarte, piensa en qué es lo que está en tu mano, en qué es lo que tú puedes hacer, y hazlo. No hagas de tu tiempo tiempo perdido, con nada, con nadie… Si no vas a por todo, mejor no vayas. Es uno de tus lemas, pero a veces te olvidas de aplicártelo a ti, y sí, empiezas algo y por unas cosas u otras, no lo acabas. Piensa que así es como te frustras y piensa que es el motivo por el cual te pones de muy mala hostia un día sí y otro también. Eres un signo de agua, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo. No te compliques y al lío Piscis. Ponte en marcha de una vez esta semana, y no pienses en lo que perdiste o en lo que ganaste, piensa en lo que llegará si de verdad te pones las pilas.
+Pueden surgir problemas en tu bienestar en los próximos días. Podrías reunirte con una amistad o quizá con un grupo de amigos para mejorar tu estado general de salud. Puede que tengas ganas de cambiar de dieta, ya que una influencia clave quizá te haga considerar distintas maneras de eliminar toxinas de tu cuerpo. Desde un punto de vista más íntimo, la presencia de Marte en Tauro puede estimular tus sentidos, lo que hace que las próximas semanas sean perfectas para el romance con todo tipo de adornos.
 
 ## Dinero
 
-Esta semana es acerca de romance, niños y diversión; así como viajes, educación y espiritualidad. Cualquiera de estas áreas puede ser explotada por obtener un trabajo extra o construir un negocio completamente nuevo ahora. Tú tienes la capacidad de hacer que suceda. Con un poco de arduo trabajo y verdadero enfoque, puedes empezar a ganar más dinero en el futuro.
+Esta semana tienes un nuevo enfoque en tu sector del hogar y las emociones internas. Si has estado pensando en el concepto del hogar y lo que éste significa para ti, es posible que desees echar raíces, tal vez por primera vez en tu vida. Conforme estás tratando de tomar el control de tu vida hogareña, asegúrate de también proyectar tu presupuesto de gastos de manutención durante el resto del año. Lo que quieres tiene la posibilidad de hacerse real si lo planeas con anticipación.

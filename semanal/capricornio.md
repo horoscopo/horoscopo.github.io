@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 11 de septiembre 2023 al 17 de septiembre 2023 
-description: Horóscopo semanal capricornio 11 de septiembre 2023 al 17 de septiembre 2023. Tienes estilazo y personalidad propia pero no viene mal de vez en cuando hacerte algún arreglo para potenciarlo más aún. Esta semana vas a reinventarte Capricornio, estás increíble, con una energía capaz de mover montañas, con un don de palabra capaz de hacer los mejores acuerdos del mundo.
+title: capricornio 18 de septiembre 2023 al 24 de septiembre 2023 
+description: Horóscopo semanal capricornio 18 de septiembre 2023 al 24 de septiembre 2023. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2023-09-11
+ogimg: /images/zodiac/semanal_capricornio.png#2023-09-18
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-09-11'
+ lastmod: '2023-09-18'
 ---
 
 
 
-## Tienes estilazo y personalidad propia pero no viene mal de vez en cuando hacerte algún arreglo para potenciarlo más aún. Esta semana vas a reinventarte Capricornio, estás increíble, con una energía capaz de mover montañas, con un don de palabra capaz de hacer los mejores acuerdos del mundo.
+## Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas.
 
-Disfruta de la vida Capricornio, de verdad. A veces hay que dejar atrás lo que pertenece a atrás de una vez, y sí, por qué no, volver a dar oportunidades, volver a confiar. Es muy triste que te hayan fallado, es cierto, pero el castigo más grande es haberte hecho desconfiado con el mundo, desconfiado con todos. Hay que cambiar eso como sea, hay que cambiarlo porque hay gente buena que lo que quiere es dar, que te valora, que te quiere. Sé amable con la gente que está a tu alrededor y perdona y sigue a tu corazón. Al final del todo, si no lo haces, te vas a arrepentir muchísimo, a veces esas situaciones no vuelven Capricornio. Hay algunos problemillas que te rodean pero van a solucionarse pronto, aunque deberás tener una buena actitud para liquidarlos definitivamente. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierda en unas semanas. Quédate con lo positivo y sigue adelante con tu vida. Todo cambiará a mejor. La paz interior es la nueva meta, así que, ¡céntrate! Feliz semana Capricornio.
-Aunque es posible que sientas presión en el trabajo, cierto enfoque en tu sector espiritual te anima a tomarte un breve retiro. Es posible que desees hacer de esto un hábito regular durante las próximas semanas, dándote la oportunidad de relajarte y recargar baterías. Préstale atención a tus sueños también, ya que su inspiradora guía podría ayudarte a superar cualquier molesto problema. El día Jueves requiere de un manejo cuidadoso, especialmente si tu energía no está a la altura. Aligera tu horario con tal de facilitarte la vida.
+Algo que te haga sentir vivo/a ya. Te has metido en una espiral de rutina un poco complicada y poco a poco esa energía que tenías va siendo consumida. Con lo que tú has sido… Con lo que tú eres…
+Para ti, la gran noticia de esta semana involucra al valiente Marte en tu sector de lejanos horizontes. Este fogoso planeta se vuelve retrógrado el Jueves y permanece así hasta el Viernes. Esto puede sugerir demoras en unas vacaciones o tal vez un viaje más largo. Si has estado pensando en comenzar un curso u obtener una certificación, podría surgir algo que lo posponga. Cualquiera de estas situaciones podría animarte a reflexionar sobre lo que quieres en verdad. Puede que decidas avanzar una vez que Marte se vuelva directo, pero también podrías cambiar de opinión y tornar tu atención hacia otro lado. 
+La actividad lunar en tu sector de negocios y finanzas el miércoles podría hacer que debas tomar ejemplares decisiones. De más está decir que lo mejor es esperar hasta que sientas más tranquilidad antes de decidir qué hacer a continuación. Independientemente de cuáles sean tus planes, no tomes decisiones apresuradas.
 
 ## Dinero
 
-Esta semana trae un positivo suspiro de alivio entre la comunicación y las ideas, y la individualidad y el cambio repentino. Ciertos aspectos afectan a la familia, el romance y la creatividad mientras que amplificas tus esfuerzos para llevar tu producto o servicio a una audiencia global. Tienes confianza en tus capacidades, lo cual es genial. ¡Tienes mucho poder para lograr lo que quieres!
+Tienes todo tipo de geniales destellos llegando a tu cabeza. No descartes nada que parezca una posibilidad remota, porque puede que no lo sea dado el tiempo suficiente y la preparación. La mala noticia es que tu empleo podría sufrir un cambio no deseado. Podrías tener un nuevo jefe, un cambio de responsabilidades, o incluso una reducción de sueldo conforme tu empresa lucha con una economía cambiante.
