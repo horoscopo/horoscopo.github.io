@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 17 de septiembre 2023
-description: Horóscopos del dia de hoy 17 de septiembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 18 de septiembre 2023
+description: Horóscopos del dia de hoy 18 de septiembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-09-17
+ lastmod: 2023-09-18
 ---
-Hoy, la coexistencia es pacífica bajo el trígono entre la Luna y Plutón. La gente tiene la suficiente sabiduría como para decir las cosas en el más suave de los tonos. Hay algo diferente en el aire bajo la Luna Llena de esta noche. Tomar una ruta inusual te hará experimentar sucesos inesperados. ¿Te atreverás a dejar que tu vida sea diferente?
+Intenta pensar de manera diferente para celebrar la entrada de Mercurio a Acuario. Mientras Marte forme sextil con Júpiter, inventa nuevas combinaciones derivadas de cosas viejas. La noche está llena de sentimentales emociones cuando la Luna en Tauro forma sextil con Neptuno. Es una oportunidad para descubrir lo que alguien siente, emocionalmente hablando.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
