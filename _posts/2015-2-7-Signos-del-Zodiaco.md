@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 20 de septiembre 2023
-description: Horóscopos del dia de hoy 20 de septiembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 21 de septiembre 2023
+description: Horóscopos del dia de hoy 21 de septiembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-09-20
+ lastmod: 2023-09-21
 ---
-Mercurio se torna directo hoy. Bajo este punto de vista, ¿qué es lo que ha estado rondando en tu mente últimamente? En algún lugar dentro de todos esos pensamientos, te llegó un rayo de inspiración. No son pensamientos que estabas buscando - sino de un tipo completamente diferente. Hay algo de importancia en eso. Todo lo mencionado se amplifica aún más esta noche mientras la Luna se opone a Saturno.
+¡El interruptor está encendido! Mercurio girando directo hoy les abre la puerta a felices encuentros. El bono es que ya no tienes que explicar algo que ya ha sido explicado más de una o dos veces. Esta noche, las conversaciones se desarrollan de una manera suave y ya no son un revoltijo de pensamientos.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
