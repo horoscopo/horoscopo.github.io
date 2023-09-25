@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Leo Septiembre 2023
-description: El Horóscopo Septiembre de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Leo Octubre 2023
+description: El Horóscopo Octubre de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/leo/
 amplink: /horoscopo-mensual/amp/leo/
 home: FALSE
-keywords: horóscopo septiembre, horoscopos en español, horóscopo Leo septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Leo, Tarot, Astrologia, Zodíaco, Leo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo octubre, horoscopos en español, horóscopo Leo octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Leo, Tarot, Astrologia, Zodíaco, Leo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/leo_mes.png#2023-08-25
+ogimg: /images/mes/leo_mes.png#2023-09-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-08-25'
+ lastmod: '2023-09-25'
 ---
 
 

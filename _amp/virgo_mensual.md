@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Virgo Septiembre 2023 
+title: Horoscopo Virgo Octubre 2023 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Virgo_mes.png#2023-08-25
+ogimg: /images/mes/Virgo_mes.png#2023-09-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-08-25'
+ lastmod: '2023-09-25'
 ---
 
 

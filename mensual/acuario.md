@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Acuario Septiembre 2023
-description: El Horóscopo Septiembre de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Acuario Octubre 2023
+description: El Horóscopo Octubre de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/acuario/
 amplink: /horoscopo-mensual/amp/acuario/
 home: FALSE
-keywords: horóscopo septiembre, horoscopos en español, horóscopo Acuario septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Acuario, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo octubre, horoscopos en español, horóscopo Acuario octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Acuario, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/acuario_mes.png#2023-08-25
+ogimg: /images/mes/acuario_mes.png#2023-09-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-08-25'
+ lastmod: '2023-09-25'
 ---
 
 

@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Acuario Septiembre 2023 
+title: Horoscopo Acuario Octubre 2023 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Acuario_mes.png#2023-08-25
+ogimg: /images/mes/Acuario_mes.png#2023-09-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-08-25'
+ lastmod: '2023-09-25'
 ---
 
 

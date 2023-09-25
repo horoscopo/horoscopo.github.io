@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Cáncer Septiembre 2023
-description: El Horóscopo Septiembre de Cáncer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Cáncer Octubre 2023
+description: El Horóscopo Octubre de Cáncer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/cancer/
 amplink: /horoscopo-mensual/amp/cancer/
 home: FALSE
-keywords: horóscopo septiembre, horoscopos en español, horóscopo Cáncer septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Cáncer, Tarot, Astrologia, Zodíaco, Cáncer, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo octubre, horoscopos en español, horóscopo Cáncer octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Cáncer, Tarot, Astrologia, Zodíaco, Cáncer, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/cancer_mes.png#2023-08-25
+ogimg: /images/mes/cancer_mes.png#2023-09-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-08-25'
+ lastmod: '2023-09-25'
 ---
 
 

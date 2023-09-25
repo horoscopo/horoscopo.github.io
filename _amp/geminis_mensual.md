@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Géminis Septiembre 2023 
+title: Horoscopo Géminis Octubre 2023 
 permalink: /horoscopo-mensual/amp/geminis/
 normallink: /horoscopo-mensual/geminis/
 home: FALSE
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Géminis_mes.png#2023-08-25
+ogimg: /images/mes/Géminis_mes.png#2023-09-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-08-25'
+ lastmod: '2023-09-25'
 ---
 
 

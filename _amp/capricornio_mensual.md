@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Capricornio Septiembre 2023 
+title: Horoscopo Capricornio Octubre 2023 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Capricornio_mes.png#2023-08-25
+ogimg: /images/mes/Capricornio_mes.png#2023-09-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-08-25'
+ lastmod: '2023-09-25'
 ---
 
 
