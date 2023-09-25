@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: aries 18 de septiembre 2023 al 24 de septiembre 2023 
-description: Horóscopo semanal aries 18 de septiembre 2023 al 24 de septiembre 2023. No quieres pasar más tiempo equivocándote, sobretodo porque en el fondo sabes que lo estás haciendo, y cuando de repente ves todo el tiempo que llevas así te entra todo el bajón, ¿cómo has podido aguantar tanto?
+title: aries 25 de septiembre 2023 al 01 de octubre 2023 
+description: Horóscopo semanal aries 25 de septiembre 2023 al 01 de octubre 2023. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Aries. Ahora brillas así que, aprovecha. Aprovecha todo.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2023-09-18
+ogimg: /images/zodiac/semanal_aries.png#2023-09-25
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-09-18'
+ lastmod: '2023-09-25'
 ---
 
 
 
-## No quieres pasar más tiempo equivocándote, sobretodo porque en el fondo sabes que lo estás haciendo, y cuando de repente ves todo el tiempo que llevas así te entra todo el bajón, ¿cómo has podido aguantar tanto?
+## Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Aries. Ahora brillas así que, aprovecha. Aprovecha todo.
 
-No tengas la menor duda de que la vida hará pagar por todas las malas acciones a quien las cometa, por eso tú preocúpate por hacer el bien a los demás y recibirás una gran recompensa. Párate a pensar si ahora eres feliz, mírate hacia dentro y piensa si para cerrar el ciclo que a veces te atormenta necesitas hablar con alguien, con alguna persona especial… Nada volverá a ser lo mismo Aries, pero a veces, para que nuestra mente descanse en paz de verdad lo mejor es sacar lo que quizás tenemos dentro y nos costó tanto tiempo decir. Es probable que no sea el momento, eres Aries y muy a menudo, cuando tienes que decir algo en el instante que deberías no lo dices, por miedo, por vergüenza, por lo que sea, y otras veces, cuando lo mejor es estar callado, sueltas cualquier burrada que hace que al final te acabes por sentir mal. Las cosas por ahora no van a cambiar mucho, pero tu estado de ánimo sí, y ya no tu estado, si no esa inseguridad que se ha ido forjando en ti este tiempo atrás, esa sensación a veces, como de pérdida… Ahora necesitas centrarte en cosas que te mantengan ocupada la mente, aunque suene un poco mal decirlo, no pensar demasiado en nada, ni en todo, simplemente fluir con lo que venga, con lo que pase, sin buscar, sin forzar. Será una racha, un tiempo en el que quizás te sientas como vacío, a veces incluso un poco fuera de lugar, como si los sentimientos de repente se hubieran entrelazado y lo mismo amas que odias, lo mismo quieres ser el más feliz del mundo que quieres echarte a llorar como un niño. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
-La actividad lunar del inicio de semana puede ser excelente para todo tipo de celebraciones y eventos sociales. Si organizas una fiesta, tal podría ser todo lo que esperabas - y más. Mientras tanto, el enfoque cambia a tu sector de estilo de vida y bienestar, animándote a pensar en tus hábitos y cómo contribuyen a tu bienestar en general. Hacerle cambios a tu dieta y rutina de ejercicio podría ser la clave para sentirte con más energía y optimismo del que has sentido en mucho tiempo.
+Hay cosas que no se pueden cambiar Aries, y de verdad, no merece estar toda la vida luchando por ello, por intentar abrir los ojos al resto, por tratar de cambiar opiniones para mejor… Y menos cuando al final eres tú el que gasta tiempo para nada. Hay gente que no quiere abrir los ojos Aries, hay gente que le importa una mierd* el mundo. Y está bien, es respetable, pero aléjate de ellos. Porque personas así no aportan nada, porque roban energía, porque no tienen aspiraciones, porque no motivan al resto. Porque no te motivan a ti. Mira por ti ahora, se tu prioridad, se el número uno en todo lo que hagas, y si el resto quiere estar a tu lado está bien, que esté, pero no te desvivas por nadie como lo has hecho hasta ahora. Deja de castigarte por lo que está fuera de tu control, hay cosas que no se pueden cambiar, así que, no inviertas tanto tiempo en eso. Todos tenemos una historia Aries pero recuérdate que hay más de una elección, no hace falta que te quedes siempre con una cosa, no hace falta aferrarte como has hecho hasta ahora. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
+Tus sentimientos pueden validarse cuando una discusión con alguien en quien confías permite que sientas que te escuchan y comprenden. El lunes, una encantadora alineación puede ser un momento excelente para hablar sobre un problema y, tal vez, beneficiarte de cualquier consejo. El sol ingresa a tu signo el martes, lo que significa que las próximas cuatro semanas podrían encontrarte dando grandes pasos con tus planes personales. Sin embargo, ve con cuidado a partir de jueves, porque el conversador Mercurio se vuelve retrógrado en tu signo. Ten cuidado con respecto a la posibilidad de confusos mensajes.
 
 ## Dinero
 
-Eres como una pantalla en la que otros pueden proyectar sus esperanzas, temores, logros y mucho más. Esto te permite el tener muchas caras. Así que si quieres un mejor trabajo o una mejor posición en la cadena alimenticia, actúa como si ya estuvieras en esa posición. Los aspectos te ayudarán a manifestar los cambios financieros que quieres ver en tu vida y a ahorrar para el futuro.
+Tu lugar de trabajo está lleno de acción con ciertos cambios que vienen desde arriba. Algunos de estos son de rutina, mientras que otros parecen positivamente revolucionarios. En lugar de instalarte en la necedad, trata de seguirle la corriente al flujo de la energía dominante. Podrías percatarte de que personalmente puedes beneficiarte en el plano financiero. Esto, a su vez, te da acceso a todo tipo de información que puede ayudarte a mejorar tu vida profesional.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 18 de septiembre 2023 al 24 de septiembre 2023 
-description: Horóscopo semanal escorpio 18 de septiembre 2023 al 24 de septiembre 2023. No te mereces poco Escorpio… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas…
+title: escorpio 25 de septiembre 2023 al 01 de octubre 2023 
+description: Horóscopo semanal escorpio 25 de septiembre 2023 al 01 de octubre 2023. No es que estés cambiando Escorpio, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2023-09-18
+ogimg: /images/zodiac/semanal_escorpio.png#2023-09-25
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-09-18'
+ lastmod: '2023-09-25'
 ---
 
 
 
-## No te mereces poco Escorpio… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas…
+## No es que estés cambiando Escorpio, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
 
-Vamos Escorpio, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. Aprovecha tu vida Escorpio, aprovéchala ahora más que nunca. Se vive mejor sin esperara nada de nadie Escorpio pero el problema es que, aunque la teoría te la sepas, la práctica te falla un poco. Vuelves a confiar cuando pasa un tiempo, y si no a confiar, al menos das otra oportunidad, das el 100% de ti aunque presumas de frío. Sí, quizás seas frío después, pero estás ahí. Siempre. Y eso no es del todo sano para ti porque no dejas tiempo para que los demás se arrepientan de lo que han hecho y tampoco te das tiempo tú para saber realmente qué es lo que quieres. Y vuelves al bucle. Otra vez. Deja de obsesionarte por lo complicado, en realidad, tú eres muy así, las cosas como son, pero de verdad que sabes que no te trae nada bueno, céntrate en ti y en tus proyectos, en tus metas, ahora más que nunca necesitas esa fuerza y esa fe para que las cosas salgan como realmente quieres. Lo demás tiene que ser pasajero, lo demás probablemente entrará y saldrá de tu vida, pero el que se queda eres tú, así que, aprovecha tu talento ante todo, tus ganas de hacer las cosas bien. Tienes que empezar a dar de ti lo que tu recibes de los demás Escorpio. Así, tal cual.
-Esta parece una semana con un rápido ritmo en la que deberías esperar lo inesperado. Mientras que una positiva sorpresa podría mejorar tu estado de ánimo, ten cuidado cuando te encuentres en conversaciones importantes. Si terminas enojándote y molestándote en lugar de mantener la calma, podrías terminar perdiendo una amistad en el proceso. Y a pesar de que pueden solucionarlo, podría tomar tiempo para que puedan confiar el uno en el otro de nuevo. Sin embargo, moverte hacia nuevos círculos podría valer la pena.
+Necesitas amor Escorpio, necesitas cariño de verdad, sentirte querido al 100% porque en el fondo eso, es lo que te hace más feliz. Y no es solamente amor de pareja no, es el hecho de sentirte valorado por los que te importan, es sentirte cuidado, mimado y protegido. Es normal que hayas tenido altibajos enormes, tienes mucho peso que cargas a tu espalda y por eso lo que menos quieres es que por las inseguridades de otras personas, tu vida se acabe saturando de verdad. Busca ese amor en quien pueda y quiera dártelo, sin complicar más tu existencia. Necesitas tus momentos de desconexión con el mundo pero te arrimas a algunas personas que en vez de darte paz cuando más la necesitas te la siguen quitando. Respira hondo y no hagas un drama por ello, simplemente aléjate un poco, deja que la mierda se quede con la mierda pero sal de ahí cuanto antes. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece. Tarde o temprano sabrán que perder a Escorpio es perder algo grande e irremplazable. Y no te enfades ni te piques, todo menos eso, todo menos entrar en juegos de los que al final te cuesta mucho salir.
+Tu vida social puede tener alguna chispa adicional durante las próximas semanas, cuando amenas influencias te llevan a conectar de nuevas formas. Quizás ya hayas hecho un par de amistades nuevas cuando Marte movilizó tus ganas de unirte a grupos o clubs que coinciden con tus intereses clave. Pero un aspecto más incómodo el 28 de septiembre sugiere que es mejor manejarte con flexibilidad y obstinación con respecto a una antigua amistad, que podría estar tomando tu actitud de forma un poco demasiado personal.
 
 ## Dinero
 
-Esta semana podría ser considerada como un cese al fuego. Los aspectos en tu casa de vidas pasadas, sueños y karma estresan la importancia del ser amable con los demás. ¿Recuerdas los modales que te enseño mamá? También recuerda que atraes más abejas con miel. Todo mejorará con el tiempo, ten paciencia.
+Estás fomentando la confianza en ti mismo/a y acelerando el gasto alrededor de la familia, el romance, la creatividad y la diversión. Tu interés se despierta en términos del aprendizaje de nuevas habilidades que se pueden aplicar a tu potencial de ingresos. Dado que los aspectos son favorables para ganar dinero y seguridad, estás operando desde una posición de fuerza. Lucha no sólo por disfrutar de tu vida a través del gasto, sino también para invertir lo que puedas para asegurarte de que tu estabilidad se dé a largo plazo.

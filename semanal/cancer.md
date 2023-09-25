@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 18 de septiembre 2023 al 24 de septiembre 2023 
-description: Horóscopo semanal cancer 18 de septiembre 2023 al 24 de septiembre 2023. Vamos Cáncer, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
+title: cancer 25 de septiembre 2023 al 01 de octubre 2023 
+description: Horóscopo semanal cancer 25 de septiembre 2023 al 01 de octubre 2023. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2023-09-18
+ogimg: /images/zodiac/semanal_cancer.png#2023-09-25
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-09-18'
+ lastmod: '2023-09-25'
 ---
 
 
 
-## Vamos Cáncer, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
+## Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
 
-El mundo puede esperar Cáncer, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir… No paras, tu mente no para ni un momento y al final como no eches el freno te acabará pasando factura. Relájate Cáncer, disfruta de los pequeños momentos que la vida te da, de esos momentos que no cuestan tanto pero que valen mucho y sobretodo piensa que todo llega pero que no hay que forzar las situaciones. Todo se acaba colocando en el lugar que debe estar. Necesitas descansar un poco pero no puedes estar aquí queriendo estar allí porque así ni descansas ni nada. Vas a empezar un proyecto muy bueno y va a suponer un cambio muy grande en tu vida pero debes estar centrado al 100% y no tener la cabeza en otras cosas así que, por ahora, trata de disfrutarte un poco, trata de relajarte y de hacer las cosas con calma pero sin parar. Y pasa de los jueguecitos mentales esta vez, al final esa clase de personas sólo quieren sacarte de tu camino. Sé más inteligente que ellos y en vez de la impulsividad utiliza el sentido común. No te aportan nada.
-Las tensiones que pudieran haberte estado plagando durante las últimas semanas ya deberían de haber disminuido para ahora. Con un enfoque positivo en tu sector de relaciones, este puede ser un momento excelente para aclarar las cosas mediante una sincera charla. Al socializar más, es posible que sientas inspiración para unirte a un grupo o probar una actividad que nunca has intentado antes. El enlace entre Venus, Saturno y Urano en tu sector de actividad podía verte cerrando un contrato muy lucrativo. Sin embargo, tendrás que actuar rápidamente.
+Vives tanto con tantísima intensidad que a veces te olvidas de la realidad, de lo que aún tienes pendiente, de lo que necesitas conseguir y sobretodo de lo que necesitas cerrar y zanjar. Y es que Cáncer, cuando las cosas empiezan a ir un poquito mejor se te olvida todo lo malo por lo que has pasado, por lo que te han hecho pasar. Y estás bien, porque así es como vives el presente, el minuto, el momento, pero a la vez si después viene otra golpe, vuelve a doler. Lo que pasa es que ya no duele igual, ya duele menos, porque te insensibilizas, y eso en realidad no es del todo bueno. Es como si lo esperaras, como si ya supieras que después de una discusión vendrá una reconciliación, con todo, con la gente que está a tu alrededor, con tu vida. Y todo se repite, una y otra vez, y no sales de ese círculo, y lo que antes te rompía el corazón ya no te rompe, porque sabes lo que vendrá después, y así todo el tiempo. Y eso se llama conformismo Cáncer. ¿Hace cuanto no te paras a pensar solo si realmente eres feliz con lo que tienes? En la vida puedes estar contento con muchas cosas que no van mal a tu alrededor, pero también tienes que saber cuáles son las que van mal para cambiarlas. Porque aunque no lo creas, una manzana podrida en el cesto puede pudrir las demás si no se saca a tiempo. Y es que, tienes que hacer una limpia en tu vida, no puedes pensar que “bueno, en la vida hay cosas buenas y cosas malas”, claro que es así, pero ahí estás tu para poder cambiar las malas. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Cáncer.
+Tus relaciones podrían ser un tanto tensas al principio de la semana, lo que podría poner un poco de distancia entre tú y cierta persona. Puede que te sientas mejor acerca de cierta situación si es que tienen una charla de corazón a corazón. Mercurio entrando a Cáncer a mitad de semana podría ser buen momento para aclarar la situación, aunque puede que requiera algo de coraje hacerlo. En cuanto a finanzas compartidas se refiere, oportunidades para excelentes ofertas comerciales podrían surgir, así como el potencial de ganar dinero extra.
 
 ## Dinero
 
-Esta semana tu sector de labor te trae todo tipo de elogios en el trabajo. Los de arriba están notando tu trabajo y quieren verte tener éxito. Se te alienta a hablar de tus metas personales y de tu visión para la empresa en conjunto. Tus esfuerzos son muy apreciados. Van a ser recompensados económicamente y con más beneficios.
+Esta semana es sobre la comunicación y tu sector de empleo. Las cosas son propensas a dejar de romperse, lo que hará más fácil tu trabajo, pero el dinero se ve afectado también. ¿Has tenido demasiada timidez como para pedir lo que vales? Busca una abertura para demostrar el valor que aportas a la empresa. A continuación, solicita una reunión y haz valer tu caso, el éxito sigue.
