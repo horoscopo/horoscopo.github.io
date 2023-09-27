@@ -9,20 +9,20 @@ keywords: horóscopo octubre, horoscopos en español, horóscopo Sagitario octub
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/sagitario_mes.png#2023-09-25
+ogimg: /images/mes/sagitario_mes.png#2023-09-27
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-09-25'
+ lastmod: '2023-09-27'
 ---
 
 
- > Sagitario, este mes tu constancia y capacidad de trabajo serán valorados por los demás. Aprovecha hasta mitad de septiembre para dejar tus cosas en orden. Tómate tu tiempo si lo necesitas, tu regente Saturno estará en buena configuración con el benéfico Júpiter. Esto te permitirá expandir tus proyectos con la estructura necesaria y dejar espacio para disfrutar de tus relaciones.
+ > Sagitario, empiezas el mes con tu regente recién ingresado a Aries, lo que marca un nuevo ciclo para ti en tu creatividad, en tus relaciones y en tus afectos. Te volverás mucho más expansiva y no tendrás miedo de ser tú la que des el primer paso para que las cosas sucedan. Aprovecha este tránsito porque te dará una energía que no podías imaginar.
 
 
 
-Este podría ser un mes intrigante para ti, estimable Sagitario, ya que la actividad solar hace brillar su luz en el sector de tu carta astral que rige los secretos, lo que revela información que se encontraba oculta. Incluso la más sutil de las pistas podría resolver un misterio con el que estabas lidiando, por lo que debes asegurarte de seguir cualquier hilo que despierte tu interés o intuición. Estos sentimientos podrían ser particularmente pronunciados cuando el sol se une al increíble Urano el 5 de septiembre. Esta unión podría dar como resultado repentinos momentos de claridad.
-Mercurio, tu planeta regente, se vuelve retrógrado mientras transita por tu signo el día 10, lo que con seguridad hará que te sientas fuera de tus cabales. Pon atención a los niveles bajos de energía, neblina mental, problemas de comunicación, errores y torpeza ahora que el universo te inunda de depresión cósmica. Por suerte, esta energía te dará también la oportunidad de reflexionar, lo que te posibilitará atar algunos cabos sueltos en tu vida privada.
-El sol entra a libra el 23 de septiembre, y te pide que aproveches la alegría en todas sus formas. Con esta actividad solar, este es el momento ideal para expresar gratitud y considerar tus metas mientras le pides al universo un poco de ayuda para concretarlos. El universo podría estar de ánimo para bendecirte durante la nueva llena el día 30. Esto te da la oportunidad perfecta para establecer algunas intenciones personales que hagan que tu imagen evolucione y se vuelva más refinada.
-Días destacados: 21, 22, 29
-Días desafiantes: 3, 4, 14
+Si algo de distancia o algunas barreras se han aparecido en tus relaciones, comenzarán a desaparecer este mes mientras el sol en Piscis ilumina el sector de tu carta astral que rige el amor. Este poderoso período astrológico puede ayudarte a restablecer y fortalecer tus lazos amorosos, mientras tú y tu pareja se funden el uno con el otro.
+Esta energía también puede hacer te parezcan atractivas situaciones que podrían no ser buenas para ti, por lo tanto, intenta no caer en una fantasía. Pon atención a las señales de alarma, pero si la dinámica parece ser saludable y genuina, siente la libertad de dejar tus inhibiciones de lado. Si en este momento no tienes pareja, este clima cósmico te permite practicar un poco de radical amor propio, lo que te da la oportunidad de aceptar y adorar por completo la persona que eres.
+El Eclipse Solar Anual de octubre, estimable Sagitario, te da una oportunidad para que te transformes y te vuelvas mejor. Una útil conexión con Plutón apoya cualquier misión que requiera el uso de tu poder personal, por lo tanto, no sientas culpa al momento de hacer valer tu autoridad. Podrías tener que poner a alguien en su lugar, en especial si en el pasado ha intimidado o intentado socavar tu confianza. La primavera emerge el día 20 del mes cuando el sol ingresa al apasionado Aries, lo que trae consigo la motivación y el impulso para complementar las vibras transformadoras de la luna llena, Hay cambios en el horizonte, y tienes que sincerarte contigo sobre a quién o qué necesitas proteger. Intenta recordar que lo que sea que hagas te allanará el camino hacia mejores y más brillantes oportunidades, en especial cuando se trata de tus aspiraciones profesionales y tu vida amorosa.
+Días destacados: 9, 23, 31
+Días desafiantes: 5, 16, 17

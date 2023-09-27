@@ -9,16 +9,16 @@ keywords: horóscopo octubre, horoscopos en español, horóscopo Virgo octubre ,
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/virgo_mes.png#2023-09-25
+ogimg: /images/mes/virgo_mes.png#2023-09-27
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-09-25'
+ lastmod: '2023-09-27'
 ---
 
 
- > Virgo, más vale que tengas las pilas cargadas durante este mes de septiembre, pues vivirás un período muy intenso y repleto de actividad. La amistad estará muy presente, tanto que, si no tienes pareja, puede que surja la pasión de entre tu círculo más cercano de conocidos.
+ > Virgo, octubre llega para advertirte de que vas a ver con muchos cambios, la mayoría para bien, siempre y cuando tomes las decisiones correctas, lo que te dará una energía extra para enfrentar los desafíos que se presentarán. Intenta equilibrar la necesidad que sentirás de imponer tu voluntad con lo que también necesitan los demás. Aunque vivas atascos, si de verdad lo quieres, puedes cambiar el curso de las cosas antes de fin de año.
 
 
 
-Cuando Mercurio se torne directo el 3 de septiembre, estarás en una mejor posición y en mucha mejor forma para tener ambición en tu trabajo. Cuida bien de tu persona alrededor de la Luna Nueva del 15 de septiembre. Si una amistad de más edad que tú te fastidia con esto, no te ofendas. Más personas se preocupan por ti de lo que te das cuenta. Deja que alguien te mime y entretenga. Además, tus amistades disfrutan de tu compañía. Este mes es todo tuyo para que seas el centro de atención. Puede que haya demasiadas personas a tu alrededor, y tal vez sientas un poco de desconexión, pero todo se desmoronará si no estás ahí.
+Puede que el mundo imaginario sea más grande y más fascinante que la realidad física a la luz de la actividad lunar del 6 de octubre. Afortunadamente, las demandas del mundo real en tu vida de hogar y familia te pondrán los pies en la tierra. No sientas resentimiento porque te saquen de tu mundo de fantasías. Ten curiosidad y atrévete a pensar de forma original durante el eclipse lunar 14 de octubre. Habla con todas las personas que conozcas y ve qué tienen para ofrecer. Tú tienes mucho para retribuir también. Sé más audaz y ve en busca de nuevos intereses y lugares. El 28 de octubre, la luna llena y el sol dan lugar a un Eclipse Lunar Parcial. Las personas tendrán problemas para decir lo que piensan. 

@@ -7,6 +7,6 @@ ogimg: /images/mensual.png
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: 2023-09-25
+ lastmod: 2023-09-27
 ---
 ¿Quieres saber como sera tu mes? Enterate que tienen los astros preparado para vos y organiza tu mes según tu horóscopo mensual gratis. Elejí tu signo mas abajo y podrás conocer como es tu horóscopo del mes.

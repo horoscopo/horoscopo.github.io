@@ -7,17 +7,16 @@ home: FALSE
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/Aries_mes.png#2023-09-25
+ogimg: /images/mes/Aries_mes.png#2023-09-27
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-09-25'
+ lastmod: '2023-09-27'
 ---
 
 
-Venus entra a Virgo el 9 de septiembre. Vestirte más informalmente puede ser la nueva forma de vestirte elegante. El romance podría volverse menos formal y también menos ostentoso. Las interacciones con amistades y familiares deberían ser suaves como la seda, y también divertidas, durante la luna nueva y el eclipse solar del día 12. Prepárate para todas las emociones agradables que aparecen en tu camino. 
+La vida social recibe un gran impulso de la actividad lunar. Todos los clubes y grupos no oficiales planearán la suficiente actividades para mantener tu agenda ocupada. No necesitas organizar o incluso asistir a cada una de ellas, pero tal vez sientas la obligación de ir. Tómatelo con calma, y disfruta. Mercurio se torna estacionario directo también ese día. No dejes que las comunicaciones sin resolver sigan complicando tus relaciones.
 
-La luna llena del 29 de septiembre podrían traer a la superficie varios asuntos domésticos que ahora pueden ser resueltos o mejorados. En lugar de verlos como conflictos, aprovecha esta oportunidad de resolver y arreglar las cosas. 
+El sol forma un trígono con Urano el 17 de octubre. Sorpréndete, y siéntete a gusto en un evento festivo lleno de gente y ruido. Tal vez no seas capaz de ir más despacio durante el eclipse solar del día 15, pero puedes hacer una pausa, y enfocarte en detalles importantes de tu rutina diaria. Lava los trastes, riega las orquídeas, y asegúrate de que aunque algo quede sin hacer, las cosas importantes estén cubiertas. Siente todas las virtudes que tienes. 
 
-Días destacados: 11, 13, 15
-Días desafiantes: 24, 27</div>
+La luna forma un trígono con Urano el 26 de octubre. Un comentario o gesto inesperado puede enriquecer una situación agradable aún más. 

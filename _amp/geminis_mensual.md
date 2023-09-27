@@ -7,12 +7,12 @@ home: FALSE
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Géminis_mes.png#2023-09-25
+ogimg: /images/mes/Géminis_mes.png#2023-09-27
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-09-25'
+ lastmod: '2023-09-27'
 ---
 
 
-Tanto amigos como vecinos estarán a tu lado para compartir buenos momentos durante la primera semana del mes. La reciente luna llena calienta los corazones. Esto incluye miembros de tu familia que podrían haber estado manteniendo su distancia o manteniendo en secreto sus opiniones. Sal a explorar el mundo bajo el Eclipse de Luna nueva del 15 de septiembre, cuando tu ancla se encontrará bien amarrada a tu hogar. No hay nada de qué preocuparte. Simplemente, llama a algunos amigos y salgan a probar un nuevo restaurante o a una excursión a un lugar nuevo. Los asuntos familiares se suavizan una vez más bajo la Luna llena del 29 de septiembre. La armonía y el arte formarán parte de la agenda de esos días.
+Acude a un lugar especial o comienza a estudiar algo nuevo y emocionante alrededor de la actividad lunar del 8 de octubre. Si la idea o el tema es lo suficientemente grande, no tendrás que ir muy lejos. El mundo está listo para venir hacia ti. Prepárate. En tu trabajo, un asunto o misterio podría ser aclarado bajo el eclipse solar del 15 de octubre. Si hay algo que no te satisface profesionalmente, serás capaz de resolverlo, ya sea en parte, o en su totalidad. La oportunidad de encontrar un nuevo trabajo también se ve favorecida ahora. Mantente alerta y tu ambición encendida. El 26 de octubre pone un sorprendente amor en tu camino gracias al suave sextil entre Mercurio y Urano que puede aliviar cualquier posible aburrimiento o sentimiento de obsoleta diversión.

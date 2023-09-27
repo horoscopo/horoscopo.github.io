@@ -7,18 +7,15 @@ home: FALSE
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Escorpio_mes.png#2023-09-25
+ogimg: /images/mes/Escorpio_mes.png#2023-09-27
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-09-25'
+ lastmod: '2023-09-27'
 ---
 
 
-El universo te llevará a que hagas una seria purga este mes, estimable Escorpio, ya que tres planetas se abren paso a través del transformador Escorpión y el sector de tu carta astral que rige la muerte y el renacimiento. Utiliza esta energía para alejarte de personas y situaciones que te han estado deteniendo mientras te comprometes con quienes te apoyan y elevan.
-Mientras tanto, Marte, tu planeta regente, se encuentra en medio de su viaje retrógrado a través de Géminis y te pide que reflexiones sobre las acciones que te han traído hasta este punto. Reconocer y superar patrones de comportamiento poco saludables será una gran lección para ti ahora, en especial el 11 de septiembre, por lo que es importante que eches un compasivo pero honesto vistazo a tu propia persona.
-Por suerte, sacarás provecho del amor y la atención adicional que recibes por parte del universo, comenzando desde que el dulce Venus entra a Sagitario y al sector espiritual de tu carta astral el día 15. Esta ubicación planetaria puede ayudarte a encontrar la luz al final de cualquier túnel oscuro que puedas encontrarte en tu camino, aunque necesitarás actuar de forma proactiva para encontrar gratitud y abrir tu corazón a la felicidad.
-Los mantras positivos serán de particular ayuda una vez que Mercurio entra al signo del Arquero el 17 de septiembre, y querrás tener los ojos bien abiertos en busca de signos y sincronicidades. El universo estará dispuesto a comunicarse contigo y a guiarte.
-Estos sentimientos se verán amplificados cuando la temporada de Sagitario empieza el día 22, lo que revitaliza tu optimismo, sensación de paz y conexión con el universo.
-Días destacados: 5, 6, 28
-Días desafiantes: 18, 19, 30
+La conjunción entre el sol y Mercurio el 1 de octubre libera tu intuición. Con el eclipse solar del día 15, tendrás todas las respuestas para los problemas ajenos. Deja que pregunten primero. Tal vez no te involucres en los asuntos de nadie, pero igual puedes aprender mucho si observas y escuchas. Además, Mercurio se torna directo ese día. Aclara cualquier malentendido. El eclipse lunar del 29 de octubre trae amistades y gente del vecindario a tu lado. Tal vez piensas que no necesitas ayuda, pero todos la necesitan en realidad, de alguna forma u otra. A veces la aceptación es la mejor manera de dar. Sé una persona amable y agradecida. 
+
+Días destacados: 1, 14, 24
+Días desafiantes: 4, 20

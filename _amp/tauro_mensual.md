@@ -7,12 +7,12 @@ home: FALSE
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/mes/Tauro_mes.png#2023-09-25
+ogimg: /images/mes/Tauro_mes.png#2023-09-27
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-09-25'
+ lastmod: '2023-09-27'
 ---
 
 
-Prepárate para iniciar un mes de fiestas a partir de la reciente luna llena. Bien puedes bajarle de tono a tu propia participación, pero grupos de amigos e invitaciones seguirán llegando. Encárgate de tus asuntos cotidianos y después decide si quieres salir o no. Compórtate valiente y creativamente bajo la Luna nueva del 15 de septiembre. Tu vida diaria podría mantener tu tiempo demasiado ocupado, sin embargo, no te descuides a ti. El tratar de ser feliz y hacer lo que te dicte tu corazón no es algo egoísta. Venus entra a Libra el 29 de septiembre, aumentando enormemente tus habilidades sociales y talentos diplomáticos. Momento ideal para películas, música, salidas culturales y romance.
+Deja que tu niño interior salga a jugar bajo la actividad lunar 9 de octubre. Inspírate y diviértete más haciendo algo ordinario de la forma más extraordinaria. Todo niño sabe que, muchas veces, ciertas cosas que son puestas al revés son en realidad verdades disfrazadas. El eclipse solar anular del 15 de octubre te da más autoridad de la que esperabas. Alrededor del eclipse lunar del 28 de octubre, podrías tener muchísimas tareas e involucrarte en la vida de manera introvertida. Si has observado un cambio en una relación o romance, tómate todo el tiempo que sea necesario para comprenderlo y hacer que las cosas funcionen a tu favor.

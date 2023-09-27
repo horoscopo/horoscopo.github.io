@@ -9,20 +9,22 @@ keywords: horóscopo octubre, horoscopos en español, horóscopo Capricornio oct
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/capricornio_mes.png#2023-09-25
+ogimg: /images/mes/capricornio_mes.png#2023-09-27
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-09-25'
+ lastmod: '2023-09-27'
 ---
 
 
- > Capricornio, este mes con la actividad solar de tu lado notarás que todo tu ser brilla con luz propia. Será el momento de que te atiendas de una vez por todas. Tus recursos y tus finanzas mejorarán gracias al tránsito de Venus en tu casa de la economía a lo largo del mes, y te darán un subidón de confianza en ti misma que podrás utilizar para conseguir tus metas.
+ > Capricornio, la palabra amor estará presente en todo momento durante el mes de octubre. Te van a surgir admiradores por todas partes, quizás demasiados y podrás elegir a tu gusto. Tu capacidad de seducción hará que seas el centro de atención en todo momento.
 
 
 
-Prepárate para un mes ajetreado, Capricornio, ya que la actividad solar brilla sobre tu casa 6 y llena tu calendario de muchas actividades. A medida que pasa cada día, aparecerán más y más obligaciones profesionales o sociales, por lo que es importante que encuentres maneras de mantener el equilibrio y la resistencia. Implementar una rutina saludable de alimentación, sueño y ejercicio puede ayudarte a mantener tu cuerpo en marcha, en especial cuando tu agenda no cede. Aunque tienes una condición física como ninguna otra, deberías asegurarte de marcar algunas fechas para el autocuidado, o podrías terminar descuidando tus propias necesidades y topándote con una pared.
-Por suerte, no te perderás en un frenesí de actividades durante todo el mes. El 21 de septiembre marca el principio del verano y te da permiso para recuperar tu armonía personal. El romance también podría estar entre tus cartas en este momento, aunque tendrás que mantener el corazón abierto y aceptar el amor. Si actualmente estás en pareja, puedes esperar más afecto y conexión emocional, aunque es posible que tengas que dar el primer paso en esta dirección. Las Cabras solteras pueden contar con mucho coqueteo, pero intenta no esconder demasiado tus sentimientos si alguien empieza a gustarte de verdad.
-El 29, la luna llena puede ayudarte a cerrar el mes con una energía sentimental mientras el Universo busca maneras de nutrir tu corazón y tu alma. Acepta el amor en todas sus formas en este día, en especial cuando se trata de apreciarte tal cual eres. Date permiso para pasar esta noche en casa donde puedes liberar tus inhibiciones y dejar entrar a otras personas con más facilidad.
-Días destacados: 8, 10, 16
-Días desafiantes: 3, 5, 25
+Venus se torna retrógrado el 5 de octubre. El amor se torna más serio y quizás un poco más frío, pero el verdadero afecto y devoción no desaparecerán. Puedes volver a evaluar la relación ahora. 
+Para la actividad lunar del día 8, sal de la casa y ten más actividad social. Este no es momento para jugar a ser una persona ermitaña, y de todos modos no es algo natural para ti. Socializa con una multitud más grande, y tal vez haz alguna influyente amistad. 
+La luna forma una conjunción con Júpiter el 11 de octubre. Algo pequeño puede salir como deseas, y luego acabar siendo algo grande. 
+Sé una persona hogareña durante el eclipse del día 28, sin dejar de tener mucha interacción social. Comunícate con más personas a distancia. Si has estado socializando demasiado, tómate un descanso y retoma tu rumbo. 
+Mercurio entra a Sagitario el 30 de octubre. Piensa en cosas más grandes, y comunícate con más gente. Crece mentalmente, y aprende muchas cosas. 
+Días destacados: 3, 16, 29
+Días desafiantes: 19, 26

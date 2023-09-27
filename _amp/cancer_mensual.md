@@ -7,17 +7,12 @@ home: FALSE
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/Cáncer_mes.png#2023-09-25
+ogimg: /images/mes/Cáncer_mes.png#2023-09-27
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-09-25'
+ lastmod: '2023-09-27'
 ---
 
 
-Está bien si necesitas dar un paso atrás de tu familia y amistades por la primera mitad del mes, estimable Cáncer, ya que un ejército de cuerpos celestes atraviesa tu doceava casa solar. Estas vibras te piden que inviertas en un momento de tranquilidad e introspección, para así poder ganar un entendimiento más claro de tu propio ser y de tus relaciones. Solo trata de no alejarte por completo de las personas que se interesan en ti, si no empezarán a preocuparse por tu bienestar.
-Júpiter, tu planeta regente, comparte un favorable aspecto con el revolucionario Urano el 17 de septiembre, lo que te da la posibilidad de hacer unos rápidos e importantes cambios. El sol ingresa a Libra el 23, lo que te trae un respiro luego del altibajo emocional que fue la temporada de Acuario.
-Las buenas vibras continuarán fluyendo, ya que un gran trino de tierra entre la luna, el nodo norte y Plutón se manifiesta en el cielo el 18, y esto te inspira a tomar el control de tu destino. Sin embargo, aquí está el truco: necesitarás mudar de piel, lo que requerirá dejar ir situaciones tóxicas o patrones de comportamiento.
-El 24 de septiembre trae sanadoras vibras a tu vida profesional cuando Venus se une a tu actual planeta regente, Neptuno. Si no te sientes feliz o con motivación en tu profesión, deberías comenzar a explorar otras opciones dentro o fuera de tu actual empresa. Esta energía también tiene matices espirituales, que pueden inspirarte a decorar tu lugar de trabajo con cristales o, quizás, con un difusor aromático.
-Días destacados: 2, 21, 22
-Días desafiantes: 11, 18, 24
+La actividad lunar del 8 de octubre emana su brillo directamente sobre ti y cómo quieres presentarte hacia los demás. Puede que estés recibiendo todo tipo de sugerencias, comentarios y consejos; algunos de ellos bastante confidenciales. Decide cuánta popularidad o qué tanto atractivo es importante para ti, más sele fiel a tu personalidad sin importar qué pase. Tu situación monetaria, riqueza material y quizás algunos regalos son destacados por el eclipse Solar anular el 14 de octubre. Lo más probable es que sean muchos pequeños aumentos o gestos en lugar de ganancias gigantes e inesperadas. No esperar nada y mostrar generosidad te atraerá más. Al final del mes, el Eclipse Lunar parcial del 28 de octubre, pudiendo confundir tus intenciones con deseos y sueños.   
