@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 29 de septiembre 2023
-description: Horóscopos del dia de hoy 29 de septiembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 30 de septiembre 2023
+description: Horóscopos del dia de hoy 30 de septiembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-09-29
+ lastmod: 2023-09-30
 ---
-Ves miles de cosas a tu alrededor bajo la repentina iluminación del Eclipse Lunar de hoy. A medida que el Sol conjunta a Mercurio, todos se quieren poner a trabajar para producir algo inmediatamente. Tu agenda es lo primero. Esta noche, la Luna en Libra estimula el deseo de compartir y mientras más te acercas a alguien, más sentimientos reprimidos salen a la superficie.
+Podría parecer como si todo el mundo tuviera una opinión o consejo cuando Mercurio aspecta a Plutón. Lástima que la mayoría fallen al hacer caso omiso de sus propias sugerencias. Ten tacto. ¿Alguien sobrepasó los límites de la amistad? La respuesta a eso, o por lo menos una pista, podría surgir cuando la Luna aspecte a Urano esta noche.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
