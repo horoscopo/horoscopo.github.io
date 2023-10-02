@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 25 de septiembre 2023 al 01 de octubre 2023 
-description: Horóscopo semanal sagitario 25 de septiembre 2023 al 01 de octubre 2023. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
+title: sagitario 02 de octubre 2023 al 08 de octubre 2023 
+description: Horóscopo semanal sagitario 02 de octubre 2023 al 08 de octubre 2023. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2023-09-25
+ogimg: /images/zodiac/semanal_sagitario.png#2023-10-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-09-25'
+ lastmod: '2023-10-02'
 ---
 
 
 
-## Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
+## Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
 
-Llega una buenísima semana Sagitario pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada. Tienes que trabajar duro ahora, tienes que empezar a sacar cada uno de los proyectos que tienes en tu cabeza, terminarlos de una vez o empezarlos. Pero ya. En serio, tienes un potencial impresionante y con un poco que te pongas las pilas conseguirás lo que de verdad siempre has querido. Todo irá bien Sagitario, eres joven, te sientes joven, si en algún momento pareces inseguro o perdido no te preocupes, es parte del camino, pero no tires la toalla por nada del mundo ahora. Tómate un respiro, escápate unos días si puedes, y desconecta para volver con más fuerzas, pero una vez que estás centrado en algo no te salgas del camino por nada del mundo. Cuando le pones todas las fuerzas del mundo siempre lo consigues así que, pónselas a todo. Toma el control de tu destino, cree en ti mismo otra vez, ignora a todos esos que tratan de desalentarte, que te desaniman, que se cruzan en tu vida sólo por el hecho de querer molestar, evita la negatividad a toda costa. Todo llega en el momento adecuado Sagitario, y a ti te va tocando ya. Tú y tú y más tú. Pelea por lo que es tuyo Sagitario, pelea por lo que te mereces.
-Si bien a simple vista pareces tener confianza, en el fondo tus sentimientos son muy distintos. Con Júpiter en un sector tranquilo de tu carta alineándose con Plutón en tu sector de comunicaciones, puede que no quieras escuchar a tu intuición, incluso si te habla fuerte y claro. Pero puede que debas hacerlo si necesitas resolver un problema muy personal. El traslado de Venus a tu sector de amistades sugiere que hablar sobre el asunto con una amistad cercana podría darte la confianza que necesitas para hacer lo correcto.
+Nadie se cura por herir a otro Sagitario. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que, a menudo pesa más de la cuenta, pero todo pasa, y todo llega. A muchos se les hace complicado entender por qué le das tantas vueltas a todo, por qué sufres momentos de ansiedad que parecen no calmarse con nada, por qué puedes llegar a ser tan autodestructivo con tus propios pensamientos… No olvidas nada, ese es el problema a veces, y también la virtud en otros momentos. Y es duro para el resto sí, pero más duro es para ti. Tienes que canalizar todo eso y llevarlo hacia lo productivo, mandar toda esa energía hacia lo que te hace feliz. Las traiciones están ahí, y no todo el mundo es como tú, no todo el mundo valora la sinceridad como tú lo haces, no todos tienen tu coraje… Debes aprenderlo para no caer en los mismos errores una y otra vez, y sobretodo para no hacerte daño.
+La semana tiene un placentero comienzo, ya que las amistades y los socios probablemente estarán en contacto. Disfruta de la compañía de una persona especial o de un interés romántico. Las oportunidades de romance están allí para que las aproveches. Debido a que el conversador Mercurio sigue retrógrado, trata de no tener demasiadas expectativas. Si puedes, es mejor ir con la corriente. Cuando el dinámico Marte ingresa a un sector más privado de tu carta, podrías descubrir que tus sueños son más vívidos y que tal vez valga la pena tenerlos en cuenta.
 
 ## Dinero
 
-La atención de esta semana se centra en las relaciones conforme el Universo trae todo tipo de personas de tu pasado de regreso a tu vida. Si éstas no hacen una aparición personal, podría estar en tus pensamientos. ¿Qué has aprendido desde la última vez que aparecieron en tu vida? ¿Has cambiado o sigues igual? Ciertos aspectos indican que puedes estar pensando en maneras más creativas de ganar dinero, tal vez mediante el uso de un hobby.
+Tu sector de dinero se destaca esta semana. La forma en la que ves el dinero en tu vida entra en cuestión, así como la sabiduría de tus planes monetarios más recientes. Este es el momento de cuestionar todo - incluso lo que decidiste que fue bueno hace unos meses. Alentar las señales del Universo se relacionan con tu capacidad de obtener ingresos, mientras que los detalles de cualquier noticia negativa se suavizan. Estás en el camino correcto en ambos sentidos.

@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 25 de septiembre 2023 al 01 de octubre 2023 
-description: Horóscopo semanal capricornio 25 de septiembre 2023 al 01 de octubre 2023. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
+title: capricornio 02 de octubre 2023 al 08 de octubre 2023 
+description: Horóscopo semanal capricornio 02 de octubre 2023 al 08 de octubre 2023. Esta semana relájate un poco Capricornio, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2023-09-25
+ogimg: /images/zodiac/semanal_capricornio.png#2023-10-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-09-25'
+ lastmod: '2023-10-02'
 ---
 
 
 
-## Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
+## Esta semana relájate un poco Capricornio, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
 
-Hay gente que no respeta que puedas crecer Capricornio, hay gente que no entiende que a veces tengas que mirar por ti mismo antes que por los demás. Ya has pasado demasiado ¿no crees? No puedes estancarte con nada ni con nadie. Ahora es el momento en el que debes tomar decisiones y quien de verdad quiera estar a tu lado puede seguirte. Ya no quieres estar detrás de nadie anteponiendo siempre sus vidas a la tuya, sus metas a tus objetivos, ya estás cansado de ir detrás del mundo. Es ahora el mundo quien debe, si quiere, ir detrás de ti. Llegan buenos tiempo para los Capricornio pero tienes que ser positivo. Todo lo que hagas hoy te repercutirá mañana, cada paso, cada peldaño que subas, cada decisión que tomes. Es importante que tengas todo claro y que cuando te enfoques en algo pelees por ser el mejor. Todo lo que des lo vas a atraer, si tu ambiente es positivo atraerás lo positivo, y ahora debe ser así. Y si surge algún pensamiento negativo trata de esquivarlo como sea, y si no puedes hacerlo, impulsa tu ego y llénate de piropos y de cosas positivas, no puedes dejar que lo negativo domine tu vida, tienes que tomar el control. Crece Capricornio, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
-Una preciosa conexión entre Venus y Marte sugiere una interacción positiva con un amigo o tal vez un nuevo romance. Podrías sentir atracción hacia alguien simplemente porque la persona es interesante y tiene muchas historias que compartir. Si estás considerando pedir un aumento o hacerle frente a cuestiones relacionadas con el pago de un proyecto, espera hasta la próxima semana. Analiza los detalles, pero también tienta que tan firme es la tierra. Otra (posiblemente mejor) oferta podría llegarte.
+No pienses tanto por favor Capricornio, claro que saldrá bien, claro que deberías arriesgar por tus metas, claro que es lo que quieres. Eres Capricornio por favor, a pesar de que por tu cabeza puedan pasar un sinfín de locuras, y de las buenas, sabes lo que haces, sabes que si te paras a pensar más de dos días seguidos algo es que hay que hacer algo para cambiarlo, para bien o para mal. O sea, ves a por todas. 
+ cultivar para luego recoger una buena cosecha y no dejarte abatir ni decaer por ninguna situación que se cruce en el camino.
+Una cascada de cordialidad hace de la semana por delante una delicia. Lograrás buen progreso si logras apartarte de enredos familiares y errores profesionales al dejar que se solucionen por sí solos. A mitad de semana, un encuentro en un evento social podría coincidir con una oportunidad que es demasiado buena para dejarla pasar. También descubrirás lo mucho que tienes en común con ciertas personas, lo que podría dar lugar a colaboración dentro de un plan. Este es buen momento para sanar cualquier malentendido y restablecer la paz.
 
 ## Dinero
 
-Esta semana, los planetas están cambiando la manera en la que otros te ven, lo cual es positivo a largo plazo. Pero, dado a que en la actualidad afecta a tu carrera y tu vida hogareña, lo mejor es acudir a tus relaciones serias en busca de asistencia. Aquellos que pueden sostenerse en medio de una tormenta son aquellos que deseas mantener cerca.
+Estás pasando por una etapa de echar raíces nuevas. Estás pensando en dónde quieres estar en los próximos cinco o diez años en el futuro. Si tu trabajo no está funcionando para ti, las inversiones o la propiedad que posees con al menos una persona podrían ser una respuesta. Vende lo que no sea necesario para financiar este movimiento y te lleve a donde quieras estar.

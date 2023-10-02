@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 25 de septiembre 2023 al 01 de octubre 2023 
-description: Horóscopo semanal geminis 25 de septiembre 2023 al 01 de octubre 2023. No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
+title: geminis 02 de octubre 2023 al 08 de octubre 2023 
+description: Horóscopo semanal geminis 02 de octubre 2023 al 08 de octubre 2023. Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2023-09-25
+ogimg: /images/zodiac/semanal_geminis.png#2023-10-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-09-25'
+ lastmod: '2023-10-02'
 ---
 
 
 
-## No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
+## Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
 
-A veces amas demasiado Géminis, a veces das mucho de ti, tanto que te quedas sin nada para ti mismo. Y cuando regalas todo de ti es porque probablemente quieres que los demás se sientan completos, enteros. Es cierto que te encanta ayudar Géminis, sabes que estás siempre para quien te necesita, te falta el tiempo, pero el problema también es que te olvidas de ti. Sacas una fuerza inquebrantable mientras levantas a los demás y eso te hace sentir bien, pero tú te quedas sin fuerzas después. Géminis, tienes que replantearte muchas cosas, tienes que replantearte por qué tienes tanto que dar pero después te da miedo salir de tu mundo y expresar lo que sientes, por qué te da miedo apostar por algo o alguien que merece la pena, por qué te cuesta dar esos pasos personales todo el tiempo. Géminis, no ocultes más lágrimas, no te sientas solo aunque estés rodeado de personas, no te preguntes más cuando será tu turno, tu turno para encontrar el amor verdadero, para encontrar tu camino, para cambiar de trabajo, para lo que sea… Olvídate de todo eso y cambia, de dentro a afuera, y no te lamentes, y no te encabrones. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas… Sólo mira a los ojos Géminis, y siente… Feliz semana…
-Continuarás disfrutando de una alegre vida social, con oportunidades para romance, diversión y relajación. Una vez que el Sol entre a Géminis el viernes, vas a entrar a una fase de cuatro semanas en la que te beneficiarás de invertir parte de tu tiempo en ti. Utiliza las semanas por delante para hacerte una limpieza espiritual con el fin de liberar asuntos y a personas que ya no tienen ningún propósito en tu vida - y recargar tus pilas, por supuesto. Aún te divertirás, pero tal vez sea de una manera un poco más discreta.
+No arriesgues, no apuestes si no es victoria segura, es un consejo. Si tienes algo claro ve a por ello a muerte pero si dudas no pelees ni luches, al menos por ahora. Has perdido muchas fuerzas en otros asuntos y lo que menos te conviene es seguir perdiéndola en cosas en las que no sabes si vas a ganar. Ha llegado el momento en el que debes hacerte valorar más. El pasado te ha creado esa inseguridad que a veces tienes a la hora de tomar decisiones, y sí, antes quizá pensabas todo demasiado pero ahora estás en modo “lo tiro todo por la ventana”. Cuidado Géminis, cuidado porque los cambios no pueden ser radicales, no tienes la fuerza necesaria ahora para andar arriesgando tontamente y sólo porque en el momento te apetezca. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
+Puede que te encuentres más en armonía con tus sentimientos a partir del martes, cuando el planeta del habla y el pensamiento entra a tu sector espiritual. La presencia del expresivo Mercurio aquí puede animarte a explorar emociones que han estado debajo de la superficie durante algún tiempo. Si trabajas en ellas, podrías sentirte mucho mejor con tu persona. 
+La actividad lunar en tu sector social del miércoles podría encontrarte aprovechando oportunidades para unirte a grupos o conectar con determinadas personas. Puede que sientas el impulso de unirte a un proyecto comunitario que resulta muy gratificante. También el miércoles, el ingreso del encantador Venus a Leo y a tu sector de comunicación podría facilitar la negociación o discusión de temas difíciles. Puedes lograr mucho si haces uso de las diplomáticas cualidades de este planeta. Sin embargo, ten cuidado el viernes, ya que el animado Mercurio se opone al ejemplar Saturno en tu sector de trabajo. Podrías resistirte a una tarea que se debe hacer.
 
 ## Dinero
 
-Para ti este período se trata de cachar ofertas y de tomar ventaja de las nuevas oportunidades para ganar más dinero. Los aspectos afectan al sector de dinero y valores, indicando un tiempo de crecimiento en ese sector. Eres una fuente de ideas ahora, así que asegúrate de escribirlas para no perder de vista un flujo de ingresos futuros. Si sientes agobio, ponlas en práctica de una en una.
+Esta semana es acerca de visibilidad. Si te has sentido invisible en los últimos meses, definitivamente te encuentras a la vista ahora. Los demás no pueden dejar de escuchar todo lo que dices y respetar tus opiniones. Esto es especialmente cierto dado que los aspectos están afectando a tus redes sociales. Parece que todo el mundo sabe acerca del buen trabajo que haces. Agasájales con historias de tus recientes payasadas y futuros planes. El dinero es una cosa segura.
