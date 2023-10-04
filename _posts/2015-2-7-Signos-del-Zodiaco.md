@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 03 de octubre 2023
-description: Horóscopos del dia de hoy 03 de octubre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 04 de octubre 2023
+description: Horóscopos del dia de hoy 04 de octubre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-10-03
+ lastmod: 2023-10-04
 ---
-Mantén tu paz mental en la cara del caos mientras la Luna en Piscis cuadre a Marte el día de hoy. Ten en cuenta que las respuestas pueden ser tanto muy emocionales, como visibles. Esta noche, no le digas a alguien que le amas, o incluso que te gusta, a menos que realmente sea cierto. Las emociones de la gente siguen siendo volátiles.
+Hoy comienza un trígono entre Júpiter y Plutón que abre un mundo de posibilidades en los próximos diez días. Prepárate para asombrarte. Si no tienes pareja, podrías conocer a esa persona especial que va a cambiar todo mientras el Sol se oponga a Urano esta noche. La vida se acelera después de esa introducción.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
