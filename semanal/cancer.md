@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 02 de octubre 2023 al 08 de octubre 2023 
-description: Horóscopo semanal cancer 02 de octubre 2023 al 08 de octubre 2023. No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
+title: cancer 09 de octubre 2023 al 15 de octubre 2023 
+description: Horóscopo semanal cancer 09 de octubre 2023 al 15 de octubre 2023. Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2023-10-02
+ogimg: /images/zodiac/semanal_cancer.png#2023-10-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-10-02'
+ lastmod: '2023-10-09'
 ---
 
 
 
-## No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
+## Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
 
-No te conformes con poco Cáncer, no te conformes con cualquier cosa, con cualquier trabajo, con cualquier amor… Estás aquí para hacer las cosas a lo grande, para sentir fuerte, profundo, para lograr esas metas que llevas teniendo en tu mente desde hace tanto… En serio, ponte las pilas, dale caña, echa las horas que tengas que echar pero ve a por todas, en cualquier sentido en tu vida… Nunca hay un momento perfecto para empezar, siempre hay algo que pasa y que descoloca todo, una u otra cosa, pero tienes que aprender a pasar de toda esa basura, tienes que aprender a tener autocontrol y a entender que el mundo sigue girando pase lo que pase y el tiempo también sigue corriendo… Y no hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Cáncer, abre las puertas y ciao. No tienes que mantener nada, no tienes que obligar a quien quiere irse. Esta semana vas a tener varios momentos así, varios momentos en los que no sabrás si debes luchar o si debes permanecer quieto… Lucha si merece la pena pero no ruegues, no vayas detrás de nadie, lucha por lo que es tuyo sí, pero no entres en el juego cuando traten de manipularte. Tienes cosas muy importantes por hacer, mucho más importantes que estar esperando a alguien o que estar dándole vueltas a la cabeza a algo que sólo te roba tiempo ahora.
-Esta semana, trata de evitar conflictos siempre que te sea posible. La Luna del martes podría destacar ciertos problemas familiares entre tú y tu pareja. Si puedes lograr llegar a un compromiso, todo te será mucho más fácil. Lo mismo ocurre con cualquier otro tema que resurja más adelante en la semana. Puede que te resulte más fácil catalogar tus sentimientos una vez que Mercurio entre a Piscis el sábado, haciendo de este un buen momento para una charla de corazón a corazón. También querrás eliminar el desorden en tu hogar, sobre todo a partir del sábado.
+Controla tus impulsos y sobretodo tus nervios e intenta evitar conflictos con las personas cercanas a ti. No saldrá nada bien. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. Cuenta hasta diez antes de saltar con alguna mala palabra, piénsalo dos veces antes de estropearlo. Resiste la tentación de crear un conflicto. Diplomacia y pies de plomo Cáncer. Siempre la has tenido pero claro, todo el mundo tiene sus límites. Define tus prioridades y no acumules, es importante que lo tengas claro, si acumulas lo único que puede pasar es que explotes, y además que salpique a todos, sin excepción, porque el día que Cáncer estalla, nadie se salva.
+La actividad lunar preparandose para el eclipse solar en Capricornio podría llevar tus sentimientos a un punto crítico, por lo que piensa antes de hacer o decir cualquier cosa en el calor del momento. También considera aligerar tu horario y darte la oportunidad de ir con la corriente. Tu situación financiera se vislumbra optimista, con la probabilidad de una buena noticia poniendo una sonrisa en tu rostro. Los asuntos de negocios parecen prosperar, sobre todo si te le adelantas a cualquier novedad. En cuanto a relaciones se refiere, lo mejor es decir la verdad y evitar malentendidos.
 
 ## Dinero
 
-Esta semana, el Universo no sólo trae un montón de comunicación, sino también una gran cantidad de trabajo. No te sorprendas si tu semana se repleta de formularios, archivos y tareas similares. Dado que también afecta a tu sector de instituciones, estás consolidando un viejo sueño, aunque no sea fácil de obtener. Terminarás por apreciar incluso hasta lo que parece más aburrido, repetitivo, tedioso, o simplemente molesto.
+Estás mejorando tu vida financiera haciendo grandes avances en tu carrera. Estás cambiando la forma en que haces tu trabajo y haciendo planes para el futuro. Si deseas avanzar con rapidez en este ámbito, date como voluntario/a para representar más a tu organización. Al dar discursos y presentaciones, vences el miedo a hablar en público y avanzas en tu propia causa. Tu ambición no puede ser igualada. Crea heno mientras el Sol brilla.

@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 02 de octubre 2023 al 08 de octubre 2023 
-description: Horóscopo semanal acuario 02 de octubre 2023 al 08 de octubre 2023. Estás a tope Acuario, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
+title: acuario 09 de octubre 2023 al 15 de octubre 2023 
+description: Horóscopo semanal acuario 09 de octubre 2023 al 15 de octubre 2023. La vida es un ciclo Acuario, y tienes que estar preparado para lo que venga. Algunas personas se cruzan en tu camino y cambian toda tu dirección, ahora bien, debes valorar si es eso lo que te interesa ahora. No te quedes con lo malo conocido.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2023-10-02
+ogimg: /images/zodiac/semanal_acuario.png#2023-10-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-10-02'
+ lastmod: '2023-10-09'
 ---
 
 
 
-## Estás a tope Acuario, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
+## La vida es un ciclo Acuario, y tienes que estar preparado para lo que venga. Algunas personas se cruzan en tu camino y cambian toda tu dirección, ahora bien, debes valorar si es eso lo que te interesa ahora. No te quedes con lo malo conocido.
 
-A veces dejar ir las cosas es mucho más complicado de lo que piensas Acuario. No vas a encontrar el momento definitivo nunca, no vas a cerrar la puerta de golpe y creer que ya lo tienes superado. Así nada termina bien. Quieres tener seguridad Acuario, y te aferras deprisa a las cosas pero si miras a tu alrededor sabes que hay piezas que no encajan en el puzzle, que a veces incluso todo parece un teatro, que estás dejando pasar algo en lo que no crees. Pero no querrás dejar ir tan fácilmente, piensas que si lo mantienes todavía lo tienes, que si lo mantienes, todavía existe. Y claro que existe pero no como antes y no como quieres Acuario. Si hay cosas que fallan repara la grietas o trata de hacerlo, pero no pienses que se podrán reparar solas. Si tienes que plantar cara y dejar sobre la mesa cuáles son tus intenciones y lo que esperas, hazlo. Está bien que creas que muchas cosas van perfectamente pero Acuario, sabes de sobra que no van tan perfectamente, que hay que arreglar mucho. En serio Acuario, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo? No te ates tanto, no te creas que el mundo es como tú lo ves en un momento dado. Acuario, la realidad no es la que tú quieres pintar ahora. Hay promesas rotas y futuros que no se van a dar, pero cuando te des cuenta no te pongas triste, mírate al espejo y sonríe, sonríe por ser quien eres. Y si tienes que llorar que sea por ti mismo, y de emoción, por darte cuenta de todo, por ser valiente.
-La semana por delante devela muchas oportunidades para conectarse con los demás y disfrutar de la vida en general. Tendrás muchas ocupaciones que te mantienen en actividad, ya sea en relación con asuntos comerciales, la venta de tus bienes o servicios, o la relación con amistades y vecinos. Al mismo tiempo, podría haber cuestiones hogareñas y familiares en la agenda, en especial si organizas una reunión o te estás preparando para recibir invitados. 
-El Miercoles podría traer especiales oportunidades, en las que algunos encuentros sean muy útiles y los demás demuestren su costado generoso. Si alguien te hace una oferta, lo más probable es que sea buena. Podrías tener problemas con el equilibrio entre el trabajo y tu vida, y que alguien de la familia sienta frustración por tus planes. Quizás lo mejor sea hablar sobre esto en lugar de que te afecte. Pero el fin de semana podría ser mucho más placentero, ya que las reuniones ocuparán gran parte de los dos días.
+A veces sientes como si no avanzaras Acuario, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente. Las cosas de palacio van despacio ¿ok? Así que no desesperes. Estás en una de esas etapas en las que lo quieres todo ya, aquí y ahora, que lo malo pase pronto y que lo bueno se quede en tu vida por mucho tiempo pero date eso, TIEMPO. Esta semana tendrás momentos de mucho estrés emocional, hay cosas que no están solucionadas del todo pero todo llega, y antes de lo que esperabas… Deja de preocuparte por los fallos que ya se cometieron y empieza a darle importancia a las oportunidades que puedes dejar escapar si no reaccionas a tiempo y si no reaccionas bien. Prueba Acuario, prueba todo lo que puedas y más, no hace falta querer tener una vida perfecta, lo suyo es tener una vida FELIZ. El hecho de que puedas dejar muchas cosas atrás no es malo, porque otras muchas llegan, pero no fuerces la situación ni esperes que todo cambie de un día para otro. Tienes que trabajártelo, tienes que ir paso a paso y pensar que no tienes una buena o mala vida, si no sólo una vida, y que está en ti hacerla buena o mala. Ánimo Acuario, feliz semana.
+Las cuestiones laborales y de estilo de vida continúan manteniendo tu tiempo ocupado esta semana, especialmente si recientemente adoptaste la práctica de un nuevo deporte o decidiste ponerte en forma y perder peso. Te ayudaría perseverar, a pesar de que es posible que lo encuentres difícil en las próximas semanas. Si logras comenzar vigorosamente, tendrás propensión a alcanzar tus metas. La presencia de Mercurio en Virgo podría favorecer una conexión con alguien que tenga buenos consejos para ti.
 
 ## Dinero
 
-Esta semana es acerca de cierta tensión afectando tanto tu vida hogareña, como tus sentimientos interiores más profundos. Es posible que se te esté pidiendo llegar a ser muy responsable en ambas áreas. Si te has atrasado en tu hipoteca o alquiler, tal no permanecerá oculto más. La mejor opción es comprometerse a hacer los pagos y la búsqueda de un acuerdo que funcione para ambas partes mediante la negociación paciente. Mientras más proactivo/a seas, mejores serán los resultados.
+Es un momento difícil para ti. El cielo es el límite cuando se trata de tu sector de sentimientos internos. Si has estado anhelando un descanso de la oficina, trabajar desde tu hogar puede proporcionar la paz y la tranquilidad que necesitas para alcanzar un nivel aún más productivo. ¿Quién sabe? Puede que encuentres la manera de que esto funcione con tus jefes a largo plazo.

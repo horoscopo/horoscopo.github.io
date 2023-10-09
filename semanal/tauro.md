@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 02 de octubre 2023 al 08 de octubre 2023 
-description: Horóscopo semanal tauro 02 de octubre 2023 al 08 de octubre 2023. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Tauro porque no eres así. 
+title: tauro 09 de octubre 2023 al 15 de octubre 2023 
+description: Horóscopo semanal tauro 09 de octubre 2023 al 15 de octubre 2023. De verdad Tauro, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2023-10-02
+ogimg: /images/zodiac/semanal_tauro.png#2023-10-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-10-02'
+ lastmod: '2023-10-09'
 ---
 
 
 
-## Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Tauro porque no eres así. 
+## De verdad Tauro, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
 
-Nunca te has arrepentido de nada Tauro, para bien o para mal la vida te ha dado lecciones en las que no te ha quedado más remedio que aprender. Estás en una fase en la que tus pensamientos se vuelven a pelear entre ellos. Lo que deberías hacer, lo que quieres hacer, lo que el mundo espera que hagas… Otra vez. Piensa antes de nada en lo que vas a perder antes de actuar y de tomar una decisión, pero tampoco busques hasta la más mínima excusa para no hacerlo. A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos Tauro. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad. Métete en la cabeza que puedes hacer absolutamente todo lo que te propongas solo, sin necesidad de que nadie te nuble el juicio, sin necesidad de que nadie te vuelva loco. La vida va a empezar a enseñarte quien merece la pena, quién no merece que se acerque a ti más de cinco minutos al día y quien no merece que se acerque nunca. Pero primero eres tú, en eso es en lo que tienes que trabajar más, en valorarte a ti mismo, en confiar en ti, en tus instintos, en tus objetivos, en saber que lo que hagas saldrá bien, de verdad. Tú no necesitas ejemplos de nadie, cada uno vive su vida como le apetece y si a alguien no le salieron las cosas como esperaba no significa que a ti no te vayan a salir, deja el miedo a un lado y sobretodo la dependencia emocional. Aunque sea una dependencia mínima. Vuelve a ser la persona que siempre has sido.
-Puede que algunas fuertes situaciones hagan salir a la luz ciertos sentimientos, pero con el actual enfoque en Cáncer, puede que sientas todo de manera muy intensa. Debido a que el énfasis también se encuentra en tu sector de hogar y familia, es posible que haya algunas peleas y discusiones. Puede que sientas el impulso de reaccionar a la defensiva cuando en realidad lo mejor sería hablar para encontrar una solución; a pesar de que te incomode hacerlo. Tal vez descubras que las demás personas expresan sus sentimientos una vez que tú das el primer paso.
+Siempre habrá cosas y personas que nos hagan dudar de todo, que nos hagan replantearnos si vamos por el bueno camino, o si no tuvimos que dejar eso que dejamos atrás… 
+ aunque el corazón te insista en que hagas muchas cosas que luego pueden traerte quebraderos de cabeza intensos.
+La presencia de Marte en tu signo puede indicar que sientes más inquietud de lo normal. Esto puede significar que buscas emociones y oportunidades para explorar nuevas ideas. Lo mismo sucede con las relaciones. Es decir, sientes atracción por personas que tienen ideas originales. Lo mismo de siempre puede ser aburrido a menos que encuentres una forma de volverlo interesante. Cuando encuentres una idea que te emocione, la llevarás a cabo hasta el final.
 
 ## Dinero
 
-Puede que te encuentres expandiendo un negocio establecido desde tu casa en este momento debido a un afortunado aspecto en esta área de tu carta. Si es necesario, convierte una habitación extra en una oficina para que puedas cerrarle la puerta a tu trabajo al final del día. Cierto aspecto ahora te da todo lo que necesitas y mucho más para poner en marcha un nuevo negocio si quieres más libertad en tu vida laboral o para llevar una ya existente a un nivel superior.
+Para ti, esta semana es sobre la necesidad imperiosa de comunicar tu experiencia al escribir, enviar mensajes de texto, enviar correos electrónicos o para hablar. Todos estos esfuerzos pueden dar dinero en efectivo en el futuro. Pero esta semana, un fuerte campo de energía requiere que cuides de los problemas en el trabajo. Tu trabajo puede estar pasando por enormes cambios ahora. El luchar contra ellos, o decidir abandonar el barco no dará los resultados que buscas. Ve con los cambios lo mejor que puedas.

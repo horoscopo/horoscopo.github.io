@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: piscis 02 de octubre 2023 al 08 de octubre 2023 
-description: Horóscopo semanal piscis 02 de octubre 2023 al 08 de octubre 2023. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
+title: piscis 09 de octubre 2023 al 15 de octubre 2023 
+description: Horóscopo semanal piscis 09 de octubre 2023 al 15 de octubre 2023. Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies Piscis, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres Piscis, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2023-10-02
+ogimg: /images/zodiac/semanal_piscis.png#2023-10-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-10-02'
+ lastmod: '2023-10-09'
 ---
 
 
 
-## Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
+## Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies Piscis, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres Piscis, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
 
-No sueles dar la llave de tu corazón a nadie Piscis, pero si hay personas que la tienen, y de hecho esas personas son las únicas que pueden desbloquearlo, que pueden ver el fondo de lo que hay, tu esencia, tu alma. Pero esta semana vas a cambiar la cerradura, porque te apetece, porque ahora quieres estar seguro de a quien se la quieres dar, porque quieres empezar de cero muchas cosas. Y no cambiará tu esencia Piscis, porque la esencia es la misma, lo que cambiará será el poder que vas a tener, el poder que van a tener otros sobre ti. Esta semana preocúpate de hacer las cosas bien. Hay mucha responsabilidad y mucho en juego. Vas a sentirte bien por las decisiones que vas a tomar, vas a sentir que vuelves a tomar el timón de tu vida como antes. No te preocupes porque algo no salga, te esperan cosas mejores. No te pongas nervioso cuando te digan que no puedes, que no tienes el valor suficiente o la capacidad para hacerlo. Puedes con todo, y a aunque tengas que ir en contra de todo, si has tomado la decisión, que sea hasta el final. Vas a tener que volverte invisible para algunas personas si de verdad quieres ir hacia delante. Feliz semana Piscis.
-Hay un enfoque bastante intenso en tu sector de comunicación, lo que sugiere que podrías tener una gran determinación de avanzar con tus planes actuales. Aun así, cuando el vital Marte se fusiona con el prudente Saturno al comienzo de la semana, podrías encontrarte con un obstáculo. Esto no significa que debas abandonar tu proyecto, sino que deberías considerar dar un paso hacia atrás. Si sumas algunos ajustes y consejos de expertos, podrías estar nuevamente en camino muy pronto. 
-La manera en que conectas con los demás también puede ser muy apasionada. Durante la semana, puede que haya algunas personas a las que tu enfoque les resulte demasiado exigente. Quizá prefieran que disminuyas un poco la exigencia y que, en general, te relajes más. Tomarte el tiempo para entender su perspectiva puede conducir a un positivo avance, en especial el fin de semana. Además, el encantador Venus en tu sector de relaciones puede mejorar tu vida social en gran medida.
+A veces te confundes Piscis, y este es uno de esos momentos. No es que no sepas lo que quieres, es que no sabes realmente si es lo que más te conviene, si es en realidad lo que debes hacer. Es algo así como sentirte perdido, tienes en tu cabeza muchas ideas por hacer, muchas situaciones que crear, pero no puedes averiguar cómo hacerlas, cómo sacarlas adelante. Frena un momento, no corras antes de andar. Admite que no todo va tan bien como tú creías, admite que quizás te equivocaste a la hora de tomar algunas decisiones que te han llevado a estar donde estás, encuentra el por qué de eso Piscis. Y cuando lo veas, comprende que debes dejar ir, tómate un momento, respira profundamente y empieza a curarte de verdad. Piscis, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más. Si lo estás viendo venir no dejes que entre, no des oportunidad a lo que sabes de sobra que saldrá mal. Tómate esta semana por y para ti, de verdad que necesitas un descanso, un respiro, salir de esa zona de mala vibra y despejarte. Puedes con todo Piscis, está claro, pero, ¿merece la pena pelear por ello? Piensa fríamente, y no te dejes guiar por la pasión, utiliza esta vez la cabeza.
+Esta semana, puede que sientas el impulso de unirte a un grupo con inclinaciones filosóficas o espirituales; si lo haces, podrías beneficiarte mucho. Tal vez sientas afinidad por un profesor o instructor de vida que puede ayudarte a vivir a tu máximo potencial o que te inspira de tal manera que sientes la necesidad de adoptar nuevas creencias. Hacerlo podría abrirte nuevos caminos. 
+La conexión del jovial Júpiter con el nebuloso Neptuno estará presente durante esta semana y también puede tener potencial romántico. Una persona que conoces en un evento, un curso, una reunión o un taller podría ser tu alma gemela y atraer tu interés por la temática que les unió en principio. 
+Por último, podrías pasar más tiempo por tu cuenta, a menos que alguien se comunique contigo y te anime a salir a comer o a conversar.
 
 ## Dinero
 
-Podrías sentir el deseo de poner algo en marcha esta semana. Tus habilidades de comunicación están aumentando, mostrando que podrás salir adelante a través del solicitar fuerte y claramente a quienes te rodean. Pide lo que quieres en el trabajo y en tu vida monetaria y podrás conseguirlo. Aunque también deberías saber que las cosas podrían ponerse tensas, así que es mejor mantenerse limpios kármicamente hablando. No seas malo/a o utilices tus palabras para herir a los demás.
+Es una semana de dificultades conforme ciertos aspectos facilitan las cosas en tu sector de trabajo (esta es la buena noticia), pero las dificultan en otras áreas (la mala noticia). Se te está empujando a acceder a tu intuición en los asuntos de dinero y negocios y considerar trabajar para una institución más grande. Podrías recibir más dinero si piensas en grande.

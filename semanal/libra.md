@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: libra 02 de octubre 2023 al 08 de octubre 2023 
-description: Horóscopo semanal libra 02 de octubre 2023 al 08 de octubre 2023. Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
+title: libra 09 de octubre 2023 al 15 de octubre 2023 
+description: Horóscopo semanal libra 09 de octubre 2023 al 15 de octubre 2023. Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2023-10-02
+ogimg: /images/zodiac/semanal_libra.png#2023-10-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-10-02'
+ lastmod: '2023-10-09'
 ---
 
 
 
-## Estás gastando demasiada energía en tratar de controlar situaciones incontrolables, en tratar de remediar cosas que no tienen remedio por ahora. Y mientras, te preguntas si vas por el camino correcto. Recuerda que cuando el camino es el adecuado no te preguntas tantas cosas…
+## Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
 
-Te crees que eres débil Libra, a veces te menosprecias demasiado, más de lo que deberías, te crees que no llegas, que no puedes, te crees que quizás se te está yendo de las manos el tiempo que estás tardando en curarte de viejas heridas, piensas que ya tenía que tener superado mucho, pero no… Todo tiene su tiempo, no quieras comerte el mundo en un minuto porque seguro que lo escupes al minuto siguiente. Vas a tardar en ser “normal” otra vez, porque tienes sentimientos Libra, porque las cosas te duelen, porque vas a tardar en recuperarte del todo… Pero eh, que saldrás de cualquier cosas, que tu te pones las pilas y te mentalizas y trepas hasta de lo más profundo. Esta semana dedícate a mimar algunas relaciones que tienes cerca y que, por tener tu mente en otro lugar, estás descuidando. Y quiérete un poco más, y piensa que los bajones son normales, y más cuando estás en un proceso de duelo, de superar algunas cosas y de cambiar otras de forma radical. Nadie sabe estar de un minuto a otro sin parte de su vida anterior Libra… Tómate un tiempo Libra, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
-Mercurio continúa retrógrado en tu sector de hogar y familia, por lo que tendrás una gran oportunidad para eliminar el desorden, trabajar en proyectos domésticos y redecorar. Sin embargo, evitar iniciar un gran proyecto de remodelación por el momento. Planea, pero espera hasta que Mercurio comience a avanzar una vez más, el 4 de octubre, antes de seguir adelante. Hay buenas noticias en el campo del romance con Júpiter entrando a Libra el viernes. Realmente estarás en tu elemento con esta positiva influencia mejorando tu confianza y alegría de vivir durante toda la semana.
+No vas a decir no a nada, ¿para qué? Que la vida te haya fallado mucho no significa que lo vaya a hacer más veces, o siempre. Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta. Es como cuando crees que un tema está totalmente cerrado pero en el fondo de tu alma te gustaría que estuviera un poco abierto, sólo para poder asomarte a ver qué es lo que pasa, y de repente sin que tu lo quieras se empieza a abrir, y no porque tú lo hayas buscado si no porque te ha buscado a ti. Y claro, no sabes si esto es bueno o malo, porque no lo esperabas. Pues Libra, todo pasa por alguna razón, de verdad, quizás tienes un objetivo en la vida de otros ahora, quizás necesitas enseñarles o hacerles la vida más fácil, servirles de complemento y que ellos te complementen a ti. A veces hay que estar con esas personas sólo para disfrutarlas, sin más. Sin compromisos, conociéndolas, escucharlas sin implicarte en nada… ser más contemplativos, más frívolos, sin pensar por qué estás ahí ahora o qué pasaría si no estuvieras. Piénsalo así, sin darle más vueltas a todo. Si la puerta se está abriendo es por algo, y en tu mano está volverla a cerrar de golpe o mirar un poco, a ver qué intenciones hay. Todo pasa por una razón, y claro que asusta, pero en el fondo, ¿no es un poco lo que querías? La diferencia es que el paso ahora, no lo has dado tú, si no que simplemente te ha llegado. Prueba a ver, no digas que no y no digas que nunca, porque nunca se sabe…
+A pesar de que podrías estar feliz de disfrutar de más tiempo libre y más opciones sociales, también es posible que anheles una experiencia más profunda. Si es así, parece que tu deseo podría serte concedido esta semana. Un potente enfoque en tu sector de transformación alude a una decisión que podría tener importantes consecuencias y llevar tu vida hacia un nuevo nivel. Incluso podría sentirse como un renacimiento. Mantén tu guardia en alto contra aquellos que utilizan el dinero como una forma de manipularte. ¡Mantente firme!
 
 ## Dinero
 
-Tienes una semana monetaria interesante por delante. Esto puede ser extremadamente afortunado, así que mantén los ojos bien abiertos para todo tipo de nuevas oportunidades de ganar y recibir el dinero que ya se encuentre en camino. El Universo afecta la forma en la que actualmente estás pagando tu pendiente deuda. Un ritmo lento pero constante gana la carrera en todo momento.
+Esta semana es acerca de tus relaciones y te hace mucho más comunicativo/a sobre lo que necesitas. Te estableces ahora así con el fin de hacer que tus objetivos sean fuertes y claros. Estás cambiando las personas con las que pasas tiempo, y tales te están cambiando de una buena manera. Ganarás más dinero si tomas sus consejos en lugar de luchar contra ellos.

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 02 de octubre 2023 al 08 de octubre 2023 
-description: Horóscopo semanal virgo 02 de octubre 2023 al 08 de octubre 2023. Quita importancia a las cosas Virgo, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
+title: virgo 09 de octubre 2023 al 15 de octubre 2023 
+description: Horóscopo semanal virgo 09 de octubre 2023 al 15 de octubre 2023. Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2023-10-02
+ogimg: /images/zodiac/semanal_virgo.png#2023-10-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-10-02'
+ lastmod: '2023-10-09'
 ---
 
 
 
-## Quita importancia a las cosas Virgo, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
+## Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
 
-Después de todo lo que has pasado, pocas cosas son las que te asustan ahora. A ver Virgo, no es que hayas tenido una época fácil últimamente, eso está más que claro, y tienen que entender que cuando psicológicamente has sido decepcionado muchas veces, incluso destrozado, se comienzan a perder las ganas de todo. No es que te hayas cerrado en banda y no vayas a dar nada de ti, no es eso, es sólo que 
- hasta que empieces a sentir que realmente merece la pena.
-Aunque no lo quieres admitir, tal vez tengas ganas de asegurarte un primer lugar relacionado con una aspiración o jugada profesional. Esta semana, emocionantes influencias podrían llevarte a hacer una movida audaz, sea prudente o no. Además, con la actvidad Lunar del miércoles en un sector superior de tu carta astral, podrías encontrarte en el centro de atención. Por este motivo, ayuda estar consciente de tus decisiones y de cualquier posible consecuencia.
+Es probable que realices o cierres un gran proyecto esta semana, que firmes algún tipo de contrato, o que se acabe algún capítulo de tu vida que estabas deseando cerrar. Pero recuerda estar entero cuando esto pase. Nada de dudas porque si no, podría salir todo mal, podría quedarse en nada al final. 
+Tienes contacto con algunas personas aún que no deberías así que, empieza a limpiar un poco a gran parte de tus contactos. No te hacen del todo bien.
+Algo que parecía cierto la semana pasada podría ser decepcionante esta semana. Pero la perspectiva puede serlo todo, especialmente si tus planes mejor trazados están sufriendo retrasos. Para cada nube hay un rayo de esperanza, lo que se aplica a metas, proyectos e incluso reuniones. Repensar los detalles y ajustar las listas de invitados puede ser muy importante al marcar la diferencia entre el éxito y el fracaso. Para cuando llegue el final de la semana tendrás una idea bastante buena de lo que hay que cambiar. El domingo podría ser buen un día para consentirte.
 
 ## Dinero
 
-Tal vez tengas que revisar una y otra vez tu grado de comunicación. Algunas ideas pueden ser el punto de inicio para nuevos proyectos, pero habría la posibilidad de que el mensaje se quede a medias. El utilizar tu energía creativa para aprender otro idioma (el cuál posiblemente te serviría en el trabajo) o mejorar tu educación, podría hacer la diferencia.
+Esta semana se trata de equilibrar tu vida laboral con tu necesidad de estar con amigos, familiares y tu pareja. Los aspectos que afectan a la zona del gráfico que rigen los cónyuges, tutores, jefes y otros sindicatos importantes tirarán de tu energía en esta dirección, lo cuál podría requerir de casi todo tu tiempo. No hay problema. Sentirás tentación de gastar en romance, niños, familia y  diversión. Trata de equilibrar tu necesidad de ahorrar con tu necesidad de desahogarte.
