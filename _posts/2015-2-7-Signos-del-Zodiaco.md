@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 09 de octubre 2023
-description: Horóscopos del dia de hoy 09 de octubre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 10 de octubre 2023
+description: Horóscopos del dia de hoy 10 de octubre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-10-09
+ lastmod: 2023-10-10
 ---
-La bandera de advertencia es levantada conforme Marte aspecta a Urano, el planeta de lo inédito y lo desconocido. Algo salvaje está en el aire que podría disparar saltos cuánticos hoy, así que mantente alerta. Esta noche es el momento de cerrar el último capítulo y prepararte para el siguiente con Venus a punto de salir de Capricornio.
+Muchos prometen y pocos cumplen cuando Mercurio cuadra a Júpiter y los acuerdos no se apeguen a la verdad el día de hoy. Sin embargo, no todo el mundo reniega. Alguien mantiene una promesa importante (tal podrías incluso ser tú). Venus a punto de cambiar de signo marca un momento importante dentro de una relación. Esta noche, los patrones usuales prueban ser bastante obsoletos. ¡Los viejos hábitos son fáciles de romper!
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
