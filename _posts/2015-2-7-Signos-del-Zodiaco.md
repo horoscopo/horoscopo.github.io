@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 11 de octubre 2023
-description: Horóscopos del dia de hoy 11 de octubre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 12 de octubre 2023
+description: Horóscopos del dia de hoy 12 de octubre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-10-11
+ lastmod: 2023-10-12
 ---
-Espera lindas sonrisas y corazones cálidos mientras Venus conecte con Júpiter esta mañana. La Luna en Capricornio pone todo en estado de reservada discreción. Pero hoy, puedes confiar en tu intuición mientras el Sol forme trígono con el instintivo Neptuno. Además, tu alegre imaginación es un hermoso bono. Tu próxima tarea será consolidar tus ideas y darles sentido.
+Los poderosos temas de hoy incluyen la transición, la transformación y dejar de lado los valores antiguos con el fin de encontrarle a la vida un nuevo significado con el acelerado impulso. Esta noche, el compromiso no es el problema para los solteros. Es más bien mantenerlo mientras la Luna conjunta a Plutón. Pospón tu búsqueda de amor ahora que estás consciente de los efectos.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
