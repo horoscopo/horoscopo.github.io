@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 15 de octubre 2023
-description: Horóscopos del dia de hoy 15 de octubre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 16 de octubre 2023
+description: Horóscopos del dia de hoy 16 de octubre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-10-15
+ lastmod: 2023-10-16
 ---
-Con la Luna en Géminis oponiéndose a Saturno, te despiertas con un nuevo sentido de propósito, planes, e incluso un poco más de ambición. Las emociones son muy sensibles esta tarde. Un gran comienzo, pero, ¡¿de dónde proviene toda esta ira?! El magnetismo de esta noche despierta una gran cantidad de sensuales chispas.
+Hoy es un día para relajarse. Deja de lado las responsabilidades, déjate llevar y disfruta. Algo espontáneo ocurre cuando menos te lo esperas. Por la noche, continúa siendo libre bajo la que está a punto de ser Luna en Acuario, cuando el individualismo es la regla. Actúa acorde. Los solteros experimentan amistad y una sincera comunicación con alguien muy interesante.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
