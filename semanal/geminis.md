@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 09 de octubre 2023 al 15 de octubre 2023 
-description: Horóscopo semanal geminis 09 de octubre 2023 al 15 de octubre 2023. Vienen emociones fuertes Géminis, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
+title: geminis 16 de octubre 2023 al 22 de octubre 2023 
+description: Horóscopo semanal geminis 16 de octubre 2023 al 22 de octubre 2023. Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2023-10-09
+ogimg: /images/zodiac/semanal_geminis.png#2023-10-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-10-09'
+ lastmod: '2023-10-16'
 ---
 
 
 
-## Vienen emociones fuertes Géminis, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
+## Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
 
-A veces te lamentas por decisiones no tomadas, te lamentas porque crees que quizás no hiciste lo suficiente, porque ahora probablemente sea tarde… Cambia el chip de una vez Géminis. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierda, para sacar de una vez todo lo que tienes dentro. No puedes tragarte lo que sientes, no puedes dejar de expresarte, dejar de ser tu mismo. Empieza de una vez y quítate lastres de encima, quédate libre, sin cargas, suéltalo todo y empieza a sentirte bien. Por mucho que creas que hay cosas que están superadas, no es del todo así, para nada, de hecho, aunque puedas convivir con ellas no significan que ya se hayan curado del todo. Perdona Géminis, olvida, trata de hacerlo, pero antes di lo que piensas, no has cerrado todas las puertas y si las has cerrado te han quedado cosas en el tintero. Pues dilas de una vez y que queden claras, así será como al final podrás descansar tu mente. Así será como podrás emprender otros caminos de verdad, libre, sin ataduras de nada, sin pensamientos que en vez de estar en el presente están en otro sitio.
-Aunque el Sol en un sector espiritual de tu carta astral puede motivarte para que cierres puertas y dejes atrás situaciones que ya no te hacen bien, tienes muchas oportunidades para abrir nuevas puertas. La idea de saber cuándo dejar algo atrás y cuándo dejarlo entrar puede ser un poderoso concepto en este momento. Venus entra en fase retrógrada en tu signo, lo cual te inspira a buscar una relación con tu propio ser. Aprende a perdonar y aceptar tus errores.
+Por fin vas a finalizar ciclos Géminis, ¡por fin! Por favor, échale ganas a todo lo que vayas a terminar, y cuando lo hagas, mantén la cabeza bien alta, arribita, para que todos vean lo que eres capaz de conseguir. Y empieza nuevas metas, nuevos proyectos. Es cuestión de ponerse Géminis, de verdad. Ahora todo va a ser mucho más fácil que antes, te espera una buena semana porque vas a quitarte lastres de encima, vas a motivarte a ti mismo sin esa put* carga que pesaba tanto. Vas a volver a brillar. Eres Géminis joder, un mal día no es una mala vida y aunque estos días atrás hayas tenido más de un bajón emocional todo eso ahora se disipa. Se acabó. No olvides que tienes una belleza increíble, por dentro y por fuera, no olvides que aunque tu alrededor haya sido una mierda tú sigues brillando. Y lo estás haciendo bien Géminis. Dentro de poco volverás a tu lugar, ese del que nunca debías haberte alejado. Un lugar en lo alto, un lugar que elijas, un lugar donde se te admire, donde se vea tu esencia… Puedes conseguir absolutamente todo, métetelo en tu cabeza, ¿ok? Y que no vuelva a salir por nada del mundo. Feliz semana Géminis, y ¡a empezar de nuevo! El estrés o la ansiedad no tienen hueco en tu vida en estos momentos. No pueden robarte más vida…
+El actual enfoque te invita a tomar un descanso a pesar de que la vida cotidiana te otorga tiempo para reflexionar. Si puedes salir de vacaciones, este podría ser el momento ideal debido a que el cosmos te está alentando activamente para escaparte con el fin de tener tiempo para pensar. Ahora necesitas la oportunidad de ver las cosas en perspectiva y tomar decisiones basadas en lo que descubras. Podrías decidir dejar de lado ciertas actividades o relaciones, dejando espacio para mejores cosas por venir.
 
 ## Dinero
 
-Con cierta actividad en tu sector de relaciones, puede que sientas como que eres ser más social. Incluso si no estás buscando un favor por parte de alguien, estar en contacto con tus contactos profesionales es una buena idea para recordarles de tus habilidades. Es posible que tengas que preocuparte un poco más por las primeras apariencias e impresiones y asegurarte de poner tu mejor pie  por delante con el fin de mejorar tu futuro financiero.
+Esta semana podrías sentir frustración en tu objetivo de salir adelante económicamente. Hay cierta atención no deseada sobre tu situación de endeudamiento. Podrías caer fácilmente en depresión si no tienes cuidado. La buena noticia es que tienes un montón de energía para pagarla y deshacerte de ella. Puede que quieras gastártelo todo en familia y diversión, pero resiste la tentación, sólo por esta semana.

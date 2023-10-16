@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 09 de octubre 2023 al 15 de octubre 2023 
-description: Horóscopo semanal capricornio 09 de octubre 2023 al 15 de octubre 2023. De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
+title: capricornio 16 de octubre 2023 al 22 de octubre 2023 
+description: Horóscopo semanal capricornio 16 de octubre 2023 al 22 de octubre 2023. Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida Capricornio, vuelve a brillar.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2023-10-09
+ogimg: /images/zodiac/semanal_capricornio.png#2023-10-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-10-09'
+ lastmod: '2023-10-16'
 ---
 
 
 
-## De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
+## Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida Capricornio, vuelve a brillar.
 
-Deja que duela Capricornio, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo… Esta bien que te aferres a los recuerdos, siempre y cuando tengas más que claro dónde están y de dónde no van a moverse. Claro que tuviste tiempos mejores, pero no te centres tanto en “cómo lo pasabas cuando…”, ya está, ahora estás donde estás por alguna razón y mirar hacia delante y con fuerza es lo principal para que todo salga como tú quieras. Para ser Capricornio estás teniendo muchas más dudas que habitualmente, sácalas de la cabeza cuanto antes y si no puedes solucionarlo por cualquier razón pasa a otra cosa, pero pasa a otra cosa de verdad. Ya llegará el momento en que tu mente haga click y encuentre la solución, mientras tanto, no te agobies demasiado. Vive, siente y ama, necesitas enganchar las riendas de nuevo y disfrutar del momento, como venga, como salga. A veces, te pones demasiado altas las expectativas sobre cualquier cosa, sobre algunas personas y está bien Capricornio pero ten cuidado porque tus expectativas, las que estén en tu mano, es seguro que las alcanzarás, el problema son las otras, las que no lo están, las que dependen de los demás, esas, por favor, no seas crédulo porque no se darán jamás como tú quieres que se den, quizás se acerquen pero no llegarán… Ahora, preocúpate de ti, conecta con tus emociones, aunque sean emociones desagradables, plántales cara, contémplalas y piensa si quieres que se vuelvan a repetir. Por eso, y por más, vive tu vida Capricornio, intenta ser feliz solo o acompañado, pero primero tú, ahora tienes que ser primero tú el que se quiera cuidar, el que quiera hacer las cosas bien…
-Con el optimista Júpiter y el conversador Mercurio en tu sector hogareño, quizás hagas planes para agrandar tu casa o ansíes mudarte a algún lugar que te dé más oportunidades. Quizás incluso estés pensando en comprar una propiedad en otro país o trasladarte al extranjero. Tu hogar podría lucirse con decoraciones y gastronomía étnica, lo que pondría en tu camino un gusto por lo exótico. Esto es genial, ya que también estás en una fase de conexiones muy positiva. Reunir gente en tu casa puede fomentar nuevas y geniales relaciones.
+Por fin has tomado decisiones, y además decisiones que te benefician, 
+por fin están tomando alternativas a la vida que estabas llevando y por fin te estás enfrentando a los problemas de una vez.
+Parece que tendrás muchas cosas que hacer en las próximas semanas, como tareas generales administrativas, escribir, investigar y actividades en línea. Esto puede ser gratificante y darte muchas oportunidades para comunicarte y promocionar tu mercadería y tus servicios. Con el vivaz Mercurio volviéndose directo, aún tendrás que prestar atención a los mensajes mixtos o a los posibles problemas hasta el fin de semana, cuando todo empiece a volver a la normalidad.
 
 ## Dinero
 
-Te diriges a un momento interesante. La gente se siente atraída hacia ti y a tu mensaje, así que si tienes que dar una presentación o formular un argumento con respecto a ventas, prográmalo para esta semana. Con el apoyo del Universo, tu sector de comunicación es el más afectado. ¿Cómo puedes llevar ese compromiso que recibiste al siguiente nivel y convertirlo en una promoción?
+El Universo está exigiendo que pases más tiempo desarrollando tus relaciones más cercanas para que puedas beneficiarte personal y financieramente. El hacer más tiempo para aquellos que pudieran ayudarte a avanzar en tus objetivos no solamente es sensato/a, también es necesario para el logro de tus objetivos. Puede que estés en conversaciones para una mejor posición, la cuál llegará a lo grande.

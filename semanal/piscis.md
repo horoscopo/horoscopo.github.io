@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 09 de octubre 2023 al 15 de octubre 2023 
-description: Horóscopo semanal piscis 09 de octubre 2023 al 15 de octubre 2023. Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies Piscis, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres Piscis, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
+title: piscis 16 de octubre 2023 al 22 de octubre 2023 
+description: Horóscopo semanal piscis 16 de octubre 2023 al 22 de octubre 2023. Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2023-10-09
+ogimg: /images/zodiac/semanal_piscis.png#2023-10-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-10-09'
+ lastmod: '2023-10-16'
 ---
 
 
 
-## Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies Piscis, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres Piscis, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
+## Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
 
-A veces te confundes Piscis, y este es uno de esos momentos. No es que no sepas lo que quieres, es que no sabes realmente si es lo que más te conviene, si es en realidad lo que debes hacer. Es algo así como sentirte perdido, tienes en tu cabeza muchas ideas por hacer, muchas situaciones que crear, pero no puedes averiguar cómo hacerlas, cómo sacarlas adelante. Frena un momento, no corras antes de andar. Admite que no todo va tan bien como tú creías, admite que quizás te equivocaste a la hora de tomar algunas decisiones que te han llevado a estar donde estás, encuentra el por qué de eso Piscis. Y cuando lo veas, comprende que debes dejar ir, tómate un momento, respira profundamente y empieza a curarte de verdad. Piscis, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más. Si lo estás viendo venir no dejes que entre, no des oportunidad a lo que sabes de sobra que saldrá mal. Tómate esta semana por y para ti, de verdad que necesitas un descanso, un respiro, salir de esa zona de mala vibra y despejarte. Puedes con todo Piscis, está claro, pero, ¿merece la pena pelear por ello? Piensa fríamente, y no te dejes guiar por la pasión, utiliza esta vez la cabeza.
-Esta semana, puede que sientas el impulso de unirte a un grupo con inclinaciones filosóficas o espirituales; si lo haces, podrías beneficiarte mucho. Tal vez sientas afinidad por un profesor o instructor de vida que puede ayudarte a vivir a tu máximo potencial o que te inspira de tal manera que sientes la necesidad de adoptar nuevas creencias. Hacerlo podría abrirte nuevos caminos. 
-La conexión del jovial Júpiter con el nebuloso Neptuno estará presente durante esta semana y también puede tener potencial romántico. Una persona que conoces en un evento, un curso, una reunión o un taller podría ser tu alma gemela y atraer tu interés por la temática que les unió en principio. 
-Por último, podrías pasar más tiempo por tu cuenta, a menos que alguien se comunique contigo y te anime a salir a comer o a conversar.
+No estás mal con lo que tienes no, pero ya no eres el mismo que antes Piscis. Has cambiado, y quieres otra vida, llenarte de otras sensaciones que te alimenten, que te hagan crecer como persona, metas y objetivos nuevos. Quieres llenar tu vida de personas inigualables, de gente que merece la pena de verdad. Quieres que tus días estén llenos de esas personas que te hacen ver la belleza del mundo. Quieres gente aventurera cerca, que no se raye por estupideces, que no te raye a ti… Quieres perseguir puestas de sol, quieres perseguir fases lunares, quieres salir de la mierda de la rutina que a veces te ahoga. Quieres personas que no vean el mundo de la misma manera que tú, personas que tengan la capacidad de hacerte cuestionar todo lo que creías que era cierto. Necesitas vidilla, aventura, es lo que más deseas ahora, búscala Piscis, búscala y sal de la rutina como sea. Si no tienes sueños o metas de este tipo te acabas apagando, y mucho. O te empiezas a ilusionar y a perseguir lo que de verdad quieres o vas para abajo Piscis. Si quieres cambiar algo es porque no estás satisfecho del todo Piscis, esto funciona así. Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
+Si estás de ánimo para una revolución, puede ser debido a potentes energías en tu sector de recreación. Esta dinámica influencia puede darle un impulso a tu confianza y hacerte sentir que puedes conquistar el mundo. La autoexpresión también es muy importante. Si tienes ganas de comenzar un pasatiempo o explorar un deporte u otro interés, este es el momento de hacerlo. Además, una convincente oferta podría ser motivo para colaborar con alguien en un importante proyecto.
 
 ## Dinero
 
-Es una semana de dificultades conforme ciertos aspectos facilitan las cosas en tu sector de trabajo (esta es la buena noticia), pero las dificultan en otras áreas (la mala noticia). Se te está empujando a acceder a tu intuición en los asuntos de dinero y negocios y considerar trabajar para una institución más grande. Podrías recibir más dinero si piensas en grande.
+Tienes una oportunidad única para formar asociaciones financieramente gratificantes con conocidos personales o profesionales. Alguien que nunca has visto en esta luz ahora parece la persona perfecta para ayudarte para que tal proyecto nuevo llegue a buen término. Y puesto que la atención se centra en tus sectores de enseñanza y aprendizaje, es el momento de tomar algo difícil que estimule tu mente un poco. El efectivo vendrá después.

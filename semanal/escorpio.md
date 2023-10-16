@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 09 de octubre 2023 al 15 de octubre 2023 
-description: Horóscopo semanal escorpio 09 de octubre 2023 al 15 de octubre 2023. Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza Escorpio. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
+title: escorpio 16 de octubre 2023 al 22 de octubre 2023 
+description: Horóscopo semanal escorpio 16 de octubre 2023 al 22 de octubre 2023. Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2023-10-09
+ogimg: /images/zodiac/semanal_escorpio.png#2023-10-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-10-09'
+ lastmod: '2023-10-16'
 ---
 
 
 
-## Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza Escorpio. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
+## Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
 
-Si aún sientes que hay cosas pendientes lo primero que debes de hacer es solucionarlas, sobre todo para poder empezar cosas nuevas, dejarlas a medias sólo te llevará a acumular y a acumular y eso no te lleva a ningún puerto, solamente a estallar en el momento menos esperado. Por eso, 
-Después podrás abrir nuevas puertas, pero no dejes entre abiertas las demás…
-Una de tus amistades o tu pareja podrían ser muy generosas con sus halagos y ánimos, lo que podría aumentar tu confianza sobre el camino que has elegido. Por otro lado, el vital Marte en tu signo se vuelve retrógrado el martes y permanece así hasta el Viernes, lo que podría brindarte la oportunidad de revisar tus planes. Si bien por lo general las fases retrógradas tienen mala fama, esta puede ser la oportunidad para hacer cambios fundamentales que allanen el camino que tienes por delante. Tal vez lo más inteligente sea no comenzar cualquier proyecto importante hasta que el animado Mercurio avance nuevamente, ya que un cambio de opinión o las circunstancias podrían echar tus planes por tierra. 
-La luna ante el incipiente eclipse solar anular en Capricornio y en un sector más recluido de tu carta podría animarte a resolver una cuestión que te preocupa desde hace un tiempo. Hacerlo podría darte un tremendo alivio. Por último, el ingreso del conversador Mercurio a tu sector de relaciones puede ayudarte con negociaciones e importantes discusiones.
+Madura Escorpio, madura y aléjate de las personas y de las situaciones que dañan tu autoestima, tus valores, tu moral… Aléjate de las personas que tratan de apagarte lentamente. Que a veces te crees muy fuerte Escorpio, te crees que puedes con todo, que nada ni nadie te hará daño… Pero por dentro hay corrosión, por dentro hay recuerdos que no son fáciles de olvidar y que se van acumulando… A pesar de que tengas muy bien aprendidas las lecciones te cuesta ponerlas en marcha, perdonas demasiado, perdonas incluso sabiendo que ya no hay nada que hacer, que las cosas no van a cambiar, que todo esto ya lo has vivido y que es más de lo mismo. Lo peor no es eso, lo peor es que tú peleas hasta el final, lo peor es que tu perdonas cosas imperdonables, y lo peor es que al final, si te tratan bien, parece que todo se te olvida. Tienes que empezar a dejar que el resto luche por tu Escorpio, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado. Esta semana hay una fuerte reconciliación con alguien importante para ti, pero tienes que estar muy seguro de querer reconciliarte, tienes que tener tus ideas claras y pase lo que pase comprender que el alma siempre sabe cómo curarse a sí misma. El desafío es silenciar a la mente cuando no calla.
+Tener ganas de salir de tu zona de confort puede abrirte los ojos a grandes oportunidades... pero es más fácil decirlo que hacerlo. Con el intenso Marte en tu sector de viajes y exploración, tendrás el coraje para hacerlo si te animas a dar el primer paso. Por otro lado, si decides seguir el consejo de una persona, asegúrate de que sea confiable, ya que la información errónea podría ser un problema en los próximos días. Y a partir del viernes, tu lado ambicioso podría salir a la luz.
 
 ## Dinero
 
-Por lo general tienes bastante equilibrio con tu dinero, pero puede que estés pensando lanzarte en una búsqueda global de sentido. Si logras hacer que funcione, más poder para ti. Sin embargo, los aspectos que afectan tu sector de política y grupos pueden significar que tus obligaciones requieren que dejes detrás cualquier viaje con el fin de estar ahí para cuando alguien te necesite. Ahorra dinero al cambiar este viaje por un fin de semana en el campo.
+Puede que esta semana tengas la tentación de ampliar tus esfuerzos de ganar dinero, los cuales incluyen la escritura, el Internet y la creación de contenidos. Pero puede ser que una parte de ti sienta atracción a educación adicional para que puedas cobrar más por tus servicios. Ya que tu principal trabajo cae en medio de esto, no dejes que sea la cosa que sufra. La atención cuidadosa a los detalles te permitirá lograr todo lo que quieras y más.
