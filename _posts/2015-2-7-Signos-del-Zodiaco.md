@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 20 de octubre 2023
-description: Horóscopos del dia de hoy 20 de octubre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 21 de octubre 2023
+description: Horóscopos del dia de hoy 21 de octubre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-10-20
+ lastmod: 2023-10-21
 ---
-Hoy podría haber algunos sorprendentes e intuitivos saltos cuando la Luna forme sextil con Neptuno y aspecte al profundamente perspicaz Saturno. Se siente como si algunas cosas hubieran sido destinadas. La química sobrecalienta el aire cuando Venus forma sextil con Marte. Esta conexión es oportuna. Si tienes pareja, tal acentúa la armonía, por lo que disfruten de su acogedora y mutua compañía.
+Si te topas con retrasos, vienen por cortesía del Sol y Saturno. No es  como si el mundo estuviera en tu contra personalmente - tales retrasos son buenos para ti. En el lado positivo, la Luna en Leo de esta noche centra su atención en ti y te baña de calor. Solteros, disfruten de la atención - y tal vez incluso de una conexión amorosa.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
