@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 16 de octubre 2023 al 22 de octubre 2023 
-description: Horóscopo semanal escorpio 16 de octubre 2023 al 22 de octubre 2023. Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
+title: escorpio 23 de octubre 2023 al 29 de octubre 2023 
+description: Horóscopo semanal escorpio 23 de octubre 2023 al 29 de octubre 2023. Tu presente y tu futuro valen muchísimo la pena Escorpio. La vida siempre se acaba equilibrando Escorpio. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2023-10-16
+ogimg: /images/zodiac/semanal_escorpio.png#2023-10-23
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-10-16'
+ lastmod: '2023-10-23'
 ---
 
 
 
-## Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
+## Tu presente y tu futuro valen muchísimo la pena Escorpio. La vida siempre se acaba equilibrando Escorpio. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
 
-Madura Escorpio, madura y aléjate de las personas y de las situaciones que dañan tu autoestima, tus valores, tu moral… Aléjate de las personas que tratan de apagarte lentamente. Que a veces te crees muy fuerte Escorpio, te crees que puedes con todo, que nada ni nadie te hará daño… Pero por dentro hay corrosión, por dentro hay recuerdos que no son fáciles de olvidar y que se van acumulando… A pesar de que tengas muy bien aprendidas las lecciones te cuesta ponerlas en marcha, perdonas demasiado, perdonas incluso sabiendo que ya no hay nada que hacer, que las cosas no van a cambiar, que todo esto ya lo has vivido y que es más de lo mismo. Lo peor no es eso, lo peor es que tú peleas hasta el final, lo peor es que tu perdonas cosas imperdonables, y lo peor es que al final, si te tratan bien, parece que todo se te olvida. Tienes que empezar a dejar que el resto luche por tu Escorpio, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado. Esta semana hay una fuerte reconciliación con alguien importante para ti, pero tienes que estar muy seguro de querer reconciliarte, tienes que tener tus ideas claras y pase lo que pase comprender que el alma siempre sabe cómo curarse a sí misma. El desafío es silenciar a la mente cuando no calla.
-Tener ganas de salir de tu zona de confort puede abrirte los ojos a grandes oportunidades... pero es más fácil decirlo que hacerlo. Con el intenso Marte en tu sector de viajes y exploración, tendrás el coraje para hacerlo si te animas a dar el primer paso. Por otro lado, si decides seguir el consejo de una persona, asegúrate de que sea confiable, ya que la información errónea podría ser un problema en los próximos días. Y a partir del viernes, tu lado ambicioso podría salir a la luz.
+Esta semana te apetece hacer cosas nuevas, has dejado la idea de tener que estar siempre pendiente de los demás, de tener incluso que buscar soluciones para la vida de todo el mundo menos para la tuya. 
+ A veces, te aferras a momentos de felicidad pasajera Escorpio, pero sin embargo, esos momentos no son productivos ni significativos para ti. Y al final, se quedaban en momentos superficiales que después restaban mucho más de lo que sumaban.
+Al principio de la semana podrías notar en ti el deseo de escapar de las responsabilidades, las tensiones y el estrés. Esto es debido al enlace entre Marte y Neptuno, el que incluso podría verte sacrificar tiempo y recursos para ayudar a otros. También entrarás a tu punto social más alto del año.. Una vez más, tu atención puede sentirse atraída hacia grupos o causas a las que quieras rentablemente unirte o ayudar. Por último, el eclipse lunar podría  aportarle un toque de drama a tu fin de semana.
 
 ## Dinero
 
-Puede que esta semana tengas la tentación de ampliar tus esfuerzos de ganar dinero, los cuales incluyen la escritura, el Internet y la creación de contenidos. Pero puede ser que una parte de ti sienta atracción a educación adicional para que puedas cobrar más por tus servicios. Ya que tu principal trabajo cae en medio de esto, no dejes que sea la cosa que sufra. La atención cuidadosa a los detalles te permitirá lograr todo lo que quieras y más.
+Estás buscando la manera de correr la voz acerca de tus maravillosos productos y servicios, pero la publicidad es demasiado cara. Las redes sociales pueden ayudar. El Universo le ofrece soluciones creativas a la cuestión expuesta y te da todo lo que necesitas para darte a conocer al mundo. A partir de ahí, es un corto viaje a la riqueza.

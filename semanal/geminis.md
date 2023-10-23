@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 16 de octubre 2023 al 22 de octubre 2023 
-description: Horóscopo semanal geminis 16 de octubre 2023 al 22 de octubre 2023. Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
+title: geminis 23 de octubre 2023 al 29 de octubre 2023 
+description: Horóscopo semanal geminis 23 de octubre 2023 al 29 de octubre 2023. La realidad es esta y sí, aunque a veces sea una mierda busca SIEMPRE el lado bueno, en el fondo nunca dejas de hacerlo, aunque a veces te superen las circunstancias. Hay gente que sigue echando de menos al Géminis de siempre…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2023-10-16
+ogimg: /images/zodiac/semanal_geminis.png#2023-10-23
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-10-16'
+ lastmod: '2023-10-23'
 ---
 
 
 
-## Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
+## La realidad es esta y sí, aunque a veces sea una mierda busca SIEMPRE el lado bueno, en el fondo nunca dejas de hacerlo, aunque a veces te superen las circunstancias. Hay gente que sigue echando de menos al Géminis de siempre…
 
-Por fin vas a finalizar ciclos Géminis, ¡por fin! Por favor, échale ganas a todo lo que vayas a terminar, y cuando lo hagas, mantén la cabeza bien alta, arribita, para que todos vean lo que eres capaz de conseguir. Y empieza nuevas metas, nuevos proyectos. Es cuestión de ponerse Géminis, de verdad. Ahora todo va a ser mucho más fácil que antes, te espera una buena semana porque vas a quitarte lastres de encima, vas a motivarte a ti mismo sin esa put* carga que pesaba tanto. Vas a volver a brillar. Eres Géminis joder, un mal día no es una mala vida y aunque estos días atrás hayas tenido más de un bajón emocional todo eso ahora se disipa. Se acabó. No olvides que tienes una belleza increíble, por dentro y por fuera, no olvides que aunque tu alrededor haya sido una mierda tú sigues brillando. Y lo estás haciendo bien Géminis. Dentro de poco volverás a tu lugar, ese del que nunca debías haberte alejado. Un lugar en lo alto, un lugar que elijas, un lugar donde se te admire, donde se vea tu esencia… Puedes conseguir absolutamente todo, métetelo en tu cabeza, ¿ok? Y que no vuelva a salir por nada del mundo. Feliz semana Géminis, y ¡a empezar de nuevo! El estrés o la ansiedad no tienen hueco en tu vida en estos momentos. No pueden robarte más vida…
-El actual enfoque te invita a tomar un descanso a pesar de que la vida cotidiana te otorga tiempo para reflexionar. Si puedes salir de vacaciones, este podría ser el momento ideal debido a que el cosmos te está alentando activamente para escaparte con el fin de tener tiempo para pensar. Ahora necesitas la oportunidad de ver las cosas en perspectiva y tomar decisiones basadas en lo que descubras. Podrías decidir dejar de lado ciertas actividades o relaciones, dejando espacio para mejores cosas por venir.
+Aunque haya más de un momento en el que la nostalgia pueda invadirte, evita gastar esfuerzos en cosas que no merecen la pena, en cosas que no van a sacarte de nada y centra la fuerza en salir adelante con todo, no te estanques ni dejes que otros lo intenten. 
+Hay cosas que es mejor despedir cuanto antes. Reflexiona antes de lanzarte de nuevo, piensa un poquito en lo que más te conviene y no te dejes llevar por la rabia del momento.
+La energía de esta semana podría verte acercándote a una persona determinada con el fin de aumentar tus probabilidades de éxito. También existe la posibilidad de que surja un romance con un colega o tal vez con alguien con quien tienes una relación profesional. Tu ambición profesional es muy fuerte y pareces tener decisión a avanzar hacia tus metas. Con este nivel de entusiasmo, es muy posible que alcances el éxito, salvo que otra parte de ti no quiere estar en deuda con nadie. Tu mejor apuesta sería la de ordenar tus prioridades.
 
 ## Dinero
 
-Esta semana podrías sentir frustración en tu objetivo de salir adelante económicamente. Hay cierta atención no deseada sobre tu situación de endeudamiento. Podrías caer fácilmente en depresión si no tienes cuidado. La buena noticia es que tienes un montón de energía para pagarla y deshacerte de ella. Puede que quieras gastártelo todo en familia y diversión, pero resiste la tentación, sólo por esta semana.
+Esta semana trae actividad a tu sector de dinero. Mientras que orientas tu vida en torno a ganar más dinero, también es necesario construir una base que sea sólida. Asegurarte de que tu ingreso sea estable y consistente es de primordial importancia. A medida que tu empleo y tu lugar de trabajo puedan estar cambiando, hay un gran potencial sin explotar en el extranjero. Explora otras posibilidades de trabajo y de ganar dinero en línea o en los crecientes mercados extranjeros.

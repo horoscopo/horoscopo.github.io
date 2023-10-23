@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 16 de octubre 2023 al 22 de octubre 2023 
-description: Horóscopo semanal capricornio 16 de octubre 2023 al 22 de octubre 2023. Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida Capricornio, vuelve a brillar.
+title: capricornio 23 de octubre 2023 al 29 de octubre 2023 
+description: Horóscopo semanal capricornio 23 de octubre 2023 al 29 de octubre 2023. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2023-10-16
+ogimg: /images/zodiac/semanal_capricornio.png#2023-10-23
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-10-16'
+ lastmod: '2023-10-23'
 ---
 
 
 
-## Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida Capricornio, vuelve a brillar.
+## Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
 
-Por fin has tomado decisiones, y además decisiones que te benefician, 
-por fin están tomando alternativas a la vida que estabas llevando y por fin te estás enfrentando a los problemas de una vez.
-Parece que tendrás muchas cosas que hacer en las próximas semanas, como tareas generales administrativas, escribir, investigar y actividades en línea. Esto puede ser gratificante y darte muchas oportunidades para comunicarte y promocionar tu mercadería y tus servicios. Con el vivaz Mercurio volviéndose directo, aún tendrás que prestar atención a los mensajes mixtos o a los posibles problemas hasta el fin de semana, cuando todo empiece a volver a la normalidad.
+Mucha veces buscas la paz, la alegría, despertar de todo lo que te ha mantenido ciego/a durante mucho tiempo, el bienestar, las ganas, la fuerza, ser feliz… Pero todo eso lo tienes dentro Capricornio, lleva dentro de ti mucho tiempo aunque a veces se te olvide, aunque a veces no recuerdes quien eres del todo. Ya eres paz, ya eres alegría, ya eres fuerte y ya has abierto los ojos. Llegan tiempos buenos Capricornio, llega una renovación a tu vida porque tú mismo la estás atrayendo, porque estás cambiando el chip, porque quieres atraer lo positivo. Y lo positivo llegará.
+Hay actividad en tu sector de habla y pensamiento, con el cosmos llevándote activamente a salir de tu zona de confort e involucrarte activamente con los demás. El Eclipse Lunar podría desbaratar todo por completo, en particular si se pierden los estribos o terminas en una discusión. Los sentimientos podrían ponerse intensos a menos que plantees soltar lo que sea que te está molestando y sigas adelante. La presencia práctica de Saturno en tu sector familiar podría empujarte a enfrentar un problema actual.
 
 ## Dinero
 
-El Universo está exigiendo que pases más tiempo desarrollando tus relaciones más cercanas para que puedas beneficiarte personal y financieramente. El hacer más tiempo para aquellos que pudieran ayudarte a avanzar en tus objetivos no solamente es sensato/a, también es necesario para el logro de tus objetivos. Puede que estés en conversaciones para una mejor posición, la cuál llegará a lo grande.
+A pesar de que tu carrera está pasando por un poco de renacimiento ahora, con nuevas oportunidades para tomar las riendas, puede que tus relaciones no sientan todo el apoyo de tu nueva dirección. No es que no estés haciendo un buen trabajo, es que algunos de tus contactos pueden no saber cómo manejar tu nuevo poder. Pues mal por ellos, ¡porque vas para arriba con o sin ellos!

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 16 de octubre 2023 al 22 de octubre 2023 
-description: Horóscopo semanal cancer 16 de octubre 2023 al 22 de octubre 2023. Esta semana vas a abrir los ojos Cáncer, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
+title: cancer 23 de octubre 2023 al 29 de octubre 2023 
+description: Horóscopo semanal cancer 23 de octubre 2023 al 29 de octubre 2023. Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2023-10-16
+ogimg: /images/zodiac/semanal_cancer.png#2023-10-23
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-10-16'
+ lastmod: '2023-10-23'
 ---
 
 
 
-## Esta semana vas a abrir los ojos Cáncer, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
+## Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta.
 
-Empieza a cambiar la mentalidad Cáncer, empieza a cambiar eso de “estoy roto y sin fuerzas” por “estoy creciendo y me estoy curando de todo”, ya verás como tu vida cambia para mejor, y ya verás que deprisa. Quizás tengas que volver a conectar con tu pasado y cambiar la historia, quizás tengas que entender de una vez que todo pasó por alguna razón, que por eso estás aquí, quizás debas perdonar de verdad, perdonarte a ti mismo y dejar todo lo que te preocupa atrás. Si sigues hablando de algo es porque ese algo aún es importante para ti, aún quema dentro, y hay que enfrentarlo para que por fin salga de tu vida. Es complicado Cáncer, es complicado cargar con cosas que te hicieron daño en su día, y mucho más para ti, que no puedes olvidar tan fácilmente. Pero piensa que no puedes perder el tiempo con eso, piensa que tu tiempo es oro y que todo lo que inviertas en pensar demasiado lo podrías estar invirtiendo en hacer cosas productivas por y para ti. A veces, para encontrar un poco de paz debes estar dispuesto a perder tu conexión con algunas personas, con algunos lugares y con cosas que llevan creando mucho ruido en tu vida desde hace un tiempo… Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
-Si bien las oportunidades para la diversión y las placenteras experiencias siguen presentándose, hay un cambio en el aire esta semana que podría fomentar una actitud de más dedicación. Este cambio de actitud puede producirse como resultado de los costosos errores cometidos al principio de la semana. El deseo de organizarte y enfocarte en llevar una vida más limpia y más saludable parece ser lo mejor de aquí en adelante. La reciente Luna Nueva puede ayudarte a lograr tus objetivos.
+No puedes esperar a que las cosas pasen Cáncer, no puedes esperar a que sean otros los que decidan casi tu futuro… Tanto pensar un día va a acabar contigo, de verdad. De una vez por todas plántale cara a los problema, no los dejes pasar, no pienses que el tiempo curará todo, porque no siempre lo hace, no creas que saliendo a la calle a despejarte las cosas volverán a la normalidad. Si algo no quiere salir de tu cabeza haz que salga como sea. No puedes perder otros tipos de oportunidades por tener siempre lo mismo, algo que ni avanza ni retrocede, algo que a veces parece que está ahí clavado en nuestra memoria sólo por joder. Si te pasas la vida reflexionando y pensando en como solucionar algo pero no haces nada al final lo único que acaba pasando es la vida y, bueno, a otros signos puede que esto ni siquiera les afecte pero tú eres Cáncer, esa persona que quiere vivir desde que nació, que quiere disfrutar todo, desde los sentimientos más intensos hasta los viajes más largos, desde las conversaciones más interesantes hasta el amor más pasional. ¡Despierta! Sinceramente, ¿qué haces planteándote esperar? ¿qué haces pensando que las cosas se acabarán poniendo en el lugar que le corresponden? Si no lo haces tú, no lo va a hacer nadie. No dejes pasar ni una sola oportunidad que te haga feliz a ti aunque a los demás no les guste. De verdad. Por tu propio bien. Y toma decisiones YA, AQUÍ y AHORA Cáncer. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
+Aunque la próxima semana es optimista, aligera tu horario entre semana, cuando la actvidad lunar pudiera llevar tus sentimientos a un punto crítico, acelerando así el ritmo que lleve al desarrollo de ciertos acontecimientos. Tampoco cedas a la tentación de actuar bajo impulso. Espera hasta que sientas más equilibrio y tranquilidad. En cuanto a dinero, las cosas parecen ir bien para ti, con varias oportunidades para mejorar tu ingreso. Puestos laborales podrían abrirse, siendo tu intuición la que te anime a aplicar para uno.
 
 ## Dinero
 
-Puede que esta semana sea una de las más ocupadas. El Universo está cambiando tus relaciones de formas nuevas y emocionantes, y afectando a tu sector de emociones internas y vida familiar. Es posible que desees esconderte o meterte por debajo de las sábanas, pero en tu interior algo requiere de tu atención inmediata. Préstale atención.
+Tienes emoción y ganas de hacer nuevos contactos. Cualquiera que sea tu profesión, encontrarás que es más fácil hacerla con amigos. El pedirle ayuda a un mentor o el simple hecho de presentarte ante alguien que te inspira, es el mejor uso que le puedes dar a tu energía. Algunos de esos mentores podrían ser tus hijos, familiares o socios.

@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: tauro 16 de octubre 2023 al 22 de octubre 2023 
-description: Horóscopo semanal tauro 16 de octubre 2023 al 22 de octubre 2023. Tauro, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
+title: tauro 23 de octubre 2023 al 29 de octubre 2023 
+description: Horóscopo semanal tauro 23 de octubre 2023 al 29 de octubre 2023. Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2023-10-16
+ogimg: /images/zodiac/semanal_tauro.png#2023-10-23
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-10-16'
+ lastmod: '2023-10-23'
 ---
 
 
 
-## Tauro, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
+## Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
 
-¿Cuál es la diferencia ahora? Pues que el tiempo en darte cuenta de que estabas haciendo el tonto, se acorta. Vamos, que puedes caer y volver atrás cuando no deberías pero te das cuenta en seguida. 
- lo que pasa es que lo que sí debes aprender es a no tener que caer ni una vez más, aunque parezca que las cosas no te afectan, te afectan… ¿Por qué no cerrar las puertas que debes cerrar definitivamente y abrir las que te están esperando? Probablemente ganes mucho más… Piénsalo… Y actúa Tauro.
-Mientras Mercurio avanza el Jueves, podría coincidir con un instante de reflexión que te permita lidiar con un problema que te ha confundido por algún tiempo. Esta revelación podría llevarte a hacer cambios internos, y a una oportunidad de transformar tu forma de pensar y sentir para que esté mejor alineada con el resultado que deseas. También, un agradable vínculo entre el Sol y Neptuno puede ser perfecto para una primera cita o para revivir la llama del romance.
+Tienes conversaciones pendientes Tauro, tienes algunas cosas que solucionar y mejor que lo hagas cuanto antes si no quieres tener después quebraderos de cabeza. En el fondo lo tienes todo súper claro, sabes lo que te interesa y sabes qué camino debes tomar para lograr lo que de verdad te dará felicidad: la realización autopersonal. De verdad Tauro, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella. Tienes talento, tienes actitud y sobretodo tienes oportunidades para hacerlo. Esta semana pasarán cosas buenas Tauro, la vida te dará oportunidades, te pondrá en el lugar en el que debes estar. No dejes pasar nada, vas a terminar una etapa que te dio mucha felicidad pero es necesario avanzar. Di sí a los proyectos que llegan, céntrate en ti y en superarte día a día y por favor, pasa totalmente de los malos rollos y de las malas influencias. Si no lo haces no avanzarás, y ahora tienes por delante mucho en juego. Pasa más tiempo con los tuyos y desahógate cuando lo necesites. No por callarte se solucionará nada, a veces es necesario hablarlo y ver otros puntos de vista.
+La conexión Júpiter/Plutón manifestándose en tu sigo alcanza su punto culminante esta semana, así que prepárate para sacarle el máximo provecho a una situación o circunstancia que podría impulsarte hacia un mayor éxito. Si tienes disposición a hacer el trabajo preliminar ahora, podrías cosechar los frutos más tarde. Sería aconsejable actuar con calma el lunes, cuando el Eclipse lunar podría empujarte a hacer un juicio precipitado. ¡Evita movimientos impulsivos para ahorrarte una vergüenza! Por último, el actual enfoque en tu sector de relaciones podría ayudar a que una relación florezca.
 
 ## Dinero
 
-Puede que estés en medio de un cambio de vida grande. Puede que en el pasado no te haya importado la forma en la que te dirigías a los demás con tal de avanzar en la escalera corporativa. En este momento, el Universo te está empujando hacia una forma más diplomática pero seria de expresarte. Hay aspectos que realzan tu creatividad, así como a tu familia y la exuberancia. El efectivo viene cuando les muestras de lo que estás hecho/a.
+Un aspecto armónico te da un impulso de energía en el sector de tu carta que rige el dinero, las inversiones compartidas y la deuda. Esto significa que podrías recibir un bono o dividendo, o que puede que necesites poner más atención para pagar lo que debes. En cualquier caso, tienes la posibilidad y la perseverancia para ganar todo el dinero que necesitas y más.
