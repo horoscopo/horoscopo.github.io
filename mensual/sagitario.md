@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Sagitario Octubre 2023
-description: El Horóscopo Octubre de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Sagitario Noviembre 2023
+description: El Horóscopo Noviembre de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/sagitario/
 amplink: /horoscopo-mensual/amp/sagitario/
 home: FALSE
-keywords: horóscopo octubre, horoscopos en español, horóscopo Sagitario octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Sagitario, Tarot, Astrologia, Zodíaco, Sagitario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo noviembre, horoscopos en español, horóscopo Sagitario noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Sagitario, Tarot, Astrologia, Zodíaco, Sagitario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/sagitario_mes.png#2023-09-27
+ogimg: /images/mes/sagitario_mes.png#2023-10-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-09-27'
+ lastmod: '2023-10-25'
 ---
 
 

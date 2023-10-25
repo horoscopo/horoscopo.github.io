@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Libra Octubre 2023 
+title: Horoscopo Libra Noviembre 2023 
 permalink: /horoscopo-mensual/amp/libra/
 normallink: /horoscopo-mensual/libra/
 home: FALSE
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/Libra_mes.png#2023-09-27
+ogimg: /images/mes/Libra_mes.png#2023-10-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-09-27'
+ lastmod: '2023-10-25'
 ---
 
 
