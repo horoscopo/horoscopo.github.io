@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Aries Octubre 2023 
+title: Horoscopo Aries Noviembre 2023 
 permalink: /horoscopo-mensual/amp/aries/
 normallink: /horoscopo-mensual/aries/
 home: FALSE
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/Aries_mes.png#2023-09-27
+ogimg: /images/mes/Aries_mes.png#2023-10-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-09-27'
+ lastmod: '2023-10-25'
 ---
 
 
