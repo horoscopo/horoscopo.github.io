@@ -9,21 +9,16 @@ keywords: horóscopo noviembre, horoscopos en español, horóscopo Acuario novie
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/acuario_mes.png#2023-10-25
+ogimg: /images/mes/acuario_mes.png#2023-10-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-10-25'
+ lastmod: '2023-10-26'
 ---
 
 
- > Acuario, octubre se te va a pasar volando, lo que quiere decir que será un mes maravilloso para ti. Gozarás de un magnetismo muy grande, te encuentras espectacular y los demás lo notarán. Lo mejor de todo es que muchas de tus dudas llegarán a su fin gracias a tu poder de decisión.
+ > Acuario intenta calmar durante el mes de noviembre tus emociones más intensas para que tu fuerza interior se manifieste sin provocar desastres a tu alrededor. De esta manera podrás afrontar con éxito todos esos acontecimientos difíciles que pueden llegar a surgir.
 
 
 
-Tu cuarta y quinta casa solar experimentarán la mayor actividad astrológica este mes, adorable Acuario, ya que seis cuerpos celestes atravesarán Capricornio y Acuario. Sentirás atracción hacia las comodidades de tu propio hogar por encima de todo lo demás, aunque tus amistades se las ingeniarán para tentarte y vivir una noche de diversión. Por suerte, mantener un equilibrio debería ser fácil ahora mismo, en especial si encuentras una actividad creativa que te ayuda a mantener los pies sobre la tierra.
-Ya sea que estés en pareja o no, haz planes para pasar el día de San Valentín en casa, con ropa cómoda, deliciosa comida y, quizás, un poco de vino. Una alianza entre Marte y tu planeta regente esta semana enciende tu vida amorosa, lo que podría inspirarte a ti y a tu media naranja a conversar sobre la posibilidad de mudarse juntos o de compartir finanzas. Si no estás en pareja en este momento, utiliza esta energía para elevar tu espíritu con actividades o proyectos que te apasionan y que te ayudan a fortalecer tu confianza.
-La vibra cambia cuando el sol ingresa a las aguas de Piscis el 18 de octubre y resalta la parte de tu carta astral que rige la salud y el bienestar. Podrías sentirte más susceptible a ciertas comidas, medicinas, cafeína y alcohol durante este tiempo, así que trata de no perder de vista tus niveles de consumo. Haz tu mejor esfuerzo para mantener las cosas con calma durante esta alineación solar, y no te presiones demasiado en tener todo bajo control. Intenta mantener una constante rutina a la hora de dormir, comer y hacer ejercicio, pero, sobre todo, asegúrate de escuchar lo que tu cuerpo necesita.
-También será importante establecer límites ahora mismo, y evitar desperdiciar tu energía en otras personas.
-Días destacados: 7, 24, 27
-Días desafiantes: 12, 19, 20
+No te sientas en desventaja. El 1 de noviembre es el día posterior a una luna llena, y el 26 de noviembre es el día previo a otra. Intenta hacer más cosas de las que puedes imaginar cuando el mes comienza y cuando se acaba. La luna forma una conjunción con Marte en el intenso Sagitario el día 8. Conecta con una gran cantidad de personas y llega a la cima. La luna nueva del 13 de noviembre está llena de gente e interacción social. Conoce gente nueva y deja que te enseñen algunos lugares y eventos nuevos y emocionantes. Puedes liderar al grupo en otra ocasión. 

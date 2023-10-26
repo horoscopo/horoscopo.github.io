@@ -7,16 +7,17 @@ home: FALSE
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Piscis_mes.png#2023-10-25
+ogimg: /images/mes/Piscis_mes.png#2023-10-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-10-25'
+ lastmod: '2023-10-26'
 ---
 
 
-Prepárate para un mes ajetreado, estimable Piscis, mientras el sol, Venus y Mercurio en Sagitario transitan por el sector de tu carta astral que rige la comunidad. Este clima cósmico aumentará tu vida social y tu popularidad a medida, aunque no debes presionarte para aceptar todas las invitaciones que te lleguen. Te volverás una persona más introvertida cuando Mercurio ingresa a Capricornio el 6 de octubre, por lo que buscarás tranquilidad y reflexión. Esta ubicación planetaria te pide que hagas un balance de tu situación actual y así comenzar el transitar el mes con más sabiduría y motivación para lograr el éxito.
-A pesar de que tus ganas de asistir a eventos sociales fluctuarán con el correr de los días, la actividad lunar el día 7 está lista para activar tu lado más juguetón. Estas vibras son perfectas para pasar tiempo de calidad con tus amistades más valiosas, aunque tu vida romántica también podría experimentar algo de movimiento. Las pasiones fluirán libremente a medida que la luna se acerca a Marte, lo que lo convierte en un buen momento para apasionantes aventuras amorosas. Solo intenta no invertir demasiado en ningún encuentro que tengas. Es posible que no pasen la prueba del tiempo.
-Notarás un cambio cuando comienza la temporada de Libra el 23 de octubre, lo que te permitirá estar fuera del radar durante el resto del año. Permítete trabajar en silencio para poder alcanzar tus objetivos, comprometiéndote a afinar tus habilidades hasta que sientas que puedes presentar nuevas ideas o apasionantes proyectos. También será importante que te concentres en aprender más sobre ti a medida que el universo te empuja a que reconozcas tus fortalezas mientras superas tus debilidades.
-Días destacados: 1, 12, 26
-Días desafiantes: 8, 25, 29
+La estación de Virgo tiende a ser una época más tranquila para ti, querido Piscis, porque el Sol acampa en tu casa de la introspección y la intimidad. Esta colocación luminosa sacará a la superficie verdades ocultas, prometiendo evocar recuerdos olvidados a la vez que ilumina patrones de comportamiento y la realidad de tu situación. Aunque no todas las epifanías sean bienvenidas, te sentirás cósmicamente capacitado para dejar atrás el pasado y liberarte de lo que ya no te sirve. Mientras tanto, Venus termina su movimiento retrógrado el 3 de noviembre, empujándote a buscar la comunidad si necesitas un poco de apoyo extra.
+Usa la luna llena el día 13 como una excusa para esconderte del mundo, abrazando la tranquilidad y la sanación personal por encima de todo. Con Mercurio retrocediendo por el cielo, es probable que hayas pasado menos tiempo socializando, y esta lunación te ofrece una oportunidad más para retirarte por completo antes de que el planeta de la comunicación se ponga directo al día siguiente. Este clima cósmico también puede ayudarte a crear bases de apoyo en las profundidades de tu psique, así que asegúrate de mantener un diálogo interno positivo.
+Una energía vigorizante te inundará cuando el Sol entre en tu signo el 22 de noviembre. La atención y la diversión parecerán más atractivas a lo largo de las próximas semanas, mientras tus amigos y familiares se reúnen para honrar otro retorno solar.
+La luna llena del 27 ofrece oportunidades para el romance, aunque deberías recordar dirigirte algo de cariño a ti mismo además de a cualquier guaperas al que le hayas entregado tu corazón.
+Días destacados: 16, 22, 23
+Días difíciles: 19, 27, 29

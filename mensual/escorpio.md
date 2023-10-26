@@ -9,19 +9,20 @@ keywords: horóscopo noviembre, horoscopos en español, horóscopo Escorpio novi
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/escorpio_mes.png#2023-10-25
+ogimg: /images/mes/escorpio_mes.png#2023-10-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-10-25'
+ lastmod: '2023-10-26'
 ---
 
 
- > Escorpio, vas a tener un mes de octubre muy sensible en el que deberás abrir más tu mente y dejar que las ideas de los demás influyan en ti. Aunque tendrás que vivir también cierta tensión, por lo que conseguir lo que deseas será tu mayor preocupación. Esta energía hará oscilar tu estado de ánimo y tu mente vaya de la necesidad de libertad a la necesidad de seguridad. Tomar una decisión radical no es la mejor solución en este momento. Utiliza tus conexiones para distraerte y ponte en contacto con tus amigos. Sus ideas te darán claridad y te llevarán a una solución. Aprenderás y crecerás como persona, sobre todo en el terreno amoroso, además de que realizarás un balance con el objetivo de balancear lo que queda del año.
+ > Escorpio, empiezas el mes poniendo el foco de atención en tus amistades, donde verás que a lo largo del mes sucederán cosas inesperadas, saldrán a la luz secretos escondidos y te enterarás de cosas que creías imposibles. No te sorprendas si algún amigo te declara sus intenciones, pues estarás en el centro de atención.
 
 
 
-La conjunción entre el sol y Mercurio el 1 de octubre libera tu intuición. Con el eclipse solar del día 15, tendrás todas las respuestas para los problemas ajenos. Deja que pregunten primero. Tal vez no te involucres en los asuntos de nadie, pero igual puedes aprender mucho si observas y escuchas. Además, Mercurio se torna directo ese día. Aclara cualquier malentendido. El eclipse lunar del 29 de octubre trae amistades y gente del vecindario a tu lado. Tal vez piensas que no necesitas ayuda, pero todos la necesitan en realidad, de alguna forma u otra. A veces la aceptación es la mejor manera de dar. Sé una persona amable y agradecida. 
-
-Días destacados: 1, 14, 24
-Días desafiantes: 4, 20
+noviembrede 2023 - Los astros te piden que te muevas despacio en este momento, estimable Escorpio, ya que la actividad lunar activa el sector de tu carta astral que rige el lujo, la naturaleza y el dinero. Aprovecha este clima cósmico para revisar tu salud financiera, buscando formas de hacer crecer tu cuenta bancaria mientras planificas el futuro que más deseas. La seguridad emocional también se volverá más importante para ti y podrías sentir la necesidad de cortar lazos con cualquiera que no esté satisfaciendo tus necesidades, especialmente durante la luna nueva que se manifiesta en Virgo el 13 de noviembre. Mientras tanto, Saturno entra al signo de los Peces ese mismo día, animándote a tomar en serio a las personas y los objetivos que más te importan.
+Obstáculos imprevistos y peligros ocultos podrían revelarse el día 15 cuando el sol se alinea con Neptuno mientras forma una dura cuadratura con Marte, signo orientado a la acción. Ten la precaución de actuar con cautela y no intentes moverte impulsivamente, sobre todo si no sabes con certeza a qué lugar pueden llevarte tus acciones. También sería prudente evitar las grandes compras o las compras compulsivas, por mucho que tu ego ansíe una nueva computadora, zapatos o abrigo de diseño.
+Notarás un cambio cuando Mercurio entra a Aries el 18 de noviembre, agudizando tu ingenio y bendiciendo tu mente con claridad y lógica. Estos sentimientos se amplificarán dos días más tarde, que está preparada para inundar tu psiquis de nuevas ideas y mucha creatividad. También te encontrarás en un estado de ánimo más social durante el resto del mes, marcando la ocasión perfecta para volver a conectar con la familia y las amistades.
+Días destacados: 17, 21, 23
+Días desafiantes: 5, 18, 11

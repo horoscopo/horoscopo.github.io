@@ -9,16 +9,21 @@ keywords: horóscopo noviembre, horoscopos en español, horóscopo Géminis novi
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/geminis_mes.png#2023-10-25
+ogimg: /images/mes/geminis_mes.png#2023-10-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-10-25'
+ lastmod: '2023-10-26'
 ---
 
 
- > Géminis, vas a tener que confiar mucho en ti durante octubre, pues tendrás que tomar decisiones realmente importantes que te afectarán en tu día a día. Deberás manejar la pasión con cautela, ya que en exceso puede que te traiga problemas, pero lo mejor es que crecerás como persona.
+ > Géminis, noviembre será un mes en el que querrás ir más allá de donde nunca has llegado. La sexualidad será muy importante para ti y desplegarás una confianza difícil de resistir. Con Marte transitando por tu signo te será muy fácil atreverte con cosas nuevas y tener la valentía necesaria para llevar a cabo proyectos que tenías en mente.
 
 
 
-Acude a un lugar especial o comienza a estudiar algo nuevo y emocionante alrededor de la actividad lunar del 8 de octubre. Si la idea o el tema es lo suficientemente grande, no tendrás que ir muy lejos. El mundo está listo para venir hacia ti. Prepárate. En tu trabajo, un asunto o misterio podría ser aclarado bajo el eclipse solar del 15 de octubre. Si hay algo que no te satisface profesionalmente, serás capaz de resolverlo, ya sea en parte, o en su totalidad. La oportunidad de encontrar un nuevo trabajo también se ve favorecida ahora. Mantente alerta y tu ambición encendida. El 26 de octubre pone un sorprendente amor en tu camino gracias al suave sextil entre Mercurio y Urano que puede aliviar cualquier posible aburrimiento o sentimiento de obsoleta diversión.
+Júpiter se torna directo el 10 de noviembre, después de haber estado retrógrado desde el 8 de noviembre. Generosidad y entusiasmo están en aumento. Mantenlos en un nivel razonable. Podrías volverte popular alrededor de la luna llena del día 13. Una buena acción o acto de bondad al azar podría traerte una gran cantidad de buena voluntad y respeto. 
+
+Ten cuidado con un choque de perspectivas o puntos de vista alrededor de la luna nueva del 27 de noviembre. No hay necesidad de pelear, pero podría haber varias ocasiones en que la gente no está en la misma página. Deja que las cosas se solucionen por su cuenta, o quizás dales un suave empujoncito. 
+
+Días destacados: 5, 20, 22
+Días desafiantes: 1, 9</div>
