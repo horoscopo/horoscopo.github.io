@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 23 de octubre 2023 al 29 de octubre 2023 
-description: Horóscopo semanal geminis 23 de octubre 2023 al 29 de octubre 2023. La realidad es esta y sí, aunque a veces sea una mierda busca SIEMPRE el lado bueno, en el fondo nunca dejas de hacerlo, aunque a veces te superen las circunstancias. Hay gente que sigue echando de menos al Géminis de siempre…
+title: geminis 30 de octubre 2023 al 05 de noviembre 2023 
+description: Horóscopo semanal geminis 30 de octubre 2023 al 05 de noviembre 2023. Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2023-10-23
+ogimg: /images/zodiac/semanal_geminis.png#2023-10-30
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-10-23'
+ lastmod: '2023-10-30'
 ---
 
 
 
-## La realidad es esta y sí, aunque a veces sea una mierda busca SIEMPRE el lado bueno, en el fondo nunca dejas de hacerlo, aunque a veces te superen las circunstancias. Hay gente que sigue echando de menos al Géminis de siempre…
+## Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
 
-Aunque haya más de un momento en el que la nostalgia pueda invadirte, evita gastar esfuerzos en cosas que no merecen la pena, en cosas que no van a sacarte de nada y centra la fuerza en salir adelante con todo, no te estanques ni dejes que otros lo intenten. 
-Hay cosas que es mejor despedir cuanto antes. Reflexiona antes de lanzarte de nuevo, piensa un poquito en lo que más te conviene y no te dejes llevar por la rabia del momento.
-La energía de esta semana podría verte acercándote a una persona determinada con el fin de aumentar tus probabilidades de éxito. También existe la posibilidad de que surja un romance con un colega o tal vez con alguien con quien tienes una relación profesional. Tu ambición profesional es muy fuerte y pareces tener decisión a avanzar hacia tus metas. Con este nivel de entusiasmo, es muy posible que alcances el éxito, salvo que otra parte de ti no quiere estar en deuda con nadie. Tu mejor apuesta sería la de ordenar tus prioridades.
+Tienes grandes planes Géminis, el problema es que tienes que pensar muy bien con quién quieres tener esos planes, con quien quieres disfrutarlos. Un día estás bien, pero después estás tres mal y eso sólo es mierda que se va acumulando constantemente en tu vida. Decide qué es lo que quieres hacer y con quien quieres compartir tus logros. Esta semana estás un poco así como que te da igual todo, que no es que te de igual en el fondo, pero no te implicas de la misma manera en la que lo hacías unas semanas antes. Cuando te propones algo vas con ello hasta el final, el problema es que quizás ahora ya no te motiva como antes nada, quizás no quieres arriesgar por nadie, quizás no te merece tanto la pena como creías… No te preocupes Géminis, si esta semana estás un poco más apático con el mundo no pasa nada. Tienes tu derecho a no querer hacer nada, a pasar un poco de todo. De hecho, pasar un poco de todo es lo que te hará ver las cosas desde fuera, lo que te hará ser más objetivo. Esta semana abrirás los ojos, verás qué merece la pena, qué puedes perder, qué debes ganar, de qué debes pasar… Y si no eres el/la mismo/a de antes con los demás, que aprendan a valorarte un poco más. Ya verás como vuelve el Géminis de siempre…
+Esta semana, hay un poderoso enfoque en tu sector de lejanos horizontes y viajes. Esto podría hacer que surgan en ti tendencias escapistas. Sin embargo, también podrían aparecer opciones románticas, lo que sugiere que, si viajas, podrías conocer a una persona especial y formar una estrecha conexión romántica. También hay un énfasis en el estudio y la mejora personal. De hecho, cuando el inquisitivo Mercurio y el sol se alinean con el precavido Saturno esta semana, el deseo de estudiar podría conducir a prometedoras oportunidades en el futuro.
 
 ## Dinero
 
-Esta semana trae actividad a tu sector de dinero. Mientras que orientas tu vida en torno a ganar más dinero, también es necesario construir una base que sea sólida. Asegurarte de que tu ingreso sea estable y consistente es de primordial importancia. A medida que tu empleo y tu lugar de trabajo puedan estar cambiando, hay un gran potencial sin explotar en el extranjero. Explora otras posibilidades de trabajo y de ganar dinero en línea o en los crecientes mercados extranjeros.
+Te enfrentas a un período de diversión que afecta tanto a niños como familia. Si actualmente te involucras en estas áreas, puede que te percates de que le puedes vender tus productos y servicios a un público muy dispuesto. Si no, piensa en cómo puedes crear productos que atraigan a una variedad de personas en todo el mundo. A medida que usas tus talentos para crear fuentes de ingresos para toda la vida, el siguiente paso es la prosperidad.

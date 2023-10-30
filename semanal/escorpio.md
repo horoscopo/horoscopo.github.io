@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: escorpio 23 de octubre 2023 al 29 de octubre 2023 
-description: Horóscopo semanal escorpio 23 de octubre 2023 al 29 de octubre 2023. Tu presente y tu futuro valen muchísimo la pena Escorpio. La vida siempre se acaba equilibrando Escorpio. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
+title: escorpio 30 de octubre 2023 al 05 de noviembre 2023 
+description: Horóscopo semanal escorpio 30 de octubre 2023 al 05 de noviembre 2023. Es difícil comprenderte Escorpio, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2023-10-23
+ogimg: /images/zodiac/semanal_escorpio.png#2023-10-30
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-10-23'
+ lastmod: '2023-10-30'
 ---
 
 
 
-## Tu presente y tu futuro valen muchísimo la pena Escorpio. La vida siempre se acaba equilibrando Escorpio. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
+## Es difícil comprenderte Escorpio, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
 
-Esta semana te apetece hacer cosas nuevas, has dejado la idea de tener que estar siempre pendiente de los demás, de tener incluso que buscar soluciones para la vida de todo el mundo menos para la tuya. 
- A veces, te aferras a momentos de felicidad pasajera Escorpio, pero sin embargo, esos momentos no son productivos ni significativos para ti. Y al final, se quedaban en momentos superficiales que después restaban mucho más de lo que sumaban.
-Al principio de la semana podrías notar en ti el deseo de escapar de las responsabilidades, las tensiones y el estrés. Esto es debido al enlace entre Marte y Neptuno, el que incluso podría verte sacrificar tiempo y recursos para ayudar a otros. También entrarás a tu punto social más alto del año.. Una vez más, tu atención puede sentirse atraída hacia grupos o causas a las que quieras rentablemente unirte o ayudar. Por último, el eclipse lunar podría  aportarle un toque de drama a tu fin de semana.
+Tienes muchas preguntas que solamente puedes contestarte tú a ti mismo ahora. 
+Hasta ahora todo ha ido más o menos bien, o sea, has ido superando cada traba que la vida te iba poniendo pero de repente te quedas estacando por algo y no sabes qué dirección tomar.
+Puede que sientas la tentación de exigirte, en especial al comienzo de la semana. Si has fijado una fecha límite, la conexión entre el dinámico Marte y el limitante Saturno podría coincidir con uno o dos obstáculos. Puede que lo mejor sea no ponerte demasiada presión. Cuanto más intentes, más difícil podría ser avanzar. Quizás descubras que salir de la rutina también es muy útil. Podrías estar pensando demasiado en una cuestión cuando un enfoque más relajado sería altamente beneficioso. 
+Tus planes podrían entrar en conflicto con los de tu familia, y puede que tus familiares tengan demasiadas ganas de hacerse oír. Debido a que el positivo Venus está en tu sector de recreación y diversión, podrías beneficiarte mucho de tomarte un tiempo para disfrutar. Y, si llevas a tu familia contigo, mucho mejor. El punto más importante es no pasar demasiado tiempo trabajando.
 
 ## Dinero
 
-Estás buscando la manera de correr la voz acerca de tus maravillosos productos y servicios, pero la publicidad es demasiado cara. Las redes sociales pueden ayudar. El Universo le ofrece soluciones creativas a la cuestión expuesta y te da todo lo que necesitas para darte a conocer al mundo. A partir de ahí, es un corto viaje a la riqueza.
+Estudiando tu sector de profesión, estás disfrutando de un poco de impulso en esta área. Nuevos proyectos pueden aterrizar en tus manos. Si juegas bien tus cartas, podrías llegar a obtener un ascenso o promoción si muestras lo mucho que puedes llegar a hacer. Se indica que viene un cambio repentino, tal vez una transformación en tu rutina diaria. Si no tienes seguridad acerca de tu trabajo actual, piensa en qué más podrías hacer para ganar más dinero.

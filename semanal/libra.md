@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: libra 23 de octubre 2023 al 29 de octubre 2023 
-description: Horóscopo semanal libra 23 de octubre 2023 al 29 de octubre 2023. No más paciencia Libra. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
+title: libra 30 de octubre 2023 al 05 de noviembre 2023 
+description: Horóscopo semanal libra 30 de octubre 2023 al 05 de noviembre 2023. Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2023-10-23
+ogimg: /images/zodiac/semanal_libra.png#2023-10-30
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-10-23'
+ lastmod: '2023-10-30'
 ---
 
 
 
-## No más paciencia Libra. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
+## Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
 
-A veces te preguntas por qué la vida es tan difícil, por qué se te hace cuesta arriba todo a veces… Es necesario Libra, porque los conflictos, te empujan a ver más de lo que realmente verías si no hubiera pasado nada.
-¡Persevera y triunfarás! Esta semana definitivamente tiene un tinte social. Pareces estar rebosante de energía positiva y alegres pensamientos, tanto por dentro como por fuera. Además, una relación puede afianzarse si hablas con total honestidad. Ten cuidado para no molestar a alguien en el trabajo. Tu relación con cierto colega podría requerir un cuidadoso manejo. 
-Por otro lado, el deseo de desconectarte y relajarte podría entrar en conflicto con el impulso de abandonar tu zona de confort y explorar interesantes metas y opciones de carrera. Esto último podría intensificarse a medida que pasa el tiempo y podrías tener más ganas de investigar todo tipo de negocios u oportunidades profesionales, incluso si son completamente nuevas para ti. El fin de semana, tómate un tiempo para reflexionar. Podría ayudarte a ver un problema de relaciones desde otra perspectiva.
+Al final sólo nos arrepentiremos de las oportunidades que no tomamos Libra así que, empieza a agarrar todas las que lleguen con fuerza. No pienses demasiado, ya has vivido mucho como para saber lo que te interesa y lo que no así que, no te dejes amedrentar por nada ni por nadie. Puedes con todo lo que te propongas y además hagas lo que hagas lo harás bien. Puedes llegar alto si empiezas a dejar de lado cosas que no son productivas y tomas otros caminos. A veces te aferras demasiado por cariño y tratas de arreglar todo, de tratar de hacer a algunas personas mejores personas, de mantener situaciones que en vez de sumarte te restan todo el tiempo, y lo peor es que todo ese tiempo que gastas podías invertirlo en ti y en avanzar mucho más con tus objetivos en la vida. Hay cosas que no quieres que ocurran pero que debes aceptar Libra, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir. Por tu bien. Procura que todo lo que decidas hacer esta semana te haga realmente feliz.
+Puede que te sea fácil saltar a conclusiones, sobre todo durante la primera mitad de la semana. Pero puede que no tengas toda la información que necesitas para tomar una buena decisión. La entrada de Venus a Sagitario y más tarde de Mercurio a Acuario puede hacer que tu perspectiva sea más sutil y más imparcial. Esto en sí mismo podría ser suficiente para ayudarte a dar un paso atrás y ver las cosas como son. Finalmente, el movimiento de Marte a Escorpión podría verte tomar medidas para transformar cierta situación.
 
 ## Dinero
 
-Estás atrapado/a en un dilema. Hay acción en el frente interno y oportunidades en el frente de profesión. Sin embargo, te estás conduciendo por un estrecho sendero hacia tu situación de relación. Sólo puedes estar a solas por un determinado tiempo. Haz un esfuerzo por busca a personas que te puedan ser de ayuda.
+Esta semana puedes estar tratando de encontrar una manera de obtener tu rebanada de pastel y comértela también. Tu mente está trabajando horas extras para sacarte de cualquier obligación financiera que puedas tener, y el Universo te ayuda a llevar esto al siguiente nivel. Asegúrate de volver a revisar todas las cifras antes de firmar cualquier cosa.

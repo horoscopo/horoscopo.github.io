@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: aries 23 de octubre 2023 al 29 de octubre 2023 
-description: Horóscopo semanal aries 23 de octubre 2023 al 29 de octubre 2023. Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+title: aries 30 de octubre 2023 al 05 de noviembre 2023 
+description: Horóscopo semanal aries 30 de octubre 2023 al 05 de noviembre 2023. No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2023-10-23
+ogimg: /images/zodiac/semanal_aries.png#2023-10-30
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-10-23'
+ lastmod: '2023-10-30'
 ---
 
 
 
-## Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+## No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
 
-Quizás deberías dejar de planear todo ahora Aries, dejar un poco el volante sin conductor… A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos. Luchar por lo que importa está bien Aries, pero luchar por lo que no, sólo es una pérdida de tiempo, una gran pérdida de tiempo. Gastas muchas fuerzas en ello, en tratar de que todo salga tal y como esperabas, pero a veces por más que hagas, tu destino es otro. No te agobies ni te preocupes más de la cuenta ahora. Déjate llevar y no escribas finales para todo. Porque los finales acaban dando un giro y no terminan como creías. No puedes saberlo todo, ni tampoco controlarlo, y cuando lo entiendas quizás llegue la paz que tanto necesitas ahora mismo. Y no trates de apresurar nada porque cuando sea el momento va a suceder…
-A medida que Venus ingresa a tu sector de finanzas personales, este aspecto podría fomentar un enfoque más relajado en cuanto a los asuntos monetarios. Podrías tener más ganas de gastar dinero en pequeños lujos en lugar de poner el freno y ahorrar tu dinero para cuando lo necesites. Pero con la poderosa conexión entre Júpiter y Plutón de esta semana, también podrías sentir la obligación de seguir adelante con un proyecto que requiere de una inversión inicial. Asegúrate de que valga la pena antes de seguir adelante.
+No eres frágil Aries, no dejes que el resto piense eso de ti, no lo pienses tú de ti mismo/a. Esta semana rompe con todo, rompe con eso que lleva ahogando todo este tiempo, rompe con patrones que estabas siguiendo como un robot, sin saber ni siquiera si era eso lo que de verdad buscabas. Toma decisiones de una vez. ¿Estás a gusto con la vida que estás viviendo? No del todo Aries, y lo sabes. Pero no te conformes, no pienses que es lo único que hay porque hay muchísimo más ahí fuera. Tienes tanto potencial que estás desaprovechando… Cuando tienes episodios de bajón es porque en realidad sabes que lo que estás haciendo hoy no te va a llevar a ningún sitio el día de mañana, y eso es lo que te frustra Aries, saber que el futuro que tienes ahora es muy incierto, saber que, a pesar de que puedas estar medio bien ahora, no estás plantando nada para recoger después. Haz lo que de verdad te hace feliz Aries, no tengas miedo porque con miedo no vas a ninguna parte. Es triste tener que vivir una vida que sabes de sobra que no está hecha para ti. Cambia el entorno, cambia el plan y no dependas de nada ni de nadie… Si no cambias la dinámica de tu vida te vas a acabar asfixiando Aries, y sabes lo complicado que es salir de ahí después…
+Tu vida social sigue siendo muy activa y positiva. Y parece ser que tienes amigos en posiciones de poder o autoridad que podrían ser de gran ayuda esta vez. Con el enérgico Marte y el alegre Júpiter en tu sector de amistad, las alineaciones clave con los planetas en tu signo podrían ayudarte a hacer un progreso increíble. Además, también tienes experiencia qué aportar y esta combinación puede ser perfecta para tener más éxito.
 
 ## Dinero
 
-Es posible que debas prepararte para una decepcionante noticia esta semana. A pesar de que se te invita a compartir tus conocimientos y habilidades con los demás, preferiblemente para la diversión y la ganancia, tu vida laboral está siendo golpeada con más reglas, regulaciones y papeleo. Hay. Y a pesar de que la monotonía puede  nos ser de tu agrado, es mejor que otras alternativas. Ábrete a sugerencias y ganarás más a largo plazo.
+Esta semana se obtiene un agradable descanso. Gente con la que pudiste haber perdido contacto está de vuelta en la escena. Una o más de estas personas más podría traer excelentes oportunidades comerciales. No tienes que entrarle a todos y cada uno de ellos, pero sin duda escucha las ideas que tengan. Debido a que hay grandes aspectos en tu carta ahora, tu influencia sobre los grupos sociales es cada vez mayor. Las esperanzas, los sueños y el dinero no están muy lejos. Deja que todos vengan hacia ti.

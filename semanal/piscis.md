@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 23 de octubre 2023 al 29 de octubre 2023 
-description: Horóscopo semanal piscis 23 de octubre 2023 al 29 de octubre 2023. Tómate un tiempo Piscis, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
+title: piscis 30 de octubre 2023 al 05 de noviembre 2023 
+description: Horóscopo semanal piscis 30 de octubre 2023 al 05 de noviembre 2023. A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad Piscis, ahora estás que lo partes.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2023-10-23
+ogimg: /images/zodiac/semanal_piscis.png#2023-10-30
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-10-23'
+ lastmod: '2023-10-30'
 ---
 
 
 
-## Tómate un tiempo Piscis, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
+## A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad Piscis, ahora estás que lo partes.
 
-Está bien que la gente que te acompaña en la vida, comparta tus metas, tus logros, y también tus decepciones y bajones. Está bien que estén a tu lado en las buenas y en las malas. Pero ellos NO son tu felicidad Piscis, y no debes depender de nadie porque, si algún días te abandonan, te quedarás vacía/o por dentro.
-Aunque disfrutas bastante de esta época del año, la configuración actual te anima a disminuir tu ritmo y conservar tu energía. Con Marte, el planeta que rige tu bienestar, en una zona más aislada de tu carta, concéntrate en aquellas actividades que sean más gratificantes y desecha el resto. Ten especial cuidado el miércoles y jueves para evitar accidentes menores. Tómate tu tiempo y anda más despacio. El eclipse Lunar podría ser un llamado a formular tu presupuesto.
+Ojalá pudiéramos tener un botón de reinicio en la vida Piscis, pero no lo hay. No puedes traer nada de vuelta ni tampoco lo puedes deshacer. Todas tus acciones tienen consecuencias, y lo que hagas y digas hoy tendrá un impacto duradero en el resto de tu vida. Debes entender esto para, a partir de ahora hacer las cosas mejor por y para ti, para no sufrir después, para tomar buenas decisiones. Sé consciente mientras lo haces. Estás en un proceso de curación, no quieras correr más de la cuenta porque estás cosas se toman su tiempo pero piensa que un poco de progreso cada día se suma a los grandes resultados.
+Si escuchas cualquier chisme a principios de la semana, lo mejor sería adoptar un punto de vista imparcial en lugar de creer lo que oigas o tomar partido. De esa manera puedes mantenerte al margen de cualquier problema. El énfasis cambia cuando tu sector doméstico es puesto bajo enfoque, lo que podría animarte a disfrutar de estar en casa y tal vez tomarte algo de tiempo para recargar baterías. A lo largo del fin de semana, una conversación podría resultar muy productiva y podría ser parte de la razón por la que te sientas tan optimista.
 
 ## Dinero
 
-Los planetas en tu sector de comunicación esta semana te hacen más parlanchín/a de lo normal. Tanto tu situación económica, así como tu trabajo pueden depender de tu capacidad para transmitir tu mensaje de una manera concisa y poderosa. Pero ya que un aspecto negativo constriñe tu trabajo día a día, lo mejor es encontrar un equilibrio entre tu necesidad de destacar y tu necesidad de ganar dinero. El trabajo en equipo y el equilibrio van de la mano.
+Este periodo es acerca de los aspectos armoniosos trayéndole amor a tu vida hogareña y permitiendo que los sentimientos y recuerdos cálidos emerjan. Al mismo tiempo, se te recomienda abrirte a ellos y tal vez incluso utilizarlos en tu trabajo. Deja que tu imaginación vuele y puede que te percates de que tienes grandes ideas para generar más dinero.
