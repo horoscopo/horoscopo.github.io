@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 30 de octubre 2023
-description: Horóscopos del dia de hoy 30 de octubre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 31 de octubre 2023
+description: Horóscopos del dia de hoy 31 de octubre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-10-30
+ lastmod: 2023-10-31
 ---
-Apégate a lo esencial. Hoy, anota las cosas y las ideas que salgan de tu cabeza. Esta noche, las complicaciones tienden a surgir mientras Venus entra a Escorpión, donde se quedará hasta mediados de octubre. Los inconvenientes surgen debido a que no hay una gran cantidad de comunicación - el silencio es mortal. El antídoto es hablar las cosas.
+Los problemas le juegan trucos a tu mente con Mercurio a punto de cambiar de signo. Termina los asuntos pendientes - no dejes las cosas a medias. Venus entra a Capricornio. El planeta del amor en un signo serio sugiere que cosas importantes se acercan de manera madura y responsable durante las próximas semanas. No está nada mal, ya que no se trata de apuestas, sino de cosas seguras.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
