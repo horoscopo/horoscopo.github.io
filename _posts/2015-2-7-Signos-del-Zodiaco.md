@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 01 de noviembre 2023
-description: Horóscopos del dia de hoy 01 de noviembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 02 de noviembre 2023
+description: Horóscopos del dia de hoy 02 de noviembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-11-01
+ lastmod: 2023-11-02
 ---
-Todo en la vida es una inspiración, incluyendo la información entrante bajo la Luna en Piscis de hoy. Más tarde, las parejas están en sintonía con sus sentimientos mutuos. Los solteros podrían tener estrellas en los ojos al encontrarse con alguien nuevo. Esta noche está hecha del mismo material que las películas románticas, las novelas y los sueños gracias a la conexión entre la Luna y Neptuno.
+Las oportunidades abundan cuando Mercurio forma sextil con Venus. Hoy podría ser un día muy afortunado para ti. Esta noche, el Eclipse Lunar en Leo recomienda emplear valor para expresar sentimientos abiertamente. ¿Sería posible que esa falta de valor te esté alejando de lo que realmente quieres? ¡Vamos! Ten el valor de tus convicciones y da el primer paso.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
