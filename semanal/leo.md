@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: leo 30 de octubre 2023 al 05 de noviembre 2023 
-description: Horóscopo semanal leo 30 de octubre 2023 al 05 de noviembre 2023. Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
+title: leo 06 de noviembre 2023 al 12 de noviembre 2023 
+description: Horóscopo semanal leo 06 de noviembre 2023 al 12 de noviembre 2023. Sumisión contigo van a encontrar poca ahora Leo… Muy poca.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2023-10-30
+ogimg: /images/zodiac/semanal_leo.png#2023-11-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-10-30'
+ lastmod: '2023-11-06'
 ---
 
 
 
-## Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
+## Sumisión contigo van a encontrar poca ahora Leo… Muy poca.
 
-Por eso respira antes de soltar por tu boca cualquier cosa dañina. Al final, sin querer, puedes herir a más de uno/a y sobretodo, herirte a ti mismo/a… 
-así que, deja a un lado esa ansia que hace que repitas los errores más de una vez y céntrate en lo que merece y en lo que no. La teoría la tienes más que clara, ahora sólo llévalo a la práctica. Pero no un día sí y otro no, si te lo has planteado, hasta el final.
-Podría haber un problema que hace que sientas tensión o nervios, cuestión que puede coincidir con la fusión del fogoso Marte y el práctico Saturno. Esto podría relacionarse con una experiencia del pasado o con algo que estás atravesando. Sin embargo, lo que marca la diferencia es cómo lidias con ello. Intenta no sentirte culpable por esto. En lugar de esto, considera analizar la cuestión con otras personas para que te brinden su opinión. 
-Un extraño ángulo entre Saturno y el conversador Mercurio retrógrado sugiere que, tal vez, no quieras compartirlo todo. Sin embargo, podrías descubrir que analizar las cuestiones más delicadas con alguien de tu absoluta confianza puede aliviarte y, al mismo tiempo, darte soluciones. La presencia del dulce Venus en tu sector hogareño te anima activamente a cuidar de tu persona. Descansa mucho, come bien y disfruta de darte algunos gustos. Independientemente de lo que estés trabajando en tu interior, intenta ser gentil con tu persona.
+Se avecinan cosas nuevas Leo, algo que te va a remover enterito/a de arriba a abajo, pero antes vas a tener que desprenderte emocionalmente de algunas cosas pendientes. Esta semana vas a estar a tope, no vas a parar ni un solo momento, hay mucho por hacer. Pero por otro lado, igual que vas a tener sorpresas positivas, también hay una que quizás no lo sea tanto pero bueno, como ya no esperas nada de nadie ni nada de nada, tampoco será una gran decepción. Te vuelven a buscar Leo, otra vez sí. Y aunque no puedas verlo, por detrás se están manejando los hilos. Pero tú pasa, es más, mejor que ni lo veas, a ti ya no te importa lo que pertenece al pasado pero sí que te jode que aún se esté dando vueltas a algo cuando debió de quedar todo clarísimo. En fin Leo, que nadie te robe esta sonrisa esta semana. Trabaja duro, haz las cosas como siempre las haces, a lo grande, bien hechas. Sal con los tuyos y sigue tan positivo como siempre. Y quédate con esas sorpresas que van a darte la vida, que van a alegrarte la existencia, que van a darte chutes de energía bestiales. Esas son las que merecen la pena. El apego emocional se marchará… Primero, porque quieres que se marche…
+Es posible que estés de ánimo para redecorar y en general lograr que tu hogar se vea de lujo. Con Venus entrando a tu sector hogareño y familiar, esta es la perfecta oportunidad para embellecer tu entorno y hacerlo más acogedor. Sin embargo, con Marte regresando a Escorpión y a tu sector de viaje y aventura el viernes, puede que tengas que hacerle frente a un problema que pensabas se había terminado. No es el caso. Pero esta es tu segunda oportunidad para ponerlo a dormir.
 
 ## Dinero
 
-Esta semana es sobre la actividad astrológica en tu sector de deuda. Es posible que recibas una factura, una llamada telefónica o un recordatorio sobre una factura pendiente. No le ignores. Podrías toparte con una desagradable sorpresa si lo haces. Podría empeorar con sanciones adicionales. La persona a la que le debes dinero puede adoptar un método de recolección repentina y desagradable.
+Podrías darte cuenta de que tus habilidades de comunicación necesitan algo de trabajo esta semana. Mientras sientes que los puntos son claros, otros pueden necesitar una aclaración. No lo tomes como algo personal. Ellos (o tú) puede estar actuando bajo subconsciente en lugar de las necesidades reales. Debido a que los aspectos transforman la zona que rige las vidas pasadas, sueños y situaciones kármicas, siempre es mejor pecar por exceso de cortesía, sobre todo en cuanto al dinero se refiere.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 30 de octubre 2023 al 05 de noviembre 2023 
-description: Horóscopo semanal virgo 30 de octubre 2023 al 05 de noviembre 2023. Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Virgo, por qué te lo callas y te lo llevas callando tanto tiempo? 
+title: virgo 06 de noviembre 2023 al 12 de noviembre 2023 
+description: Horóscopo semanal virgo 06 de noviembre 2023 al 12 de noviembre 2023. Retírate del mundo artificial Virgo, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2023-10-30
+ogimg: /images/zodiac/semanal_virgo.png#2023-11-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-10-30'
+ lastmod: '2023-11-06'
 ---
 
 
 
-## Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Virgo, por qué te lo callas y te lo llevas callando tanto tiempo? 
+## Retírate del mundo artificial Virgo, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
 
-La vida siempre se equilibra, antes o después, aunque por momentos parezca que no lo hace Virgo… Si de verdad entiendes que todo pasa por una razón, los momentos más complicados serán mucho más fáciles de manejar. Haz las cosas bien. Ayuda a los demás, sé positivo, no guardes rencores ni rabia y date un paseo por los malos momentos. No pasa nada. Después de cualquier tormenta siempre llega la calma. Si esta semana tienes altibajos no te preocupes porque después de lo malo siempre llega algo bueno, tienes un poder increíble para ver lo bueno de cualquier cosa así que, utilízalo. A veces, a lo que más le temes es lo que al final te hará libre. Enfréntate con lo que de verdad sea importante para ti, saca las garras con lo que merezca la pena pero se suficientemente inteligente para no enzarzarte en discusiones absurdas esta semana. Se necesita equilibrio para lidiar con muchas situaciones que son injustas Virgo, pero tú lo tienes. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
-Puede que el romance llegue a ti cuando menos te lo esperas, pero esta vez podría ser algo especial. Cuando el expansivo Júpiter, tu planeta personal, conecta con las cualidades revolucionarias de Urano, puede que cierta persona te parezca irresistible. Quizá lo que te parece tan atractivo es la libertad con la que tal persona hace lo suyo sin miedo a lo que piensen los demás. Es posible que esta conexión tenga potencial de alma gemela, pero si quieres que la relación florezca, debes regarla a diario.
+Sí, la vida te ha dado muchos palos pero quieres seguir adelante, quieres probar cosas diferentes, quieres disfrutar sin tener que pensar si lo que haces está bien o mal para el resto, si es políticamente correcto…
+El enfoque de esta semana está en tu sector espiritual, lo que tal vez traiga conocimientos y revelaciones. Podrías tener una fuerte conexión con las emociones que están debajo de la superficie. En caso de que necesites hablar sobre ellas, también podría ser más sencillo. De hecho, puede que sientas un gran alivio al expresarlas. El conversador Mercurio se vuelve retrógrado en este mismo sector el jueves, lo que podría facilitar que recuerdes tus sueños y aproveches cualquier impulso intuitivo.
 
 ## Dinero
 
-Estás poniendo tus metas profesionales en buen estado esta semana. Tu visibilidad laboral en el trabajo aumenta y tienes las herramientas necesarias para construir mensajes fuertes y claros. Mientras tanto, tienes la capacidad de hacer que tu caso sea convincente. Desde la creación de publicidad a la fabricación de folletos para atraer más clientes, haz que tu alcance sea persuasivo. No hay nada que no se pueda hacer ahora.
+Confía en tu intuición acerca de lo que es correcto para ti. Estás preparado/a para hacer un gran cambio en tu vida. Podrías percatarte de que tu situación se vuelve un poco inestable, teniendo dinero un día y no otro. La manera de balancear esto es mediante el desarrollo de una estrategia fuerte de ahorro, poniendo dinero en cuentas de ahorro a largo plazo y otro poco más en cuentas de ahorro a corto plazo. No es una opción - es una necesidad.

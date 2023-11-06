@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 30 de octubre 2023 al 05 de noviembre 2023 
-description: Horóscopo semanal escorpio 30 de octubre 2023 al 05 de noviembre 2023. Es difícil comprenderte Escorpio, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
+title: escorpio 06 de noviembre 2023 al 12 de noviembre 2023 
+description: Horóscopo semanal escorpio 06 de noviembre 2023 al 12 de noviembre 2023. Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2023-10-30
+ogimg: /images/zodiac/semanal_escorpio.png#2023-11-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-10-30'
+ lastmod: '2023-11-06'
 ---
 
 
 
-## Es difícil comprenderte Escorpio, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
+## Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 
-Tienes muchas preguntas que solamente puedes contestarte tú a ti mismo ahora. 
-Hasta ahora todo ha ido más o menos bien, o sea, has ido superando cada traba que la vida te iba poniendo pero de repente te quedas estacando por algo y no sabes qué dirección tomar.
-Puede que sientas la tentación de exigirte, en especial al comienzo de la semana. Si has fijado una fecha límite, la conexión entre el dinámico Marte y el limitante Saturno podría coincidir con uno o dos obstáculos. Puede que lo mejor sea no ponerte demasiada presión. Cuanto más intentes, más difícil podría ser avanzar. Quizás descubras que salir de la rutina también es muy útil. Podrías estar pensando demasiado en una cuestión cuando un enfoque más relajado sería altamente beneficioso. 
-Tus planes podrían entrar en conflicto con los de tu familia, y puede que tus familiares tengan demasiadas ganas de hacerse oír. Debido a que el positivo Venus está en tu sector de recreación y diversión, podrías beneficiarte mucho de tomarte un tiempo para disfrutar. Y, si llevas a tu familia contigo, mucho mejor. El punto más importante es no pasar demasiado tiempo trabajando.
+Te está así como dando pereza siempre lo mismo. Siempre teniendo que demostrar cuáles son tus intenciones y sobretodo, demostrárselo a personas que ahora ya ni te van ni te vienen. Escorpio, aunque hayas roto con un pasado que te estaba amargando no lo has hecho indefinidamente, no lo has hecho para siempre, o al menos, eso es lo que parece. Eso de que “estaré ahí para siempre” es muy cierto en tu caso pero no seas idiota Escorpio, porque a veces de bueno das la mano y te toman todo el brazo. Si has roto con el mal rollo, has roto. No dejes que vuelva, no dejes que se acerque, no lo permitas. Que sí, que puedes creer que estás súper curado ya, que tus heridas no sangran, pero te estarías engañando Escorpio. La etapa que llega ahora tienes que disfrutarla, tienes que vivirla intensamente, y probablemente tengas que pasar más tiempo solo/a. Para conocerte a ti mismo/a, para entender qué es lo que quieres, qué es lo que buscas… Conoce Escorpio, conoce a todo el mundo que puedas, y comparte… Y cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
+Cuando el incansable Mercurio ingresa a tu sector de viajes y lejanos horizontes el martes, puede que te pique el bichito de los viajes y que despegues de un momento a otro. Sin embargo, debido al cambio de enfoque hacia tu sector de metas y carreras, también tendrás la posibilidad de mostrar tus habilidades y de establecer prometedoras conexiones. 
+Hay un poderoso enfoque en tu sector de negocios y finanzas hasta el Martes, por lo que los próximos siete días más o menos podrían encontrarte explorando formas de invertir tus recursos de manera más inteligente. Esto puede significar cancelar cualquier deuda y hacer un presupuesto para incrementar tus ahorros. La actividad lunar en este mismo sector a mitad de semana podría ayudarte a iniciar este proceso inspirándote a establecer metas y a cumplirlas rápidamente. Sin embargo, trata de ser paciente el viernes, ya que una conversación clave podría no salir según los planes.
 
 ## Dinero
 
-Estudiando tu sector de profesión, estás disfrutando de un poco de impulso en esta área. Nuevos proyectos pueden aterrizar en tus manos. Si juegas bien tus cartas, podrías llegar a obtener un ascenso o promoción si muestras lo mucho que puedes llegar a hacer. Se indica que viene un cambio repentino, tal vez una transformación en tu rutina diaria. Si no tienes seguridad acerca de tu trabajo actual, piensa en qué más podrías hacer para ganar más dinero.
+Hay una nueva y emocionante energía en tu sector de relaciones. Si has tenido demasiada pasividad, el Universo te da un impulso para establecer límites. Si has tenido demasiada agresividad, te suaviza un poco. Esto es bueno para el dinero también, ya que todos cuentan con los otros para comprar y vender los bienes y servicios que proveen los demás. Comprométete y es posible que tengas más negocio del que necesitas tener.

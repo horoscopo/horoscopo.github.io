@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 30 de octubre 2023 al 05 de noviembre 2023 
-description: Horóscopo semanal geminis 30 de octubre 2023 al 05 de noviembre 2023. Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
+title: geminis 06 de noviembre 2023 al 12 de noviembre 2023 
+description: Horóscopo semanal geminis 06 de noviembre 2023 al 12 de noviembre 2023. Empieza a hacerte promesas a ti mismo Géminis, empieza a prometerte amor propio, hoy y siempre. 
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2023-10-30
+ogimg: /images/zodiac/semanal_geminis.png#2023-11-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-10-30'
+ lastmod: '2023-11-06'
 ---
 
 
 
-## Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
+## Empieza a hacerte promesas a ti mismo Géminis, empieza a prometerte amor propio, hoy y siempre. 
 
-Tienes grandes planes Géminis, el problema es que tienes que pensar muy bien con quién quieres tener esos planes, con quien quieres disfrutarlos. Un día estás bien, pero después estás tres mal y eso sólo es mierda que se va acumulando constantemente en tu vida. Decide qué es lo que quieres hacer y con quien quieres compartir tus logros. Esta semana estás un poco así como que te da igual todo, que no es que te de igual en el fondo, pero no te implicas de la misma manera en la que lo hacías unas semanas antes. Cuando te propones algo vas con ello hasta el final, el problema es que quizás ahora ya no te motiva como antes nada, quizás no quieres arriesgar por nadie, quizás no te merece tanto la pena como creías… No te preocupes Géminis, si esta semana estás un poco más apático con el mundo no pasa nada. Tienes tu derecho a no querer hacer nada, a pasar un poco de todo. De hecho, pasar un poco de todo es lo que te hará ver las cosas desde fuera, lo que te hará ser más objetivo. Esta semana abrirás los ojos, verás qué merece la pena, qué puedes perder, qué debes ganar, de qué debes pasar… Y si no eres el/la mismo/a de antes con los demás, que aprendan a valorarte un poco más. Ya verás como vuelve el Géminis de siempre…
-Esta semana, hay un poderoso enfoque en tu sector de lejanos horizontes y viajes. Esto podría hacer que surgan en ti tendencias escapistas. Sin embargo, también podrían aparecer opciones románticas, lo que sugiere que, si viajas, podrías conocer a una persona especial y formar una estrecha conexión romántica. También hay un énfasis en el estudio y la mejora personal. De hecho, cuando el inquisitivo Mercurio y el sol se alinean con el precavido Saturno esta semana, el deseo de estudiar podría conducir a prometedoras oportunidades en el futuro.
+En serio, Géminis, por muy mal que vayan las cosas has demostrado al mundo que con tu ejemplo que se puede vencer cualquier obstáculo poniendo ganas, entusiasmo y pasión. A pesar de que eres siempre alguien bastante reservado para tus cosas más profundas (quizás a veces parece que hablas demasiado pero a la hora de la verdad de lo tuyo, de lo profundo, no sueles abrir el pico), la gente que te conoce sabe de sobra que te has caído y levantado muchas veces en estas últimas semanas queriendo antes que cualquier otra cosa tener el control sobre ti mismo. Eres Géminis por lo tanto es normal que no todo lo que quieras se de en el momento, la constancia y el trabajo diario es lo que a ti, te hace cumplir tus objetivos y tus metas, la constancia es al final la que te da todo lo que buscas. Las cosas que llegan rápidamente se acaban yendo de la misma manera así que, sigue con lo que tienes fijado en la mente y no desistas porque cualquiera quiera llegar y cambiar tus planes. No te dejes llevar por nadie ahora, puede ser una semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Lo has pasado mal Géminis, así que, plantéate si te merece la pena volver a mirar atrás de nuevo, creo que no. Lo peor ya está casi superado, no estabas del todo bien con tu vida y por eso decidiste cambiar y aunque los cambios no se den todavía no importa porque están en tu cabeza y poco a poco lo estarán en tus hechos. No te agobies, verás como cada día que pasa es una victoria hacia lo que quieres, sólo preocúpate de vivir esos días lo mejor que puedas ahora…
+A medida que el eléctrico Urano retrocede en tu sector doméstico, noticias o eventos inesperados podrían tenerte saltando de felicidad. Esta influencia continuará, de modo que podría coincidir con cambiantes situaciones relacionadas con la dinámica de la familia o, tal vez, una mudanza. Venus ingresa a tu sector de relaciones, y esta tranquilizante influencia puede ayudar a aliviar cualquier dificultad y facilitar que se llegue a un compromiso. Sin embargo, otra conexión más convincente podría hacer que tengas ganas de lograr una meta cuando un enfoque relajado podría funcionar mejor.
 
 ## Dinero
 
-Te enfrentas a un período de diversión que afecta tanto a niños como familia. Si actualmente te involucras en estas áreas, puede que te percates de que le puedes vender tus productos y servicios a un público muy dispuesto. Si no, piensa en cómo puedes crear productos que atraigan a una variedad de personas en todo el mundo. A medida que usas tus talentos para crear fuentes de ingresos para toda la vida, el siguiente paso es la prosperidad.
+Es un momento tenso para ti. Tus relaciones más cercanas apoyan plenamente los objetivos que te has fijado para ti mismo/a, en particular las que involucran tu situación financiera, y tu carrera está en expansión. Hay tantas cosas pasando en tu vida ahora que puede que sientas agobio, falta de apreciación y que no te pagan lo suficiente. Descansa lo más que puedas.
