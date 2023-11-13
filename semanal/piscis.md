@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 06 de noviembre 2023 al 12 de noviembre 2023 
-description: Horóscopo semanal piscis 06 de noviembre 2023 al 12 de noviembre 2023. Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
+title: piscis 13 de noviembre 2023 al 19 de noviembre 2023 
+description: Horóscopo semanal piscis 13 de noviembre 2023 al 19 de noviembre 2023. Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2023-11-06
+ogimg: /images/zodiac/semanal_piscis.png#2023-11-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-11-06'
+ lastmod: '2023-11-13'
 ---
 
 
 
-## Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
+## Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
 
-Tienes que ser tu prioridad ahora, tienes que cuidar de tus necesidades antes que de las demás Piscis. Has perdido mucho por tomar decisiones que no eran las correctas, por intentar dar oportunidades en balde… Tienes que ser un poco egoísta Piscis, ahora más que nunca. Tu tiempo vale oro pero últimamente parece que no lo valorabas como tal, dedícate a las cosas importantes, las que te van a dar frutos, las que te van a hacer sentir bien contigo mismo/a. Muévete del sitio en el que estás si eso no lo encuentras, cambia de país, de ciudad, de barrio, de entorno. Lo que sea Piscis, cambia lo que sea para alcanzar lo que crees que puedes. Piérdete las veces que haga falta, prueba aunque no estés seguro de si las cosas saldrán bien o mal, si tu corazón y tu instinto te llaman, ves. Cuida de tus emociones Piscis, cuídalas bien y que ahora sean lo más importante de todo. Tienes derecho a elegir qué tipo de gente quieres en tu vida, puedes alejarte de las amistades tóxicas Piscis, debes olvidarte de las conexiones que sabes que no van a ningún lugar. Esta semana tienes que planificarlo todo, tienes que comprender que si no das el paso tú nadie lo hará, es sólo un empujón hacia tus sueños y tus metas. No te estanques, y vuelve a ponerte el primero en todo.
-Planes de actividades placenteras pasan a primer plano conforme tú y tu pareja, interés amoroso, o tal vez familia e hijos se juntan en un espíritu de diversión y aventura. También podría ser un periodo para darte gustos con Venus en Tauro animándote a salir a decadentes citas románticas. Las actividades culturales también pueden aportarles una gran cantidad de gozo. Si tienes ansias por aumentar tu conocimiento musical o artístico, este es el momento de hacerlo. Sin embargo, debido a la prominente influencia de Neptuno, ten cuidado con lo que prometes y a quién.
+A veces dejas las puertas medio abiertas Piscis, crees que puedes cerrarlas cuando quieras, crees que eres lo suficientemente fuerte como para mandarlo todo a la mierda cuando desees… Pero no es del todo así. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Piscis porque no eres así. Parece que tuvieras miedo de cerrar definitivamente algunos capítulos, parece que aún te aferrarás a que pueden tener solución. Está bien Piscis, aférrate a lo que quieras, pero que eso no te afecte en tu día a día. Tienes que ver las cosas por ti mismo para dejarlas a un lado o continuar con ellas, así que, tropieza, date la hostia necesaria que te haga abrir los ojos pero, mientras tanto, que no te frene. Sacúdete un poco de las cosas negativas que pululan a tu alrededor, no pagues un precio alto por mantener algo que ni siquiera sabes si quieres mantener. Si necesitas pensar, márchate, desaparece unos días, vete solo y pasa de todo. En serio, algo te está reteniendo a quedarte, algo te está impidiendo continuar hacia delante, ten cuidado Piscis, con las decisiones que tomas, y con dejar puertas medio abiertas por miedo a que se cierren del todo…
+El potente enlace entre Marte y Neptuno en tu sector monetario podría darte ansias de explotar una idea que podría mejorar tu situación económica. Sin embargo, asegúrate de que sea completamente legítima antes de comprometerte a ella. Comenzarás a sentirte con más energía una vez que se intensifica la actividad solar a mitad de semana. De hecho, es momento de sacar esos proyectos fuera del segundo plano en el que se han encontrado y comenzar a terminarlos. La luna nueva podría ser muy divertida si es que quieres salir.
 
 ## Dinero
 
-Estás pensando en cómo hacer que tu lado masculino y femenino se encuentren ésta semana. Uno quiere que avances en tus habilidades de comunicación para que puedas mantenerte a la misma altura de los grandes. No tienes que dejar que los demás te dominen verbalmente. Tu lugar de trabajo es el área en la que debes demostrar la creatividad con la que estás hecho/a.
+Puede que por lo general no se te conozca por tu astucia en el dinero, ya que a menudo es sólo un medio para sentirte libre de restricciones. Pero ahora te conectas a tus redes sociales de una manera poderosa y haces que funcionen para ti. Si buscas una nueva posición o un mejor trabajo con buenos beneficios, serás capaz de conectar con nuevos empleadores. Un socio podría necesitar un poco de ayuda extra con un pequeño negocio. A partir de ahí, sólo tienes que demostrar tu valor.

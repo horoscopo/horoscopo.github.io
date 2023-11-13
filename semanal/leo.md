@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 06 de noviembre 2023 al 12 de noviembre 2023 
-description: Horóscopo semanal leo 06 de noviembre 2023 al 12 de noviembre 2023. Sumisión contigo van a encontrar poca ahora Leo… Muy poca.
+title: leo 13 de noviembre 2023 al 19 de noviembre 2023 
+description: Horóscopo semanal leo 13 de noviembre 2023 al 19 de noviembre 2023. Esta semana vas a abrir los ojos Leo, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2023-11-06
+ogimg: /images/zodiac/semanal_leo.png#2023-11-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-11-06'
+ lastmod: '2023-11-13'
 ---
 
 
 
-## Sumisión contigo van a encontrar poca ahora Leo… Muy poca.
+## Esta semana vas a abrir los ojos Leo, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
 
-Se avecinan cosas nuevas Leo, algo que te va a remover enterito/a de arriba a abajo, pero antes vas a tener que desprenderte emocionalmente de algunas cosas pendientes. Esta semana vas a estar a tope, no vas a parar ni un solo momento, hay mucho por hacer. Pero por otro lado, igual que vas a tener sorpresas positivas, también hay una que quizás no lo sea tanto pero bueno, como ya no esperas nada de nadie ni nada de nada, tampoco será una gran decepción. Te vuelven a buscar Leo, otra vez sí. Y aunque no puedas verlo, por detrás se están manejando los hilos. Pero tú pasa, es más, mejor que ni lo veas, a ti ya no te importa lo que pertenece al pasado pero sí que te jode que aún se esté dando vueltas a algo cuando debió de quedar todo clarísimo. En fin Leo, que nadie te robe esta sonrisa esta semana. Trabaja duro, haz las cosas como siempre las haces, a lo grande, bien hechas. Sal con los tuyos y sigue tan positivo como siempre. Y quédate con esas sorpresas que van a darte la vida, que van a alegrarte la existencia, que van a darte chutes de energía bestiales. Esas son las que merecen la pena. El apego emocional se marchará… Primero, porque quieres que se marche…
-Es posible que estés de ánimo para redecorar y en general lograr que tu hogar se vea de lujo. Con Venus entrando a tu sector hogareño y familiar, esta es la perfecta oportunidad para embellecer tu entorno y hacerlo más acogedor. Sin embargo, con Marte regresando a Escorpión y a tu sector de viaje y aventura el viernes, puede que tengas que hacerle frente a un problema que pensabas se había terminado. No es el caso. Pero esta es tu segunda oportunidad para ponerlo a dormir.
+Ommmm… Ommmm… Relax Leo, relax… Por favor, si te tomas las cosas tan a pecho al final acabarás por salir perjudicado tú. Antes de que creas que lo sabes todo, respira hondo, no te dejes llevar por la impulsividad, no te alteres, analízalo, que es lo que mejor se te da hacer. Es muy importante que no pierdas los papeles antes de tiempo. Observa a tu alrededor y mira realmente quien hace daño a tu vida y no te aporta nada y quien es el que te da todo sin importar nada, hay una gran diferencia. A partir de ahí elige bien y empieza a hacer lo que debes hacer, o sea, sacar lo que no te conviene, como siempre has hecho. Es muy probable que te encuentres en una etapa en la que todo te cuesta mucho más de la cuenta, conoces la teoría de la mayoría de las cosas, pero te falta la práctica y la verdad que esta semana te seguirá faltando, es como si aún no estuvieras preparado para decidir qué es realmente lo que quieres para ti, como si no estuvieras preparado para decir ADIOS a lo que ya no te conviene. Sabes de sobra que cuando decides, lo haces con todas las consecuencias y si ves que aún dudas por todo prefieres no tomar ninguna elección. No quieres fallarte a ti mismo pero a la vez te da pánico equivocarte de decisión. Pues mira Leo, haz lo que sientas, en serio, haz lo que te pida el cuerpo, lo que te apetezca, y después deja que la vida te sorprenda, porque te va a sorprender seguro. A veces hay que llevar al límite las cosas Leo, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
+Esta semana te trae la oportunidad de empezar de nuevo. Puede que ya estés en condiciones de empezar un plan de ahorro, cancelar una deuda o quizá comprometerte a ganar más dinero. La luna nueva puede llevarte por buen camino si tomas la firme intención de hacerlo el 19 de noviembre o después. El viernes verás un cambio cuando el alegre sol entre a tu sector de comunicación para quedarse allí cuatro semanas. Esta puede ser una oportunidad para conectar con personas que piensan como tú y expandir tus opciones de contactos.
 
 ## Dinero
 
-Podrías darte cuenta de que tus habilidades de comunicación necesitan algo de trabajo esta semana. Mientras sientes que los puntos son claros, otros pueden necesitar una aclaración. No lo tomes como algo personal. Ellos (o tú) puede estar actuando bajo subconsciente en lugar de las necesidades reales. Debido a que los aspectos transforman la zona que rige las vidas pasadas, sueños y situaciones kármicas, siempre es mejor pecar por exceso de cortesía, sobre todo en cuanto al dinero se refiere.
+Aunque puede que parezca como si las oportunidades estuvieran saliendo de la nada, lo cuál puede minar un poco tu  natural deseo de seguridad, debes saber que vas por buen camino. Es posible que estés un poco más propenso/a a accidentes de lo normal, así que conduce con cuidado. Trata de pagar lo que debes. No esperes a recibir esa inevitable llamada.

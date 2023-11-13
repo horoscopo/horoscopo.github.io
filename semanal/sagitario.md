@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 06 de noviembre 2023 al 12 de noviembre 2023 
-description: Horóscopo semanal sagitario 06 de noviembre 2023 al 12 de noviembre 2023. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. 
+title: sagitario 13 de noviembre 2023 al 19 de noviembre 2023 
+description: Horóscopo semanal sagitario 13 de noviembre 2023 al 19 de noviembre 2023. No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2023-11-06
+ogimg: /images/zodiac/semanal_sagitario.png#2023-11-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-11-06'
+ lastmod: '2023-11-13'
 ---
 
 
 
-## Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. 
+## No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
 
-Sabes también que has sido cruel con los demás, que has dicho palabras hirientes de las que quizás después, te has arrepentido. 
- Tienes que acabar de una vez con todo Sagitario.
-En lugar de trabajar duro y no lograr hacer mucho, puede que te resulte mejor tomarte tiempo para relajarte. Alcanzarás más productividad si obtienes el descanso que necesitas. Mercurio se torna retrógrado en tu signo desde el jueves y permanecerá ahí durante aproximadamente tres semanas. Haz copias de tus documentos más importantes y asegúrate que tu software antivirus esté actualizado. Saturno entra a Sagitario ese mismo día, significando que tus finanzas pronto podrían empezar a mejorar.
+Debes tener cuidado si no quieres que la caída sea desde muy arriba. No tiene por qué pasar, está claro, pero debes prevenir y no entregarte al 100% en todo lo que haces, porque los golpes duros duelen menos cuando no diste todo de ti, ves con un poquito de ojo esta semana.
+Los asuntos familiares siguen siendo importantes, tal vez con la necesidad de desentrañar una cuestión clave que ha sido molesta recientemente. A mediados de semana, tendrás que hacer algo al respecto a pesar de que podría implicar un grado de conflicto. Tal parece que vas a elegir un cambio en el estatus quo. Por otro lado, cualquier relación problemática podría hacerse más fácil una vez que Saturno comience a avanzar a mitad de semana. Es posible que aún requieras de paciencia, pero te será recompensada.
 
 ## Dinero
 
-Esta semana tu carrera y autoridad necesitan más atención. Convertirte en el experto que pareces ser significa más dinero en tu cuenta bancaria y más espacio para crecer. Ciertos aspectos astrales afectan tu sector de dinero en el buen sentido. Acumula lo más que puedas para una jubilación cómoda.
+Podrías llegar a tener sueños extraños y flashes psíquicos esta semana debido a los aspectos particulares de tu carta. Lo maternal, el hogar y las emociones internas son lo más afectado. ¿Estás pensando en tener o adoptar a un ser bajo tu alá (las mascotas cuentan también)? La adopción de una nueva compañía puede costar un poco, pero todos los placeres que tal ofrece hacen que valga la pena al final.

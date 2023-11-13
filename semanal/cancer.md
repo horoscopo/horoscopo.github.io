@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 06 de noviembre 2023 al 12 de noviembre 2023 
-description: Horóscopo semanal cancer 06 de noviembre 2023 al 12 de noviembre 2023. Mira Cáncer, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
+title: cancer 13 de noviembre 2023 al 19 de noviembre 2023 
+description: Horóscopo semanal cancer 13 de noviembre 2023 al 19 de noviembre 2023. Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2023-11-06
+ogimg: /images/zodiac/semanal_cancer.png#2023-11-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-11-06'
+ lastmod: '2023-11-13'
 ---
 
 
 
-## Mira Cáncer, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
+## Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
 
-Muchos te llaman ingenuo, te dicen que eres demasiado idealista, que la felicidad no existe como tú crees y que al final, lo que pasará, es que te darás de bruces contra el suelo. 
-Tu no quieres vivir como el resto del mundo, levantarte, ir al trabajo, volver a casa, y así día tras día…
-Con Venus ahora en tu sector de conexiones personales, ciertas relaciones podrían ser una fuente de diversión en este momento, incluyendo un posible romance - ya sea que tengas pareja o no. Si has estado buscando una cita, podrías percatarte de que alguien tiene pruebas de ser la pareja perfecta para ti. Las cosas podrían ponerse aún más intensas con el Sol entrando a tu sector de transformación e intimidad. Asegúrate de que tu cabeza y corazón estén de acuerdo antes de tomar cualquier decisión importante.
+Algo que te haga sentir vivo/a ya. Te has metido en una espiral de rutina un poco complicada y poco a poco esa energía que tenías va siendo consumida. Con lo que tú has sido… Con lo que tú eres…
+Los asuntos hogareños y familiares, asuntos de bienes raíces y proyectos de manualidades son clave esta semana conforme el enfoque te anima a seguir adelante con planes que has estado alimentando. Es posible que se te empuje a tomar medidas más pronto que tarde, ya que el Eclipse Solar puede coincidir con eventos que aumenten tu ritmo. Si bien esto puede parecerte incómodo al principio, pronto te darás cuenta de que tienes más oportunidades y libertad de la que pensaste que tenías antes. Sin embargo, Mercurio se torna retrógrado, por lo que sufrir retrasos podría ser inevitable.
 
 ## Dinero
 
-Se indica un tiempo de cambio con respecto a los asuntos de carrera y figuras de autoridad. El Universo apoya nuevos cambios que deseas hacer en tu carrera y te ofrece un impulso. Sin embargo, las influencias pueden ya sea ser creativas o confusas, dependiendo de cómo se usan. Elige tu camino con cuidado y con intención.
+Esta semana los aspectos ponen más atención en tu sector de relaciones. Puede ser que tu mente esté en la persona con quien estás saliendo (o con quien quieres salir) en lugar de tu trabajo o vida monetaria. Podrías estar examinando cómo ese alguien tan especial puede ayudarte a ganar más, ahorrar más y planificar un mejor futuro financiero. El agregar más a tu educación a través de clases y talleres podría hacerte una triple amenaza en el trabajo.

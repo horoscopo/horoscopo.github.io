@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: libra 06 de noviembre 2023 al 12 de noviembre 2023 
-description: Horóscopo semanal libra 06 de noviembre 2023 al 12 de noviembre 2023. Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
+title: libra 13 de noviembre 2023 al 19 de noviembre 2023 
+description: Horóscopo semanal libra 13 de noviembre 2023 al 19 de noviembre 2023. Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2023-11-06
+ogimg: /images/zodiac/semanal_libra.png#2023-11-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-11-06'
+ lastmod: '2023-11-13'
 ---
 
 
 
-## Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
+## Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
 
-Hace mucho tiempo que no te das un buen capricho Libra, hace mucho que no piensas del todo en ti, hace mucho que dejaste algunos proyectos de lado que deben empezarse ya. Es probable que a principios de semana te encuentres un poco descentrado, te sientes fuerte por momentos para empezar a hacer cualquier cosa pero otras veces te sientes como una mierda. Asuntos pendientes Libra. Asuntos que debes empezar a solucionar ya antes de que afecten más a tu vida. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. Necesitas hablar las cosas para darte un respiro. Y muy importante, sepárate del drama de los demás si de verdad quieres progreso en tu vida. Ten el valor de salir de todo lo que te hace daño, expresa tu punto de vista le joda a quien le joda y no te lo tragues todo como si fuera tu obligación. Si algo no te gusta dilo, no acumules, no creas que estás hecho para aguantar porque no tienes por qué aguantar nada. Cuando te sientas arriba aprovéchalo, no vuelvas a posponer planes, no vuelvas a dejar conversaciones pendientes, hazlo. Simplemente hazlo.
-Mientras todos se preparan, tu reloj astrológico indica que es tiempo de que quites el pie del acelerador y te tomes un tiempo. Esto no significa que debas rechazar invitaciones, sino que es mejor que a veces disfrutes de tu propia compañía. Esta es tu oportunidad para recargar energía y sentirte mejor. Si tienes la oportunidad de progresar con una meta o una ambición y lo piensas en silencio, se te pueden ocurrir grandes ideas.
+Esta semana tienes que tomarte las cosas con más calma Libra. Y sí, dejar de pensar un poco en lo que te hace daño y te alimenta de rabia y de ira. 
+ Esta semana hay que cambiar el chip como sea. En cuanto lo hagas, verás que todo se empieza a colocar en su lugar, en cuando empieces a proyectar lo que quieres para ti, todo empezará a darse.
+Esta semana, Júpiter aumenta tu confianza y te anima a dar un salto de fe. Debido a que apenas se encuentra entrando a tu signo, podrías obtener el golpe de suerte que has estado esperando, ¡o tal vez recibas una oferta u oportunidad que ponga una sonrisa en tu cara! Podrías sentir tentación a aventurarte a algún viaje, así como tener el deseo de estudiar y ampliar tus horizontes en general. Trabaja en tu lista de metas y comienza a tomar medidas mientras que la actividad solar se estabiliza el Domingo.
 
 ## Dinero
 
-Esta semana tienes toneladas de nuevas oportunidades para ganar más dinero. Prepárate para poner un viejo plan en movimiento. Tus sueños tienen una muy buena oportunidad de convertirse en realidad, siempre y cuando tomes acción sobre cualquier cosa que se te presente. La actividad astral en tu sector de deuda advierte en contra de añadir más a ese balance.
+Puede parecer que esta semana las cosas que se mueve en cámara lenta o incluso que se estén moviendo hacia atrás, sobre todo cuando se trata de tu capacidad de viajar, asistir a la escuela, o buscar las verdades más amplias de la vida. No te preocupes que al final las encontrarás. Mientras tanto, lo mejor es mantener tu dinero en efectivo guardado en un lugar seguro. En pocos meses, será más fácil el mover tus metas más cerca de la finalización.
