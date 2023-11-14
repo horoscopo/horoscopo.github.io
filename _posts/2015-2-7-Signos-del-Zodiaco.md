@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 13 de noviembre 2023
-description: Horóscopos del dia de hoy 13 de noviembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 14 de noviembre 2023
+description: Horóscopos del dia de hoy 14 de noviembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-11-13
+ lastmod: 2023-11-14
 ---
-Hoy, Mercurio y Marte se sumergen en las profundas aguas emocionales de Plutón. Esta conexión requiere de compensación de presión para superar la fiebre de impaciencia. Esta noche, los pensamientos están influenciados por los sentimientos. La Luna Nueva en Cáncer cierra temporalmente la comunicación abierta. Pero teniendo en cuenta la influencia de Plutón anteriormente mencionada, puede que sea algo bueno.
+Mantente alerta y sé consciente de que no debes tratar de apresurar las cosas durante el trígono entre Marte y Plutón que durará los próximos cuatro días. Si vale la pena hacerlo, requerirá de tiempo. Comienza a planear. Demasiada gente y demasiada emoción crean confusión bajo la Luna en Escorpión de esta noche.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
