@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 16 de noviembre 2023
-description: Horóscopos del dia de hoy 16 de noviembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 17 de noviembre 2023
+description: Horóscopos del dia de hoy 17 de noviembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-11-16
+ lastmod: 2023-11-17
 ---
-La cuadratura entre el Sol y Saturno le aporta una seria actitud a un tema importante. Ten en cuenta que la ansiedad a menudo inhibe la flexibilidad. Esta noche, podría haber cambios repentinos en los sentimientos y en la dirección que las conversaciones toman cuando la Luna en Escorpión aspecta tanto a Mercurio como Urano. Evita temas de los que no deseas hablar.
+Puedes contar con cooperación esta mañana. Aprovéchala mientras puedas, porque esta tarde podría haber crítica, resistencia, demasiada habla, y mínima comprensión mientras la Luna cuadre a Mercurio para luego salirse de su órbita. Esta noche, la Luna en Capricornio hace a la gente reservada y prudente, pero decidida una vez comprometida. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
