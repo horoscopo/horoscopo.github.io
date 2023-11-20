@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 13 de noviembre 2023 al 19 de noviembre 2023 
-description: Horóscopo semanal leo 13 de noviembre 2023 al 19 de noviembre 2023. Esta semana vas a abrir los ojos Leo, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
+title: leo 20 de noviembre 2023 al 26 de noviembre 2023 
+description: Horóscopo semanal leo 20 de noviembre 2023 al 26 de noviembre 2023. Hay cosas que ya no funcionan Leo, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2023-11-13
+ogimg: /images/zodiac/semanal_leo.png#2023-11-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-11-13'
+ lastmod: '2023-11-20'
 ---
 
 
 
-## Esta semana vas a abrir los ojos Leo, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
+## Hay cosas que ya no funcionan Leo, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
 
-Ommmm… Ommmm… Relax Leo, relax… Por favor, si te tomas las cosas tan a pecho al final acabarás por salir perjudicado tú. Antes de que creas que lo sabes todo, respira hondo, no te dejes llevar por la impulsividad, no te alteres, analízalo, que es lo que mejor se te da hacer. Es muy importante que no pierdas los papeles antes de tiempo. Observa a tu alrededor y mira realmente quien hace daño a tu vida y no te aporta nada y quien es el que te da todo sin importar nada, hay una gran diferencia. A partir de ahí elige bien y empieza a hacer lo que debes hacer, o sea, sacar lo que no te conviene, como siempre has hecho. Es muy probable que te encuentres en una etapa en la que todo te cuesta mucho más de la cuenta, conoces la teoría de la mayoría de las cosas, pero te falta la práctica y la verdad que esta semana te seguirá faltando, es como si aún no estuvieras preparado para decidir qué es realmente lo que quieres para ti, como si no estuvieras preparado para decir ADIOS a lo que ya no te conviene. Sabes de sobra que cuando decides, lo haces con todas las consecuencias y si ves que aún dudas por todo prefieres no tomar ninguna elección. No quieres fallarte a ti mismo pero a la vez te da pánico equivocarte de decisión. Pues mira Leo, haz lo que sientas, en serio, haz lo que te pida el cuerpo, lo que te apetezca, y después deja que la vida te sorprenda, porque te va a sorprender seguro. A veces hay que llevar al límite las cosas Leo, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
-Esta semana te trae la oportunidad de empezar de nuevo. Puede que ya estés en condiciones de empezar un plan de ahorro, cancelar una deuda o quizá comprometerte a ganar más dinero. La luna nueva puede llevarte por buen camino si tomas la firme intención de hacerlo el 19 de noviembre o después. El viernes verás un cambio cuando el alegre sol entre a tu sector de comunicación para quedarse allí cuatro semanas. Esta puede ser una oportunidad para conectar con personas que piensan como tú y expandir tus opciones de contactos.
+El mundo no te entiende Leo, ya estás acostumbrado a eso, pero no te frustres, en serio no te frustres. Ha llegado un momento en el que ya no quieres las cosas a medias, o te lo dan todo o mejor que no te den nada. Estás harto de hacerte ilusiones que después no se cumplen, estás harto de depender siempre de la felicidad de los demás, de sus decisiones… Y te has dado cuenta de que vales mucho, de que si el resto no es capaz de valorar lo que podrías llegar a dar no es problema tuyo. Ahora sí sabes lo que vales Leo, ahora sí sabes lo que mereces. A pesar de que ahora sea todo o nada ni siquiera necesitas eso del resto, ¡qué va! Porque las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz. Quieres “sobrevivir” en el mundo sin necesidad de nadie, sin necesidad de nada que te ate y te corte las alas, sin broncas, sin malos rollos, sin dramas ni peleas. Cuando te metes en bucles así no avanzas y si no avanzas te estancas, y si te estancas dejas de ser feliz. Ya has estado en el fondo mucho tiempo Leo, ahora que has salido no vuelvas a caer. No eres de hierro no, pero procura serlo esta semana, aunque sea complicado. Descúbrete a ti mismo y descubre tu misión en la vida, y hazlo solo, y en vez de darle vueltas a lo malo, quédate con los buenos momentos, con lo que de verdad no falla.
+Si puedes despejar tu agenda el 24 de noviembre, piensa en hacerlo realmente. La actividad lunar en Cáncer te motiva para que te tranquilices un poco y sigas tus sentimientos. Con un enfoque definido en tu sector espiritual, puede que necesites tiempo para reflexionar sobre algunos problemas y buscar maneras de resolverlos. Puede que hablar al respecto con una amistad cercana te ayude a superar estos asuntos. Dejar atrás tu bagaje emocional puede ayudarte a comenzar el 2023 con el pie derecho.
 
 ## Dinero
 
-Aunque puede que parezca como si las oportunidades estuvieran saliendo de la nada, lo cuál puede minar un poco tu  natural deseo de seguridad, debes saber que vas por buen camino. Es posible que estés un poco más propenso/a a accidentes de lo normal, así que conduce con cuidado. Trata de pagar lo que debes. No esperes a recibir esa inevitable llamada.
+Es una semana de contradicciones. Puede que estés pensando en una reciente relación para ver lo que pudiste haber hecho de otra manera. Los mentores, socios comerciales e inversionistas pueden no ser todo lo que parecían ser hace unas semanas. Es hora de revaluar tus asociaciones. Mientras tanto, tu sector social se abre. Puedes encontrar nuevas personas que comparten tu misma visión para trabajar en conjunto si es necesario. Las mujeres serán especialmente útiles.

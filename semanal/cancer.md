@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 13 de noviembre 2023 al 19 de noviembre 2023 
-description: Horóscopo semanal cancer 13 de noviembre 2023 al 19 de noviembre 2023. Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+title: cancer 20 de noviembre 2023 al 26 de noviembre 2023 
+description: Horóscopo semanal cancer 20 de noviembre 2023 al 26 de noviembre 2023. Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2023-11-13
+ogimg: /images/zodiac/semanal_cancer.png#2023-11-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-11-13'
+ lastmod: '2023-11-20'
 ---
 
 
 
-## Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+## Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
 
-Algo que te haga sentir vivo/a ya. Te has metido en una espiral de rutina un poco complicada y poco a poco esa energía que tenías va siendo consumida. Con lo que tú has sido… Con lo que tú eres…
-Los asuntos hogareños y familiares, asuntos de bienes raíces y proyectos de manualidades son clave esta semana conforme el enfoque te anima a seguir adelante con planes que has estado alimentando. Es posible que se te empuje a tomar medidas más pronto que tarde, ya que el Eclipse Solar puede coincidir con eventos que aumenten tu ritmo. Si bien esto puede parecerte incómodo al principio, pronto te darás cuenta de que tienes más oportunidades y libertad de la que pensaste que tenías antes. Sin embargo, Mercurio se torna retrógrado, por lo que sufrir retrasos podría ser inevitable.
+Ahora tienes claro que quieres empezar proyectos que hace mucho que estaban en tu cabeza pero que tenías miedo a sacar, ahora no hay persona que pueda frenarte. 
+Estás en ese momento en el que quieres independencia, en el que quieres crecer de una vez como persona. Da igual lo que hagas pero hazlo con ganas y sabiendo que es lo que te gusta.
+La actividad lunar del martes podría ser un llamado a reorganizar ciertos hábitos clave. Si has estado considerando iniciar una rutina de dieta o ejercicio, este es el momento de hacerla avanzar. Además, con Marte reingresando a tu sector profesional, tendrás ganas de jugar un papel importante en los asuntos de tu comunidad; o puede que sientas entusiasmo acerca de un objetivo que habías puesto en un segundo plano. El fin de semana requiere de un poco de cuidado, ya que podría haber un malentendido.
 
 ## Dinero
 
-Esta semana los aspectos ponen más atención en tu sector de relaciones. Puede ser que tu mente esté en la persona con quien estás saliendo (o con quien quieres salir) en lugar de tu trabajo o vida monetaria. Podrías estar examinando cómo ese alguien tan especial puede ayudarte a ganar más, ahorrar más y planificar un mejor futuro financiero. El agregar más a tu educación a través de clases y talleres podría hacerte una triple amenaza en el trabajo.
+Como de costumbre, es posible que estés ocupado/a esta semana conforme las responsabilidades de otras personas son lanzadas en tu escritorio. En medio de la locura, ponte en contacto con tu cruda ambición. ¿Qué tan alto quieres subir en la escalera de la empresa? Si no tienes intención de quedarte ahí, es importante que sepas que tienes muchas y muy buenas ideas si es que quisieras abrir un nuevo negocio. Profesiones relacionadas con viajes, educación, edición, metafísica y ley son todas probables.

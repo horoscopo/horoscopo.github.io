@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 13 de noviembre 2023 al 19 de noviembre 2023 
-description: Horóscopo semanal acuario 13 de noviembre 2023 al 19 de noviembre 2023. El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho Acuario. Más que nunca…
+title: acuario 20 de noviembre 2023 al 26 de noviembre 2023 
+description: Horóscopo semanal acuario 20 de noviembre 2023 al 26 de noviembre 2023. Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2023-11-13
+ogimg: /images/zodiac/semanal_acuario.png#2023-11-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-11-13'
+ lastmod: '2023-11-20'
 ---
 
 
 
-## El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho Acuario. Más que nunca…
+## Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
 
-No puedes estancarte con algo Acuario, no debes dejar de crecer nunca. Esta semana vas a estar pensando y analizando la situación de tu vida, ¿estás haciendo lo que realmente quieres hacer? No Acuario, hay cosas que quieres cambiar pero tienes que cambiarlas ya, empezar y terminar. No puedes conformarte con la vida que estás llevando, el tiempo pasa muy deprisa y cuando te quieras dar cuenta quizás ya sea demasiado tarde, o quizás te sea mucho más complicado tomar decisiones. Sigue con tus proyectos y no te amargues cuando no veas resultados inmediatos. Lo bueno siempre tarda en llegar. Lo que tienes que hacer es no desanimarte. Saca tu verdadero yo, no te metas en nada superficial, al fin y al cabo esas cosas te merman mucho, no es lo tuyo Acuario. No vale ni un segundo de tu tiempo. No te calientes demasiado acordándote de cosas que ya fueron y que ahora no son, que jamás podrán volver a ser, sigues perdiendo tu tiempo como lo hagas así. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. No eres mediocre Acuario así que, no quieras llevar esa vida, agarra el amor propio que te sale para buscar mejores oportunidades. No es que seas egoísta, no es que te vuelvas egoísta, es que es algo vital que hagas tu vida.
-Puede que choques con una persona en un puesto de autoridad cuando el sociable Venus ingresa al precavido Saturno al comienzo de la semana. Tal vez debas decir cómo te sientes, pero puede que tengas miedo de hacerlo. Sin embargo, otra conexión más positiva podría darte el coraje para hablar y expresarte con honestidad, lo que puede hacer toda la diferencia. La luna nueva podría ser una invitación a prestar más atención a tus sueños. Cuando el vital Marte ingresa a Capricornio el sábado, el lado ambicioso de tu personalidad podría hacerse más evidente.
+Aunque creas que tus asuntos están cerrados del todo no es así, y en el fondo lo sabes, por eso por fuera querrías hacer muchas cosas ya, en el momento, pero sin embargo por dentro sabes que con calma y con cabeza fría las decisiones se toman mucho mejor. 
+ En la vida, valora lo que pierdes, pero mucho más lo que ganas. Debes aprender a desprenderte de lo que no te hace bien, debes aprender a echar de tu vida o a alejarte de lo que te causa más de un problema.
+Una invitación sorpresa podría llevarte a explorar nuevas opciones para pasar el tiempo y, si incluyen un poco de peligro y emoción, el entusiasmo será aún mayor. Con Mercurio avanzando a partir del 24 de noviembre podrías ver que una relación que parecía haberse estancado ahora comienza a verse más animada. Podrías tener mucha química con otra persona, pero en esta etapa tal vez sea mejor tomarte las cosas con calma. Finalmente, podrías tener antojos de comida reconfortante, así que no te pases.
 
 ## Dinero
 
-Es posible que esta semana no desees otra cosa que pensar en cómo pagar la deuda, ahorrar para la jubilación y construir un plan financiero viable. Pero un aspecto en específico exige que pases algún tiempo asumiendo la responsabilidad de creaciones estrategias importantes. Trabaja ahora, para construir lo que se necesita en el futuro. Mientras tanto, otros aspectos iluminan tu sector profesional. Aprovecha el efectivo mientras puedas.
+Esta semana tienes una energía maravillosa y creativa en tu vida laboral diaria. Se te puede pedir asumir más tareas ahora, y vendrán con responsabilidades añadidas. Tómalas. Incluso si se trata de trabajar más a corto plazo, le darás una impresión indeleble en tu empleador a largo plazo. Es probable que recibas elogios por tus esfuerzos. Amplía tu comunicación.
