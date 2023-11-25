@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Tauro Noviembre 2023 
+title: Horoscopo Tauro Diciembre 2023 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/mes/Tauro_mes.png#2023-10-26
+ogimg: /images/mes/Tauro_mes.png#2023-11-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-10-26'
+ lastmod: '2023-11-25'
 ---
 
 

@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Piscis Noviembre 2023 
+title: Horoscopo Piscis Diciembre 2023 
 permalink: /horoscopo-mensual/amp/piscis/
 normallink: /horoscopo-mensual/piscis/
 home: FALSE
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Piscis_mes.png#2023-10-26
+ogimg: /images/mes/Piscis_mes.png#2023-11-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-10-26'
+ lastmod: '2023-11-25'
 ---
 
 

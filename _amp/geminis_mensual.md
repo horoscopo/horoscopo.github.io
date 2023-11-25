@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Géminis Noviembre 2023 
+title: Horoscopo Géminis Diciembre 2023 
 permalink: /horoscopo-mensual/amp/geminis/
 normallink: /horoscopo-mensual/geminis/
 home: FALSE
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Géminis_mes.png#2023-10-26
+ogimg: /images/mes/Géminis_mes.png#2023-11-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-10-26'
+ lastmod: '2023-11-25'
 ---
 
 

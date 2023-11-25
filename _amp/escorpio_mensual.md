@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Escorpio Noviembre 2023 
+title: Horoscopo Escorpio Diciembre 2023 
 permalink: /horoscopo-mensual/amp/escorpio/
 normallink: /horoscopo-mensual/escorpio/
 home: FALSE
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Escorpio_mes.png#2023-10-26
+ogimg: /images/mes/Escorpio_mes.png#2023-11-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-10-26'
+ lastmod: '2023-11-25'
 ---
 
 

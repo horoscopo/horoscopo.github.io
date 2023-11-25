@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Virgo Noviembre 2023 
+title: Horoscopo Virgo Diciembre 2023 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Virgo_mes.png#2023-10-26
+ogimg: /images/mes/Virgo_mes.png#2023-11-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-10-26'
+ lastmod: '2023-11-25'
 ---
 
 
