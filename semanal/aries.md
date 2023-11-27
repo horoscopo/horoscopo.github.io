@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: aries 20 de noviembre 2023 al 26 de noviembre 2023 
-description: Horóscopo semanal aries 20 de noviembre 2023 al 26 de noviembre 2023. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
+title: aries 27 de noviembre 2023 al 03 de diciembre 2023 
+description: Horóscopo semanal aries 27 de noviembre 2023 al 03 de diciembre 2023. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2023-11-20
+ogimg: /images/zodiac/semanal_aries.png#2023-11-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-11-20'
+ lastmod: '2023-11-27'
 ---
 
 

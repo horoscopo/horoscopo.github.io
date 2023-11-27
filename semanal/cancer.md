@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: cancer 20 de noviembre 2023 al 26 de noviembre 2023 
-description: Horóscopo semanal cancer 20 de noviembre 2023 al 26 de noviembre 2023. Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+title: cancer 27 de noviembre 2023 al 03 de diciembre 2023 
+description: Horóscopo semanal cancer 27 de noviembre 2023 al 03 de diciembre 2023. Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2023-11-20
+ogimg: /images/zodiac/semanal_cancer.png#2023-11-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-11-20'
+ lastmod: '2023-11-27'
 ---
 
 

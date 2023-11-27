@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: leo 20 de noviembre 2023 al 26 de noviembre 2023 
-description: Horóscopo semanal leo 20 de noviembre 2023 al 26 de noviembre 2023. Hay cosas que ya no funcionan Leo, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
+title: leo 27 de noviembre 2023 al 03 de diciembre 2023 
+description: Horóscopo semanal leo 27 de noviembre 2023 al 03 de diciembre 2023. Hay cosas que ya no funcionan Leo, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2023-11-20
+ogimg: /images/zodiac/semanal_leo.png#2023-11-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-11-20'
+ lastmod: '2023-11-27'
 ---
 
 

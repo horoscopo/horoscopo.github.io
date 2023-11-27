@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: sagitario 20 de noviembre 2023 al 26 de noviembre 2023 
-description: Horóscopo semanal sagitario 20 de noviembre 2023 al 26 de noviembre 2023. Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
+title: sagitario 27 de noviembre 2023 al 03 de diciembre 2023 
+description: Horóscopo semanal sagitario 27 de noviembre 2023 al 03 de diciembre 2023. Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2023-11-20
+ogimg: /images/zodiac/semanal_sagitario.png#2023-11-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-11-20'
+ lastmod: '2023-11-27'
 ---
 
 

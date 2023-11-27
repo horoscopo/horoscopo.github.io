@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: geminis 20 de noviembre 2023 al 26 de noviembre 2023 
-description: Horóscopo semanal geminis 20 de noviembre 2023 al 26 de noviembre 2023. Recuerda que ha empezado la época de los Géminis… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
+title: geminis 27 de noviembre 2023 al 03 de diciembre 2023 
+description: Horóscopo semanal geminis 27 de noviembre 2023 al 03 de diciembre 2023. Recuerda que ha empezado la época de los Géminis… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2023-11-20
+ogimg: /images/zodiac/semanal_geminis.png#2023-11-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-11-20'
+ lastmod: '2023-11-27'
 ---
 
 

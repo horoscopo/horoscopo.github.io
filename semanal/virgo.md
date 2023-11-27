@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: virgo 20 de noviembre 2023 al 26 de noviembre 2023 
-description: Horóscopo semanal virgo 20 de noviembre 2023 al 26 de noviembre 2023. No dejes todo por nada, ni por nadie. Déjalo por ti. Que te caes, está bien, ya has aprendido a levantarte muchas veces…
+title: virgo 27 de noviembre 2023 al 03 de diciembre 2023 
+description: Horóscopo semanal virgo 27 de noviembre 2023 al 03 de diciembre 2023. No dejes todo por nada, ni por nadie. Déjalo por ti. Que te caes, está bien, ya has aprendido a levantarte muchas veces…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2023-11-20
+ogimg: /images/zodiac/semanal_virgo.png#2023-11-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-11-20'
+ lastmod: '2023-11-27'
 ---
 
 

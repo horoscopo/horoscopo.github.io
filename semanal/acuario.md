@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: acuario 20 de noviembre 2023 al 26 de noviembre 2023 
-description: Horóscopo semanal acuario 20 de noviembre 2023 al 26 de noviembre 2023. Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
+title: acuario 27 de noviembre 2023 al 03 de diciembre 2023 
+description: Horóscopo semanal acuario 27 de noviembre 2023 al 03 de diciembre 2023. Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2023-11-20
+ogimg: /images/zodiac/semanal_acuario.png#2023-11-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-11-20'
+ lastmod: '2023-11-27'
 ---
 
 

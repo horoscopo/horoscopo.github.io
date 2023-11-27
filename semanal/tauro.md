@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: tauro 20 de noviembre 2023 al 26 de noviembre 2023 
-description: Horóscopo semanal tauro 20 de noviembre 2023 al 26 de noviembre 2023. Vienen emociones fuertes Tauro, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
+title: tauro 27 de noviembre 2023 al 03 de diciembre 2023 
+description: Horóscopo semanal tauro 27 de noviembre 2023 al 03 de diciembre 2023. Vienen emociones fuertes Tauro, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2023-11-20
+ogimg: /images/zodiac/semanal_tauro.png#2023-11-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-11-20'
+ lastmod: '2023-11-27'
 ---
 
 

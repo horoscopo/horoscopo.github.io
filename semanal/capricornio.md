@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: capricornio 20 de noviembre 2023 al 26 de noviembre 2023 
-description: Horóscopo semanal capricornio 20 de noviembre 2023 al 26 de noviembre 2023. De verdad Capricornio, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
+title: capricornio 27 de noviembre 2023 al 03 de diciembre 2023 
+description: Horóscopo semanal capricornio 27 de noviembre 2023 al 03 de diciembre 2023. De verdad Capricornio, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2023-11-20
+ogimg: /images/zodiac/semanal_capricornio.png#2023-11-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-11-20'
+ lastmod: '2023-11-27'
 ---
 
 

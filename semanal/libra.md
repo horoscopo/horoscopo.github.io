@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: libra 20 de noviembre 2023 al 26 de noviembre 2023 
-description: Horóscopo semanal libra 20 de noviembre 2023 al 26 de noviembre 2023. Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida Libra, vuelve a brillar.
+title: libra 27 de noviembre 2023 al 03 de diciembre 2023 
+description: Horóscopo semanal libra 27 de noviembre 2023 al 03 de diciembre 2023. Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida Libra, vuelve a brillar.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2023-11-20
+ogimg: /images/zodiac/semanal_libra.png#2023-11-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-11-20'
+ lastmod: '2023-11-27'
 ---
 
 
