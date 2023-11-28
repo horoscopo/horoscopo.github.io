@@ -9,20 +9,20 @@ keywords: horóscopo diciembre, horoscopos en español, horóscopo Libra diciemb
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/libra_mes.png#2023-11-25
+ogimg: /images/mes/libra_mes.png#2023-11-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-11-25'
+ lastmod: '2023-11-28'
 ---
 
 
- > Libra, este mes al fin se calman las energías que te llegan desde los signos cardinales. A partir del día 8 deberías sentirte mucho mejor con la entrada de Saturno en Piscis, ya que te dará más claridad y entrarás en un clima mucho más favorable. Los planetas personales te ayudarán a que vivas periodos felices y constructivos que te permitirán olvidar las pequeñas preocupaciones del día a día. A principios de mes tendrás una gran idea, pero mantén el equilibrio alrededor del 27, porque la luna llena en Aries creará tensiones.
+ > Libra, este mes aparecerán situaciones inesperadas para ti. No dudes en pedir ayuda si lo necesitas y aceptar toda la que te ofrezcan. Será un buen momento para ti en lo laboral, recibiendo incluso comentarios positivos sobre tu trabajo, así que aprovecha estas semanas para asentar tu posición.
 
 
 
-noviembrede 2023 - Te sentirás más sensible a la energía colectiva este mes, estimable Libra, ya que la temporada de Piscis activa el sector de tu carta astral que rige la comunidad. Presta mucha atención a cualquier cambio emocional que pueda invadirte de repente, porque tus habilidades empáticas con seguridad se agudizarán. Quizás quieras monitorear las noticias que consumes, restringiendo cualquier información que pueda causarte pena. Aunque sin lugar a dudas es importante mantenerse al día con la información, buscar formas de marcar la diferencia te ayudará a escapar de la sensación de impotencia o de estar en las garras de un sistema que nunca cambiará.
-Una energía armoniosa te invadirá cuando tu planeta regente, entre a tu signo el 16 de noviembre. Este clima cósmico también elevará tu aura, bendiciéndote con una abundancia de glamour, encanto y carisma. El universo trabajará horas extra para ayudarte a alcanzar tus metas, permitiéndote manifestar con facilidad. Solo recuerda mostrar gratitud y apreciar lo que has construido hasta este momento. Algunas nuevas miradas podrían voltear en tu dirección durante las próximas semanas, por lo que no debes sorprenderte si se revela un nuevo amor.
-Aunque muchas personas estarán deseosas de conocerte, sentirás una mayor atracción hacia los lazos íntimos y la soledad a partir del momento en que el sol entra a Aries y a tu doceava casa solar el día 20. Esta energía es perfecta para trabajar tras bambalinas, lo que te permite identificar cualquier hábito u obstáculo que no te deja avanzar mientras encuentras formas de mejorar antes de que llegue tu retorno solar.
-Días destacados: 1, 3, 7
-Días desafiantes: 9, 10, 16
+diciembrede 2023 - No te sorprendas si eres el centro de atención este mes, estimable Escorpión, ya que Piscis activa tu quinta casa solar. Esta ubicación cósmica tiene como objetivo elevar tu aura, lo que te permite reflejar la fuerza compasiva, talentosa y amante de la libertad que realmente eres. Las personas se sentirán atraídas hacia tu forma de ser abierta pero a la vez misteriosa, lo que te da la oportunidad de hacer nuevas amistades mientras continúas nutriendo las relaciones que aprecias. También sentirás una mayor creatividad y pasión ya que los astros te abren a la inspiración divina. Sin embargo, necesitarás tomate con seriedad tus metas artísticas cuando Saturno entra al signo de los Peces el 7 de diciembre.
+El año astrológico se manifiesta mientras el sol entra a Capricornio y al sector de tu carta astral que rige la salud, las rutinas y el trabajo el día 20. El universo te pedirá que organices tu agenda, en especial si tienes grandes planes para los próximos doce meses. Solo recuerda nutrir tu cuerpo con cada hito que alcanzas, por lo que debes ser consciente de lo que comes, descansar bien y practicar el autocuidado cada vez que lo necesites. La luna nueva se manifiesta al día siguiente y es la ocasión perfecta para reconectar con tus resoluciones de Año Nuevo, en especial si has estado teniendo dificultades para poner en práctica nuevos hábitos.
+Sentirás un cambio importante cuando Plutón entra a Acuario y a tu cuarta casa solar el 23 de diciembre. Esta ubicación planetaria con certeza transformará tu vida doméstica y podría desencadenar reubicaciones, nuevas dinámicas familiares y proyectos de mejoras en el hogar. Por suerte sentirás la motivación necesaria para seguir adelante y con confianza en el universo una vez que el apasionado Marte entra a Cáncer y al sector espiritual de tu carta astral dos días después.
+Días destacados: 5, 20, 28
+Días desafiantes: 3, 16, 25

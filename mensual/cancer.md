@@ -9,21 +9,23 @@ keywords: horóscopo diciembre, horoscopos en español, horóscopo Cáncer dicie
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/cancer_mes.png#2023-11-25
+ogimg: /images/mes/cancer_mes.png#2023-11-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-11-25'
+ lastmod: '2023-11-28'
 ---
 
 
- > Cáncer, para ti el mes de noviembre será uno de esos que no se olvidan y es que tu plenitud creativa y las ganas de vivir harán que nada ni nadie te impida ser feliz. Tu atractivo se verá incrementado durante la noche y serás irresistible para muchas personas.
+ > Cáncer puede que en diciembre las dudas e inseguridades te lleven a crear una historia en tu cabeza que dista mucho de ser real.
+No permitas que estos pensamientos te ganen la batalla e intenta soltar todo lo que te hace sentir mal, e incluso, atrévete a romper con algunos vínculos que mantienes con personas que no te hacen bien. Notarás como al desprenderte de todo ese lastre, empezarás a verlo todo con más claridad.
 
 
 
-Saturno se torna directo el 6 de noviembre, luego de haber estado retrógrado desde el 17 de noviembre. Sé una persona más disciplinada, sin ser cruel contigo. 
-La luna llena del día 13 podría abrir las puertas de par en par para un asunto que ha estado trabado durante mucho tiempo. Tal vez no sea un asunto grande, pero podría ser importante para ti. Si es así, no dudes, ni te contengas las ganas de hacer algo. No serás quien empiece nada. Simplemente, sucederá. 
-Reduce el estrés y encuentra un ritmo más saludable y feliz en tu trayectoria profesional o imagen pública durante la luna nueva del 27 de noviembre. Relájate, y dale con menos fuerza a un objetivo o ambición. Es posible esforzarte demasiado y obtener menos resultados. Por ahora, intenta un toque suave. 
-El sol forma una cuadratura con Saturno el día 25. Ahora ponte el cinturón, y toma el control de un proyecto difícil. Sé fuerte, realista y ten respeto. 
-Días destacados: 8, 17, 27
-Días desafiantes: 10, 23
+diciembrede 2023 - Te sentirás inspirado para hacer del mundo un lugar mejor, querido Cáncer, ya que la estación de Tauro ilumina el sector de tu carta que rige la comunidad.
+Sin embargo, podrían surgir problemas si te bombardeas con noticias trágicas e información decepcionante, por lo que es importante que en su lugar te centres en formas pequeñas y constructivas de marcar la diferencia. Durante el eclipse de luna nueva del 12 de diciembre, tómese un descanso y permítase divertirse, reunirse con su mejor amigo o trabajar en un proyecto apasionante.
+Sentirá un cambio cuando el armonioso Venus entre en su signo el día siete, poniéndole de humor para la paz y el romance. Además de iluminar tu aura con un poco de brillo extra, el Universo elevará tus habilidades de manifestación, así que no tengas miedo de luchar por tus esperanzas y sueños.
+Mientras tanto, Mercurio termina su reinado retrógrado de terror el 14 de diciembre, despejando nuevos caminos para ti socialmente y en tu presencia en línea. Espera que tu red de contactos crezca significativamente cuando Júpiter entre en Tauro el 16 de diciembre. El apasionado Marte entra en el ardiente Leo el 20 de diciembre, impulsándote a perseguir objetivos financieros durante las próximas semanas. El esfuerzo que realice en este momento seguramente tendrá una recompensa monetaria, así que trate de recordar que el Universo no suele recompensar la pereza.
+El veintiuno marca el comienzo de la estación de Géminis, poniéndole en un estado de ánimo más privado y apartado, aunque ahora podría ser un buen momento para consultar tranquilamente con su corazón y su mente.
+Días destacados: 10, 15, 26
+Días desafiantes: 4, 12, 24

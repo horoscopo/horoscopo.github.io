@@ -9,20 +9,19 @@ keywords: horóscopo diciembre, horoscopos en español, horóscopo Aries diciemb
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/aries_mes.png#2023-11-25
+ogimg: /images/mes/aries_mes.png#2023-11-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-11-25'
+ lastmod: '2023-11-28'
 ---
 
 
- > Aries, este mes tu regente se muda a Tauro y notarás que la atmósfera cambia. Las cosas se sentirán más estáticas y menos entusiastas. Recuperarás tu optimismo cuando Marte ingrese a Leo a final de noviembre. Hasta entonces, adáptate a los acontecimientos y ten un poco de paciencia. La situación te vendrá bien para cambiar de táctica y recuperar tu bienestar.
+ > Aries, este mes Júpiter ... ¡entra a tu signo! Has estado haciendo un gran trabajo interno que te ha ayudado a reconectar contigo. Ahora es el momento de ampliar horizontes, y a partir de la segunda quincena de diciembre podrás empezar por tu círculo más cercano. Venus en tu casa III suaviza tus relaciones diarias y tu forma de comunicarte. Aprovecha este tránsito para conocer nuevas personas y hacer nuevos contactos.
 
 
 
-Mientras que la actibidad lunar es demasiado emocional para algunas personas, estimable Aries, tu sientes que la temporada de los Peces te llena de confianza, fuerza e inspiración. Eres uno de los miembros del zodíaco con mayor confianza natural en su propia persona, lo que significa que no tienes miedo de arriesgarte y correr algunos riesgos. Sin embargo, contrarrestas esta exuberancia con un fuerte deseo de privacidad, lo que podría hacer que te sea difícil evaluar cuándo salir de tu ostra. Date permiso de correr riesgos, y a menudo, pero hazte el favor de considerar con exactitud cómo es esto antes de seguir adelante. Si estás esperando compartir con el mundo un proyecto que te apasiona, haz que una de tus amistades con mayor poder de criticismo le eche un vistazo. Si estás esperando acércate a la persona que te interesa, asegúrate de que la comunicación sea abierta y honesta para que el objeto de tu afecto conozca tus intenciones. Después de todo, eres uno de los signos más difíciles de leer, por lo que salir
-puede ser intimidante.
-. Esta temporada ilumina con su brillante luz tu sexta casa solar, lo que requiere que des prioridad al lugar en donde pones tu energía. Si encuentras que estás evitando tus objetivos porque sientes cansancio por tanto cuidar a otras personas, entonces podría ser el momento para que comiencen a defenderse por sí mismos. Poner límites saludables y productivos entre tú y tus seres queridos puede darte el espacio que necesitas para perseguir aquello que más quieres. Vas a necesitar formas más prácticas de usar tu tiempo.
-Días destacados: 2, 5, 31
-Días desafiantes: 14, 22, 28
+El 2 de diciembre, la conjunción entre Marte y Saturno te da una tremenda autoridad. Úsala sabiamente. Haz que el mundo se sorprenda (y tú también) durante la luna nueva del día 12. Comienza algo nuevo, que exprese un lado que sueles esconder de ti. La conjunción entre Marte y Plutón el 26 de diciembre podría encender los temperamentos. Evita el conflicto y dale un uso positivo a la pasión. Con la luna llena del día 27, sé la buena suerte de alguien, y haz crecer y florecer tu reputación. Hacer el favor correcto en el momento adecuado no será olvidado. No será cuestión de elegir qué hacer para quién. Actúa con espontaneidad y deja que la gente se acerque a ti. 
+
+Días destacados: 7, 10, 23
+Días desafiantes: 4, 21

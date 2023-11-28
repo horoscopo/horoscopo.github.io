@@ -9,21 +9,16 @@ keywords: horóscopo diciembre, horoscopos en español, horóscopo Géminis dici
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/geminis_mes.png#2023-11-25
+ogimg: /images/mes/geminis_mes.png#2023-11-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-11-25'
+ lastmod: '2023-11-28'
 ---
 
 
- > Géminis, noviembre será un mes en el que querrás ir más allá de donde nunca has llegado. La sexualidad será muy importante para ti y desplegarás una confianza difícil de resistir. Con Marte transitando por tu signo te será muy fácil atreverte con cosas nuevas y tener la valentía necesaria para llevar a cabo proyectos que tenías en mente.
+ > Géminis, a medida que el mes de diciembre avance, irás dejando atrás todos los lastres que te impedían ser tú misma. Esto implica que te olvidarás de situaciones que no te hacían nada bien, pero también de personas que te cegaban y te impedían crecer como persona.
 
 
 
-Júpiter se torna directo el 10 de noviembre, después de haber estado retrógrado desde el 8 de noviembre. Generosidad y entusiasmo están en aumento. Mantenlos en un nivel razonable. Podrías volverte popular alrededor de la luna llena del día 13. Una buena acción o acto de bondad al azar podría traerte una gran cantidad de buena voluntad y respeto. 
-
-Ten cuidado con un choque de perspectivas o puntos de vista alrededor de la luna nueva del 27 de noviembre. No hay necesidad de pelear, pero podría haber varias ocasiones en que la gente no está en la misma página. Deja que las cosas se solucionen por su cuenta, o quizás dales un suave empujoncito. 
-
-Días destacados: 5, 20, 22
-Días desafiantes: 1, 9</div>
+El trígono que la luna forma con Venus el 5 de diciembre puede suavizar una situación incómoda y llevar a más romance cuando Venus forma un trígono con Marte el 7 de diciembre. Urano se torna retrógrado en Tauro ese día también, cuando puede que lo que digas no sea lo que los demás escuchan. La vida doméstica se pone delicada con la luna nueva del día 12. Un exceso de algo bueno podría crear un problema o desacuerdo después.  El 18 de diciembre, Mercurio retrógrado forma un sextil con Venus. Dale una mirada más profunda a un asunto artístico o romántico. Mercurio se torna directo esa noche. Lo que aprendes del sextil pronto será útil. La luna llena del día 27 trae buena suerte en un asunto financiero y tal vez algunas inesperadas oportunidades de ingreso. Ahora conecta con una red más sofisticada. Además, Venus forma una cuadratura con Plutón ese día. No es un buen momento para forzar la intimidad. Marte se torna directo al día siguiente, y algunas personas pueden tener problemas para escuchar un no.Días destacados: 5, 14, 25Días desafiantes: 1, 30</div>

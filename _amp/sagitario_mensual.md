@@ -7,12 +7,15 @@ home: FALSE
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Sagitario_mes.png#2023-11-25
+ogimg: /images/mes/Sagitario_mes.png#2023-11-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-11-25'
+ lastmod: '2023-11-28'
 ---
 
 
-Durante del mes, relájate y tómate tu tiempo para poner tus prioridades en orden. Puedes oír muchos consejos y sugerencias, pero tú sabes lo que es mejor para ti. Mantén tus propias necesidades primeras en la lista. La luna nueva del día 13 pone oportunidades financieras en tu camino. Esa conversación casual que tienes en la cafetería podría llevar a cosas más grandes y rentables. El 27 de noviembre, la luna nueva podría transformar una situación negativa en una positiva, lo que favorece oportunidades para todos los involucrados. 
+Tómate tu tiempo para asuntos familiares y domésticos alrededor de la luna nueva del 13 de diciembre. Relájate, tómate un té, come un bocadillo y conversa por teléfono. Neptuno se torna retrógrado el día 18 y se mantiene así hasta el 24 de diciembre. La vida puede ser igual de dulce y romántica sin tener tantas fantasías o expectativas idealistas. Tu vida social aumenta durante la luna llena del 27 de diciembre. Puede que no te dejes arrasar por la multitud fiestera, y tal vez no seas el centro de atención, pero te harás notar y escuchar. Deja que los demás bailen y zapateen. Diviértete, pero no es necesario que te alteres. 
+
+Días destacados: 2, 6, 19
+Días desafiantes: 7, 25
