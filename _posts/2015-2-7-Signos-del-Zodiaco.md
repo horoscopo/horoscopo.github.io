@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 27 de noviembre 2023
-description: Horóscopos del dia de hoy 27 de noviembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 28 de noviembre 2023
+description: Horóscopos del dia de hoy 28 de noviembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-11-27
+ lastmod: 2023-11-28
 ---
-Prepárate para tener que pensar rápidamente, porque siempre existe la posibilidad de que haya cambios dramáticos o noticias importantes cuando Mercurio cuadra a Urano como lo hace hoy. No puedes operar en piloto automático. El mismo ritmo continúa por la noche cuando las emociones son más intensas y no pueden ser manipuladas bajo la Luna en Escorpión.
+El aire está lleno de revoluciones comunicativas cuando la conjunción entre el Sol y Mercurio acentúa las negociaciones comerciales de primer nivel. No hay mucha charla (el signo en el que se encuentra es Escorpión), pero las palabras son concisas y poderosas. Practica el arte de la amistad y conecta bajo la Luna en Libra. Solteros, podría ser una noche perfecta para un nuevo romance.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
