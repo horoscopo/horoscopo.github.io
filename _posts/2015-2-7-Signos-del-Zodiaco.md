@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 01 de diciembre 2023
-description: Horóscopos del dia de hoy 01 de diciembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 02 de diciembre 2023
+description: Horóscopos del dia de hoy 02 de diciembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-12-01
+ lastmod: 2023-12-02
 ---
-No se puede tener demasiada información cuando la Luna aspecta tanto a Júpiter como a Saturno. Siempre y cuando sea la información correcta, tu decisión da justo en el tino. Esta noche, el corazón es un poco complicado. Es importante mirar más allá de lo externo, pero incluso entonces, se necesita conocer a alguien mucho mejor.
+Préstale mucha atención a todo lo que está sucediendo. Lo que no es fácil de hacer con las distracciones de hoy. Tendrías sabiduría en tomar nota sobre lo que sientes que es importante. Esta noche, los sentimientos son lastimados fácilmente cuando la Luna cuadra a Plutón. Comportarte cálida, cariñosa, sabia y gentilmente; además de tener real sinceridad. La dulzura artificial no está permitida. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
