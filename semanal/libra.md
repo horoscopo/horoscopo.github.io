@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: libra 27 de noviembre 2023 al 03 de diciembre 2023 
-description: Horóscopo semanal libra 27 de noviembre 2023 al 03 de diciembre 2023. Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida Libra, vuelve a brillar.
+title: libra 04 de diciembre 2023 al 10 de diciembre 2023 
+description: Horóscopo semanal libra 04 de diciembre 2023 al 10 de diciembre 2023. Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza Libra. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2023-11-27
+ogimg: /images/zodiac/semanal_libra.png#2023-12-04
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-11-27'
+ lastmod: '2023-12-04'
 ---
 
 
 
-## Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida Libra, vuelve a brillar.
+## Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza Libra. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
 
-Tienes la necesidad de tener tu mente en paz, ponerla en blanco, no pensar NADA, pero como eso es casi imposible, y más para ti, lo que debes hacer es elegir el camino que quieres tomar, enfrentarte a ello y tomar una decisión.
-El comienzo de la semana podría coincidir con mensajes confusos o puede que sientas la tentación de pasar a la acción a partir de información falsa. Podría haber inconvenientes inesperados más adelante, por lo que no deberías apresurarte a nada. Las cosas se vuelven más firmes a medida que la semana progresa, y mientras no te apures, todo irá bien. Mientras Marte ingresa a Leo el jueves, los asuntos financieros se convierten en tu máxima prioridad, haciéndote sentir la voluntad de resolver cualquier problema pendiente.
+Quieres empezar a construir tu camino sin estar pendiente de lo que los demás piensen, sin tener que pensar si estarán bien o mal, si puede molestarles o no. 
+ por mirar antes por otros y después que esos no fueran capaces de mirar por ti… Todo eso dolía, y mucho.
+El Sol entra a tu sector social, animándote a socializar, aceptar invitaciones y disfrutar de pasar tiempo con amigos. La semana de festividades se vislumbra perfecta para relaciones románticas, así como también oportunidades para avanzar hacia nuevos círculos. De hecho, el viernes 25 de diciembre podría hacer surgir una oportunidad muy emocionante si lo que buscas es romance. Si ya tienes pareja, tú y tu amor podrían pasársela de lo lindo ya sea solos o en familia. Además, tus finanzas podrían no ser tan susceptibles a interrupciones como lo han sido últimamente.
 
 ## Dinero
 
-Con el Universo afectando tu sector profesional, puede que se trate sobre el pasado, trabajos anteriores, las elecciones pasadas de carrera, o incluso empleadores anteriores. Sin embargo, un aspecto armonioso afecta a tu sector de vidas pasadas, karma, e instituciones, por lo que puede que no sea una mala idea prestarle atención a los aspectos más esotéricos de tu vida. Lo que haces para ganarte la vida afecta a los demás, no importa cuánto dinero ganes. Asegúrate de que es algo que no te genere consecuencias kármicas más tarde.
+Te enfrentas a un momento emocionante ahora. Con tantas oportunidades adicionales de ganar dinero y aumentar tu salario, puede ser tentador gastar más también. Tu sector de empleo es la clave. ¿Por qué no aprovechar las ventajas de un programa de ahorro que se te ofrezca a través del trabajo? En algunos casos, tu compañía igualará la misma cantidad que decidas ahorrar. No está mal.

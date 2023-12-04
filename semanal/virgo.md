@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 27 de noviembre 2023 al 03 de diciembre 2023 
-description: Horóscopo semanal virgo 27 de noviembre 2023 al 03 de diciembre 2023. No dejes todo por nada, ni por nadie. Déjalo por ti. Que te caes, está bien, ya has aprendido a levantarte muchas veces…
+title: virgo 04 de diciembre 2023 al 10 de diciembre 2023 
+description: Horóscopo semanal virgo 04 de diciembre 2023 al 10 de diciembre 2023. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2023-11-27
+ogimg: /images/zodiac/semanal_virgo.png#2023-12-04
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-11-27'
+ lastmod: '2023-12-04'
 ---
 
 
 
-## No dejes todo por nada, ni por nadie. Déjalo por ti. Que te caes, está bien, ya has aprendido a levantarte muchas veces…
+## Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
 
-Vamos Virgo, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. Aprovecha tu vida Virgo, aprovéchala ahora más que nunca. Se vive mejor sin esperara nada de nadie Virgo pero el problema es que, aunque la teoría te la sepas, la práctica te falla un poco. Vuelves a confiar cuando pasa un tiempo, y si no a confiar, al menos das otra oportunidad, das el 100% de ti aunque presumas de frío. Sí, quizás seas frío después, pero estás ahí. Siempre. Y eso no es del todo sano para ti porque no dejas tiempo para que los demás se arrepientan de lo que han hecho y tampoco te das tiempo tú para saber realmente qué es lo que quieres. Y vuelves al bucle. Otra vez. Deja de obsesionarte por lo complicado, en realidad, tú eres muy así, las cosas como son, pero de verdad que sabes que no te trae nada bueno, céntrate en ti y en tus proyectos, en tus metas, ahora más que nunca necesitas esa fuerza y esa fe para que las cosas salgan como realmente quieres. Lo demás tiene que ser pasajero, lo demás probablemente entrará y saldrá de tu vida, pero el que se queda eres tú, así que, aprovecha tu talento ante todo, tus ganas de hacer las cosas bien. Tienes que empezar a dar de ti lo que tu recibes de los demás Virgo. Así, tal cual.
-Si entablas una nueva amistad esta semana, es posible que dure mucho tiempo. Esto se debe a que la actividad lunar puede propiciar la mejor combinación emocional posible, en la cual ambos podrán apoyarse. Sin embargo, la entrada de Mercurio a Capricornio puede ser un llamado de atención para que escuches a tus sentimientos. Pueden estar tratando de decirte algo. Si tuviste problemas para tomar una decisión, seguir tus instintos puede ayudarte a decidir qué hacer.
+No eres la misma persona que eras hace tres años, un año o unos meses atrás, estás en constante cambio, las experiencias te han hecho ser mucho más duro, mucho más fuerte, y sí, te han hecho ver que todo tiene un principio pero que nada dura eternamente. Si necesitas consejo, habla contigo mismo, recuérdate experiencias, aunque muchas sean dolorosas, nadie mejor que tú sabe por lo que has pasado, nadie mejor que tú sabe lo que no quiere volver a repetir. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo. No está bien conformarse Virgo, no está bien pensar que lo que tienes es porque lo mereces, porque no es así, lo que tienes es porque aún no has buscado o encontrado lo que de verdad deseas, pero si no eres tú quien intenta encontrarlo, nadie lo hará por ti. Pasarán los años, ¿y de verdad te quieres ver en la misma situación dentro de por ejemplo dos años? No, porque tú tienes sueños, tienes proyectos, pero sólo te falta ese empujón, esa “seguridad” que parece que tienes pero que también te falta. Rompe con todo Virgo, mírate y observa lo que ves, observa lo que vales, puedes llegar a conseguir tanto… Sólo te falta tomar esa decisión que quizás asusta tanto pero que es la decisión que hará que tu destino cambie…
+Estás pasando por un momento en el que creativas ideas y alegres oportunidades te animan a salirte de tu zona de confort. Con el Sol entrando a tu sector financiero a partir del viernes, podrían surgirte pensamientos acerca de cómo puedes hacer un mejor uso de tu dinero. La actividad lunar del sábado podía verte gastar de más a menos que te establezcas un límite. Te percatarás de que el progreso en general es muy posible una vez que Mercurio entre a tu signo el domingo. Sin embargo, argumentos sobre el flujo de efectivo podrían arruinar tu fin de semana.
 
 ## Dinero
 
-Con un aspecto armonioso ahora, puede que tengas la tentación de celebrar antes de tiempo. Pero con toda la energía que hay en el aire ahora, lo mejor es encontrar una manera de sacarle provecho primero. La actividad astral afectará los viajes, el aprendizaje y la espiritualidad, indicando el momento de buscar formas de ampliar tu mercado. Si ofreces un producto o servicio que podría ser vendido en el extranjero, haz que suceda ahora. Consulta a un especialista en ventas si necesitas ayuda.
+Los aspectos son ideales no sólo para la energía y el hacer las cosas, sino también para realizar actividades físicas como ejercicio. Si has tenido la intención de salir más o comenzar una nueva práctica de yoga, esta es la semana para empezar. También es ideal para sublimar esa energía hacia cambiar tu situación financiera para bien. Comienza con un plan serio para acabar de pagar tu deuda.

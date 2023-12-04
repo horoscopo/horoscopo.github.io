@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 27 de noviembre 2023 al 03 de diciembre 2023 
-description: Horóscopo semanal escorpio 27 de noviembre 2023 al 03 de diciembre 2023. Llega una semana bonita Escorpio, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención Escorpio, y seguramente la persona que menos te esperabas…
+title: escorpio 04 de diciembre 2023 al 10 de diciembre 2023 
+description: Horóscopo semanal escorpio 04 de diciembre 2023 al 10 de diciembre 2023. Escorpio, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2023-11-27
+ogimg: /images/zodiac/semanal_escorpio.png#2023-12-04
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-11-27'
+ lastmod: '2023-12-04'
 ---
 
 
 
-## Llega una semana bonita Escorpio, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención Escorpio, y seguramente la persona que menos te esperabas…
+## Escorpio, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
 
-La meta es dura Escorpio, pero lo conseguirás. Estás en un proceso de adaptación, estás peleando fuertemente para que las cosas salgan como tú quieres. No hay Escorpio que no lo de todo cuando realmente desea algo… y así estás tú ahora, peleando como el que más. Pero a veces también sientes que nadas a contracorriente, y al final, te acaba arrastrando. Los mejores comienzos, normalmente, vienen después que los peores finales así que piensa que el estrés que has podido pasar últimamente no será en vano… Si las cosas cuestan, es por algo, pero tú lo tienes claro, vas a por todo a muerte, a fuego, y ya no te importará quien se cruce en tu camino o quien quiera estar a tu lado, porque los de verdad están estarán…No hay más… Tu carácter será más poderoso que nunca pero debes creértelo, ahora mucho más. Rodéate de personas que te hagan crecer, no de personas que te estanquen o intenten hundirte, es obvio que sabes de sobra quienes son pero a veces, el problema es que intentas cambiar a los demás, aunque sólo sea por orgullo, pero no, debes aprender simplemente a alejarte, a veces, sin ni siquiera despedirte Escorpio. Porque un mínimo acercamiento a lo que te hace mal puede suponer muchos pasos atrás… Cuesta dejar a un lado cosas en las que tenías mucha fé, pero a veces, si no las dejas jamás verás los miles de caminos que se te abrirán a los lados. No hace falta que digas todo lo que piensas o que hagas todo lo que crees que debes hacer, en ocasiones, dar media vuelta y dejar todo es lo mejor… Te va a costar la salud si no lo haces, y tu propia vida Escorpio… No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
-Una vez que el Sol haya ingresado a tu zona de relaciones, te resulta más fácil pensar las cosas con calma y analizar qué quieres hacer. A veces debes alejarte de una persona para volver a acercarte de la forma correcta. Si has tenido ilusiones sobre una persona que te interesa, el vínculo de Mercurio con Saturno te ayuda a ver a esa persona con mayor claridad. Aun así, hay una buena probabilidad de que te encuentres con una posible alma gemela.
+Céntrate en tus metas Escorpio, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
+La actividad lunar de esta semana puede ser una gran oportunidad para mejorar tus habilidades o considerar estudiar una carrera que te abra el camino a un mejor trabajo o a mejores oportunidades empresariales. Lo que pueda expandir tus horizontes puede ser muy bueno para ti en este momento. Y con Marte en el sector superior de tu carta alentándote a buscar tu lugar en el centro de atención, lo que te ayude a conseguirlo es bienvenido.
 
 ## Dinero
 
-El Universo está iluminando tu sector de comunicación. Lo que esto significa es que tienes mucho trabajo que hacer para ganar dinero, y que no es el mejor momento para gastar en exceso. Estudia e imita las formas de los inversionistas exitosos en la medida de tu capacidad.
+Te encuentras en un momento de aumento de actividad social, lo que puede ayudar a cualquier empresa de negocios puesta en marcha recientemente. Con cierto enfoque en grupos, política y negocios personales, estás a punto de hacer un gran cambio en tu vida; uno que puede acabar afectando la forma en la que vives. Es más fácil comunicarse con grupos acerca de tus ideas y de influir en la opinión pública a tu favor.
