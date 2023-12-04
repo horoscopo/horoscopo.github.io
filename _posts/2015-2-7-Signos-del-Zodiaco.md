@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 03 de diciembre 2023
-description: Horóscopos del dia de hoy 03 de diciembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 04 de diciembre 2023
+description: Horóscopos del dia de hoy 04 de diciembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-12-03
+ lastmod: 2023-12-04
 ---
-Mercurio en Leo mejora las negociaciones, la investigación y la capacidad para formular ideas. Contribuye con tu talento y haz que sea reconocido en las próximas semanas. Esta noche, espera un montón de pensamientos provenientes del corazón, permitiendo que tiernos sentimientos sean revelados cuando la Luna aspecte tanto a Mercurio (pensamiento) como a Venus (amor).
+Si has estado sintiendo un abrumador aburrimiento, el sextil entre la Luna y Mercurio te ofrece la oportunidad de hacer algo interesante. ¡Algo bastante inspirador! El mensaje de esta noche para los solteros es que es posible que deseen estar a solas. Si es así, protegerán a su inocente y confiado corazón. Sin embargo, las parejas pueden demostrarse su amor y confianza mutua.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
