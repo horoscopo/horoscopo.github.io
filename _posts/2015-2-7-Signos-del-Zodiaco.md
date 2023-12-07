@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 06 de diciembre 2023
-description: Horóscopos del dia de hoy 06 de diciembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 07 de diciembre 2023
+description: Horóscopos del dia de hoy 07 de diciembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-12-06
+ lastmod: 2023-12-07
 ---
-A sucede, lo que hace que B suceda y eso hace que C suceda, y todos juntos forman un acontecimiento, y es así cómo se enredaron las cosas (en caso de que tengas un misterio qué resolver bajo la Luna en Escorpión). Esta noche, la aventura llama, así que llena el espacio en blanco: ¿No sería algo locamente divertido si te lanzaras a…?
+Canaliza tu energía mental mientras Mercurio transita en Cáncer. Ahora es el momento adecuado para permitirte aceptar nuevos pensamientos y sentimientos. Las grandes ideas echan raíces en condiciones fértiles como éstas. ¿Podría la noche volverse un poco loca cuando la Luna conjunte al impredecible Urano? Sal a echarle un vistazo a la locura (o tal vez no).
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
