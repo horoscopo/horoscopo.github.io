@@ -1,27 +1,29 @@
 ---
 layout: horoscopos
-title: aries 04 de diciembre 2023 al 10 de diciembre 2023 
-description: Horóscopo semanal aries 04 de diciembre 2023 al 10 de diciembre 2023. Llega una buenísima semana Aries pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
+title: aries 11 de diciembre 2023 al 17 de diciembre 2023 
+description: Horóscopo semanal aries 11 de diciembre 2023 al 17 de diciembre 2023. Estás a tope Aries, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2023-12-04
+ogimg: /images/zodiac/semanal_aries.png#2023-12-11
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-12-04'
+ lastmod: '2023-12-11'
 ---
 
 
 
-## Llega una buenísima semana Aries pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
+## Estás a tope Aries, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
 
-A veces parece que no progresas, y te estancas, y te lamentas, y te das por vencido/a… Pero no, lo que pasa es que las cosas van más lentas de lo que queremos. Y todo lo que des hoy te va a repercutir en el futuro, aunque ahora parezca que no funciona del todo. ¿Estás en el lugar correcto Aries? Seguro que sí, siempre has sido listo/a como para saber lo que haces… No hace falta que ahora pruebes otras cosas, lo que tienes que hacer es enfocarte en las que tienes, y tratar de hacer todo bien. La constancia es la clave del éxito Aries. No te pierdas ahora por otras sendas, de verdad, vas bien encaminado ahora pero échale ganas y sobretodo no te rindas. Y tampoco dejes que la influencia del resto tenga poder sobre ti, ni mucho ni poco, NADA.
-Con Marte, el planeta que rige tu profesión, entrando a tu sector de viajes y exploración, sientes ganas de comenzar un curso que te ayude a lo largo de tu camino hacia el éxito. La fase retrógrada de Mercurio, que comienza esta semana, sugiere que no confíes en las palabras de los demás. Pueden tener buenas intenciones, pero verifica los hechos antes de firmar cualquier documento. El Domingo será una ocasión animada y hogareña que disfrutarás y que te acercará a tus familiares y amigos.
+Porque quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que 
+ Pero no, debes escapar de esos pensamientos, enfocarte en otras cosas en las que no debas decidir esto o lo otro, si no que simplemente fluyas sin más, 
+pero otras muchas veces sí, así que, plantéate en cuales puedes hacer algo para cambiar el rumbo y en cuáles lo mejor de todo es dar media vuelta y olvidar, aunque sea complicado…
+Podrías recibir una sorpresa esta semana, y podría ser debido a la influencia retrógrada de Mercurio. Hay posibilidad de que te encuentres a  alguien que alguna vez conociste o de que escuches de un viejo amigo de la universidad o antiguo empleo. Puede que también sea conveniente que te asegures de que aquellos que no has visto en un tiempo estén bien y le ofrezcas tu apoyo en caso de que lo necesiten. Las oportunidades románticas se vislumbran abundantes, pero es posible que prefieras explorar temas de interés o participar en deportes competitivos para quemar tu exceso de energía.
 
 ## Dinero
 
-Te enfrentas a algunas decisiones sobre el dinero esta semana. Aunque por lo general eres bastante inteligente cuando de dinero en efectivo se trata, puede ser que los aspectos te hagan sentir confusión de alguna manera. Comprueba doblemente las cifras antes de invertir tu dinero, al igual que debes revisar tus propias cuentas o la forma en la que lleves las cuentas (sobre todo con el balance de tu chequera). Es posible que algunas cuentas no salgan bien por ahora, sin embargo los aspectos se aseguran de que por lo menos estés bien conectado/a y te mantengas estable.
+Para ti, esta semana se trata de tomar ventaja de las circunstancias que se presentan en tu vida laboral. Tienes suerte, así que puede que encuentres que tienes la oportunidad de impresionar a alguien que tiene poder para tomar decisiones financieras. Estas afectarán de manera positiva tu vida en el futuro, así que asegúrate de poner tu mayor esfuerzo. Podrías aprender importantes lecciones de vida personales y financieras, el incorporarlas a tu vida cotidiana te hace más fuerte.

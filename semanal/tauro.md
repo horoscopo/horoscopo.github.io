@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: tauro 04 de diciembre 2023 al 10 de diciembre 2023 
-description: Horóscopo semanal tauro 04 de diciembre 2023 al 10 de diciembre 2023. Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
+title: tauro 11 de diciembre 2023 al 17 de diciembre 2023 
+description: Horóscopo semanal tauro 11 de diciembre 2023 al 17 de diciembre 2023. Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Tauro, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2023-12-04
+ogimg: /images/zodiac/semanal_tauro.png#2023-12-11
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-12-04'
+ lastmod: '2023-12-11'
 ---
 
 
 
-## Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
+## Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Tauro, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
 
-A veces las cosas tienen que ser a tu manera o a ninguna Tauro, está claro, pero no esta semana. Trata de acercar opiniones con la gente que de verdad te importa. Estos días tienes que experimentar a toda costa. Déjate de tonterías y haz lo que siempre has querido hacer, lleva a cabo tus ideas y tus deseos de una vez, haz cosas que nunca has hecho pero que estás deseando probar, vive una vida de la que nunca tengas nada que lamentar, que nunca te deje con las ganas de nada Tauro. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo pero no te pongas nervioso cuando el resto no entienda tus ambiciones, cuando no comprendan lo lejos que quieres volar. No todo el mundo lo entiende pero no por eso debes quedarte donde estás. No es tarde para hacer las cosas bien, no es tarde para tomar decisiones, no es tarde para cambiar el camino hacia otro lugar. Pero hazlo antes de que sea tarde. Hazlo ahora que estás a tope.
-Es hora de perseguir tus sueños y explorar horizontes lejanos. Si necesitas inspiración o sientes que te vendría bien algo de mejora personal, este podría ser un muy buen momento para buscar la ayuda de un asesor de vida que pueda ayudarte. Sin embargo, entrarás a una fase natural en la que se te aconseja descansar y relajarte conforme la actividad solar a mitad de semana. Aprovecha esta oportunidad para orientarte, analizar cuál es tu situación y pensar en lo que te gustaría lograr en los próximos meses.
+Tu cabeza quiere un cambio Tauro, y tu corazón también, y te lo está pidiendo a gritos pero sigues siendo testarudo cuando quieres, y muchas veces aunque a tu alrededor haya una vibra negativa casi imposible de aguantar, tú te la echas a la espalda y la aguantas como el que más. Pero mira Tauro, no se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo. A veces, parece que no quieres salir de tu estado de confort, de esa zona en la que de confort en el fondo hay poco. Y no quieres salir por miedo a encontrarte cosas peores pero Tauro por favor, si lo que hay no te llena o no te realiza como persona algo tendrás que hacer ¿no? Esta semana vas a tener sensaciones muy diferentes, sentimientos con un pasado que no es tan pasado. Tienes que acordarte de muchas cosas, acordarte de que eras feliz antes de tener lo que tienes ahora, de que debes seguir creciendo, de que has de liberarte de algunas expectativas muy grandes que tenías y que después han resultado ser falsedad y mentira… Arréglate y déjate de perezas, sal, disfruta, respira aires nuevos y cambia el chip.
+A medida que el sol forma un ángulo hacia el etéreo Neptuno, ten cuidado al firmar contratos o tratos asociados a tu trabajo o negocio. En particular, lee los términos y condiciones y revisa las cláusulas y condiciones. Lo que sea que hagas, no dejes nada a la suerte. La luna nueva del 12 podría llevarte a dejar de lado la prudencia e irte de compras. Si lo haces, sería sabio ponerte un límite. ¡No te enojes! Escuchar a tu intuición podría ser muy beneficioso esta semana.
 
 ## Dinero
 
-La actividad en tu sector de grupos y política te insta a dejar de esconderte detrás de e-mails y textos para hacer negocios. El teléfono está bien a veces, pero si quieres que te recuerden, lo mejor es presentarte en persona. Los encuentros con nuevos clientes en un entorno social pueden conducir a rápidas ventas, mientras que con colegas existentes pueden cimentar el trabajo en equipo. Puedes sentir que estás detrás de la curva de alguna manera, pero estás exactamente donde tienes que estar.
+Es hora de mostrar una presencia real con tu ropa, tu conducta y manera de hablar. No hay lugar para personas tímidas aquí, solo personas con autoridad y claridad pueden dar su punto a entender con eficacia. Acude a tu hogar para obtener ideas para ahorrar dinero o formas de ganar dinero. Un negocio basado en tu hogar no es una mala idea en lo absoluto.

@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: libra 04 de diciembre 2023 al 10 de diciembre 2023 
-description: Horóscopo semanal libra 04 de diciembre 2023 al 10 de diciembre 2023. Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza Libra. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
+title: libra 11 de diciembre 2023 al 17 de diciembre 2023 
+description: Horóscopo semanal libra 11 de diciembre 2023 al 17 de diciembre 2023. Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento Libra. Hay personas a las que TÚ debes dar ese escarmiento.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2023-12-04
+ogimg: /images/zodiac/semanal_libra.png#2023-12-11
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-12-04'
+ lastmod: '2023-12-11'
 ---
 
 
 
-## Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza Libra. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
+## Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento Libra. Hay personas a las que TÚ debes dar ese escarmiento.
 
-Quieres empezar a construir tu camino sin estar pendiente de lo que los demás piensen, sin tener que pensar si estarán bien o mal, si puede molestarles o no. 
- por mirar antes por otros y después que esos no fueran capaces de mirar por ti… Todo eso dolía, y mucho.
-El Sol entra a tu sector social, animándote a socializar, aceptar invitaciones y disfrutar de pasar tiempo con amigos. La semana de festividades se vislumbra perfecta para relaciones románticas, así como también oportunidades para avanzar hacia nuevos círculos. De hecho, el viernes 25 de diciembre podría hacer surgir una oportunidad muy emocionante si lo que buscas es romance. Si ya tienes pareja, tú y tu amor podrían pasársela de lo lindo ya sea solos o en familia. Además, tus finanzas podrían no ser tan susceptibles a interrupciones como lo han sido últimamente.
+Tienes que esforzarte Libra, esforzarte para no cagarla de nuevo. Tienes que esforzarte para no enviar mensajes cuando te dan esos impulsos y arrebatos en los que no te controlas, tienes que esforzarte en no perder los papeles cuando algo no sale, tienes que esforzarte en tratar de vivir en el momento y en pasar de malos rollos. Ya está bien Libra, hazte valer de una vez. Siempre te tratan de buenas persona, que lo eres sí, pero de ahí a que se aprovechen… No. Esta semana hay un gran cambio que llevas esperando mucho tiempo, céntrate en ello, es muy importante que mantengas tu cabecita ahí y que lo externo te deje de afectar. Y que el resto se gane estar a tu lado si realmente quiere, que las palabras se las lleva el viento y a ti, otra cosa no, pero hay mucha fila detrás que quiere engancharte… Nada tiene que ser ahora suficiente para ti Libra, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. Si de verdad se preocupan por ti, no dejarán que la vida se interponga en el camino, no importará lo ocupadísimos que estén, el tiempo para las cosas que importan se saca. Así que, esta vez, estate tranquilo Libra, sin remordimiento de ningún tipo, y espera a que el resto te busque…
+Los asuntos monetarios cobran más importancia a partir del Lunes con Marte agitando esta área de tu vida. Si bien esta influencia puede coincidir con un aumento de ingresos, puede que también tengas que lidiar con facturas o gastos inesperados. A pesar de esto, hay muchas oportunidades para ganar dinero extra si es que quieres. Ten especial cuidado el Jueves, cuando tu frustración en referente a dinero podría llegar a un punto crítico. La Luna Nueva del 12 en tu signo podría iniciar cambios, animándote a actuar positivamente.
 
 ## Dinero
 
-Te enfrentas a un momento emocionante ahora. Con tantas oportunidades adicionales de ganar dinero y aumentar tu salario, puede ser tentador gastar más también. Tu sector de empleo es la clave. ¿Por qué no aprovechar las ventajas de un programa de ahorro que se te ofrezca a través del trabajo? En algunos casos, tu compañía igualará la misma cantidad que decidas ahorrar. No está mal.
+Esta semana te enfrentas un momento de aumento de energía cuando se trata de auto-expresión. Alguien en tu lugar de trabajo tiene celos de ti y no puede ser capaz de manejar tu naturaleza poderosa. No importa. Te estás exponiendo hacia el mundo, lo cuál sólo puede ser positivo. Di tu verdad. Aparentemente estás destinado/a a mostrar tu profundidad y madurez, aunque otros necesiten oírlo.

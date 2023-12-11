@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 04 de diciembre 2023 al 10 de diciembre 2023 
-description: Horóscopo semanal escorpio 04 de diciembre 2023 al 10 de diciembre 2023. Escorpio, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
+title: escorpio 11 de diciembre 2023 al 17 de diciembre 2023 
+description: Horóscopo semanal escorpio 11 de diciembre 2023 al 17 de diciembre 2023. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2023-12-04
+ogimg: /images/zodiac/semanal_escorpio.png#2023-12-11
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-12-04'
+ lastmod: '2023-12-11'
 ---
 
 
 
-## Escorpio, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
+## A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
 
-Céntrate en tus metas Escorpio, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
-La actividad lunar de esta semana puede ser una gran oportunidad para mejorar tus habilidades o considerar estudiar una carrera que te abra el camino a un mejor trabajo o a mejores oportunidades empresariales. Lo que pueda expandir tus horizontes puede ser muy bueno para ti en este momento. Y con Marte en el sector superior de tu carta alentándote a buscar tu lugar en el centro de atención, lo que te ayude a conseguirlo es bienvenido.
+Esfuérzate un poco más de lo que hiciste ayer Escorpio, simplemente eso, lo que has aprendido todos estos años se ha instalado ya en tu cabecita. Y bien sabes que cuando quieres cambiar algo y empiezas a presionarte todo sale mal. 
+ de hecho ahora es ese momento en el que puedes utilizar todo lo que sabes para ser un poco más feliz.
+Una compra hecha al comienzo de la semana podría no ser tan buena como parece ser, por lo que abstente de actuar acaloradamente e investiga antes de seguir adelante. Evita una disputa al tomar la iniciativa y mostrar que tienes voluntad para alcanzar un compromiso. Hay aún más cambios esta semana con Marte entrando a una parte más aislada de tu carta, animándote a liberar sentimientos para mejorar tu estado espiritual. Esta es tu oportunidad para dejar de lado rencores o resentimientos y sentirte más feliz y con más energía.
 
 ## Dinero
 
-Te encuentras en un momento de aumento de actividad social, lo que puede ayudar a cualquier empresa de negocios puesta en marcha recientemente. Con cierto enfoque en grupos, política y negocios personales, estás a punto de hacer un gran cambio en tu vida; uno que puede acabar afectando la forma en la que vives. Es más fácil comunicarse con grupos acerca de tus ideas y de influir en la opinión pública a tu favor.
+Tienes algunos retos esta semana. Aunque te sientas con energía para tenerlo todo listo, puede que tengas algunos problemas en tu lugar de trabajo o cuando se trata de tus grandes metas profesionales. Este pequeño contratiempo es sólo eso. Se moverá hacia el pasado casi tan pronto como suceda. El Universo te pide que seas audaz y te enfoques ahora.

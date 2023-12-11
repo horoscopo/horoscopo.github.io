@@ -1,27 +1,29 @@
 ---
 layout: horoscopos
-title: sagitario 04 de diciembre 2023 al 10 de diciembre 2023 
-description: Horóscopo semanal sagitario 04 de diciembre 2023 al 10 de diciembre 2023. Todo acaba cicatrizando, pero tienes que dejar que cicatrice Sagitario. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
+title: sagitario 11 de diciembre 2023 al 17 de diciembre 2023 
+description: Horóscopo semanal sagitario 11 de diciembre 2023 al 17 de diciembre 2023. Eleva tu ego Sagitario, créete lo que vales, pisa fuerte y deja huella. No necesitas a nada ni a nadie para ser feliz, te necesitas a ti. Entero. 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2023-12-04
+ogimg: /images/zodiac/semanal_sagitario.png#2023-12-11
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-12-04'
+ lastmod: '2023-12-11'
 ---
 
 
 
-## Todo acaba cicatrizando, pero tienes que dejar que cicatrice Sagitario. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
+## Eleva tu ego Sagitario, créete lo que vales, pisa fuerte y deja huella. No necesitas a nada ni a nadie para ser feliz, te necesitas a ti. Entero. 
 
-A veces quieres llegar al fondo de cualquier cosa Sagitario, pero el problema es que también a veces, eso, no te hace ningún bien. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Sagitario. De verdad, a veces es mejor tener paz que tener razón. ¿Por qué no tratas de pasar del mal rollo? ¿Por qué no te alejas de lo que te pone los nervios de punta? Quizás debas dar algunas lecciones y quizás deberías hacerte de rogar un poco. Al menos para que el resto despierte. Muchos no saben lo que se pierden al perder a Sagitario, eh. Esta semana deberías hacerte valer un poco, deberías recordarte todas las lecciones que ya llevas aprendidas y dejar de repetir patrones todo el tiempo. Sé valiente y no te engañes a ti mismo. Cuando haces algo por alguien no esperas que hagan lo mismo por ti porque lo haces de corazón pero tampoco esperas que no muevan ni un dedo. Tú sabes de sobra lo que funciona y lo que no funciona Sagitario así que, por favor, empieza a ser un poco más productivo y deja de perder el tiempo. Ve a por lo que interesa, a por lo que aporta, a por lo que te hace mejor. No vuelvas a dejar tus planes de lado por nada ni por nadie.
-Tu sector de finanzas está bajo enfoque esta semana con el día lunes pudiendo traerte una oportunidad para gastar tu dinero. Si has tenido tu ojo en un determinado objeto, este podría ser el momento en el que decidas comprarlo sin importa cuánto cueste. Por otro lado, ser sensible a los sentimientos de alguien podría alentar a una charla sincera con el fin de prevenir un desacuerdo. El fin de semana podía verte saliendo a cazar gangas, con la opción de un descuento que sea demasiado bueno como para dejarlo pasar. ¡Mantente alerta!
+Ya tienes demasiados quebraderos de cabeza como para encima entrar en una etapa de poco orgullo. Nada de eso. 
+ La gente cree que estarás siempre ahí, y es que eres muy leal a los tuyos, y es que has dejado pasar errores grandes que te han costado muchos disgustos, errores que en otros momentos los hubieras hecho pagar caros. ¿Qué te pasa Sagitario? 
+ todo lo que desea.
+Un deseo dinámico de cambio se viene desarrollando hace tiempo. Esta semana podría alcanzar un punto crítico y puede que debas entrar en acción. Si una oportunidad se cruza en tu camino, no dudes en aprovecharla. Aunque no sientas que es el momento de adoptar un nuevo modo de vida, ¡anímate! Adquirirás experiencia a medida que avanzas. Al mismo tiempo, puede que decidas alejarte de una relación para comprender mejor tus motivos.
 
 ## Dinero
 
-Tu vida financiera está activa esta semana. Se te está pidiendo que cambies tu forma de ver el dinero en tu vida. Esto podría abrir un nuevo canal para manifestar nuevas fuentes de ingresos si mantienes tus ojos bien abiertos. Utiliza tus puntos fuertes para trabajar en pagar tu deuda. Tienes todo lo necesario para disminuir considerablemente esas facturas. Sólo destina de tus ingresos lo más que puedas y ve los números disminuir exorbitantemente.
+Esta semana, el Universo afecta el área de tu carta que rige tu hogar. Es hora de poner no sólo palabras, sino también ideas en práctica. Te has estado sentando en una potencial mina de oro. El llevar tus talentos al Internet significará ventas directas, suscriptores de correo electrónico, y potencialmente clientes para el futuro y a largo plazo.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 04 de diciembre 2023 al 10 de diciembre 2023 
-description: Horóscopo semanal leo 04 de diciembre 2023 al 10 de diciembre 2023. Tienes que plantarte Leo, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
+title: leo 11 de diciembre 2023 al 17 de diciembre 2023 
+description: Horóscopo semanal leo 11 de diciembre 2023 al 17 de diciembre 2023. Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2023-12-04
+ogimg: /images/zodiac/semanal_leo.png#2023-12-11
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-12-04'
+ lastmod: '2023-12-11'
 ---
 
 
 
-## Tienes que plantarte Leo, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
+## Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
 
-Eres demasiado honesto con el resto Leo y a pesar de que a veces quieras esconder tus sentimientos, no puedes, y en el fondo llevas siempre el corazón en la manga… Es difícil comprenderte Leo, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones… Es complicado para ti encontrar a alguien que de verdad comprenda que sólo es miedo al dolor, que tú lo que quieres es amor, amor de esos de película, romance puro, dulce, fiel y sincero… Que quizás con un abrazo se solucionaría tanto, con una palabra bonita, con un “te quiero” o “estoy aquí”… Pero no lo pides… Ni tampoco quieres. Siempre fuiste de los que prefieren esperar a que al resto les salgan los detalles. Y es complicado, complicado porque has estado más destrozado de lo que has sido querido. No confías fácilmente, siempre estás alerta, esperando esa “puñalada”, esperando esa traición… Tienes que cambiar el chip Leo, tienes que tratar de fiarte en quien de verdad te está demostrando confianza. No renuncies a las cosas bonitas, no renuncies a empezar un nuevo camino, a dejarte querer, no renuncies a ser temerario de vez en cuando, no renuncies a encontrar sensaciones nuevas porque a veces parezca que hay más seguridad en tu soledad. Es complicado encontrar algo cuando no sabes bien qué es lo que buscas… Mira en tu interior y no desesperes, llevará su tiempo, pero lo vas a encontrar. Observa las señales.
-Tu sector social se ilumina cuando Venus se une al Sol en Sagitario. Este es uno de tus mejores periodos de tiempo para salir a citas, para el romance y en general disfrutar de la vida. Además, el martes también podría traer consigo poderosas fuerzas debido a Venus conectando con el ardiente Marte. Si sales a una cita o te encuentras con alguien por quien sientes atracción, trata de mantener la conexión ligera. Debido a que Marte ahora gira hacia atrás, las cosas podrían no salir como se espera. Más tarde, prepárate para algunos cambios en tu situación familiar u hogareña.
+Empieza a hacerte promesas a ti mismo Leo, empieza a prometerte amor propio, hoy y siempre. Has dejado abandonadas algunas cosas últimamente, has dejado de lado tu estilo, tu manera de vivir, tus ganas, tu fuerza, tu pasión… Lo has dejado de lado para entrar en conflictos internos y externos con otras personas… Prométete quererte cada día, y anteponerte siempre al resto por favor, prométete ir donde tu corazón te lleve, donde lata con más fuerza sin tener que pensar constantemente en el daño colateral que puedes causar, prométete no ceder cuando sabes que no debes… Hay sentimientos que no se pueden controlar, pero la tensión y la impulsividad sí. Así que, deja de enredarte en historias que no van contigo. Si hay que dejar las cosas claras que se dejen claras de una vez por todas. Saca los jueguecitos de tu vida, saca las estupideces, saca la basura Leo. Y saca lo que tienes dentro y lo que llevas cargando un tiempo. Hay cosas que simplemente no están hechas para ti, por mucho empeño que le pongas, hay cosas que por más que intentes solucionar no se van a dar, pero tienes que hacerte una pregunta, ¿cuánto tiempo estás dispuesto a aguantar donde estás? Deja que el tiempo cure… Y recuerda, tu amor propio antes que nada y mucho más ahora.
+Podrías ser quien organiza una reunión esta semana. De ser así, el panorama planetario sugiere que debería ser una positiva y optimista experiencia. Sin embargo, con el revelador sol que ingresa a tu sector de recreación, no olvides destinar un tiempo a hacer las cosas que disfrutas. Las próximas semanas lucen bastante dinámicas, lo que te anima a demostrar tus habilidades de distintas maneras. Llevar artículos a un mercado de artesanías o fabricar regalos para tus amistades puede hacer que los demás vean tu talento. ¡De seguro hará que te destaques!
 
 ## Dinero
 
-Esta semana te preparas para lo peor cuando se trata de rembolsar cualquier dinero que debas. Es posible que te estés esforzando para finalmente deshacerte de esa sensación de deuda y encontrar esa maravillosa libertad que viene de la reducción de saldo en las tarjetas de crédito. Estás trabajando hacia esta realidad poco a poco. Mientras tanto, piensa en cómo puedes usar tu creatividad e intuición en tu vida de inversión. Puede que encuentres algunas ideas lucrativas en los lugares más extraños, así que debes mantener apertura.
+Tu sector social está iluminado, trayendo gente nueva que es absolutamente necesario que conozcas y ayudándote a formar uniones estratégicas beneficiosas para tus planes profesionales a largo plazo. Sin embargo, es momento de que te vuelvas más responsable con las deudas de tu vida. El no pagar las facturas pendientes solo agrava las cosas, ya que los planetas a veces pueden traer pena y pérdida.
