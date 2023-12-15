@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 14 de diciembre 2023
-description: Horóscopos del dia de hoy 14 de diciembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 15 de diciembre 2023
+description: Horóscopos del dia de hoy 15 de diciembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-12-14
+ lastmod: 2023-12-15
 ---
-El sextil entre el Sol y Júpiter promete oportunidades y fáciles éxitos el día de hoy. Fluye tan naturalmente como lo hace un espíritu libre. Cuando la Luna y Mercurio aspectan al transformador Plutón esta noche, si una puerta se cierra (o ha cerrado), otra se abre (con variadas opciones detrás de ella). ¡Sueños dulces y proféticos se materializan más tarde!
+Espera cambios de planes cuando la Luna conecte con el sorpresivo Urano y un tono escandaloso sea la nueva norma de forma temporal. Esta noche, la Luna en Libra insinúa una idea de lo que (eventualmente) vendrá a la luz de una relación con futuro. Por su parte, las parejas se ponen de acuerdo en un tema en el que anteriormente no lo estaban.    
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
