@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 11 de diciembre 2023 al 17 de diciembre 2023 
-description: Horóscopo semanal cancer 11 de diciembre 2023 al 17 de diciembre 2023. Remonta como has hecho tantas veces, cambia el rumbo, cambia los pensamientos y cambia tu futuro.
+title: cancer 18 de diciembre 2023 al 24 de diciembre 2023 
+description: Horóscopo semanal cancer 18 de diciembre 2023 al 24 de diciembre 2023. No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2023-12-11
+ogimg: /images/zodiac/semanal_cancer.png#2023-12-18
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-12-11'
+ lastmod: '2023-12-18'
 ---
 
 
 
-## Remonta como has hecho tantas veces, cambia el rumbo, cambia los pensamientos y cambia tu futuro.
+## No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
 
-Mira Cáncer, tú ahora tienes que ser tu prioridad, y el resto también debería tratarte como eso. No puedes conformarte siempre con estar en segundo lugar, no puedes conformarte con lo que tienes o con lo que parece que la vida te da. Tú eliges tu vida sí, y tú también cometes errores al escoger caminos que al final no estaban hechos para ti. Pero de eso se trata ¿no? De aprender, lo más rápido que puedas, y de desechar cuando algo no funciona. Hazte valer Cáncer, hazte valer con las personas que te rodeas, tienen que hacer un esfuerzo por tenerte contento, por tenerte feliz… No te mereces menos. No puedes ser siempre la persona que ayuda al resto mientras recibes una cuarta parte, o a veces incluso nada de vuelta; no puedes ser quien espera los mensajes de regreso, quien espera que las promesas se cumplan… En serio, siempre estás haciendo todo lo posible para que las personas que están cerca de ti se sientan cómodas a tu lado, pero no siempre recibes lo mismo del resto. Si no hay un interés real empieza a mandar a la mierda, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… No te conformes con los segundos lugares de nada. Ahora y siempre mereces ser una prioridad.
-Pareces estar en el centro de atención, probablemente uno de los mejores lugares en los cuales estar esta semana. Con la Luna Nueva en tu sector profesional y de ambición, estarás en una buena posición para iniciar un objetivo que pudiera tener potencial para cambiar tu vida. Puede haber personas que no estén de acuerdo contigo y es posible que tengas que tener una sincera charla con algunas de ellas. Sin embargo, puede que sólo se requiera de un enfoque diplomático para convencerlas.
+Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Cáncer, por qué te lo callas y te lo llevas callando tanto tiempo? No te das cuenta de que sufres en silencio, no te das cuenta de que acumulas y por eso a veces no avanzas? No eres sensible ni débil por hacerlo, eres real Cáncer, y si las cosas te duelen no puedes hacer como si no pasara nada, no puedes dejarlo a un lado y seguir como si nada. Tú no funcionas así Cáncer. Has perfeccionado esa sonrisa falsa, has perfeccionado eso de aguantar por fuera como si estuviera entero cuando por dentro estabas roto en mil pedazos, has aprendido a engañar a los demás. Está bien que no quieras preocupar a algunas personas, pero no todo va tan bien como te gustaría Cáncer, y mira, tampoco te lo vas a comer todo vale? No ignores tus sentimientos, no trates de aplastarlos para que no se interpongan en tu camino, no intentes de forzar y de mantener fuera de tu vida lo que aún está dentro, la tentación siempre estará ahí hasta que no cortes realmente con el problema… No te sientas imbécil por llorar, por preocuparte demasiado aún, todo tiene un proceso… Y ese proceso llega a su fin… Feliz semana…
+Cuando el amoroso Venus se mueve más profundamente hacia tu sector personal, el deseo de hacer nuevas amistades podría aumentar. Puede que decidas llegar a un compromiso y buscar soluciones en las que todas las personas involucradas ganen. Otra faceta de esta situación puede ser el deseo de cambiar tu imagen, ya sea comprando ropa nueva, cambiando tu corte de pelo o incluso optando por un tatuaje o algo que tenga un profundo significado para ti. Este deseo de cambio de apariencia podría relacionarse con una transformación más profunda que estás atravesando. 
+  Debido a que el solemne Saturno y el intenso Plutón están retrógrados en tu sector psicológico, podrías estar a punto de deshacerte de todo lo que ya no te sirve, como si fueras una serpiente que muda de piel. De hecho, los próximos años pueden ser una etapa de renovación y renacimiento. Este fin de semana, la práctica de meditación o yoga con tus amistades puede ayudarte a sentir más calma y satisfacción.
 
 ## Dinero
 
-Esta semana se trata de mantener el equilibrio y la cordura. Acude al Universo para obtener información acerca de hacia dónde te diriges - esta semana se encuentra en tu sector de comunicaciones. Tienes que tratar más y hacerte más visible para poder conseguir ese aumento de sueldo, un nuevo trabajo o convencer a alguien para que invierta en tu futuro.
+Con tanta actividad en tu sector de dinero y valores, puede que estés revisando tus finanzas con un peine muy fino. El gasto está bajo control, excepto cuando se trata de embellecer tu entorno. Puede que exijas el tener interesantes colores, texturas y olores en tu hogar y en tu cuerpo. Tienes un intercambio armonioso de energía entre tu carrera y vida monetaria, pero asegúrate de que de verdad amas ese objeto antes de comprarlo y salir de la tienda.

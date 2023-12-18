@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: tauro 11 de diciembre 2023 al 17 de diciembre 2023 
-description: Horóscopo semanal tauro 11 de diciembre 2023 al 17 de diciembre 2023. Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Tauro, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
+title: tauro 18 de diciembre 2023 al 24 de diciembre 2023 
+description: Horóscopo semanal tauro 18 de diciembre 2023 al 24 de diciembre 2023. Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2023-12-11
+ogimg: /images/zodiac/semanal_tauro.png#2023-12-18
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-12-11'
+ lastmod: '2023-12-18'
 ---
 
 
 
-## Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Tauro, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
+## Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
 
-Tu cabeza quiere un cambio Tauro, y tu corazón también, y te lo está pidiendo a gritos pero sigues siendo testarudo cuando quieres, y muchas veces aunque a tu alrededor haya una vibra negativa casi imposible de aguantar, tú te la echas a la espalda y la aguantas como el que más. Pero mira Tauro, no se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo. A veces, parece que no quieres salir de tu estado de confort, de esa zona en la que de confort en el fondo hay poco. Y no quieres salir por miedo a encontrarte cosas peores pero Tauro por favor, si lo que hay no te llena o no te realiza como persona algo tendrás que hacer ¿no? Esta semana vas a tener sensaciones muy diferentes, sentimientos con un pasado que no es tan pasado. Tienes que acordarte de muchas cosas, acordarte de que eras feliz antes de tener lo que tienes ahora, de que debes seguir creciendo, de que has de liberarte de algunas expectativas muy grandes que tenías y que después han resultado ser falsedad y mentira… Arréglate y déjate de perezas, sal, disfruta, respira aires nuevos y cambia el chip.
-A medida que el sol forma un ángulo hacia el etéreo Neptuno, ten cuidado al firmar contratos o tratos asociados a tu trabajo o negocio. En particular, lee los términos y condiciones y revisa las cláusulas y condiciones. Lo que sea que hagas, no dejes nada a la suerte. La luna nueva del 12 podría llevarte a dejar de lado la prudencia e irte de compras. Si lo haces, sería sabio ponerte un límite. ¡No te enojes! Escuchar a tu intuición podría ser muy beneficioso esta semana.
+No te arrepientas de abrirte Tauro, no te arrepientas de haber dado mucho, o de haber dado poco. En serio, no te arrepientas. Eres como eres, y aunque últimamente te hayas llevado más disgustos que otra cosa mira, no puedes cambiar. Cada momento en el que decides ser real y sensible, o emocional con alguien, estás siendo tú mismo de verdad, estás ganando al fin y al cabo, ganando experiencia, fortaleza, ganando pasión, corazón, bondad, estás siendo tú mismo aprendiendo a quererte tal cual, sin miedo a lo que pueda pasar. Y eso nunca puede ser un error. Esta semana tendrás momentos más débiles Tauro, momentos en los que quizás te sientas incluso un poco mal, y ni siquiera sepas por qué, momentos en los que estalles por cualquier estupidez, estupideces sin mucha lógica ya pero al fin y al cabo que aún te afectan aunque no quieras. No importa lo perdido que puedas estar, va a pasar Tauro, no importa lo que esté pasando por tu vida y por tu corazón ahora, vas a sobrevivir ¿ok? Esta semana quizás sea un poco dura pero te servirá para abrir los ojos Tauro, para darte cuenta de que, o te mueves o caducas. Lo mejor que podrás hacer ahora será cortar con la mierda. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos, y proponte metas de nuevo, y no desistas porque no salgan a la primera. Necesitas un poco de motivación extra.
+El enfoque está en avanzar a paso seguro con un plan que podría llevar tu profesión por un nuevo camino. Sin embargo, una persona podría oponerse a lo que haces porque se siente dejada de lado. Esto podría ser un punto de inflexión para esta relación y podría ser que debas decidir si seguir adelante o darla por finalizada. Además, con el Eclipse Solar en tu sector de aventuras el domingo, puede que aparezcan nuevos horizontes que te atraigan y te lleven a dejar el pasado atrás.
 
 ## Dinero
 
-Es hora de mostrar una presencia real con tu ropa, tu conducta y manera de hablar. No hay lugar para personas tímidas aquí, solo personas con autoridad y claridad pueden dar su punto a entender con eficacia. Acude a tu hogar para obtener ideas para ahorrar dinero o formas de ganar dinero. Un negocio basado en tu hogar no es una mala idea en lo absoluto.
+Esta semana la vida será cualquier cosa menos que aburrida con tu eléctrica personalidad ganándose a algunos, pero dejando a otros preguntándose de qué planeta viniste. Quieres salir a divertirte con amantes, amigos y familiares, pero el Universo quiere que te encargues del cambio en el frente de carrera. Si te está empezando a costar demasiado, piensa en cómo trabajar desde casa tiempo parcial para ahorrarte el dinero gastado en transportación.
