@@ -2,11 +2,11 @@
   <div class="row centered lightgrey">
     {% for signo in site.data.signos %}
           <div class="col-sm-4">
-		<a href="{{ site.url }}/horoscopo-anual/{{ signo.id }}/" alt="{{ signo.id }} Horóscopo 2023">
+		<a href="{{ site.url }}/horoscopo-anual/{{ signo.id }}/" alt="{{ signo.id }} Horóscopo 2024">
 		{% capture signo_image %}/images/{{ signo.id }}.png{% endcapture %}
 		{% include picture.html img=signo_image class="img-responsive center-block" alt="Signo del zodiaco " %}
 		<ul class="list-unstyled">
-		  <li>{{ signo.id }} 2023 Horóscopos</li>
+		  <li>{{ signo.id }} 2024 Horóscopos</li>
 		</ul>
 	     </a>
 	  </div>
