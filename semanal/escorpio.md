@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 18 de diciembre 2023 al 24 de diciembre 2023 
-description: Horóscopo semanal escorpio 18 de diciembre 2023 al 24 de diciembre 2023. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Escorpio.
+title: escorpio 25 de diciembre 2023 al 31 de diciembre 2023 
+description: Horóscopo semanal escorpio 25 de diciembre 2023 al 31 de diciembre 2023. Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2023-12-18
+ogimg: /images/zodiac/semanal_escorpio.png#2023-12-25
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-12-18'
+ lastmod: '2023-12-25'
 ---
 
 
 
-## No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Escorpio.
+## Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
 
-Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. Quieres perder el interés de algunas cosas pero no puedes. Sabes de sobra lo que está bien y lo que está mal, lo que deberías dejar a un lado ya pero a la hora de la verdad, sientes como si algo te atrapara, como si no pudieras decir “hasta aquí” definitivamente, como si no pudieras alejarte del todo de verdad. Pero en vez de marcharte, te quedas, y te quedas de mala hostia, y te enzarzas en pensamientos negros, en peleas tontas y en discusiones que no merecen la pena. Tu te quieres mucho, y sabes lo que vales, pero a la vez te dejas llevar, esa pasión incontrolada es la causante de tus alegrías más grandes y de tus dolores de cabeza más intensos. Y no puedes parar. Y te sientes encerrado en un círculo, un círculo del que cuando empiezas a salir te jala para adentro otra vez… Está bien echarle picante a la vida Escorpio, en serio, está bien que haya un poquito de locura, pero no te pases porque al final vas a acabar por pagar un precio alto por esto. Ahora puedes con todo Escorpio, recuperarte te lleva un par de días o tres pero, ¿es lo que quieres para tu futuro? No mantengas demasiado lo que debería estar muy lejos de ti.
-Cuando el jovial Júpiter en tu signo conecta con el potente Plutón en tu sector de mente y comunicación, puede que tus pensamientos todavía giren en torno a un proyecto importante para ti. Sin embargo, esta puede ser una etapa de búsqueda y consolidación. Si te aseguras de que la base sea sólida, tienes el éxito prácticamente garantizado. No subestimes los detalles. Podrían ser fundamentales para el resultado. 
-  Al mismo tiempo, debido a que el práctico Saturno y el poderoso Plutón están retrógrados en tu sector de habla y pensamiento, podrías pasar por un proceso que te ayude a cambiar tu forma de pensar. Si bien hay muchas técnicas para hacerlo, confía en tus instintos y encontrarás la adecuada para ti. El fin de semana, el sol forma una positiva conexión con el etéreo Neptuno en tu sector de romance, lo que sugiere que un encuentro podría animarte a conocer mejor a una persona. Tómate tu tiempo. ¡No hay apuro!
+Es muy importante que eches la vista atrás Escorpio, que mires al pasado, que te des cuenta de lo que ya pasaste una vez y de lo que no quieres que se vuelva a repetir nunca mas. Valora lo que tienes ahora, y si el resto no lo hace contigo de la misma manera algo falla así que, ¡fuera! No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día. Esta semana toca reflexionar, toca poner en una balanza lo bueno y lo malo, toca comprender de verdad si estás haciendo lo que te gusta y lo que te hace feliz y sobretodo si estás con las personas que merecen la pena. Sólo tenemos una vida y, o cambias el chip y aprendes a aprovecharla o cuando mires atrás te lamentarás por todo el tiempo que has estado perdiendo. Sólo tenemos esas dos opciones.
+Mercurio se une al Sol y a Venus en un sector más privado de tu carta, alentándote a trabajar detrás de escenas. Si bien este no es tu habitual estilo, es posible que disfrutes de la oportunidad de permanecer fuera de los reflectores y recargar tus pilas. También podrías percatarte de que escribir un diario de sueños o conectar con tus sentimientos más profundos te traen una revelación. Marte comienza a avanzar en tu sector doméstico a mitad de semana, significando que un problema familiar podría resolverse ahora.
 
 ## Dinero
 
-Piensa en cómo ahorrar e invertir tu dinero duramente ganado, así como la manera de ganar más dinero en general. Pasa unos cuantos minutos de cada día estudiando el intercambio de divisas y otros vehículos de inversión que te hagan ganar financieramente. No es que no hayas estado pensando en esto, por supuesto. Es posible que tengas más dinero atado en tu casa del que creíste.
+Sabes lo que quieres, financieramente hablando, y estás preparando un plan infalible que te ayude a alcanzar estos objetivos. Ciertos aspectos están facilitando nuevos logros en esta área de tu vida, y sientes más confianza que nunca. Pero el sólo hecho de tener una gran personalidad puede no ser la mejor manera de conseguir que los demás estén de tu lado. Logra un equilibrio entre construir tu caso y escuchar lo que tus compañeros de trabajo tienen que decir.

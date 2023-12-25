@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 18 de diciembre 2023 al 24 de diciembre 2023 
-description: Horóscopo semanal piscis 18 de diciembre 2023 al 24 de diciembre 2023. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas.
+title: piscis 25 de diciembre 2023 al 31 de diciembre 2023 
+description: Horóscopo semanal piscis 25 de diciembre 2023 al 31 de diciembre 2023. Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2023-12-18
+ogimg: /images/zodiac/semanal_piscis.png#2023-12-25
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-12-18'
+ lastmod: '2023-12-25'
 ---
 
 
 
-## Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas.
+## Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. 
 
-Deberían valorarte más Piscis, los demás y tú el primero, deberían saber escucharte cuando estás mal, saber comprender porque te sientes en ocasiones así, tratar de meterse un poco en ti, en tu lugar, y descubrirte. Eso es, deberías descubrirte de verdad, y ahora no podrán decir que tú no te estás dejando… No es que te sientas solo, pero muchas veces sientes que vives en un mundo en el que nadie es capaz, por un momento, de ponerse en tu lugar, en el que nadie es capaz de pensar que quizás tú también tienes tus momentos de bajón, tus momentos de pena o de dudas. Bajo esa fachada se esconden sentimientos complicados que muchas veces ni siquiera tú entiendes. Quizás es conformismo, quizás dependencia del resto, o quizás un cúmulo de circunstancias que llevas acumuladas mucho tiempo. Y los días empiezan a pasar, y ves que avanzas, pero a veces no tan deprisa como esperabas. Y ves que el tiempo pasa, y empiezas a estresarte, y te frenas, y de repente quieres ir más deprisa porque ya perdiste mucho tiempo, y te vuelves a frenar. Para Piscis, para un poco. No puedes fingir que las cosas no te importan ¿vale? Porque además, eso al final duele el doble. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… Ahí es cuando empiezas a frenarte, por muy claro que lo tengas todo. Piensa que caminar entre las piedras también es avanzar, así que, lo que has hecho, lo has hecho bien, ahora averigua si quieres seguir por ese camino.
-Si has estado pensando en realizar una práctica espiritual, como meditar, hacer yoga o escribir un diario, esta es la semana para comenzar. Puede que la actividad lunar en un sector alejado de tu carta te motive para hacer un viaje introspectivo y llegar a profundidades desconocidas. Aunque hay algo más, ya que sientes la inquietud de comenzar un proyecto que se quedó a medio camino. Después de analizarlo detenidamente, puede que te des cuenta de que tienes más potencial del que creías.
+Estás alcanzando una madurez Piscis, y no es que antes fueras inmaduro no, pero ahora estás aprendiendo a alejarte de las personas y situaciones que amenazan tu paz mental, el respeto, los valores, la moral y tu amor propio. Y eso está bien pero aún así, a pesar de que te has alejado de eso, hay momentos en los que, inevitablemente vuelves a caer, aunque no sean las mismas situaciones ni las mismas personas. No puedes presumir de haber superado ciertas cosas para repetir después los mismos errores. Eres fuerte Piscis y sea cual sea el estrés, el dolor o el odio que puedas sentir esta semana respira profundo y deja que se vaya, y no te enzarces con nadie, no vas a cambiar las cosas. Un pensamiento negativo puede arruinar mil vibraciones positivas. No pierdas más el tiempo. Organiza tu semana y ves paso por paso, organiza tu vida y trátate bien y con respeto. Si te valoras a ti mismo y te cuidas, el resto también lo hará. Y hay algo muy importante que debes saber esta semana, no cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás. Y no detengas ni frenes tu vida ahora.
+Podrían suceder muchas cosas a tu alrededor, pero tal vez estés consciente de la necesidad de un cambio. Puede que esto se refleje en tu hogar, así como en tus metas personales o planes profesionales. 
+Debido al eclipse solar en tu sector doméstico durante esta semana, podrías sentir que las tensiones se acumulan. Y cuando añades al potente Plutón a la mezcla, poderosas emociones podrían salir a la superficie. Tal vez sientas que es momento de dar un cambio de rumbo, y esta decisión podría afectar aspectos de tu vida hogareña y tus planes. De hecho, puede que debas librarte de algo o resolverlo antes de poder avanzar. Al mismo tiempo, el dulce Venus ingresa a Virgo y a tu sector de estilo de vida, lo que ayuda a traer armonía a las relaciones cotidianas. Y cuando el jovial Júpiter se vuelve directo en tu sector de bienes compartidos, el dinero y las cuestiones comerciales pueden comenzar a verse más prometedoras.
 
 ## Dinero
 
-El dinero es como el agua para la mayoría de los signos, pero tú prefieres usarlo para mantener tu alto nivel de actividad en este mundo. Esto puede significar que gastas dinero en actividades de ocio, como deportes y vacaciones, o para mantener tu cuerpo sano y hermoso. Esta semana, tu enfoque está en pagar tu deuda y atraer a nuevos seguidores para un proyecto personal. Piensa en ahorrar un 20 por ciento de lo que ganas.
+Te sientes con suerte esta semana. Puesto que la energía es tan expansiva, atraerás oportunidades de ganar más, siempre y cuando mantengas los ojos abiertos. Mientras tanto, un aspecto armonioso afecta tu trabajo. ¡Ponte bien los guantes! Es hora de mostrarles de lo que estás hecho/a y atraer un salario acorde a tus capacidades.
