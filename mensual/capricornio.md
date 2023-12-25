@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Capricornio Diciembre 2023
-description: El Horóscopo Diciembre de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Capricornio Enero 2024
+description: El Horóscopo Enero de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/capricornio/
 amplink: /horoscopo-mensual/amp/capricornio/
 home: FALSE
-keywords: horóscopo diciembre, horoscopos en español, horóscopo Capricornio diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Capricornio, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo enero, horoscopos en español, horóscopo Capricornio enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Capricornio, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/capricornio_mes.png#2023-11-28
+ogimg: /images/mes/capricornio_mes.png#2023-12-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-11-28'
+ lastmod: '2023-12-25'
 ---
 
 
