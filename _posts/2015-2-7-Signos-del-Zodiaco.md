@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 26 de diciembre 2023
-description: Horóscopos del dia de hoy 26 de diciembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 27 de diciembre 2023
+description: Horóscopos del dia de hoy 27 de diciembre 2023 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2023-12-26
+ lastmod: 2023-12-27
 ---
-Haz tus resoluciones bajo la conjunción Marte/Neptuno que encienden tanto las emociones internas como la imaginación. ¿Cuáles son tus sueños? Esta noche, hay punzadas de recuerdos y nostalgia. Tanto las parejas como los solteros toman un viaje por el carril de la memoria.   
+Las personas andan un poco distraídas y mantienen sus respuestas vagas cuando Mercurio cuadra a Neptuno esta mañana. La buena noticia es que las telarañas se despejan por la tarde. Espera y hazle la pregunta correcta a la persona adecuada en el momento preciso. Durante la noche, muestra esa enorme y linda sonrisa y ve cómo te suceden cosas positivas bajo la Luna en Leo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
