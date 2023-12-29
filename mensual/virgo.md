@@ -9,16 +9,16 @@ keywords: horóscopo enero, horoscopos en español, horóscopo Virgo enero , hor
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/virgo_mes.png#2023-12-25
+ogimg: /images/mes/virgo_mes.png#2023-12-29
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-12-25'
+ lastmod: '2023-12-29'
 ---
 
 
- > Virgo, diciembre será un mes en el que alcanzarás un punto máximo de intuición que te ayudará a cumplir tus objetivos sobradamente. Sabes lo que quieres, te sientes con fuerzas y la seguridad que irradiarás podrá con todo lo que se te venga por delante.
+ > Virgo, este mes intenta no dejarte llevar por tus pasiones, pues las energías te empujarán a precipitarte y podrías tomar el camino equivocado. Si puedes ser un poco más comprensivo con tu gente y tienes paciencia, verás oportunidades que has estado esperando durante mucho tiempo.
 
 
 
-El 2 de diciembre, una oferta romántica puede parecer rara al principio, pero el verdadero afecto podría estar allí. Sé amable. La Luna Nueva del 12 de diciembre alienta un mayor sentido de diversión y aventura. Permite que un amigo - o el hijo de un amigo - sugiera un nuevo lugar para visitar y algo nuevo que ver y hacer. No tienes que hacerlo de nuevo si no quieres y hasta puede que te guste. Bajo la Luna Llena del 27 de diciembre, algunos familiares podrían recurrir a ti, o puede que simplemente todos se aparezcan en tu casa, con buenas intenciones, por supuesto. Relájate. Tú bien sabes cómo reservar tu propio espacio personal.
+Disfruta de un Año Nuevo tan sólido como una roca bajo la Luna Nueva del 11 de enero. Puede que te sorprenda la gran cantidad de paciencia que tienes y lo rápido que puedes analizar los problemas y averiguar qué necesitas corregir. Sin embargo, no quemes toda tu energía tratando de hacerlo todo. El 20 de enero brilla con gran ingenio, diversión y tal vez un poco de travesura conforme la Luna toma ventaja del Sol entrando al intelectual Acuario. Tanto amigos como vecinos mantienen tu tiempo ocupado alrededor de la Luna Llena del 25 de enero. Puede que tales tengan algunas increíbles y locas nociones de lo que es diversión, y es posible que tú estés en estado de ánimo para ellas, así que ten cuidado.

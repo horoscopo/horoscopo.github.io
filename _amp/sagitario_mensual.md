@@ -7,15 +7,12 @@ home: FALSE
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Sagitario_mes.png#2023-12-25
+ogimg: /images/mes/Sagitario_mes.png#2023-12-29
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-12-25'
+ lastmod: '2023-12-29'
 ---
 
 
-Tómate tu tiempo para asuntos familiares y domésticos alrededor de la luna nueva del 13 de diciembre. Relájate, tómate un té, come un bocadillo y conversa por teléfono. Neptuno se torna retrógrado el día 18 y se mantiene así hasta el 24 de diciembre. La vida puede ser igual de dulce y romántica sin tener tantas fantasías o expectativas idealistas. Tu vida social aumenta durante la luna llena del 27 de diciembre. Puede que no te dejes arrasar por la multitud fiestera, y tal vez no seas el centro de atención, pero te harás notar y escuchar. Deja que los demás bailen y zapateen. Diviértete, pero no es necesario que te alteres. 
-
-Días destacados: 2, 6, 19
-Días desafiantes: 7, 25
+¡Feliz año nuevo Sagitario! Declara tu independencia y reclama más espacio personal y tiempo bajo la luna nueva del 11 de enero. Tanto amistades como familiares tienen muchos planes geniales, pero tu mundo será mayor y más rico cuando te enfoques en ti. Amistades y gente del vecindario pueden distraerte durante la luna llena del día 25. Disfruta del contacto social y no te preocupes por agotar tu energía. Ahora tienes bastante. El 31 de enero, podria presentarte una oportunidad profesional que está destinada a mejorar tu posición y reputación. Mira más allá de tus inseguridades inmediatas y haz lo correcto. 

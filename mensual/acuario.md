@@ -9,18 +9,16 @@ keywords: horóscopo enero, horoscopos en español, horóscopo Acuario enero , h
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/acuario_mes.png#2023-12-25
+ogimg: /images/mes/acuario_mes.png#2023-12-29
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-12-25'
+ lastmod: '2023-12-29'
 ---
 
 
- > Acuario, puede que diciembre te dé un poco de miedo por todos los cambios que vas a vivir, pero te acostumbrarás y serán para bien.  Tus encantos harán que conquistes cuando quieras y donde quieras, mientras que el equilibrio y la serenidad serán la clave para que seas feliz.
+ > Acuario, vas a comenzar el año de manera muy movida exprimiendo todos los momentos al máximo. Con respecto al corazón, si quieres ser feliz, es hora de que realices una limpieza interior y empieces una nueva etapa. Tu confianza estará por las nubes durante todo el mes de enero y se iluminan tus cualidades. Sin quererlo, llamarás la atención de los demás. Vigila a tu ego, porque puede desaprovechar esta energía tan favorable para ti. Intenta abrirte a las opiniones de los demás, aunque no sean como las tuyas.
 
 
 
-La Luna Nueva del 12 de diciembre ilumina tu imagen pública y tus planes profesionales. Sin importar qué tan tentativa o incompleta pueda ser una oferta u oportunidad, puedes percibir qué está pasando realmente y puedes relacionarte bien con las personas involucradas. Usa toda tu intuición, instinto e impulso. Neptuno se vuelve retrógrado en Piscis el 16 de diciembre. Ahora, los sentimientos y sueños fluyen más profundamente y con más fuerza. La Luna Llena del 27 de diciembre te recuerda que debes divertirte de gran manera. Tu felicidad será contagiosa, y las personas querrán seguir tu ejemplo. Haz algo radicalmente distinto y no lo pienses demasiado.
-
-Mejores días: 11, 22, 24Peores días: 8, 26
+¡Feliz año nuevo Acuario! La luna nueva del 11 de enero sugiere que mantengas un perfil bajo y disfrutes de un buen momento para relajarte intensamente y en privado. Medita sobre cosas importantes. Haz pequeñas cosas en la casa para maximizar la paz y la comodidad. Sé una persona más sana y mejor organizada con la luna llena del día 25. Haz un leve cambio en tu dieta o en cómo ordenas tu guardarropa. Siéntete mejor sobre todas las cosas y continúa desde allí. Mantente alerta sobre un giro kármico de eventos que te cuide y apoye. 

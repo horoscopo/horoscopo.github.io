@@ -9,16 +9,16 @@ keywords: horóscopo enero, horoscopos en español, horóscopo Géminis enero , 
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/geminis_mes.png#2023-12-25
+ogimg: /images/mes/geminis_mes.png#2023-12-29
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-12-25'
+ lastmod: '2023-12-29'
 ---
 
 
- > Géminis, a medida que el mes de diciembre avance, irás dejando atrás todos los lastres que te impedían ser tú misma. Esto implica que te olvidarás de situaciones que no te hacían nada bien, pero también de personas que te cegaban y te impedían crecer como persona.
+ > Géminis, estas semanas no saques conclusiones precipitadas y seas injusto con los demás. Emite tu juicio cuando hayas verificado todos los hechos y evitarás lamentaciones. La llegada de Venus a Escorpio el día 4 te permite abordar los problemas en profundidad, pero te hará sentirte desconfiado. Maneja la situación con perspectiva y aprende a ver el encanto en las cosas nuevas.
 
 
 
-El trígono que la luna forma con Venus el 5 de diciembre puede suavizar una situación incómoda y llevar a más romance cuando Venus forma un trígono con Marte el 7 de diciembre. Urano se torna retrógrado en Tauro ese día también, cuando puede que lo que digas no sea lo que los demás escuchan. La vida doméstica se pone delicada con la luna nueva del día 12. Un exceso de algo bueno podría crear un problema o desacuerdo después.  El 18 de diciembre, Mercurio retrógrado forma un sextil con Venus. Dale una mirada más profunda a un asunto artístico o romántico. Mercurio se torna directo esa noche. Lo que aprendes del sextil pronto será útil. La luna llena del día 27 trae buena suerte en un asunto financiero y tal vez algunas inesperadas oportunidades de ingreso. Ahora conecta con una red más sofisticada. Además, Venus forma una cuadratura con Plutón ese día. No es un buen momento para forzar la intimidad. Marte se torna directo al día siguiente, y algunas personas pueden tener problemas para escuchar un no.Días destacados: 5, 14, 25Días desafiantes: 1, 30</div>
+¡Feliz año nuevo Géminis! La luna nueva del 11 de enero te permite confrontar lo que sea que te ha estado molestando o reteniendo. Tienes aliados y colaboradores poderosos, algunos que jamás pensaste siquiera que les agradabas. ¡Sé fuerte! Quiere y déjate querer durante la luna llena del día 25. Piensa y siente mucho amor. Un gran cambio positivo podría suceder para mejorar o comenzar una relación. Este no es momento para tener timidez o miedo de los cambios radicales. El final del mes podría darle vuelta un asunto de dinero para aumentar tus ingresos o reducir tus gastos. 

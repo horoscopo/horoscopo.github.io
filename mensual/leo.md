@@ -9,16 +9,16 @@ keywords: horóscopo enero, horoscopos en español, horóscopo Leo enero , horó
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/leo_mes.png#2023-12-25
+ogimg: /images/mes/leo_mes.png#2023-12-29
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-12-25'
+ lastmod: '2023-12-29'
 ---
 
 
- > Leo, este mes es buen momento si quieres conocer gente nueva, pues es Sol y Júpiter en tu casa de la comunicación expanden tu medio ambiente habitual con grandes expectativas. Ten cuidado con la economía de tu hogar, sobre todo a partir del día 22, pues este mes pueden aparecer gastos inesperados con los que tengas que lidiar.
+ > Leo, este mes todavía tendrás que darle alguna vuelta a los cambios que han ido apareciendo en tu vida. Sin embargo, será un mes potente para ti, pues tendrás la oportunidad de sacar tus sentimientos más profundos para salir renovada y sanar todo lo que aún cargas.
 
 
 
-Mira por debajo de la superficie de las cosas durante la Luna Nueva del 12 de diciembre. La ambigua opinión o posición de una amistad de repente podría cobrar sentido. Tu mundo en general podría de repente cobrar más sentido. Dedica más de tu tiempo en privado para pensar. Todos querrán amarte bajo la Luna Llena del 27 de diciembre. Una sonrisa de tu parte tendrá el efecto de un abrazo, un beso, o una bendición. Puede que no seas muy popular, pero un nuevo fan llegará entonces para quedarse contigo durante mucho tiempo. Por último, la conjunción entre el Sol y Neptuno del 28 de diciembre te da un día para disfrutar de sueños de amor y un futuro brillante.
+¡Feliz año nuevo Leo! El trígono entre Marte y Júpiter del 1 de enero te da el impulso adicional de energía y los contactos sociales que necesitas para hacer las cosas. El amor alcanza su punto más brillante con la Luna Nueva del 11 de enero. Si no es tu cumpleaños, puede que se te trate como si lo fuera. Celebra y déjate amar Alguien especial querrá mimarte. La Luna llena del 25 de enero apunta a asuntos de dinero y posesiones materiales. Puede que hayas respetado tu presupuesto hasta ahora. Compórtate seguramente, permanece cerca de casa y ten un emocionante año nuevo de la mejor manera.

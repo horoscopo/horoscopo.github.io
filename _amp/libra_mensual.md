@@ -7,16 +7,12 @@ home: FALSE
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/Libra_mes.png#2023-12-25
+ogimg: /images/mes/Libra_mes.png#2023-12-29
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-12-25'
+ lastmod: '2023-12-29'
 ---
 
 
-diciembrede 2023 - No te sorprendas si eres el centro de atención este mes, estimable Escorpión, ya que Piscis activa tu quinta casa solar. Esta ubicación cósmica tiene como objetivo elevar tu aura, lo que te permite reflejar la fuerza compasiva, talentosa y amante de la libertad que realmente eres. Las personas se sentirán atraídas hacia tu forma de ser abierta pero a la vez misteriosa, lo que te da la oportunidad de hacer nuevas amistades mientras continúas nutriendo las relaciones que aprecias. También sentirás una mayor creatividad y pasión ya que los astros te abren a la inspiración divina. Sin embargo, necesitarás tomate con seriedad tus metas artísticas cuando Saturno entra al signo de los Peces el 7 de diciembre.
-El año astrológico se manifiesta mientras el sol entra a Capricornio y al sector de tu carta astral que rige la salud, las rutinas y el trabajo el día 20. El universo te pedirá que organices tu agenda, en especial si tienes grandes planes para los próximos doce meses. Solo recuerda nutrir tu cuerpo con cada hito que alcanzas, por lo que debes ser consciente de lo que comes, descansar bien y practicar el autocuidado cada vez que lo necesites. La luna nueva se manifiesta al día siguiente y es la ocasión perfecta para reconectar con tus resoluciones de Año Nuevo, en especial si has estado teniendo dificultades para poner en práctica nuevos hábitos.
-Sentirás un cambio importante cuando Plutón entra a Acuario y a tu cuarta casa solar el 23 de diciembre. Esta ubicación planetaria con certeza transformará tu vida doméstica y podría desencadenar reubicaciones, nuevas dinámicas familiares y proyectos de mejoras en el hogar. Por suerte sentirás la motivación necesaria para seguir adelante y con confianza en el universo una vez que el apasionado Marte entra a Cáncer y al sector espiritual de tu carta astral dos días después.
-Días destacados: 5, 20, 28
-Días desafiantes: 3, 16, 25
+¡Feliz año nuevo Libra! La luna nueva del 11 de enero ilumina tus finanzas y situación económica. Haz una lista de todas las fuentes de ingresos y recursos que ya tienes, y déjate sorprender gratamente por lo que has pasado por alto. El día 25, la luna llena te conecta de forma íntima con mucha gente que quiere escuchar lo que tienes para decir. Algunos quizás pidan favores. Sé popular y profesional, y maneja todo con tranquilidad. El fin de mes podría traer apoyo y ayuda de una amistad o persona del vecindario. No necesitarás pedirlos, los recibirás de forma gratuita. 

@@ -7,15 +7,12 @@ home: FALSE
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/Aries_mes.png#2023-12-25
+ogimg: /images/mes/Aries_mes.png#2023-12-29
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-12-25'
+ lastmod: '2023-12-29'
 ---
 
 
-El 2 de diciembre, la conjunción entre Marte y Saturno te da una tremenda autoridad. Úsala sabiamente. Haz que el mundo se sorprenda (y tú también) durante la luna nueva del día 12. Comienza algo nuevo, que exprese un lado que sueles esconder de ti. La conjunción entre Marte y Plutón el 26 de diciembre podría encender los temperamentos. Evita el conflicto y dale un uso positivo a la pasión. Con la luna llena del día 27, sé la buena suerte de alguien, y haz crecer y florecer tu reputación. Hacer el favor correcto en el momento adecuado no será olvidado. No será cuestión de elegir qué hacer para quién. Actúa con espontaneidad y deja que la gente se acerque a ti. 
-
-Días destacados: 7, 10, 23
-Días desafiantes: 4, 21
+¡Feliz año nuevo Aries! ¿Cuándo fue el amor tan emocionante e inteligente como ahora? La Luna Nueva del 11 de enero podía abrirte los ojos a una nueva y gran oportunidad amorosa. Puede que seas tú quien tenga que hablar primero o presentarse con alguien, pero después de eso, las ruedas rodarán por sí solas. Los colaboradores se vuelven importantes en la segunda mitad del mes, sobre todo después de la Luna Llena del 25 de enero. Haz tu parte y contribuye tanto como sea aceptado. Tendrás una gran cantidad de energía, por lo que ten cuidado y evita pasar por encima de cualquier persona que esté a cargo. El 30 de enero será un día dulce, amable y generoso. Sé tan agradable como de costumbre y permite que la gente también sea amable contigo.
