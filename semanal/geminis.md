@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 25 de diciembre 2023 al 31 de diciembre 2023 
-description: Horóscopo semanal geminis 25 de diciembre 2023 al 31 de diciembre 2023. Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. 
+title: geminis 01 de enero 2024 al 07 de enero 2024 
+description: Horóscopo semanal geminis 01 de enero 2024 al 07 de enero 2024. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2023-12-25
+ogimg: /images/zodiac/semanal_geminis.png#2024-01-01
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-12-25'
+ lastmod: '2024-01-01'
 ---
 
 
 
-## Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. 
+## Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
 
-Has estado esforzándote mucho por hacer las cosas bien, por tratar de arreglarlo todo, por conseguir tus metas y tus objetivos así que, esta semana te mereces hacer todo lo que hagas por y para ti Géminis.
-Muy dentro de ti, sabes cuál curso de acción deberías tomar y sin embargo podrías resistirte a aceptarlo. El contexto planetario actual te anima a hacerle frente a tal situación. Tu intuición es correcta ahora, y lo mejor sería que la escucharas. Si lo haces, te percatarás de que un asunto familiar u otra situación incómoda se resuelve sin demasiados problemas. Si no lo haces, sólo se prolongará. Sin embargo, alguien más podría mostrar iniciativa al respecto durante el fin de semana.
+Bueno Géminis, ya lo sabes más que de sobra, en tu vida siempre ha habido gente de todo tipo pero las envidias y el odio han estado a la orden del día. Sí, levantas ese tipo de sentimiento en los demás, y no es malo, simplemente es así.
+Es posible que no estés de acuerdo con otra persona. De ser así, la próxima semana te anima a dar pequeños pasos para resolver la situación. La tensión podría continuar de manera subyacente en los próximos días. Trata de encontrar cómo manejarla de forma positiva. Esto te dará la confianza que necesitas para resolver la situación de una vez por todas. actividad lunar 4 de enero podría traer sentimientos a la superficie, incluso aquellos que esperabas mantener en secreto. Esto puede ser un alivio y una liberación.
 
 ## Dinero
 
-Tienes actividad en tu sector de relaciones esta semana. Una nueva relación podría materializarse de la nada y resultar económicamente beneficiosa para ambas partes. En este momento, tu atención tiene que enfocarse en la construcción de tu carrera. La elaboración de un plan a cinco años puede no ser una mala idea tampoco. Es más fácil hacer que el dinero que deseas se manifieste cuando este paso se haya dado.
+Tienes la oportunidad de hacer de tu lugar de trabajo un lugar mucho más agradable en el cuál pasar ocho horas o más de cada día. Tu trabajo está sin duda atrayendo el adecuado tipo de aviso, lo que te pone en línea para un mejor paquete de compensación. Este aviso puede ser añadido a tu ventaja. No hay mejor momento para poner la deuda bajo control que ahora.

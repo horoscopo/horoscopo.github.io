@@ -1,27 +1,31 @@
 ---
 layout: horoscopos
-title: sagitario 25 de diciembre 2023 al 31 de diciembre 2023 
-description: Horóscopo semanal sagitario 25 de diciembre 2023 al 31 de diciembre 2023. Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no Sagitario. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
+title: sagitario 01 de enero 2024 al 07 de enero 2024 
+description: Horóscopo semanal sagitario 01 de enero 2024 al 07 de enero 2024. Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2023-12-25
+ogimg: /images/zodiac/semanal_sagitario.png#2024-01-01
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2023-12-25'
+ lastmod: '2024-01-01'
 ---
 
 
 
-## Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no Sagitario. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
+## Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
 
-Sólo tú puedes salvar tu vida Sagitario. Deja de depender del mundo que te rodea, sé fuerte, créete de una vez que hagas lo que hagas puedes hacerlo solo, y que solo también puedes llegar a cualquier meta que te propongas. No es que tengas miedo, pero a veces, te falta ese empujón, esa mano que te agarre y que te diga “salta, que yo salto contigo”. Olvida eso, tú solito puedes darte el empujón, y tú solito puedes saltar, sin necesidad de nadie. Mentalmente eres un poco frágil a pesar de que tu aspecto es súper fuerte, eres sensible sí, y sin querer te atas a las personas más de lo que te gustaría. Está bien tratar de compartir, es bonito, los momentos buenos, los momentos malos… Pero eso no va a sanar a tu alma. Sólo tú puedes reiniciar tu vida y convertirla en lo que quieras, sólo tú puedes transformar tus sueños y tu destino. Si hay algo que quieres hacer, lánzate a hacerlo, da el primer paso. Y piensa que el amor es algo poderoso sí, pero no tan poderoso como tú Sagitario. Necesitas tomar las riendas otra vez, necesitas ser el protagonista de tu historia, saber que nadie es más importante en tu propia vida que tú. Así que, deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
-Ciertas cosas empiezan a caer en su lugar este mes, comenzando desde esta semana. La Luna Llena ilumina tu sector familiar y te anima a actuar con respecto a planes hogareños. Tus finanzas también se vislumbran más alegres con Marte entrando a tu sector de recursos compartidos y te da la confianza para hacerle frente a cuestiones que pudieran haber estado en espera. Además, tu vida amorosa brilla un poco más con Venus entrando a tu sector de placer. Sin embargo, ten cuidado este fin de semana, ya que la gente podría no ser lo que parece.
+Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después. Te propusiste no dar tanta importancia a problemas que sabes que no están en tus manos así que, inténtalo de verdad, si no está en tus manos arreglarlo, para qué vas a torturarte. 
+ Busca siempre la parte buena de cada momento en el que te encuentres.
+El martes trae consigo una intensa actividad lunar, lo que podría convertirte en el centro de atención. Tus sentimientos podrían estar en la superficie y tal vez sea más sencillo expresarlos que guardártelos. Sin embargo, esta fase lunar podría animarte a hablar con máxima honestidad, lo que puede afectar a aquellos que son más sensibles. Si debes discutir algo importante, trata de hacerlo de la manera más gentil y cuidadosa posible.
+También el martes, el interactivo Mercurio se une al sol en tu sector de relaciones. Su presencia aquí podría impulsarte a buscar los compromisos y demostrar más diplomacia.
+El viernes, una encantadora conexión entre el delicioso Venus y tu planeta regente, podría coincidir con un encuentro muy conmovedor con un ser querido que mejore su intimidad de una hermosa manera. 
+Por último, es posible que puedas obtener un dinero extra si escuchas a tus instintos.
 
 ## Dinero
 
-Destaca esta semana la necesidad de actualizar tu conjunto de habilidades. El fomentar tu educación no sólo te hace sentir más confianza en lo que puedes hacer, pero también recibe a otros en el hábito de percibirte como un/a experto/a en tu campo. Es posible que necesites incorporar conocimientos de vidas pasadas. No tienes que saber por qué eres bueno/a en algo, simplemente lo eres.
+Te enfrentas a un período maravilloso y prometedor con el apoyo de tu sector de viajes, educación superior, y metafísica. La suerte sumada a grandes ideas y transformación significa que eres capaz de hacer mucho más dinero en campos como el derecho, la edición, la escritura, y hacerte de renombre en el extranjero también. Piensa cómo podrías llevar tu mensaje a un público más amplio y el dinero te llegará.
