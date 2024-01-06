@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 05 de enero 2024
-description: Horóscopos del dia de hoy 05 de enero 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 06 de enero 2024
+description: Horóscopos del dia de hoy 06 de enero 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2024-01-05
+ lastmod: 2024-01-06
 ---
-La Luna en Cáncer le otorga poder extra a los sentimientos y estimula entendimiento entre las personas. El reto implica evitar hablar sobre temas importantes, nunca llegar a ellos y luego tomar decisiones basadas en la emoción. Ese mismo ritmo continúa por la tarde cuando la Luna forma trígono con Neptuno. Este último añadiéndole ilusión a la ecuación.
+Tu imaginación trabajando de más podría conducir a decisiones equivocadas. La realidad podría ser lo contrario a lo que temporalmente piensas cuando Mercurio aspecta al nebuloso Neptuno. Pospón tu decisión hasta que hayas analizado tus pensamientos. Esta noche, los solteros se hacen del rogar con tal de proteger a su corazón bajo la Luna en el cauteloso Tauro.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
