@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: leo 01 de enero 2024 al 07 de enero 2024 
-description: Horóscopo semanal leo 01 de enero 2024 al 07 de enero 2024. Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
+title: leo 08 de enero 2024 al 14 de enero 2024 
+description: Horóscopo semanal leo 08 de enero 2024 al 14 de enero 2024. Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies Leo, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres Leo, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2024-01-01
+ogimg: /images/zodiac/semanal_leo.png#2024-01-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-01-01'
+ lastmod: '2024-01-08'
 ---
 
 
 
-## Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
+## Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies Leo, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres Leo, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
 
-Llega una etapa buena Leo, una etapa en la que estás replanteándote sobretodo cuáles son las cosas importantes en tu vida, y esas cosas son tu familia, tus amigos y la gente que te quiere. Y tú lo quieres dar absolutamente todo por ellos, sabes que se lo debes. Vas a empezar a comprender qué era lo que ataba tu mente, vas a ver todo desde fuera, con objetividad y sin dramas, y vas a entender de verdad el por qué de todo aquello que te preocupaba. Estás así como más responsable con todo, entendiendo que no puedes dejar que los días pasen como si nada, que no puedes estar encabronado por decisiones de otros, que tú eres la única persona que controla su vida. No te pierdas de ese camino ahora, y mucho menos intentes regresar al pasado. Tienes que seguir llevando un ritmo de vida activo, es lo que a ti te hace olvidar lo malo, hacer y hacer y hacer mil cosas, y todo el tiempo. Cuida mucho tu lengua algunos días, podrías hacer daño a personas que no se lo merecen y que sólo tratan de ayudarte y de ofrecer buenos consejos. Por ahí no Leo. Usa esa fuerza que te sale por la boca con quien se lo merece de verdad y no con las personas que te quieren. Y por favor, come bien, haz un poco de ejercicio, tu cuerpo te lo agradecerá, y tu mente mucho más. Desfoga como sea…
-El cambio está en el aire esta semana con Venus animándote a darte un par de mimos o una sesión de spa. También es una semana astrológicamente ocupada de otras maneras con Marte entrando a tu sector de placer para aumentar el ritmo de la escena social. También es una oportunidad para mostrar algunas de tus mejores habilidades - aquellas en las que sobresales pero que has mantenido escondidas. La entrada de Mercurio a tu sector monetario podría ayudarte a planear un poco mejor en esta área.
+Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate. Los pensamientos negativos son como la mierda Leo, que atraerán más mierda, y antes de que te des cuenta tendrás la mente infectada, de verdad. Empezarás a ver problemas en vez de soluciones, te meterás en un círculo vicioso en el que YA has estado. No puedes permitirlo otra vez. No luches contra cosas o personas, simplemente esquívalas, a veces, aunque intentes hacer que entren en razón es imposible, y el que acaba sufriendo irremediablemente eres tú. No debes permitirte el lujo de tener ningún pensamiento negativo ahora, de verdad, ya has pasado demasiado, sólo céntrate en esquivar lo que te dañe, pero en esquivarlo de verdad. O sea, si de verdad decides que no es lo que quieres, corta por lo sano cuanto antes, y no mires atrás ni por el retrovisor del coche. Lidera tu interior y serás el líder de tu entorno. Lo único que ahora puede frenarte son tus pensamientos, trabájalos, distráete, y rodéate de todo lo bueno que tienes aunque a veces te cueste poner punto y final a lo malo. Tus metas ahora son lo más importante y sólo se consiguen cuando uno realmente no tiene nada que le estorba en su camino.
+A partir del martes, puede que te resulte más sencillo analizar cuestiones importantes con tu pareja o con otras personas cercanas a ti. El ingreso del conversador Mercurio a tu sector de relaciones ese día puede ayudarte a conectar con tus sentimientos y a expresarlos con más facilidad. Tener importantes conversaciones puede conducir a ese importante logro que has estado esperando. 
+La luna nueva en tu sector de estilo de vida del miércoles podría establecer un nuevo ritmo en cuanto a un proyecto clave o tal vez tu trabajo. Si tienes ganas de iniciar algo, definitivamente es el momento de hacerlo. Y si estás a punto de hacer cambios en tu rutina de bienestar, ahora también es el momento para hacerlo. El mismo día, el atractivo Venus ingresa a Leo y a un sector más sensible de tu carta. Su presencia allí puede aportar una chispa a tu vida sexual y reavivar la llama del romance. Por último, mantén la mente abierta el fin de semana. Esto podría hacer que la vida sea más sencilla.
 
 ## Dinero
 
-Es posible que hayas estado tratando de encontrar la manera de recaudar dinero para un nuevo negocio, y ahora podría ser posible. Este es un buen momento para hacer cualquier pago final que tengas que hacer al mismo tiempo que buscas maneras de conectar con posibles inversionistas. Los esfuerzos de recaudación de fondos deben incluir un componente de marketing en línea.
+Esta semana podría ser tensa para ti. Considera seriamente la posibilidad  de hacerle caso a los mensajes que estás recibiendo de tus sueños y flashes psíquicos. Lejos de ser esotéricos y confusos, están en lo correcto y dándole al tino. Al mismo tiempo, sigue añadiendo habilidades al asistir a clases, talleres y seminarios. Tienes lo que se necesitas, pero sería bueno el tener un poco más.

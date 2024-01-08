@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 01 de enero 2024 al 07 de enero 2024 
-description: Horóscopo semanal capricornio 01 de enero 2024 al 07 de enero 2024. Capricornio, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
+title: capricornio 08 de enero 2024 al 14 de enero 2024 
+description: Horóscopo semanal capricornio 08 de enero 2024 al 14 de enero 2024. Hay personas que juegan en otra liga Capricornio, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2024-01-01
+ogimg: /images/zodiac/semanal_capricornio.png#2024-01-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-01-01'
+ lastmod: '2024-01-08'
 ---
 
 
 
-## Capricornio, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
+## Hay personas que juegan en otra liga Capricornio, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
 
-Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía. Es muy probable que tengas que corregir algunas cosas de tu persona, está claro, pero de ahí a que quieran hacerte ver que eres el culpable de todo hay un paso muy grande. No te lo creas por nada del mundo. Mientras otros retroceden tú avanzas, mientras otros vuelven a tropezar con la misma piedra una y otra vez, tú la intentas evitar a toda costa, quizás no sepas cual es el final del camino, y quienes estarán ahí para verlo pero no lo estás haciendo mal, y eso, es lo que al final te hará decir que mereció la pena. Estos días te irás quitando de tu vida a mucha gente falsa, y seguramente que discutirás con algunos pero da igual, sólo han estado estorbando en tus planes y sueños. No te han dejado avanzar así que, no te plantees en ningún momento si lo estás haciendo mal porque no. Te quitarás mucho de encima. Gracias a ser como eres nadie volverá a pisotearte Capricornio, gracias a todos los palos que te han dado, ya no dejarás que te den ni uno más.
-Es poco probable que la semana vaya según lo previsto, ya que alguien podría romper una promesa o cancelar una salida. También tendrás que mantener tu ingenio en tu trabajo, ya que una confusa influencia podría causar que cometas un error o descuides una tarea importante. Escribir una lista de tareas por hacer y tachar cada elemento a su vez puede ayudarte a navegar a lo largo de un laberinto de actividades. Dicho esto, ¡aprovecha cualquier oportunidad que tengas para una nueva experiencia, viaje, o aventura!
+Por fin llega lo que tanto estabas esperando Capricornio, una brisa de aire fresco que transforme tu vida, por fin llega algo que te motiva de verdad, algo que parece cambiar, otra vez, el rumbo de tu vida. Y te gusta, te hace sentir vivo Capricornio. Esta semana vas a tener momentos muy emocionantes, quizás no todos sean de tu gusto pero sí la mayoría. Hacía tiempo que esperabas que algo así. Te estabas volviendo loco con tus pensamientos, a veces te enfrascas en ellos, te bloqueas, no sabes cómo salir adelante, cómo frenarlos de una vez, cómo cambiar… A pesar de que sea lo que más deseas en el mundo. Esta semana todo dará un giro de 180 grados. Vas a encontrar muchas cosas de ti mismo que hasta tú desconocías, vas a pasar de todo ese rollo del odio para después hacer las paces, de toda esa mala vibra que parecía que te perseguía y no quería soltarte. Estás muy harto de lo mismo. Vas a vivir nuevas experiencias y vas a darte cuenta de la mierda que tenías antes a tu lado, de cómo te influían las cosas tan negativas, de cómo te anclabas… Vas a ver que lo que estabas aguantando estaba muy lejos de la realidad que tú tenías en tu cabeza. Ahora ves las cosas más claras, y no vas a desaprovechar nada de lo que llega… Disfruta tu semana Capricornio, disfrútala al máximo.
+Podrías decidir cambiar tu imagen esta semana una vez que la galante Venus entre a tu signo y te tiente a pensar en un cambio de imagen. Tal vez optes por un color de cabello diferente o te decidas a renovar tu armario. El jueves, un extraño enlace entre Júpiter y Saturno podría llevar un asunto familiar o de pareja a un punto crítico. Es posible que este conflicto haya estado despierto desde hace algún tiempo, pero ahora te preparas para hacer algo al respecto.
 
 ## Dinero
 
-Estás buscando maneras de utilizar tus prodigiosas habilidades de comunicación para ganarte la vida. Ahora la atención se centra en tus tareas diarias y lo que haces para ganarte la vida. Es un buen momento para una evaluación de desempeño, porque es seguro que tu revisión será alta y tienes una plataforma desde la cual lanzar nuevas ideas y críticas constructivas. Hacerte indispensable garantizará que asciendas la escalera del éxito.
+Ciertos desafíos se aproximan hacia ti esta semana. Las relaciones son propensas a sufrir una separación por trabajo o razones personales. La buena noticia es que ambos están muy ocupados. La mala noticia es que esta situación requiere más diplomacia y paciencia de lo habitual. Tu sector de empleo puede estar un poco inestable. Muévete lentamente, con cuidado, y no hagas exigencias innecesarias.

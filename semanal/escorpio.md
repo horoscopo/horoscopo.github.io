@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 01 de enero 2024 al 07 de enero 2024 
-description: Horóscopo semanal escorpio 01 de enero 2024 al 07 de enero 2024. No quieres pasar más tiempo equivocándote, sobretodo porque en el fondo sabes que lo estás haciendo, y cuando de repente ves todo el tiempo que llevas así te entra todo el bajón, ¿cómo has podido aguantar tanto?
+title: escorpio 08 de enero 2024 al 14 de enero 2024 
+description: Horóscopo semanal escorpio 08 de enero 2024 al 14 de enero 2024. Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2024-01-01
+ogimg: /images/zodiac/semanal_escorpio.png#2024-01-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-01-01'
+ lastmod: '2024-01-08'
 ---
 
 
 
-## No quieres pasar más tiempo equivocándote, sobretodo porque en el fondo sabes que lo estás haciendo, y cuando de repente ves todo el tiempo que llevas así te entra todo el bajón, ¿cómo has podido aguantar tanto?
+## Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
 
-Vale, puede que te lleves o que ya te estés llevando decepciones, pero piénsalo bien, son decepciones que no te sorprenden demasiado. Las cosas ya no te afectan como antes, es muy raro que algo te de la sorpresa de tu vida, ya has pasado demasiado pero aún así, por muy duro que parezcas a veces, las cosas duelen. Bueno, lo hecho, hecho está, y quizás en tus manos tengas poco poder para cambiar los fallos que cometen los demás, pero ¡despierta! En tus manos sí está el poder de cambiar lo que tú quieres, para ti, para tu vida. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. Todo pasa, todo cambia y todo llega Escorpio. A veces la opción más difícil y la mejor opción son la misma. Tener el control de uno mismo es fundamental para caminar hacia delante y eso es lo que debes tener controlado ahora, no se trata de lo que tienes o de lo que no tienes, se trata de lo que quieres llegar a tener, con lo que de verdad te quieres llegar a sentir satisfecho. No te dejes arrastrar de nuevo por la mierda.
-Trata de no dejar que tus amistades te arruinen la fiesta ni hagan decaer tu ánimo. Debido a que el conversador Mercurio retrógrado está en tu sector social hasta el fin de semana, podrían criticar a tu última pareja o arruinar tu creativo estilo con sus comentarios. Si te sientes bien con lo que haces, sigue adelante e ignórales. Puede que solo sientan celos. Aparecen nuevas amistades cuando más te estás divirtiendo, y dichas amistades reflejarán tus intereses y estados de ánimo más recientes. 
- Mercurio se vuelve directo en tu sector de recreación el domingo, lo que puede poner fin a cualquier malentendido y encontrarte avanzando hacia el éxito. El mismo día, la actividad lunar en este mismo sector podría animarte a conectarte con un pasatiempo con el que puedes canalizar tu vivaz energía. Podría ser un deporte competitivo que, al mismo tiempo, te permita socializar. Por último, esta luna nueva también podría fomentar el avance de un nuevo romance al próximo nivel.
+No más paciencia Escorpio. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso. Has llegado a un límite y se acabó lo que se daba, al menos hasta que de verdad encuentres una razón para darlo de nuevo. No es justo que tengas que aceptar daños, que tengas que aceptar desprecios o que tengas que seguir como si nada. ¡Venga ya! En la vida hacemos cosas, y sí, ojalá que algunas de ellas no hubieran sucedido nunca, sobretodo esas que retumban en tu cabeza una y otra vez. Pero todas ellas te hacen ser quien eres Escorpio, y al final el conjunto es tu forma de ser. Si pudieras regresar para cambiar algo ya no serías tu, así que, vive, comete errores, ten recuerdos inolvidables, pero nunca dudes de quien eres, de donde estás y lo más importante, hacia donde vas. Nunca es tarde para empezar de cero, nunca es tarde para dejar de aguantar lo que sabes que no te hace bien. Así que, a partir de ahora deja de tener paciencia con lo que no te suma y empieza a respetarte un poco y a tener amor propio. Lo primero es eso. Feliz semana Escorpio.
+Si una oportunidad se te presenta a principios de esta semana, tómala. Puede que no te llegue de nuevo. De hecho, con Marte entrando a su fase retrógrada al final de la semana, puede que te enteres de que alguien más la tomará si no te comprometes a ella tan pronto como sea posible. Por otro lado, un vínculo más estrecho con una amistad se hace ahora posible, especialmente si están pasando por una experiencia que es profundamente personal para ambos.
 
 ## Dinero
 
-Las influencias que afectan a tu sector de relaciones son a la vez una bendición y una maldición. Mientras que te dan impulso para avanzar en tu causa, también tienden a restringir al equipo que podría ayudarte a hacer esto. No tengas miedo. No es personal. Estas personas están a la espera de que avances para poder decir que te conocían desde entonces. Tienes la imaginación que necesitas para realizar tu trabajo a tiempo y bajo presupuesto.
+Puede que te pongas las pilas esta semana. Tus habilidades de comunicación están aumentando, mostrando que se puede salir adelante a través de ser firme y claro/a con los que te rodean. Pide lo que deseas y es posible que lo consigas en el trabajo y en tu vida monetaria. Aunque las cosas pueden ser tensas, así que es mejor mantenerse limpios kármicamente hablando. No utilices tus palabras para hacer daño.

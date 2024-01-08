@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 01 de enero 2024 al 07 de enero 2024 
-description: Horóscopo semanal geminis 01 de enero 2024 al 07 de enero 2024. Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
+title: geminis 08 de enero 2024 al 14 de enero 2024 
+description: Horóscopo semanal geminis 08 de enero 2024 al 14 de enero 2024. En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2024-01-01
+ogimg: /images/zodiac/semanal_geminis.png#2024-01-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-01-01'
+ lastmod: '2024-01-08'
 ---
 
 
 
-## Cuando te entren los bajones sal y desahógate, despotrica con tus amigos, saca la rabia que llevas dentro y olvídate del asunto. 
+## En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
 
-Bueno Géminis, ya lo sabes más que de sobra, en tu vida siempre ha habido gente de todo tipo pero las envidias y el odio han estado a la orden del día. Sí, levantas ese tipo de sentimiento en los demás, y no es malo, simplemente es así.
-Es posible que no estés de acuerdo con otra persona. De ser así, la próxima semana te anima a dar pequeños pasos para resolver la situación. La tensión podría continuar de manera subyacente en los próximos días. Trata de encontrar cómo manejarla de forma positiva. Esto te dará la confianza que necesitas para resolver la situación de una vez por todas. actividad lunar 4 de enero podría traer sentimientos a la superficie, incluso aquellos que esperabas mantener en secreto. Esto puede ser un alivio y una liberación.
+Es algo muchas veces inconsciente. Es algo que quizás tu cuerpo quiere esconder porque en el fondo, te encanta parecer que eres una persona fuerte y sí, incluso poco demostrativa, pero sabes que en realidad no es tan así. 
+ que quizás te hagan tener un futuro mucho mejor y más satisfactorio.
+Podría ser difícil ponerte de acuerdo con ciertos miembros de tu familia, y esto puede seguir así en el transcurso de la semana. Sin embargo, también podría llevarte a tener un debate para resolver este asunto. Si las cosas llegan a un punto crítico, esto podría ser algo bueno, porque es hora de que la energía alrededor de la situación cambie. Disponte a escuchar los sentimientos de los demás y tal vez descubras que no son tan diferentes a los tuyos después de todo. Es posible llegar a un acuerdo.
 
 ## Dinero
 
-Tienes la oportunidad de hacer de tu lugar de trabajo un lugar mucho más agradable en el cuál pasar ocho horas o más de cada día. Tu trabajo está sin duda atrayendo el adecuado tipo de aviso, lo que te pone en línea para un mejor paquete de compensación. Este aviso puede ser añadido a tu ventaja. No hay mejor momento para poner la deuda bajo control que ahora.
+Este período se trata de tus relaciones. Puede que un montón de gente nueva entre a tu vida, lo que podría ser ideal para socializar y conocer a otras personas en tu campo. Las relaciones viejas y rancias que parecen no traerte nada pueden estar desapareciendo, cambiando dramáticamente, o desapareciendo por completo. No te aferres a lo que ya no te sirve más.

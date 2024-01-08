@@ -1,31 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 01 de enero 2024 al 07 de enero 2024 
-description: Horóscopo semanal sagitario 01 de enero 2024 al 07 de enero 2024. Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
+title: sagitario 08 de enero 2024 al 14 de enero 2024 
+description: Horóscopo semanal sagitario 08 de enero 2024 al 14 de enero 2024. Toma decisiones YA, AQUÍ y AHORA Sagitario. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2024-01-01
+ogimg: /images/zodiac/semanal_sagitario.png#2024-01-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-01-01'
+ lastmod: '2024-01-08'
 ---
 
 
 
-## Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
+## Toma decisiones YA, AQUÍ y AHORA Sagitario. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
 
-Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después. Te propusiste no dar tanta importancia a problemas que sabes que no están en tus manos así que, inténtalo de verdad, si no está en tus manos arreglarlo, para qué vas a torturarte. 
- Busca siempre la parte buena de cada momento en el que te encuentres.
-El martes trae consigo una intensa actividad lunar, lo que podría convertirte en el centro de atención. Tus sentimientos podrían estar en la superficie y tal vez sea más sencillo expresarlos que guardártelos. Sin embargo, esta fase lunar podría animarte a hablar con máxima honestidad, lo que puede afectar a aquellos que son más sensibles. Si debes discutir algo importante, trata de hacerlo de la manera más gentil y cuidadosa posible.
-También el martes, el interactivo Mercurio se une al sol en tu sector de relaciones. Su presencia aquí podría impulsarte a buscar los compromisos y demostrar más diplomacia.
-El viernes, una encantadora conexión entre el delicioso Venus y tu planeta regente, podría coincidir con un encuentro muy conmovedor con un ser querido que mejore su intimidad de una hermosa manera. 
-Por último, es posible que puedas obtener un dinero extra si escuchas a tus instintos.
+Estás activo Sagitario, con ganas de hacer cosas nuevas, de conocer, de reír, de disfrutar y sobretodo con ganas de vivir el presente más que nunca. Te mereces más de lo que tienes, sí, mucho más aún…
+Con el actual enfoque en tu sector de recursos compartidos y negocios, este es un momento ideal para adoptar una actitud creativa hacia el dinero. Si tienes nuevas ideas empresariales, este podría ser un excelente momento para enfocarte en ellas y considerar si quieres hacer algo con ellas. Sin embargo, hay una inquieta energía en tu trabajo durante los próximos días que podría verte queriendo algo más. Es posible que necesites un poco de tiempo para descansar y la oportunidad de hacer lo que quieras por un tiempo.
 
 ## Dinero
 
-Te enfrentas a un período maravilloso y prometedor con el apoyo de tu sector de viajes, educación superior, y metafísica. La suerte sumada a grandes ideas y transformación significa que eres capaz de hacer mucho más dinero en campos como el derecho, la edición, la escritura, y hacerte de renombre en el extranjero también. Piensa cómo podrías llevar tu mensaje a un público más amplio y el dinero te llegará.
+Es posible  que esta semana desees hacer algunas mejoras en el hogar o incluso entrar en el mercado de bienes raíces. Antes de convertirte en agente profesional de bienes raíces, pesa los pros y los contras de este tipo de inversiones. Querer hacer valer tu voluntad podría darte demasiada confianza en lo que respecta a la negociación. Asegúrate de tener todos los hechos, aunque se necesita tiempo para investigar posibles compras.
