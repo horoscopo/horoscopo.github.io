@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 08 de enero 2024 al 14 de enero 2024 
-description: Horóscopo semanal cancer 08 de enero 2024 al 14 de enero 2024. Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
+title: cancer 15 de enero 2024 al 21 de enero 2024 
+description: Horóscopo semanal cancer 15 de enero 2024 al 21 de enero 2024. No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2024-01-08
+ogimg: /images/zodiac/semanal_cancer.png#2024-01-15
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-01-08'
+ lastmod: '2024-01-15'
 ---
 
 
 
-## Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
+## No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
 
-No es que estés cambiando Cáncer, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo, prefieres, digamos, no arriesgar. La gente a menudo es muy egoísta, y cree que porque tengas una actitud diferente, eres tú quien está fallando, y no. El problema es que no eres estúpido/a y que si estás cambiando es porque ya has recorrido el mismo camino varias veces y sabes que en el fondo, y en estos momentos ya no te llevará a ningún sitio. A lo largo de tu vida has perdonado cosas que sabes que a ti jamás te perdonarían y por eso, te has sentido impotente muchas veces, porque en el fondo, y en tu interior, eso es fallarte a ti mismo/a, por eso estás cambiando o lo estás intentando hacer a muerte, porque no es algo bueno para ti, ni más ni menos. Los que te quieran y estén a tu lado deben entenderlo, y los que te tachen de egoísta sabes que no están mirando por tu bien si no por lo que les interesa a ellos… Esta semana te vas a sentir más fuerte que nunca, aunque lo hagas solo/a, te vas a sentir libre, vas a sentir que puedes con todo. Te lo has prometido a ti mismo/a…
-Si has estado pensando en alejarte de todo, la próxima semana podría encontrarte viajando hacia un clima más soleado. El deseo de descansar puede alentarte a hacer un viaje de fin de semana o incluso un poco más largo. Mientras Saturno ingresa a Capricornio el 19 de enero, puede que sea momento de considerar tomar un curso o una clase. Te tomarás en serio el adquirir nuevos conocimientos y adoptar creencias que pueden ayudarte a mejorar como persona. Estás a punto de embarcarte en un viaje de descubrimiento.
+Aunque nadie lo quiera para sí mismo hay que dejar algo claro: el sufrimiento a veces es nuestro mejor maestro. Sí Cáncer, si aún sufres es porque no has aprendido esa lección en particular, es porque aún no te has armado de valor para dejar de lado lo que no te hace ningún bien, lo que no te aporta. Cuando por fin lo hagas y te decidas de verdad, el sufrimiento se acabará yendo… Pero si sólo tratas de engañarte la misma lección acabará por venir una y otra vez a tu vida. Acompañada de dolor.
+La semana comienza con una nota optimista conforme Mercurio, tu planeta personal, se torna directo después de sus tres semanas de retroceso. Y con Mercurio actualmente atravesando tu sector de recursos compartidos, puede que experimentes menos retrasos y te enteres de que un préstamo o crédito que solicitaste te será disponible más temprano que tarde. Mientras tanto, puede que tengas que reflexionar sobre una decisión que tomaste antes, especialmente si no tienes suficiente información por el momento. El fin de semana trae consigo una oportunidad para una conexión diferente a la usual.
 
 ## Dinero
 
-Tienes entusiasmo para moverte esta semana, especialmente con respecto a tu dinero. Esto puede proporcionarte un nuevo impulso para salir y encontrar un nuevo trabajo o pensar cómo iniciar un negocio secundario para aumentar tus ingresos. El Universo quiere que te destaques entre la multitud, así que asegúrate de ser visto y oído como individuo. Ciertos aspectos en tu sector de carrera indican que debes esforzarse para proporcionar una imagen tranquila y confiada.
+Esta semana estás considerando tu apariencia personal y reconsiderando la forma en la que te expones al mundo. Esto no es sólo cosmético, se trata de un serio replanteamiento de la siguiente fase de tu vida. Un vestuario profesional te ayudará a sentirte digno/a de una categoría tributaria más alta. Si tienes alguna pregunta acerca de lo que es apropiado, cultiva a los de arriba como mentores. Los aspectos indican que te reunirás con el éxito.
