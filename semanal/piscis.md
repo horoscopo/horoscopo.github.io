@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 15 de enero 2024 al 21 de enero 2024 
-description: Horóscopo semanal piscis 15 de enero 2024 al 21 de enero 2024. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
+title: piscis 22 de enero 2024 al 28 de enero 2024 
+description: Horóscopo semanal piscis 22 de enero 2024 al 28 de enero 2024. Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2024-01-15
+ogimg: /images/zodiac/semanal_piscis.png#2024-01-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-01-15'
+ lastmod: '2024-01-22'
 ---
 
 
 
-## Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
+## Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
 
-A veces dejar ir las cosas es mucho más complicado de lo que piensas Piscis. No vas a encontrar el momento definitivo nunca, no vas a cerrar la puerta de golpe y creer que ya lo tienes superado. Así nada termina bien. Quieres tener seguridad Piscis, y te aferras deprisa a las cosas pero si miras a tu alrededor sabes que hay piezas que no encajan en el puzzle, que a veces incluso todo parece un teatro, que estás dejando pasar algo en lo que no crees. Pero no querrás dejar ir tan fácilmente, piensas que si lo mantienes todavía lo tienes, que si lo mantienes, todavía existe. Y claro que existe pero no como antes y no como quieres Piscis. Si hay cosas que fallan repara la grietas o trata de hacerlo, pero no pienses que se podrán reparar solas. Si tienes que plantar cara y dejar sobre la mesa cuáles son tus intenciones y lo que esperas, hazlo. Está bien que creas que muchas cosas van perfectamente pero Piscis, sabes de sobra que no van tan perfectamente, que hay que arreglar mucho. En serio Piscis, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo? No te ates tanto, no te creas que el mundo es como tú lo ves en un momento dado. Piscis, la realidad no es la que tú quieres pintar ahora. Hay promesas rotas y futuros que no se van a dar, pero cuando te des cuenta no te pongas triste, mírate al espejo y sonríe, sonríe por ser quien eres. Y si tienes que llorar que sea por ti mismo, y de emoción, por darte cuenta de todo, por ser valiente.
-Si últimamente te has ocupado con metas profesionales o ambiciones personales, esta fase podría comenzar a tranquilizarse conforme opciones más placenteras aparecen. Un alegre enfoque podría ayudarte a progresar en asuntos laborales también, pero disfrutarás de un ambiente de fiesta, junto con la opción de citas y romance. Estarás en tu elemento si tienes ganas de participar en la organización de un evento. Venus se torna retrógrado el Sábado, haciendo de este un buen momento para reflexionar y pasar un par de días en el spa.
+Tienes que improvisar más Piscis, tienes que dejar a un lado lo políticamente correcto porque aunque tú hagas las cosas bien y como deben hacerse, después, cualquier imbécil te jode a ti la vida por hacer las cosas a su manera. Mira Piscis, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie. Tienes que aprender a ver quien realmente se subiría al barco contigo si te marchas hacia otro lado y quien te apoyaría para que lo hicieras. Tienes que darte cuenta de tantas cosas… Así que, empieza a testar a algunos, empieza a ponerles un poco al límite. Estás en ese punto en el que todo te da un poco igual, en el que vives los días porque tienes que vivirlos, así como mecanizado, robotizado Piscis… Y tú no eres así… Quizás estás mirando hacia donde no debes mirar… Si quieres caminar hacia delante no puedes quedarte con lo que “tienes seguro”, porque en el fondo no es tan seguro ni tan estable como tu piensas pero qué pasa, que hasta que no se rompa en mil pedazos no cambiarás el chip? Pues no Piscis, en serio, ves cambiándolo ya, antes de que ocurra lo peor. Fluye esta semana y deja que la vida te de sorpresas… Y agarra esas sorpresas. No tienes nada que perder. Feliz semana Piscis.
+Tu autoestima podría ser alta un minuto y baja al siguiente, lo que podría hacerte sentir un poco de inseguridad. Sin embargo, si vas a tratar de sacarle el mayor provecho a los días por venir, necesitarás mantener firmes tus principios y valores. Por otro lado, puede que no tengas mucha suerte si es que esperabas poder sacar un préstamo o una línea de crédito. De hecho, sería mejor que dejaras pasar otra semana antes de aplicar.
 
 ## Dinero
 
-Esta semana te encuentras pensando en nuevas maneras de hacer dinero que involucren el hogar. Ya sea que se trate de construir una nueva oficina en el hogar, la compra de apartamentos o comenzar un negocio de decoración del hogar, aquí es donde el dinero está ahora. Pero puede que no estés pensando claramente cuando se trata de tu situación de deuda. Date el tiempo necesario para leer y llenar documentos lenta y cuidadosamente antes de firmarlos.
+Para ti esta semana es sobre nueva energía en el sector del hogar, donde el hambre de creatividad puede estarte haciendo querer gastar más de lo que tienes en restauración y redecoración. Sin embargo no se trata de lo que gastas. Algunos aspectos pueden servir como medida provisional para evitar que lo hagas. Después de todo cambiarás de opinión de lo que te gusta dentro de unos años de todos modos.

@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 15 de enero 2024 al 21 de enero 2024 
-description: Horóscopo semanal geminis 15 de enero 2024 al 21 de enero 2024. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio.
+title: geminis 22 de enero 2024 al 28 de enero 2024 
+description: Horóscopo semanal geminis 22 de enero 2024 al 28 de enero 2024. Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así Géminis, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2024-01-15
+ogimg: /images/zodiac/semanal_geminis.png#2024-01-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-01-15'
+ lastmod: '2024-01-22'
 ---
 
 
 
-## Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio.
+## Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así Géminis, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
 
-Es mejor reflexionar que lamentar Géminis. Siempre. 
-Sí, quizás aún cargas a tu espalda demasiadas cosas que sabes que no te pertenecen del todo pero, eres así Géminis, y en eso no cambiarás nunca. A pesar de todo, te has acostumbrado a llevarlas y a pesar de todo, ahora no te tira para abajo nadie.
-A medida que Mercurio conecta con Júpiter en tu sector social, puede que quieras intentar una nueva experiencia para ver cómo te sientes, en especial si también puedes incluir a tus amistades. Sin embargo, otra influencia sugiere que, si piensas demasiado en esto, puede que termines en un estado de parálisis analítica y que no llegues a ninguna parte. Pedirle consejos a una amistad o pesar las ventajas y desventajas puede ayudarte a tomar una decisión más fácilmente. Al fin y al cabo, ¿qué tienes que perder?
+Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar, no serás capaz de verlo ahora pero sí en un tiempo.
+Mantente alerta a tus derechos de autor o a alguien que pudiera alegar que una de tus ideas de negocios es realmente suya. La mejor manera de manejar esto es proteger lo que es tuyo en cualquier forma que parezca ser apropiada. La Luna Llena de mitad de semana se manifiesta brillantemente en tu signo, intensificando tus emociones y pudiendo llevarte a hacer un berrinche. Evita hacer o decir cualquier cosa que pudieras llegar a lamentar más tarde. Un malentendido que surja a lo largo del fin de semana podría causar conflictos, el cuál puede ser resuelto con paciencia.
 
 ## Dinero
 
-Esta semana puede dar lugar a algunas ideas nuevas e interesantes que pueden proporcionarte el impulso y los medios para comenzar un negocio en el hogar. Desde la venta de cosas en línea al  desarrollo de un portal virtual de asistencia, estás definitivamente motivado/a. Debido a que tu sector de sueños también se ve afectado, presta atención a lo que tus sueños te están diciendo. Te están conduciendo en la dirección financiera adecuada.
+Esta semana, tu sensible naturaleza puede desear dinero para las cosas más suaves de la vida, como la búsqueda de la belleza y la verdad. Pero tu atención se dirige a tus vidas pasadas y el karma, donde es posible que tengas que hacer un poco de curación. Mientras tanto, tu medio de subsistencia es mucho más comunicativo. Cuanto más digas, sobre todo de la manera correcta, más serás capaz de ganar.
