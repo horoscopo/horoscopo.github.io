@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Virgo Enero 2024 
+title: Horoscopo Virgo Febrero 2024 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Virgo_mes.png#2023-12-29
+ogimg: /images/mes/Virgo_mes.png#2024-01-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-12-29'
+ lastmod: '2024-01-25'
 ---
 
 

@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Escorpio Enero 2024
-description: El Horóscopo Enero de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Escorpio Febrero 2024
+description: El Horóscopo Febrero de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/escorpio/
 amplink: /horoscopo-mensual/amp/escorpio/
 home: FALSE
-keywords: horóscopo enero, horoscopos en español, horóscopo Escorpio enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Escorpio, Tarot, Astrologia, Zodíaco, Escorpio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo febrero, horoscopos en español, horóscopo Escorpio febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Escorpio, Tarot, Astrologia, Zodíaco, Escorpio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/escorpio_mes.png#2023-12-29
+ogimg: /images/mes/escorpio_mes.png#2024-01-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-12-29'
+ lastmod: '2024-01-25'
 ---
 
 

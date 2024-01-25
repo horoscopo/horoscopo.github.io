@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Acuario Enero 2024 
+title: Horoscopo Acuario Febrero 2024 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Acuario_mes.png#2023-12-29
+ogimg: /images/mes/Acuario_mes.png#2024-01-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-12-29'
+ lastmod: '2024-01-25'
 ---
 
 

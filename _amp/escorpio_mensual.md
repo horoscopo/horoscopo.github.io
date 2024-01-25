@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Escorpio Enero 2024 
+title: Horoscopo Escorpio Febrero 2024 
 permalink: /horoscopo-mensual/amp/escorpio/
 normallink: /horoscopo-mensual/escorpio/
 home: FALSE
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Escorpio_mes.png#2023-12-29
+ogimg: /images/mes/Escorpio_mes.png#2024-01-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-12-29'
+ lastmod: '2024-01-25'
 ---
 
 

@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Piscis Enero 2024
-description: El Horóscopo Enero de Piscis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Piscis Febrero 2024
+description: El Horóscopo Febrero de Piscis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/piscis/
 amplink: /horoscopo-mensual/amp/piscis/
 home: FALSE
-keywords: horóscopo enero, horoscopos en español, horóscopo Piscis enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Piscis, Tarot, Astrologia, Zodíaco, Piscis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo febrero, horoscopos en español, horóscopo Piscis febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Piscis, Tarot, Astrologia, Zodíaco, Piscis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/piscis_mes.png#2023-12-29
+ogimg: /images/mes/piscis_mes.png#2024-01-25
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2023-12-29'
+ lastmod: '2024-01-25'
 ---
 
 
