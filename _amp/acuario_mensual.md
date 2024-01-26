@@ -7,12 +7,12 @@ home: FALSE
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Acuario_mes.png#2024-01-25
+ogimg: /images/mes/Acuario_mes.png#2024-01-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-01-25'
+ lastmod: '2024-01-26'
 ---
 
 
-¡Feliz año nuevo Acuario! La luna nueva del 11 de enero sugiere que mantengas un perfil bajo y disfrutes de un buen momento para relajarte intensamente y en privado. Medita sobre cosas importantes. Haz pequeñas cosas en la casa para maximizar la paz y la comodidad. Sé una persona más sana y mejor organizada con la luna llena del día 25. Haz un leve cambio en tu dieta o en cómo ordenas tu guardarropa. Siéntete mejor sobre todas las cosas y continúa desde allí. Mantente alerta sobre un giro kármico de eventos que te cuide y apoye. 
+Prepárate para iniciar un mes de fiestas a partir de la Luna Nueva del 9 de febrero. Bien puedes bajarle de tono a tu propia participación, pero grupos de amigos e invitaciones seguirán llegando. Encárgate de tus asuntos cotidianos y después decide si quieres salir o no. Compórtate valiente y creativamente bajo la Luna Llena del 24 de febrero. Tu vida diaria podría mantener tu tiempo demasiado ocupado, sin embargo, no te descuides a ti. El tratar de ser feliz y hacer lo que te dicte tu corazón no es algo egoísta. Venus entra a Libra el 29 de febrero, aumentando enormemente tus habilidades sociales y talentos diplomáticos. Momento ideal para películas, música, salidas culturales y romance.

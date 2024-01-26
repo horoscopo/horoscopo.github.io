@@ -9,16 +9,22 @@ keywords: horóscopo febrero, horoscopos en español, horóscopo Leo febrero , h
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/leo_mes.png#2024-01-25
+ogimg: /images/mes/leo_mes.png#2024-01-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-01-25'
+ lastmod: '2024-01-26'
 ---
 
 
- > Leo, este mes todavía tendrás que darle alguna vuelta a los cambios que han ido apareciendo en tu vida. Sin embargo, será un mes potente para ti, pues tendrás la oportunidad de sacar tus sentimientos más profundos para salir renovada y sanar todo lo que aún cargas.
+ > Leo, febrero será un mes más que decisivo para ti, pues llega una etapa en la que tendrás que elegir el camino que tomar en varios aspectos de tu vida: amor, trabajo y planes de vida en general. Lo bueno es que sabes planificarte y saber en qué momento es conveniente actuar.
 
 
 
-¡Feliz año nuevo Leo! El trígono entre Marte y Júpiter del 1 de enero te da el impulso adicional de energía y los contactos sociales que necesitas para hacer las cosas. El amor alcanza su punto más brillante con la Luna Nueva del 11 de enero. Si no es tu cumpleaños, puede que se te trate como si lo fuera. Celebra y déjate amar Alguien especial querrá mimarte. La Luna llena del 25 de enero apunta a asuntos de dinero y posesiones materiales. Puede que hayas respetado tu presupuesto hasta ahora. Compórtate seguramente, permanece cerca de casa y ten un emocionante año nuevo de la mejor manera.
+El sol forma un trígono con Neptuno el 5 de febrero. Que tus aspiraciones y ambiciones aumenten. 
+La vida familiar y doméstica se ven geniales con la luna nueva del día 9. Alegra tu corazón con un gran cambio, o un cambio pequeño que te dé una gran satisfacción, que sea práctico y funcional por completo, sin nada cosmético. 
+El 16 de febrero, Venus al fin se torna directo mientras Mercurio se torna retrógrado. Los rencores pueden atenuarse, pero probablemente es demasiado pronto para hablar con palabras más suaves que no serán malinterpretadas. 
+Durante la luna llena del día 24, una gran cantidad de cosas maravillosas pueden buscarte, pero el impulso más fuerte puede ser alejarte de todo, salir, y estar con personas. Eso también puede ser algo valioso, así que no te sientas culpable si no terminas de hacer tus cosas. Puedes hacerlas después. El sol presenta una gran actividad ese día también. Hay un fuerte impulso de ser sociable. 
+El sol forma una conjunción con Júpiter el 25 de febrero. Disfruta en grande de la suerte que tienes. 
+Días destacados: 7, 11, 25
+Días desafiantes: 21, 29

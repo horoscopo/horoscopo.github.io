@@ -9,16 +9,21 @@ keywords: horóscopo febrero, horoscopos en español, horóscopo Sagitario febre
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/sagitario_mes.png#2024-01-25
+ogimg: /images/mes/sagitario_mes.png#2024-01-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-01-25'
+ lastmod: '2024-01-26'
 ---
 
 
- > Sagitario, en enero se llevará a cabo un cambio importante de mentalidad en ti. Esto te ayudará a limar asperezas con tu entorno y aprender a poner límites. Con Venus entrando en tu signo a partir del día 11, podrás empezar a poner en marcha tus planes. Y, aunque habrá que revisar algunos flecos sueltos, tendrás muchas ideas que más adelante podrás utilizar para tus propios intereses y proyectos.
+ > Sagitario, con Saturno ya bien instalado en tu signo contrario, notarás sus restricciones en febrero. Esto, pese a parecer un inconveniente, te ayudará a encontrar diferentes soluciones a las que estás acostumbrado. Aunque te gusta tenerlo todo bajo control, este mes podrás indagar en lo que significa seguir tu intuición, y te sorprenderás de lo que consigues simplemente dejándote llevar un poco. A partir del 22 tu regente empieza a retrogradar, así que será el momento para que reflexiones sobre lo que estás aprendiendo.
 
 
 
-¡Feliz año nuevo Sagitario! Declara tu independencia y reclama más espacio personal y tiempo bajo la luna nueva del 11 de enero. Tanto amistades como familiares tienen muchos planes geniales, pero tu mundo será mayor y más rico cuando te enfoques en ti. Amistades y gente del vecindario pueden distraerte durante la luna llena del día 25. Disfruta del contacto social y no te preocupes por agotar tu energía. Ahora tienes bastante. El 31 de enero, podria presentarte una oportunidad profesional que está destinada a mejorar tu posición y reputación. Mira más allá de tus inseguridades inmediatas y haz lo correcto. 
+febrero te pide que aprecies tu belleza y la belleza que te rodea, ya que el dulce Venus continúa atravesando tu signo. Conectar con tu gratitud puede hacer maravillas con tu psiquis, adorable Sagitario, y puede inspirarte a vivir la vida con valentía. Estas vibras también son perfectas para perseguir todo lo que quieras sin remordimientos, un sentimiento intensificado por la ubicación de Marte en tu signo. Tu vida amorosa también se encenderá este mes, lo que te ayudará a ganarte el afecto de cualquier persona que hayas tenido en la mira recientemente.
+La actividad solar forma una alianza cósmica el 4 de febrero, lo que ilumina tus finanzas. Toma este presente cósmico como una oportunidad para hacer inteligentes inversiones, incluso si solo se trata de un par de tenis de buena calidad. Prométete deshacerte de cualquier chatarra que hayas acumulado en estos años, y decide comprar menos y más lindas cosas para poder avanzar.
+Juega con tu estilo personal cuando la luna se alinea con el innovador Urano el 17 y comparte favorables aspectos con Venus y Marte. Este es un momento oportuno para renovarte y, quizás, arriesgarte a un nuevo color de cabello o a diferentes atuendos.
+El 18 de febrero, se forma un gran trino de tierra entre la luna, el nodo norte y Plutón, lo que trae transformadores cambios a tu vida. Puede que necesites despedirte de algunas personas, situaciones o comportamientos que ya no te benefician, ya que el universo te pide que evoluciones y sigas con tu vida. Reconfórtate en saber que todo lo que dejas ir durante este día te ayudará con tu superación personal.
+Días destacados: 3, 8, 14
+Días desafiantes: 5, 12, 13
