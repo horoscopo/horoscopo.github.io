@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: tauro 22 de enero 2024 al 28 de enero 2024 
-description: Horóscopo semanal tauro 22 de enero 2024 al 28 de enero 2024. Deja que duela Tauro, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo…
+title: tauro 29 de enero 2024 al 04 de febrero 2024 
+description: Horóscopo semanal tauro 29 de enero 2024 al 04 de febrero 2024. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2024-01-22
+ogimg: /images/zodiac/semanal_tauro.png#2024-01-29
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-01-22'
+ lastmod: '2024-01-29'
 ---
 
 
 
-## Deja que duela Tauro, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo…
+## No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
 
-Esta semana va a estar cargada de altibajos Tauro, va a ser una semana muy movidita. Y cuando estés arriba estarás mucho tiempo pero el problema es cuando estás abajo… Paciencia y sangre fría. Vas a tomar decisiones adecuadas pero al fin y al cabo los cambios te trastocan mucho. Tus expectativas son muy altas siempre y como te falle algo, aunque sea por poco, te amarga la existencia. Pero como siempre Tauro, hay cosas que no están en tu mano. En realidad hay cosas que aún no has perdonado del todo, hay algo que por dentro te agita, algo que no te deja dormir como quisieras. Pero deja de investigar de una vez, deja de gastar tu tiempo en encontrar errores de los demás. Si no te gusta algo, ¡a la mierda! Sin contemplaciones. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón. La cabeza Tauro, la cabeza es la que vale ahora y la que te acabará por salvar. Que no te empujen al límite Tauro, no te enredes en mierdas del resto, de verdad. Los cambios no son malos y estos ni siquiera van a ser tan complicados como tú piensas…
-Con el dinámico Marte alineándose con el expansivo Júpiter en tu sector de viajes y aventuras, puede que pongas en marcha ideas que requieren un salto de fe. Sin embargo, con la ayuda de tus amigos, quizá encuentres la fuerza que necesitas para hacer lo que debes hacer. Quizá se alegren de unir fuerzas contigo y darte todo su apoyo y sus fuerzas. Evita hacer compras impulsivas durante el fin de semana, porque el vínculo del sol con el inquieto Urano podría alentarte a gastar mucho dinero.
+Las cosas a veces, tardan más de la cuenta, tanto en superarse como en construirse, no todo puede ser ya y en este momento aunque sabes que a veces te encantaría, pero cada minuto que pasa es un aprendizaje para ti, para valorar tu tiempo y para valorar lo que realmente merece la pena.
+Si alguien parece oponerse a tus planes, conseguirás lo que quieres si utilizas las palabras correctas. Es la forma en la que dices las cosas lo que puede hacer toda una diferencia en tu capacidad de vender una idea. Los asuntos empresariales también se desarrollan bien, con la actividad lunar del Martes otorgándote un empujón. Este es un momento excelente para sellar un acuerdo, colaborar con alguien en un nuevo negocio, o solicitar un préstamo para financiar una nueva empresa. También tendrás deseos de ampliar tus horizontes de otras maneras.
 
 ## Dinero
 
-Te encuentras en el séptimo cielo esta semana con un feliz aspecto en tu signo. Esto puede hacerte una persona más divertida, por no mencionar más atractiva a los demás, por lo que tu actividad social y confianza están destinadas a aumentar. De hecho, puede que lo sientas tanto que hasta podrías voluntariamente trabajar en todo tipo de emocionantes y nuevos proyectos en el trabajo e incluso asumir la responsabilidad de hacerte cargo de actividades sociales de todo tipo en tu empresa. No hay duda de que ciertas recompensas monetarias tocarán pronto a tu puerta.
+Es probable que un aspecto armonioso te haga sentir más comodidad y respeto esta semana. La gente está tratando de comunicarse contigo acerca de todo tipo de cosas, incluyendo tu trabajo y el dinero que se te paga por hacerlo. Mira a tu sector de profesión en busca de inspiración e ideas nuevas.

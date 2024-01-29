@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 22 de enero 2024 al 28 de enero 2024 
-description: Horóscopo semanal capricornio 22 de enero 2024 al 28 de enero 2024. De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
+title: capricornio 29 de enero 2024 al 04 de febrero 2024 
+description: Horóscopo semanal capricornio 29 de enero 2024 al 04 de febrero 2024. Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2024-01-22
+ogimg: /images/zodiac/semanal_capricornio.png#2024-01-29
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-01-22'
+ lastmod: '2024-01-29'
 ---
 
 
 
-## De verdad, no necesitas tanto como crees para ser feliz. Si tú con poquito te conformas, pero al menos que ese poquito sea de calidad y no te amargue la existencia.
+## Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
 
-Si tienes algo que pensar, intenta no hacerlo en el momento, YA, AHORA y AQUÍ. Las preocupaciones cambian de intensidad muy a menudo, y sólo es con el tiempo cuando se ven. Vale, las cosas te estresan pero quizás si en vez de tomar la decisión ahora esperas un poco y la tomas después de dormir 8 horas, todo cambia, ya no es tan dramático como parecía, se suaviza, y mucho… Tómate ese tiempo, hazlo Capricornio, porque te darás cuenta de que no todo es tan bueno, y tampoco todo es tan malo… Relax… Parece mentira como te estresas por situaciones que no siempre están en tu mano, pero es verdad es como si tú pudieras hacer todo por ti mismo y no Capricornio, por desgracia no todo es así… Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino. Un día malo no significará nada, sabes de sobra lo que es mover el culo para trabajar, sabes lo que es ir consiguiendo frutos, día a día… Recuerda lo que mereces, y lucha por ello muerte…
-Es posible que estés creando un problema que realmente no existe, especialmente si no has hablado con nadie al respecto y es una carga para ti. Durante los siguientes días, habla con una persona de confianza, ya que podría ayudarte a sentirte mucho mejor. Es posible que te des cuenta de que lo que te inquietaba no era tan grave como pensabas. La Luna Llena del jueves en tu eje de recreación puede coincidir con un encuentro fogoso.
+Madura Capricornio, madura y aléjate de las personas y de las situaciones que dañan tu autoestima, tus valores, tu moral… Aléjate de las personas que tratan de apagarte lentamente. Que a veces te crees muy fuerte Capricornio, te crees que puedes con todo, que nada ni nadie te hará daño… Pero por dentro hay corrosión, por dentro hay recuerdos que no son fáciles de olvidar y que se van acumulando… A pesar de que tengas muy bien aprendidas las lecciones te cuesta ponerlas en marcha, perdonas demasiado, perdonas incluso sabiendo que ya no hay nada que hacer, que las cosas no van a cambiar, que todo esto ya lo has vivido y que es más de lo mismo. Lo peor no es eso, lo peor es que tú peleas hasta el final, lo peor es que tu perdonas cosas imperdonables, y lo peor es que al final, si te tratan bien, parece que todo se te olvida. Tienes que empezar a dejar que el resto luche por tu Capricornio, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado. Esta semana hay una fuerte reconciliación con alguien importante para ti, pero tienes que estar muy seguro de querer reconciliarte, tienes que tener tus ideas claras y pase lo que pase comprender que el alma siempre sabe cómo curarse a sí misma. El desafío es silenciar a la mente cuando no calla.
+Esta semana, el arte, la música, la cultura y otras divertidas actividades podrían ser placenteras e inspiradoras. Bien puedes aprovechar tu imaginación y utilizarla a tu ventaja, especialmente a través de la visualización y actividades creativas. Si no has incursionado en un pasatiempo favorito últimamente, hacerlo puede ser muy gratificante. En cuanto a romance se refiere, alguien podría estar recibiendo más de lo que da a cambio. Mantente alerta a agendas ocultas o demasiadas pequeñas mentiras. Deja que tu intuición te guíe.
 
 ## Dinero
 
-Para ti, esta semana es sobre el hecho de que parte de ti quiere sumergirse en la belleza y la creatividad, pero las fuerzas quieren que pases tiempo al cuidado de cualquier deuda que pueda haberse acumulado. De nada sirve entrar en pánico o reprenderse a sí mismo por un gasto excesivo. A partir de este punto en adelante, haz una promesa para cambiar la forma de hacer negocios en tu vida monetaria, puedes hacerlo.
+Es una semana llena de retos para ti. Tus sueños pueden ser algo más que una fuente de inspiración. Sus imágenes e ideas te ayudarán a determinar el negocio que sería bueno y la forma de avanzar en esa área. También es necesario reforzar tus ahorros. El cambio se aproxima y querrás prepararte para ello.

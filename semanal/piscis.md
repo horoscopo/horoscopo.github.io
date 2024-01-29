@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 22 de enero 2024 al 28 de enero 2024 
-description: Horóscopo semanal piscis 22 de enero 2024 al 28 de enero 2024. Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
+title: piscis 29 de enero 2024 al 04 de febrero 2024 
+description: Horóscopo semanal piscis 29 de enero 2024 al 04 de febrero 2024. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Piscis porque no eres así. 
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2024-01-22
+ogimg: /images/zodiac/semanal_piscis.png#2024-01-29
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-01-22'
+ lastmod: '2024-01-29'
 ---
 
 
 
-## Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
+## Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Piscis porque no eres así. 
 
-Tienes que improvisar más Piscis, tienes que dejar a un lado lo políticamente correcto porque aunque tú hagas las cosas bien y como deben hacerse, después, cualquier imbécil te jode a ti la vida por hacer las cosas a su manera. Mira Piscis, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie. Tienes que aprender a ver quien realmente se subiría al barco contigo si te marchas hacia otro lado y quien te apoyaría para que lo hicieras. Tienes que darte cuenta de tantas cosas… Así que, empieza a testar a algunos, empieza a ponerles un poco al límite. Estás en ese punto en el que todo te da un poco igual, en el que vives los días porque tienes que vivirlos, así como mecanizado, robotizado Piscis… Y tú no eres así… Quizás estás mirando hacia donde no debes mirar… Si quieres caminar hacia delante no puedes quedarte con lo que “tienes seguro”, porque en el fondo no es tan seguro ni tan estable como tu piensas pero qué pasa, que hasta que no se rompa en mil pedazos no cambiarás el chip? Pues no Piscis, en serio, ves cambiándolo ya, antes de que ocurra lo peor. Fluye esta semana y deja que la vida te de sorpresas… Y agarra esas sorpresas. No tienes nada que perder. Feliz semana Piscis.
-Tu autoestima podría ser alta un minuto y baja al siguiente, lo que podría hacerte sentir un poco de inseguridad. Sin embargo, si vas a tratar de sacarle el mayor provecho a los días por venir, necesitarás mantener firmes tus principios y valores. Por otro lado, puede que no tengas mucha suerte si es que esperabas poder sacar un préstamo o una línea de crédito. De hecho, sería mejor que dejaras pasar otra semana antes de aplicar.
+Tienes que plantarte Piscis, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad. Y ahora es lo que más necesitas, y sobretodo estabilidad emocional. Asegúrate de que todo está bien cerrado, asegúrate de no tener deudas con nadie, de terminar con los capítulos de tu vida que están abiertos y que ya no sirven para nada, y cuando lo hayas hecho encontrarás esa paz que a veces tanto necesitas. No te comprometas con nada a largo plazo, disfruta un poco más del momento, organiza tu vida y no te estreses porque no te salgan todas las cosas que quieres hacer en el momento. Tienes que utilizar tu tiempo en lo que más te ayude, en lo que te haga mejor persona. Este es el comienzo de una nueva semana, puedes desperdiciarla o usarla para hacer cosas buenas. Lo que hagas hoy será muy importante, estás gastando un día de tu vida en ello. Cuando llegue mañana, ese día se habrá ido para siempre, lo habrás dejado atrás así que, haz que sea un buen día. Olvídate de tratar de buscar siempre algo que todavía no existe y céntrate en el mismísimo momento. Vas a ver como la ansiedad desaparece. Feliz semana Piscis.
+Venus recientemente en tu signo significa que verdaderamente estás en tu elemento. La gente realmente apreciará los rasgos de tu personalidad, gracia y encanto. Marte entra a tu signo el jueves, pudiendo significar que vas a defender tus límites con firmeza, lo que definitivamente es algo bueno. Además, te será útil regatear cuando salgas de compras, especialmente si quieres adquirir artículos para tu hogar. Escucha a tu intuición, porque bien podría ganarte una ganga.
 
 ## Dinero
 
-Para ti esta semana es sobre nueva energía en el sector del hogar, donde el hambre de creatividad puede estarte haciendo querer gastar más de lo que tienes en restauración y redecoración. Sin embargo no se trata de lo que gastas. Algunos aspectos pueden servir como medida provisional para evitar que lo hagas. Después de todo cambiarás de opinión de lo que te gusta dentro de unos años de todos modos.
+Para ti, esta semana es sobre viajes, educación superior y metafísica, así como la política, los grupos sociales, esperanzas y sueños. Es un buen momento para combinar estas áreas mediante la participación en talleres, seminarios y clases en línea que te desafíen y te permitan cobrar más por una nueva habilidad o servicio. Conecta primero con tu jefe para saber cuáles son las habilidades que deberías de obtener para mejorar.

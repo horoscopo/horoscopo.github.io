@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 22 de enero 2024 al 28 de enero 2024 
-description: Horóscopo semanal cancer 22 de enero 2024 al 28 de enero 2024. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
+title: cancer 29 de enero 2024 al 04 de febrero 2024 
+description: Horóscopo semanal cancer 29 de enero 2024 al 04 de febrero 2024. Crece Cáncer, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2024-01-22
+ogimg: /images/zodiac/semanal_cancer.png#2024-01-29
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-01-22'
+ lastmod: '2024-01-29'
 ---
 
 
 
-## Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
+## Crece Cáncer, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
 
-Tienes grandes planes Cáncer, el problema es que tienes que pensar muy bien con quién quieres tener esos planes, con quien quieres disfrutarlos. Un día estás bien, pero después estás tres mal y eso sólo es mierda que se va acumulando constantemente en tu vida. Decide qué es lo que quieres hacer y con quien quieres compartir tus logros. Esta semana estás un poco así como que te da igual todo, que no es que te de igual en el fondo, pero no te implicas de la misma manera en la que lo hacías unas semanas antes. Cuando te propones algo vas con ello hasta el final, el problema es que quizás ahora ya no te motiva como antes nada, quizás no quieres arriesgar por nadie, quizás no te merece tanto la pena como creías… No te preocupes Cáncer, si esta semana estás un poco más apático con el mundo no pasa nada. Tienes tu derecho a no querer hacer nada, a pasar un poco de todo. De hecho, pasar un poco de todo es lo que te hará ver las cosas desde fuera, lo que te hará ser más objetivo. Esta semana abrirás los ojos, verás qué merece la pena, qué puedes perder, qué debes ganar, de qué debes pasar… Y si no eres el/la mismo/a de antes con los demás, que aprendan a valorarte un poco más. Ya verás como vuelve el Cáncer de siempre…
-Podrías estar en demanda socialmente, pero puede que aun así quieras mantener un perfil bajo, volar bajo el radar y tal vez hacer obras de caridad o ayudar de otras maneras. Ten cuidado con respecto a tu carrera o situación profesional, sobre todo porque una extraña influencia podría alterar un plan o proyecto a mitad de semana. Es probable que también suceda inesperadamente, pudiendo dificultarte solucionar todo. Sin embargo, este contratiempo podría revelar una falla que había en tu plan, permitiendo que puedas remediarla de una vez por todas.
+Disfruta de la vida Cáncer, de verdad. A veces hay que dejar atrás lo que pertenece a atrás de una vez, y sí, por qué no, volver a dar oportunidades, volver a confiar. Es muy triste que te hayan fallado, es cierto, pero el castigo más grande es haberte hecho desconfiado con el mundo, desconfiado con todos. Hay que cambiar eso como sea, hay que cambiarlo porque hay gente buena que lo que quiere es dar, que te valora, que te quiere. Sé amable con la gente que está a tu alrededor y perdona y sigue a tu corazón. Al final del todo, si no lo haces, te vas a arrepentir muchísimo, a veces esas situaciones no vuelven Cáncer. Hay algunos problemillas que te rodean pero van a solucionarse pronto, aunque deberás tener una buena actitud para liquidarlos definitivamente. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierda en unas semanas. Quédate con lo positivo y sigue adelante con tu vida. Todo cambiará a mejor. La paz interior es la nueva meta, así que, ¡céntrate! Feliz semana Cáncer.
+¿No es tiempo de que te relajes? Descubres que buscas decir lo que piensas cuando Marte ingresa en tu sector de relaciones. Aunque una estrategia más diplomática siempre es útil, hay momentos en los que es mejor buscar la honestidad y sinceridad. Aquellos proyectos o relaciones que no han progresado empiezan a moverse en la dirección correcta. La entrada de Venus a tu sector de estilo de vida genera relaciones positivas con colegas y superiores. En cuanto a diversión, los deportes de competencia ayudan a canalizar tu energía.
 
 ## Dinero
 
-Tu individualidad viene justo en contra del dinero o la deuda de otras personas. Te podría sorprender el encontrar algo que no esperabas en esta área de tu vida. Asegúrate de haber pagado todo y haber pasado por alto una factura o te arriesgas a pagar multas y sanciones. Hay un aspecto afortunado que demuestra que puede ser muy bueno que pagues las deudas justo después de que la factura llegue. ¡Fuera de tu vista, fuera de tu mente!
+Esta semana todo tipo de puertas financieras se están abriendo. Con el fin de atraer la cantidad de dinero que deseas, tienes que verdaderamente adorar lo que haces. Considera la posibilidad de profundizar tu conocimiento innato a través de talleres y seminarios. Tu sector social se expande. Tienes los contactos necesarios para dar el salto a la enseñanza, la publicación o el discurso. Haz que suceda.
