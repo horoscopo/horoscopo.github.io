@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 29 de enero 2024 al 04 de febrero 2024 
-description: Horóscopo semanal piscis 29 de enero 2024 al 04 de febrero 2024. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Piscis porque no eres así. 
+title: piscis 05 de febrero 2024 al 11 de febrero 2024 
+description: Horóscopo semanal piscis 05 de febrero 2024 al 11 de febrero 2024. Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2024-01-29
+ogimg: /images/zodiac/semanal_piscis.png#2024-02-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-01-29'
+ lastmod: '2024-02-05'
 ---
 
 
 
-## Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Piscis porque no eres así. 
+## Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
 
-Tienes que plantarte Piscis, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad. Y ahora es lo que más necesitas, y sobretodo estabilidad emocional. Asegúrate de que todo está bien cerrado, asegúrate de no tener deudas con nadie, de terminar con los capítulos de tu vida que están abiertos y que ya no sirven para nada, y cuando lo hayas hecho encontrarás esa paz que a veces tanto necesitas. No te comprometas con nada a largo plazo, disfruta un poco más del momento, organiza tu vida y no te estreses porque no te salgan todas las cosas que quieres hacer en el momento. Tienes que utilizar tu tiempo en lo que más te ayude, en lo que te haga mejor persona. Este es el comienzo de una nueva semana, puedes desperdiciarla o usarla para hacer cosas buenas. Lo que hagas hoy será muy importante, estás gastando un día de tu vida en ello. Cuando llegue mañana, ese día se habrá ido para siempre, lo habrás dejado atrás así que, haz que sea un buen día. Olvídate de tratar de buscar siempre algo que todavía no existe y céntrate en el mismísimo momento. Vas a ver como la ansiedad desaparece. Feliz semana Piscis.
-Venus recientemente en tu signo significa que verdaderamente estás en tu elemento. La gente realmente apreciará los rasgos de tu personalidad, gracia y encanto. Marte entra a tu signo el jueves, pudiendo significar que vas a defender tus límites con firmeza, lo que definitivamente es algo bueno. Además, te será útil regatear cuando salgas de compras, especialmente si quieres adquirir artículos para tu hogar. Escucha a tu intuición, porque bien podría ganarte una ganga.
+Necesitas amor Piscis, necesitas cariño de verdad, sentirte querido al 100% porque en el fondo eso, es lo que te hace más feliz. Y no es solamente amor de pareja no, es el hecho de sentirte valorado por los que te importan, es sentirte cuidado, mimado y protegido. Es normal que hayas tenido altibajos enormes, tienes mucho peso que cargas a tu espalda y por eso lo que menos quieres es que por las inseguridades de otras personas, tu vida se acabe saturando de verdad. Busca ese amor en quien pueda y quiera dártelo, sin complicar más tu existencia. Necesitas tus momentos de desconexión con el mundo pero te arrimas a algunas personas que en vez de darte paz cuando más la necesitas te la siguen quitando. Respira hondo y no hagas un drama por ello, simplemente aléjate un poco, deja que la mierda se quede con la mierda pero sal de ahí cuanto antes. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece. Tarde o temprano sabrán que perder a Piscis es perder algo grande e irremplazable. Y no te enfades ni te piques, todo menos eso, todo menos entrar en juegos de los que al final te cuesta mucho salir.
+Puede que te abstengas de compartir tus sentimientos, en especial si se trata de una cuestión sensible. Si ya has tenido experiencia con este asunto, podrías sentirte incluso con menos ganas de hablar de ello. Sin embargo, podría producir un importante logro. A principios de la semana, puede que descubras que superar una barrera y hablar con la verdad es un gran alivio. El vital Marte ingresa a tu sector espiritual el fin de semana, lo que podría revolucionar tu psiquis. Prepárate para algunos vívidos sueños.
 
 ## Dinero
 
-Para ti, esta semana es sobre viajes, educación superior y metafísica, así como la política, los grupos sociales, esperanzas y sueños. Es un buen momento para combinar estas áreas mediante la participación en talleres, seminarios y clases en línea que te desafíen y te permitan cobrar más por una nueva habilidad o servicio. Conecta primero con tu jefe para saber cuáles son las habilidades que deberías de obtener para mejorar.
+Hay cierta actividad en tu sector de dinero de otras personas esta semana, lo que indica un tiempo de enfoque en la propiedad compartida, las herencias y las viejas deudas. Puesto que esto afecta a la política, los grupos y afecta la forma en la que te comunicas, tendrás que ser más social cuando se trata de tu vida monetaria. Esto se manifestará en gastar dinero para pasar buenos ratos y cimentar tu unión especial con esta gente.

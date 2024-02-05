@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 29 de enero 2024 al 04 de febrero 2024 
-description: Horóscopo semanal sagitario 29 de enero 2024 al 04 de febrero 2024. Escapa Sagitario, escapa de todo, por unos días, por unas semanas, el tiempo que necesites. Ahora no es el momento de pelear por nada, ni de discutir, ni siquiera de decidir, ahora es momento para estar en paz, para estar en calma, lejos de lo que sea, lejos de quien sea. 
+title: sagitario 05 de febrero 2024 al 11 de febrero 2024 
+description: Horóscopo semanal sagitario 05 de febrero 2024 al 11 de febrero 2024. Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2024-01-29
+ogimg: /images/zodiac/semanal_sagitario.png#2024-02-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-01-29'
+ lastmod: '2024-02-05'
 ---
 
 
 
-## Escapa Sagitario, escapa de todo, por unos días, por unas semanas, el tiempo que necesites. Ahora no es el momento de pelear por nada, ni de discutir, ni siquiera de decidir, ahora es momento para estar en paz, para estar en calma, lejos de lo que sea, lejos de quien sea. 
+## Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
 
-A veces de bueno te pasas Sagitario. Vas a tener que empezar a dejar las cosas claras ya. Hay muchos momentos que ya no son como antes, hay muchos momentos en los que ahora lo pasas mal, momentos que ya no estás dispuesto a pasar por alto. En serio Sagitario, con la escuela que tienes, ¿por qué recaes en lo mismo? Si ves las cosas venir, ¿para qué esperas a que pase lo peor? ¡Corta por lo sano! Bueno, lo hecho hecho está, no podrás dar marcha atrás pero sí que puedes solucionarlo todo ahora. Quizás tengas que darte un tiempo, quizás tengas que alejarte de lo que te rodea para darte cuenta de muchas cosas, de la dependencia que tienes, del amor real que sientes, de lo que mereces aguantar… Estás en una etapa súper confusa Sagitario, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones, hasta que tú cambies. Estás enredado en un circulo vicioso Sagitario y de verdad, como no empieces a cortar lo que no te gusta un día de estos explotas. Y va a salpicar… Se va a liar gorda…
-Con un enfoque definido en tu sector de transformación y finanzas compartidas, un pulso más profundo podría influir en tus pensamientos y emociones. Tal vez notes cómo ciertos patrones no permitieron que lograras todo lo que buscabas lograr, y esto podría alentarte a que de a poco los dejes ir. La entrada del Sol a tu sector de estilo de vida podría motivarte a comer más saludable aunque esta semana bien puede ser época de excesos y placeres. Espera hasta el 28 de enero, al momento en el que la actividad lunar se manifieste.
+No te conformes con poco Sagitario, no te conformes con cualquier cosa, con cualquier trabajo, con cualquier amor… Estás aquí para hacer las cosas a lo grande, para sentir fuerte, profundo, para lograr esas metas que llevas teniendo en tu mente desde hace tanto… En serio, ponte las pilas, dale caña, echa las horas que tengas que echar pero ve a por todas, en cualquier sentido en tu vida… Nunca hay un momento perfecto para empezar, siempre hay algo que pasa y que descoloca todo, una u otra cosa, pero tienes que aprender a pasar de toda esa basura, tienes que aprender a tener autocontrol y a entender que el mundo sigue girando pase lo que pase y el tiempo también sigue corriendo… Y no hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Sagitario, abre las puertas y ciao. No tienes que mantener nada, no tienes que obligar a quien quiere irse. Esta semana vas a tener varios momentos así, varios momentos en los que no sabrás si debes luchar o si debes permanecer quieto… Lucha si merece la pena pero no ruegues, no vayas detrás de nadie, lucha por lo que es tuyo sí, pero no entres en el juego cuando traten de manipularte. Tienes cosas muy importantes por hacer, mucho más importantes que estar esperando a alguien o que estar dándole vueltas a la cabeza a algo que sólo te roba tiempo ahora.
+Así como puedes estar de acuerdo con amistades cercanas, podría haber otras personas con quien no puedes coincidir en un asunto importante. Aunque puede ser tentador decir exactamente lo que piensas, tal vez sea mejor no hacerlo, ya que la Luna nueva el viernes 9 sólo podría empeorar las cosas. Si puedes evitar tales conflictos esta semana, tal vez seas capaz de llegar a un acuerdo la próxima. Por otro lado, disfrutar de una sesión de spa podría hacerte muy bien.
 
 ## Dinero
 
-Con un aspecto positivo afectando a tu sector de las instituciones, estás disfrutando de los frutos de tu trabajo en tu profesión. Aunque puede sentirse como si las cosas se estuvieran desacelerando en ese sector, se te ofrece un breve período para que puedas descansar en tus laureles. Podrías darte cuenta de que hacer negocios con grandes jugadores se convierte en una opción para ti de repente, ¡ya que estas a la altura!
+Hay una sorpresa muy especial para ti ahora. Un aspecto armonioso te ofrece un montón de ideas creativas, por no mencionar el talento para lograrlas. Mientras tanto, también recibes el impulso para tomar medidas sobre todo lo que quieres lograr. Dado que tu sentido de auto-expresión se ve afectado, es un buen momento para vender tus productos o servicios. Formula una lluvia de ideas para lograr llegar a un plan.

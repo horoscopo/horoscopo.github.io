@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 29 de enero 2024 al 04 de febrero 2024 
-description: Horóscopo semanal geminis 29 de enero 2024 al 04 de febrero 2024. Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
+title: geminis 05 de febrero 2024 al 11 de febrero 2024 
+description: Horóscopo semanal geminis 05 de febrero 2024 al 11 de febrero 2024. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2024-01-29
+ogimg: /images/zodiac/semanal_geminis.png#2024-02-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-01-29'
+ lastmod: '2024-02-05'
 ---
 
 
 
-## Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
+## No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
 
-Sí, es cierto que muchos se los merecen, es cierto que a veces te entran ganas de dejarles en su sitio, con tres palabras podrías hacer que cerraran sus bocas para siempre pero, ese no es el caso ahora. Si ya has salido de lo más hondo no vuelvas al agujero otra vez por favor. 
- No tengas odio o rabia por dentro, no dejes que la ira te controle porque mantener cualquier tipo de enfado o de resentimiento sólo te mantiene en un estado tóxico que de verdad no te hace bien.
-Hay un cambio en el aire esta semana conforme proyectos y planes hogareños dan paso a aventuras y divertidas excursiones. Trata de terminar cualquier responsabilidad atrasada con el fin de tener más tiempo para explorar otras interesantes oportunidades. Tu nivel de placer estará en su punto más alto también, cuando el romance, la creatividad e ideas empresariales compitan por tu atención. Venus retrocede desde el Sábado, animándote a revisar tu rutina y hábitos. Evita actuar bajo impulso durante el fin de semana.
+Esfuérzate un poco más de lo que hiciste ayer Géminis, simplemente eso, lo que has aprendido todos estos años se ha instalado ya en tu cabecita. Y bien sabes que cuando quieres cambiar algo y empiezas a presionarte todo sale mal. 
+ de hecho ahora es ese momento en el que puedes utilizar todo lo que sabes para ser un poco más feliz.
+Una animada influencia puede indicar una alegre etapa en el plano doméstico, donde las celebraciones y reuniones pueden ser muy divertidas. Podrías sentir deseos de darte algunos gustos y cuidarte un poco, lo que puede ser muy bueno para ti. Trata de evitar involucrarte en conflictos sin importancia, ya que no conseguirás nada con ellos. Con respecto a tu carrera y ambiciones clave, una oportunidad inesperada podría abrirle la puerta a una nueva visión desconcertante que podría resultar beneficiosa si la aceptas.
 
 ## Dinero
 
-Esta semana estás lleno/a de grandes ideas para salir adelante económicamente. Hay una nueva sensibilidad hacia la comunicación y una retención temporal de tus actividades sociales para que puedas poner todas tus cosas en orden. En conjunto, el escenario se prepara para un nuevo trabajo o una nueva posición en tu empresa actual. Es posible que debas sugerir o crearla, pero puede ser tuya.
+A veces puedes tener demasiada timidez para la confrontación. Es posible que esta semana sientas aún más preocupación por llevarte bien con los demás. Tu situación financiera es buena. Con tanta energía concentrada en ese sector, estás haciendo todo tipo de avances en la obtención, el pago de deuda y el ahorro. Te das cuenta de que a veces es más valioso compartir momentos de amor con tus hijos y familiares de lo que es gastar.

@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 29 de enero 2024 al 04 de febrero 2024 
-description: Horóscopo semanal capricornio 29 de enero 2024 al 04 de febrero 2024. Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
+title: capricornio 05 de febrero 2024 al 11 de febrero 2024 
+description: Horóscopo semanal capricornio 05 de febrero 2024 al 11 de febrero 2024. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2024-01-29
+ogimg: /images/zodiac/semanal_capricornio.png#2024-02-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-01-29'
+ lastmod: '2024-02-05'
 ---
 
 
 
-## Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
+## No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo.
 
-Madura Capricornio, madura y aléjate de las personas y de las situaciones que dañan tu autoestima, tus valores, tu moral… Aléjate de las personas que tratan de apagarte lentamente. Que a veces te crees muy fuerte Capricornio, te crees que puedes con todo, que nada ni nadie te hará daño… Pero por dentro hay corrosión, por dentro hay recuerdos que no son fáciles de olvidar y que se van acumulando… A pesar de que tengas muy bien aprendidas las lecciones te cuesta ponerlas en marcha, perdonas demasiado, perdonas incluso sabiendo que ya no hay nada que hacer, que las cosas no van a cambiar, que todo esto ya lo has vivido y que es más de lo mismo. Lo peor no es eso, lo peor es que tú peleas hasta el final, lo peor es que tu perdonas cosas imperdonables, y lo peor es que al final, si te tratan bien, parece que todo se te olvida. Tienes que empezar a dejar que el resto luche por tu Capricornio, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado. Esta semana hay una fuerte reconciliación con alguien importante para ti, pero tienes que estar muy seguro de querer reconciliarte, tienes que tener tus ideas claras y pase lo que pase comprender que el alma siempre sabe cómo curarse a sí misma. El desafío es silenciar a la mente cuando no calla.
-Esta semana, el arte, la música, la cultura y otras divertidas actividades podrían ser placenteras e inspiradoras. Bien puedes aprovechar tu imaginación y utilizarla a tu ventaja, especialmente a través de la visualización y actividades creativas. Si no has incursionado en un pasatiempo favorito últimamente, hacerlo puede ser muy gratificante. En cuanto a romance se refiere, alguien podría estar recibiendo más de lo que da a cambio. Mantente alerta a agendas ocultas o demasiadas pequeñas mentiras. Deja que tu intuición te guíe.
+No sueles dar la llave de tu corazón a nadie Capricornio, pero si hay personas que la tienen, y de hecho esas personas son las únicas que pueden desbloquearlo, que pueden ver el fondo de lo que hay, tu esencia, tu alma. Pero esta semana vas a cambiar la cerradura, porque te apetece, porque ahora quieres estar seguro de a quien se la quieres dar, porque quieres empezar de cero muchas cosas. Y no cambiará tu esencia Capricornio, porque la esencia es la misma, lo que cambiará será el poder que vas a tener, el poder que van a tener otros sobre ti. Esta semana preocúpate de hacer las cosas bien. Hay mucha responsabilidad y mucho en juego. Vas a sentirte bien por las decisiones que vas a tomar, vas a sentir que vuelves a tomar el timón de tu vida como antes. No te preocupes porque algo no salga, te esperan cosas mejores. No te pongas nervioso cuando te digan que no puedes, que no tienes el valor suficiente o la capacidad para hacerlo. Puedes con todo, y a aunque tengas que ir en contra de todo, si has tomado la decisión, que sea hasta el final. Vas a tener que volverte invisible para algunas personas si de verdad quieres ir hacia delante. Feliz semana Capricornio.
+La presencia de Venus en tu sector de recreación puede brindarte oportunidades para disfrutar de exhibiciones, conciertos, películas o cualquier cosa que te inspire y emocione. Este también es un momento ideal para darte el gusto con tus pasatiempos favoritos o con salidas en familia. Cuanto más tiempo dediques a que tu niño interior se divierta, más feliz serás. 
+  Es importante que te relaciones con personas que te brinden energía positiva y alegría. Esto se debe a los cambios que se están produciendo dentro de ti. Estás ocupando tu tiempo en liberarte de viejas historias y actitudes, y adoptando nuevas creencias y patrones. Si bien todo esto está en su etapa inicial, asegúrate de que tu compañía sea buena, positiva e inspiradora. La presencia del sol en tu sector hogareño te anima a hacer algunas tareas hogareñas, así como a dedicarte más tiempo. Si lo haces, en verdad sentirás los beneficios.
 
 ## Dinero
 
-Es una semana llena de retos para ti. Tus sueños pueden ser algo más que una fuente de inspiración. Sus imágenes e ideas te ayudarán a determinar el negocio que sería bueno y la forma de avanzar en esa área. También es necesario reforzar tus ahorros. El cambio se aproxima y querrás prepararte para ello.
+Es una semana de subidas y bajadas para ti. Por un lado, gran parte del enfoque de esta semana es sobre el dinero y el estatus. Por otro lado, los aspectos afectarán a tu sector de deuda y el dinero de otras personas. El Universo quiere que resuelvas esto antes de que empeore.

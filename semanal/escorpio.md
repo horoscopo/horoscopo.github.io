@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 29 de enero 2024 al 04 de febrero 2024 
-description: Horóscopo semanal escorpio 29 de enero 2024 al 04 de febrero 2024. Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
+title: escorpio 05 de febrero 2024 al 11 de febrero 2024 
+description: Horóscopo semanal escorpio 05 de febrero 2024 al 11 de febrero 2024. Cada día que pasa te das más cuenta de que mereces cosas buenas Escorpio, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2024-01-29
+ogimg: /images/zodiac/semanal_escorpio.png#2024-02-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-01-29'
+ lastmod: '2024-02-05'
 ---
 
 
 
-## Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
+## Cada día que pasa te das más cuenta de que mereces cosas buenas Escorpio, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
 
-Abre los ojos de una vez Escorpio. Te preocupas demasiado, pero te preocupas por todo, por todos. A veces incluso por cosas irreales, por cosas que no han pasado aún… A veces tienes tanta desconfianza en todo que sólo piensas en adelantarte a las circunstancias. Pero al final esa desconfianza se va y perdonas Escorpio, siempre encuentras la forma de perdonar, has vivido la mitad de tu vida poniendo a los demás antes que a ti mismo, y te han hecho daño, te han fallado, te han demostrado que no eres una prioridad. Y eso duele mucho… Pero Escorpio, tú no puedes cambiar, tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias tu corazón vale oro, y tú también Escorpio. Pero sigue protegiéndote a ti mismo, y esta semana mucho más. No es que no seas hábil y astuto para no ver las cosas venir pero a veces te ciegas mucho, incluso aunque sea destructivo y tóxico para ti. Necesitas entender muchas cosas, necesitas cuidar mejor de tu corazón, no hace falta que cambies pero da oportunidades a las personas adecuadas, y hazte valer, y comprende que está bien perdonar a las personas, pero no está bien dejar que te hagan daño, una y otra vez. Escorpio por favor, te tenían que tener en un altar… Y lo sabes…
-Pareces tener mucho involucramiento social en este momento, lo que puede ser muy satisfactorio. Aun así, a mitad de semana, podías tener una ligera obsesión con una cierta persona o con su carácter o intereses. Puede que lo mejor sea que te detengas, si te es posible. La actividad lunar del jueves podría actuar como un factor desestabilizador, provocando que tomes una decisión que podrías lamentar más adelante. Trata de no hacer ningún movimiento hasta mediados de la próxima semana si te es posible.
+Parece que no todo va tan mal, no ¿Escorpio? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada.
+Aunque puede que sientas que salir con una persona determinada es una buena idea, su práctica actitud hacia la situación podría revelar que no lo es. Es incluso posible que pudieran tener una mejor relación si se mantienen como amigos. La alineación de esta semana sugiere que aunque tienes estrellitas en los ojos, podrías bajar rápidamente a la tierra. El movimiento de Saturno a tu sector financiero podría darte una actitud mucho más empresarial en relación a dinero. El deseo de aumentar tus ingresos podría llevarte a formular planes.
 
 ## Dinero
 
-El Universo te enseña a aceptar más responsabilidad con respecto a cómo te proyectas al mundo. Alguien ha sido capaz de ascender en la escala más rápidamente debido a su buen vestir o a una mejor manera de hablar, pero tú también lo puedes hacer. Práctica tu confianza en frente de un espejo hasta que la perfecciones. Cada detalle ayuda.
+Te diriges a un periodo de gran riqueza en términos de finanzas e información que te ayudará a obtener más seguridad. Tienes un increíble poder psíquico ahora. El Universo está agitando tu sector de karma, vidas pasadas, e instituciones, con el fin de acudir a estas áreas para hacer más dinero, encontrar nuevas ideas para productos y servicios únicos, o localizar lugares para invertir tu dinero para maximizar tus ganancias.
