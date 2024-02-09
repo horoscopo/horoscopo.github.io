@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 08 de febrero 2024
-description: Horóscopos del dia de hoy 08 de febrero 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 09 de febrero 2024
+description: Horóscopos del dia de hoy 09 de febrero 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2024-02-08
+ lastmod: 2024-02-09
 ---
-Es un período positivo para las oportunidades cuando el Sol forma sextil con Júpiter. Conecta y cuida a tus conexiones y amistades y crea un poco de tu propia suerte. Esta noche, cumplidos sinceros y muy dulces florecen para que puedas darlos y recibirlos. ¿Buscas pareja? Esta energía también les gustará a los solteros, así que ponte de un humor encantador.
+La Luna en Capricornio aumenta la motivación para triunfar. Y la moderación le evita a uno comportarse de manera exagerada, abrumadora, aplastante, y distraída. Todo es cuestión de equilibrio. Esta noche, busca romance, glamour y disfruta del misterio mientras la Luna aspecte a ambos, Júpiter y Neptuno.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
