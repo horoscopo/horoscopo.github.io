@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: libra 05 de febrero 2024 al 11 de febrero 2024 
-description: Horóscopo semanal libra 05 de febrero 2024 al 11 de febrero 2024. Libra, tienes que cambiar un poco el entorno que te rodea, dar nuevas oportunidades a otras personas, cambiar de lugar por un tiempo, cambiar de hábitos. Procura levantarte cada mañana y trazar un plan de lo que quieres conseguir a lo largo del día.
+title: libra 12 de febrero 2024 al 18 de febrero 2024 
+description: Horóscopo semanal libra 12 de febrero 2024 al 18 de febrero 2024. A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad Libra, ahora estás que lo partes.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2024-02-05
+ogimg: /images/zodiac/semanal_libra.png#2024-02-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-02-05'
+ lastmod: '2024-02-12'
 ---
 
 
 
-## Libra, tienes que cambiar un poco el entorno que te rodea, dar nuevas oportunidades a otras personas, cambiar de lugar por un tiempo, cambiar de hábitos. Procura levantarte cada mañana y trazar un plan de lo que quieres conseguir a lo largo del día.
+## A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad Libra, ahora estás que lo partes.
 
-Fíate de ti mismo Libra, de ti mismo y de tus acciones. De nadie más. Las expectativas no funcionan siempre, es más cuantas más expectativas tienes de algo más duro es el golpe después si no se cumplen como tu querías que se cumplieran. Por muy desconfiado y duro que parezcas ser, al final acabas confiando Libra y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto, has dejado de lado tu personalidad, tu opinión acerca de algo. Eso es lo que duele. Por eso ahora, lo mejor es no dar demasiado. Deja que sea el resto el que te de a ti. Déjate mimar. Deja que los demás te demuestren en vez de ser tú quien siempre demuestre al resto. No siempre tienes que ser tú el que está equivocado, no siempre tienes que ser tu el que vaya detrás del resto, el que tiene que arreglar constantemente todo. Si te sientes más frío ahora no te preocupes, son etapas, también tiene que haber momentos en los que no des todo de ti. Y ese es uno de ellos. Y no es que hayas cambiado, es que has sabido valorarte, has aprendido a no dar el 100% cuando sólo recibes la mitad, o ni siquiera eso. Los demás se hacen fuertes cuando el débil eres tú. Deja de poner en primer lugar los propósitos de los demás y pon los tuyos antes.
-Las influencias actuales podrían empujarte a alcanzar una meta que requiere encanto al igual que persistencia. Ahora el cosmos puede darte ambas cualidades, aunque el apoyo de tus amistades puede ser lo que te motive para seguir. Pero puede haber grandes ganancias si sigues tu plan sin importar qué tan difícil sea. Es posible que tengas plena conciencia del panorama completo, pero los detalles son más importantes en este momento.
+Empieza a cambiar la mentalidad Libra, empieza a cambiar eso de “estoy roto y sin fuerzas” por “estoy creciendo y me estoy curando de todo”, ya verás como tu vida cambia para mejor, y ya verás que deprisa. Quizás tengas que volver a conectar con tu pasado y cambiar la historia, quizás tengas que entender de una vez que todo pasó por alguna razón, que por eso estás aquí, quizás debas perdonar de verdad, perdonarte a ti mismo y dejar todo lo que te preocupa atrás. Si sigues hablando de algo es porque ese algo aún es importante para ti, aún quema dentro, y hay que enfrentarlo para que por fin salga de tu vida. Es complicado Libra, es complicado cargar con cosas que te hicieron daño en su día, y mucho más para ti, que no puedes olvidar tan fácilmente. Pero piensa que no puedes perder el tiempo con eso, piensa que tu tiempo es oro y que todo lo que inviertas en pensar demasiado lo podrías estar invirtiendo en hacer cosas productivas por y para ti. A veces, para encontrar un poco de paz debes estar dispuesto a perder tu conexión con algunas personas, con algunos lugares y con cosas que llevan creando mucho ruido en tu vida desde hace un tiempo… Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+Ten cuidado al firmar contratos empresariales o negocios relacionados con tu trabajo debido al aspecto formado entre el Sol y Neptuno de esta semana. En particular, lee los términos, condiciones y las clausulas. Hagas lo que hagas, no dejes nada al azar. La actividad lunar del martes podría animarte a lanzar la precaución al viento al irte de compras. Si lo haces, podría ser conveniente establecerte un límite. ¡No te gastes todo tu dinero! Escuchar a tu intuición a diario podría ser muy beneficioso.
 
 ## Dinero
 
-Recibes ayuda con tu vida emocional ahora. El Universo afecta la manera en la que procesas y expresas emociones, sobre todo cuando se trata de la forma en la que enseñas y aprendes nuevas habilidades. ¡Ahora recibes una gran cantidad de apoyo para el uso de redes sociales para estar en contacto con nuevas formas de compartir tus habilidades y ganar dinero en el proceso!
+Actualmente los aspectos afectan tu sector de dinero y valores. Pero la gran novedad está en tu sector de negocio propio y de grupos. Es hora de correr la voz sobre lo que haces para poder atraer a más clientes, ganar más dinero, e incluso empezar la cuenta de jubilación que has estado planeando.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 05 de febrero 2024 al 11 de febrero 2024 
-description: Horóscopo semanal sagitario 05 de febrero 2024 al 11 de febrero 2024. Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
+title: sagitario 12 de febrero 2024 al 18 de febrero 2024 
+description: Horóscopo semanal sagitario 12 de febrero 2024 al 18 de febrero 2024. No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2024-02-05
+ogimg: /images/zodiac/semanal_sagitario.png#2024-02-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-02-05'
+ lastmod: '2024-02-12'
 ---
 
 
 
-## Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
+## No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
 
-No te conformes con poco Sagitario, no te conformes con cualquier cosa, con cualquier trabajo, con cualquier amor… Estás aquí para hacer las cosas a lo grande, para sentir fuerte, profundo, para lograr esas metas que llevas teniendo en tu mente desde hace tanto… En serio, ponte las pilas, dale caña, echa las horas que tengas que echar pero ve a por todas, en cualquier sentido en tu vida… Nunca hay un momento perfecto para empezar, siempre hay algo que pasa y que descoloca todo, una u otra cosa, pero tienes que aprender a pasar de toda esa basura, tienes que aprender a tener autocontrol y a entender que el mundo sigue girando pase lo que pase y el tiempo también sigue corriendo… Y no hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Sagitario, abre las puertas y ciao. No tienes que mantener nada, no tienes que obligar a quien quiere irse. Esta semana vas a tener varios momentos así, varios momentos en los que no sabrás si debes luchar o si debes permanecer quieto… Lucha si merece la pena pero no ruegues, no vayas detrás de nadie, lucha por lo que es tuyo sí, pero no entres en el juego cuando traten de manipularte. Tienes cosas muy importantes por hacer, mucho más importantes que estar esperando a alguien o que estar dándole vueltas a la cabeza a algo que sólo te roba tiempo ahora.
-Así como puedes estar de acuerdo con amistades cercanas, podría haber otras personas con quien no puedes coincidir en un asunto importante. Aunque puede ser tentador decir exactamente lo que piensas, tal vez sea mejor no hacerlo, ya que la Luna nueva el viernes 9 sólo podría empeorar las cosas. Si puedes evitar tales conflictos esta semana, tal vez seas capaz de llegar a un acuerdo la próxima. Por otro lado, disfrutar de una sesión de spa podría hacerte muy bien.
+Organízate Sagitario, organiza tu mente, ¿qué es lo que quieres hacer? ¿con qué podrías ser feliz? ¿qué te gustaría tener que ahora no tienes? Hay que empezar por eso, y después hacer un plan para que se vuelva realidad. Sí, hay que ponerle mucho, muchísimo esfuerzo a todo, está claro, pero tú puedes hacerlo, tienes fuerza más que de sobra, sólo necesitas ese empujón a veces, eso quizás es lo que ahora te falta, en cuanto lo des, las cosas empezarán a fluir tal y como tú quieres… Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas. No aceptes menos de lo que mereces, no te conviene, nunca te ha convenido pero a veces has pasado por el aro. Si cree que necesitas otras cosas, hazlo, levántate, mueve el culo, busca lo que te gusta y pon el máximo de ganas en conseguirlo. Quejarse es sencillo y a veces necesario, pero de verdad, ¿qué sacas con eso? ¿simplemente amargarte el día? Pues sí. Empieza a actuar. Es muy probable que haya momentos en los que no te queden fuerzas, pero eres Sagitario, que a pesar de estar hundido por dentro saca ganas de donde hagan falta, pues aplica esa testarudez que tienes para conseguir lo que te beneficia en vez de quedarte de mala hostia con pensamientos negros y dándole más vueltas a las cosas de la cuenta.
+Las relaciones están bajo enfoque esta semana, tanto con el Sol como Mercurio animándote a hacer un balance de tus amistades, tu vida social y tus conexiones más cercanas. De hecho, este aspecto se combina con Venus y Saturno en un sector sensible de tu carta animándote a reescribir el plan o las reglas silenciosas dentro de determinadas asociaciones con el fin de mejorar la situación. En lo que respecta a finanzas, puede que gastes dinero justo cuando te dirigías por buen camino. Evita hacer esto, ya que podría causarte problemas innecesarios.
 
 ## Dinero
 
-Hay una sorpresa muy especial para ti ahora. Un aspecto armonioso te ofrece un montón de ideas creativas, por no mencionar el talento para lograrlas. Mientras tanto, también recibes el impulso para tomar medidas sobre todo lo que quieres lograr. Dado que tu sentido de auto-expresión se ve afectado, es un buen momento para vender tus productos o servicios. Formula una lluvia de ideas para lograr llegar a un plan.
+Tienes entusiasmo para moverte esta semana, especialmente con respecto a tu dinero. Esto puede proporcionarte un nuevo impulso para salir y encontrar un nuevo trabajo o pensar cómo iniciar un negocio secundario para aumentar tus ingresos. El Universo quiere que te destaques entre la multitud, así que asegúrate de ser visto y oído como individuo. Ciertos aspectos en tu sector de carrera indican que debes esforzarse para proporcionar una imagen tranquila y confiada.
