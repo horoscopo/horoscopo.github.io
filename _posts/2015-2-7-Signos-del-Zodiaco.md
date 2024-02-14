@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 13 de febrero 2024
-description: Horóscopos del dia de hoy 13 de febrero 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 14 de febrero 2024
+description: Horóscopos del dia de hoy 14 de febrero 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2024-02-13
+ lastmod: 2024-02-14
 ---
-Un momento de epifanía surge bajo la Luna Nueva en Capricornio. Prepárate para dejarte sorprender por tu resistencia. Es lo que te hace capaz de grandes cosas. Esta noche, no presiones a la gente para que supere sentimientos. Las cosas nunca se arreglan de tal manera, necesitan ser habladas y las personas todavía gozan el valor del aspecto cósmico de ayer para hacerlo.
+Las cosas se quedan colgando en el aire durante la Luna fuera de curso, un aspecto que les cierra la puerta a temas incómodos. Poderosas emociones surgen con la Luna cuadrando a Marte esta noche, cuando podrías no saber qué hacer después. En caso de duda, busca un déjà vu. Ya has estado en esta situación antes.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
