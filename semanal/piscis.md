@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 12 de febrero 2024 al 18 de febrero 2024 
-description: Horóscopo semanal piscis 12 de febrero 2024 al 18 de febrero 2024. Quita importancia a las cosas Piscis, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
+title: piscis 19 de febrero 2024 al 25 de febrero 2024 
+description: Horóscopo semanal piscis 19 de febrero 2024 al 25 de febrero 2024. Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza Piscis. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2024-02-12
+ogimg: /images/zodiac/semanal_piscis.png#2024-02-19
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-02-12'
+ lastmod: '2024-02-19'
 ---
 
 
 
-## Quita importancia a las cosas Piscis, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
+## Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza Piscis. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
 
-No dejes que nadie defina quien eres, no dejes que nadie te de un empujón ahora porque en realidad, no lo necesitas, simplemente tienes que mentalizarte de lo que puedes llegar a conseguir tú, por ti mismo, independientemente de si te quieren ayudar o no. 
- sino que aprovechan tus estados bajos de ánimo para que te vuelvas aún más loco, para que te desequilibres mucho más.
-Otras personas podrían ser demandantes al comienzo de la semana, de modo que sería útil decir que no a lo que no puedas manejar. Ya tienes suficientes problemas para que otras personas agreguen más. Pero a menos que te mantengas firme, puede que sigan con esta misma actitud. Cuando el expresivo Mercurio se prepara para volverse directo el fin de semana, presta especial atención a la firma de contratos o la compra de artículos de mucho valor. Además, mantente alerta ante el caos que, por lo general, acompaña al cambio de dirección de Mercurio. 
- Podría haber un proyecto que tienes ganas de abordar de lleno. Cuando el animado Júpiter forma una positiva conexión con el ferviente Plutón, es posible que quieras formar un equipo con alguien que comparte tu entusiasmo por este proyecto. Mercurio se vuelve directo el fin de semana, lo que podría encontrarte avanzando en tu carrera y en los asuntos de negocios. Al mismo tiempo, la actividad lunar en este sector podría coincidir con una oportunidad demasiado buena para dejarla pasar.
+La gente no hará siempre lo que tu quieres, la gente no agradecerá ni te dará lo mismo a ti, pero no, no te decepciones, es tiempo de dar un giro a todo. Sinceramente ¿de qué te saca dar más vueltas de lo debido a cosas que realmente no te hacen bien? Entrena tu mente, entrénala para ver las cosas buenas hasta en lo peor. Lo que parecía que no tenía solución, de repente lo tiene, las excusas que a veces ponías sólo por el miedo a que algo peor pasara ya no están. La felicidad se puede hallar hasta en los momentos más oscuros si somos capaces de usar bien la luz, y de eso, estás más seguro que nunca. Pues adelante Piscis, la luz está en tus manos, solamente tienes que alumbrar lo que de verdad te conviene, ya basta de ir detrás de cosas o personas que lo que intentan hacer es apagarte, eres fuerte, y estás conociendo gente nueva que puede apoyarte en todo. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
+Con la Luna Llena en el sector de tu carta relacionado con los horizontes lejanos, podrías anhelar un escape del ajetreo y bullicio de la vida cotidiana. Esta puede ser una oportunidad para reservar un viaje y relajarte. La semana también podría traer noticias inusuales que coincidan con una oportunidad o tal vez un encuentro que no te harán ninguna gracia. Algo o alguien intrigante y refrescantemente distintos podrían ingresar a tu vida, lo que tiene que ser bueno.
 
 ## Dinero
 
-Los planetas quieren hacer de ti una persona hermosa y magnética, un imán de gente, situaciones y oportunidades para que puedas cumplir con tus metas y sueños esta semana. Te piden que construyas confianza en ti mismo/a y que ajustes la manera en la que te expones al mundo. Cuanto más te abras a aprender de las experiencias nuevas, más fácil será tener acceso a oportunidades. Piensa en ello.
+Tienes el apoyo del Universo esta semana, el cuál afecta a tu área asociada con los viajes al extranjero y la educación superior. Aunque pueda parecer contradictorio, es posible que tengas que mirar muy lejos de donde estás con el fin de ganar más dinero. El explorar mercados extranjeros para productos e inversiones extranjeras de ahorro ayudará a diversificar tu cartera y ganar más a largo plazo. Y aprender un nuevo idioma te ayudará con la comunicación.
