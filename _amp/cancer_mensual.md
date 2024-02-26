@@ -1,18 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Cáncer Febrero 2024 
+title: Horoscopo Cáncer Marzo 2024 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/Cáncer_mes.png#2024-01-26
+ogimg: /images/mes/Cáncer_mes.png#2024-02-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-01-26'
+ lastmod: '2024-02-26'
 ---
 
 
-La Luna Nueva del 9 de febrero derrama amor y buenos deseos sobre tu vida familiar y hogareña. Puede que no parezca ser así si la escena es agitada, pero después podrás notar el afecto en todo. Tu carrera y oportunidades profesionales están bajo la mira durante el periodo de Luna Llena del 24 de febrero. Un malentendido podría causar una pequeña crisis, permitiéndote salir al rescate y ganarte los elogios de tus colegas. Regresa a casa sintiendo el gran poder que para entonces has generado. El 29 de febrero, disminuye tu ritmo y cuenta hasta diez antes de tomar una decisión importante. La cuadratura entre Mercurio y Marte podría crear en ti dudas, lo que rara vez ayuda.
+Marzo tiene eclipse este año. Lo cuál está bien. Los sentimientos son fuertes y los corazones están llenos cuando el mes comienza y cuando acaba. La luna nueva del día 10 es un momento precioso y privado para ti, incluso si tienes más cosas que hacer que de costumbre. Ahorra tiempo y energía para reflexionar sobre lo que está sucediendo contigo y a tu alrededor (y lo que todo eso significa para ti). El 21 de marzo, Venus forma una conjunción con Neptuno en Piscis para lo que posiblemente es el día más romántico y soñado del año. No te vayas a la deriva. 

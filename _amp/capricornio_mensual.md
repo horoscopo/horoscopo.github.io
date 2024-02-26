@@ -1,22 +1,23 @@
 ---
 layout: amp
-title: Horoscopo Capricornio Febrero 2024 
+title: Horoscopo Capricornio Marzo 2024 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Capricornio_mes.png#2024-01-26
+ogimg: /images/mes/Capricornio_mes.png#2024-02-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-01-26'
+ lastmod: '2024-02-26'
 ---
 
 
-La temporada de transicion puede ser abrumadora para cualquiera, estimable Capricornio, pero con el sol, Venus y Mercurio en Sagitario transitando por tu doceava casa solar, es posible que quieras esconderte bajo las sábanas durante gran parte de febrero. La energía en este momento te pondrá en un estado de ánimo más privado, lo que hará que pienses mejor a qué persona le dedicas tu tiempo. Por suerte, Mercurio ingresa a tu signo el 6 de febrero, brindándote un apoyo cósmico que te ayudará a soportar los comentarios más superficiales, incluso cuando prefieras estar en la comodidad de tu casa con una taza de té y un buen libro.
-Te sentirás con ánimos de ayudar a las demás personas durante la luna nueva el día 9, lo que activa el sector de tu carta astral que rige lo servicial y el bienestar. Utiliza esta energía para ayudar en tu hogar y oficina, en especial si sientes que las personas que te rodean se han visto abrumadas por las responsabilidades. Sin embargo, las estrellas también te piden que le des a tu cuerpo un poco más de cariño, así que asegúrate de priorizar tu salud estirándote, bebiendo mucha agua y comiendo comidas nutritivas.
-Sentirás un cambio cuando con la actividad solar el 21 de febrero, marcando el inicio oficial del invierno. Esta ubicación solar te permitirá sentirte más social y tener una mayor motivación justo a tiempo para tus tradiciones favoritas de esta época. Si bien es seguro que tu popularidad aumentará en este momento, asegúrate de reservar algo de tiempo para estar a solas durante la luna llena del día 24. Estas vibras aumentarán tus habilidades de manifestación, así que no te olvides de encender una vela y pedir un deseo.
-Días destacados: 6, 23, 27
-Días desafiantes: 3, 5, 9
+Busca maneras de conectarte con tu niño interior este mes, Capricornio, ya que el sol en Géminis ilumina tu casa 5. Esta luminosa ubicación actúa como faro de luz en el sector más lúdico y creativo de tu carta, por lo que es importante que busques maneras de soltarte y expresarte. Por suerte, las nuevas ideas pueden fluir con libertad en este momento, lo que te inspira a usar tu creatividad artística incluso si no te consideras una persona experta en las artesanías.
+También te rodeará una coqueta energía, aunque puede que quieras frenarte antes de entregar tu corazón. En este momento, la energía puede ser bastante fugaz, lo que significa que obsesionarte con alguien que acabas de conocer puede no ser la mejor idea. Si encuentras a alguien que ilumina tu vida, disfruta del torbellino de romance, pero es posible que tengas que esperar hasta que comience la temporada de Leo el próximo julio para descubrir si la persona que amas vale la pena.
+Sentirás el cambio de energía el 21 de marzo cuando la temporada de Aries y la primavera(u otoño según el hemisferio) comienzan oficialmente. Mientras que muchas personas toman este cambio de estación como una señal para divertirse, tú te enfocarás más en tu salud y organización personal. Sin embargo, intenta no ponerte demasiadas expectativas nuevas de una sola vez. En cambio, tómate el tiempo para meditar sobre tus prioridades
+La luna llena del 25 te brinda la oportunidad perfecta para que implementes decisiones más inteligentes en tu vida, ya que el Universo te empuja a darle más estructura a tus rutinas diarias, lo que nutre tu mente, tu cuerpo y tu alma.
+Días destacados: 10, 16, 17
+Días desafiantes: 5, 18, 25

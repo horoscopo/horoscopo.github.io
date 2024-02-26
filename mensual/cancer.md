@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: Horoscopo Cáncer Febrero 2024
-description: El Horóscopo Febrero de Cáncer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Cáncer Marzo 2024
+description: El Horóscopo Marzo de Cáncer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/cancer/
 amplink: /horoscopo-mensual/amp/cancer/
 home: FALSE
-keywords: horóscopo febrero, horoscopos en español, horóscopo Cáncer febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Cáncer, Tarot, Astrologia, Zodíaco, Cáncer, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo marzo, horoscopos en español, horóscopo Cáncer marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Cáncer, Tarot, Astrologia, Zodíaco, Cáncer, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/cancer_mes.png#2024-01-26
+ogimg: /images/mes/cancer_mes.png#2024-02-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-01-26'
+ lastmod: '2024-02-26'
 ---
 
 
- > Cáncer, febrero será para ti un mes de los que te gusta vivir y deseas que no se acabe. Estás preparando tu estado físico para que llegue a punto en verano y, además, vivirás en una especie de nube amorosa, como si te encontraras en la adolescencia.
+ > Cáncer, vas a vivir un mes de marzo lleno de paz y equilibrio, además de que tendrás la posibilidad de disfrutar de grandes momentos con tu pareja en caso de que la tengas. Gozarás de un magnetismo muy poderoso, lo que hará que atraigas a gente muy llamativa.
 
 
 
-La Luna Nueva del 9 de febrero derrama amor y buenos deseos sobre tu vida familiar y hogareña. Puede que no parezca ser así si la escena es agitada, pero después podrás notar el afecto en todo. Tu carrera y oportunidades profesionales están bajo la mira durante el periodo de Luna Llena del 24 de febrero. Un malentendido podría causar una pequeña crisis, permitiéndote salir al rescate y ganarte los elogios de tus colegas. Regresa a casa sintiendo el gran poder que para entonces has generado. El 29 de febrero, disminuye tu ritmo y cuenta hasta diez antes de tomar una decisión importante. La cuadratura entre Mercurio y Marte podría crear en ti dudas, lo que rara vez ayuda.
+Marzo tiene eclipse este año. Lo cuál está bien. Los sentimientos son fuertes y los corazones están llenos cuando el mes comienza y cuando acaba. La luna nueva del día 10 es un momento precioso y privado para ti, incluso si tienes más cosas que hacer que de costumbre. Ahorra tiempo y energía para reflexionar sobre lo que está sucediendo contigo y a tu alrededor (y lo que todo eso significa para ti). El 21 de marzo, Venus forma una conjunción con Neptuno en Piscis para lo que posiblemente es el día más romántico y soñado del año. No te vayas a la deriva. 
