@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 19 de febrero 2024 al 25 de febrero 2024 
-description: Horóscopo semanal acuario 19 de febrero 2024 al 25 de febrero 2024. Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
+title: acuario 26 de febrero 2024 al 03 de marzo 2024 
+description: Horóscopo semanal acuario 26 de febrero 2024 al 03 de marzo 2024. Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no Acuario, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2024-02-19
+ogimg: /images/zodiac/semanal_acuario.png#2024-02-26
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-02-19'
+ lastmod: '2024-02-26'
 ---
 
 
 
-## Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
+## Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no Acuario, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
 
-Céntrate en tus metas Acuario, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
-Mientras comienzas a sumergirte en el 2024, deberías enviar tarjetas con mensajes de agradecimiento y avanzar en las cuestiones administrativas que se acumularon durante la época festiva. Con el exquisito Venus entrando a tu sector de comunicaciones el Martes, puede que te sientas impaciente por hablar con los nuevos amigos que conociste en las últimas semanas. Pero tener criterio es clave. Si bien podrías estar a punto de abrirte con todos, puede que algunos sean más amigos a largo plazo que otros.
+Después de todo lo que has pasado, pocas cosas son las que te asustan ahora. A ver Acuario, no es que hayas tenido una época fácil últimamente, eso está más que claro, y tienen que entender que cuando psicológicamente has sido decepcionado muchas veces, incluso destrozado, se comienzan a perder las ganas de todo. No es que te hayas cerrado en banda y no vayas a dar nada de ti, no es eso, es sólo que 
+ hasta que empieces a sentir que realmente merece la pena.
+Se producen varios cambios esta semana a medida que tres planetas ingresan a Capricornio y a tu sector de finanzas y valores personales. Tal vez el más importante de ellos es el ejemplar Saturno. Durante los próximos años, te tomarás más en serio el producir dinero y usar tus recursos sabiamente. También podrías decidir reducir gastos innecesarios. Sin embargo, debido a que el sol y el encantador Venus también ingresan a ese mismo sector, podría ser un excelente momento para aprovechar algunas ofertas de último minuto.
 
 ## Dinero
 
-Estás buscando maneras de utilizar tus prodigiosas habilidades de comunicación para ganarte la vida. Ahora la atención se centra en tus tareas diarias y lo que haces para ganarte la vida. Es un buen momento para una evaluación de desempeño, porque es seguro que tu revisión será alta y tienes una plataforma desde la cual lanzar nuevas ideas y críticas constructivas. Hacerte indispensable garantizará que asciendas la escalera del éxito.
+Esta semana estas atrapada/o en medio. Podrías sentirte como si estuvieras siendo dirigida/o (tal vez en contra de su voluntad) hacia una determinada persona o situación. Tu sector profesional es el área que necesita más de tu atención por ahora. Elabora un plan de cinco años para avanzar en tu posición y la compensación.

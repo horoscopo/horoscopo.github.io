@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 19 de febrero 2024 al 25 de febrero 2024 
-description: Horóscopo semanal piscis 19 de febrero 2024 al 25 de febrero 2024. Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza Piscis. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
+title: piscis 26 de febrero 2024 al 03 de marzo 2024 
+description: Horóscopo semanal piscis 26 de febrero 2024 al 03 de marzo 2024. Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2024-02-19
+ogimg: /images/zodiac/semanal_piscis.png#2024-02-26
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-02-19'
+ lastmod: '2024-02-26'
 ---
 
 
 
-## Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza Piscis. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
+## Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino.
 
-La gente no hará siempre lo que tu quieres, la gente no agradecerá ni te dará lo mismo a ti, pero no, no te decepciones, es tiempo de dar un giro a todo. Sinceramente ¿de qué te saca dar más vueltas de lo debido a cosas que realmente no te hacen bien? Entrena tu mente, entrénala para ver las cosas buenas hasta en lo peor. Lo que parecía que no tenía solución, de repente lo tiene, las excusas que a veces ponías sólo por el miedo a que algo peor pasara ya no están. La felicidad se puede hallar hasta en los momentos más oscuros si somos capaces de usar bien la luz, y de eso, estás más seguro que nunca. Pues adelante Piscis, la luz está en tus manos, solamente tienes que alumbrar lo que de verdad te conviene, ya basta de ir detrás de cosas o personas que lo que intentan hacer es apagarte, eres fuerte, y estás conociendo gente nueva que puede apoyarte en todo. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
-Con la Luna Llena en el sector de tu carta relacionado con los horizontes lejanos, podrías anhelar un escape del ajetreo y bullicio de la vida cotidiana. Esta puede ser una oportunidad para reservar un viaje y relajarte. La semana también podría traer noticias inusuales que coincidan con una oportunidad o tal vez un encuentro que no te harán ninguna gracia. Algo o alguien intrigante y refrescantemente distintos podrían ingresar a tu vida, lo que tiene que ser bueno.
+En serio, Piscis, por muy mal que vayan las cosas has demostrado al mundo que con tu ejemplo que se puede vencer cualquier obstáculo poniendo ganas, entusiasmo y pasión. A pesar de que eres siempre alguien bastante reservado para tus cosas más profundas (quizás a veces parece que hablas demasiado pero a la hora de la verdad de lo tuyo, de lo profundo, no sueles abrir el pico), la gente que te conoce sabe de sobra que te has caído y levantado muchas veces en estas últimas semanas queriendo antes que cualquier otra cosa tener el control sobre ti mismo. Eres Piscis por lo tanto es normal que no todo lo que quieras se de en el momento, la constancia y el trabajo diario es lo que a ti, te hace cumplir tus objetivos y tus metas, la constancia es al final la que te da todo lo que buscas. Las cosas que llegan rápidamente se acaban yendo de la misma manera así que, sigue con lo que tienes fijado en la mente y no desistas porque cualquiera quiera llegar y cambiar tus planes. No te dejes llevar por nadie ahora, puede ser una semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Lo has pasado mal Piscis, así que, plantéate si te merece la pena volver a mirar atrás de nuevo, creo que no. Lo peor ya está casi superado, no estabas del todo bien con tu vida y por eso decidiste cambiar y aunque los cambios no se den todavía no importa porque están en tu cabeza y poco a poco lo estarán en tus hechos. No te agobies, verás como cada día que pasa es una victoria hacia lo que quieres, sólo preocúpate de vivir esos días lo mejor que puedas ahora…
+Un nuevo aparato podría ahorrarte mucho tiempo y brindarte una excelente relación precio-calidad. En lo que respecta a relaciones familiares, tal vez necesitas poner tus sentimientos de lado y adoptar una postura más firme en algún asunto en particular. Si eres muy sentimental, tal vez alguien de la familia no pueda usar sus propias fortalezas, y prefiera que pelees sus batallas. Aunque te sientas culpable por adoptar esta postura, podría ser la mejor opción.
 
 ## Dinero
 
-Tienes el apoyo del Universo esta semana, el cuál afecta a tu área asociada con los viajes al extranjero y la educación superior. Aunque pueda parecer contradictorio, es posible que tengas que mirar muy lejos de donde estás con el fin de ganar más dinero. El explorar mercados extranjeros para productos e inversiones extranjeras de ahorro ayudará a diversificar tu cartera y ganar más a largo plazo. Y aprender un nuevo idioma te ayudará con la comunicación.
+Esta semana tienes actividad en tu sector de dinero en efectivo. Eres capaz de cambiar la manera en la que ganas dinero, así como la cantidad. Pensar un poco más en lo que tu tiempo vale te ayudará a decidir cuánto cobrarle a tus clientes ahora. Al mismo tiempo, tu carrera está cambiando. Es hora de emplear nuevas técnicas de reducción de estrés.
