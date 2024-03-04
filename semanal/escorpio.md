@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 26 de febrero 2024 al 03 de marzo 2024 
-description: Horóscopo semanal escorpio 26 de febrero 2024 al 03 de marzo 2024. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. 
+title: escorpio 04 de marzo 2024 al 10 de marzo 2024 
+description: Horóscopo semanal escorpio 04 de marzo 2024 al 10 de marzo 2024. No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2024-02-26
+ogimg: /images/zodiac/semanal_escorpio.png#2024-03-04
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-02-26'
+ lastmod: '2024-03-04'
 ---
 
 
 
-## Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. 
+## No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
 
-Nadie se cura por herir a otro Escorpio. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que, a menudo pesa más de la cuenta, pero todo pasa, y todo llega. A muchos se les hace complicado entender por qué le das tantas vueltas a todo, por qué sufres momentos de ansiedad que parecen no calmarse con nada, por qué puedes llegar a ser tan autodestructivo con tus propios pensamientos… No olvidas nada, ese es el problema a veces, y también la virtud en otros momentos. Y es duro para el resto sí, pero más duro es para ti. Tienes que canalizar todo eso y llevarlo hacia lo productivo, mandar toda esa energía hacia lo que te hace feliz. Las traiciones están ahí, y no todo el mundo es como tú, no todo el mundo valora la sinceridad como tú lo haces, no todos tienen tu coraje… Debes aprenderlo para no caer en los mismos errores una y otra vez, y sobretodo para no hacerte daño.
-Tu vida social sigue siendo dinámica y optimista, con muchas razones para divertirte y deleitarte con la vida. Con Marte ahora atravesando este sector, tu tiempo podría estar más ocupado que nunca con fiestas, celebraciones, eventos de caridad y más. ¡Amarás cada momento! Júpiter entra a Virgo y a tu sector espiritual el Martes, indicando que sutiles fuerzas están velando por ti con el fin de apoyar tus sueños, intuición e inesperados acontecimientos. ¡El cosmos está a tu servicio!
+Deberían valorarte más Escorpio, los demás y tú el primero, deberían saber escucharte cuando estás mal, saber comprender porque te sientes en ocasiones así, tratar de meterse un poco en ti, en tu lugar, y descubrirte. Eso es, deberías descubrirte de verdad, y ahora no podrán decir que tú no te estás dejando… No es que te sientas solo, pero muchas veces sientes que vives en un mundo en el que nadie es capaz, por un momento, de ponerse en tu lugar, en el que nadie es capaz de pensar que quizás tú también tienes tus momentos de bajón, tus momentos de pena o de dudas. Bajo esa fachada se esconden sentimientos complicados que muchas veces ni siquiera tú entiendes. Quizás es conformismo, quizás dependencia del resto, o quizás un cúmulo de circunstancias que llevas acumuladas mucho tiempo. Y los días empiezan a pasar, y ves que avanzas, pero a veces no tan deprisa como esperabas. Y ves que el tiempo pasa, y empiezas a estresarte, y te frenas, y de repente quieres ir más deprisa porque ya perdiste mucho tiempo, y te vuelves a frenar. Para Escorpio, para un poco. No puedes fingir que las cosas no te importan ¿vale? Porque además, eso al final duele el doble. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… Ahí es cuando empiezas a frenarte, por muy claro que lo tengas todo. Piensa que caminar entre las piedras también es avanzar, así que, lo que has hecho, lo has hecho bien, ahora averigua si quieres seguir por ese camino.
+Una conversación con una amistad podría resultar en que colaboren en una idea o un proyecto que te llama mucho la atención. Aunque esto podría parecer poco importante en el momento, podría convertirse luego en algo que vale la pena. En los últimos días de la semana, el enfoque se desplaza a tu sector de comunicaciones, cuando puede que llegues a pasar más tiempo con tus seres queridos. Llamarlos o enviarles un correo electrónico para hacerles saber que estás pesando en ellos puede ayudar a fortalecer los vínculos más íntimos.
 
 ## Dinero
 
-Estás con ganas de gastar cierto dinero que sientes que está a punto de hacer un agujero en tu bolsillo, pero el momento no es el adecuado. Debido a un aspecto armonioso ahora, el cambio está llegando a las áreas que rigen las relaciones profesionales, viajes, educación superior, la enseñanza y el aprendizaje. Si trabajas en uno de estos campos, ¡es un buen momento para ti! Si no es así, trata de incorporar alguna faceta de ellos en lo que haces para ganarte la vida.
+Estás en medio de un replanteamiento serio cuando se trata de gastar. Puede que te estés preguntando cómo proteger a tu familia a largo plazo, lo que te podría llevar a considerar la contratación de un asesor financiero u otro experto. Otros miembros de tu tribu pueden tener ideas sorprendentemente buenas acerca de cómo ahorrar e invertir para un futuro compartido. Escucha.
