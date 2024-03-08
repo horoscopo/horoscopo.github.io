@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 07 de marzo 2024
-description: Horóscopos del dia de hoy 07 de marzo 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 08 de marzo 2024
+description: Horóscopos del dia de hoy 08 de marzo 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2024-03-07
+ lastmod: 2024-03-08
 ---
-Justo cuando estás a punto de hacerle entender algo a alguien, la Luna comienza a salirse de su órbita y tal persona vuelve a protegerse una vez más. Tal parece que necesitas tener esa conversación una vez más. Pon un poco de tu magia en acción bajo la Luna en Leo de esta noche. Si buscas pareja, ¡podrías descubrir que no todos los buenos partidos han sido tomados!
+Puede que hoy tengas que hacer una promesa y mantenerla. En este sentido, evita actuar y dar tu absoluta palabra a menos que tengas completa seguridad de que lo que estás diciendo es lo correcto. Evita saltar a conclusiones precipitadas durante la cuadratura entre la Luna y Plutón de esta noche. Presta atención primero, y luego saca las tuyas propias.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
