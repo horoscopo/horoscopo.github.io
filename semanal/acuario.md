@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 04 de marzo 2024 al 10 de marzo 2024 
-description: Horóscopo semanal acuario 04 de marzo 2024 al 10 de marzo 2024. Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
+title: acuario 11 de marzo 2024 al 17 de marzo 2024 
+description: Horóscopo semanal acuario 11 de marzo 2024 al 17 de marzo 2024. No más paciencia Acuario. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2024-03-04
+ogimg: /images/zodiac/semanal_acuario.png#2024-03-11
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-03-04'
+ lastmod: '2024-03-11'
 ---
 
 
 
-## Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
+## No más paciencia Acuario. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
 
-Deja que duela Acuario, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo… Esta bien que te aferres a los recuerdos, siempre y cuando tengas más que claro dónde están y de dónde no van a moverse. Claro que tuviste tiempos mejores, pero no te centres tanto en “cómo lo pasabas cuando…”, ya está, ahora estás donde estás por alguna razón y mirar hacia delante y con fuerza es lo principal para que todo salga como tú quieras. Para ser Acuario estás teniendo muchas más dudas que habitualmente, sácalas de la cabeza cuanto antes y si no puedes solucionarlo por cualquier razón pasa a otra cosa, pero pasa a otra cosa de verdad. Ya llegará el momento en que tu mente haga click y encuentre la solución, mientras tanto, no te agobies demasiado. Vive, siente y ama, necesitas enganchar las riendas de nuevo y disfrutar del momento, como venga, como salga. A veces, te pones demasiado altas las expectativas sobre cualquier cosa, sobre algunas personas y está bien Acuario pero ten cuidado porque tus expectativas, las que estén en tu mano, es seguro que las alcanzarás, el problema son las otras, las que no lo están, las que dependen de los demás, esas, por favor, no seas crédulo porque no se darán jamás como tú quieres que se den, quizás se acerquen pero no llegarán… Ahora, preocúpate de ti, conecta con tus emociones, aunque sean emociones desagradables, plántales cara, contémplalas y piensa si quieres que se vuelvan a repetir. Por eso, y por más, vive tu vida Acuario, intenta ser feliz solo o acompañado, pero primero tú, ahora tienes que ser primero tú el que se quiera cuidar, el que quiera hacer las cosas bien…
-Puede que conectes telepáticamente con alguien, sobre todo al comienzo de la semana. Tal vez podrías sentir la necesidad de llamar a esta persona para preguntarle si necesita ayuda. Además, una relación amorosa podría volverse más apasionada cuando Venus conecte con Plutón. Pero si terminas forzar las cosas, podrías estar emitiendo la vibra equivocada. Es mejor dejar que las cosas se desarrollen orgánicamente en vez de presionar cuando el momento no es el adecuado. Mantén tu horario ligero este fin de semana.
+No sabes cómo desviar tus sentimientos Acuario, sientes con muchísima pasión muchas cosas pero otras se están apagando poco a poco. Y no entiendes por qué, no entiendes como se avivan llamas con personas que no merecen la pena, y como se te apagan con otras que sí. Vas a tener dificultad para liberarte de algunas cosas Acuario… Cuando sientes algo por alguien tu corazón no puede frenar y ahora eso es lo que te está pasando… No eres estúpido por intentar revivir viejos recuerdos y tratar de entender qué fue lo que salió mal o qué es lo que está fallando. La cuestión es que tienes que hablar las cosas, no puedes dejar que se vayan acumulando en tu interior. Si algo no va del todo bien dilo de una vez Acuario. A veces te imaginas un futuro donde termina todo bien, donde eres feliz, donde sonríes cada día, el problema es que el futuro se construye con lo que vas haciendo ahora, y si quieres tener ese futuro deberás empezar a cambiar. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay, y en eso no se puede cambiar por mucho que lo intentes. Date el lujo de sentir lo que sientes, aunque esos sentimientos vayan en contra de lo que querrías sentir. Vamos Acuario que esta semana emocionalmente hablando vas a tener un jaleo en tu cabeza serio y es muy probable que necesites un buen tiempo para aclararte.
+El guerrero Marte continúa su viaje a través de tu sector de viajes y nuevas experiencias, por lo tanto, el deseo de aprender algo nuevo para tu beneficio puede ser bastante fuerte. Puede que te enfoques firmemente en el futuro y en lo que puedes hacer para que sea emocionante y valga la pena. Debes dedicarle esfuerzo a tus relaciones esta semana y la actividad Lunar en Aries podría hacer aflorar tus emociones. Este puede ser un buen momento para que resuelvas los problemas más delicados.
 
 ## Dinero
 
-Para ti, esta semana es sobre los aspectos de apoyo que afectan a tu sector de las relaciones y el matrimonio. Es probable que te percates de que los demás estarán de acuerdo con tus distintos planes financieros. Eso sí, no te sorprendas si uno o más de ellos quieren revisar tu plan de negocios para evitar cualquier defecto o volver a revisar tus matemáticas. No te ofendas. Esta es su manera de ayudarte, ten agradecimiento.
+Es una gran semana para ti. Una gran cantidad de energía te rodea, y ahora podrás atraer lo que quieres y necesitas. En cuanto a dinero, vas en la dirección correcta y habrá más comunicación al respecto. Los aspectos demuestran que tu deuda actual está en descenso, gracias a tu esfuerzo diligente y la planificación. ¡Buen trabajo!
