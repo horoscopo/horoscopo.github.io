@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 12 de marzo 2024
-description: Horóscopos del dia de hoy 12 de marzo 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 13 de marzo 2024
+description: Horóscopos del dia de hoy 13 de marzo 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2024-03-12
+ lastmod: 2024-03-13
 ---
-Si decides posponer algo y dices que volverás a ello en un minuto mientras Mercurio está a punto de cambiar de signo, ese minuto es ahora. La noche de hoy es el epicentro de un circo con su laberinto de pasiones y conflictivos deseos. Pista: Contar hasta diez te da diez segundos para calmarte y pensar en ello.
+Aunque en un principio podrías pensar que no es así, algo de lo que te enteras es en realidad una buena noticia. Prepárate para meterte de lleno en cierto asunto o saltarle a una buena oportunidad mientras Marte aspecte a Urano hoy. Esta noche, cierta persona te recuerda a alguien del pasado. Venus conjuntando a Plutón te advierte que serías prudente al tratar de recordar reacciones anteriores.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
