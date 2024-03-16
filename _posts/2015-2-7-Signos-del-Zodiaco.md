@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 15 de marzo 2024
-description: Horóscopos del dia de hoy 15 de marzo 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 16 de marzo 2024
+description: Horóscopos del dia de hoy 16 de marzo 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2024-03-15
+ lastmod: 2024-03-16
 ---
-Todos ponen sus propias agendas primero bajo la Luna en Aries. La salida es tomar caminos separados y reunirse más tarde en lugar de discutir sobre ello. Esta noche, el Eclipse Lunar borra los recuerdos de aquello de lo que la gente huye o hacia dónde se dirige. ¡Deja de vivir en el pasado y permítete tener nuevos intereses y desafíos!
+Hoy, presta atención, ya que Saturno, el planeta que suele darle a uno lecciones, sugiere que pensemos seriamente ciertos problemas. Las parejas tienen la intención de preservar el espacio que tanto parecen necesitar bajo la Luna en Acuario de esta noche. Solteros, la atracción tiene mucho que ver con la actitud y el enfoque cuando Júpiter aspecta a Urano.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
