@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 11 de marzo 2024 al 17 de marzo 2024 
-description: Horóscopo semanal geminis 11 de marzo 2024 al 17 de marzo 2024. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
+title: geminis 18 de marzo 2024 al 24 de marzo 2024 
+description: Horóscopo semanal geminis 18 de marzo 2024 al 24 de marzo 2024. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2024-03-11
+ogimg: /images/zodiac/semanal_geminis.png#2024-03-18
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-03-11'
+ lastmod: '2024-03-18'
 ---
 
 
 
-## Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
+## Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
 
-Quizás deberías dejar de planear todo ahora Géminis, dejar un poco el volante sin conductor… A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos. Luchar por lo que importa está bien Géminis, pero luchar por lo que no, sólo es una pérdida de tiempo, una gran pérdida de tiempo. Gastas muchas fuerzas en ello, en tratar de que todo salga tal y como esperabas, pero a veces por más que hagas, tu destino es otro. No te agobies ni te preocupes más de la cuenta ahora. Déjate llevar y no escribas finales para todo. Porque los finales acaban dando un giro y no terminan como creías. No puedes saberlo todo, ni tampoco controlarlo, y cuando lo entiendas quizás llegue la paz que tanto necesitas ahora mismo. Y no trates de apresurar nada porque cuando sea el momento va a suceder…
-Un deseo de renovar tu hogar podría hacerte tomar decisiones radicales. Con la poderosa entrada de Marte a tu sector doméstico, puede que sea una buena oportunidad para ordenar el desorden y realizar grandes cambios en tu casa. En los próximos días, podría aparecer una oportunidad aun más grande que implique una mudanza o quizá agrandar o remodelar tu casa de alguna manera, para bien. Además, el Eclipse Solar en tu sector de comunicaciones podría traerte interesantes novedades.
+Muchos te llaman ingenuo, te dicen que eres demasiado idealista, que la felicidad no existe como tú crees y que al final, lo que pasará, es que te darás de bruces contra el suelo. 
+Tu no quieres vivir como el resto del mundo, levantarte, ir al trabajo, volver a casa, y así día tras día…
+Esta semana podría ser una revelación si te hacer entrar en acción y librarte de una situación que no te ha dejado avanzar. Esto podría tener algo que ver con una relación a la que le vendría bien un cambio. Si se dan más libertad mutua, quizá tengan más independencia sin perder la conexión entre ustedes. Debido a que el enfoque en tu sector de relaciones se intensifica esta semana, tienes la oportunidad de evaluar un vínculo importante y aprender algo nuevo.
 
 ## Dinero
 
-Si has estado buscando maneras de tener más apertura acerca de tus actividades monetarias, el cosmos te provee soluciones de todo tipo. Tendrás apoyo a la hora de comunicar tus necesidades y deseos relacionados con dinero. Si ha pasado mucho tiempo desde la última vez que recibiste un aumento de sueldo, habla con tu jefe acerca de las razones por la cuales te lo mereces. Alguien como tú no malgasta las horas de trabajo, eres un valioso contribuyente.
+Puede que tenga que haber algunos gastos relacionados con tu hogar esta semana. Podrías necesitar hacer algunos ajustes a tu presupuesto a medida que descubres que las reparaciones cuestan más o que alguien ha hecho una oferta más alta en una propiedad de inversión que la que tú hiciste. En lugar de abrumarte o enojarte, recuerda que un aspecto armonioso te ayudará a pagar las deudas existentes, aclarar cualquier cabo suelto en tu vida financiera y a sentirte más a gusto.

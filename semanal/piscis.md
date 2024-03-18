@@ -1,27 +1,29 @@
 ---
 layout: horoscopos
-title: piscis 11 de marzo 2024 al 17 de marzo 2024 
-description: Horóscopo semanal piscis 11 de marzo 2024 al 17 de marzo 2024. Es difícil comprenderte Piscis, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
+title: piscis 18 de marzo 2024 al 24 de marzo 2024 
+description: Horóscopo semanal piscis 18 de marzo 2024 al 24 de marzo 2024. Estás renaciendo Piscis, renaciendo de las cenizas… Y ya era hora…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2024-03-11
+ogimg: /images/zodiac/semanal_piscis.png#2024-03-18
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-03-11'
+ lastmod: '2024-03-18'
 ---
 
 
 
-## Es difícil comprenderte Piscis, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
+## Estás renaciendo Piscis, renaciendo de las cenizas… Y ya era hora…
 
-A veces te preguntas por qué la vida es tan difícil, por qué se te hace cuesta arriba todo a veces… Es necesario Piscis, porque los conflictos, te empujan a ver más de lo que realmente verías si no hubiera pasado nada.
-Te encanta aprender y enseñar, motivo por el que la disposición planetaria actual es tan buena para ti. Si tienes conocimientos que nadie más tiene, podrías ganar mucho dinero vendiendo estas capacidades. Además, es un buen momento para planificar y, tal vez, ganar una fortuna. Si bien el animado Júpiter en tu sector de comunicación está en su fase retrógrada, no te preocupes. Es mejor comenzar que no molestarse en lo absoluto. Cuando llegue la actividad lunar el sábado, trata de evitar gastar demasiado.
+Vas a abrir los ojos y, aunque no des los pasos al momento, las ideas las tendrás claras. 
+ La rutina no te hace mal, pero si la monotonía, y te encuentras en el punto de cambiar para renovarte. 
+ Cambiar el chip hará que entiendas muchas cosas que hasta ahora te preocupaban. Necesitas mirarte por dentro y ver hasta dónde eres capaz de llegar y sobretodo, hasta donde QUIERES llegar. Quieres ser feliz y harás lo que sea para conseguirlo, lo sabes.
+Tu vida social sigue activa, con un enfoque en este sector que coincide con una reunión o, tal vez, con la búsqueda de alguien de quien no has sabido hace bastante tiempo. Si te encontrarás con alguien con quien has tenido un problema, puede que sea posible sanar las heridas del pasado, pero necesitarás mucha sensibilidad para lograrlo. El Miercoles, Marte —seguido luego por el Sol— ingresa a un sector más alejado de tu carta, lo que indica que es momento de relajarte y recargar baterías.
 
 ## Dinero
 
-Estás pensando en hacer algunos cambios en tu forma de trabajar y cómo exponerle tus ideas al mundo. Un aspecto favorable indica que podrías fácilmente llevarte tu trabajo a casa, comenzar un nuevo negocio en tu hogar, o comenzar a trabajar en hacerle mejoras a tu hogar; como por ejemplo construcción o decoración. El único problema radica en el hecho de que a tu ego le puede resultar difícil adaptarse a los cambios.
+Te enfrentas a algunas decisiones sobre el dinero esta semana. Aunque por lo general eres bastante inteligente cuando de dinero en efectivo se trata, puede ser que los aspectos te hagan sentir confusión de alguna manera. Comprueba doblemente las cifras antes de invertir tu dinero, al igual que debes revisar tus propias cuentas o la forma en la que lleves las cuentas (sobre todo con el balance de tu chequera). Es posible que algunas cuentas no salgan bien por ahora, sin embargo los aspectos se aseguran de que por lo menos estés bien conectado/a y te mantengas estable.

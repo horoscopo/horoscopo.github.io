@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 11 de marzo 2024 al 17 de marzo 2024 
-description: Horóscopo semanal acuario 11 de marzo 2024 al 17 de marzo 2024. No más paciencia Acuario. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
+title: acuario 18 de marzo 2024 al 24 de marzo 2024 
+description: Horóscopo semanal acuario 18 de marzo 2024 al 24 de marzo 2024. Fuera las preocupaciones. Tira del carro Acuario, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2024-03-11
+ogimg: /images/zodiac/semanal_acuario.png#2024-03-18
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-03-11'
+ lastmod: '2024-03-18'
 ---
 
 
 
-## No más paciencia Acuario. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
+## Fuera las preocupaciones. Tira del carro Acuario, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
 
-No sabes cómo desviar tus sentimientos Acuario, sientes con muchísima pasión muchas cosas pero otras se están apagando poco a poco. Y no entiendes por qué, no entiendes como se avivan llamas con personas que no merecen la pena, y como se te apagan con otras que sí. Vas a tener dificultad para liberarte de algunas cosas Acuario… Cuando sientes algo por alguien tu corazón no puede frenar y ahora eso es lo que te está pasando… No eres estúpido por intentar revivir viejos recuerdos y tratar de entender qué fue lo que salió mal o qué es lo que está fallando. La cuestión es que tienes que hablar las cosas, no puedes dejar que se vayan acumulando en tu interior. Si algo no va del todo bien dilo de una vez Acuario. A veces te imaginas un futuro donde termina todo bien, donde eres feliz, donde sonríes cada día, el problema es que el futuro se construye con lo que vas haciendo ahora, y si quieres tener ese futuro deberás empezar a cambiar. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay, y en eso no se puede cambiar por mucho que lo intentes. Date el lujo de sentir lo que sientes, aunque esos sentimientos vayan en contra de lo que querrías sentir. Vamos Acuario que esta semana emocionalmente hablando vas a tener un jaleo en tu cabeza serio y es muy probable que necesites un buen tiempo para aclararte.
-El guerrero Marte continúa su viaje a través de tu sector de viajes y nuevas experiencias, por lo tanto, el deseo de aprender algo nuevo para tu beneficio puede ser bastante fuerte. Puede que te enfoques firmemente en el futuro y en lo que puedes hacer para que sea emocionante y valga la pena. Debes dedicarle esfuerzo a tus relaciones esta semana y la actividad Lunar en Aries podría hacer aflorar tus emociones. Este puede ser un buen momento para que resuelvas los problemas más delicados.
+Siempre habrá cosas y personas que nos hagan dudar de todo, que nos hagan replantearnos si vamos por el bueno camino, o si no tuvimos que dejar eso que dejamos atrás… 
+ aunque el corazón te insista en que hagas muchas cosas que luego pueden traerte quebraderos de cabeza intensos.
+Inesperados eventos podrían interrumpir tu rutina esta semana - casi cualquier cosa podría suceder. Efectivas soluciones podrían estar a solo una llamada telefónica si te dispones a pedirle asesoramiento a una amistad o a un experto. Si necesitas una segunda opinión, comprueba que viene de una fuente de confianza antes de compartirla con los demás. Una situación en casa podría requerir de atención, aunque sería imprudente tomar cualquier decisión importante esta semana. La atención de un ser querido bien puede levantarte el ánimo.
 
 ## Dinero
 
-Es una gran semana para ti. Una gran cantidad de energía te rodea, y ahora podrás atraer lo que quieres y necesitas. En cuanto a dinero, vas en la dirección correcta y habrá más comunicación al respecto. Los aspectos demuestran que tu deuda actual está en descenso, gracias a tu esfuerzo diligente y la planificación. ¡Buen trabajo!
+Podrías estar siendo llamado/a a asumir un papel de liderazgo en el trabajo. Puede que tengas que sentir comodidad al hablar en público e iniciar una nueva ronda de llamadas en frío para incrementar tus ventas. La comunicación en todas sus formas, será muy importante. Tu carrera necesita un poco de energía concentrada y deliberada. Disminuye  la confusión con el fin de obtener lo que se aproxima a ti.

@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 11 de marzo 2024 al 17 de marzo 2024 
-description: Horóscopo semanal capricornio 11 de marzo 2024 al 17 de marzo 2024. Todo acaba cicatrizando, pero tienes que dejar que cicatrice Capricornio. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
+title: capricornio 18 de marzo 2024 al 24 de marzo 2024 
+description: Horóscopo semanal capricornio 18 de marzo 2024 al 24 de marzo 2024. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2024-03-11
+ogimg: /images/zodiac/semanal_capricornio.png#2024-03-18
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-03-11'
+ lastmod: '2024-03-18'
 ---
 
 
 
-## Todo acaba cicatrizando, pero tienes que dejar que cicatrice Capricornio. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
+## Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas.
 
-Tienes muchas preguntas que solamente puedes contestarte tú a ti mismo ahora. 
-Hasta ahora todo ha ido más o menos bien, o sea, has ido superando cada traba que la vida te iba poniendo pero de repente te quedas estacando por algo y no sabes qué dirección tomar.
-Esta semana podría ser de mucho trabajo y poca diversión. Puede que sientas la obligación de organizar todo, en especial cuando tres planetas han llegado hace poco a tu sector de trabajo y rutina, incluido el ejemplar Saturno. Lo mejor sería delegar algunas tareas y darte más tiempo para disfrutar de lo que esté sucediendo durante esta semana de fiestas. Además, la relajante conexión entre el enérgico Marte y el etéreo Neptuno del 27 de marzo podría animarte a satisfacer un deseo de paz y tranquilidad.
+Debes dejar de darle vueltas a situaciones y quizás pensar un poco más en el momento, en como levantar el ánimo en todos los aspectos de tu vida. Tú funcionas así, puedes ser feliz con cosas pero si hay una pequeña situación que se escapa de tus manos todo girará en torno a ella, y te perderás lo bueno que si puedes aprovechar.
+El Sol continúa su viaje a través de un sector más sensible de tu carta, por lo que incluso pequeñas decisiones podrían tener un impacto en áreas clave de tu vida. Esta es una buena oportunidad para dejar de lado el resentimiento, el miedo y otras emociones similares que te impidan ser la mejor versión de ti. Una vez que Venus y Mercurio entren a tu sector de viajes y aventura, también querrás ampliar tus horizontes. Planes de viaje podrían estar en tus cartas este fin de semana.
 
 ## Dinero
 
-Esta semana tus energías masculinas y femeninas están trabajando hacia los mismos objetivos. Atrás quedaron las disputas sobre quién debe gastar y cómo debe gastarse el dinero. Tu deuda da un giro a la baja a medida que diriges tu energía hacia esta zona. Mientras tanto, el gasto de tiempo y esfuerzo en tu sector puede traer un inesperado dinero en efectivo. Sólo asegúrate de tener más de un presupuesto para poder comparar.
+Esta semana podrías sentir frustración en tu objetivo de salir adelante económicamente. Hay cierta atención no deseada sobre tu situación de endeudamiento. Podrías caer fácilmente en depresión si no tienes cuidado. La buena noticia es que tienes un montón de energía para pagarla y deshacerte de ella. Puede que quieras gastártelo todo en familia y diversión, pero resiste la tentación, sólo por esta semana.

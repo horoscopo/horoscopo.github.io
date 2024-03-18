@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: libra 11 de marzo 2024 al 17 de marzo 2024 
-description: Horóscopo semanal libra 11 de marzo 2024 al 17 de marzo 2024. El mundo puede esperar Libra, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+title: libra 18 de marzo 2024 al 24 de marzo 2024 
+description: Horóscopo semanal libra 18 de marzo 2024 al 24 de marzo 2024. Vienen emociones fuertes Libra, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2024-03-11
+ogimg: /images/zodiac/semanal_libra.png#2024-03-18
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-03-11'
+ lastmod: '2024-03-18'
 ---
 
 
 
-## El mundo puede esperar Libra, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+## Vienen emociones fuertes Libra, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
 
-A veces, no es fácil vivir la vida Libra, a veces no es fácil enfrentarte al mundo con una sonrisa cuando en el fondo estás llorando por dentro. Pero la vida sigue, y aún tienes fuerza suficiente dentro de ti como para aguantar lo que te echen. Algún día te olvidarás de las heridas, de la razón por la que llorabas y por qué o quién te llenaste de dolor. Hay que dejar que las cosas se desarrollen a su manera y a su propio ritmo, no trates de que las cosas pasen a tu manera Libra. En realidad ese no es el plan, y, en el fondo, no te beneficia. Lo que importa en el fondo es el último capítulo, no tanto el primero…
-El énfasis en tu sector espiritual continúa esta semana. Sin embargo, la intuición podría tener un rol principal en las decisiones relacionadas con tu carrera y tus planes. Si necesitas consejos, meditar sobre el asunto puede permitirte que conectes con tu sabiduría interna, lo que podría ser muy revelador y útil. El Jueves, la luna en tu sector de bienestar sugiere que puedes beneficiarte si despejas tu agenda. Reservar un masaje o dar una larga caminata podrían ser muy relajantes.
+Se avecinan cosas nuevas Libra, algo que te va a remover enterito/a de arriba a abajo, pero antes vas a tener que desprenderte emocionalmente de algunas cosas pendientes. Esta semana vas a estar a tope, no vas a parar ni un solo momento, hay mucho por hacer. Pero por otro lado, igual que vas a tener sorpresas positivas, también hay una que quizás no lo sea tanto pero bueno, como ya no esperas nada de nadie ni nada de nada, tampoco será una gran decepción. Te vuelven a buscar Libra, otra vez sí. Y aunque no puedas verlo, por detrás se están manejando los hilos. Pero tú pasa, es más, mejor que ni lo veas, a ti ya no te importa lo que pertenece al pasado pero sí que te jode que aún se esté dando vueltas a algo cuando debió de quedar todo clarísimo. En fin Libra, que nadie te robe esta sonrisa esta semana. Trabaja duro, haz las cosas como siempre las haces, a lo grande, bien hechas. Sal con los tuyos y sigue tan positivo como siempre. Y quédate con esas sorpresas que van a darte la vida, que van a alegrarte la existencia, que van a darte chutes de energía bestiales. Esas son las que merecen la pena. El apego emocional se marchará… Primero, porque quieres que se marche…
+Marte entra a lo más profundo de tu sector de relaciones, donde puede reactivar sentimientos que se encontraban latentes. Las próximas semanas pueden ser la oportunidad para que despejes el aire. Si tú y cierta persona tienen distintas ideas o planes, existe la oportunidad de llegar a un punto medio. El romance surge como posibilidad cuando Venus, el planeta del amor, entra a tu sector de romance el martes. Esta es la oportunidad para que disfrutes de los placeres sensuales con tu amor y aproveches al máximo tu tiempo libre.
 
 ## Dinero
 
-Tu sector de relaciones hace más que clara que nunca la importancia de las relaciones positivas con tus jefes, mentores y clientes. Nunca subestimes estas relaciones o pienses que se darán por si solas. Sé proactivo/a acerca de la formación, el mantenimiento y la promoción de aquellos que son más útiles para tu vida laboral y dinero. La atención se centra en mejorar tu educación, viajar y aprender sobre otras culturas e idiomas. Todo esto puede avanzar en tu causa.
+Este período se trata de las nuevas oportunidades que le llegan a tu vida laboral. El cielo es el límite en términos de lo que puedes esperar, pero el Universo no lo hará por ti. Debes estar a la búsqueda de maneras de aumentar tus ingresos, ya sea mediante la adición de un negocio secundario o aceptar trabajos independientes. Utiliza tu educación y tus viajes para salir con ideas para productos o servicios que vender.
