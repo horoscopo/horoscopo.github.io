@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 18 de marzo 2024
-description: Horóscopos del dia de hoy 18 de marzo 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 19 de marzo 2024
+description: Horóscopos del dia de hoy 19 de marzo 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2024-03-18
+ lastmod: 2024-03-19
 ---
-Expresa lo que estás sintiendo y haz lo que quieres hacer con intensidad de propósito cuando el Sol forma sextil con Marte y te dé una transfusión de valor el día de hoy. Los corazones bailan felizmente cuando la Luna en Sagitario forma sextil con Venus en Acuario. El deseo de los solteros de amor podría ser reemplazado por enamoramiento real.   
+¡Cuidado! Ten cuidado con la tensión a medida que tratas de equilibrar tus obligaciones bajo la Luna en Aries. El antídoto es establecerte metas y ponerte a trabajar. Esta noche trae consigo todo el calor del trígono de fuego entre Marte y la Luna. Puede que sea una apasionante historia de amor, ¡aunque la estabilidad no sea su fuerte!
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
