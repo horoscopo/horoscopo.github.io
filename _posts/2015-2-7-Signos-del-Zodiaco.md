@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 19 de marzo 2024
-description: Horóscopos del dia de hoy 19 de marzo 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 20 de marzo 2024
+description: Horóscopos del dia de hoy 20 de marzo 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2024-03-19
+ lastmod: 2024-03-20
 ---
-¡Cuidado! Ten cuidado con la tensión a medida que tratas de equilibrar tus obligaciones bajo la Luna en Aries. El antídoto es establecerte metas y ponerte a trabajar. Esta noche trae consigo todo el calor del trígono de fuego entre Marte y la Luna. Puede que sea una apasionante historia de amor, ¡aunque la estabilidad no sea su fuerte!
+Hoy, el mejor enfoque es disponerse a romper con lo que se espera de uno conforme Mercurio cuadra a Plutón. Ten espontaneidad y atrévete a probar algo diferente. Nadie planea cada minuto de su día. Ejerce tu influencia con firmeza (y tacto) e ilumina el momento bajo la Luna Llena en Aries.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
