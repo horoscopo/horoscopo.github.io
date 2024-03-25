@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 18 de marzo 2024 al 24 de marzo 2024 
-description: Horóscopo semanal piscis 18 de marzo 2024 al 24 de marzo 2024. Estás renaciendo Piscis, renaciendo de las cenizas… Y ya era hora…
+title: piscis 25 de marzo 2024 al 31 de marzo 2024 
+description: Horóscopo semanal piscis 25 de marzo 2024 al 31 de marzo 2024. Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud Piscis, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2024-03-18
+ogimg: /images/zodiac/semanal_piscis.png#2024-03-25
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-03-18'
+ lastmod: '2024-03-25'
 ---
 
 
 
-## Estás renaciendo Piscis, renaciendo de las cenizas… Y ya era hora…
+## Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud Piscis, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
 
-Vas a abrir los ojos y, aunque no des los pasos al momento, las ideas las tendrás claras. 
- La rutina no te hace mal, pero si la monotonía, y te encuentras en el punto de cambiar para renovarte. 
- Cambiar el chip hará que entiendas muchas cosas que hasta ahora te preocupaban. Necesitas mirarte por dentro y ver hasta dónde eres capaz de llegar y sobretodo, hasta donde QUIERES llegar. Quieres ser feliz y harás lo que sea para conseguirlo, lo sabes.
-Tu vida social sigue activa, con un enfoque en este sector que coincide con una reunión o, tal vez, con la búsqueda de alguien de quien no has sabido hace bastante tiempo. Si te encontrarás con alguien con quien has tenido un problema, puede que sea posible sanar las heridas del pasado, pero necesitarás mucha sensibilidad para lograrlo. El Miercoles, Marte —seguido luego por el Sol— ingresa a un sector más alejado de tu carta, lo que indica que es momento de relajarte y recargar baterías.
+¿Cómo quieres gastar tu vida Piscis? ¿sintiéndote mal? ¿arrepintiéndote por lo que has hecho, o peor aún, por lo que no has hecho? ¿odiando y sintiendo rencor? ¿no afrontando los problemas o las situaciones? Sé valiente Piscis, siempre lo has sido, y sigue creyendo en ti mismo, y haz lo que te haga sentir bien, y trata de huir de lo que te encoge el corazón, de lo que te hace daño, y manda lejos a tus pensamientos oscuros que lo único que hacen es que entres en bucles y que desperdicies tu tiempo. Tienes esta vida Piscis, sólo esta así que, trata de sentirte orgulloso de cómo la estás llevando. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Piscis. Piénsalo bien, ¿qué más puede afectarte? NADA. Eres como eres y nadie va a cambiarte pero tienes que aprender a que te de un poco más igual todo, tienes que aprender a no obsesionarte con nada. Si las cosas no salen del todo bien es porque hay algo mejor que te espera. Y pasará… Pero cambia la manera de ver las cosas porque es la única forma en que cambien las cosas que ves. Feliz semana Piscis.
+Ciertos asuntos monetarios podrían pasar a primer plano con el escenario cósmico animándote a tener cautela con tu gasto. Este no es el mejor momento para derrochar, ya que podrías lamentarlo más tarde. Si una factura inesperada aparece, podría causarte aún más estrés. Tómate tu tiempo y encuentra contento en pequeños lujos. Las responsabilidades asociadas con tu hogar y asuntos familiares podrían parecer ceder un poco conforme Saturno empieza a retroceder. Todavía no estás fuera de la batalla, pero tu vida sí se volverá más simple en los próximos meses.
 
 ## Dinero
 
-Te enfrentas a algunas decisiones sobre el dinero esta semana. Aunque por lo general eres bastante inteligente cuando de dinero en efectivo se trata, puede ser que los aspectos te hagan sentir confusión de alguna manera. Comprueba doblemente las cifras antes de invertir tu dinero, al igual que debes revisar tus propias cuentas o la forma en la que lleves las cuentas (sobre todo con el balance de tu chequera). Es posible que algunas cuentas no salgan bien por ahora, sin embargo los aspectos se aseguran de que por lo menos estés bien conectado/a y te mantengas estable.
+Esta semana es perfecta para tener una mentalidad transformadora. Los aspectos astrales agitan tu sector hogareño y despiertan algunos sentimientos internos. Podrías sentir algo de inestabilidad en estas áreas y tal vez necesites pasar algo de tiempo curándote y desarrollando un plan de recuperación. Tómate todo el tiempo que necesites para hacer que suceda.
