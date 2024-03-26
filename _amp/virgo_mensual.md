@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Virgo Marzo 2024 
+title: Horoscopo Virgo Abril 2024 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Virgo_mes.png#2024-02-26
+ogimg: /images/mes/Virgo_mes.png#2024-03-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-02-26'
+ lastmod: '2024-03-26'
 ---
 
 

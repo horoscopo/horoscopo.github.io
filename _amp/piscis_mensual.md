@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Piscis Marzo 2024 
+title: Horoscopo Piscis Abril 2024 
 permalink: /horoscopo-mensual/amp/piscis/
 normallink: /horoscopo-mensual/piscis/
 home: FALSE
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Piscis_mes.png#2024-02-26
+ogimg: /images/mes/Piscis_mes.png#2024-03-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-02-26'
+ lastmod: '2024-03-26'
 ---
 
 

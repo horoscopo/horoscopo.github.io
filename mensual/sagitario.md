@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Sagitario Marzo 2024
-description: El Horóscopo Marzo de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Sagitario Abril 2024
+description: El Horóscopo Abril de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/sagitario/
 amplink: /horoscopo-mensual/amp/sagitario/
 home: FALSE
-keywords: horóscopo marzo, horoscopos en español, horóscopo Sagitario marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Sagitario, Tarot, Astrologia, Zodíaco, Sagitario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo abril, horoscopos en español, horóscopo Sagitario abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Sagitario, Tarot, Astrologia, Zodíaco, Sagitario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/sagitario_mes.png#2024-02-26
+ogimg: /images/mes/sagitario_mes.png#2024-03-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-02-26'
+ lastmod: '2024-03-26'
 ---
 
 
