@@ -15,10 +15,4 @@ sitemap:
 ---
 
 
-Venus se torna retrógrado en Escorpión el 5 de marzo. El amor se vuelve incluso más serio, misterioso y profundo. Puede que quieras entrar de cabeza en una relación, pero posponer los compromisos formales hasta después del 16 de marzo es tu mejor opción. 
-Los momentos personales de tranquilidad son de gran importancia durante la luna nueva del día 10. Vuelve a entrar en contacto con tus propios pensamientos e impresiones internas y profundas. No importa si tienes mucho qué hacer, pon en tu agenda más tiempo libre para ti. 
-El 10 de marzo, Mercurio forma una oposición con Urano. Tu intuición funciona perfectamente sin saber todo antes de tiempo. 
-Cuando el sol forma una cuadratura con Plutón al día siguiente. Tienes derecho a tener algunas inseguridades. Sin embargo, no te paralices, en cambio, haz algunos cambios y mejoras. 
-Puedes correr, pero no puedes esconderte de la luna llena del 25 de marzo. Irradias encanto, y las personas te encontrarán. Quieren agradarte sin importar cómo te sientas o qué hagas. Alguien totalmente inesperado podría acercarse a ti. 
-Días destacados: 13, 18, 27
-Días desafiantes: 2, 10
+El 8 de abril, el sol forma una conjunción con Mercurio retrógrado. Es más fácil leer entre líneas y escuchar lo que no se dice del todo en voz alta. La luna nueva del 8 de abril podría traer una oportunidad repentina para hacer algo importante. Tal vez has querido hacer esto durante mucho tiempo, o puede que nunca antes se te haya ocurrido. Mercurio se torna directo el día 18, cuando podrías creer que ya es hora de lanzarte a un nuevo proyecto, pero tómate un tiempo para que las condiciones sean propicias. El sol sale de Leo y entra a Virgo el día 22. Aprovecha el ritmo más lento y el tener tiempo para abordar proyectos más agradables. La luna llena del 23 de abril te demuestra cómo se sienten realmente algunas personas sobre un asunto del que se han quejado bastante. El problema puede ser real, pero no es tan importante. A algunas personas simplemente les gusta quejarse. Días destacados: 9, 17, 25Días desafiantes: 6, 21</div>

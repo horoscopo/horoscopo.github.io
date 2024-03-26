@@ -17,8 +17,8 @@ sitemap:
 ---
 
 
- > Acuario, en marzo seguirás evolucionando en un ambiente favorable, pero para que la suerte te siga sonriendo, tendrás que tomar buenas decisiones. Este mes tu misión es no cambiar de opinión cuando aparezcan los problemas. En lugar de esquivarlos, trata de resolverlos como sea posible y enfócate en las áreas en las que puedas conseguir resultados concretos. Escucha los consejos que te darán a partir del día 8 y acepta las críticas, porque están ahí para hacerte progresar. Alrededor del 21, una amistad vendrá a rescatarte de todo este embrollo.
+ > Acuario, abril será un mes cargado de sorpresas positivas con las que no contabas para nada. Explotarás toda tu seducción para atraer a la persona que quieres, además de que tendrás el sentido de la intuición muy acentuado.
 
 
 
-La luna nueva del 10 de marzo está llena de amor y romance. Aprovecha al máximo la temporada para hacer que entre más amor a tu vida. Tal vez sientes que tienes demasiadas ocupaciones y distracciones, pero no pases por alto a alguien realmente especial que podría aparecer ahora. La luna nueva del día 10 tiene encanto de sobra. Si hay algo que has estado queriendo decir, no importa lo difícil que sea, ahora sería un buen momento para hablar y luego escuchar un sí. El 25 de marzo, durante la luna llena de este mes , podrías consciente o inconscientemente hacer una gran diferencia en la vida de alguien. 
+Tu entorno y vida familiar podía ver una gran mejora bajo la Luna Nueva del 8 de abril. Tienes el control y sabes cómo quieres las cosas. Puede que sólo sea un cambio muy pequeño, pero hará una hermosa y grande diferencia. Toma en serio tu búsqueda de éxito bajo la Luna Llena del 23 de abril. Un cambio o una oportunidad inesperada que se abra en tu trabajo podría permitirte avanzar y hacerte cargo de algo que has estado esperando hacer. Ama tu vida el 27 de abril, cuando Venus y Júpiter conecten para formar una conjunción. La belleza y la felicidad también pueden ser encontradas en los detalles.

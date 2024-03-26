@@ -17,8 +17,10 @@ sitemap:
 ---
 
 
- > Tauro, marzo será para ti un mes en el que te sentirás realizada, es buen momento para lanzarse a por tus proyectos y gozarás de un poder sensual que hará que tiemble allá por donde pases.
+ > Tauro, abril será un gran mes para ti, pleno de felicidad y en el que disfrutarás de un magnetismo propio de una estrella de cine. Si a esto le acompañas la gran energía sexual de la que harás gala, todo apunta a que lo pasarás muy bien.
 
 
 
-El mundo loco y ruidoso puede intentar invadir tu estado mental durante la luna nueva del 10 de marzo. Respira profundo y no respondas a los gritos. Tienes muchas personas poderosas que te apoyan. Mercurio se torna estacionario directo el día 18. Puede que lleve un tiempo, pero se volverá más fácil pensar con claridad y reorganizarte. Si has perdido algo, lo encontrarás pronto.  El 22 de marzo, el sol sale de Leo y entra a Virgo. Dale prioridad a tratarte bien y ser una persona más saludable y activa en el hogar. ¿Necesitas otro gatito o perrito? ¿Tal vez un jardín más grande o más plantas? La luna llena del día 25 ilumina tu vida amorosa. Baja un poco tus defensas emocionales, y deja que la apariencia o comentarios de alguien causen una mayor impresión. Al día siguiente, Marte se torna directo después de haber estado retrógrado desde el 26 de marzo. La ambición, motivación y pasión comienzan a aumentar. Días destacados: 13, 17, 30Días desafiantes: 4, 10</div>
+Marte ingresa a Cáncer el 4 de abril. Si has tenido una sensación de estancamiento o has retrasado una reunión en tu casa o con la familia, puedes hacerlo ahora. Tu mundo está repleto de entusiasmo y oportunidades sociales durante la Luna nueva del 8 de abril. Personas de todos los rincones del mundo pueden atraer tu atención y opacar tu afición por un lugar o una actividad favoritos. Disfruta los nuevos horizontes. La familia y la vida hogareña se reavivan de gran forma con la Luna Nueva del 23 de abril. Haz un gran cambio o mejora que ha estado en tu mente durante mucho tiempo. Haz que tu persona y tus parientes sean mucho más felices.
+
+Mejores días: 9, 25, 28Peores días: 2, 24, 28
