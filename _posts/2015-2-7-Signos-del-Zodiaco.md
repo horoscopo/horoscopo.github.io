@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 29 de marzo 2024
-description: Horóscopos del dia de hoy 29 de marzo 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 30 de marzo 2024
+description: Horóscopos del dia de hoy 30 de marzo 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2024-03-29
+ lastmod: 2024-03-30
 ---
-Piensa acerca de las promesas rotas y evalúa porqué fallaste en el cumplimiento de tus compromisos. Hoy puedes hacer algo para reparar el daño hecho. Tal persona podría estar dispuesta a perdonar el error. Esta noche, los solteros son candidatos para un nuevo amor cuando Venus forma sextil con Plutón. Por su parte, aquellos en pareja están totalmente fascinados el uno con el otro.
+Los sentimientos son susceptibles el día de hoy. Por lo que no agites aún más las cosas cuando la Luna en el feroz Leo aspecte a Urano y a Plutón. Venus se encuentra a punto de cambiar de signo esta noche, cuando las parejas deberían de darse el beneficio de la duda. Solteros, el planeta del amor encontrándose en zona neutral despierta mucha incertidumbre. Este no es buen momento para empezar algo nuevo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
