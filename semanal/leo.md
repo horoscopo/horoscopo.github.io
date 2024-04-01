@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 25 de marzo 2024 al 31 de marzo 2024 
-description: Horóscopo semanal leo 25 de marzo 2024 al 31 de marzo 2024. Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
+title: leo 01 de abril 2024 al 07 de abril 2024 
+description: Horóscopo semanal leo 01 de abril 2024 al 07 de abril 2024. Esta semana vas a abrir los ojos Leo, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2024-03-25
+ogimg: /images/zodiac/semanal_leo.png#2024-04-01
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-03-25'
+ lastmod: '2024-04-01'
 ---
 
 
 
-## Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
+## Esta semana vas a abrir los ojos Leo, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
 
-Llegan oportunidades grandes Leo y muy buenas, pero cuidado, deja de flojear y de ver el lado negativo. Esta semana tienes que cambiar el chip, y cambiarlo de golpe. Las cosas irán bien. Si los recuerdos te invaden haz lo que sea para entretenerte y dejarlo ahí, a las puertas, sin que puedan entrar en tu cabeza y desestabilizarte. Ten cuidado y no pagues con la misma moneda los golpes que la vida te ha podido dar, no merece la pena caer tan bajo como otros aunque tengas unas ganas tremendas de dar a más de uno su merecido. En el fondo no eres así, y eso sólo trae mala vibra a tu vida. Cuando esas personas se acerquen a ti, mándalas bien lejos. Esta semana habrá algunos días en los que te costará levantarte y empezar con fuerza, pero trata de pensar que tienes que buscar una rutina, una forma de vida nueva, trata de pensar que cada día será mejor que el anterior. Hay buenas noticias Leo, noticias que estabas esperando desde hace mucho tiempo. Tu mente últimamente se pone siempre en lo peor, y todo debido a tus experiencias pasadas, pero no Leo, no imagines cosas que aún no han pasado y que probablemente no vayan a pasar. Disfruta más lo que tienes en tus manos ahora. Viene algo muy bonito, después de todo…
-Tu sector de amistad se enciende esta semana cuando las fuerzas cósmicas te motivan para que evalúes tu situación y pienses cómo podrías mejorar tu vida social. Podrías tomarte tiempo para conectar con personas que hace mucho que no ves o para fortalecer un vínculo importante. Mientras tanto, puede que unirte a un grupo o a un club cambie tu perspectiva con respecto a la vida y allí puedas hacer actividades que realmente disfrutas. Una persona de otro país u otra cultura también podría llamar tu atención.
+No vas a decir no a nada, ¿para qué? Que la vida te haya fallado mucho no significa que lo vaya a hacer más veces, o siempre. Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta. Es como cuando crees que un tema está totalmente cerrado pero en el fondo de tu alma te gustaría que estuviera un poco abierto, sólo para poder asomarte a ver qué es lo que pasa, y de repente sin que tu lo quieras se empieza a abrir, y no porque tú lo hayas buscado si no porque te ha buscado a ti. Y claro, no sabes si esto es bueno o malo, porque no lo esperabas. Pues Leo, todo pasa por alguna razón, de verdad, quizás tienes un objetivo en la vida de otros ahora, quizás necesitas enseñarles o hacerles la vida más fácil, servirles de complemento y que ellos te complementen a ti. A veces hay que estar con esas personas sólo para disfrutarlas, sin más. Sin compromisos, conociéndolas, escucharlas sin implicarte en nada… ser más contemplativos, más frívolos, sin pensar por qué estás ahí ahora o qué pasaría si no estuvieras. Piénsalo así, sin darle más vueltas a todo. Si la puerta se está abriendo es por algo, y en tu mano está volverla a cerrar de golpe o mirar un poco, a ver qué intenciones hay. Todo pasa por una razón, y claro que asusta, pero en el fondo, ¿no es un poco lo que querías? La diferencia es que el paso ahora, no lo has dado tú, si no que simplemente te ha llegado. Prueba a ver, no digas que no y no digas que nunca, porque nunca se sabe…
+A medida que tu planeta regente se vuelve retrógrado esta semana durante un período de tres semanas, podrías necesitar revisar tu postura. Pero ¿sería esto tan malo? Si siguen surgiendo obstáculos en un área clave, esto podría ser un indicio de que algo no está funcionando. Al volver a revisar tus planes, podrías lograr mucho más en el transcurso. Además, esta semana podría haber un motivo de celebración o una cita muy romántica.
 
 ## Dinero
 
-Con ciertos aspectos afectando tu vida hogareña y emociones internas, puede que desees regresar el tiempo en tu vida para poder volver atrás y corregir los errores del pasado. Pero estamos aquí para aprender, no para controlar. Cierta actividad en tu sector de viajes, idiomas y educación superior afirma que puedes encontrar un mayor acceso a dinero si logras exponer tus habilidades en mercados fuera de tu país. Enfoca tus esfuerzos en Internet para conectar con nuevos clientes.
+Esta semana hay actividad en tu sector de herencia y propiedad compartida. Necesitas prestar más atención a tu principal fuente de dinero - tu carrera. A pesar de que una herencia podría apoyar tus sueños a largo plazo, tu carrera te apoya emocionalmente también. El Universo te proporciona un mayor descanso del que pudiste haber gozado en los últimos tiempos. Puedes utilizar toda la estabilidad que pudiste haber reunido en otras áreas.

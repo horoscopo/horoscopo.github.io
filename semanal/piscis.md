@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 25 de marzo 2024 al 31 de marzo 2024 
-description: Horóscopo semanal piscis 25 de marzo 2024 al 31 de marzo 2024. Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud Piscis, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
+title: piscis 01 de abril 2024 al 07 de abril 2024 
+description: Horóscopo semanal piscis 01 de abril 2024 al 07 de abril 2024. Recuerda que ha empezado la época de los Piscis… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2024-03-25
+ogimg: /images/zodiac/semanal_piscis.png#2024-04-01
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-03-25'
+ lastmod: '2024-04-01'
 ---
 
 
 
-## Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud Piscis, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
+## Recuerda que ha empezado la época de los Piscis… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
 
-¿Cómo quieres gastar tu vida Piscis? ¿sintiéndote mal? ¿arrepintiéndote por lo que has hecho, o peor aún, por lo que no has hecho? ¿odiando y sintiendo rencor? ¿no afrontando los problemas o las situaciones? Sé valiente Piscis, siempre lo has sido, y sigue creyendo en ti mismo, y haz lo que te haga sentir bien, y trata de huir de lo que te encoge el corazón, de lo que te hace daño, y manda lejos a tus pensamientos oscuros que lo único que hacen es que entres en bucles y que desperdicies tu tiempo. Tienes esta vida Piscis, sólo esta así que, trata de sentirte orgulloso de cómo la estás llevando. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Piscis. Piénsalo bien, ¿qué más puede afectarte? NADA. Eres como eres y nadie va a cambiarte pero tienes que aprender a que te de un poco más igual todo, tienes que aprender a no obsesionarte con nada. Si las cosas no salen del todo bien es porque hay algo mejor que te espera. Y pasará… Pero cambia la manera de ver las cosas porque es la única forma en que cambien las cosas que ves. Feliz semana Piscis.
-Ciertos asuntos monetarios podrían pasar a primer plano con el escenario cósmico animándote a tener cautela con tu gasto. Este no es el mejor momento para derrochar, ya que podrías lamentarlo más tarde. Si una factura inesperada aparece, podría causarte aún más estrés. Tómate tu tiempo y encuentra contento en pequeños lujos. Las responsabilidades asociadas con tu hogar y asuntos familiares podrían parecer ceder un poco conforme Saturno empieza a retroceder. Todavía no estás fuera de la batalla, pero tu vida sí se volverá más simple en los próximos meses.
+Ommmm… Ommmm… Relax Piscis, relax… Por favor, si te tomas las cosas tan a pecho al final acabarás por salir perjudicado tú. Antes de que creas que lo sabes todo, respira hondo, no te dejes llevar por la impulsividad, no te alteres, analízalo, que es lo que mejor se te da hacer. Es muy importante que no pierdas los papeles antes de tiempo. Observa a tu alrededor y mira realmente quien hace daño a tu vida y no te aporta nada y quien es el que te da todo sin importar nada, hay una gran diferencia. A partir de ahí elige bien y empieza a hacer lo que debes hacer, o sea, sacar lo que no te conviene, como siempre has hecho. Es muy probable que te encuentres en una etapa en la que todo te cuesta mucho más de la cuenta, conoces la teoría de la mayoría de las cosas, pero te falta la práctica y la verdad que esta semana te seguirá faltando, es como si aún no estuvieras preparado para decidir qué es realmente lo que quieres para ti, como si no estuvieras preparado para decir ADIOS a lo que ya no te conviene. Sabes de sobra que cuando decides, lo haces con todas las consecuencias y si ves que aún dudas por todo prefieres no tomar ninguna elección. No quieres fallarte a ti mismo pero a la vez te da pánico equivocarte de decisión. Pues mira Piscis, haz lo que sientas, en serio, haz lo que te pida el cuerpo, lo que te apetezca, y después deja que la vida te sorprenda, porque te va a sorprender seguro. A veces hay que llevar al límite las cosas Piscis, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
+Proyectos creativos y actividades placenteras encabezan la agenda de esta semana, haciendo de este un buen momento para unas vacaciones o una corta escapada. Un romance parece estar a punto de florecer, con un solo toque - o pequeño gesto - pudiendo provocarlo. Aunque estarás muy al tanto de todo lo que necesitas llevar a cabo durante los días por venir, adoptar un enfoque divertido e intuitivo puede hacer toda la diferencia. Una idea brillante podría tener un mayor impacto del que imaginabas.
 
 ## Dinero
 
-Esta semana es perfecta para tener una mentalidad transformadora. Los aspectos astrales agitan tu sector hogareño y despiertan algunos sentimientos internos. Podrías sentir algo de inestabilidad en estas áreas y tal vez necesites pasar algo de tiempo curándote y desarrollando un plan de recuperación. Tómate todo el tiempo que necesites para hacer que suceda.
+Tienes un poder especial esta semana. Sin embargo, ciertos aspectos afectan tu sector del trabajo. Si estás buscando empleo, este es un excelente momento para aplicar y enviar currículums. Si tienes trabajo, es el momento de construir tu caso con puntos para un aumento de sueldo o un ascenso. ¿Podría tu negocio ir bien sin ti? Si no es así, aporta pruebas de las contribuciones esenciales que le haz hecho.
