@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 01 de abril 2024 al 07 de abril 2024 
-description: Horóscopo semanal leo 01 de abril 2024 al 07 de abril 2024. Esta semana vas a abrir los ojos Leo, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
+title: leo 08 de abril 2024 al 14 de abril 2024 
+description: Horóscopo semanal leo 08 de abril 2024 al 14 de abril 2024. Retírate del mundo artificial Leo, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2024-04-01
+ogimg: /images/zodiac/semanal_leo.png#2024-04-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-04-01'
+ lastmod: '2024-04-08'
 ---
 
 
 
-## Esta semana vas a abrir los ojos Leo, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
+## Retírate del mundo artificial Leo, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
 
-No vas a decir no a nada, ¿para qué? Que la vida te haya fallado mucho no significa que lo vaya a hacer más veces, o siempre. Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta. Es como cuando crees que un tema está totalmente cerrado pero en el fondo de tu alma te gustaría que estuviera un poco abierto, sólo para poder asomarte a ver qué es lo que pasa, y de repente sin que tu lo quieras se empieza a abrir, y no porque tú lo hayas buscado si no porque te ha buscado a ti. Y claro, no sabes si esto es bueno o malo, porque no lo esperabas. Pues Leo, todo pasa por alguna razón, de verdad, quizás tienes un objetivo en la vida de otros ahora, quizás necesitas enseñarles o hacerles la vida más fácil, servirles de complemento y que ellos te complementen a ti. A veces hay que estar con esas personas sólo para disfrutarlas, sin más. Sin compromisos, conociéndolas, escucharlas sin implicarte en nada… ser más contemplativos, más frívolos, sin pensar por qué estás ahí ahora o qué pasaría si no estuvieras. Piénsalo así, sin darle más vueltas a todo. Si la puerta se está abriendo es por algo, y en tu mano está volverla a cerrar de golpe o mirar un poco, a ver qué intenciones hay. Todo pasa por una razón, y claro que asusta, pero en el fondo, ¿no es un poco lo que querías? La diferencia es que el paso ahora, no lo has dado tú, si no que simplemente te ha llegado. Prueba a ver, no digas que no y no digas que nunca, porque nunca se sabe…
-A medida que tu planeta regente se vuelve retrógrado esta semana durante un período de tres semanas, podrías necesitar revisar tu postura. Pero ¿sería esto tan malo? Si siguen surgiendo obstáculos en un área clave, esto podría ser un indicio de que algo no está funcionando. Al volver a revisar tus planes, podrías lograr mucho más en el transcurso. Además, esta semana podría haber un motivo de celebración o una cita muy romántica.
+No te mereces poco Leo… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas… Cuando alguien se preocupa por ti, se preocupa todo el tiempo, y eso es lo que vale. No es que todo el mundo que te rodea sea malo, es que aún te queda basura por sacar a la calle. No tomes una decisión a la ligera pues sí o sí tendrás que aceptar las consecuencias. Mejor tómate un tiempo para pensar mejor las cosas. A veces pensamos que porque no recibimos una consecuencia inmediata a nuestras acciones tal vez nunca va a llegar, pero estamos completamente equivocados. Las cosas tarde o temprano pasan factura Leo, tanto a ti como a los demás, por eso, procura tener los pies en la tierra y no dejarte llevar por esos arrebatos locos que te están dando últimamente. Es como si quisieras controlarte, porque en el fondo sabes como acaba todo, pero a la vez te frustra no plantar cara a más de uno que tienes metido entre ceja y ceja últimamente. Es complicado. No es una mala semana pero si habrá bastantes altibajos. A veces quieres solucionar tus problemas, a la de ya, poner punto y final a todo y empezar de cero, como si fuera tan fácil. La dificultad contigo es que no son causas tontas, no son cosas que de la noche a la mañana y con un simple perdón puedan solucionarse. Arrastras demasiado desde hace mucho tiempo Leo. Así que no, de un día para otro no arreglarás mucho, bueno quizás desahogarte un poco pero, ¿de que te vale eso si volverás de nuevo a lo mismo de siempre? ¿No has pensado en evitar ciertas situaciones que te causan daño? ¿No has pensado en alejarte por un tiempo de personas que en vez de reír te hacen llorar? ¿Por qué no lo haces? Tu respuesta muchas veces es la misma: “No voy a rendirme, esto lo soluciono yo como sea”. Y sí, estás en lo cierto porque si fuera por ti ya lo habrías hecho, el problema es que no tienes por qué solucionarle la vida a otros.
+Un encuentro inesperado podría ser el principio de una conversación inolvidable. Puede que una persona sepa algo que te da esperanzas para el futuro y esto podría darte ganas de saber más al respecto. Si sentías que estabas en una situación sin salida o en una serie de circunstancias sofocantes, esta influencia puede ser un soplo de aire fresco, lo que te da ganas de explorar un nuevo territorio que te desafía y fomenta tu crecimiento. Incluso irte de vacaciones podría probar ser memorable.
 
 ## Dinero
 
-Esta semana hay actividad en tu sector de herencia y propiedad compartida. Necesitas prestar más atención a tu principal fuente de dinero - tu carrera. A pesar de que una herencia podría apoyar tus sueños a largo plazo, tu carrera te apoya emocionalmente también. El Universo te proporciona un mayor descanso del que pudiste haber gozado en los últimos tiempos. Puedes utilizar toda la estabilidad que pudiste haber reunido en otras áreas.
+Es hora de mostrar una presencia real con tu ropa, tu conducta y manera de hablar. No hay lugar para personas tímidas aquí, solo personas con autoridad y claridad pueden dar su punto a entender con eficacia. Acude a tu hogar para obtener ideas para ahorrar dinero o formas de ganar dinero. Un negocio basado en tu hogar no es una mala idea en lo absoluto.

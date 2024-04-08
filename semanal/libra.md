@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: libra 01 de abril 2024 al 07 de abril 2024 
-description: Horóscopo semanal libra 01 de abril 2024 al 07 de abril 2024. Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
+title: libra 08 de abril 2024 al 14 de abril 2024 
+description: Horóscopo semanal libra 08 de abril 2024 al 14 de abril 2024. No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario Libra.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2024-04-01
+ogimg: /images/zodiac/semanal_libra.png#2024-04-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-04-01'
+ lastmod: '2024-04-08'
 ---
 
 
 
-## Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
+## No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario Libra.
 
-Quieres sonreír cuando pase el tiempo y sobretodo no quedarte con las ganas por no haber hecho lo que sentías. No te encierres en lo que debes o no debes hacer Libra, ahora simplemente fluye… Con la vida, con tus amigos, con tu gente, con los que quieres… 
-porque así es como la vida te acaba compensando con nuevas bienvenidas.
-Aunque sea tentador malgastar tu dinero, no es lo que más te conviene hacer. Trata de alinearte con la Luna Nueva del Martes al comprometerte con un nuevo comienzo. Esta es tu oportunidad para crear un presupuesto que te permita disfrutar de la vida y ahorrar dinero también. Considera la posibilidad de adoptar un préstamo de consolidación de deudas si es que lo necesitas. Más adelante en la semana, puede que sientas motivación a conectar con personas de las que no has escuchado en algún tiempo y sea buen momento para una reunión.
+Debes tener cuidado si no quieres que la caída sea desde muy arriba. No tiene por qué pasar, está claro, pero debes prevenir y no entregarte al 100% en todo lo que haces, porque los golpes duros duelen menos cuando no diste todo de ti, ves con un poquito de ojo esta semana.
+Esta semana podrían centrarse en negociación y comunicación. Tal parece que podrías tener involucramiento en reuniones y discusiones de diferentes grados de importancia. Mercurio retrocede en esta misma zona, así que ten cuidado con la firma de acuerdos o contratos importantes en este momento. Si puedes esperar hasta que Mercurio se torne directo, en aproximadamente tres semanas, las cosas deberían avanzar más suavemente. Además, debido a la actividad Solar en este sector, no te sorprendas si una inesperada oportunidad cambia tu vida de alguna manera.
 
 ## Dinero
 
-Es una semana difícil para ti. Es tu responsabilidad decir lo que necesitas decir de una forma amable y gentil. Pero cuando se trata de tu vida hogareña y emociones internas, puede ser difícil reunir ese tipo de paciencia. En vez, puede que sientas presión y falta de respeto al tratar de salir adelante. La semana que viene será mejor en general.
+Esta semana tienes una base sólida para construir sobre tu existente riqueza. Quieres hacer cosas poco convencionales con tu dinero, pero es mejor ser un poco más conservador/a debido a las proyecciones de ahora. Sin embargo, es un buen momento para la investigación de aspectos más salvajes relacionados con la inversión.
