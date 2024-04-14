@@ -1,0 +1,28 @@
+---
+layout: horoscopos
+title: libra hoy gratis 14 de abril del 2024 
+description: Horóscopo del dia de hoy para libra. Horoscopo de hoy 14 de abril del 2024. Las predicciones de amor, trabajo, vida personal gratis.
+permalink: /horoscopo-diario-gratis/libra/
+amplink: /horoscopo-diario-gratis/amp/libra/
+home: FALSE
+redirect_from: /p/libra.html
+keywords: libra,horoscopo,horoscopo libra abril 2024,horoscopo libra hoy,tarot libra abril 2024,horoscopo libra,tarot libra hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy libra,horoscopo diario del tarot, Horoscopo de hoy libra 14 de abril del 2024,horóscopo del día,signos zodiacales 2024, el horoscopo de hoy
+horoscopo:
+ signo: libra
+ video: -DQpmrrAIeU
+ogimg: /images/libra_char.png
+sitemap:
+ priority: 1
+ changefreq: 'daily'
+---
+
+
+Hoy podrías tener en la mente la idea de viajar y podrías jugar con la idea de realmente tomarte tiempo libre e ir a algún lugar que siempre has querido visitar. Un amigo o una pareja puede desear que le acompañes. El único problema podría ser averiguar qué lugar tienes más ganas de ver. Esto podría implicar una decisión bastante difícil. No dejes que se convierta en una obsesión. Sigue a tu corazón.
+
+## Amor
+
+Los sospechosos habituales, es decir, la gente con la que te relacionas, querrán que estés con ellos esta noche. No sólo te lo van a pedir. Van a exigir tu presencia. Si hay algo que puedas hacer para ir -sin ofender a tu amor, por supuesto- adelante. De lo contrario, discúlpate, lo podrán aceptar.
+
+## Trabajo
+
+Los próximos treinta días son un período repleto de inicios. Aprovecha el fin de semana para sintonizarte contigo mismo/a y con tus deseos. Estás comenzando de nuevo. Despréndete de lo viejo y haz lugar para lo nuevo. Este cambio te traerá mucho éxito.
