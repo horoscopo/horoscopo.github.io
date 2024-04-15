@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 08 de abril 2024 al 14 de abril 2024 
-description: Horóscopo semanal capricornio 08 de abril 2024 al 14 de abril 2024. Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
+title: capricornio 15 de abril 2024 al 21 de abril 2024 
+description: Horóscopo semanal capricornio 15 de abril 2024 al 21 de abril 2024. Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2024-04-08
+ogimg: /images/zodiac/semanal_capricornio.png#2024-04-15
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-04-08'
+ lastmod: '2024-04-15'
 ---
 
 
 
-## Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
+## Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
 
-No estás mal con lo que tienes no, pero ya no eres el mismo que antes Capricornio. Has cambiado, y quieres otra vida, llenarte de otras sensaciones que te alimenten, que te hagan crecer como persona, metas y objetivos nuevos. Quieres llenar tu vida de personas inigualables, de gente que merece la pena de verdad. Quieres que tus días estén llenos de esas personas que te hacen ver la belleza del mundo. Quieres gente aventurera cerca, que no se raye por estupideces, que no te raye a ti… Quieres perseguir puestas de sol, quieres perseguir lunas llenas, quieres salir de la mierda de la rutina que a veces te ahoga. Quieres personas que no vean el mundo de la misma manera que tú, personas que tengan la capacidad de hacerte cuestionar todo lo que creías que era cierto. Necesitas vidilla, aventura, es lo que más deseas ahora, búscala Capricornio, búscala y sal de la rutina como sea. Si no tienes sueños o metas de este tipo te acabas apagando, y mucho. O te empiezas a ilusionar y a perseguir lo que de verdad quieres o vas para abajo Capricornio. Si quieres cambiar algo es porque no estás satisfecho del todo Capricornio, esto funciona así. Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
-Desenterrar una vieja idea o revivir un proyecto a medio terminar podría traer resultados prometedores y sorprendentes. Si sientes inspiración para volver a un plan que no parecía ir a ninguna parte, con un par de ajustes, podría traerte resultados espectaculares en esta ocasión. Lo mismo aplica con los proyectos creativos hacia los que podrías redescubrir tu entusiasmo y terminar con un rotundo broche de oro. Si una relación amorosa se ha estancado, el avance de Júpiter podría verla a todo vapor nuevamente en las próximas semanas.
+No sabes cómo desviar tus sentimientos Capricornio, sientes con muchísima pasión muchas cosas pero otras se están apagando poco a poco. Y no entiendes por qué, no entiendes como se avivan llamas con personas que no merecen la pena, y como se te apagan con otras que sí. Vas a tener dificultad para liberarte de algunas cosas Capricornio… Cuando sientes algo por alguien tu corazón no puede frenar y ahora eso es lo que te está pasando… No eres estúpido por intentar revivir viejos recuerdos y tratar de entender qué fue lo que salió mal o qué es lo que está fallando. La cuestión es que tienes que hablar las cosas, no puedes dejar que se vayan acumulando en tu interior. Si algo no va del todo bien dilo de una vez Capricornio. A veces te imaginas un futuro donde termina todo bien, donde eres feliz, donde sonríes cada día, el problema es que el futuro se construye con lo que vas haciendo ahora, y si quieres tener ese futuro deberás empezar a cambiar. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay, y en eso no se puede cambiar por mucho que lo intentes. Date el lujo de sentir lo que sientes, aunque esos sentimientos vayan en contra de lo que querrías sentir. Vamos Capricornio que esta semana emocionalmente hablando vas a tener un jaleo en tu cabeza serio y es muy probable que necesites un buen tiempo para aclararte.
+Tienes la oportunidad de darle nueva vida a tus relaciones durante esta semana y las próximas semanas. Si te has ocupado demasiado y has descuidado a tus amigos o incluso un ser querido, aprovecha al máximo esta oportunidad para pasar buenos ratos con tus seres queridos. Tus asuntos empresariales parecen prosperar si te apegas a un plan. Sin embargo, tener un enfoque disperso podría resultar en pérdidas, por lo que vale la pena obtener un buen consejo. Espera hasta después del Jueves para cerrar acuerdos o comprometerte a contratos.
 
 ## Dinero
 
-Estás atrapado/a en un dilema. Hay acción en el frente de profesión y en el campo de las oportunidades. Sin embargo, estás siendo conducido/a por un estrecho sendero hacia el lidiar con tu situación en cuanto a cómo te relacionas. Puedes hacerlo a solas por sólo un determinado tiempo. Busca la mayor cantidad de ayuda que puedas encontrar.
+Puede que los aspectos en tu sector de dinero y valores te molesten más que a la mayoría. Justo cuando estás a punto de cerrar el trato, las cosas se te escapan de las manos o simplemente se retrasan. No importa, ya que se pondrán mejor. Hasta entonces, haz negocios o trabaja para instituciones y corporaciones más grandes. Esto mejorará tu presupuesto anual.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: aries 08 de abril 2024 al 14 de abril 2024 
-description: Horóscopo semanal aries 08 de abril 2024 al 14 de abril 2024. Aries, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
+title: aries 15 de abril 2024 al 21 de abril 2024 
+description: Horóscopo semanal aries 15 de abril 2024 al 21 de abril 2024. No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Aries, abre las puertas y ciao. No tienes que mantener nada…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2024-04-08
+ogimg: /images/zodiac/semanal_aries.png#2024-04-15
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-04-08'
+ lastmod: '2024-04-15'
 ---
 
 
 
-## Aries, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
+## No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Aries, abre las puertas y ciao. No tienes que mantener nada…
 
-No eres frágil Aries, no dejes que el resto piense eso de ti, no lo pienses tú de ti mismo/a. Esta semana rompe con todo, rompe con eso que lleva ahogando todo este tiempo, rompe con patrones que estabas siguiendo como un robot, sin saber ni siquiera si era eso lo que de verdad buscabas. Toma decisiones de una vez. ¿Estás a gusto con la vida que estás viviendo? No del todo Aries, y lo sabes. Pero no te conformes, no pienses que es lo único que hay porque hay muchísimo más ahí fuera. Tienes tanto potencial que estás desaprovechando… Cuando tienes episodios de bajón es porque en realidad sabes que lo que estás haciendo hoy no te va a llevar a ningún sitio el día de mañana, y eso es lo que te frustra Aries, saber que el futuro que tienes ahora es muy incierto, saber que, a pesar de que puedas estar medio bien ahora, no estás plantando nada para recoger después. Haz lo que de verdad te hace feliz Aries, no tengas miedo porque con miedo no vas a ninguna parte. Es triste tener que vivir una vida que sabes de sobra que no está hecha para ti. Cambia el entorno, cambia el plan y no dependas de nada ni de nadie… Si no cambias la dinámica de tu vida te vas a acabar asfixiando Aries, y sabes lo complicado que es salir de ahí después…
-Con la entrada de Júpiter a tu sector espiritual, es posible que veas que el esfuerzo que has hecho comienza a dar frutos. Si has estado trabajando con un consejero de vida o asistiendo a un programa de autosuperación, puede que las próximas semanas te permitan ver los resultados por los que tanto te esforzaste. Además, puede que te resistas a tomar cierta oportunidad porque no sientes que puedes aprovecharla, cuando en realidad sería algo muy bueno para ti.
+Te está así como dando pereza siempre lo mismo. Siempre teniendo que demostrar cuáles son tus intenciones y sobretodo, demostrárselo a personas que ahora ya ni te van ni te vienen. Aries, aunque hayas roto con un pasado que te estaba amargando no lo has hecho indefinidamente, no lo has hecho para siempre, o al menos, eso es lo que parece. Eso de que “estaré ahí para siempre” es muy cierto en tu caso pero no seas idiota Aries, porque a veces de bueno das la mano y te toman todo el brazo. Si has roto con el mal rollo, has roto. No dejes que vuelva, no dejes que se acerque, no lo permitas. Que sí, que puedes creer que estás súper curado ya, que tus heridas no sangran, pero te estarías engañando Aries. La etapa que llega ahora tienes que disfrutarla, tienes que vivirla intensamente, y probablemente tengas que pasar más tiempo solo/a. Para conocerte a ti mismo/a, para entender qué es lo que quieres, qué es lo que buscas… Conoce Aries, conoce a todo el mundo que puedas, y comparte… Y cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
+Si debes finalizar asuntos esta semana, es mejor que tengas un plan para comenzar. Con algunos vínculos un poco raros entre Mercurio y Neptuno en tu signo, puedes comenzar a dudar o perder interés en tu idea. Esto no sería lo ideal, ya que tienes muchas oportunidades para demostrar tu talento y habilidad. Sería una pena que no pudieras aprovecharlas. Tus sueños pueden ser más intensos también y darte la orientación que necesitas.
 
 ## Dinero
 
-Esta semana, estudia tu dinero y valores. Es muy importante el no gastar tu dinero tan pronto como lo ganes y viceversa. Este momento se trata de hacer un cambio concertado para tu futuro financiero a largo plazo. Tu sector de carrera se ve afectado también, lo que significa que necesitas ahorrar para algún momento en el que tu empresa no sea tan estable como lo es ahora.
+Esta semana tienes algunos desafíos por delante a medida que tratas de encontrar el mejor enfoque para el mes que viene. Ciertos aspectos afectan tu sector de deuda, animándote para que empieces a pagar y abstenerte de gastar más. Tu vida familiar y romántica será tu principal factor de motivación ahora.

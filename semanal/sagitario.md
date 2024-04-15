@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 08 de abril 2024 al 14 de abril 2024 
-description: Horóscopo semanal sagitario 08 de abril 2024 al 14 de abril 2024. Dedícate la semana a ti Sagitario, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
+title: sagitario 15 de abril 2024 al 21 de abril 2024 
+description: Horóscopo semanal sagitario 15 de abril 2024 al 21 de abril 2024. Empieza a hacerte promesas a ti mismo Sagitario, empieza a prometerte amor propio, hoy y siempre. 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2024-04-08
+ogimg: /images/zodiac/semanal_sagitario.png#2024-04-15
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-04-08'
+ lastmod: '2024-04-15'
 ---
 
 
 
-## Dedícate la semana a ti Sagitario, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
+## Empieza a hacerte promesas a ti mismo Sagitario, empieza a prometerte amor propio, hoy y siempre. 
 
-Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca Sagitario. La gente se cree muchas veces que no sufres, que eres demasiado frío en ocasiones por no mostrar tus verdaderos sentimientos, por no abrirte en canal como hacen otros. Pero la verdad no es esa. Estás cansado de dar, de intentar, de dejar de lado tus derechos porque los demás no se tomen las cosas mal, incluso de arrastrarte. De verdad que estás harto de todo eso. A veces hay que ceder Sagitario pero el problema contigo es que tu das la mano y se toman todo el brazo. Empieza a imponerte un poco. Una cosa es que seas bueno, otra cosa es que te puedan sacar hasta la sangre por esto. No te enfades contigo mismo si no has sabido decir todo lo que piensas, aún tienes posibilidad de remediarlo, de hecho, necesitas remediarlo. No puedes pretender que nada cambie si tú no cambias Sagitario, a veces las decisiones más complicadas son las que al final nos harán libres. Y necesitas sentir eso ahora. Disfruta de la semana y recuerda que eres como eres, que nadie puede hacerte cambiar pero que tú tampoco podrás cambiar a nadie. Conecta con quien conecta contigo.
-A medida que Venus continúa su viaje por tu sector social, este primer mes de 2024 podría ser clave para hacer nuevas amistades y conocer gente. Ya sea que quieras divertirte más, encontrar el amor o establecer contactos por otras razones, es posible que haya sido un mes muy productivo. Sin embargo, podría haber cambios este viernes a medida que Marte entra a un sector más tranquilo de tu carta astral. Esto podría revolucionar tu mente y darte la fuerza y determinación para dejar atrás cualquier problema que haya sido un lastre.
+Vale, puede que te lleves o que ya te estés llevando decepciones, pero piénsalo bien, son decepciones que no te sorprenden demasiado. Las cosas ya no te afectan como antes, es muy raro que algo te de la sorpresa de tu vida, ya has pasado demasiado pero aún así, por muy duro que parezcas a veces, las cosas duelen. Bueno, lo hecho, hecho está, y quizás en tus manos tengas poco poder para cambiar los fallos que cometen los demás, pero ¡despierta! En tus manos sí está el poder de cambiar lo que tú quieres, para ti, para tu vida. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. Todo pasa, todo cambia y todo llega Sagitario. A veces la opción más difícil y la mejor opción son la misma. Tener el control de uno mismo es fundamental para caminar hacia delante y eso es lo que debes tener controlado ahora, no se trata de lo que tienes o de lo que no tienes, se trata de lo que quieres llegar a tener, con lo que de verdad te quieres llegar a sentir satisfecho. No te dejes arrastrar de nuevo por la mierda.
+Tu sector de recreación y romance brilla esta semana, con una completa alineación que te anima a darte el gusto disfrutando de algunos de tus pasatiempos preferidos o pasando un tiempo con esa persona especial. Y cuando el encantador Venus conecta con el soñador Neptuno a mitad de semana, esta puede ser la oportunidad perfecta para una cita especial. Sin embargo, el cuarto de luna en Géminis del viernes podría animarte a celebrar el primer logro importante de una nueva relación, tal vez dando un paso más. Confía en tus instintos. Si se siente bien, considéralo seriamente.
 
 ## Dinero
 
-Esta semana, tu sector de carrera se ve afectado. El Universo te está empujando a tomar algunas decisiones que has estado posponiendo por un tiempo. Si has querido cambiar de carrera o hacer investigación adicional, es el momento de echarlo a andar. Este aspecto tiene tenencia a empujarte a hacer lo que es correcto.
+Para ti, esta semana se trata de tus relaciones. Tu vida personal y tus contactos profesionales serán muy importantes ahora. Si tienes una comida o cena de negocios, paga por una o ambas de las cuentas si piensas que es necesario. Reunirse con amigos poderosos generalmente tiende a valer la pena al final.

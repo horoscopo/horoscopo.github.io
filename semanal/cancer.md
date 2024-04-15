@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 08 de abril 2024 al 14 de abril 2024 
-description: Horóscopo semanal cancer 08 de abril 2024 al 14 de abril 2024. Remonta como has hecho tantas veces, cambia el rumbo, cambia los pensamientos y cambia tu futuro.
+title: cancer 15 de abril 2024 al 21 de abril 2024 
+description: Horóscopo semanal cancer 15 de abril 2024 al 21 de abril 2024. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Cáncer. Tú solito.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2024-04-08
+ogimg: /images/zodiac/semanal_cancer.png#2024-04-15
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-04-08'
+ lastmod: '2024-04-15'
 ---
 
 
 
-## Remonta como has hecho tantas veces, cambia el rumbo, cambia los pensamientos y cambia tu futuro.
+## Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Cáncer. Tú solito.
 
-A veces te acercas de nuevo a eso de lo que te alejaste porque sabías que no te convenía… Estás en una encrucijada Cáncer. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo. Y te entra frustración, y rabia, y muchas ganas de poner a más de uno en su sitio, de explicar cómo te has sentido, todo lo que has sufrido, todo lo que tienes dentro… Y esa es a menudo la excusa que te pones para volver… No Cáncer, error. No pongas a prueba a los demás porque tienes más de perder que de ganar. Las personas no cambian. Pero claro, eres Cáncer, súper metódico con todo, y hasta que no pruebes no te quedarás a gusto. Está bien, prueba si quieres, date la oportunidad de saber si te equivocas o no, no te quedes con ninguna duda, no sigas consejos de nadie, ni siquiera de tu cabeza y termina viendo las cosas por ti mismo/a. Pero también prepárate para todo, incluso para asimilar decepciones si las hubiera… El instinto no te falla pero la impulsividad a veces sí puede hacerlo. Quizás no sea lo que esperas Cáncer pero puede que al menos te refuerces más. Pase lo que pase, prométete a ti mismo/a no volver a sufrir más…
-Tu vitalidad es fuerte con el dorado Sol y el activo Marte moviéndose a través de tu signo. Puede que sientas más valentía y tengas ganas de defender lo que crees. Pero también querrás buscar y conectar con viejas y nuevas amistades. Mercurio en tu sector financiero podría encontrarte ordenando tus cosas un poco y poniéndote al día con facturas y otras cuestiones financieras. Sin embargo, si descubres una oferta para tu hogar, es posible que no puedas resistirte a ella.
+Y aunque por dentro te tiemblen las piernas sabes lo que está bien y lo que está mal, sabes lo que te hace daño hoy y lo que te hará daño mañana.
+Puede que tu cuerpo comience a sentirse más relajado y menos cansado cuando el Sol salga de tu sector profesional y entre a tu sector social. Has estado pasado por una fase bastante agitada recientemente, pero con el actual enfoque, es momento de relajarte y pasar un buen rato. En otra nota, no le prestes demasiada atención a la opinión de alguien, sobre todo si te parece un tanto negativa. Además, la actividad lunar del jueves podría verte teniendo mucha pasión hacia la persona que amas.
 
 ## Dinero
 
-Hay algunos desafíos en tu camino esta semana. Las relaciones son clave para tu éxito ahora, y el Universo te está empujando hacia ellos de una manera no tan sutil. El socializar es ante todo divertido, pero también puede ponerte en contacto con importantes clientes nuevos que podrían serte útiles en el futuro.
+Ahora tienes un aspecto armonioso afectando a tu sector de hogar y emociones. Si trabajas en un campo creativo o de diseño, piensa en cómo ampliar tu línea para incluir el diseño de interiores. Dado a que tantos de tus propios recuerdos y sentimientos están siendo despertados, puedes percatarte de que tu vida puede servir de base para nuevas y maravillosas ideas. El dinero viene cuando se combina lo personal con lo profesional.

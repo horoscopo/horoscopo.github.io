@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 08 de abril 2024 al 14 de abril 2024 
-description: Horóscopo semanal virgo 08 de abril 2024 al 14 de abril 2024. Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
+title: virgo 15 de abril 2024 al 21 de abril 2024 
+description: Horóscopo semanal virgo 15 de abril 2024 al 21 de abril 2024. No es que estés cambiando Virgo, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2024-04-08
+ogimg: /images/zodiac/semanal_virgo.png#2024-04-15
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-04-08'
+ lastmod: '2024-04-15'
 ---
 
 
 
-## Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
+## No es que estés cambiando Virgo, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
 
-A veces dejas las puertas medio abiertas Virgo, crees que puedes cerrarlas cuando quieras, crees que eres lo suficientemente fuerte como para mandarlo todo a la mierda cuando desees… Pero no es del todo así. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Virgo porque no eres así. Parece que tuvieras miedo de cerrar definitivamente algunos capítulos, parece que aún te aferrarás a que pueden tener solución. Está bien Virgo, aférrate a lo que quieras, pero que eso no te afecte en tu día a día. Tienes que ver las cosas por ti mismo para dejarlas a un lado o continuar con ellas, así que, tropieza, date la hostia necesaria que te haga abrir los ojos pero, mientras tanto, que no te frene. Sacúdete un poco de las cosas negativas que pululan a tu alrededor, no pagues un precio alto por mantener algo que ni siquiera sabes si quieres mantener. Si necesitas pensar, márchate, desaparece unos días, vete solo y pasa de todo. En serio, algo te está reteniendo a quedarte, algo te está impidiendo continuar hacia delante, ten cuidado Virgo, con las decisiones que tomas, y con dejar puertas medio abiertas por miedo a que se cierren del todo…
-Durante la primera parte de la semana podrías verte en conflicto en relación a cumplir con las expectativas de los demás o seguir tu propia estrella. Si cierta idea realmente te entusiasma, explórala. Hay momentos en los que no se puede evitar decepcionar a los demás, pero también tendrás futuras oportunidades para hacer las paces con ellos. A medida que Urano retrocede en tu sector de salud, trata de evitar estresarte demasiado. Haz de la relajación tu mayor objetivo esta semana.
+Tienes que esforzarte Virgo, esforzarte para no cagarla de nuevo. Tienes que esforzarte para no enviar mensajes cuando te dan esos impulsos y arrebatos en los que no te controlas, tienes que esforzarte en no perder los papeles cuando algo no sale, tienes que esforzarte en tratar de vivir en el momento y en pasar de malos rollos. Ya está bien Virgo, hazte valer de una vez. Siempre te tratan de buenas persona, que lo eres sí, pero de ahí a que se aprovechen… No. Esta semana hay un gran cambio que llevas esperando mucho tiempo, céntrate en ello, es muy importante que mantengas tu cabecita ahí y que lo externo te deje de afectar. Y que el resto se gane estar a tu lado si realmente quiere, que las palabras se las lleva el viento y a ti, otra cosa no, pero hay mucha fila detrás que quiere engancharte… Nada tiene que ser ahora suficiente para ti Virgo, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. Si de verdad se preocupan por ti, no dejarán que la vida se interponga en el camino, no importará lo ocupadísimos que estén, el tiempo para las cosas que importan se saca. Así que, esta vez, estate tranquilo Virgo, sin remordimiento de ningún tipo, y espera a que el resto te busque…
+Amables y amorosas influencias hacen de esta una semana alegre caracterizada por el buen humor y la camaradería en general. Aun así, ocuparás tu tiempo con tareas administrativas, reuniones y otras responsabilidades. Las cosas se aceleran considerablemente el Jueves con Mercurio tornándose directo, significando que ahora puedes empezar cualquier proyecto que había caído en el olvido. Por último, tus finanzas compartidas son puestas de nuevo bajo enfoque con Saturno regresando a Escorpión. Manejar tu dinero con cuidado puede ayudarte a ahorrar un poco para el futuro.
 
 ## Dinero
 
-Te enfrentas a un periodo en el que tendrás que frenar el gasto para poder pagar una deuda vieja. Algo con lo que pensaste que habías lidiado en el pasado, de hecho, puede que no haya sido pagado. Puede que los intereses hayan aumentado, por lo que es imperativo que pongas manos a la obra con un plan de pago con el que puedas vivir con el fin de hacerle frente al problema por última vez. Vas a descansar más fácilmente si lo haces.
+Esta semana tienes la base sobre la cual construir una seguridad adicional. La actividad en tu sector de  deuda hace que sea más fácil pagar las tarjetas y líneas de crédito. Eres capaz de ganar más dinero ahora y asignarlo como mejor te parezca.

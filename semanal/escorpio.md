@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 08 de abril 2024 al 14 de abril 2024 
-description: Horóscopo semanal escorpio 08 de abril 2024 al 14 de abril 2024. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Escorpio.
+title: escorpio 15 de abril 2024 al 21 de abril 2024 
+description: Horóscopo semanal escorpio 15 de abril 2024 al 21 de abril 2024. Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no Escorpio. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2024-04-08
+ogimg: /images/zodiac/semanal_escorpio.png#2024-04-15
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-04-08'
+ lastmod: '2024-04-15'
 ---
 
 
 
-## No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Escorpio.
+## Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no Escorpio. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
 
-Los finales no significan que hayas fallado en algo Escorpio, los finales a veces sirven para abrir nuevas puertas a algo. Escorpio, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierda, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces. Pero a veces parece que no llega, y mientras tanto, malgastas tu tiempo, malgastas momentos de tu vida en pelear por y para nada, para no conseguir lo que de verdad sabes que te mereces… No tienes que cambiar de vida, no tienes que encontrar un nuevo lugar, con nuevas amistades, con nuevas personas que aviven tu fuego… Es mucho lo que te rodea que es bueno pero sí es necesario restaurar o abandonar esas cosas que ya están rotas y que a veces cobran mucha más importancia que todo lo bonito y bello que está a tu alrededor. Quizás te de tristeza pero estás aprendiendo a aceptar los finales como algo que en su día fue bueno en vez de sentirlo como un fracaso… Las cosas no están destinadas para durar toda la vida, algunas cosas sólo nos enseñan lecciones y después se marchan, algunos finales son necesarios. Aprende a despedirte, aprende a dejar un espacio en tu vida para lo mejor y los mejores. Para lo correcto. El final a veces es libertad y esperanza Escorpio…
-Las relaciones podrían volverse el centro de atención en las siguientes cuatro semanas, a medida tu planeta regente entra a Acuario el jueves. Cuando se trata de un nuevo romance, las cosas podrían no salir tan bien como esperabas. Pero no lo tomes como una señal de que no está destinado a ser. Puede que solo se trate de pequeños problemas. De hecho, la pasión podría dar resultados interesantes a medida que se acerca el fin de semana. ¿Ya estás en una relación? Trabajar en equipo para superar un desafío puede fortalecer el vínculo.
+Muchos te llaman ingenuo, te dicen que eres demasiado idealista, que la felicidad no existe como tú crees y que al final, lo que pasará, es que te darás de bruces contra el suelo. 
+Tu no quieres vivir como el resto del mundo, levantarte, ir al trabajo, volver a casa, y así día tras día…
+¿Has estado considerando invitar a una persona especial a una cita? El lunes podría ser el día indicado para hacerlo. Con Mercurio en Libra, encantadoras conversaciones podrían allanar el camino para futuras salidas. Sin embargo, puede ser que tengas más cautela a la hora de involucrarte, prefiriendo tomarte las cosas con calma en lugar de saltar a la relación de inmediato. Tu vida hogareña y familiar parece bastante emocionante con la alineación actual invitándote a comenzar ambiciosos proyectos.
 
 ## Dinero
 
-El Universo lleva tu vida monetaria a un delicado equilibrio. Tus ideas creativas y enfoques son admirables ahora, y directamente afectarán a tu sector de viajes, aprendizaje y metafísica. Si sientes que necesitas aumentar tu educación, no dudes en gastar dinero en una clase o seminario. Todo esto es para el mejoramiento de tu futuro, y dará sus frutos monetarios en poco tiempo.
+Esta semana te enfrentas un momento de aumento de energía cuando se trata de auto-expresión. Alguien en tu lugar de trabajo tiene celos de ti y no puede ser capaz de manejar tu naturaleza poderosa. No importa. Te estás exponiendo hacia el mundo, lo cuál sólo puede ser positivo. Di tu verdad. Aparentemente estás destinado/a a mostrar tu profundidad y madurez, aunque otros necesiten oírlo.

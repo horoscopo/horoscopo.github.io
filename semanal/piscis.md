@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 08 de abril 2024 al 14 de abril 2024 
-description: Horóscopo semanal piscis 08 de abril 2024 al 14 de abril 2024. Llega una buena semana Piscis, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
+title: piscis 15 de abril 2024 al 21 de abril 2024 
+description: Horóscopo semanal piscis 15 de abril 2024 al 21 de abril 2024. Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2024-04-08
+ogimg: /images/zodiac/semanal_piscis.png#2024-04-15
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-04-08'
+ lastmod: '2024-04-15'
 ---
 
 
 
-## Llega una buena semana Piscis, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
+## Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
 
-A veces te confundes Piscis, y este es uno de esos momentos. No es que no sepas lo que quieres, es que no sabes realmente si es lo que más te conviene, si es en realidad lo que debes hacer. Es algo así como sentirte perdido, tienes en tu cabeza muchas ideas por hacer, muchas situaciones que crear, pero no puedes averiguar cómo hacerlas, cómo sacarlas adelante. Frena un momento, no corras antes de andar. Admite que no todo va tan bien como tú creías, admite que quizás te equivocaste a la hora de tomar algunas decisiones que te han llevado a estar donde estás, encuentra el por qué de eso Piscis. Y cuando lo veas, comprende que debes dejar ir, tómate un momento, respira profundamente y empieza a curarte de verdad. Piscis, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más. Si lo estás viendo venir no dejes que entre, no des oportunidad a lo que sabes de sobra que saldrá mal. Tómate esta semana por y para ti, de verdad que necesitas un descanso, un respiro, salir de esa zona de mala vibra y despejarte. Puedes con todo Piscis, está claro, pero, ¿merece la pena pelear por ello? Piensa fríamente, y no te dejes guiar por la pasión, utiliza esta vez la cabeza.
-La Luna Nueva de lunes podría iniciar una revolución en tu sector financiero, animándote a administrar tu dinero de manera más eficiente. Durante el resto de la semana, las conversaciones y las oportunidades que se pongan en tu camino podrían abrirte puertas que te ayuden a ganar más. El potencial para aumentar tus ingresos sin duda está presente. Sólo tienes que estar alerta para aprovecharlo mientras puedas. Si tienes disposición a invertir un poco más de esfuerzo, podrías obtener grandes resultados.
+Abre los ojos de una vez Piscis. Te preocupas demasiado, pero te preocupas por todo, por todos. A veces incluso por cosas irreales, por cosas que no han pasado aún… A veces tienes tanta desconfianza en todo que sólo piensas en adelantarte a las circunstancias. Pero al final esa desconfianza se va y perdonas Piscis, siempre encuentras la forma de perdonar, has vivido la mitad de tu vida poniendo a los demás antes que a ti mismo, y te han hecho daño, te han fallado, te han demostrado que no eres una prioridad. Y eso duele mucho… Pero Piscis, tú no puedes cambiar, tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias tu corazón vale oro, y tú también Piscis. Pero sigue protegiéndote a ti mismo, y esta semana mucho más. No es que no seas hábil y astuto para no ver las cosas venir pero a veces te ciegas mucho, incluso aunque sea destructivo y tóxico para ti. Necesitas entender muchas cosas, necesitas cuidar mejor de tu corazón, no hace falta que cambies pero da oportunidades a las personas adecuadas, y hazte valer, y comprende que está bien perdonar a las personas, pero no está bien dejar que te hagan daño, una y otra vez. Piscis por favor, te tenían que tener en un altar… Y lo sabes…
+Si estás pensando en hacer un viaje, la actividad lunar te puede incentivar a que lo intentes. Si has estado con varias tareas y quehaceres o algunos aspectos de tu vida han sido intensos en el último tiempo, escaparte de todo tal vez parezca la forma perfecta de relajarte y sentirte bien. Hay un enfoque en el cambio y la transformación que podría ayudarte a soltar situaciones que ya no te sirven. Sin embargo, ciertas amistades pueden no estar de acuerdo con eso.
 
 ## Dinero
 
-Esta semana, los aspectos afectan tu sector de instituciones, vidas pasadas, y karma. Lo que pones en tu trabajo y dinero es lo que recibes, dice el Universo. Si te has negado a planificar para la jubilación o el ahorro en general, esta es la semana para escuchar a tu intuición y poner manos a la obra.
+Esta semana recibirás un mensaje diciéndote que es tiempo de darle seriedad a tu carrera y a algunas figuras importantes en tu vida. Si estás tratando de salir adelante, puede que sea mejor que tomes una pausa de unos meses, prepararte para asumir una nueva posición, y así lograr un cambio. Aunque usualmente estás listo/a para la acción, tendrás que esperar un poco ésta vez.
