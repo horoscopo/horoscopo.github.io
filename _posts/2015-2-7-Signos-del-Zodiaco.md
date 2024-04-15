@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 14 de abril 2024
-description: Horóscopos del dia de hoy 14 de abril 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 15 de abril 2024
+description: Horóscopos del dia de hoy 15 de abril 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2024-04-14
+ lastmod: 2024-04-15
 ---
-¡Mantén la calma! La cuadratura entre la Luna y Plutón de esta mañana puede elevarse a alturas vertiginosas como un tornado - temporal - de emociones. La calma vuelve después y las intenciones románticas decisivas iluminan vidas conforme Venus se acomoda en Libra. Las parejas se sienten particularmente apreciadas porque, después de todo, la Luna también se encuentra en Libra esta noche.
+La Luna cuadrando a Plutón presuriza el día con complicados problemas emocionales. Mantente fuera de las batallas y trabaja en conjunto con la gente si sientes que tu estado de ánimo está a punto de salirse de control. La Luna, Urano y Júpiter retrógrado le añaden un nervioso toque a la noche. Solteros, manténganse alerta a un grupo de bromistas y malhechores.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
