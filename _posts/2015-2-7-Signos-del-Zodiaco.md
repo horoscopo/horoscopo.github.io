@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 17 de abril 2024
-description: Horóscopos del dia de hoy 17 de abril 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 18 de abril 2024
+description: Horóscopos del dia de hoy 18 de abril 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2024-04-17
+ lastmod: 2024-04-18
 ---
-A veces, una pregunta puede permanecer sin ser contestada por años y luego regresa a tu mente en forma de un flash como lo hace hoy. Este tipo de experiencia le tranquiliza a uno la mente. Más tarde, un pequeño misterio es resulto. La gente va más allá de las trivialidades, las conversaciones vacías y las relaciones casuales bajo la entrada de la Luna a Escorpión a altas horas de la noche.  
+Hoy, los sentidos son agudos de manera decidida y responsable bajo la Luna en Capricornio. Por la tarde, el trígono con Venus añade toques de luz y dulzura. Esta noche, los halagos no le consiguen nada a uno más que problemas cuando el Sol y la Luna están un poco en desacuerdo y la gente simplemente no está de humor.  
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
