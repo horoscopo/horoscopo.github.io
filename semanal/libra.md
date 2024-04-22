@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: libra 15 de abril 2024 al 21 de abril 2024 
-description: Horóscopo semanal libra 15 de abril 2024 al 21 de abril 2024. Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+title: libra 22 de abril 2024 al 28 de abril 2024 
+description: Horóscopo semanal libra 22 de abril 2024 al 28 de abril 2024. A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2024-04-15
+ogimg: /images/zodiac/semanal_libra.png#2024-04-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-04-15'
+ lastmod: '2024-04-22'
 ---
 
 
 
-## Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+## A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos.
 
-Nadie se cura por herir a otro Libra. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que, a menudo pesa más de la cuenta, pero todo pasa, y todo llega. A muchos se les hace complicado entender por qué le das tantas vueltas a todo, por qué sufres momentos de ansiedad que parecen no calmarse con nada, por qué puedes llegar a ser tan autodestructivo con tus propios pensamientos… No olvidas nada, ese es el problema a veces, y también la virtud en otros momentos. Y es duro para el resto sí, pero más duro es para ti. Tienes que canalizar todo eso y llevarlo hacia lo productivo, mandar toda esa energía hacia lo que te hace feliz. Las traiciones están ahí, y no todo el mundo es como tú, no todo el mundo valora la sinceridad como tú lo haces, no todos tienen tu coraje… Debes aprenderlo para no caer en los mismos errores una y otra vez, y sobretodo para no hacerte daño.
-La primera parte de la semana podía verte con una actitud práctica y realista con respecto a un proyecto y beneficiarte a causa de ello. Sin embargo, ciertas partes de la semana podrían resultar problemáticas si no te dispones a hacer concesiones. Mientras que por lo general eres el tacto y la discreción personificadas, puede que desees fortalecer tu posición al hacerle saber a alguien que no dejarás que se aproveche de ti. Todo esto es por buena razón. Es posible que encuentres esta actitud tan liberadora que decidas mantenerla.
+A veces parece que no progresas, y te estancas, y te lamentas, y te das por vencido/a… Pero no, lo que pasa es que las cosas van más lentas de lo que queremos. Y todo lo que des hoy te va a repercutir en el futuro, aunque ahora parezca que no funciona del todo. ¿Estás en el lugar correcto Libra? Seguro que sí, siempre has sido listo/a como para saber lo que haces… No hace falta que ahora pruebes otras cosas, lo que tienes que hacer es enfocarte en las que tienes, y tratar de hacer todo bien. La constancia es la clave del éxito Libra. No te pierdas ahora por otras sendas, de verdad, vas bien encaminado ahora pero échale ganas y sobretodo no te rindas. Y tampoco dejes que la influencia del resto tenga poder sobre ti, ni mucho ni poco, NADA.
+Con los planetas acumulándose en un sector más aislado de tu carta, ésta es una buena oportunidad para tomarte algo de tiempo para reflexionar sobre la vida. Asimismo, la actividad Solar de esta semana en este mismo sector podría animarte a analizar lo que sea que parezca estar llegando a su fin por sí solo. Esto podría aplicarse a proyectos, objetivos, circunstancias y relaciones. Por último, asegúrate de leer bien las clausulas, las condiciones y ten en cuenta cada detalle si estás cerrando un acuerdo al final de la semana.
 
 ## Dinero
 
-Tienes luz verde para escribir esas cartas, enviar esos paquetes, y en general lanzar una ofensiva en cuanto a comunicación empresarial se refiere. Si quieres ganar más dinero, cambiar de profesión, o hacerles saber a los demás que tienes una nueva habilidad que ofrecer, hazlo. Tienes todo el apoyo que puedes desear del Universo para captar la atención de los demás. Pon tu mejor pie por adelante.
+Ciertos aspectos indican una época de restricción y limitación a la hora de expresarse. Puede que te sientas incapaz de compartir todas las fascinantes partes de tu personalidad ahora, pero el Universo te está pidiendo que tomes medidas drásticas temporalmente para lograr algo. El hacerse el payaso de la fiesta o el que complace a todos ya no servirá. Sólo una actitud confidente y profesional te dará el dinero que deseas. Profesión es la razón para seguir adelante.

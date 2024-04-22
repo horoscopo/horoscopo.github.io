@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: tauro 15 de abril 2024 al 21 de abril 2024 
-description: Horóscopo semanal tauro 15 de abril 2024 al 21 de abril 2024. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
+title: tauro 22 de abril 2024 al 28 de abril 2024 
+description: Horóscopo semanal tauro 22 de abril 2024 al 28 de abril 2024. Toma decisiones YA, AQUÍ y AHORA Tauro. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2024-04-15
+ogimg: /images/zodiac/semanal_tauro.png#2024-04-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-04-15'
+ lastmod: '2024-04-22'
 ---
 
 
 
-## No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
+## Toma decisiones YA, AQUÍ y AHORA Tauro. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
 
-A veces las cosas tienen que ser a tu manera o a ninguna Tauro, está claro, pero no esta semana. Trata de acercar opiniones con la gente que de verdad te importa. Estos días tienes que experimentar a toda costa. Déjate de tonterías y haz lo que siempre has querido hacer, lleva a cabo tus ideas y tus deseos de una vez, haz cosas que nunca has hecho pero que estás deseando probar, vive una vida de la que nunca tengas nada que lamentar, que nunca te deje con las ganas de nada Tauro. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo pero no te pongas nervioso cuando el resto no entienda tus ambiciones, cuando no comprendan lo lejos que quieres volar. No todo el mundo lo entiende pero no por eso debes quedarte donde estás. No es tarde para hacer las cosas bien, no es tarde para tomar decisiones, no es tarde para cambiar el camino hacia otro lugar. Pero hazlo antes de que sea tarde. Hazlo ahora que estás a tope.
-El enfoque de esta semana sigue siendo en diversión conforme el Sol y Mercurio entran a tu sector de recreación. Esta tendencia, que continuará por unas semanas, te motiva para explorar tus habilidades creativas. Esta puede ser una buena oportunidad para exhibir esas habilidades ante personas a las que les interesa lo que haces. Puede que sientas más vitalidad, energía y confianza. Esto resulta ideal si estás en busca de amor o quieres volver a encender la llama en tu relación actual.
+Tienes mucha energía esta semana y vas a tener unos altibajos demasiado fuertes así que, intenta canalizarla como sea y enfócate en la dirección correcta. Si toda esa fuerza que tienes la proyectas en algo que te hace daño eso mismo que te hace daño se multiplicará por tres. 
+Cuando te sientas mal, tira de memoria Tauro y acuérdate de que las historias se repiten, y con las mismas personas la gran mayoría de las veces.
+Un conflicto entre guardarte un secreto o permitir que todos se enteren de él podría surgir el martes. El enfoque en tu sector de comunicación sugiere que podría haber una manera de ceder para que puedas guardarte parte de la información si se sientes que sería lo más fácil. La inagotable energía de esta semana podría verte en busca de algo nuevo y estableciendo contactos laborales. Tu vida social podría conectarte con fascinantes personas al final de la semana.
 
 ## Dinero
 
-Si has estado buscando un nuevo trabajo, es un excelente momento para desempolvar ese currículum y empezar a aplicar. Si has estado inquiriendo una promoción, o simplemente un mejor paquete de beneficios por parte de tu empleador actual, crea un documento que contenga una enumeración de los beneficios que le has proporcionado a la empresa. Luego, pide una reunión o asiste a esa entrevista. Es un buen momento para mostrar tu personalidad.
+Estás conectando con los demás de una manera importante con respecto a vida laboral y dinero ahora. Con actividad en tu sector de grupo, política y trabajo por cuenta propia, puedes estar pensando en cómo aumentar tus ingresos con un negocio secundario o hacer la transición de una carrera a otra. El Universo expande tus oportunidades, así que mantén los ojos abiertos. Vas a tener un repentino destello de intuición cuando veas pasar el signo de dinero oculto en la obra.

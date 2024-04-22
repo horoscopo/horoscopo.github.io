@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 15 de abril 2024 al 21 de abril 2024 
-description: Horóscopo semanal geminis 15 de abril 2024 al 21 de abril 2024. No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
+title: geminis 22 de abril 2024 al 28 de abril 2024 
+description: Horóscopo semanal geminis 22 de abril 2024 al 28 de abril 2024. Tienes un potencial enorme para hacer cualquier cosa que quieras hacer y sobretodo, para hacerla grande, que haga ruido sabes, pero debes concentrarte en ello. A veces, para ser feliz hay que aprender a ignorar muchas cosas y a mucha gente…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2024-04-15
+ogimg: /images/zodiac/semanal_geminis.png#2024-04-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-04-15'
+ lastmod: '2024-04-22'
 ---
 
 
 
-## No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
+## Tienes un potencial enorme para hacer cualquier cosa que quieras hacer y sobretodo, para hacerla grande, que haga ruido sabes, pero debes concentrarte en ello. A veces, para ser feliz hay que aprender a ignorar muchas cosas y a mucha gente…
 
-No puedes poner piezas en lugares que no corresponden Géminis, no puedes forzar situaciones ni tratar de encajar algo cuando es imposible que encaje. Todo tiene un por qué, una razón, un lugar y un momento y pasará en el momento que tenga que pasar. Olvida un poco todo Géminis, no des tanta importancia a cosas que no la tienen y ya verás como todo se vuelve a colocar en su lugar. No siempre será el lugar que tú esperes pero sí que será en el que deba. Es triste pero cuando más ignoras, más detrás de ti parecen estar y cuando más cuidas y más proteges más se alejan. Pues eso Géminis, ignora un poco. Quizás más de uno debería despertar y entender que no estarás siempre ahí. Mantente siempre fuerte Géminis, siempre sonriendo, siempre adelante, a pesar de que haya gente que quiera joderte la vida. Y desconfía hasta que las cosas no se demuestren con hechos, desconfía hasta que de verdad se partan el lomo por demostrártelo. Dentro de muy poco comprenderás quién merece la pena y quien no, pero debes darte un tiempo, y empezar a centrarte en ti mismo. No desperdicies el tiempo en cosas que no te dejan nada de provecho Géminis, porque no merece la pena, y los pensamientos malos… ¡fuera! Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierda!
-Tu lado coqueto sale a relucir con Marte entrando a tu sector de placer esta semana. ¿Ansias de salir a citas? Estarás en tu elemento y tendrás ganas de saltarle a una oportunidad romántica de oro. ¿Ya tienes pareja? Es hora de volver a encender la llama de la pasión disfrutando de un breve descanso juntos con la oportunidad de celebrar su amor mutuo. La actividad lunar del Domingo en tu sector hogareño hace de este un excelente momento para empezar a remodelar o trabajar en un proyecto hogareño.
+No es que estés cambiando Géminis, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo, prefieres, digamos, no arriesgar. La gente a menudo es muy egoísta, y cree que porque tengas una actitud diferente, eres tú quien está fallando, y no. El problema es que no eres estúpido/a y que si estás cambiando es porque ya has recorrido el mismo camino varias veces y sabes que en el fondo, y en estos momentos ya no te llevará a ningún sitio. A lo largo de tu vida has perdonado cosas que sabes que a ti jamás te perdonarían y por eso, te has sentido impotente muchas veces, porque en el fondo, y en tu interior, eso es fallarte a ti mismo/a, por eso estás cambiando o lo estás intentando hacer a muerte, porque no es algo bueno para ti, ni más ni menos. Los que te quieran y estén a tu lado deben entenderlo, y los que te tachen de egoísta sabes que no están mirando por tu bien si no por lo que les interesa a ellos… Esta semana te vas a sentir más fuerte que nunca, aunque lo hagas solo/a, te vas a sentir libre, vas a sentir que puedes con todo. Te lo has prometido a ti mismo/a…
+Si bien una parte de ti puede sentir que debes rebelarte contra la autoridad, el panorama estelar sugiere que trabajar con estas personas sería igual de sencillo. El sol en Tauro se dirige al apasionado Plutón el martes, lo que podría coincidir con una diferencia de opinión con uno de tus superiores. Sin embargo, una positiva conexión entre el despreocupado Venus y el vital Marte podría ayudarte a ver los beneficios de la cooperación (que pueden ser muchos). 
+ El dulce Venus y el fogoso Marte se dirigen al nebuloso Neptuno, de modo que podría ser más fácil pensar en las cosas que hacerlas. Presta atención a esto. El sábado, una positiva conexión entre el animado Júpiter y el intenso Plutón podría ser muy fructífera si te animas a revisar y actuar en torno a una idea. Por último, el conversador Mercurio se vuelve directo el domingo y, debido a que la encantadora luna llena que está en tu signo es señal de un nuevo comienzo, las cosas irán viento en popa.
 
 ## Dinero
 
-Tienes un montón de actividad astrológica rodeando tu sector de dinero esta semana. Los aspectos en tu sector de relaciones liman asperezas entre tus energías masculinas y femeninas. Presta más atención a lo que estás gastando en tu hogar. Puede ser más de lo que piensas.
+Es posible  que esta semana desees hacer algunas mejoras en el hogar o incluso entrar en el mercado de bienes raíces. Antes de convertirte en agente profesional de bienes raíces, pesa los pros y los contras de este tipo de inversiones. Querer hacer valer tu voluntad podría darte demasiada confianza en lo que respecta a la negociación. Asegúrate de tener todos los hechos, aunque se necesita tiempo para investigar posibles compras.

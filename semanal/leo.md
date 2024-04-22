@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 15 de abril 2024 al 21 de abril 2024 
-description: Horóscopo semanal leo 15 de abril 2024 al 21 de abril 2024. Estás a tope Leo, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
+title: leo 22 de abril 2024 al 28 de abril 2024 
+description: Horóscopo semanal leo 22 de abril 2024 al 28 de abril 2024. Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2024-04-15
+ogimg: /images/zodiac/semanal_leo.png#2024-04-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-04-15'
+ lastmod: '2024-04-22'
 ---
 
 
 
-## Estás a tope Leo, no decaigas ahora, no es el momento para darle el gusto a los demás. Demuéstrate a ti mismo que puedes con cualquier cosa solo, que no necesitas de nada ni de nadie, que sintiéndote tú bien, mueves el mundo entero. 
+## Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. 
 
-Eres más resistente que nunca, tienes más poder sobre ti mismo y has sobrevivido. Incluso cuando pensabas que no volverías a sonreír de nuevo, lo has hecho. Incluso cuando las peores circunstancias te estaban dejando sin fuerzas, le echaste valor y saliste adelante.
-Podrías recibir buenas noticias con respecto a asuntos legales, editoriales, o de educación. Puede que también se te invite a visitar amistades que viven lejos o recibas una visita de alguien que no has visto en mucho tiempo. Poner tu hogar en óptimas condiciones podría ser una de tus principales prioridades. Esta puede ser una oportunidad de oro en cuanto a eliminar el desorden y crear más espacio para actividades creativas. Reorganizar tu hogar podría traerte una mayor tranquilidad y extra vitalidad. Además, el Sol entrando a Tauro aumenta la posibilidad de romance.
+No sueles dar la llave de tu corazón a nadie Leo, pero si hay personas que la tienen, y de hecho esas personas son las únicas que pueden desbloquearlo, que pueden ver el fondo de lo que hay, tu esencia, tu alma. Pero esta semana vas a cambiar la cerradura, porque te apetece, porque ahora quieres estar seguro de a quien se la quieres dar, porque quieres empezar de cero muchas cosas. Y no cambiará tu esencia Leo, porque la esencia es la misma, lo que cambiará será el poder que vas a tener, el poder que van a tener otros sobre ti. Esta semana preocúpate de hacer las cosas bien. Hay mucha responsabilidad y mucho en juego. Vas a sentirte bien por las decisiones que vas a tomar, vas a sentir que vuelves a tomar el timón de tu vida como antes. No te preocupes porque algo no salga, te esperan cosas mejores. No te pongas nervioso cuando te digan que no puedes, que no tienes el valor suficiente o la capacidad para hacerlo. Puedes con todo, y a aunque tengas que ir en contra de todo, si has tomado la decisión, que sea hasta el final. Vas a tener que volverte invisible para algunas personas si de verdad quieres ir hacia delante. Feliz semana Leo.
+Tal vez te ayudaría aligerar tu agenda, ya que una potente mezcla de fuerzas celestiales podría disminuir tu vitalidad. El actual escenario podría llevarte en diferentes direcciones y exponerte a eventos que ocurran de la nada. Para poder lidiar con ellos, es mejor eliminar las actividades innecesarias. Al mismo tiempo, tal vez debas rechazar algunas invitaciones, en especial si necesitas tiempo a solas y un momento para pensar. ¡Pero el fin de semana debería ser entretenido!
 
 ## Dinero
 
-Tienes la posibilidad de recibir mucho apoyo por parte de viajes al extranjero, aprender un nuevo idioma, o asistir a una clase o un seminario para reforzar tu educación. Cualquier cosa que puedas hacer para que tu conjunto de habilidades sea más formidable ayudará ahora, especialmente cuando se trata de pedir más dinero. Mientras tanto, analizando el área de tu carta relacionada con tu trabajo, ¿será que es hora de cambiar de profesión?
+Es una época agitada para ti. Tanto está pasando a tu alrededor, tus jefes te quieren promover por lo cuál te mantienen muy ocupado/a y encuentras muy poco tiempo para tu persona. Esto es sólo temporal. Los aspectos armónicos te mueven a la posición de autoridad a la que estás destinado/a a ocupar. ¡Disfrútala!
