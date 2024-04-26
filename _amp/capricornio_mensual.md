@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Capricornio Abril 2024 
+title: Horoscopo Capricornio Mayo 2024 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Capricornio_mes.png#2024-03-26
+ogimg: /images/mes/Capricornio_mes.png#2024-04-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-03-26'
+ lastmod: '2024-04-26'
 ---
 
 

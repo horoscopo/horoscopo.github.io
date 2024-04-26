@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Acuario Abril 2024 
+title: Horoscopo Acuario Mayo 2024 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Acuario_mes.png#2024-03-26
+ogimg: /images/mes/Acuario_mes.png#2024-04-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-03-26'
+ lastmod: '2024-04-26'
 ---
 
 

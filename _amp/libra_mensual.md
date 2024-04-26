@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Libra Abril 2024 
+title: Horoscopo Libra Mayo 2024 
 permalink: /horoscopo-mensual/amp/libra/
 normallink: /horoscopo-mensual/libra/
 home: FALSE
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/Libra_mes.png#2024-03-26
+ogimg: /images/mes/Libra_mes.png#2024-04-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-03-26'
+ lastmod: '2024-04-26'
 ---
 
 
