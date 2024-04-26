@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Aries Abril 2024 
+title: Horoscopo Aries Mayo 2024 
 permalink: /horoscopo-mensual/amp/aries/
 normallink: /horoscopo-mensual/aries/
 home: FALSE
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/Aries_mes.png#2024-03-26
+ogimg: /images/mes/Aries_mes.png#2024-04-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-03-26'
+ lastmod: '2024-04-26'
 ---
 
 
