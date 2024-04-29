@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 22 de abril 2024 al 28 de abril 2024 
-description: Horóscopo semanal escorpio 22 de abril 2024 al 28 de abril 2024. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
+title: escorpio 29 de abril 2024 al 05 de mayo 2024 
+description: Horóscopo semanal escorpio 29 de abril 2024 al 05 de mayo 2024. Llega una semana bonita Escorpio, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención Escorpio, y seguramente la persona que menos te esperabas…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2024-04-22
+ogimg: /images/zodiac/semanal_escorpio.png#2024-04-29
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-04-22'
+ lastmod: '2024-04-29'
 ---
 
 
 
-## Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? 
+## Llega una semana bonita Escorpio, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención Escorpio, y seguramente la persona que menos te esperabas…
 
-Te estás dando cuenta de quien sí y quien no Escorpio. Y además bien rapidito. Ya no te apetece pasar ni una más por alto, ya no te apetece tener que sonreír si no te apetece sonreír. Es cierto que te adaptas a todo Escorpio pero ahora sí te vas a alejar de lo que no te hace ni put* gracia y aquí se incluyen momentos, personas y situaciones. Esta semana estás a tope Escorpio, no te apetece anclarte en ningún sitio, no te apetece sentarte a ver la vida pasar. Nada de eso, quieres sol, quieres que el aire te de en la cara y salir a pasar el rato con amigos, socializarte y divertirte sin tener que pensar en nada más. Amplía tu mente Escorpio, amplía tu mente y tómate una temporada sabática, aunque sean unos días o unas semanas. Haz lo que tengas que hacer pero hazlo con calma, y apaga el teléfono por favor. Si en realidad quieres tomarte un tiempo por y para ti no puedes estar ahí todo el día enganchado a todo. Esta semana tienes que cargar pilas, y debes cargarlas pasando tiempo con las personas que quieres y dejando un poco a un lado algunas obligaciones y responsabilidades. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Escorpio, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
-La Luna llena de hoy podría darte la oportunidad de explorar una idea para un negocio o un plan financiero, especialmente si esto sugiere un nuevo comienzo. Esto te vendría bien, ya que la idea de darle la vuelta a la hoja es algo que podría atraete mucho en este momento. Solo debes dar los primeros pasos pronto y poner el plan en marcha. En los últimos días de la semana, una idea que tiene un gran significado para ti podría convertirse en tu prioridad más importante de una manera impresionante.
+No te calientes Escorpio, sal de todo lo que te cause malestar, respira aire fresco y vuelve a tu sitio. La gente no te conoce, está claro. Te estás tragando muchas cosas por tener un poco de educación pero el día menos pensado todo va a estallar como una bomba. Y se van a quedar en shock seguro. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces. Sabes lo que te ha traído el no callarte… Pero no Escorpio, tienes que marcar tu terreno como sea, tienes que hacerte valer y que dejar claro cual es tu territorio, cual es tu línea, cuales son tus límites. Hay personas que creen que pueden sobrepasarlos, y lo piensan porque no han visto tu peor lado. Esta semana como sigan así va a arder Troya. Y sí, tienes todo el derecho a hacerlo. A ti no te chista nadie, a ti no te vacila nadie, a ti no te manda nadie. Y si sienta mal que siente mal. No es tu problema. Pero como consejo, en vez de estallar una sola vez, hazlo poquito a poco, no te calles nada nunca más. Por tu bien Escorpio, porque después quedas tu como loco/a y eso no… Tú no eres ningún loco/a, pero tampoco eres imbécil. De eso nada.
+Si alguna vez has pensado en contratar a un entrenador personal, este podría ser el momento ideal para hacerlo. Marte en tu sector de salud y estilo de vida podría animarte a ponerte en forma y tonificar tu cuerpo. Esta es una gran oportunidad para perder unas cuantas libras y sentirte mejor como resultado. Tus relaciones se vislumbran floreciendo con Júpiter en Virgo durante aproximadamente un año. Este aspecto podría traerle cambios positivos a tu estado civil, tal vez ayudándote a encontrar a tu alma gemela si es que andas en busca de amor.
 
 ## Dinero
 
-Esta semana te está pidiendo el centrarte más en tu carrera. Sueles ser bastante tradicional y conservador/a por naturaleza, pero ahora es posible que te hayas olvidado de tales cualidades, aunque sólo un rato. Si dejas que los demás sepan cuáles son tus metas, incluyendo la posición y el sueldo que quisieras, podrías ser sorprendido/a con lo dispuestos que tus patrones estarían para cumplirlo. Sólo sé extremadamente claro/a.
+Te enfrentas a un período de diversión que afecta tanto a niños como familia. Si actualmente te involucras en estas áreas, puede que te percates de que le puedes vender tus productos y servicios a un público muy dispuesto. Si no, piensa en cómo puedes crear productos que atraigan a una variedad de personas en todo el mundo. A medida que usas tus talentos para crear fuentes de ingresos para toda la vida, el siguiente paso es la prosperidad.
