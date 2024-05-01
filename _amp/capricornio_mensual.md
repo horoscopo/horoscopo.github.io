@@ -7,12 +7,17 @@ home: FALSE
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Capricornio_mes.png#2024-04-26
+ogimg: /images/mes/Capricornio_mes.png#2024-05-01
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-04-26'
+ lastmod: '2024-05-01'
 ---
 
 
-El 7 de abril podría ser un día romántico, lleno de coqueteo, sorpresas y malentendidos. Urano se torna estacionario retrógrado, Venus y Marte forman un trígono, y la luna ingresa a Cáncer. El día siguiente puede ser más agradable si no piensas demasiado las cosas. El sol forma una conjunción con Mercurio retrógrado, lo que resalta la intuición y pistas psíquicas. La luna en Cáncer forma un trígono con Júpiter, y luego un trígono con Neptuno. ¡Dulces sueños! La luna nueva del día 8 podría iluminar un asunto financiero y traerte algo valioso. Podría haber algunos mensajes contradictorios, pero al final deberías recibir buenas noticias. Mercurio se torna directo el 18 de abril. Tómate tu tiempo para organizarte mejor. El día 23, la luna llena puede darte más espacio y tiempo libre. Haz lo que prefieres hacer en lugar de lo que tu círculo social está promoviendo. No te preocupes; no estarás a solas. Al día siguiente, Marte se torna estacionario directo. La motivación regresa y el progreso se vuelve más fácil. Días destacados: 17, 22, 27Días desafiantes: 8, 16</div>
+Con la Tauro de Libra en pleno apogeo, Capricornio, te entregarás a la idea de pasar más tiempo en tu espacio y mejorarlo mientras el sol y Venus transitan por tu cuarta casa solar. Recargar tus energías en casa será esencial para tu equilibrio personal, aunque también sentirás la necesidad de decorar para Halloween, probar nuevas recetas o cambiar los muebles de lugar. También deberías considerar la posibilidad de incorporar a tu vivienda algunos elementos hogareños de tu infancia, desempolvar viejas chucherías de tu juventud o recrear el diseño de la sala de estar de tu abuela.
+La luna nueva en Aries del 8 de mayo podría hacerte reflexionar sobre una nueva trayectoria profesional, sobre todo si esperas pasar más tiempo trabajando a distancia o te has aburrido de tu actual ocupación. Lamentablemente, el deseo de empezar de nuevo podría hacer aflorar una tendencia impulsiva, aunque deberías evitar renunciar a tu trabajo por capricho si no tienes un respaldo seguro. Por suerte, este clima cósmico también podría impulsar nuevas oportunidades de liderazgo, aunque tendrás que sentirte a gusto con la idea de tener autoridad sobre los demás.
+Tus talentos naturales comienzan a manifestarse cuando el sol y Venus entran a Géminis el día 21, lo que activa el sector de tu carta natal que rige el arte, el orgullo y la autoexpresión. Date permiso para ser original e intenta no rechazar ninguna idea creativa que surja en tu mente.
+Las buenas vibras siguen fluyendo cuando Júpiter entra nuevamente a Piscis el 27 de mayo, lo que fortalece tu espiritualidad y trae consigo bendiciones kármicas y momentos de iluminación.
+Días destacados: 2, 14, 25
+Días desafiantes: 11, 17, 30

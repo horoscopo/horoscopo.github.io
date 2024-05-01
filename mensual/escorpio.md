@@ -9,16 +9,17 @@ keywords: horóscopo mayo, horoscopos en español, horóscopo Escorpio mayo , ho
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/escorpio_mes.png#2024-04-26
+ogimg: /images/mes/escorpio_mes.png#2024-05-01
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-04-26'
+ lastmod: '2024-05-01'
 ---
 
 
- > Escorpio, la palabra novedad estará muy presente en un mes de abril cargado de situaciones a las que no te habías enfrentado antes. Vas a tener que adaptarte rápido y sacarás lo mejor de ti para hacerlo. Cuando esté acabando el mes estarás muy orgullosa de ti y tu satisfacción se verá reflejada en todo lo que haces.
+ > Escorpio en mayo será una buena oportunidad para valorar más lo que la vida te trae y elegir desechar lo que ya no te hace feliz.
+Recordarás que te mereces tener una vida más abundante, feliz, positiva, plena y alegre, porque ¿sabes que te mereces mucho más, verdad?
 
 
 
-Podías sentir hiperactividad cuando la Luna conjunte a Marte el 6 de abril. Haz algo que sea físicamente más activo o gasta toda esa energía preparándote para la siguiente semana de trabajo. La Luna nueva del 8 de abril emana su brillo directamente en tu mundo del amor y el romance. Una amistad podría expresar el deseo de ser más íntimos, o podrías de repente notar a una gran persona que ha estado cerca de ti todo este tiempo. La Luna Llena del 23 de abril inicia un mes lunar de buenas oportunidades financieras y debilita cualquier viejo hechizo que te haya llevado a gastar de más. Bien sabrás cuándo actuar en relación a algo bueno y cuándo esperar.
+El Sol y Saturno conjuntan el 10 de mayo y esto podría poner a mucha gente nerviosa. No a ti. Alrededor de la Luna Nueva del 8 de mayo, puede que tengas un millón de cosas que te estás muriendo por hacer, pero tu vida social y la época de fiestas siguen interponiéndose. Escoge una cosa y ve si puedes tentar a un amigo para que la haga contigo. La Luna Llena del 23 de mayo puede darte el descanso y el tiempo en privado que deseas y necesitas. Pero eso no significa que no vaya a ser intenso. Lee (o escribe) poesía poderosa, ve una película profundamente emocional y tal vez invita a alguien a que te acompañe a tu morada.

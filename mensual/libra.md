@@ -9,16 +9,16 @@ keywords: horóscopo mayo, horoscopos en español, horóscopo Libra mayo , horó
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/libra_mes.png#2024-04-26
+ogimg: /images/mes/libra_mes.png#2024-05-01
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-04-26'
+ lastmod: '2024-05-01'
 ---
 
 
- > Libra, cuidado con la sensibilidad durante el mes de abril, porque puede jugarte alguna mala pasada con tu pareja. Por otro lado, por fin parece que las cosas ponen en su sitio en la vida a quien se lo merece y por eso vas a disfrutar con ciertas situaciones.
+ > Libra las circunstancias que estás viviendo actualmente harán que, durante el mes de mayo, te replantees relaciones y vínculos, afrontando además nuevos retos que necesitabas para avanzar.
 
 
 
-Tu situación económica será sólida alrededor de la Luna Nueva del 8 de abril, más no  te excedas en tus gastos. Permite que tus amigos sean generosos y te duchen con sorpresas. Hacerlo les hará sentir bien y no dañará sus presupuestos. La vida cotidiana te hará sentir claustrofobia bajo la Luna Llena del 23 de abril. Sabes que el mundo es más grande que eso y desearás hacer más, ver más y escuchar más. Absorbe de la vida tanto como puedas y tal vez haz nuevas amistades también. El 27 de abril es tu día de suerte, sobre todo en el trabajo. Mantén tus expectativas bajas y déjate gratamente recompensar por una obra realizada anteriormente.
+Produce tu mejor y más importante obra detrás de escenas bajo la manifestación de la Luna Nueva del 8 de mayo. La discreción te permite hacer más de lo que quieres hacer con menos interferencias. Visiblemente te ocuparás como habitualmente lo estás, pero lo que hagas más en privado será más importante y satisfactorio. La Luna conjunta a Urano el 15 de mayo, cuando deberías adoptar un enfoque diferente y pensar radicalmente. Bajo la Luna Llena del 23 de mayo, un adorador y nuevo interés amoroso podría aparecer para impresionarte y hacerte saber lo verdaderamente especial que eres muy en el fondo. Alternativamente, tu muy dedicada pareja podría irradiarte gran amor para ayudarte a recordarlo.

@@ -7,17 +7,16 @@ home: FALSE
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Géminis_mes.png#2024-04-26
+ogimg: /images/mes/Géminis_mes.png#2024-05-01
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-04-26'
+ lastmod: '2024-05-01'
 ---
 
 
-Tendrás la oportunidad de unificar tus pensamientos y emociones cuando Mercurio entre en Capricornio el 1 de abril, querido Géminis, poniéndote en contacto con tus sentimientos desde una perspectiva pragmática. Ahora es un buen momento para abordar cuestiones que has estado dejando de lado, especialmente cuando se trata de la familia y de aquellos con los que convives.
-Mientras tanto, Venus entra en Escorpio el día 4, concediéndote permiso para mimarte a medida que nos adentramos en la temporada. Disfruta de las vistas, los sonidos, los olores y los sabores que caracterizan a esta estación, aprovechando al máximo cada momento especial.
-La luna nueva amplifica tu voz el 8 de abril, poniéndote de un humor alegre y extrovertido. Si eres fan de enviar tarjetas en esta época del año, estas vibraciones son perfectas para dirigir sobres y echarlos al correo. Sin embargo, Mercurio se pone retrógrado ese mismo día, lo que podría provocar retrasos en los envíos que esperas, por lo que es importante que hagas los pedidos de regalos cuanto antes. La nostalgia también permanecerá en el aire durante este retroceso planetario, así que asegúrate de dar rienda suelta al niño que llevas dentro.
-La estación de Capricornio emerge el veintiuno, marcando el comienzo oficial del invierno y una época particularmente acogedora para ti. Te sentirás llamado a abrigarte en la comodidad del hogar, creando un espacio lleno de paz y una compañía excepcional. También podrías sentirte más sentimental de lo habitual, pero no te contengas si tienes algo significativo que decir. La luna llena de Tauro del 23 de abril puede ayudarte a restablecer los límites si necesitas un respiro, aunque volverás a buscar la conexión cuando Venus entre en Sagitario el veintinueve.
-Días destacados: 5, 11, 25
-Días desafiantes: 3, 9, 17
+Te sentirás más sensible a la energía colectiva este mes, estimable Géminis, ya que este mes activa el sector de tu carta astral que rige la comunidad. Presta mucha atención a cualquier cambio emocional que pueda invadirte de repente, porque tus habilidades empáticas con seguridad se agudizarán. Quizás quieras monitorear las noticias que consumes, restringiendo cualquier información que pueda causarte pena. Aunque sin lugar a dudas es importante mantenerse al día con la información, buscar formas de marcar la diferencia te ayudará a escapar de la sensación de impotencia o de estar en las garras de un sistema que nunca cambiará.
+Una energía armoniosa te invadirá cuando tu planeta regente entre a tu signo el 16 de mayo. Este clima cósmico también elevará tu aura, bendiciéndote con una abundancia de glamour, encanto y carisma. El universo trabajará horas extra para ayudarte a alcanzar tus metas, permitiéndote manifestar con facilidad. Solo recuerda mostrar gratitud y apreciar lo que has construido hasta este momento. Algunas nuevas miradas podrían voltear en tu dirección durante las próximas semanas, por lo que no debes sorprenderte si se revela un nuevo amor.
+Aunque muchas personas estarán deseosas de conocerte, sentirás una mayor atracción hacia los lazos íntimos y la soledad a partir del momento en que el sol entra a Géminis y a tu doceava casa solar el día 21. Esta energía es perfecta para trabajar tras bambalinas, lo que te permite identificar cualquier hábito u obstáculo que no te deja avanzar mientras encuentras formas de mejorar antes de que llegue tu retorno solar.
+Días destacados: 1, 3, 7
+Días desafiantes: 9, 10, 16
