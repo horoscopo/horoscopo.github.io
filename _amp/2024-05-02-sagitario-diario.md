@@ -1,0 +1,25 @@
+---
+layout: amp
+title: sagitario hoy gratis 02 de mayo del 2024 
+permalink: /horoscopo-diario-gratis/amp/sagitario/
+normallink: /horoscopo-diario-gratis/sagitario/
+home: FALSE
+horoscopo:
+ signo: sagitario
+ video: -DQpmrrAIeU
+ogimg: /images/sagitario_char.png
+sitemap:
+ priority: 1
+ changefreq: 'daily'
+---
+
+
+No te sorprendas si descubres que tu mente va a mil kilómetros por minuto hoy. Probablemente no podrás ir más despacio y tendrás que encontrar un medio u otro para expresar lo que se está pasando por tu cabeza. Hoy los puntos de vista dan mucho crédito a la comunicación. Tal vez hablar sobre lo que escribes o tus ideas con alguien cuya visión valoras funcione. Incluso garabatear puede darte un lugar en el que poner tus pensamientos. Explora estas actividades hoy.
+
+## Amor
+
+La pasión gobierna los cielos hoy, así que si tienes a alguien en mente a quien quieres acercarte, ahora sería un buen momento para hacer un movimiento. Esta persona probablemente tendrá el mismo interés, así que asegúrate de reservar tiempo esta noche para compartir tiempo juntos.
+
+## Trabajo
+
+Sientes que te encuentras bajo mucha presión para demostrarle a alguien que eres digno/a de recibir algo, que te lo mereces. A causa de esta presión tu nivel de estrés aumenta, y es posible que cometas un error. Cálmate y trata de relajarte.
