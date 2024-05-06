@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: libra 29 de abril 2024 al 05 de mayo 2024 
-description: Horóscopo semanal libra 29 de abril 2024 al 05 de mayo 2024. Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
+title: libra 06 de mayo 2024 al 12 de mayo 2024 
+description: Horóscopo semanal libra 06 de mayo 2024 al 12 de mayo 2024. Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2024-04-29
+ogimg: /images/zodiac/semanal_libra.png#2024-05-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-04-29'
+ lastmod: '2024-05-06'
 ---
 
 
 
-## Semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Ya has pasado por lo peor.
+## Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
 
-Siempre estás sonriendo Libra, siempre tratando de olvidar malas experiencias, las personas que te conocen por primera vez incluso se dan cuenta de eso. Tienes una energía contagiosa y llena de alegría, y todo el mundo piensa que eres feliz y que no tienes carencias de ningún tipo incluso cuando esto no es así. Estás bien con lo que tienes Libra pero sabes que te falta mucho por hacer, el problema es que te metes en un bucle y no das el primer paso. Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. Nadie espera que estés jodido por dentro, nadie espera que a ti también te duelan las cosas mucho más de lo que demuestras, y por eso, nadie ayuda. A veces parece que luchas en silencio Libra, que por no liarla te callas, que por no hacer la bola más grande ignoras. El problema es que no dices nada, y para muchos sigues siendo la persona más feliz de la tierra, esa que todo el mundo admira en secreto, tratando de sonreír siempre, tratando de levantarte de cada caída lo más rápido que puedes… Nadie puede ver que no es todo tan bonito, no deberías tragarte tanta mierda cuando lo lógico sería soltarla. Porque estás en tu derecho.
-Puede que haya ciertos aspectos de tu vida diaria en los que te esfuerzas demasiado para lograr algo. Esta tendencia podría hacerte sentir un poco impaciente con un plan o proyecto que parece estar perdiendo fuerza. Para que todo salga bien, el truco es dar un paso atrás y dejarte llevar por la corriente por un tiempo. Si puedes hacerlo, puede que tengas ideas nuevas y creativas que te permiten trabajar para avanzar con satisfacción.
+Quizás deberías dejar de planear todo ahora Libra, dejar un poco el volante sin conductor… A veces, por más que intentemos y hagamos lo mejor posible algo, no sale. Y sin embargo cuando dejamos el timón solo, acabamos donde más queríamos. Luchar por lo que importa está bien Libra, pero luchar por lo que no, sólo es una pérdida de tiempo, una gran pérdida de tiempo. Gastas muchas fuerzas en ello, en tratar de que todo salga tal y como esperabas, pero a veces por más que hagas, tu destino es otro. No te agobies ni te preocupes más de la cuenta ahora. Déjate llevar y no escribas finales para todo. Porque los finales acaban dando un giro y no terminan como creías. No puedes saberlo todo, ni tampoco controlarlo, y cuando lo entiendas quizás llegue la paz que tanto necesitas ahora mismo. Y no trates de apresurar nada porque cuando sea el momento va a suceder…
+El nivel de interacción podría volverse más frecuente e intenso en los días y las semanas que vienen. Con el intenso Marte también entrando a tu sector de relaciones, puede que quieras tomar una actitud proactiva e intentar solucionar los problemas que ya deberían haberse resuelto hace tiempo. Puede que estos asuntos se vuelvan más intensos durante la luna nueva, así que ten cuidado. Evita decir o hacer algo de lo que puedas arrepentirte más adelante. Si tienes dudas, déjalo para otro momento, cuando sientas más seguridad.
 
 ## Dinero
 
-Hay cambios ocurriendo en tu sector de carrera ahora. Ciertas cuestiones laborales son muy importantes para ti, pero trata de no dejar que consuman toda tu energía esta semana. Puede ser simplemente porque la energía se concentra tanto aquí. Pero siempre se puede optar por establecer un equilibrio entre el dinero que se está ganando y los amigos y familiares que te gustaría visitar de vez en cuando.
+Con cierta actividad en tu sector de auto-expresión esta semana, eres libre de manifestar tu propio ser. A veces esto puede significar que otros proyectan lo que quieren ver en ti, así que ten cuidado con personas que puedan no ser conscientes de sus propios problemas. Esto es especialmente importante esta semana. Tu vida hogareña, por no hablar de tu hogar, podría depender de tu capacidad para mantener un flujo de efectivo constante.

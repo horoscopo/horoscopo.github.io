@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 29 de abril 2024 al 05 de mayo 2024 
-description: Horóscopo semanal piscis 29 de abril 2024 al 05 de mayo 2024. Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierd*!
+title: piscis 06 de mayo 2024 al 12 de mayo 2024 
+description: Horóscopo semanal piscis 06 de mayo 2024 al 12 de mayo 2024. Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2024-04-29
+ogimg: /images/zodiac/semanal_piscis.png#2024-05-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-04-29'
+ lastmod: '2024-05-06'
 ---
 
 
 
-## Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierd*!
+## Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
 
-Tienes que improvisar más Piscis, tienes que dejar a un lado lo políticamente correcto porque aunque tú hagas las cosas bien y como deben hacerse, después, cualquier imbécil te jode a ti la vida por hacer las cosas a su manera. Mira Piscis, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie. Tienes que aprender a ver quien realmente se subiría al barco contigo si te marchas hacia otro lado y quien te apoyaría para que lo hicieras. Tienes que darte cuenta de tantas cosas… Así que, empieza a testar a algunos, empieza a ponerles un poco al límite. Estás en ese punto en el que todo te da un poco igual, en el que vives los días porque tienes que vivirlos, así como mecanizado, robotizado Piscis… Y tú no eres así… Quizás estás mirando hacia donde no debes mirar… Si quieres caminar hacia delante no puedes quedarte con lo que “tienes seguro”, porque en el fondo no es tan seguro ni tan estable como tu piensas pero qué pasa, que hasta que no se rompa en mil pedazos no cambiarás el chip? Pues no Piscis, en serio, ves cambiándolo ya, antes de que ocurra lo peor. Fluye esta semana y deja que la vida te de sorpresas… Y agarra esas sorpresas. No tienes nada que perder. Feliz semana Piscis.
-Mientras que la actividad lunar del lunes podría alentarte a tomar una nueva dirección en un nuevo romance o relación en curso, algunas influencias podrían causar que retrases tu decisión. Las objeciones de algunos de tus familiares o ciertas reservas de tu parte podría ser el problema. No las ignores, ya que podrían ser importantes. Es probable que sientas más comodidad al proceder una vez que las haya resuelto. Se te hará mucho más fácil resolver estas cuestiones y mantener felices a todos después del sábado; una vez que Mercurio entre a tu sector de relaciones.
+Se avecinan cambios Piscis, cambios grandes. Estás en una etapa un tanto selectiva, no te conformas con poco, a veces no te conformas con nada. Y estás en tu derecho. De verdad, ya era hora de que callaras la boca a más de uno que lleva intentando joderte la vida un tiempo. No pasas ni una Piscis, y no la pasas porque no te da la gana, porque ya has aguantado demasiadas cosas. Porque, en el fondo, pensabas que todo podría cambiar, que, como tú, las personas se dan cuenta de los errores que cometen y dan marcha atrás para intentar solucionarlos. Pero no Piscis. No todo el mundo es como tú. Así que, si esta semana piensan que eres un estúpido borde que lo piensen, si creen que has cambiado y que pasas de todo que lo crean. No estás para dar explicaciones a nadie, que la gente piense lo que le de la gana. Ves a tu rollo, mantén a cabeza bien alta y si no eres delicado en tus formas que traten de pensar que puede ser por alguna razón. Pero que se quiebren la cabeza. En serio, no necesitas volver a retomar conversaciones una y otra vez para acabar siempre en lo mismo. Deja de obsesionarte por el resto, deja de ponerles siempre primero antes que a ti. Todos tenemos un límite. Y es normal que el tuyo haya llegado ya. Feliz semana Piscis.
+Tener una intensa determinación para resolver un problema y poner en movimiento cierto proyecto dará sus frutos esta semana. Pero es posible que tanto familiares o tal vez tu pareja tengan diferentes opiniones sobre lo que debes hacer. Si es que quieres seguir adelante con ello, es posible que tengas que ceder o bien optar por una charla de corazón a corazón y esperar que entiendan. De hecho, si una idea es profundamente significativa para ti, ¿por qué deberías de restarle importancia? Puede que tengas que explicarle a tal que, si no le gusta, que así sea.
 
 ## Dinero
 
-Es una época de grandes cambios para ti. Puede que tu lugar de trabajo se esté moviendo en una dirección más agradable, y que tú seas capaz de crear un poco de paz por ti mismo/a en medio de la tensión de los demás. Pero el Universo exige nada menos que la completa transformación cuando se trata de tus patrones de gastos con los miembros de la familia, los niños, o parejas románticas. Poco hace que tu punto de vista sea entendido, no tienes que irte por la borda.
+Esta semana se trata del dinero de otras personas y de la deuda, así como la política, los grupos sociales, esperanzas y sueños. Puede que el dinero no esté allí para poder llevar un viejo sueño a la realidad, pero eso no significa que te debas olvidar de él. Las actividades en redes, incluso en línea, pueden ayudarte a atraer a los donantes que necesitas para hacer que esto suceda. Esfuérzate para mantener el equilibrio y la paciencia a medida que avanzas.

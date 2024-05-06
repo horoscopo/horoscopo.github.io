@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 29 de abril 2024 al 05 de mayo 2024 
-description: Horóscopo semanal sagitario 29 de abril 2024 al 05 de mayo 2024. Tienes que empezar a dejar que el resto luche por tu Sagitario, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
+title: sagitario 06 de mayo 2024 al 12 de mayo 2024 
+description: Horóscopo semanal sagitario 06 de mayo 2024 al 12 de mayo 2024. Sagitario, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2024-04-29
+ogimg: /images/zodiac/semanal_sagitario.png#2024-05-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-04-29'
+ lastmod: '2024-05-06'
 ---
 
 
 
-## Tienes que empezar a dejar que el resto luche por tu Sagitario, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
+## Sagitario, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
 
-Si te retienen o si no te animan a hacer lo que de verdad quieres hay algo que falla. Sea quien sea Sagitario. 
- Y quizás también deberías meditar acerca de qué es lo que más te conviene. El tiempo es el único que al final te regenera y te vuelve a dar esa vida y esa luz que siempre cargas.
-¿Podría ser esta semana que viene ser aquella en la que hagas tu gran despliegue? Con el sociable Júpiter ingresando a tu sector de carrera y ambición el jueves, todo es posible. Esta semana marca el inicio de una fase muy positiva en la que el cielo es el límite. Durante los próximos días, sin embargo, tal vez tengas que lidiar con algunas personas obstinadas, y la forma en que lo manejas puede impresionar a los demás o no. Tener tacto podría ser clave cuando se trata de expresarte.
+A veces, dar estos pasos solos nos hacen mucho más fuertes en la vida… Además 
+ nada es para siempre, ni siquiera los problemas ni las preocupaciones…
+Puede que los modos y medios convencionales te parezcan un poco conservadores y muy aburridos para conformarte a ellos esta semana. Pero si decides no cumplir con ciertos compromisos o ciertas promesas, especialmente en cuanto a finanzas, quizá no sea lo más aconsejable. Aunque las responsabilidades pueden ser agobiantes, hacer lo que los demás esperan de ti puede ayudarte a mantener tu reputación y seguridad. Si ansías vivir una aventura, planea algo que te de ese subidón de adrenalina. Una oportunidad excitante podría aparecer este fin de semana.
 
 ## Dinero
 
-Esta semana, ciertos aspectos afectan tu sector de dinero y valores. Esta área de tu vida está siendo afectada ahora, y es posible que se te esté obligando a centrarte en tal casi en contra de tu voluntad. Tu forma de ahorrar y ganar será puesta bajo microscopio en este momento. Puede que tengas que encontrar la manera de hacer las dos cosas mejor.
+El Universo está indicando la necesidad de abordar tu aspecto personal. Tus relaciones personales y profesionales son las más afectadas. Toma medidas concretas para volver a conectar con viejos conocidos o profundizar las amistades profesionales existentes. El dinero es lo que le sigue.

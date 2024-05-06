@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 29 de abril 2024 al 05 de mayo 2024 
-description: Horóscopo semanal capricornio 29 de abril 2024 al 05 de mayo 2024. No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
+title: capricornio 06 de mayo 2024 al 12 de mayo 2024 
+description: Horóscopo semanal capricornio 06 de mayo 2024 al 12 de mayo 2024. Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2024-04-29
+ogimg: /images/zodiac/semanal_capricornio.png#2024-05-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-04-29'
+ lastmod: '2024-05-06'
 ---
 
 
 
-## No hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
+## Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
 
-No dejes que nadie defina quien eres, no dejes que nadie te de un empujón ahora porque en realidad, no lo necesitas, simplemente tienes que mentalizarte de lo que puedes llegar a conseguir tú, por ti mismo, independientemente de si te quieren ayudar o no. 
- sino que aprovechan tus estados bajos de ánimo para que te vuelvas aún más loco, para que te desequilibres mucho más.
-La semana comienza con un toque muy social para ti y se extiende durante todo el mes. Con tu planeta regente, entrando a este sector el 2 de abril, puede ser una excelente oportunidad para que te muevas en círculos nuevos y explores otras opciones para conocer personas y disfrutar la vida. ¿A solas? Puede que tengas más opciones de citas ahora, por lo que vale la pena formar parte de grupos o clubes que reflejen tus intereses y pasiones. Por último, deberías analizar en profundidad una decisión sobre tu futuro.
+Tienes que enderezar un poco tu vida Capricornio, y dejar de lado algunas inseguridades, de hecho, serás más feliz cuando empieces a creerte lo que vales de verdad, lo que puedes llegar a conseguir y sobretodo lo que te mereces. En realidad debes encontrar esa seguridad en tu día a día y no dejar que nadie te la arrebate. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte. No necesitas a nadie para ser feliz pero si están cerca de ti sí que necesitas que cuiden también de tu vida como tu haces con ellos. Últimamente has asumido cosas que no te pertenecen, has perdonado y has tratado de olvidar para mantener un equilibrio pero a veces no se trata de eso, se trata de rebelarte, se trata de dejar las cosas claras a más de uno y sobretodo de estar en paz contigo mismo, de respirar. Aprecias la sencillez y odias pelear, así que, ¿para qué peleas? No te preocupes innecesariamente por nada ni por nadie, y si estás un poco estresado o abrumado tómate unos días, relaja la mente y vuelve para continuar lo que sea que tengas. Es posible que necesites un poco de espacio, y no es malo, simplemente es eso, necesario.
+Puede que otras personas te parezcan inspiradoras, cautivantes, e incluso a veces, confusas, pero seguro no te aburrirás. También te mantendrán adivinando. Sin embargo, tú tienes planes propios en los que debes enfocarte, por lo que deberías establecer el límite si una persona parece no cooperar por alguna razón. Una vez que hayas completado tu lista de asuntos pendientes, te sentirás mucho mejor por haberte puesto firme y tomado el control. Con Mercurio avanzando, cualquier frustración o demora puede comenzar a disiparse.
 
 ## Dinero
 
-El dinero es una forma de encontrar la seguridad que buscas. Es probable que notes que ahora, tus lados masculino y femenino están bastante equilibrados. ¡Buen trabajo! Dado que esto afecta a tu empleo, salud, y actividades cotidianas, es probable que todo en el trabajo vaya bien. Les estás dando una buena  impresión a los jefes. Si quieres llevar esto un paso más allá, proponte para voluntariamente encabezar un proyecto especial. ¡Generarás una increíble opinión en tus jefes!
+El Universo te está dando una increíble fuerza creativa ahora. Puede que tengas muchas ideas sobre cómo hacer más dinero, invertirlo y usarlo para mejorar tu vida. Ciertos aspectos afectan tu sector de  deuda y el dinero de otros. Prepárate para lo mejor y lo peor, y paga lo que puedas.
