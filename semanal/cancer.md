@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 06 de mayo 2024 al 12 de mayo 2024 
-description: Horóscopo semanal cancer 06 de mayo 2024 al 12 de mayo 2024. Vamos Cáncer, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
+title: cancer 13 de mayo 2024 al 19 de mayo 2024 
+description: Horóscopo semanal cancer 13 de mayo 2024 al 19 de mayo 2024. No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2024-05-06
+ogimg: /images/zodiac/semanal_cancer.png#2024-05-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-05-06'
+ lastmod: '2024-05-13'
 ---
 
 
 
-## Vamos Cáncer, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
+## No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
 
-Está bien que la gente que te acompaña en la vida, comparta tus metas, tus logros, y también tus decepciones y bajones. Está bien que estén a tu lado en las buenas y en las malas. Pero ellos NO son tu felicidad Cáncer, y no debes depender de nadie porque, si algún días te abandonan, te quedarás vacía/o por dentro.
-Los conocimientos y la sabiduría espiritual pueden brindarte poderosos consejos al comienzo de la semana. Esto podría ayudarte a tomar una decisión que puede que hayas estado retrasando durante algún tiempo. Un fuerte enfoque en tu sector de valores podría encontrarte enfocándote más en el dinero, tu carrera y el lado material de la vida. 
- De hecho, la seguridad (financiera o de otro tipo) podría ocupar muchos de tus pensamientos. Parte de esto podría ser debido a que el práctico Saturno y el apasionado Plutón se vuelven retrógrados en tu sector de finanzas personales, lo que hace que pienses más en estas cuestiones. Si logras relajarte en este aspecto, tal vez descubras que el dinero fluye hacia ti más fácilmente de fuentes que no anticipaste. La actividad solar del jueves podría animarte a cuidar de tu persona comiendo bien, ejercitándote más y relajándote cuando puedas.
+En serio, Cáncer, por muy mal que vayan las cosas has demostrado al mundo que con tu ejemplo que se puede vencer cualquier obstáculo poniendo ganas, entusiasmo y pasión. A pesar de que eres siempre alguien bastante reservado para tus cosas más profundas (quizás a veces parece que hablas demasiado pero a la hora de la verdad de lo tuyo, de lo profundo, no sueles abrir el pico), la gente que te conoce sabe de sobra que te has caído y levantado muchas veces en estas últimas semanas queriendo antes que cualquier otra cosa tener el control sobre ti mismo. Eres Cáncer por lo tanto es normal que no todo lo que quieras se de en el momento, la constancia y el trabajo diario es lo que a ti, te hace cumplir tus objetivos y tus metas, la constancia es al final la que te da todo lo que buscas. Las cosas que llegan rápidamente se acaban yendo de la misma manera así que, sigue con lo que tienes fijado en la mente y no desistas porque cualquiera quiera llegar y cambiar tus planes. No te dejes llevar por nadie ahora, puede ser una semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Lo has pasado mal Cáncer, así que, plantéate si te merece la pena volver a mirar atrás de nuevo, creo que no. Lo peor ya está casi superado, no estabas del todo bien con tu vida y por eso decidiste cambiar y aunque los cambios no se den todavía no importa porque están en tu cabeza y poco a poco lo estarán en tus hechos. No te agobies, verás como cada día que pasa es una victoria hacia lo que quieres, sólo preocúpate de vivir esos días lo mejor que puedas ahora…
+Tu mejor apuesta para sacarle el máximo provecho a esta semana es planificar a futuro. Mientras más  te organices, mejores serán tus posibilidades de hacerle frente a eventos inesperados. También te ayudaría aligerar tu horario con el fin de dejar espacio para improvisar cuando sea necesario. Si estás planeando un viaje o explorar nuevos círculos sociales, no lo harás a solas. Pero puede que termines con más de lo que esperabas, así que presta atención a tus instintos. Decídete a actuar el sábado con tal de lograr que algo avance.
 
 ## Dinero
 
-Tienes una extraña habilidad para predecir el futuro cuando se trata de dinero. Sabes cuando las cosas van a ir bien y cuando no. Puede que ahora tus poderes psíquicos sean más fuertes que de costumbre. Como tal, es una buena idea que guardes algo de dinero extra para la diversión que deseas tener en unas vacaciones con tu familia, amigos o a solas. Visualiza los beneficios conforme ahorras regularmente.
+Te encanta hacer que tu lugar de trabajo sea tan cómodo como tu casa, y esto podría implicar hacer que los demás en el trabajo se sientan como en familia. Con un aspecto armonioso ahora, es muy probable que lleves esto un paso más allá debido a que afecta la zona de tu gráfico que rige los niños, familia, romance y diversión. Suena como si organizar un evento para la empresa no fuera una mala idea para mantener la moral alta. Organizar juegos para entretener a todos será más que bueno.

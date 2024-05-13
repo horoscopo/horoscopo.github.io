@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 06 de mayo 2024 al 12 de mayo 2024 
-description: Horóscopo semanal escorpio 06 de mayo 2024 al 12 de mayo 2024. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
+title: escorpio 13 de mayo 2024 al 19 de mayo 2024 
+description: Horóscopo semanal escorpio 13 de mayo 2024 al 19 de mayo 2024. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2024-05-06
+ogimg: /images/zodiac/semanal_escorpio.png#2024-05-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-05-06'
+ lastmod: '2024-05-13'
 ---
 
 
 
-## En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
+## Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
 
-Tienes que aprender a ver que si quieres volar de verdad no puedes estar cerca de esos que te arrancan las plumas poco a poco para acabar arrancándote las alas más tarde, 
- a personas de las que “piensas” que dependes…
-Si bien ciertos planes placenteros pueden estar firmemente en tu agenda, otros factores indican que podrías tener ganas de hacer cambios en tu estilo de vida. Con Mercurio moviéndose a través de tu sector de hábitos y rutinas, puede que quieras reorganizar algunos aspectos de tu día para poder lograr tus metas de salud y también aumentar tu productividad. A partir del Miercoles, puede que te resulte mucho más fácil mantenerte en este nuevo régimen. Hasta ese momento, sé paciente contigo.
+Al final, sólo te lamentarás de las posibilidades que no tomaste Escorpio así que, empieza a hacer todo lo que deseas. Cada día debes tratar de ser feliz como sea, y a veces, esas cosas que te hacen feliz son pequeñas, son detalles, son momentos… Cada día tienes una oportunidad, aprovecha tu tiempo Escorpio. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
+El enfoque en tu sector de finanzas personales continúa. Aquí, la fuerza del sol se combina con la del conversador Mercurio retrógrado y te anima a reflexionar sobre tu situación y ver qué puedes hacer para mejorarla. Mercurio continúa en su fase retrógrada hasta el 22 de mayo, por lo que evita hacer grandes gastos. Si no tienes más opción que hacerlos, guarda los recibos y documentos. La buena noticia es que, con el animado Júpiter en tu signo, espectaculares oportunidades podrían ser puestas en tu camino.
 
 ## Dinero
 
-Andas muy comunicativo/a ahora. El hablar, chatear, o incluso el uso de sitios de redes sociales trabaja a tu favor y son parte de tu persona por ahora. Pero estás llevándolo a otro nivel, inclusive al hablar de que estás pensar en escribir tus memorias. Tienes una increíble cantidad de energía creativa en este momento, úsala a tu ventaja financieramente y para encontrar a tu público, después, busca los mercados con el más amplio alcance para obtener los mejores resultados.
+No siempre tienes la paciencia necesaria para cultivar relaciones a largo plazo. Quieres resultados ahora, lo que puede interponerse en el camino del crecimiento en otras áreas. Ahora, tu energía masculina y femenina están perfectamente en equilibrio en tu sector de relaciones serias. Esto puede ayudarte a fusionarte con un socio de negocios o desarrollar nuevos proyectos. Eso sí, no firmes nada todavía.

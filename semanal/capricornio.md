@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 06 de mayo 2024 al 12 de mayo 2024 
-description: Horóscopo semanal capricornio 06 de mayo 2024 al 12 de mayo 2024. Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
+title: capricornio 13 de mayo 2024 al 19 de mayo 2024 
+description: Horóscopo semanal capricornio 13 de mayo 2024 al 19 de mayo 2024. Hay cosas que ya no funcionan Capricornio, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2024-05-06
+ogimg: /images/zodiac/semanal_capricornio.png#2024-05-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-05-06'
+ lastmod: '2024-05-13'
 ---
 
 
 
-## Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
+## Hay cosas que ya no funcionan Capricornio, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
 
-Tienes que enderezar un poco tu vida Capricornio, y dejar de lado algunas inseguridades, de hecho, serás más feliz cuando empieces a creerte lo que vales de verdad, lo que puedes llegar a conseguir y sobretodo lo que te mereces. En realidad debes encontrar esa seguridad en tu día a día y no dejar que nadie te la arrebate. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte. No necesitas a nadie para ser feliz pero si están cerca de ti sí que necesitas que cuiden también de tu vida como tu haces con ellos. Últimamente has asumido cosas que no te pertenecen, has perdonado y has tratado de olvidar para mantener un equilibrio pero a veces no se trata de eso, se trata de rebelarte, se trata de dejar las cosas claras a más de uno y sobretodo de estar en paz contigo mismo, de respirar. Aprecias la sencillez y odias pelear, así que, ¿para qué peleas? No te preocupes innecesariamente por nada ni por nadie, y si estás un poco estresado o abrumado tómate unos días, relaja la mente y vuelve para continuar lo que sea que tengas. Es posible que necesites un poco de espacio, y no es malo, simplemente es eso, necesario.
-Puede que otras personas te parezcan inspiradoras, cautivantes, e incluso a veces, confusas, pero seguro no te aburrirás. También te mantendrán adivinando. Sin embargo, tú tienes planes propios en los que debes enfocarte, por lo que deberías establecer el límite si una persona parece no cooperar por alguna razón. Una vez que hayas completado tu lista de asuntos pendientes, te sentirás mucho mejor por haberte puesto firme y tomado el control. Con Mercurio avanzando, cualquier frustración o demora puede comenzar a disiparse.
+Por fin has tomado decisiones, y además decisiones que te benefician, 
+por fin están tomando alternativas a la vida que estabas llevando y por fin te estás enfrentando a los problemas de una vez.
+Después de la intensidad de la semana pasada, puede que aún siga habiendo un residuo del conflicto entre tú y un familiar. Este podría desarrollarse conforme avanza la semana. En lugar de ponerte emocional sobre las cosas, céntrate en los hechos de la situación. Una vez que los hayas investigado, estarás en una mejor posición para negociar o llegar a un compromiso. Si sientes que se te ha tratado injustamente, tener una charla puede ayudarte a resolver esto. Por último, tu vida social se vislumbra mucho más positiva.
 
 ## Dinero
 
-El Universo te está dando una increíble fuerza creativa ahora. Puede que tengas muchas ideas sobre cómo hacer más dinero, invertirlo y usarlo para mejorar tu vida. Ciertos aspectos afectan tu sector de  deuda y el dinero de otros. Prepárate para lo mejor y lo peor, y paga lo que puedas.
+Eres un genio, por supuesto. Lo que pasa es que los demás no se han percatado de ello. Puede que te atraigan todas las cosas que son únicas e individuales, especialmente en lo que respecta a tu dinero. Y puesto que la actividad está en tu sector de grupos y política, realmente es el momento de correr la voz sobre lo que actualmente estás haciendo para ganar dinero, así como las cosas que quieres hacer en el futuro.
