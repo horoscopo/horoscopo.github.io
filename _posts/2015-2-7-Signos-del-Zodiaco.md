@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 15 de mayo 2024
-description: Horóscopos del dia de hoy 15 de mayo 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 16 de mayo 2024
+description: Horóscopos del dia de hoy 16 de mayo 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2024-05-15
+ lastmod: 2024-05-16
 ---
-El poder de Marte es más amable al encontrarse en Piscis. No es un renacimiento de la audacia, pero te percatarás de que tal enfoque tiene sus ventajas. (Recuerda lo que te estaba pasando hace dos años y medio). Mercurio iniciando su retroceso esta noche trae consigo déjà vus. Si algo te resulta familiar, tal vez no puedas identificarlo debido a que se te escapó la primera vez.
+El día tiene el don de la sorprendente intuición e inspira nuevas visiones cuando la Luna aspecta a ambos, Venus y Neptuno. Esta noche, las parejas experimentan una sensación renovada de conexión. Si no tienes pareja y estás buscando el amor, alguien tiene un pequeño halo de misterio. Es un giro romántico que atrae.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
