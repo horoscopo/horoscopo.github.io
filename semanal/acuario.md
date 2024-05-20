@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 13 de mayo 2024 al 19 de mayo 2024 
-description: Horóscopo semanal acuario 13 de mayo 2024 al 19 de mayo 2024. Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino.
+title: acuario 20 de mayo 2024 al 26 de mayo 2024 
+description: Horóscopo semanal acuario 20 de mayo 2024 al 26 de mayo 2024. No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Acuario, abre las puertas y ciao. No tienes que mantener nada…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2024-05-13
+ogimg: /images/zodiac/semanal_acuario.png#2024-05-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-05-13'
+ lastmod: '2024-05-20'
 ---
 
 
 
-## Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino.
+## No hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Acuario, abre las puertas y ciao. No tienes que mantener nada…
 
-Por eso respira antes de soltar por tu boca cualquier cosa dañina. Al final, sin querer, puedes herir a más de uno/a y sobretodo, herirte a ti mismo/a… 
-así que, deja a un lado esa ansia que hace que repitas los errores más de una vez y céntrate en lo que merece y en lo que no. La teoría la tienes más que clara, ahora sólo llévalo a la práctica. Pero no un día sí y otro no, si te lo has planteado, hasta el final.
-Tus relaciones continúan estando bajo enfoque, con la oportunidad de hacer cambios importantes en su caso. Si estás consciente de las situaciones que necesitan ser clasificadas, este es uno de los mejores momentos para discutir tu situación y ver qué soluciones se te pueden ocurrir. Lo mejor es que lo hagas ahora en vez de ignorar cualquier problema que pudiera resurgir cuando sea más difícil de resolver. Una vez que llegue el jueves, será momento de analizar lo que es más importante para ti con respecto a una relación muy estrecha.
+Tu cabeza quiere un cambio Acuario, y tu corazón también, y te lo está pidiendo a gritos pero sigues siendo testarudo cuando quieres, y muchas veces aunque a tu alrededor haya una vibra negativa casi imposible de aguantar, tú te la echas a la espalda y la aguantas como el que más. Pero mira Acuario, no se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo. A veces, parece que no quieres salir de tu estado de confort, de esa zona en la que de confort en el fondo hay poco. Y no quieres salir por miedo a encontrarte cosas peores pero Acuario por favor, si lo que hay no te llena o no te realiza como persona algo tendrás que hacer ¿no? Esta semana vas a tener sensaciones muy diferentes, sentimientos con un pasado que no es tan pasado. Tienes que acordarte de muchas cosas, acordarte de que eras feliz antes de tener lo que tienes ahora, de que debes seguir creciendo, de que has de liberarte de algunas expectativas muy grandes que tenías y que después han resultado ser falsedad y mentira… Arréglate y déjate de perezas, sal, disfruta, respira aires nuevos y cambia el chip.
+Con la temporada a toda marcha, sientes mucha inquietud como para poder concentrarte en lo importante. Los viajes y las oportunidades para probar otro tipo de diversiones te atraen más. Y con la probabilidad de disfrutar una vida social más activa, tus tareas diarias pueden parecerte un poco aburridas. Sin embargo, una conversación o una idea te impulsará a entrar en acción nuevamente y te motivará para progresar.
 
 ## Dinero
 
-Puede que por lo general no se te conozca por tu astucia en el dinero, ya que a menudo es sólo un medio para sentirte libre de restricciones. Pero ahora te conectas a tus redes sociales de una manera poderosa y haces que funcionen para ti. Si buscas una nueva posición o un mejor trabajo con buenos beneficios, serás capaz de conectar con nuevos empleadores. Un socio podría necesitar un poco de ayuda extra con un pequeño negocio. A partir de ahí, sólo tienes que demostrar tu valor.
+Esta semana tienes aspectos afectando a tu sector de relaciones. Alguien de quien no has oído en mucho tiempo puede tratar de comunicarse contigo en forma personal o profesional. ¡Te sorprenderá lo lejos que esta persona ha llegado en el terreno profesional! La comunicación es crucial ahora, especialmente en lo que se refiere a la situación de empleo.

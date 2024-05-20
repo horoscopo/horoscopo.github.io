@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: libra 13 de mayo 2024 al 19 de mayo 2024 
-description: Horóscopo semanal libra 13 de mayo 2024 al 19 de mayo 2024. Tienes la semana agitada Libra. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
+title: libra 20 de mayo 2024 al 26 de mayo 2024 
+description: Horóscopo semanal libra 20 de mayo 2024 al 26 de mayo 2024. Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2024-05-13
+ogimg: /images/zodiac/semanal_libra.png#2024-05-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-05-13'
+ lastmod: '2024-05-20'
 ---
 
 
 
-## Tienes la semana agitada Libra. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
+## Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
 
-Estás alcanzando una madurez Libra, y no es que antes fueras inmaduro no, pero ahora estás aprendiendo a alejarte de las personas y situaciones que amenazan tu paz mental, el respeto, los valores, la moral y tu amor propio. Y eso está bien pero aún así, a pesar de que te has alejado de eso, hay momentos en los que, inevitablemente vuelves a caer, aunque no sean las mismas situaciones ni las mismas personas. No puedes presumir de haber superado ciertas cosas para repetir después los mismos errores. Eres fuerte Libra y sea cual sea el estrés, el dolor o el odio que puedas sentir esta semana respira profundo y deja que se vaya, y no te enzarces con nadie, no vas a cambiar las cosas. Un pensamiento negativo puede arruinar mil vibraciones positivas. No pierdas más el tiempo. Organiza tu semana y ves paso por paso, organiza tu vida y trátate bien y con respeto. Si te valoras a ti mismo y te cuidas, el resto también lo hará. Y hay algo muy importante que debes saber esta semana, no cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás. Y no detengas ni frenes tu vida ahora.
-Puede que estés a punto de implementar algunos cambios en tu estilo de vida a medida que el Sol y Marte ingresan a tu sector de bienestar. Estas estimulantes energías pueden inspirarte a que te comprometas con una dieta o rutina de ejercicios que haga que te veas y sientas mucho mejor. La clave de sentirse bien puede estar en observar más de cerca tus rutinas diarias y eliminar aquellas que ya no funcionan para ti. Introducir actividades que te encanten puede hacer una diferencia positiva.
+A veces sientes como si no avanzaras Libra, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente. Las cosas de palacio van despacio ¿ok? Así que no desesperes. Estás en una de esas etapas en las que lo quieres todo ya, aquí y ahora, que lo malo pase pronto y que lo bueno se quede en tu vida por mucho tiempo pero date eso, TIEMPO. Esta semana tendrás momentos de mucho estrés emocional, hay cosas que no están solucionadas del todo pero todo llega, y antes de lo que esperabas… Deja de preocuparte por los fallos que ya se cometieron y empieza a darle importancia a las oportunidades que puedes dejar escapar si no reaccionas a tiempo y si no reaccionas bien. Prueba Libra, prueba todo lo que puedas y más, no hace falta querer tener una vida perfecta, lo suyo es tener una vida FELIZ. El hecho de que puedas dejar muchas cosas atrás no es malo, porque otras muchas llegan, pero no fuerces la situación ni esperes que todo cambie de un día para otro. Tienes que trabajártelo, tienes que ir paso a paso y pensar que no tienes una buena o mala vida, si no sólo una vida, y que está en ti hacerla buena o mala. Ánimo Libra, feliz semana.
+Últimamente, es posible que te haya resultado difícil avanzar debido al comunicativo Mercurio en su fase retrógrada. Avanzar en proyectos domésticos puede que haya parecido una lucha cuesta arriba. Pero tu personalidad no te permite abandonar. La buena noticia es que el conversador Mercurio se vuelve directo el fin de semana, de modo que las cosas podrían ser más sencillas en este aspecto. Al mismo tiempo, los acuerdos familiares podrían entrar en conflicto con tus planes y proyectos, y consumir tiempo que no puedes desperdiciar. Sin embargo, tus familiares podrían molestarse si no participas. Puede que debas llegar a un compromiso. 
+ ¿Por tu cuenta? Una reunión podría hacer que sientas mucho cariño hacia una persona, pero ¿irás más allá? Nuevamente, todo depende de si puedes destinar un tiempo al amor y a las cosas que más disfrutas. Por último, la luna llena del jueves en tu sector doméstico podría traer algunos cambios en el frente hogareño.
 
 ## Dinero
 
-Estás en el cielo con respecto a tu carrera esta semana. Estás asumiendo una posición más poderosa en el trabajo y disfrutas de los salarios y beneficios que van junto con ella. Tu sector de vidas pasadas y sueños se acentúa. Hay tantas cosas pasando por tu mente inconsciente que puedes hasta sorprenderte de la cantidad de buenas ideas que tienes una vez que éstas alcancen la superficie.
+Te preparas para gastar en cosas bonitas para hacer de tu vida una más cómoda y relajada. Pero tal vez no necesitas todos esos aparatos o esos viajes con todo pagado. El cortar un poco en gastos puede dejar más espacio para futuros proyectos, viajes y actividades que realmente enciendan tu fuego. Tus amigos pueden ayudarte a mantenerte por buen camino.
