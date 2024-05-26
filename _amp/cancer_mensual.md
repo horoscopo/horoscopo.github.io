@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Cáncer Mayo 2024 
+title: Horoscopo Cáncer Junio 2024 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/Cáncer_mes.png#2024-05-01
+ogimg: /images/mes/Cáncer_mes.png#2024-05-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-05-01'
+ lastmod: '2024-05-26'
 ---
 
 
