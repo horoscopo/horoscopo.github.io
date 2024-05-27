@@ -1,30 +1,30 @@
 ---
 layout: horoscopos
-title: piscis 20 de mayo 2024 al 26 de mayo 2024 
-description: Horóscopo semanal piscis 20 de mayo 2024 al 26 de mayo 2024. Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
+title: piscis 27 de mayo 2024 al 02 de junio 2024 
+description: Horóscopo semanal piscis 27 de mayo 2024 al 02 de junio 2024. Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2024-05-20
+ogimg: /images/zodiac/semanal_piscis.png#2024-05-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-05-20'
+ lastmod: '2024-05-27'
 ---
 
 
 
-## Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
+## Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
 
-Porque quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que 
- Pero no, debes escapar de esos pensamientos, enfocarte en otras cosas en las que no debas decidir esto o lo otro, si no que simplemente fluyas sin más, 
-pero otras muchas veces sí, así que, plantéate en cuales puedes hacer algo para cambiar el rumbo y en cuáles lo mejor de todo es dar media vuelta y olvidar, aunque sea complicado…
-Tu planeta regente ingresa a su fase retrógrada en tu sector espiritual el miércoles y permanecerá así durante aproximadamente tres semanas. Esta fase puede ser una oportunidad para volver al pasado y resolver cualquier problema que haya estado retrasándote. Al mismo tiempo, el sol en este sector se alinea al caotico Géminis en tu sector de viajes y aventura. La necesidad de emoción y de hacer algo distinto puede provocar una decisión espontánea, por lo que podrías hacer un viaje repentino. 
-La luna llena del jueves podría afectar a tus sectores espiritual y de estilo de vida. Tal vez sientas la necesidad de reflexionar sobre tus rutinas y organizarte de manera práctica. Puede que esto signifique librarte de algunas actividades que, en realidad, no son beneficiosas para ti. Es momento de que te preguntes qué quieres realmente.
+Es muy importante que eches la vista atrás Piscis, que mires al pasado, que te des cuenta de lo que ya pasaste una vez y de lo que no quieres que se vuelva a repetir nunca mas. Valora lo que tienes ahora, y si el resto no lo hace contigo de la misma manera algo falla así que, ¡fuera! No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día. Esta semana toca reflexionar, toca poner en una balanza lo bueno y lo malo, toca comprender de verdad si estás haciendo lo que te gusta y lo que te hace feliz y sobretodo si estás con las personas que merecen la pena. Sólo tenemos una vida y, o cambias el chip y aprendes a aprovecharla o cuando mires atrás te lamentarás por todo el tiempo que has estado perdiendo. Sólo tenemos esas dos opciones.
+La luna en cuarto menguante del lunes podría hacer que te cuestiones si debes comprometerte con un grupo o una membresía, o abandonarlos momentáneamente. Si son costosos, esta podría ser la señal que necesitas para abandonarlo. Pero es poco probable que quieras trabajar sin ayuda. Conectar con un equipo o un socio podría permitirte lograr mucho más.
+Debido a que el sol está recién llegado a tu sector social, que también está en línea con el fogoso Marte en tu sector de relaciones el miércoles, un encuentro podría resultar muy motivador. 
+El viernes, una encantadora alineación entre el jovial Júpiter en tu sector hogareño y el compasivo Neptuno en Piscis en un sector más intenso de tu carta podría encontrarte sumergiéndote en algunos secretos familiares. Sacarlos a la luz para analizarlos podría ser un proceso muy sanador. 
+La conexión entre el encantador Venus y el práctico Saturno del sábado podría animarte a pasar algo de tiempo por tu cuenta, en especial si debes reflexionar sobre algún tema.
 
 ## Dinero
 
-Es una semana de creatividad y de ocuparte de cuestiones relativas a las relaciones y la comunicación. El utilizar tu creatividad para ganar más dinero es una muy buena idea, adéntrate en la escritura, el arte, la música u otra forma de arte. Si todavía no has tenido éxito al ganar dinero haciendo lo que te gusta, podrías encontrar una situación diferente. Sólo asegúrate de concéntrate en tus esfuerzos de buscar trabajo en estas áreas.
+Esta semana pones a prueba la resistencia y la tensión de tus relaciones. Esto puede resultar en que más de una relación profesional estrecha no funcione. No importa. Hay un montón de cambios positivos que se aproximan a tu sector del hogar, lo que indica un movimiento, la venta, o la adición de un espacio laboral en tu vida. El secreto está en no tratar de forzar nada ya que no es probable que dé frutos financieros por ahora.

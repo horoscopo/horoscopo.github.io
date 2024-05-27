@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 20 de mayo 2024 al 26 de mayo 2024 
-description: Horóscopo semanal leo 20 de mayo 2024 al 26 de mayo 2024. Empieza a hacerte promesas a ti mismo Leo, empieza a prometerte amor propio, hoy y siempre. 
+title: leo 27 de mayo 2024 al 02 de junio 2024 
+description: Horóscopo semanal leo 27 de mayo 2024 al 02 de junio 2024. El mundo puede esperar Leo, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2024-05-20
+ogimg: /images/zodiac/semanal_leo.png#2024-05-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-05-20'
+ lastmod: '2024-05-27'
 ---
 
 
 
-## Empieza a hacerte promesas a ti mismo Leo, empieza a prometerte amor propio, hoy y siempre. 
+## El mundo puede esperar Leo, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 
-No puedes ser sumiso Leo, al final, tus necesidades siempre acaban saliendo a la luz porque no puedes limitarte ni encasillarte con nada. No puedes pasarte la vida sabiendo qué es lo que debes hacer pero sin hacerlo, no puedes pasarte la vida queriendo hacer algo y que al final ese algo sólo se quede en tu cabeza, en tus pensamientos. Tienes que romper con eso. Esta semana céntrate en cumplir cada una de tus metas, trata de hacer lo que te pida el cuerpo sin necesidad de quejarte, piensa en qué es lo que está en tu mano, en qué es lo que tú puedes hacer, y hazlo. No hagas de tu tiempo tiempo perdido, con nada, con nadie… Si no vas a por todo, mejor no vayas. Es uno de tus lemas, pero a veces te olvidas de aplicártelo a ti, y sí, empiezas algo y por unas cosas u otras, no lo acabas. Piensa que así es como te frustras y piensa que es el motivo por el cual te pones de muy mala hostia un día sí y otro también. Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo. No te compliques y al lío Leo. Ponte en marcha de una vez esta semana, y no pienses en lo que perdiste o en lo que ganaste, piensa en lo que llegará si de verdad te pones las pilas.
-La semana por delante podría ser un poco emocional con la luna llena edificándose durante los próximos días y llegando a su punto máximo el viernes. Podrías percatarte de que tener un horario más ligero y más fácil te ayuda, ya que el Eclipse puede traer consigo eventos inesperados o incluso crear drama en tu vida cotidiana o profesional. Aun así, tienes el apoyo de los demás conforme el suertudo Júpiter comienza su viaje en tu sector de relaciones. Cualquiera que sea el problema, alguien saldrá a tu ayuda.
+Acepta las ofertas que creas que debas aceptar y sobre todo, cree en ti, porque solo o acompañado puedes hacer lo que quieras, puedes llegar hasta donde quieras llegar… Empieza a dedicarle todo el tiempo del mundo a lo que te hace feliz, lo necesitas. Las dudas han quedado atrás, ya te lanzas, y más cuando te estás dando cuenta que si sientes que vas a apostar para ganar tienes que hacerlo ya. Esta semana es muy probable que empieces a abrir los ojos ante cosas nuevas, van a ofrecerte demasiado, conocen tu talento, pero debes ser hábil para elegir qué es lo que más te conviene, qué es lo que realmente necesitas y qué es lo que te hará crecer en un futuro. A la mierda lo demás Leo. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora. Algo muy importante que debes saber es que cuando hagas lo que deseas, procura mandar muy lejos lo que no deseas, ¿y por qué? Porque al final lo que está podrido acabará por pudrir al resto de cosas. Es decir, si empiezas con buen pie algo pero tienes un lastre de cosas o personas que lo que te hacen es que de nuevo vayas hacia atrás, jamás vas a progresar, nunca. Por eso, aleja primero las cosas que debas alejar y cuando estés libre totalmente de ese tipo de negatividad, lánzate a hacer lo que más te gusta, y dedícate a ello al 100%. Te espera una buena semana pero por favor, deja de pensar en idioteces que no te sacan de nada.
+El inicio de la semana podría tener un tono muy profesional, sobre todo cuando se estén discutiendo cuestiones de negocios, si acudes a una entrevista, o al iniciar nuevos proyectos. Ándate con cuidado, ya que no todos compartirán tus puntos de vista. Con cuidado, investiga sus ideas antes de iniciar cualquier conversación importante con el fin de dar una buena impresión. La entrada de Mercurio a Piscis del fin de semana le agrega un poco de brillo extra a tu vida social, mientras que Marte en tu sector de recursos compartidos te anima a poner tus finanzas en orden.
 
 ## Dinero
 
-Ciertos aspectos se unen en tu sector de dinero y valores esta semana. Esto puede explicar por qué a pesar de que hay ciertas oportunidades aproximándose, algunas de ellas requieren de más trabajo o más educación del que actualmente tienes o puedes ofrecer. No te preocupes. Te enfrentas a un momento en el que es necesario centrarse en la política de tu empresa. Invita a tu jefe a comer.
+Eres genial al hacer que los asuntos de dinero sucedan de la nada porque eres una persona social y siempre sabes la primicia antes de que otras personas la sepan. Con un aspecto positivo ahora, es muy probable que te arrolle una repentina oportunidad para avanzar en tu carrera que puedes no ser capaz de concentrarte en nada más. Se deriva de algo que empezaste hace años, pero que finalmente despega. Algo de dinero seguro vendrá de ello.
