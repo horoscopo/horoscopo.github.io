@@ -7,12 +7,15 @@ home: FALSE
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Piscis_mes.png#2024-05-26
+ogimg: /images/mes/Piscis_mes.png#2024-05-31
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-05-26'
+ lastmod: '2024-05-31'
 ---
 
 
-El 2 de mayo, una oferta romántica puede parecer rara al principio, pero el verdadero afecto podría estar allí. Sé amable. La Luna Nueva del 8 de mayo alienta un mayor sentido de diversión y aventura. Permite que un amigo - o el hijo de un amigo - sugiera un nuevo lugar para visitar y algo nuevo que ver y hacer. No tienes que hacerlo de nuevo si no quieres y hasta puede que te guste. Bajo la Luna Llena del 23 de mayo, algunos familiares podrían recurrir a ti, o puede que simplemente todos se aparezcan en tu casa, con buenas intenciones, por supuesto. Relájate. Tú bien sabes cómo reservar tu propio espacio personal.
+Júpiter forma una oposición con el sol el 8 de junio, y puede que tengas algunas dudas de más. Simplemente habla con honestidad y siéntete bien sobre cómo las cosas están saliendo. Disfruta de tus personas preferidas y placeres locales durante la luna nueva del día 6. Ahora puede haber muchas tentaciones exóticas, pero seguirán estando ahí más tarde. La luna llena del 22 de junio te permite enfocarte en jugadas profesionales o interacciones sociales. Es una época complicada, pero tienes los instintos y la intuición para atravesarla. No te promociones demasiado, pero no rechaces una sugerencia prometedora u oferta de progreso o responsabilidad. 
+
+Días destacados: 10, 22, 25
+Días desafiantes: 7, 20

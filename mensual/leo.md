@@ -9,21 +9,20 @@ keywords: horóscopo junio, horoscopos en español, horóscopo Leo junio , horó
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/leo_mes.png#2024-05-26
+ogimg: /images/mes/leo_mes.png#2024-05-31
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-05-26'
+ lastmod: '2024-05-31'
 ---
 
 
- > Leo, este mes te sentirás confiado y optimista. Júpiter en Aries te ofrece oportunidades que te permiten expresar todo tu ser, y con su unión al Sol a partir del 11, parecerá que tu interior ilumina con su luz todo lo que hay a tu alrededor. Aprovecha hasta el día 20 para emprender, iniciar o cambiar de rumbo sectores de tu vida, porque a partir del 22 Mercurio se pondrá en medio y no tendrás el camino tan despejado.
+ > Leo, este mes tu constancia y capacidad de trabajo serán valorados por los demás. Aprovecha hasta mitad de junio para dejar tus cosas en orden. Tómate tu tiempo si lo necesitas, tu regente estará en buena configuración con el benéfico Júpiter. Esto te permitirá expandir tus proyectos con la estructura necesaria y dejar espacio para disfrutar de tus relaciones.
 
 
 
-Sentirás emoción por la idea de transformar tu vida con el comienzo del mes, querido Leo, gracias a una serie de cuerpos celestes que están transitando por Capricornio y tu octava casa solar. Este clima cósmico tiene una destructiva pero purificadora energía, dándote la oportunidad de cortar lazos sin remordimientos con cualquier persona o cosa que ya no te sirva. No te sientas mal por imponer estrictos límites, bloquear a antiguos amores, y alejarte de dañinas situaciones, porque hacer esto te dará una gran sensación de alivio y libertad para avanzar sin que estas fuentes de drama te lo impidan.
-Aunque la retrogradación de Marte en tu signo puede haberte hecho sentir cansancio, fuera de sí, y más temperamental durante los últimos dos meses y medio, tendrás la oportunidad de reclamar tu ritmo cuando este apasionado planeta se vuelve directo el 12 de mayo. El cambio en estos vientos cósmicos puede ayudarte a emocionarte más por el futuro, permitiéndote reconectar con tu motivación y todo lo que te inspira. Aunque puede que tu intuición te diga que es momento de avanzar a toda velocidad hacia tus objetivos, puede que sea más inteligente proceder con cuidado, porque las extrañas vibras de esta retrogradación planetaria perdurarán hasta el 15 de marzo.
-Las estrellas conspiran para llenarte de suerte y apoyo empezando cuando el sol ingresa a Géminis y al sector espiritual de tu carta astral el día 21. Usa esta posición solar como excusa para abrazar tu lado místico, porque el universo está ansioso por guiarte y comunicarse contigo
-La luna llena en Acuario el 23 de mayo es un día particularmente sagrado para ti, así que asegúrate de encender algunas velas, decir positivos mantras, y preparar tus intenciones para el futuro.
-Días destacados: 1, 7, 12
-Días desafiantes: 6, 11, 26
+juniode 2024 - La gente se siente atraída hacia tus sabios consejos y tu profundidad emocional en este momento, querido Escorpión, ya que cuatro cuerpos celestes están transitando por el prudente Capricornio y el sector de tu carta astral que rige tu sector de comunicación. Aunque el nuevo mes suele traer ansiedades y emoción en lo colectivo, intenta no sobrecargarte con fuertes emociones por alguien que no haría lo mismo por ti. A nivel personal, estas vibras son excelentes para estimular tu brillante mente, por lo que podrías proponerte aprender una nueva habilidad o leer más.
+La luna nueva en Cáncer del 6 de junio actúa como una de las noches más mágicas del año para ti, porque la diosa Luna brilla con fuerza en el sector espiritual de tu carta astral. Usa esta energía para conectar con el más allá, tomando nota especialmente de extraños sueños, señales, o sincronicidades que encuentres durante este tiempo. Conectar con tu gratitud también puede ayudarte a conseguir nuevas recompensas, así que asegúrate de que el más allá sepa cuánto aprecias tus bendiciones.
+Si estuviste con los ánimos bajos durante estos últimos dos meses y medio, puede que la neblina comience a disiparse cuando Marte termina su retrogradación en Géminis el día 12. Usa el impulso de este movimiento planetario para tomarte en serio tu evolución personal y las puertas comenzarán a abrirse. Notarás un cambio una vez que la temporada de Géminis se manifiesta el 21 de junio, empujándote a cuidar tus más valiosas relaciones mientras inviertes en lo estético y la comodidad de tu hogar.
+Días destacados: 9, 22, 29
+Días desafiantes: 13, 15, 28

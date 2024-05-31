@@ -7,16 +7,12 @@ home: FALSE
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Géminis_mes.png#2024-05-26
+ogimg: /images/mes/Géminis_mes.png#2024-05-31
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-05-26'
+ lastmod: '2024-05-31'
 ---
 
 
-Te sentirás más sensible a la energía colectiva este mes, estimable Géminis, ya que este mes activa el sector de tu carta astral que rige la comunidad. Presta mucha atención a cualquier cambio emocional que pueda invadirte de repente, porque tus habilidades empáticas con seguridad se agudizarán. Quizás quieras monitorear las noticias que consumes, restringiendo cualquier información que pueda causarte pena. Aunque sin lugar a dudas es importante mantenerse al día con la información, buscar formas de marcar la diferencia te ayudará a escapar de la sensación de impotencia o de estar en las garras de un sistema que nunca cambiará.
-Una energía armoniosa te invadirá cuando tu planeta regente entre a tu signo el 16 de mayo. Este clima cósmico también elevará tu aura, bendiciéndote con una abundancia de glamour, encanto y carisma. El universo trabajará horas extra para ayudarte a alcanzar tus metas, permitiéndote manifestar con facilidad. Solo recuerda mostrar gratitud y apreciar lo que has construido hasta este momento. Algunas nuevas miradas podrían voltear en tu dirección durante las próximas semanas, por lo que no debes sorprenderte si se revela un nuevo amor.
-Aunque muchas personas estarán deseosas de conocerte, sentirás una mayor atracción hacia los lazos íntimos y la soledad a partir del momento en que el sol entra a Géminis y a tu doceava casa solar el día 21. Esta energía es perfecta para trabajar tras bambalinas, lo que te permite identificar cualquier hábito u obstáculo que no te deja avanzar mientras encuentras formas de mejorar antes de que llegue tu retorno solar.
-Días destacados: 1, 3, 7
-Días desafiantes: 9, 10, 16
+El 5 de junio, Júpiter inicia un largo retroceso y la buena suerte se hace menos evidente. Sin embargo, tu vida social se aviva para con la Luna Nueva del 6 de junio. Puede que pienses que tu horario ya está sobrecargado y programado al punto de la saturación; sin embargo, sólo se intensificará aún más. Haz lo que quieras y siéntete libre de salir temprano del evento en el que te encuentres si es que no te emociona lo suficiente. La Luna Llena del 22 de junio te permite comenzar algo nuevo en casa que has querido hacer pero que has estado posponiendo. El momento es aquí y ahora. Puede que no consigas hacerlo todo al instante, pero al menos puedes lograr un importante avance. 

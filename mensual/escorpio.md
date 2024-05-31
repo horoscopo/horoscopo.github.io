@@ -9,17 +9,16 @@ keywords: horóscopo junio, horoscopos en español, horóscopo Escorpio junio , 
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/escorpio_mes.png#2024-05-26
+ogimg: /images/mes/escorpio_mes.png#2024-05-31
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-05-26'
+ lastmod: '2024-05-31'
 ---
 
 
- > Escorpio en mayo será una buena oportunidad para valorar más lo que la vida te trae y elegir desechar lo que ya no te hace feliz.
-Recordarás que te mereces tener una vida más abundante, feliz, positiva, plena y alegre, porque ¿sabes que te mereces mucho más, verdad?
+ > Escorpio, este mes podrás superar algunos momentos difíciles, pero con Marte en Libra debes ser cuidadoso en tus decisiones y prestar atención a las personas que tienes enfrente. Podrás consolidar tu posición en lo social o lo laboral y crear nuevas oportunidades para ti, pero no te comprometas demasiado rápido.
 
 
 
-El Sol y Saturno conjuntan el 10 de mayo y esto podría poner a mucha gente nerviosa. No a ti. Alrededor de la Luna Nueva del 8 de mayo, puede que tengas un millón de cosas que te estás muriendo por hacer, pero tu vida social y la época de fiestas siguen interponiéndose. Escoge una cosa y ve si puedes tentar a un amigo para que la haga contigo. La Luna Llena del 23 de mayo puede darte el descanso y el tiempo en privado que deseas y necesitas. Pero eso no significa que no vaya a ser intenso. Lee (o escribe) poesía poderosa, ve una película profundamente emocional y tal vez invita a alguien a que te acompañe a tu morada.
+Mientras más hagas por los demás alrededor de la Luna Nueva del 6 de junio, más ganarás posteriormente. Alguien podría acudir a ti en busca de ayuda o un gran favor. Si tienes el tiempo y los recursos requeridos, haz lo que puedas. Si tu respuesta es no, puedes decirla con compasión. La Luna Llena del 22 de junio aumenta tus ingresos y ganancias, pero también podría aumentar tu impulso a derrochar dinero. Dale a tus finanzas la atención que se merecen y podrás manejarlas muy bien. Sé excepcionalmente fuerte e inteligente el 27 de junio. Espera que cualquier problema, por más difícil que sea, se resuelva durante este periodo de tiempo.

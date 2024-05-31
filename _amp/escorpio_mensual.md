@@ -7,12 +7,12 @@ home: FALSE
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Escorpio_mes.png#2024-05-26
+ogimg: /images/mes/Escorpio_mes.png#2024-05-31
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-05-26'
+ lastmod: '2024-05-31'
 ---
 
 
-El Sol y Saturno conjuntan el 10 de mayo y esto podría poner a mucha gente nerviosa. No a ti. Alrededor de la Luna Nueva del 8 de mayo, puede que tengas un millón de cosas que te estás muriendo por hacer, pero tu vida social y la época de fiestas siguen interponiéndose. Escoge una cosa y ve si puedes tentar a un amigo para que la haga contigo. La Luna Llena del 23 de mayo puede darte el descanso y el tiempo en privado que deseas y necesitas. Pero eso no significa que no vaya a ser intenso. Lee (o escribe) poesía poderosa, ve una película profundamente emocional y tal vez invita a alguien a que te acompañe a tu morada.
+Mientras más hagas por los demás alrededor de la Luna Nueva del 6 de junio, más ganarás posteriormente. Alguien podría acudir a ti en busca de ayuda o un gran favor. Si tienes el tiempo y los recursos requeridos, haz lo que puedas. Si tu respuesta es no, puedes decirla con compasión. La Luna Llena del 22 de junio aumenta tus ingresos y ganancias, pero también podría aumentar tu impulso a derrochar dinero. Dale a tus finanzas la atención que se merecen y podrás manejarlas muy bien. Sé excepcionalmente fuerte e inteligente el 27 de junio. Espera que cualquier problema, por más difícil que sea, se resuelva durante este periodo de tiempo.

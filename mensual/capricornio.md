@@ -9,21 +9,21 @@ keywords: horóscopo junio, horoscopos en español, horóscopo Capricornio junio
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/capricornio_mes.png#2024-05-26
+ogimg: /images/mes/capricornio_mes.png#2024-05-31
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-05-26'
+ lastmod: '2024-05-31'
 ---
 
 
- > Capricornio, el mes de mayo servirá para inyectarte toda la energía del mundo para empezar proyectos y emprender ideas que, desde hace tiempo, te rondan por la cabeza. Tendrás el ego por las nubes y generarás una atracción física que te va a hacer imparable.
+ > Capricornio, te espera un junio movidito cargado de aventuras y novedades. No esperes a estar sentada en el sofá, porque vas a tener que ponerte en marcha, ordenar tus pensamientos y salir ahí fuera a mostrar quién eres de verdad.
 
 
 
-Con la Tauro de Libra en pleno apogeo, Capricornio, te entregarás a la idea de pasar más tiempo en tu espacio y mejorarlo mientras el sol y Venus transitan por tu cuarta casa solar. Recargar tus energías en casa será esencial para tu equilibrio personal, aunque también sentirás la necesidad de decorar para Halloween, probar nuevas recetas o cambiar los muebles de lugar. También deberías considerar la posibilidad de incorporar a tu vivienda algunos elementos hogareños de tu infancia, desempolvar viejas chucherías de tu juventud o recrear el diseño de la sala de estar de tu abuela.
-La luna nueva en Aries del 8 de mayo podría hacerte reflexionar sobre una nueva trayectoria profesional, sobre todo si esperas pasar más tiempo trabajando a distancia o te has aburrido de tu actual ocupación. Lamentablemente, el deseo de empezar de nuevo podría hacer aflorar una tendencia impulsiva, aunque deberías evitar renunciar a tu trabajo por capricho si no tienes un respaldo seguro. Por suerte, este clima cósmico también podría impulsar nuevas oportunidades de liderazgo, aunque tendrás que sentirte a gusto con la idea de tener autoridad sobre los demás.
-Tus talentos naturales comienzan a manifestarse cuando el sol y Venus entran a Géminis el día 21, lo que activa el sector de tu carta natal que rige el arte, el orgullo y la autoexpresión. Date permiso para ser original e intenta no rechazar ninguna idea creativa que surja en tu mente.
-Las buenas vibras siguen fluyendo cuando Júpiter entra nuevamente a Piscis el 27 de mayo, lo que fortalece tu espiritualidad y trae consigo bendiciones kármicas y momentos de iluminación.
-Días destacados: 2, 14, 25
-Días desafiantes: 11, 17, 30
+No es ningún secreto que eres uno de los signos del zodíaco con menos preocupaciones, estimable Capricornio, con una asombrosa habilidad para actualizar tus metas sin un plan concreto para alcanzarlas.
+Sin embargo, la temporada de Géminis te pedirá que te alejes un poco de tus despreocupadas formas para que puedas asumir el control de cualquier problema en tu vida que se haya salido de control recientemente. Desde rutinas inconsistentes hasta ambientes de trabajo tóxicos o maliciosas amienemistades, es tiempo de establecer algunos límites tanto para ti como para otras personas. Solo intenta no abandonar tu calidez durante este proceso, ya que podría resultar fácil que pierdas la compasión con alguien que saque de tus cabales.
+Mantente a la espera de drama en tus relaciones sociales a partir del 9 de junio cuando Mercurio se vuelve retrógrado en tu onceava casa solar. Los asuntos del pasado también podrían resurgir ahora, por lo que es posible que quieras mantenerte lejos de las personas de tu círculo que guardan rencor. Planifica quedarte en casa durante la luna nueva el día 6. Las emociones estarán a flor de piel, y es posible que estés de humor para secar las lágrimas de otras personas.
+La temporada de Géminis hace su debut el 22 de junio, y eleva tu conciencia social y política. La injusticia se sentirá particularmente desencadenante ahora, pero querrás mantener el control de tus respuestas emocionales. Evita desahogarte con diatribas en las redes o en discusiones con otras personas. En cambio, adopta un enfoque significativo hacia los cambios que quieres ver. Por suerte, también tendrás suficientes oportunidades de disfrutar el lado menos serio de la vida mientras sientes el llamado para unir fuerzas con tus camaradas más serviciales.
+Días destacados: 1, 25, 30
+Días desafiantes: 2, 18, 26
