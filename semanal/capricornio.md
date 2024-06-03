@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 27 de mayo 2024 al 02 de junio 2024 
-description: Horóscopo semanal capricornio 27 de mayo 2024 al 02 de junio 2024. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Capricornio porque no eres así. 
+title: capricornio 03 de junio 2024 al 09 de junio 2024 
+description: Horóscopo semanal capricornio 03 de junio 2024 al 09 de junio 2024. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Capricornio. Ahora brillas así que, aprovecha. Aprovecha todo.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2024-05-27
+ogimg: /images/zodiac/semanal_capricornio.png#2024-06-03
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-05-27'
+ lastmod: '2024-06-03'
 ---
 
 
 
-## Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Capricornio porque no eres así. 
+## Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Capricornio. Ahora brillas así que, aprovecha. Aprovecha todo.
 
-Vas a abrir los ojos y, aunque no des los pasos al momento, las ideas las tendrás claras. 
- La rutina no te hace mal, pero si la monotonía, y te encuentras en el punto de cambiar para renovarte. 
- Cambiar el chip hará que entiendas muchas cosas que hasta ahora te preocupaban. Necesitas mirarte por dentro y ver hasta dónde eres capaz de llegar y sobretodo, hasta donde QUIERES llegar. Quieres ser feliz y harás lo que sea para conseguirlo, lo sabes.
-Con Mercurio alineandose estrechamente con las energías transformativas de Plutón en un sector intenso de tu carta astral, el comienzo de la semana podría empujarte a tomar una decisión. Incluso si no es la decisión correcta, el hecho de que hayas tomado una decisión puede traerte una sensación de alivio. Pero puede que tus amigos tengan algo que decir al respecto. Tendrás que tener una actitud fuerte y positiva para que no te importe lo que digan y mantenerte firme. Al mismo tiempo, la escena social dinámica actual puede hacerte sentir muy bien.
+Eres así, y quien intente cambiarlo, debe tener claro que será imposible. El problema es cuando te metes en los juegos más de lo que debes. 
+ y es que no puedes parar, de verdad.
+El lunes es un día alegre para ti, no sólo porque la actividad solar que se presenta para mejorar tu vitalidad, sino también porque otra positiva conexión podría traerte buena suerte. Durante las próximas cuatro semanas tendrás un montón de oportunidades para empezar a avanzar hacia las metas que tienen un significado personal para ti. Sin embargo, ciertas cuestiones hogareñas podrían retrasar tus planes, sobre todo a partir de mitad de semana. Si es así, no luches contra ello. Ve con la corriente y cualquier problema pronto se desvanecerá.
 
 ## Dinero
 
-Estás tratando de encontrarle solución a un dilema monetario en curso. Te estás convirtiendo en una figura de autoridad en tu campo. Y ahora te preparas para aprovechar todo lo que has cultivado. El cosmos está afectando a tu sector de dinero y valores, mostrando que el flujo de efectivo debería de aumentar muy pronto con un poco de esfuerzo y decisión.
+Esta semana podría ser tensa para ti. Presta especial atención a los mensajes que estés recibiendo de sus sueños y flashes psíquicos. Lejos de ser esotéricos y confusos, están justo en el blanco ahora. Al mismo tiempo, sigue añadiendo más a tus capacidades al asistir a clases, talleres y seminarios. Tienes todo lo que se necesitas, pero un poco más no te vendría mal.

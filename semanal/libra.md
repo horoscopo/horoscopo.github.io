@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: libra 27 de mayo 2024 al 02 de junio 2024 
-description: Horóscopo semanal libra 27 de mayo 2024 al 02 de junio 2024. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Libra, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+title: libra 03 de junio 2024 al 09 de junio 2024 
+description: Horóscopo semanal libra 03 de junio 2024 al 09 de junio 2024. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2024-05-27
+ogimg: /images/zodiac/semanal_libra.png#2024-06-03
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-05-27'
+ lastmod: '2024-06-03'
 ---
 
 
 
-## No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Libra, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+## Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
 
-Está bien hacerse ilusiones Libra, pero hazte ilusiones que sean reales por favor. Pon los pies en la tierra y vive y disfruta un poco del presente, a veces parece que te olvidas de donde estás y te vas a momentos que todavía no han llegado, lo peor es que no siempre son momentos buenos si no que tu mente se pone en lo peor. Esta semana tendrás días buenos y malos, tendrás días en los que estés muy arriba y otros muchos en los que querrás que nadie se acerque a ti. Tendrás que tomar decisiones que te lleven a cosas positivas Libra, cosas en realidad de provecho. Te llegan dudas, sobretodo en el amor, no confías del todo en que las cosas cambien pero debes poner en una balanza los momentos positivos y los negativos de todo y en base a eso decidir qué es lo que más te interesa. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada Libra. Controla tu carácter y en vez de enfadarte con el mundo busca soluciones porque si te enfadas pero te quedas donde siempre has estado no valdrá para nada. Enfádate con razón, con motivos, y después haz algo al respecto. Hay algunas cosas en la vida que simplemente no tienen sentido, pero tendrás que tener fe de que han pasado por alguna razón… No te agobies demasiado.
-El desarrollo del enlace entre Júpiter y Plutón puede ser alentador para reconocer el interés en una idea o una oportunidad que podría ser muy buena para ti. Sin embargo, esto no es algo que deba ser apresurado. Tendrás que hacer el trabajo preliminar con el fin de sacarle el máximo provecho. Empieza ahora y estarás en la posición perfecta para seguir avanzando dentro de un par de semanas. Además, es posible que sientas motivación a invertir dinero en el sector inmobiliario con la esperanza de obtener una buena ganancia más adelante.
+Aunque nadie lo quiera para sí mismo hay que dejar algo claro: el sufrimiento a veces es nuestro mejor maestro. Sí Libra, si aún sufres es porque no has aprendido esa lección en particular, es porque aún no te has armado de valor para dejar de lado lo que no te hace ningún bien, lo que no te aporta. Cuando por fin lo hagas y te decidas de verdad, el sufrimiento se acabará yendo… Pero si sólo tratas de engañarte la misma lección acabará por venir una y otra vez a tu vida. Acompañada de dolor.
+Puede que la razón por la que brilles esta semana no sea gracias a alguien, sino por la razón de haber ignorado a alguien. De hecho, una positiva mezcla de energías en la parte superior de tu carta podía verte haciendo un gran esfuerzo por alcanzar un objetivo o un sueño. Y aunque otros refuten, tendrás la fe para seguir adelante. Por otro lado, una positiva alineación entre semana podía llevarte a invertir en bienes, beneficiarte de la generosidad de tu familia o a compartir un golpe de suerte.
 
 ## Dinero
 
-Normalmente eres capaz de resolver cualquier dilema de dinero con inteligencia y tenacidad, y esta semana no es diferente. Los aspectos indican el éxito a través de propiedad compartida y las inversiones, así como las herencias que provienen de fuentes inesperadas. Tu trabajo y la salud se ven afectados. Pon un esfuerzo adicional en los proyectos de trabajo que impresionen a los de arriba para que seas el próximo en la línea de promoción. Sin embargo, protégete contra el cansancio extremo.
+A veces puedes ser un conformista, y esta semana, es posible que tengas que hacer todo lo necesario para mantener esto fuera de tu vida. Una nueva energía entra a tu casa de valores y dinero en efectivo, lo que facilita una especie de pausa para ti. En este momento de tranquilidad, estás pensando en lo que eres y en lo que estás dispuesto/a a hacer por dinero y cuánto tiempo libre necesitas para mantenerte sano/a y productivo/a.

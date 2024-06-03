@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 27 de mayo 2024 al 02 de junio 2024 
-description: Horóscopo semanal leo 27 de mayo 2024 al 02 de junio 2024. El mundo puede esperar Leo, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+title: leo 03 de junio 2024 al 09 de junio 2024 
+description: Horóscopo semanal leo 03 de junio 2024 al 09 de junio 2024. Crece Leo, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2024-05-27
+ogimg: /images/zodiac/semanal_leo.png#2024-06-03
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-05-27'
+ lastmod: '2024-06-03'
 ---
 
 
 
-## El mundo puede esperar Leo, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+## Crece Leo, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
 
-Acepta las ofertas que creas que debas aceptar y sobre todo, cree en ti, porque solo o acompañado puedes hacer lo que quieras, puedes llegar hasta donde quieras llegar… Empieza a dedicarle todo el tiempo del mundo a lo que te hace feliz, lo necesitas. Las dudas han quedado atrás, ya te lanzas, y más cuando te estás dando cuenta que si sientes que vas a apostar para ganar tienes que hacerlo ya. Esta semana es muy probable que empieces a abrir los ojos ante cosas nuevas, van a ofrecerte demasiado, conocen tu talento, pero debes ser hábil para elegir qué es lo que más te conviene, qué es lo que realmente necesitas y qué es lo que te hará crecer en un futuro. A la mierda lo demás Leo. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora. Algo muy importante que debes saber es que cuando hagas lo que deseas, procura mandar muy lejos lo que no deseas, ¿y por qué? Porque al final lo que está podrido acabará por pudrir al resto de cosas. Es decir, si empiezas con buen pie algo pero tienes un lastre de cosas o personas que lo que te hacen es que de nuevo vayas hacia atrás, jamás vas a progresar, nunca. Por eso, aleja primero las cosas que debas alejar y cuando estés libre totalmente de ese tipo de negatividad, lánzate a hacer lo que más te gusta, y dedícate a ello al 100%. Te espera una buena semana pero por favor, deja de pensar en idioteces que no te sacan de nada.
-El inicio de la semana podría tener un tono muy profesional, sobre todo cuando se estén discutiendo cuestiones de negocios, si acudes a una entrevista, o al iniciar nuevos proyectos. Ándate con cuidado, ya que no todos compartirán tus puntos de vista. Con cuidado, investiga sus ideas antes de iniciar cualquier conversación importante con el fin de dar una buena impresión. La entrada de Mercurio a Piscis del fin de semana le agrega un poco de brillo extra a tu vida social, mientras que Marte en tu sector de recursos compartidos te anima a poner tus finanzas en orden.
+Vamos Leo, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. Aprovecha tu vida Leo, aprovéchala ahora más que nunca. Se vive mejor sin esperara nada de nadie Leo pero el problema es que, aunque la teoría te la sepas, la práctica te falla un poco. Vuelves a confiar cuando pasa un tiempo, y si no a confiar, al menos das otra oportunidad, das el 100% de ti aunque presumas de frío. Sí, quizás seas frío después, pero estás ahí. Siempre. Y eso no es del todo sano para ti porque no dejas tiempo para que los demás se arrepientan de lo que han hecho y tampoco te das tiempo tú para saber realmente qué es lo que quieres. Y vuelves al bucle. Otra vez. Deja de obsesionarte por lo complicado, en realidad, tú eres muy así, las cosas como son, pero de verdad que sabes que no te trae nada bueno, céntrate en ti y en tus proyectos, en tus metas, ahora más que nunca necesitas esa fuerza y esa fe para que las cosas salgan como realmente quieres. Lo demás tiene que ser pasajero, lo demás probablemente entrará y saldrá de tu vida, pero el que se queda eres tú, así que, aprovecha tu talento ante todo, tus ganas de hacer las cosas bien. Tienes que empezar a dar de ti lo que tu recibes de los demás Leo. Así, tal cual.
+Con tu planeta personal Mercurio en fase retrógrada a partir del 19 de junio, podría haber demoras en las próximas tres semanas, pero podrías encontrar respuestas a asuntos que vienen siendo problemáticos. Marte también entra a tu sector de relaciones, lo que podría alentar la negociación y traer una oportunidad para despejar el aire. Con el Sol actualmente encontrándose en tu sector de recreación durante la semana, este período parece ser agradable y divertido para todas las personas involucradas. Tienes grandes ideas en mente.
 
 ## Dinero
 
-Eres genial al hacer que los asuntos de dinero sucedan de la nada porque eres una persona social y siempre sabes la primicia antes de que otras personas la sepan. Con un aspecto positivo ahora, es muy probable que te arrolle una repentina oportunidad para avanzar en tu carrera que puedes no ser capaz de concentrarte en nada más. Se deriva de algo que empezaste hace años, pero que finalmente despega. Algo de dinero seguro vendrá de ello.
+Piensa en cómo ahorrar e invertir tu dinero duramente ganado, así como la manera de ganar más dinero en general. Pasa unos cuantos minutos de cada día estudiando el intercambio de divisas y otros vehículos de inversión que te hagan ganar financieramente. No es que no hayas estado pensando en esto, por supuesto. Es posible que tengas más dinero atado en tu casa del que creíste.

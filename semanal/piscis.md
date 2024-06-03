@@ -1,30 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 27 de mayo 2024 al 02 de junio 2024 
-description: Horóscopo semanal piscis 27 de mayo 2024 al 02 de junio 2024. Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
+title: piscis 03 de junio 2024 al 09 de junio 2024 
+description: Horóscopo semanal piscis 03 de junio 2024 al 09 de junio 2024. Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2024-05-27
+ogimg: /images/zodiac/semanal_piscis.png#2024-06-03
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-05-27'
+ lastmod: '2024-06-03'
 ---
 
 
 
-## Esta semana tienes que sonreír más, tienes que salir y darlo todo, tienes que cambiar el chip, creerte más que nadie en este mundo, desfasar todo lo que el cuerpo te pida, improvisar, saber a qué hora sales pero no a qué hora entras, empezar a pensar un poco en ti y en pasártelo bien.
+## Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
 
-Es muy importante que eches la vista atrás Piscis, que mires al pasado, que te des cuenta de lo que ya pasaste una vez y de lo que no quieres que se vuelva a repetir nunca mas. Valora lo que tienes ahora, y si el resto no lo hace contigo de la misma manera algo falla así que, ¡fuera! No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día. Esta semana toca reflexionar, toca poner en una balanza lo bueno y lo malo, toca comprender de verdad si estás haciendo lo que te gusta y lo que te hace feliz y sobretodo si estás con las personas que merecen la pena. Sólo tenemos una vida y, o cambias el chip y aprendes a aprovecharla o cuando mires atrás te lamentarás por todo el tiempo que has estado perdiendo. Sólo tenemos esas dos opciones.
-La luna en cuarto menguante del lunes podría hacer que te cuestiones si debes comprometerte con un grupo o una membresía, o abandonarlos momentáneamente. Si son costosos, esta podría ser la señal que necesitas para abandonarlo. Pero es poco probable que quieras trabajar sin ayuda. Conectar con un equipo o un socio podría permitirte lograr mucho más.
-Debido a que el sol está recién llegado a tu sector social, que también está en línea con el fogoso Marte en tu sector de relaciones el miércoles, un encuentro podría resultar muy motivador. 
-El viernes, una encantadora alineación entre el jovial Júpiter en tu sector hogareño y el compasivo Neptuno en Piscis en un sector más intenso de tu carta podría encontrarte sumergiéndote en algunos secretos familiares. Sacarlos a la luz para analizarlos podría ser un proceso muy sanador. 
-La conexión entre el encantador Venus y el práctico Saturno del sábado podría animarte a pasar algo de tiempo por tu cuenta, en especial si debes reflexionar sobre algún tema.
+Vives tanto con tantísima intensidad que a veces te olvidas de la realidad, de lo que aún tienes pendiente, de lo que necesitas conseguir y sobretodo de lo que necesitas cerrar y zanjar. Y es que Piscis, cuando las cosas empiezan a ir un poquito mejor se te olvida todo lo malo por lo que has pasado, por lo que te han hecho pasar. Y estás bien, porque así es como vives el presente, el minuto, el momento, pero a la vez si después viene otra golpe, vuelve a doler. Lo que pasa es que ya no duele igual, ya duele menos, porque te insensibilizas, y eso en realidad no es del todo bueno. Es como si lo esperaras, como si ya supieras que después de una discusión vendrá una reconciliación, con todo, con la gente que está a tu alrededor, con tu vida. Y todo se repite, una y otra vez, y no sales de ese círculo, y lo que antes te rompía el corazón ya no te rompe, porque sabes lo que vendrá después, y así todo el tiempo. Y eso se llama conformismo Piscis. ¿Hace cuanto no te paras a pensar solo si realmente eres feliz con lo que tienes? En la vida puedes estar contento con muchas cosas que no van mal a tu alrededor, pero también tienes que saber cuáles son las que van mal para cambiarlas. Porque aunque no lo creas, una manzana podrida en el cesto puede pudrir las demás si no se saca a tiempo. Y es que, tienes que hacer una limpia en tu vida, no puedes pensar que “bueno, en la vida hay cosas buenas y cosas malas”, claro que es así, pero ahí estás tu para poder cambiar las malas. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Piscis.
+Evita entrar a una disputa entre semana, cuando la Luna Nueva podría llevarte a hacer cierto incidente más grande de lo necesario. Sería mejor aminorar las dificultades en vez de hacer una montaña de un grano de arena. Estarás en el centro de atención te guste o no. Con una influencia muy optimista beneficiándote, este es un momento excelente para mostrar tus habilidades. Tu vida profesional se vislumbra positiva, sobre todo cuando te dispones a ponerte en contacto y conectar con personas de ideas afines.
 
 ## Dinero
 
-Esta semana pones a prueba la resistencia y la tensión de tus relaciones. Esto puede resultar en que más de una relación profesional estrecha no funcione. No importa. Hay un montón de cambios positivos que se aproximan a tu sector del hogar, lo que indica un movimiento, la venta, o la adición de un espacio laboral en tu vida. El secreto está en no tratar de forzar nada ya que no es probable que dé frutos financieros por ahora.
+Para aprender más sobre los caminos del amor, les pides consejos a tus amistades. Entiendes lo que es tener una pareja, cuidarla, y balancear a otra persona de una manera íntima. Los aspectos que combinan trabajo y dinero, funcionan de la misma manera. Exhibe tu interés en obtener una nueva y mejor posición. ¡Tienes posibilidades de obtener tanto eso como un aumento! Pide lo que quieres y no lo que piensas que la compañía puede pagar.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 27 de mayo 2024 al 02 de junio 2024 
-description: Horóscopo semanal geminis 27 de mayo 2024 al 02 de junio 2024. No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya Géminis. Muévete o haz que se mueva el resto.
+title: geminis 03 de junio 2024 al 09 de junio 2024 
+description: Horóscopo semanal geminis 03 de junio 2024 al 09 de junio 2024. Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2024-05-27
+ogimg: /images/zodiac/semanal_geminis.png#2024-06-03
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-05-27'
+ lastmod: '2024-06-03'
 ---
 
 
 
-## No es tu sitio. No estás en el lugar en el que quieres estar. Al menos por ahora. Simplemente estás tratando de mantenerte, de conformarte, y de que mientras, pasen los días… Cámbialo ya Géminis. Muévete o haz que se mueva el resto.
+## Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
 
-Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. Quieres perder el interés de algunas cosas pero no puedes. Sabes de sobra lo que está bien y lo que está mal, lo que deberías dejar a un lado ya pero a la hora de la verdad, sientes como si algo te atrapara, como si no pudieras decir “hasta aquí” definitivamente, como si no pudieras alejarte del todo de verdad. Pero en vez de marcharte, te quedas, y te quedas de mala hostia, y te enzarzas en pensamientos negros, en peleas tontas y en discusiones que no merecen la pena. Tu te quieres mucho, y sabes lo que vales, pero a la vez te dejas llevar, esa pasión incontrolada es la causante de tus alegrías más grandes y de tus dolores de cabeza más intensos. Y no puedes parar. Y te sientes encerrado en un círculo, un círculo del que cuando empiezas a salir te jala para adentro otra vez… Está bien echarle picante a la vida Géminis, en serio, está bien que haya un poquito de locura, pero no te pases porque al final vas a acabar por pagar un precio alto por esto. Ahora puedes con todo Géminis, recuperarte te lleva un par de días o tres pero, ¿es lo que quieres para tu futuro? No mantengas demasiado lo que debería estar muy lejos de ti.
-La positiva alineación de principios de semana podría indicar que recibirás más dinero. Tal podría venir de una venta, aumento de sueldo, segundo trabajo o pequeña empresa. Sea cual sea tu fuente de ingresos, parece que tal aumentará en los próximos meses y semanas. Por otro lado, tu sector de romance y relajación se verá agitado con Marte entrando a esta zona. Es hora de mostrar tus habilidades creativas o tener una mayor determinación en tu búsqueda de encontrar a tu pareja perfecta.
+Hay gente que no respeta que puedas crecer Géminis, hay gente que no entiende que a veces tengas que mirar por ti mismo antes que por los demás. Ya has pasado demasiado ¿no crees? No puedes estancarte con nada ni con nadie. Ahora es el momento en el que debes tomar decisiones y quien de verdad quiera estar a tu lado puede seguirte. Ya no quieres estar detrás de nadie anteponiendo siempre sus vidas a la tuya, sus metas a tus objetivos, ya estás cansado de ir detrás del mundo. Es ahora el mundo quien debe, si quiere, ir detrás de ti. Llegan buenos tiempo para los Géminis pero tienes que ser positivo. Todo lo que hagas hoy te repercutirá mañana, cada paso, cada peldaño que subas, cada decisión que tomes. Es importante que tengas todo claro y que cuando te enfoques en algo pelees por ser el mejor. Todo lo que des lo vas a atraer, si tu ambiente es positivo atraerás lo positivo, y ahora debe ser así. Y si surge algún pensamiento negativo trata de esquivarlo como sea, y si no puedes hacerlo, impulsa tu ego y llénate de piropos y de cosas positivas, no puedes dejar que lo negativo domine tu vida, tienes que tomar el control. Crece Géminis, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
+Te entretendrás mucho conectando, socializando y disfrutando de festivas reuniones, lo que te da la oportunidad de volver a encontrarte con viejas y nuevas amistades. Esta semana, podría haber un dramático cambio de enfoque. El énfasis estará en las interacciones y en establecer metas con propósito que incluyan el establecimiento de contactos. Sin embargo, la noticia más importante puede ser que Saturno deja tu sector monetario e ingresa a este sector. Parte de la presión financiera que parecía haber puede comenzar a disminuir, lo que es muy bueno.
 
 ## Dinero
 
-Esta semana se trata de alguien que conoces probablemente dirigiéndote a un mal camino o distrayéndote mucho de tus metas monetarias o laborales dificultando tu balance. No puedes evitar ser irresistible, pero bien puedes utilizar la energía del Universo a mitad de semana. Tu atención debe estar en la eliminación de viejas deudas.
+Puede que esta semana tengas la tentación de ampliar tus esfuerzos de ganar dinero, los cuales incluyen la escritura, el Internet y la creación de contenidos. Pero puede ser que una parte de ti sienta atracción a educación adicional para que puedas cobrar más por tus servicios. Ya que tu principal trabajo cae en medio de esto, no dejes que sea la cosa que sufra. La atención cuidadosa a los detalles te permitirá lograr todo lo que quieras y más.
