@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 03 de junio 2024 al 09 de junio 2024 
-description: Horóscopo semanal virgo 03 de junio 2024 al 09 de junio 2024. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
+title: virgo 10 de junio 2024 al 16 de junio 2024 
+description: Horóscopo semanal virgo 10 de junio 2024 al 16 de junio 2024. Tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias, tu corazón vale oro, y tú también Virgo. Pero sigue protegiéndote a ti mismo…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2024-06-03
+ogimg: /images/zodiac/semanal_virgo.png#2024-06-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-06-03'
+ lastmod: '2024-06-10'
 ---
 
 
 
-## Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
+## Tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias, tu corazón vale oro, y tú también Virgo. Pero sigue protegiéndote a ti mismo…
 
-No arriesgues, no apuestes si no es victoria segura, es un consejo. Si tienes algo claro ve a por ello a muerte pero si dudas no pelees ni luches, al menos por ahora. Has perdido muchas fuerzas en otros asuntos y lo que menos te conviene es seguir perdiéndola en cosas en las que no sabes si vas a ganar. Ha llegado el momento en el que debes hacerte valorar más. El pasado te ha creado esa inseguridad que a veces tienes a la hora de tomar decisiones, y sí, antes quizá pensabas todo demasiado pero ahora estás en modo “lo tiro todo por la ventana”. Cuidado Virgo, cuidado porque los cambios no pueden ser radicales, no tienes la fuerza necesaria ahora para andar arriesgando tontamente y sólo porque en el momento te apetezca. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
-El deseo de aventura podría llevarte a hacer planes para tomar un crucero, una largo trayecto, o un viaje alrededor del mundo. Hay bastante acción manteniendo tu tiempo ocupado, y mientras más emocionante y desafiante sea, mejor. Un alegre enfoque en cuestiones profesionales podría verte solicitando un nuevo puesto de trabajo, promoción, o cambiar por completo tu escena laboral. Sea lo que sea a lo que te dediques ahora, es probable que desees más ingresos, más retos, o más poder. ¡Es hora de ir tras ello!
+No te preocupes tanto por los demás y empieza a darte un poquito más de valor a ti mismo. A veces quieres arreglar al mundo Virgo pero no te das cuenta de que es el mundo el que no se quiere arreglar. 
+ Intenta no decir nada negativo durante 24 horas y observa cómo tu vida cambia. Es de quien te rodeas últimamente, ese es el problema. Sacas lo peor de ti en cuestión de segundos y eso no es bueno. Nada bueno.
+Es posible que te estés presionando demasiado, lo que podría llevarte a perder la fe en tus capacidades. No tiene por qué ser así. La energía de esta semana ilumina áreas en las que podrías estar esforzándote demasiado. Esto no es una crítica, es sólo un consejo para animarte a darte un poco de espacio. Otra razón para ser amable con tu persona es la actividad lunar en tu sector social. Tal podría significar cambios dentro de ciertas amistades o grupos con los que tienes afiliación.
 
 ## Dinero
 
-Tú necesitas sentir seguridad en todos los aspectos de tu vida, lo que por lo general requiere de dinero en efectivo. Ahora, tus relaciones se vuelven muy importantes cuando se trata de hacer más dinero. Si necesitas un nuevo puesto de trabajo o una recomendación, pídele el favor a la persona más poderosa que conozcas. El aspecto actual es favorable para que las cosas se resuelvan y para que logres la felicidad que anhelas.
+Esta semana, el Universo te pide que busques clases, seminarios y talleres que puedan mejorar tu conjunto de habilidades, especialmente cuando se trata de producir e invertir dinero. Estás frente a un momento de necesidad de mirar hacia adentro para descubrir qué es lo que realmente quieres hacer para ganar dinero. Ten honestidad y trata de encontrar ese tipo de trabajo.
