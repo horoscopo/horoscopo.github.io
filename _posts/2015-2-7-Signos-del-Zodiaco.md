@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 10 de junio 2024
-description: Horóscopos del dia de hoy 10 de junio 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 11 de junio 2024
+description: Horóscopos del dia de hoy 11 de junio 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2024-06-10
+ lastmod: 2024-06-11
 ---
-Alguien tiene que ser franco hoy y probablemente lo será mientras Mercurio forme sextil con Saturno. Es la actitud adecuada. La gente responde positivamente después de ver las cosas bajo una mejor luz. La escena social de esta noche es intensa, incluso hipnótica, bajo la Luna en Escorpión. Parejas, ¿por qué no contarse sus secreto mutuos? Inténtenlo.
+¡Algo necesita ser hecho y tú lo haces! Hay pocas personas que sienten contento con simplemente sentarse, tener esperanza y hacerse preguntas sobre la vida mientras Marte en Capricornio conjunta a Plutón. Hay miles de maravillosas palabras existentes en el mundo, por lo que no puedes quedarte sin hablar. Dilas mientras la Luna forme trígono con Mercurio esta noche.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
