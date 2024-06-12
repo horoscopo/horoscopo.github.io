@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 11 de junio 2024
-description: Horóscopos del dia de hoy 11 de junio 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 12 de junio 2024
+description: Horóscopos del dia de hoy 12 de junio 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2024-06-11
+ lastmod: 2024-06-12
 ---
-¡Algo necesita ser hecho y tú lo haces! Hay pocas personas que sienten contento con simplemente sentarse, tener esperanza y hacerse preguntas sobre la vida mientras Marte en Capricornio conjunta a Plutón. Hay miles de maravillosas palabras existentes en el mundo, por lo que no puedes quedarte sin hablar. Dilas mientras la Luna forme trígono con Mercurio esta noche.
+Los comentarios precipitados traen dolorosos arrepentimientos cuando Mercurio se encuentra a punto de cambiar de signo como lo está hoy. Si debes decir algo, trata de evitar la angustia y encuentra una manera apacible de expresarte. Esta noche surgen interesante, intrigantes, memorables, e incluso olvidables personalidades con una astuta capacidad intuitiva cuando la Luna aspecta a Neptuno. ¡Sorpresa! Lo que sientes, está en lo correcto.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
