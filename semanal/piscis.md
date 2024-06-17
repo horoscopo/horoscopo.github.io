@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 10 de junio 2024 al 16 de junio 2024 
-description: Horóscopo semanal piscis 10 de junio 2024 al 16 de junio 2024. Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
+title: piscis 17 de junio 2024 al 23 de junio 2024 
+description: Horóscopo semanal piscis 17 de junio 2024 al 23 de junio 2024. Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2024-06-10
+ogimg: /images/zodiac/semanal_piscis.png#2024-06-17
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-06-10'
+ lastmod: '2024-06-17'
 ---
 
 
 
-## Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
+## Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
 
-Mucha veces buscas la paz, la alegría, despertar de todo lo que te ha mantenido ciego/a durante mucho tiempo, el bienestar, las ganas, la fuerza, ser feliz… Pero todo eso lo tienes dentro Piscis, lleva dentro de ti mucho tiempo aunque a veces se te olvide, aunque a veces no recuerdes quien eres del todo. Ya eres paz, ya eres alegría, ya eres fuerte y ya has abierto los ojos. Llegan tiempos buenos Piscis, llega una renovación a tu vida porque tú mismo la estás atrayendo, porque estás cambiando el chip, porque quieres atraer lo positivo. Y lo positivo llegará.
-Es hora de tratar de salir adelante, explorar nuevas opciones y considerar estudiar o viajar como forma de ampliar tus horizontes. Con Júpiter ahora en Virgo, puede que sientas motivación a convertirte en mentor o entrenador en un tema que te interesa. Esto podría proporcionarte un lucrativo ingreso, ya que existe una buena probabilidad de que tu reputación pase de boca en boca. También estarás alerta cuando se trate de asuntos comerciales. Tu determinación a tener éxito sugiere que los obstáculos se disolverán a medida que avanzas.
+Hay cosas que no deben hacer daño Piscis, pero te hieren, hay cosas que deberían curarte pero te enferman. Algo no va bien del todo, y lo sabes. Cualquier persona que te lastime a propósito no te quiere, cualquier situación en la que no te encuentres bien y te de más quebraderos de cabeza que otra cosa no te conviene. Hay mucho en la vida que perseguir, muchísimos sueños, muchísimas metas… No puedes olvidarte de ti mismo Piscis, ahora no. Esta semana tienes que tomar un decisión muy importante que probablemente cambie todo el rumbo de tu vida, está semana quizás elijas un futuro muy distinto al que creías y tienes que estar preparado para aceptarlo. Lo nuevo no es malo Piscis, lo nuevo quizás de un poco de miedo pero cuando lo que tienes no te llena al 100% hay que probar, hay que arriesgar para ganar. No puedes tener claras tantas cosas para que a la mínima de cambio te hagan un lavado de cerebro y acabes por tirar a la basura todas esas ideas tan válidas. No puedes estar de bajón cuando tú eres el primero que no busca estar en ese estado, cuando tú eres quien da todo lo que haga falta por hacer las cosas bien. Semana intensa Piscis, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
+Con el 2024 ya en marcha, es posible que tengas que dar uno o dos pasos hacia atrás con el fin de poder avanzar. Esto se debe tanto a Mercurio como Júpiter entrando a su fase retrógrada esta semana, pudiendo descarrilar ciertos planes. Si sientes decepción debido a la falta de progreso, ¡no cedas ante ella! Esta puede ser una excelente oportunidad para revisar tus metas y objetivos del año. Si sientes menos entusiasmo acerca de una de tus ideas, este es el momento de hacer cambios.
 
 ## Dinero
 
-Esta semana se trata de las configuraciones celestes creando mucha tensión para ti. Se inicia en tu sector de expresión personal y autoestima, lo que indica la necesidad de abordar la forma en la que uno se proyecte al mundo. Puedes ser quien quieras ser ahora.
+Puede que sientas  como que el Universo apoya tus proyectos y metas esta semana. Pero puede que tengas que acceder a tus poderes de comunicación para expresar tu opinión y obtener lo que viene a ti financiera y de otras formas. En otras noticias, las indicaciones muestran que tu panorama de deuda está a punto de mejorar muchísimo. Has hecho un buen trabajo, por lo que disfruta de las recompensas.

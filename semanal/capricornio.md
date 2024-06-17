@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 10 de junio 2024 al 16 de junio 2024 
-description: Horóscopo semanal capricornio 10 de junio 2024 al 16 de junio 2024. Semana de reflexión Capricornio, pero no pares por nadie, reflexiona mientras sales por ahí y te lo pasas bien, y nada de lamentaciones, nada de remordimientos… La vida es tuya Capricornio. 
+title: capricornio 17 de junio 2024 al 23 de junio 2024 
+description: Horóscopo semanal capricornio 17 de junio 2024 al 23 de junio 2024. A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad Capricornio, ahora estás que lo partes.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2024-06-10
+ogimg: /images/zodiac/semanal_capricornio.png#2024-06-17
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-06-10'
+ lastmod: '2024-06-17'
 ---
 
 
 
-## Semana de reflexión Capricornio, pero no pares por nadie, reflexiona mientras sales por ahí y te lo pasas bien, y nada de lamentaciones, nada de remordimientos… La vida es tuya Capricornio. 
+## A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad Capricornio, ahora estás que lo partes.
 
-Ya tienes demasiados quebraderos de cabeza como para encima entrar en una etapa de poco orgullo. Nada de eso. 
- La gente cree que estarás siempre ahí, y es que eres muy leal a los tuyos, y es que has dejado pasar errores grandes que te han costado muchos disgustos, errores que en otros momentos los hubieras hecho pagar caros. ¿Qué te pasa Capricornio? 
- todo lo que desea.
-La semana trae consigo a una intensa actividad lunar, lo que podría hacer que los sentimientos hiervan, en particular si han estado reprimidos por un tiempo. Ayudaría cuidar tus palabras el viernes, en particular si sientes molestia o frustración. Trata de evitar hacer cualquier cosa de la que te arrepientas luego. ¡Intenta mantener la calma si es posible! Por último, tu vida social podría compensar por cualquier decepción en otras áreas, ya que trae la opción de romance y brillantes personas a tu alrededor.
+Tienes muchas preguntas que solamente puedes contestarte tú a ti mismo ahora. 
+Hasta ahora todo ha ido más o menos bien, o sea, has ido superando cada traba que la vida te iba poniendo pero de repente te quedas estacando por algo y no sabes qué dirección tomar.
+Romance, creatividad y actividades de recreación parecen ser el enfoque principal. Pero esta semana, un aspecto muy especial podría empujarte a poner en marcha una idea que ya no puedes postergar más. Esta podría ser una oportunidad creativa que impulse tu negocio o tu trabajo a un nuevo nivel, por lo que podría ser una oportunidad muy importante para ti. Y con una luna llena alentándote, este podría ser uno de los mejores momentos para entrar en acción. A partir del Martes, tu salud y bienestar podrían volverse una prioridad.
 
 ## Dinero
 
-Tu lugar de trabajo está lleno de acción con ciertos cambios que vienen desde arriba. Algunos de estos son de rutina, mientras que otros parecen positivamente revolucionarios. En lugar de instalarte en la necedad, trata de seguirle la corriente al flujo de la energía dominante. Podrías percatarte de que personalmente puedes beneficiarte en el plano financiero. Esto, a su vez, te da acceso a todo tipo de información que puede ayudarte a mejorar tu vida profesional.
+Tienes una situación interesante esta semana. Tu vida puede ser más difícil de lo que es, sobre todo cuando se trata de lo que es tuyo. Definir cómo vas a ganar dinero ahora y en el futuro es mejor que dejarlo todo al azar. Confiar excesivamente en los demás no es la mejor opción ahora.
