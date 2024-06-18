@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 17 de junio 2024
-description: Horóscopos del dia de hoy 17 de junio 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 18 de junio 2024
+description: Horóscopos del dia de hoy 18 de junio 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2024-06-17
+ lastmod: 2024-06-18
 ---
-Es hora de ponerse serios y considerar cada ángulo cuando Mercurio conjunta a Plutón el día de hoy. Con tan solo pensar un poco le inyectas nueva vida a un tema antiguo, una solución parcial o a un lugar. En un giro de 180 grados desde la solemnidad de hoy, la noche tiene un factor sorpresa. Anda y entra en el espíritu.
+Podrías lograr algo a la segunda cuando Mercurio en Capricornio vuelva a conectar a un grado en el que el planeta estuvo alrededor del primero del mes. ¿Alguna vez tuviste la sensación de que has tenido una conversación tantas veces que podrías mencionar cada una de las líneas de la otra persona? Resuelvan sus diferencias. Déjenlas en el pasado.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
