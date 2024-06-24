@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 17 de junio 2024 al 23 de junio 2024 
-description: Horóscopo semanal capricornio 17 de junio 2024 al 23 de junio 2024. A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad Capricornio, ahora estás que lo partes.
+title: capricornio 24 de junio 2024 al 30 de junio 2024 
+description: Horóscopo semanal capricornio 24 de junio 2024 al 30 de junio 2024. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Capricornio.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2024-06-17
+ogimg: /images/zodiac/semanal_capricornio.png#2024-06-24
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-06-17'
+ lastmod: '2024-06-24'
 ---
 
 
 
-## A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad Capricornio, ahora estás que lo partes.
+## Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Capricornio.
 
-Tienes muchas preguntas que solamente puedes contestarte tú a ti mismo ahora. 
-Hasta ahora todo ha ido más o menos bien, o sea, has ido superando cada traba que la vida te iba poniendo pero de repente te quedas estacando por algo y no sabes qué dirección tomar.
-Romance, creatividad y actividades de recreación parecen ser el enfoque principal. Pero esta semana, un aspecto muy especial podría empujarte a poner en marcha una idea que ya no puedes postergar más. Esta podría ser una oportunidad creativa que impulse tu negocio o tu trabajo a un nuevo nivel, por lo que podría ser una oportunidad muy importante para ti. Y con una luna llena alentándote, este podría ser uno de los mejores momentos para entrar en acción. A partir del Martes, tu salud y bienestar podrían volverse una prioridad.
+Fíate de ti mismo Capricornio, de ti mismo y de tus acciones. De nadie más. Las expectativas no funcionan siempre, es más cuantas más expectativas tienes de algo más duro es el golpe después si no se cumplen como tu querías que se cumplieran. Por muy desconfiado y duro que parezcas ser, al final acabas confiando Capricornio y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto, has dejado de lado tu personalidad, tu opinión acerca de algo. Eso es lo que duele. Por eso ahora, lo mejor es no dar demasiado. Deja que sea el resto el que te de a ti. Déjate mimar. Deja que los demás te demuestren en vez de ser tú quien siempre demuestre al resto. No siempre tienes que ser tú el que está equivocado, no siempre tienes que ser tu el que vaya detrás del resto, el que tiene que arreglar constantemente todo. Si te sientes más frío ahora no te preocupes, son etapas, también tiene que haber momentos en los que no des todo de ti. Y ese es uno de ellos. Y no es que hayas cambiado, es que has sabido valorarte, has aprendido a no dar el 100% cuando sólo recibes la mitad, o ni siquiera eso. Los demás se hacen fuertes cuando el débil eres tú. Deja de poner en primer lugar los propósitos de los demás y pon los tuyos antes.
+Si una cierta amistad parece estar obstinadamente firme en su postura, podría causar un choque de puntos de vista y valores a menos que puedas predisponerte a tener una conversación de corazón a corazón. Por otro lado, alguien cercano a ti puede no estar de acuerdo sobre un objetivo o ambición, y esto también puede requerir de un manejo cuidadoso; aunque puede salir bien si se toma el enfoque adecuado. La buena noticia es que Júpiter entra a tu sector de horizontes lejanos, y podrías ver un aumento en tus viajes y otro tipo de aventuras.
 
 ## Dinero
 
-Tienes una situación interesante esta semana. Tu vida puede ser más difícil de lo que es, sobre todo cuando se trata de lo que es tuyo. Definir cómo vas a ganar dinero ahora y en el futuro es mejor que dejarlo todo al azar. Confiar excesivamente en los demás no es la mejor opción ahora.
+Recibes un impulso de energía positiva del Universo esta semana. Esto combina tus energías masculinas y femeninas de una manera pacífica, armoniosa y te permite participar en actividades divertidas que involucran tanto a amantes, como a familiares. Sin embargo, otro aspecto te afecta en el área que gobierna los valores y las ganancias. Ambos tienen que ser revisados para que puedas ganar dinero en serio.

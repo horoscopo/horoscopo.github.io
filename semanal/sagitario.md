@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 17 de junio 2024 al 23 de junio 2024 
-description: Horóscopo semanal sagitario 17 de junio 2024 al 23 de junio 2024. No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
+title: sagitario 24 de junio 2024 al 30 de junio 2024 
+description: Horóscopo semanal sagitario 24 de junio 2024 al 30 de junio 2024. Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2024-06-17
+ogimg: /images/zodiac/semanal_sagitario.png#2024-06-24
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-06-17'
+ lastmod: '2024-06-24'
 ---
 
 
 
-## No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
+## Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
 
-Nunca te has arrepentido de nada Sagitario, para bien o para mal la vida te ha dado lecciones en las que no te ha quedado más remedio que aprender. Estás en una fase en la que tus pensamientos se vuelven a pelear entre ellos. Lo que deberías hacer, lo que quieres hacer, lo que el mundo espera que hagas… Otra vez. Piensa antes de nada en lo que vas a perder antes de actuar y de tomar una decisión, pero tampoco busques hasta la más mínima excusa para no hacerlo. A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos Sagitario. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad. Métete en la cabeza que puedes hacer absolutamente todo lo que te propongas solo, sin necesidad de que nadie te nuble el juicio, sin necesidad de que nadie te vuelva loco. La vida va a empezar a enseñarte quien merece la pena, quién no merece que se acerque a ti más de cinco minutos al día y quien no merece que se acerque nunca. Pero primero eres tú, en eso es en lo que tienes que trabajar más, en valorarte a ti mismo, en confiar en ti, en tus instintos, en tus objetivos, en saber que lo que hagas saldrá bien, de verdad. Tú no necesitas ejemplos de nadie, cada uno vive su vida como le apetece y si a alguien no le salieron las cosas como esperaba no significa que a ti no te vayan a salir, deja el miedo a un lado y sobretodo la dependencia emocional. Aunque sea una dependencia mínima. Vuelve a ser la persona que siempre has sido.
-Ciertas personas podrían estarte empujando a avanzar con una meta o plan, sobre todo si tiene algún beneficio. Mientras que todo esto es muy bueno, asegúrate de no ser quién esté haciendo todo el esfuerzo. Si es así, tendrás que tener una plática al respecto. Una escena social activa podría verte felizmente involucrándote en planear una fiesta o cualquier otro evento especial. Con la Luna Llena del Viernes en el tolerante Acuario, este podría ser uno de los mejores momentos para tener esa divertida reunión.
+A veces dejar ir las cosas es mucho más complicado de lo que piensas Sagitario. No vas a encontrar el momento definitivo nunca, no vas a cerrar la puerta de golpe y creer que ya lo tienes superado. Así nada termina bien. Quieres tener seguridad Sagitario, y te aferras deprisa a las cosas pero si miras a tu alrededor sabes que hay piezas que no encajan en el puzzle, que a veces incluso todo parece un teatro, que estás dejando pasar algo en lo que no crees. Pero no querrás dejar ir tan fácilmente, piensas que si lo mantienes todavía lo tienes, que si lo mantienes, todavía existe. Y claro que existe pero no como antes y no como quieres Sagitario. Si hay cosas que fallan repara la grietas o trata de hacerlo, pero no pienses que se podrán reparar solas. Si tienes que plantar cara y dejar sobre la mesa cuáles son tus intenciones y lo que esperas, hazlo. Está bien que creas que muchas cosas van perfectamente pero Sagitario, sabes de sobra que no van tan perfectamente, que hay que arreglar mucho. En serio Sagitario, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo? No te ates tanto, no te creas que el mundo es como tú lo ves en un momento dado. Sagitario, la realidad no es la que tú quieres pintar ahora. Hay promesas rotas y futuros que no se van a dar, pero cuando te des cuenta no te pongas triste, mírate al espejo y sonríe, sonríe por ser quien eres. Y si tienes que llorar que sea por ti mismo, y de emoción, por darte cuenta de todo, por ser valiente.
+Ciertas cuestiones de autoestima, junto con asuntos monetarios, podrían presentársete conforme Venus entra en tu sector de finanzas y valores personales. ¿Estás cobrando lo suficiente por los servicios que prestas? ¿En qué áreas de la vida sientes que te estafan? Estas son preguntas que sería pertinente preguntarte durante los próximos días. La presencia de Saturno en tu sector psicológico podría hacer que te estanques en fracasos pasados cuando lo mejor sería que te enfoques en tus éxitos y cómo mejorar tu autoestima.
 
 ## Dinero
 
-No siempre se te conoce por tu sutileza, y esta semana no es diferente. Tus habilidades comunicativas y estilo personal pueden ser poco convencionales, por lo que bájale un poco al tono si estás tratando de dar una buena primera impresión. Estás pensando en cómo hacer que tu carrera sea un poco más independiente y menos centrada en la oficina. Muéstreles que pueden confiar en ti y que eres capaz de hacerlo bien.
+Tienes energía en tu sector de trabajo. Esto hace que sea más fácil el sobrellevar largos días si has sentido cansancio, o el poder realizar presentaciones, reuniones o papeleo. Mide tu energía durante todo el día para no quedarte sin nada antes del almuerzo. Puede que no tengas el poder de cambiar por completo tu situación todavía, pero definitivamente puedes mejorarla mucho más del estado en el que ha estado últimamente. Persevera.

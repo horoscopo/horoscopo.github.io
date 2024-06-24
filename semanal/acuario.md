@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 17 de junio 2024 al 23 de junio 2024 
-description: Horóscopo semanal acuario 17 de junio 2024 al 23 de junio 2024. Esta semana relájate un poco Acuario, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
+title: acuario 24 de junio 2024 al 30 de junio 2024 
+description: Horóscopo semanal acuario 24 de junio 2024 al 30 de junio 2024. Nada tiene que ser ahora suficiente para ti Acuario, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. 
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2024-06-17
+ogimg: /images/zodiac/semanal_acuario.png#2024-06-24
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-06-17'
+ lastmod: '2024-06-24'
 ---
 
 
 
-## Esta semana relájate un poco Acuario, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
+## Nada tiene que ser ahora suficiente para ti Acuario, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. 
 
-A veces, no es fácil vivir la vida Acuario, a veces no es fácil enfrentarte al mundo con una sonrisa cuando en el fondo estás llorando por dentro. Pero la vida sigue, y aún tienes fuerza suficiente dentro de ti como para aguantar lo que te echen. Algún día te olvidarás de las heridas, de la razón por la que llorabas y por qué o quién te llenaste de dolor. Hay que dejar que las cosas se desarrollen a su manera y a su propio ritmo, no trates de que las cosas pasen a tu manera Acuario. En realidad ese no es el plan, y, en el fondo, no te beneficia. Lo que importa en el fondo es el último capítulo, no tanto el primero…
-A pesar de que quieras algo en los primeros días de la semana, puede que cambies de opinión a medida que se acerca el fin de semana. Por más importante que parezca, el vínculo del vivaz Mercurio con el potente Plutón podría empujarte a actuar sin pensar para satisfacer un deseo. Si esperas un poco, las cosas podrían ser diferentes más adelante y puede que te des cuenta de que no te hacía falta. Por otro lado, el enérgico Marte entra a tu sector doméstico el Jueves, lo cual representa una gran oportunidad para despejar un poco de espacio en tu hogar.
+Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Acuario, por qué te lo callas y te lo llevas callando tanto tiempo? No te das cuenta de que sufres en silencio, no te das cuenta de que acumulas y por eso a veces no avanzas? No eres sensible ni débil por hacerlo, eres real Acuario, y si las cosas te duelen no puedes hacer como si no pasara nada, no puedes dejarlo a un lado y seguir como si nada. Tú no funcionas así Acuario. Has perfeccionado esa sonrisa falsa, has perfeccionado eso de aguantar por fuera como si estuviera entero cuando por dentro estabas roto en mil pedazos, has aprendido a engañar a los demás. Está bien que no quieras preocupar a algunas personas, pero no todo va tan bien como te gustaría Acuario, y mira, tampoco te lo vas a comer todo vale? No ignores tus sentimientos, no trates de aplastarlos para que no se interpongan en tu camino, no intentes de forzar y de mantener fuera de tu vida lo que aún está dentro, la tentación siempre estará ahí hasta que no cortes realmente con el problema… No te sientas imbécil por llorar, por preocuparte demasiado aún, todo tiene un proceso… Y ese proceso llega a su fin… Feliz semana…
+Podrías ser tu propio peor enemigo esta semana, pero no tiene por qué ser así. Si te has convencido de que no hay nada que puedas hacer, por supuesto que lograr algo podría ser más difícil. Date un respiro e intenta tener un enfoque más positivo. Piensa que sí puedes lograrlo y sigue repitiéndote esto. Descubrirás que se transforma en una profecía autocumplida. Puedes conseguir lo que sea que te propongas si eres perseverante.
 
 ## Dinero
 
-Esta semana, el Universo afecta el área de tu carta que rige tu hogar. Es hora de poner no sólo palabras, sino también ideas en práctica. Te has estado sentando en una potencial mina de oro. El llevar tus talentos al Internet significará ventas directas, suscriptores de correo electrónico, y potencialmente clientes para el futuro y a largo plazo.
+Eres uno de los mejores Signos del Zodíaco para manifestar cosas. Con un énfasis en tu sector de dinero, las habilidades que pensaste haber dejado atrás, traen la mayor cantidad de efectivo. Piensa en las personas o los trabajos de una época anterior de tu vida y tendrás la respuesta financiera a tu dilema actual. Un aspecto de apoyo hace que tu trabajo diario sea mucho más fácil de digerir. Si has logrado dar una gran impresión últimamente, pide ese aumento. Ellos te necesitan.
