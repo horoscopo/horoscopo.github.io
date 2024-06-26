@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Géminis Junio 2024 
+title: Horoscopo Géminis Julio 2024 
 permalink: /horoscopo-mensual/amp/geminis/
 normallink: /horoscopo-mensual/geminis/
 home: FALSE
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Géminis_mes.png#2024-05-31
+ogimg: /images/mes/Géminis_mes.png#2024-06-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-05-31'
+ lastmod: '2024-06-26'
 ---
 
 

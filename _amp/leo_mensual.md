@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Leo Junio 2024 
+title: Horoscopo Leo Julio 2024 
 permalink: /horoscopo-mensual/amp/leo/
 normallink: /horoscopo-mensual/leo/
 home: FALSE
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Leo_mes.png#2024-05-31
+ogimg: /images/mes/Leo_mes.png#2024-06-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-05-31'
+ lastmod: '2024-06-26'
 ---
 
 
