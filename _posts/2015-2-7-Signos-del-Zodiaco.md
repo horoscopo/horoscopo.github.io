@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 27 de junio 2024
-description: Horóscopos del dia de hoy 27 de junio 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 28 de junio 2024
+description: Horóscopos del dia de hoy 28 de junio 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2024-06-27
+ lastmod: 2024-06-28
 ---
-Prepárate. La cuadratura entre la Luna y Venus puede alterar puntos de vista cuando las emociones lleven situaciones placenteras al desagrado, y la consideración a la ira o los celos. Las cosas no siempre son como las imaginas. Por la noche, el trígono entre la Luna en Sagitario y Mercurio en Leo añade un toque de fantasía. Después de hoy, bien podrías divertirte con esto.
+El trígono entre Marte y Urano sacude a la vida con dramáticos cambios y avances. Tu estabilidad es un recurso sustancioso y personal. Hablar sobre algo que pasó dentro de una relación es justamente lo correcto bajo la Luna en Leo de esta noche. Por su parte, los solteros deben esperar algunas sorpresas.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
