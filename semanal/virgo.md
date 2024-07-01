@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 24 de junio 2024 al 30 de junio 2024 
-description: Horóscopo semanal virgo 24 de junio 2024 al 30 de junio 2024. Llega una buenísima semana Virgo pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
+title: virgo 01 de julio 2024 al 07 de julio 2024 
+description: Horóscopo semanal virgo 01 de julio 2024 al 07 de julio 2024. Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2024-06-24
+ogimg: /images/zodiac/semanal_virgo.png#2024-07-01
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-06-24'
+ lastmod: '2024-07-01'
 ---
 
 
 
-## Llega una buenísima semana Virgo pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
+## Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
 
-En la vida estamos acostumbrados a arrepentirnos de muchas cosas que en su día hicimos mal pero que también ahora podemos arreglar, empezando por cambiar nuestra actitud. Si no tiene solución no hay que preocuparse más, es algo con lo que te tocará vivir, para bien o para mal, el resto de tu vida, es algo que no cambiará. Pero lo que aún tiene solución, sea la que sea, ¿por qué no solucionarlo? Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. Aguantarse toda la vida algo dentro no es bueno, hay que sacar lo que uno siente, las discusiones a menudo son buenas, siempre que sean respetando al otro, el hecho de decir qué es lo que cambiarías, qué es lo que te pareció mal, qué es lo que te hubiera gustado decir hace mucho tiempo… Todas esas cosas limpian a uno por dentro, el rencor, la rabia, las ganas de decir y no poder, el poder decir pero después no hacer, todo eso, cuando no se saca fuera se acumula, y ¿por qué no sacarlo ahora? ¿Por qué no decir todas esas palabras que no se dijeron? ¿Por qué no dejar limpia tu alma? Hubo un tiempo en el que te funcionó eso de querer decir tanto y saber que es mejor no decir nada… Pero ahora quizás es el momento de que las cosas cambien Virgo…
-Esta podría ser una semana de compras impulsivas a menos que tengas la capacidad de esperar y tomar decisiones más informadas. Aun así, si encuentras algo que quieres a un buen precio, puede que valga la pena concretar la compra. Hay un eclipse solar en tu sector de dinero el jueves, lo que indica que el cosmos te está animando a experimentar con nuevas formas de ganar dinero. Esto puede incluir el uso de una habilidad o un talento que has hecho a un lado. Hacerlo podría ser muy gratificante en más de un aspecto.
+Deja de esperar al futuro Virgo, deja de esperar lo que viene. Empieza a gastar menos tiempo pensando y pensando, planificando qué harás, qué vendrá, qué lograrás o qué perderás. Haz Virgo, haz y siente, deja de dudar de ti mismo, a veces sólo se trata de actuar en el momento sin plantearte cuestiones todo el tiempo. Arriésgate si es necesario pero no te quedes con la duda de qué hubiera pasado si… No te compares con los demás, no trates de buscar respuestas a todo. La vida llega como llega y tienes que saber afrontar lo que viene. Sé fiel a tus experiencias pasadas. Si ya has pasado por algo no repitas los mismos errores de nuevo. No te ajustes a los pensamientos de los demás, no vayas detrás como perro, en serio Virgo, vive un poco joder, pero vive aquí y ahora, el presente. Acepta que no puedes controlarlo todo, sacrifica lo que puedes dejar ir Virgo, y sólo así podrás lograr lo que realmente quieres. Tienes el poder de deshacerte de lo que ya no marcha, de lo que no funciona, tienes el poder de destruir muchas cosas y de reconstruir otra vez lo que mereces la pena. Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor Virgo, sin remordimientos.
+De muchos modos distintos, la mezcla actual de energías es excelente para manifestar tus sueños, ya que estás profundamente al tanto de los niveles más sutiles en los que existen. También tienes la habilidad de planificar con tiempo y entrar en acción para convertir tus sueños en realidad. Si puedes evitar aburrirte de una idea antes de que se ponga en marcha, puede que algo hermoso florezca en los días y las semanas que se aproximan. Por otro lado, una conversación podría terminar en una emocionante noche de cita.
 
 ## Dinero
 
-Normalmente tienes facilidad para generar e invertir dinero simplemente porque eres consciente de la seguridad como regla. Ahora, tu seguridad radica en la forma de vestir, hablar con los demás, y crear tu imagen. A partir de ahí, puedes llegar muy lejos. Puedes conocer a la gente adecuada, obtener la posición adecuada, y finalmente ganar lo que vales. Velar por tu seguridad no se queda atrás conforme creas la vida que siempre has querido.
+Esta semana trae una maravillosa combinación de energías conforme consideras cual será tu siguiente movimiento en el mundo de los negocios y las finanzas. Los aspectos son especialmente positivos y armoniosos, por lo que es posible que te percates de que otros gravitan hacia ti por asesoramiento o asociaciones de un tipo u otro. El Universo te proporciona impulso para tomar acción, ¡por lo que planifica en consecuencia y toma acción! Tu carrera podría usar un poco de atención ahora.

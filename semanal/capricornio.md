@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 24 de junio 2024 al 30 de junio 2024 
-description: Horóscopo semanal capricornio 24 de junio 2024 al 30 de junio 2024. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Capricornio.
+title: capricornio 01 de julio 2024 al 07 de julio 2024 
+description: Horóscopo semanal capricornio 01 de julio 2024 al 07 de julio 2024. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Capricornio, no hay casualidades ni coincidencias.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2024-06-24
+ogimg: /images/zodiac/semanal_capricornio.png#2024-07-01
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-06-24'
+ lastmod: '2024-07-01'
 ---
 
 
 
-## Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Capricornio.
+## Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Capricornio, no hay casualidades ni coincidencias.
 
-Fíate de ti mismo Capricornio, de ti mismo y de tus acciones. De nadie más. Las expectativas no funcionan siempre, es más cuantas más expectativas tienes de algo más duro es el golpe después si no se cumplen como tu querías que se cumplieran. Por muy desconfiado y duro que parezcas ser, al final acabas confiando Capricornio y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto, has dejado de lado tu personalidad, tu opinión acerca de algo. Eso es lo que duele. Por eso ahora, lo mejor es no dar demasiado. Deja que sea el resto el que te de a ti. Déjate mimar. Deja que los demás te demuestren en vez de ser tú quien siempre demuestre al resto. No siempre tienes que ser tú el que está equivocado, no siempre tienes que ser tu el que vaya detrás del resto, el que tiene que arreglar constantemente todo. Si te sientes más frío ahora no te preocupes, son etapas, también tiene que haber momentos en los que no des todo de ti. Y ese es uno de ellos. Y no es que hayas cambiado, es que has sabido valorarte, has aprendido a no dar el 100% cuando sólo recibes la mitad, o ni siquiera eso. Los demás se hacen fuertes cuando el débil eres tú. Deja de poner en primer lugar los propósitos de los demás y pon los tuyos antes.
-Si una cierta amistad parece estar obstinadamente firme en su postura, podría causar un choque de puntos de vista y valores a menos que puedas predisponerte a tener una conversación de corazón a corazón. Por otro lado, alguien cercano a ti puede no estar de acuerdo sobre un objetivo o ambición, y esto también puede requerir de un manejo cuidadoso; aunque puede salir bien si se toma el enfoque adecuado. La buena noticia es que Júpiter entra a tu sector de horizontes lejanos, y podrías ver un aumento en tus viajes y otro tipo de aventuras.
+Hay cosas que no se pueden cambiar Capricornio, y de verdad, no merece estar toda la vida luchando por ello, por intentar abrir los ojos al resto, por tratar de cambiar opiniones para mejor… Y menos cuando al final eres tú el que gasta tiempo para nada. Hay gente que no quiere abrir los ojos Capricornio, hay gente que le importa una mierd* el mundo. Y está bien, es respetable, pero aléjate de ellos. Porque personas así no aportan nada, porque roban energía, porque no tienen aspiraciones, porque no motivan al resto. Porque no te motivan a ti. Mira por ti ahora, se tu prioridad, se el número uno en todo lo que hagas, y si el resto quiere estar a tu lado está bien, que esté, pero no te desvivas por nadie como lo has hecho hasta ahora. Deja de castigarte por lo que está fuera de tu control, hay cosas que no se pueden cambiar, así que, no inviertas tanto tiempo en eso. Todos tenemos una historia Capricornio pero recuérdate que hay más de una elección, no hace falta que te quedes siempre con una cosa, no hace falta aferrarte como has hecho hasta ahora. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
+Con Júpiter recientemente en tu sector de viajes y estudio, el mundo es tu ostra. Nuevas posibilidades te pueden ser abiertas, con la oportunidad de ampliar tus horizontes. Debido a la Luna Nueva manifestándose esta semana y llegando a su máximo el viernes, toma con calma las cuestiones relacionadas con tus finanzas y cuentas personales. Puede que sea conveniente controlar tus gastos, ya que cuentas o facturas inesperadas podrían surgir. Además, el fin de semana podría traer consigo un alegre encuentro que se sienta como un soplo de aire fresco.
 
 ## Dinero
 
-Recibes un impulso de energía positiva del Universo esta semana. Esto combina tus energías masculinas y femeninas de una manera pacífica, armoniosa y te permite participar en actividades divertidas que involucran tanto a amantes, como a familiares. Sin embargo, otro aspecto te afecta en el área que gobierna los valores y las ganancias. Ambos tienen que ser revisados para que puedas ganar dinero en serio.
+Para ti, esta semana se trata de tomar ventaja de las circunstancias que se presentan en tu vida laboral. Tienes suerte, así que puede que encuentres que tienes la oportunidad de impresionar a alguien que tiene poder para tomar decisiones financieras. Estas afectarán de manera positiva tu vida en el futuro, así que asegúrate de poner tu mayor esfuerzo. Podrías aprender importantes lecciones de vida personales y financieras, el incorporarlas a tu vida cotidiana te hace más fuerte.

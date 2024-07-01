@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: geminis 24 de junio 2024 al 30 de junio 2024 
-description: Horóscopo semanal geminis 24 de junio 2024 al 30 de junio 2024. Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud Géminis, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
+title: geminis 01 de julio 2024 al 07 de julio 2024 
+description: Horóscopo semanal geminis 01 de julio 2024 al 07 de julio 2024. Remonta como has hecho tantas veces, cambia el rumbo, cambia los pensamientos y cambia tu futuro.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2024-06-24
+ogimg: /images/zodiac/semanal_geminis.png#2024-07-01
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-06-24'
+ lastmod: '2024-07-01'
 ---
 
 
 
-## Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud Géminis, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
+## Remonta como has hecho tantas veces, cambia el rumbo, cambia los pensamientos y cambia tu futuro.
 
-Son muchos los que quieren arruinar tu vida Géminis, los que no pueden soportar cuando subes a una foto a alguna red social, los que rabian cuando te ven feliz. Pero es que ahora, estás conectado a tu vida más que nunca, crees en ti mismo y sabes las posibilidades que tienes en este mundo. Y son muchas. Y esa seguridad tan fuerte es la que hará que consigas todo lo que te propongas pero también te sacará algún enemigo que otro. Pasa Géminis, tú a lo tuyo, siempre. Todo pasa por alguna razón y lo tienes más que claro pero cuando le toca a uno mismo cuesta el doble aceptarlo pero todo pasa y todo llega Géminis. Pero ya pasó, y ya lo superaste, o al menos, los aceptaste. Los pocos pensamientos negativos que aún te quedan acabarán por desaparecer, los buenos son los que al final prevalecen. Has tenido falta de confianza por momentos, falta de confianza que te ha ahogado, que no te ha dejado respirar, que te ha ido apagando lentamente aunque tú lucharás hasta el último minuto porque no pasara… Acuérdate de esos malos ratos Géminis. Y no los repitas. Que la primera vez que algo te pase podrá ser un error, pero si te pasa dos veces es una elección. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Géminis. Ahora brillas así que, aprovecha. Aprovecha todo.
-La semana por delante trae la oportunidad de un nuevo comienzo en el frente hogareño. Si has tenido una visión de cómo quieres una habitación, un jardín o la imagen completa de toda una propiedad, la semana por delante podría ayudar a que eso ocurra. El positivo vínculo entre Venus y Marte alude a que los fondos monetarios estarán disponibles para que puedas seguir adelante con el proyecto. Sin embargo, es posible que tú y tu pareja u otros seres queridos tengan que negociar un plan que funcione para todos.
+Quieres empezar a construir tu camino sin estar pendiente de lo que los demás piensen, sin tener que pensar si estarán bien o mal, si puede molestarles o no. 
+ por mirar antes por otros y después que esos no fueran capaces de mirar por ti… Todo eso dolía, y mucho.
+La semana que comienza tiene un tono impredecible pero, al mismo tiempo, encantador. Al haber un especial enfoque en tu sector social, este puede ser un excelente momento para establecer contactos, moverse en nuevos círculos y disfrutar de la vida en general. Sin embargo, con el eclipse solar en este mismo sector el jueves, también existe la oportunidad de un nuevo comienzo. Puede que te inscribas a un club o que conectes con personas que pueden presentarte interesantes nuevas experiencias. El fin de semana cambia el enfoque a tu sector espiritual, lo que te anima a dedicarle algo de tiempo a tu persona.
 
 ## Dinero
 
-Puede parecer como si estuvieras yendo hacia atrás con ciertos aspectos en tu sector de efectivo y valores. Es posible que estés pensando en dinero, pero ciertas cuestiones siguen interponiéndose o atrasándote. Es desesperante y, afortunadamente, temporal. La buena noticia es que es fácil comunicarse en todas las áreas de tu vida. Si necesitas un préstamo de banco, organiza toda tu documentación y lánzate a ello.
+Tu sector del hogar está bajo escrutinio. Aunque la energía colocada aquí es bastante favorable y apacible, es posible que desees ver cuánto te estás gastando en tu casa cada mes. Si necesitas un ajuste, éste es el momento de hacerlo, no cuando estás bajo presión. Hay todo tipo de buenas noticias en el frente de trabajo. Una mejor situación está por venir si eres lo suficientemente paciente para dejar que suceda.

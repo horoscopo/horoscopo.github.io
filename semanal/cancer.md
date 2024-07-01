@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 24 de junio 2024 al 30 de junio 2024 
-description: Horóscopo semanal cancer 24 de junio 2024 al 30 de junio 2024. Cada día que pasa te das más cuenta de que mereces cosas buenas Cáncer, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+title: cancer 01 de julio 2024 al 07 de julio 2024 
+description: Horóscopo semanal cancer 01 de julio 2024 al 07 de julio 2024. Todo acaba cicatrizando, pero tienes que dejar que cicatrice Cáncer. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2024-06-24
+ogimg: /images/zodiac/semanal_cancer.png#2024-07-01
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-06-24'
+ lastmod: '2024-07-01'
 ---
 
 
 
-## Cada día que pasa te das más cuenta de que mereces cosas buenas Cáncer, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+## Todo acaba cicatrizando, pero tienes que dejar que cicatrice Cáncer. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
 
-Sólo tú puedes salvar tu vida Cáncer. Deja de depender del mundo que te rodea, sé fuerte, créete de una vez que hagas lo que hagas puedes hacerlo solo, y que solo también puedes llegar a cualquier meta que te propongas. No es que tengas miedo, pero a veces, te falta ese empujón, esa mano que te agarre y que te diga “salta, que yo salto contigo”. Olvida eso, tú solito puedes darte el empujón, y tú solito puedes saltar, sin necesidad de nadie. Mentalmente eres un poco frágil a pesar de que tu aspecto es súper fuerte, eres sensible sí, y sin querer te atas a las personas más de lo que te gustaría. Está bien tratar de compartir, es bonito, los momentos buenos, los momentos malos… Pero eso no va a sanar a tu alma. Sólo tú puedes reiniciar tu vida y convertirla en lo que quieras, sólo tú puedes transformar tus sueños y tu destino. Si hay algo que quieres hacer, lánzate a hacerlo, da el primer paso. Y piensa que el amor es algo poderoso sí, pero no tan poderoso como tú Cáncer. Necesitas tomar las riendas otra vez, necesitas ser el protagonista de tu historia, saber que nadie es más importante en tu propia vida que tú. Así que, deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
-La dinámica actividad en tu sector social te pone más en contacto con tus amistades y distintos grupos. Cuando el seductor Venus se alinea con el apasionado Plutón el martes, una conexión podría parecer especialmente cautivadora. Puede que sientas la motivación de apresurar esta relación, en especial si la persona parece muy adecuada para ti. Aun así, si puedes permitir que la relación fluya de manera natural, todo saldrá mucho mejor. Una encantadora mezcla de energías el viernes podría traducirse en una perfecta primera cita, en especial si incluye comida.
+Tienes que ser tu prioridad ahora, tienes que cuidar de tus necesidades antes que de las demás Cáncer. Has perdido mucho por tomar decisiones que no eran las correctas, por intentar dar oportunidades en balde… Tienes que ser un poco egoísta Cáncer, ahora más que nunca. Tu tiempo vale oro pero últimamente parece que no lo valorabas como tal, dedícate a las cosas importantes, las que te van a dar frutos, las que te van a hacer sentir bien contigo mismo/a. Muévete del sitio en el que estás si eso no lo encuentras, cambia de país, de ciudad, de barrio, de entorno. Lo que sea Cáncer, cambia lo que sea para alcanzar lo que crees que puedes. Piérdete las veces que haga falta, prueba aunque no estés seguro de si las cosas saldrán bien o mal, si tu corazón y tu instinto te llaman, ves. Cuida de tus emociones Cáncer, cuídalas bien y que ahora sean lo más importante de todo. Tienes derecho a elegir qué tipo de gente quieres en tu vida, puedes alejarte de las amistades tóxicas Cáncer, debes olvidarte de las conexiones que sabes que no van a ningún lugar. Esta semana tienes que planificarlo todo, tienes que comprender que si no das el paso tú nadie lo hará, es sólo un empujón hacia tus sueños y tus metas. No te estanques, y vuelve a ponerte el primero en todo.
+Con la alineación entre el Sol y Júpiter, el inicio de la semana podría coincidir con una buena noticia o una oferta que no puedas rechazar. ¡Y es seguro que hay más por venir! Mientras más trabajes para el establecimiento de tus metas y lograrlas, más grande será tu recompensa. Marte entra a tu signo esta semana también, lo que podría llevarte a la acción con respecto a planes personales que fueron puestos en pausa. Además, la Luna Nueva del viernes puede ser útil para poner en marcha un importante proyecto.
 
 ## Dinero
 
-Eres una persona bastante psíquica, pero esta semana te puedes sorprender incluso a ti mismo/a. El Universo está abriendo los canales de comunicación para proporcionarte toda la información que necesitas para hacer tu siguiente movimiento. No te sorprendas si andas un poco voluble ahora. La próxima semana estarás de vuelta en la pista financiera elegida.
+El dinero es como el agua para la mayoría de los signos, pero tú prefieres usarlo para mantener tu alto nivel de actividad en este mundo. Esto puede significar que gastas dinero en actividades de ocio, como deportes y vacaciones, o para mantener tu cuerpo sano y hermoso. Esta semana, tu enfoque está en pagar tu deuda y atraer a nuevos seguidores para un proyecto personal. Piensa en ahorrar un 20 por ciento de lo que ganas.
