@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 01 de julio 2024 al 07 de julio 2024 
-description: Horóscopo semanal escorpio 01 de julio 2024 al 07 de julio 2024. Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
+title: escorpio 08 de julio 2024 al 14 de julio 2024 
+description: Horóscopo semanal escorpio 08 de julio 2024 al 14 de julio 2024. Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2024-07-01
+ogimg: /images/zodiac/semanal_escorpio.png#2024-07-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-07-01'
+ lastmod: '2024-07-08'
 ---
 
 
 
-## Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
+## Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
 
-El mundo gira y gira y si, a veces te sientes fuera de él. Muchas veces de hecho pero no es que estés triste y nostálgico, que va, ya estás acostumbrad@ a sentirte fuera de lugar en muchas ocasiones. Ese no es el punto. El punto es que, aunque todo esto te este pasando, por dentro tienes unas ganas enormes de superarte y de hacer las cosas mucho mejor que hasta ahora. Muy a menudo te pones un nivel altísimo de todo, de proyectos, de calidad de vida, de trabajo, y debes tener cuidado porque al final pasa factura. Sabes que en la vida caminas sola aunque te acompañen los demás. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco, buscando ese amor que a veces parece que te falta pero que nunca reconocerás, dejarte llevar no está tan mal del todo, siempre que de verdad y para no caer de nuevo, te quieras a ti mism@ mucho más que al resto.
-Mirar bajo la superficie puede ayudarte a comprender las sutiles corrientes que conforman una situación o relación clave. Y mientras tanto, algunas introspecciones clave podrían permitirte que des un cierre o encuentres una forma de afrontar alguna situación específica de una vez por todas. Tu innata habilidad para llegar al fondo de una cuestión puede resultarte muy útil ahora. Por otro lado, aunque tal vez quieras derrochar en compras, algunas influencias clave sugieren que te guardes tu dinero por el momento.
+Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate. Los pensamientos negativos son como la mierda Escorpio, que atraerán más mierda, y antes de que te des cuenta tendrás la mente infectada, de verdad. Empezarás a ver problemas en vez de soluciones, te meterás en un círculo vicioso en el que YA has estado. No puedes permitirlo otra vez. No luches contra cosas o personas, simplemente esquívalas, a veces, aunque intentes hacer que entren en razón es imposible, y el que acaba sufriendo irremediablemente eres tú. No debes permitirte el lujo de tener ningún pensamiento negativo ahora, de verdad, ya has pasado demasiado, sólo céntrate en esquivar lo que te dañe, pero en esquivarlo de verdad. O sea, si de verdad decides que no es lo que quieres, corta por lo sano cuanto antes, y no mires atrás ni por el retrovisor del coche. Lidera tu interior y serás el líder de tu entorno. Lo único que ahora puede frenarte son tus pensamientos, trabájalos, distráete, y rodéate de todo lo bueno que tienes aunque a veces te cueste poner punto y final a lo malo. Tus metas ahora son lo más importante y sólo se consiguen cuando uno realmente no tiene nada que le estorba en su camino.
+Los problemas relacionados con las finanzas y asuntos comerciales compartidos podrían captar tu atención durante esta semana. Sin embargo, no te apresures a tomar cualquier decisión grande ni a firmar nada importante. Con el interactivo Mercurio actualmente en su fase retrógrada, puede que sea prudente poner el freno por el momento. Las cosas podrían cambiar en las próximas semanas. Por otro lado, las relaciones se ponen de relieve cuando el energético Marte ingresa a Escorpión. Esto pone en marcha las cosas y te ofrece la oportunidad de relajarte. Las negociaciones pueden ser beneficiosas, si se realizan con cuidado.
 
 ## Dinero
 
-Las obras creativas y la acción se unen ahora. Esto va a cambiar la forma en la que conectas con grupos sociales, y es posible que empiece a hacerte pensar en cómo trabajar por cuenta propia en un futuro próximo. Este aspecto afirme que tus ideas son sólidas. Todo lo que necesitas es el coraje para hacer esta transición y ver a través de ella. El dinero viene cuando le das seguimiento a lo que has tenido la suerte de crear.
+Esta semana puede dar lugar a algunas ideas nuevas e interesantes que pueden proporcionarte el impulso y los medios para comenzar un negocio en el hogar. Desde la venta de cosas en línea al  desarrollo de un portal virtual de asistencia, estás definitivamente motivado/a. Debido a que tu sector de sueños también se ve afectado, presta atención a lo que tus sueños te están diciendo. Te están conduciendo en la dirección financiera adecuada.

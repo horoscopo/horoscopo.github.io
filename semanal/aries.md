@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: aries 01 de julio 2024 al 07 de julio 2024 
-description: Horóscopo semanal aries 01 de julio 2024 al 07 de julio 2024. Tienes que plantarte Aries, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
+title: aries 08 de julio 2024 al 14 de julio 2024 
+description: Horóscopo semanal aries 08 de julio 2024 al 14 de julio 2024. Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2024-07-01
+ogimg: /images/zodiac/semanal_aries.png#2024-07-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-07-01'
+ lastmod: '2024-07-08'
 ---
 
 
 
-## Tienes que plantarte Aries, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
+## Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
 
-Empieza a cambiar la mentalidad Aries, empieza a cambiar eso de “estoy roto y sin fuerzas” por “estoy creciendo y me estoy curando de todo”, ya verás como tu vida cambia para mejor, y ya verás que deprisa. Quizás tengas que volver a conectar con tu pasado y cambiar la historia, quizás tengas que entender de una vez que todo pasó por alguna razón, que por eso estás aquí, quizás debas perdonar de verdad, perdonarte a ti mismo y dejar todo lo que te preocupa atrás. Si sigues hablando de algo es porque ese algo aún es importante para ti, aún quema dentro, y hay que enfrentarlo para que por fin salga de tu vida. Es complicado Aries, es complicado cargar con cosas que te hicieron daño en su día, y mucho más para ti, que no puedes olvidar tan fácilmente. Pero piensa que no puedes perder el tiempo con eso, piensa que tu tiempo es oro y que todo lo que inviertas en pensar demasiado lo podrías estar invirtiendo en hacer cosas productivas por y para ti. A veces, para encontrar un poco de paz debes estar dispuesto a perder tu conexión con algunas personas, con algunos lugares y con cosas que llevan creando mucho ruido en tu vida desde hace un tiempo… Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
-Todo se está acomodando de tal manera para que te ganes una buena reputación o mejores tu posición si te dispones a moverte por los canales adecuados. Si te enfocas en lograr tus objetivos y alcanzar el éxito, serás el centro de atención dentro de poco, si es que ya no lo eres. Debido a la entrada de Venus a un sector más alejado de tu carta astral, es posible que reevalúes tu relación intrapersonal además de tu propósito y misión en la vida.
+Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar, no serás capaz de verlo ahora pero sí en un tiempo.
+Con Mercurio continuando su fase retrógrada, puede que tengas ganas de retomar un curso o el estudio de una materia en particular. Esto podría tener más ventajas de las que te imaginas. Aunque por lo general prefieres evitar los cambios, podrías aceptarlos con entusiasmo hoy y en las próximas semanas. Al hacerlo, tus creencias y tu perspectiva con respecto a la vida pueden cambiar y esto te lleva a desafiar tus límites y alcanzar tu máximo potencial.
 
 ## Dinero
 
-Las influencias que afectan a tu sector de relaciones son a la vez una bendición y una maldición. Mientras que te dan impulso para avanzar en tu causa, también tienden a restringir al equipo que podría ayudarte a hacer esto. No tengas miedo. No es personal. Estas personas están a la espera de que avances para poder decir que te conocían desde entonces. Tienes la imaginación que necesitas para realizar tu trabajo a tiempo y bajo presupuesto.
+Puede que no seas el miembro más paciente del Zodíaco, pero esta semana puedes ganarte algunos problemas con esa manera de pensar. Los aspectos afectan a tu sector de relaciones y del hogar significando que estas áreas de tu vida no son exactamente llevadas muy bien que digamos. Lo mejor es jugar como pacificador, incluso en tu mismo interior. Por cada concesión que hagas hacia los demás, pasa algo de tiempo y dinero haciendo de tu espacio uno más acogedor.

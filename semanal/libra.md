@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: libra 01 de julio 2024 al 07 de julio 2024 
-description: Horóscopo semanal libra 01 de julio 2024 al 07 de julio 2024. A veces hay que llevar al límite las cosas Libra, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
+title: libra 08 de julio 2024 al 14 de julio 2024 
+description: Horóscopo semanal libra 08 de julio 2024 al 14 de julio 2024. Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2024-07-01
+ogimg: /images/zodiac/semanal_libra.png#2024-07-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-07-01'
+ lastmod: '2024-07-08'
 ---
 
 
 
-## A veces hay que llevar al límite las cosas Libra, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
+## Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
 
-Siempre has tenido un fuerte instinto de supervivencia Libra, y ese es el instinto que debes sacar ahora. Remonta de nuevo, remonta como siempre haces Libra y deja un poco de preocuparte por tonterías. Hay cosas que no tienen solución y la verdad que mejor que no la tengan. Estás un poco reticente a compartir nada con nadie pero a menudo es importante que saques lo que sientes y que no te quedes atrapado en otros momentos que ya han pasado. No te agobies por nada, deja el mal humor de lado y vuelve a brillar como siempre has hecho. Necesitas centrarte en algo que te motive de verdad, busca el camino, métete de lleno en él y aplica la constancia. Si no hay algo que guíe tus pasos siempre estarás perdido, como en el limbo, sin saber muy bien qué hacer o hacia dónde dirigirte, sin tener claro nada. Es cierto que quizás tengas muchas dudas ahora mismo pero empieza a tomar decisiones de verdad que te acerquen más a lo que quieres conseguir. No tengas miedo de probar y tampoco tengas miedo de fallar. Cada persona necesita su tiempo de adaptación pero no te resistas ni digas que no por no cagarla, por no sufrir. Ya tienes un caparazón duro que puede resistirlo todo así que, inténtalo una vez más.
-Puede que sea algo bueno guardarte tus sentimientos, pero ¿en verdad lo es? Es posible que te preocupe la reacción de una persona y que este sea el motivo de tu dilema. Sin embargo, poder decir lo que piensas haría toda la diferencia. La luna nueva del viernes en tu sector social podría inspirarte a moverte en nuevos círculos o conectar con nuevas amistades. Al mismo tiempo, debido a que el vital Marte ingresa a tu sector de exploración, puede que se aproxime un viaje.
+Deberían valorarte más Libra, los demás y tú el primero, deberían saber escucharte cuando estás mal, saber comprender porque te sientes en ocasiones así, tratar de meterse un poco en ti, en tu lugar, y descubrirte. Eso es, deberías descubrirte de verdad, y ahora no podrán decir que tú no te estás dejando… No es que te sientas solo, pero muchas veces sientes que vives en un mundo en el que nadie es capaz, por un momento, de ponerse en tu lugar, en el que nadie es capaz de pensar que quizás tú también tienes tus momentos de bajón, tus momentos de pena o de dudas. Bajo esa fachada se esconden sentimientos complicados que muchas veces ni siquiera tú entiendes. Quizás es conformismo, quizás dependencia del resto, o quizás un cúmulo de circunstancias que llevas acumuladas mucho tiempo. Y los días empiezan a pasar, y ves que avanzas, pero a veces no tan deprisa como esperabas. Y ves que el tiempo pasa, y empiezas a estresarte, y te frenas, y de repente quieres ir más deprisa porque ya perdiste mucho tiempo, y te vuelves a frenar. Para Libra, para un poco. No puedes fingir que las cosas no te importan ¿vale? Porque además, eso al final duele el doble. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… Ahí es cuando empiezas a frenarte, por muy claro que lo tengas todo. Piensa que caminar entre las piedras también es avanzar, así que, lo que has hecho, lo has hecho bien, ahora averigua si quieres seguir por ese camino.
+Puede que los cambios sean rápidos y pueden ser una consecuencia del Eclipse Solar que tendrá lugar el sábado. Puede que sientas ganas de moverte con independencia. Si bien esto puede ser emocionante, también podría causar problemas a la larga. Puede también que quieras olvidarte de tus responsabilidades, pero las demás personas te las recordarán. Te convendría quedar en buenos términos y hacer lo que esperan que hagas. Con el Eclipse en Piscis, tendrás una revelación espiritual que podría fortalecerte.
 
 ## Dinero
 
-Esta semana te encuentras atrapado/a en el medio. Podrías estar sintiendo como si estuvieras siendo arreado/a (tal vez en contra de tu voluntad) hacia una determinada persona o situación. Tu sector de profesión es el área que necesita más atención ahora. Trabaja en un plan de cinco años para avanzar en tu posición y compensación.
+Ciertos desafíos se aproximan hacia ti esta semana. Las relaciones son propensas a sufrir una separación por trabajo o razones personales. La buena noticia es que ambos están muy ocupados. La mala noticia es que esta situación requiere más diplomacia y paciencia de lo habitual. Tu sector de empleo puede estar un poco inestable. Muévete lentamente, con cuidado, y no hagas exigencias innecesarias.

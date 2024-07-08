@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 01 de julio 2024 al 07 de julio 2024 
-description: Horóscopo semanal capricornio 01 de julio 2024 al 07 de julio 2024. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Capricornio, no hay casualidades ni coincidencias.
+title: capricornio 08 de julio 2024 al 14 de julio 2024 
+description: Horóscopo semanal capricornio 08 de julio 2024 al 14 de julio 2024. Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2024-07-01
+ogimg: /images/zodiac/semanal_capricornio.png#2024-07-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-07-01'
+ lastmod: '2024-07-08'
 ---
 
 
 
-## Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Capricornio, no hay casualidades ni coincidencias.
+## Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
 
-Hay cosas que no se pueden cambiar Capricornio, y de verdad, no merece estar toda la vida luchando por ello, por intentar abrir los ojos al resto, por tratar de cambiar opiniones para mejor… Y menos cuando al final eres tú el que gasta tiempo para nada. Hay gente que no quiere abrir los ojos Capricornio, hay gente que le importa una mierd* el mundo. Y está bien, es respetable, pero aléjate de ellos. Porque personas así no aportan nada, porque roban energía, porque no tienen aspiraciones, porque no motivan al resto. Porque no te motivan a ti. Mira por ti ahora, se tu prioridad, se el número uno en todo lo que hagas, y si el resto quiere estar a tu lado está bien, que esté, pero no te desvivas por nadie como lo has hecho hasta ahora. Deja de castigarte por lo que está fuera de tu control, hay cosas que no se pueden cambiar, así que, no inviertas tanto tiempo en eso. Todos tenemos una historia Capricornio pero recuérdate que hay más de una elección, no hace falta que te quedes siempre con una cosa, no hace falta aferrarte como has hecho hasta ahora. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
-Con Júpiter recientemente en tu sector de viajes y estudio, el mundo es tu ostra. Nuevas posibilidades te pueden ser abiertas, con la oportunidad de ampliar tus horizontes. Debido a la Luna Nueva manifestándose esta semana y llegando a su máximo el viernes, toma con calma las cuestiones relacionadas con tus finanzas y cuentas personales. Puede que sea conveniente controlar tus gastos, ya que cuentas o facturas inesperadas podrían surgir. Además, el fin de semana podría traer consigo un alegre encuentro que se sienta como un soplo de aire fresco.
+Deja que duela Capricornio, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo… Esta bien que te aferres a los recuerdos, siempre y cuando tengas más que claro dónde están y de dónde no van a moverse. Claro que tuviste tiempos mejores, pero no te centres tanto en “cómo lo pasabas cuando…”, ya está, ahora estás donde estás por alguna razón y mirar hacia delante y con fuerza es lo principal para que todo salga como tú quieras. Para ser Capricornio estás teniendo muchas más dudas que habitualmente, sácalas de la cabeza cuanto antes y si no puedes solucionarlo por cualquier razón pasa a otra cosa, pero pasa a otra cosa de verdad. Ya llegará el momento en que tu mente haga click y encuentre la solución, mientras tanto, no te agobies demasiado. Vive, siente y ama, necesitas enganchar las riendas de nuevo y disfrutar del momento, como venga, como salga. A veces, te pones demasiado altas las expectativas sobre cualquier cosa, sobre algunas personas y está bien Capricornio pero ten cuidado porque tus expectativas, las que estén en tu mano, es seguro que las alcanzarás, el problema son las otras, las que no lo están, las que dependen de los demás, esas, por favor, no seas crédulo porque no se darán jamás como tú quieres que se den, quizás se acerquen pero no llegarán… Ahora, preocúpate de ti, conecta con tus emociones, aunque sean emociones desagradables, plántales cara, contémplalas y piensa si quieres que se vuelvan a repetir. Por eso, y por más, vive tu vida Capricornio, intenta ser feliz solo o acompañado, pero primero tú, ahora tienes que ser primero tú el que se quiera cuidar, el que quiera hacer las cosas bien…
+Colaborar con otra persona en un proyecto creativo y emocionante podría robarse una gran cantidad de tu tiempo y atención esta semana. Parece ser algo que podría valer la pena. Tómate tu tiempo con esto, ya que podría entrar en conflicto con otros planes profesionales u otras responsabilidades. En otra nota, intensos sentimientos por alguien podrían ser correspondidos, muy a tu placer. Si se trata de un nuevo romance, éste podría elevarse a un nuevo nivel de pasión. Sólo asegúrate de que realmente es lo que quieres antes de involucrarte demasiado.
 
 ## Dinero
 
-Para ti, esta semana se trata de tomar ventaja de las circunstancias que se presentan en tu vida laboral. Tienes suerte, así que puede que encuentres que tienes la oportunidad de impresionar a alguien que tiene poder para tomar decisiones financieras. Estas afectarán de manera positiva tu vida en el futuro, así que asegúrate de poner tu mayor esfuerzo. Podrías aprender importantes lecciones de vida personales y financieras, el incorporarlas a tu vida cotidiana te hace más fuerte.
+Esta semana disfrutas de un impulso amistoso en tus relaciones. Tienes un gran equipo detrás de ti, especialmente cuando se trata de tu vida monetaria. Tienes una concurrencia de ideas y el poder de la gente, así que si estás trabajando en un proyecto que necesita todas las manos a la obra, es el momento de reclutar desde el interior. Los aspectos de apoyo resaltan las actividades relacionadas con el romance, la familia y la diversión. Comenzar un negocio de citas amorosas por internet podría estar en tu futuro.

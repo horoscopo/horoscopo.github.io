@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 01 de julio 2024 al 07 de julio 2024 
-description: Horóscopo semanal cancer 01 de julio 2024 al 07 de julio 2024. Todo acaba cicatrizando, pero tienes que dejar que cicatrice Cáncer. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
+title: cancer 08 de julio 2024 al 14 de julio 2024 
+description: Horóscopo semanal cancer 08 de julio 2024 al 14 de julio 2024. Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no Cáncer. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2024-07-01
+ogimg: /images/zodiac/semanal_cancer.png#2024-07-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-07-01'
+ lastmod: '2024-07-08'
 ---
 
 
 
-## Todo acaba cicatrizando, pero tienes que dejar que cicatrice Cáncer. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
+## Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no Cáncer. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
 
-Tienes que ser tu prioridad ahora, tienes que cuidar de tus necesidades antes que de las demás Cáncer. Has perdido mucho por tomar decisiones que no eran las correctas, por intentar dar oportunidades en balde… Tienes que ser un poco egoísta Cáncer, ahora más que nunca. Tu tiempo vale oro pero últimamente parece que no lo valorabas como tal, dedícate a las cosas importantes, las que te van a dar frutos, las que te van a hacer sentir bien contigo mismo/a. Muévete del sitio en el que estás si eso no lo encuentras, cambia de país, de ciudad, de barrio, de entorno. Lo que sea Cáncer, cambia lo que sea para alcanzar lo que crees que puedes. Piérdete las veces que haga falta, prueba aunque no estés seguro de si las cosas saldrán bien o mal, si tu corazón y tu instinto te llaman, ves. Cuida de tus emociones Cáncer, cuídalas bien y que ahora sean lo más importante de todo. Tienes derecho a elegir qué tipo de gente quieres en tu vida, puedes alejarte de las amistades tóxicas Cáncer, debes olvidarte de las conexiones que sabes que no van a ningún lugar. Esta semana tienes que planificarlo todo, tienes que comprender que si no das el paso tú nadie lo hará, es sólo un empujón hacia tus sueños y tus metas. No te estanques, y vuelve a ponerte el primero en todo.
-Con la alineación entre el Sol y Júpiter, el inicio de la semana podría coincidir con una buena noticia o una oferta que no puedas rechazar. ¡Y es seguro que hay más por venir! Mientras más trabajes para el establecimiento de tus metas y lograrlas, más grande será tu recompensa. Marte entra a tu signo esta semana también, lo que podría llevarte a la acción con respecto a planes personales que fueron puestos en pausa. Además, la Luna Nueva del viernes puede ser útil para poner en marcha un importante proyecto.
+Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía. Es muy probable que tengas que corregir algunas cosas de tu persona, está claro, pero de ahí a que quieran hacerte ver que eres el culpable de todo hay un paso muy grande. No te lo creas por nada del mundo. Mientras otros retroceden tú avanzas, mientras otros vuelven a tropezar con la misma piedra una y otra vez, tú la intentas evitar a toda costa, quizás no sepas cual es el final del camino, y quienes estarán ahí para verlo pero no lo estás haciendo mal, y eso, es lo que al final te hará decir que mereció la pena. Estos días te irás quitando de tu vida a mucha gente falsa, y seguramente que discutirás con algunos pero da igual, sólo han estado estorbando en tus planes y sueños. No te han dejado avanzar así que, no te plantees en ningún momento si lo estás haciendo mal porque no. Te quitarás mucho de encima. Gracias a ser como eres nadie volverá a pisotearte Cáncer, gracias a todos los palos que te han dado, ya no dejarás que te den ni uno más.
+El conversador Mercurio ingresa a Cáncer y a tu sector de comunicación el martes, de modo que las próximas semanas pueden ser útiles para el aprendizaje, la enseñanza y la expresión de los pensamientos. También puede ser un excelente momento para establecer nuevos contactos y formar valiosas conexiones. 
+En lo que respecta a los asuntos financieros, puede que estés a punto de iniciar un nuevo comienzo. En este caso, la actividad lunar en tu sector de dinero puede ayudar a que te organices. Ya sea si quieres pagar tus cuentas o abrir una caja de ahorros, este puede ser un buen momento para hacerlo. Podrías tener un pequeño problema de flujo de efectivo el viernes. Ten esto en cuenta y guarda un dinero extra para situaciones de emergencia. Tu sector del hogar también se beneficia de la encantadora visita de Venus, que se quedará allí unas semanas. Si te encanta dar fiestas o recibir invitados, este es el mejor momento para hacer las invitaciones pertinentes.
 
 ## Dinero
 
-El dinero es como el agua para la mayoría de los signos, pero tú prefieres usarlo para mantener tu alto nivel de actividad en este mundo. Esto puede significar que gastas dinero en actividades de ocio, como deportes y vacaciones, o para mantener tu cuerpo sano y hermoso. Esta semana, tu enfoque está en pagar tu deuda y atraer a nuevos seguidores para un proyecto personal. Piensa en ahorrar un 20 por ciento de lo que ganas.
+No eres el ser más paciente de la faz del planeta, pero tu suerte es grande y está a cargo por ahora, así que no te preocupes. Los aspectos están avivando el aprendizaje, incrementando tus oportunidades para incorporar nuevas habilidades. Pueden surgir oportunidades repentinas para divertirte con amigos, familiares y parejas románticas. El dinero se hizo para gastarse, ¿cierto?
