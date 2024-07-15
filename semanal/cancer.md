@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 08 de julio 2024 al 14 de julio 2024 
-description: Horóscopo semanal cancer 08 de julio 2024 al 14 de julio 2024. Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no Cáncer. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
+title: cancer 15 de julio 2024 al 21 de julio 2024 
+description: Horóscopo semanal cancer 15 de julio 2024 al 21 de julio 2024. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Cáncer. Tú solito.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2024-07-08
+ogimg: /images/zodiac/semanal_cancer.png#2024-07-15
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-07-08'
+ lastmod: '2024-07-15'
 ---
 
 
 
-## Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no Cáncer. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
+## Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Cáncer. Tú solito.
 
-Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía. Es muy probable que tengas que corregir algunas cosas de tu persona, está claro, pero de ahí a que quieran hacerte ver que eres el culpable de todo hay un paso muy grande. No te lo creas por nada del mundo. Mientras otros retroceden tú avanzas, mientras otros vuelven a tropezar con la misma piedra una y otra vez, tú la intentas evitar a toda costa, quizás no sepas cual es el final del camino, y quienes estarán ahí para verlo pero no lo estás haciendo mal, y eso, es lo que al final te hará decir que mereció la pena. Estos días te irás quitando de tu vida a mucha gente falsa, y seguramente que discutirás con algunos pero da igual, sólo han estado estorbando en tus planes y sueños. No te han dejado avanzar así que, no te plantees en ningún momento si lo estás haciendo mal porque no. Te quitarás mucho de encima. Gracias a ser como eres nadie volverá a pisotearte Cáncer, gracias a todos los palos que te han dado, ya no dejarás que te den ni uno más.
-El conversador Mercurio ingresa a Cáncer y a tu sector de comunicación el martes, de modo que las próximas semanas pueden ser útiles para el aprendizaje, la enseñanza y la expresión de los pensamientos. También puede ser un excelente momento para establecer nuevos contactos y formar valiosas conexiones. 
-En lo que respecta a los asuntos financieros, puede que estés a punto de iniciar un nuevo comienzo. En este caso, la actividad lunar en tu sector de dinero puede ayudar a que te organices. Ya sea si quieres pagar tus cuentas o abrir una caja de ahorros, este puede ser un buen momento para hacerlo. Podrías tener un pequeño problema de flujo de efectivo el viernes. Ten esto en cuenta y guarda un dinero extra para situaciones de emergencia. Tu sector del hogar también se beneficia de la encantadora visita de Venus, que se quedará allí unas semanas. Si te encanta dar fiestas o recibir invitados, este es el mejor momento para hacer las invitaciones pertinentes.
+No puedes esperar a que las cosas pasen Cáncer, no puedes esperar a que sean otros los que decidan casi tu futuro… Tanto pensar un día va a acabar contigo, de verdad. De una vez por todas plántale cara a los problema, no los dejes pasar, no pienses que el tiempo curará todo, porque no siempre lo hace, no creas que saliendo a la calle a despejarte las cosas volverán a la normalidad. Si algo no quiere salir de tu cabeza haz que salga como sea. No puedes perder otros tipos de oportunidades por tener siempre lo mismo, algo que ni avanza ni retrocede, algo que a veces parece que está ahí clavado en nuestra memoria sólo por joder. Si te pasas la vida reflexionando y pensando en como solucionar algo pero no haces nada al final lo único que acaba pasando es la vida y, bueno, a otros signos puede que esto ni siquiera les afecte pero tú eres Cáncer, esa persona que quiere vivir desde que nació, que quiere disfrutar todo, desde los sentimientos más intensos hasta los viajes más largos, desde las conversaciones más interesantes hasta el amor más pasional. ¡Despierta! Sinceramente, ¿qué haces planteándote esperar? ¿qué haces pensando que las cosas se acabarán poniendo en el lugar que le corresponden? Si no lo haces tú, no lo va a hacer nadie. No dejes pasar ni una sola oportunidad que te haga feliz a ti aunque a los demás no les guste. De verdad. Por tu propio bien. Y toma decisiones YA, AQUÍ y AHORA Cáncer. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
+Esta puede ser una emocionante semana en la que una conversación o encuentro tenga un profundo efecto en ti. Una positiva alineación en tu sector de relaciones sugiere que la gente con la que conectas tiene el potencial de cambiar tu vida de una manera u otra. El Eclipse Solar de esta semana insinúa que alguien podría decidir protegerte o incluso querer salir contigo. Su conocimiento, experiencia y perspectiva de vida podrían enriquecerte de muchas y maravillosas maneras. ¡Prepárate!
 
 ## Dinero
 
-No eres el ser más paciente de la faz del planeta, pero tu suerte es grande y está a cargo por ahora, así que no te preocupes. Los aspectos están avivando el aprendizaje, incrementando tus oportunidades para incorporar nuevas habilidades. Pueden surgir oportunidades repentinas para divertirte con amigos, familiares y parejas románticas. El dinero se hizo para gastarse, ¿cierto?
+Es necesario utilizar emociones constructivamente sobre una base regular. Si haces algo creativo para ganarte la vida, este es el equilibrio perfecto entre el arte y el comercio, porque ahora el Universo te apoya. Con cierta actividad en el área que rige la educación superior, los viajes y la espiritualidad, es el momento de mirar al exterior para generar oportunidades de dinero tan pronto como sea posible.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 08 de julio 2024 al 14 de julio 2024 
-description: Horóscopo semanal piscis 08 de julio 2024 al 14 de julio 2024. Quita importancia a las cosas Piscis, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
+title: piscis 15 de julio 2024 al 21 de julio 2024 
+description: Horóscopo semanal piscis 15 de julio 2024 al 21 de julio 2024. Dedícate la semana a ti Piscis, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2024-07-08
+ogimg: /images/zodiac/semanal_piscis.png#2024-07-15
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-07-08'
+ lastmod: '2024-07-15'
 ---
 
 
 
-## Quita importancia a las cosas Piscis, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
+## Dedícate la semana a ti Piscis, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
 
-Has caído en la rutina Piscis, quieres pelear por personas que quizás no tengan mucho en común contigo pero aún así, te sigues aferrando a algo que quizás tenga fecha de caducidad. Necesitas hablar, conversar, pero un largo tiempo y de verdad poner todas y cada una de las cartas sobre la mesa. Te guardas demasiado para ti, para dentro, y por más que intentas sacarlo es como si algo te lo impidiera. Esta semana es buena para hacer balance de lo que quieres, de lo que buscas y de lo que necesitas. No vas a parar, tienes muchas cosas que hacer y eso será lo que te aleje de algunos problemas. Pero cuando eso que hagas se acabe, el problema seguirá estando presente, seguirá en el mismo sitio donde lo dejaste, y como no lo soluciones permanecerá ahí todo el tiempo. No te agobies y respira hondo cuando algo se ponga difícil. De todo se sale Piscis, ya lo sabes. Las pequeñas cosas cuentan mucho ahora así que, empieza a decir que “si” a cualquier plan que te propongan, por pequeño que sea. Si quieres salvar algo, habla Piscis, habla y saca de una vez todo ese universo de sentimientos y de emociones que tienes dentro. Como no seas claro de verdad y sólo tragues y tragues, todo va a salir mal. Disfruta esta semana pero aclárate un poco…
-Tu curiosidad podría despertarse con las imágenes de lugares lejanos o con planes de tomar una clase relacionada con algún interés tuyo. Al mismo tiempo, podrías aplicar un esfuerzo conjunto para encargarte de ciertas responsabilidades o avanzar en tus objetivos o planes. Sin embargo, en los últimos días de la semana, el enfoque se desplaza, cuando Marte entra a tu sector social, lo que te motiva para que tengas una actitud más proactiva en esta área. Además, la actividad lunar podría ayudarte para que des un paso hacia una nueva dirección.
+Eres hábil para descubrir las cosas aunque a veces solamente te ciegas por tus impulsos, por tus ganas de tenerlo. Esta semana abre bien los ojos a las proposiciones, no todo lo que brilla es oro, demuestra que estás por delante de todo eso, demuestra que ya no te sorprenderás por cualquier cosa, necesitas pruebas y sobre todo garantías de que va a salir bien. No vuelvas a pensar de nuevo por qué decidiste esto cuando debías haber hecho lo otro, porque todo pasa por alguna razón y sí, las malas decisiones muy a menudo, te llevan a situaciones maravillosas. Cuando algo está apagado, está apagado, tratar de encenderlo a veces es algo imposible y si se apagó, fue por alguna razón. Las cosas rotas pueden arreglarse pero a veces, es mejor comprar algo nuevo, cambiar de rumbo, cambia de “producto”, quizás lo que creías tener ya no merece la pena. Necesitas un objetivo que perseguir, algo donde poner todas tus fuerzas y gastar toda tu energía. Es el momento del cambio Piscis, es el momento de que todo lo bueno que deseas llegue, tu actitud lo determina, así que, ¡a por todas!
+Una positiva conexión entre Venus y Marte en tu signo al principio de semana puede ser perfecta para una cita especial o un evento social un tanto interesante. Una cuestión relativa a una meta o un negocio creativo podría dominar tu conciencia, y esto podría significar que te pierdas de un par de oportunidades en otros lugares. Dale tu atención, pero sé consciente de que hay una alta probabilidad de que lo que decidas llegue a cambiar la próxima semana. Por último, si vas a acudir a un evento este fin de semana, tal debería ser estupendo.
 
 ## Dinero
 
-Esta semana te pide que pongas más atención en tu carrera. Si es que por lo general eres bastante tradicional y conservador/a por naturaleza, ahora es tu turno de hablar - un poco, por lo menos. Si dejas que los demás sepan cuáles son tus metas, incluyendo la posición y el sueldo que requieres, podrías ser sorprendido/a por la voluntad de tus empleadores de darte lo que pides. Sé extremadamente detallista con esto.
+La buena noticia es que el Universo te está haciendo parecer interesante y único/a con todos. La mala noticia es que aporta una buena dosis de tensión a tu sector de profesión. Es posible que desees que tu individualidad y  tus buenas ideas brillen, pero alguien en el trabajo quiere mantener el statu quo. El dinero viene cuando eres capaz de alzar la línea sólo un poco con tal de encontrar un foro de apoyo para tus habilidades.
