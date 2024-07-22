@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: geminis 15 de julio 2024 al 21 de julio 2024 
-description: Horóscopo semanal geminis 15 de julio 2024 al 21 de julio 2024. La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+title: geminis 22 de julio 2024 al 28 de julio 2024 
+description: Horóscopo semanal geminis 22 de julio 2024 al 28 de julio 2024. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Géminis.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2024-07-15
+ogimg: /images/zodiac/semanal_geminis.png#2024-07-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-07-15'
+ lastmod: '2024-07-22'
 ---
 
 
 
-## La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+## No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Géminis.
 
-Esta semana te apetece hacer cosas nuevas, has dejado la idea de tener que estar siempre pendiente de los demás, de tener incluso que buscar soluciones para la vida de todo el mundo menos para la tuya. 
- A veces, te aferras a momentos de felicidad pasajera Géminis, pero sin embargo, esos momentos no son productivos ni significativos para ti. Y al final, se quedaban en momentos superficiales que después restaban mucho más de lo que sumaban.
-Tus familiares podrían apoyarte más del crédito que les das, sobre todo si ven que estás teniendo dificultades con un proyecto o negocio. Aunque puede que no tengas disposición a compartir tus problemas, bien podría valer la pena hacerlo. Cierta persona podría resultar ser especialmente útil a pesar de que tiene sus propios problemas qué resolver. De hecho, las ideas que tal te comparta podrían ponerte de pie y en acción con bastante rapidez. Además, un pequeño golpe de suerte podría encontrarte este fin de semana.
+Vas a abrir los ojos y, aunque no des los pasos al momento, las ideas las tendrás claras. 
+ La rutina no te hace mal, pero si la monotonía, y te encuentras en el punto de cambiar para renovarte. 
+ Cambiar el chip hará que entiendas muchas cosas que hasta ahora te preocupaban. Necesitas mirarte por dentro y ver hasta dónde eres capaz de llegar y sobretodo, hasta donde QUIERES llegar. Quieres ser feliz y harás lo que sea para conseguirlo, lo sabes.
+Si sientes inspiración para estudiar, escribir, enseñar o establecer contacto con otras personas de ideas afines, estás muy en sintonía con la alineación planetaria actual. Sin importar cuáles sean tus intereses, este es el momento de ir tras ellos. Sin embargo, es importante no tener demasiadas expectativas debido a Mercurio tornándose retrógrado. Si te percatas de que una actividad no es para ti, abandónala y prueba otra cosa. Además, un romance podría desempeñar un papel importante en tu vida durante las próximas semanas, ¡por lo que disfrútalo!
 
 ## Dinero
 
-Esta semana trae ambos, suerte y sorpresas por igual a tu sector de dinero y valores. El Universo  expande tus oportunidades de ganar más dinero (e incluso tus ideas para hacerlo), mientras que trae destellos repentinos de intuición e ingenio. Puede que te sorprenda lo increíblemente útil que es la gente que conoces, incluso en las maneras más insignificantes. Te percatarás de que estas personas están dispuestas a ayudar de nuevo también.
+Hay una energía extraña afectando tu trabajo y tu sector de dinero. Los aspectos que afectan tu sector de vidas pasadas, karma e instituciones, muestran que es posible que te vaya bien si estás pensando en  trabajar para una empresa más grande o asociarte con alguien que está un poco más establecido en tu línea de trabajo. Juntos serán imparables, y tal vez capaces de atraer más negocio de lo que podrían hacer por su cuenta.

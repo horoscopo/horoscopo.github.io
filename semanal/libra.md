@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: libra 15 de julio 2024 al 21 de julio 2024 
-description: Horóscopo semanal libra 15 de julio 2024 al 21 de julio 2024. Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
+title: libra 22 de julio 2024 al 28 de julio 2024 
+description: Horóscopo semanal libra 22 de julio 2024 al 28 de julio 2024. Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Libra, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2024-07-15
+ogimg: /images/zodiac/semanal_libra.png#2024-07-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-07-15'
+ lastmod: '2024-07-22'
 ---
 
 
 
-## Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
+## Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Libra, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
 
-A veces parece que no progresas, y te estancas, y te lamentas, y te das por vencido/a… Pero no, lo que pasa es que las cosas van más lentas de lo que queremos. Y todo lo que des hoy te va a repercutir en el futuro, aunque ahora parezca que no funciona del todo. ¿Estás en el lugar correcto Libra? Seguro que sí, siempre has sido listo/a como para saber lo que haces… No hace falta que ahora pruebes otras cosas, lo que tienes que hacer es enfocarte en las que tienes, y tratar de hacer todo bien. La constancia es la clave del éxito Libra. No te pierdas ahora por otras sendas, de verdad, vas bien encaminado ahora pero échale ganas y sobretodo no te rindas. Y tampoco dejes que la influencia del resto tenga poder sobre ti, ni mucho ni poco, NADA.
-La Luna Llena del Domingo en tu sector familiar necesita un manejo cuidadoso, ya que podrías actuar bajo impulso y hacer un movimiento en falso. Esperar unos días podría ayudarte a sentir más confianza acerca de tu decisión. En otra nota, no se te dificulta para nada saber qué hacer sobre un proyecto que te fascina profundamente. La semana se vislumbra bastante emocionante con la Luna en el sensual Tauro aumentando la pasión. Tanto las relaciones nuevas como las no nuevas pueden beneficiarse de una candente cita o evento social.
+Eres demasiado válido/a para hacer las cosas por ti mismo/a, así que no caigas en lo que otros digan que es mejor o peor para ti. Mucha gente de tu alrededor no lo hace por tu bien, lo hace por SU bien. 
+ sin embargo, cuando te centres en las posibilidades, más posibilidades llegarán.
+Mercurio en Géminis forma un extraño ángulo con Neptuno en tu sector profesional, por lo que un mensaje confuso o hablar sin pensar pueden meterte en problemas a menos que lo resuelvas de inmediato. Sería prudente ver si los demás entienden lo que dices, particularmente las personas en posiciones de autoridad. Al mismo tiempo, puede que necesites saber adaptarte si necesitas trabajar con una persona que no acepta tus ideas. Pero con un poco de moderada persuasión, la próxima semana podría ser diferente.
 
 ## Dinero
 
-Estas a punto de cambiar de trabajo o de ascender de nivel. No es exactamente la posición que estás buscando pero el salario no está mal. Dale rienda suelta a tu ambición siempre y cuando la tengas del mango. Puede ser tu comunicación, o la falta de, la cuál pone a otros en tu contra. Trata de mantener todo del lado positivo al tener claridad y ser al ser conciso/a.
+Puede que estés sintiendo presión para hacerle frente a tu situación de deuda. Es necesario prestar atención a lo que debes. Al asumir una mayor responsabilidad, ayudas a los problemas a desaparecer mucho más rápidamente que si se hicieses caso omiso de los avisos y mensajes telefónicos. Mientras tanto, el énfasis en tu sector de vidas pasadas e instituciones te ayuda a recuperar las habilidades olvidadas que se pueden utilizar para ganar más a largo plazo.

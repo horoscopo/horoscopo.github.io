@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 15 de julio 2024 al 21 de julio 2024 
-description: Horóscopo semanal capricornio 15 de julio 2024 al 21 de julio 2024. Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
+title: capricornio 22 de julio 2024 al 28 de julio 2024 
+description: Horóscopo semanal capricornio 22 de julio 2024 al 28 de julio 2024. No te destruyas Capricornio, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2024-07-15
+ogimg: /images/zodiac/semanal_capricornio.png#2024-07-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-07-15'
+ lastmod: '2024-07-22'
 ---
 
 
 
-## Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
+## No te destruyas Capricornio, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
 
-No significa que te calles ante lo que es injusto (evidentemente es algo imposible para ti) pero sí que no te tomes las cosas tan en serio como siempre, sino dando la importancia que merecen, y la importancia es poca, pues es poca. Sobre todo para ti, para que no pases después malos ratos ni momentos de agobio que no merecen la pena…
-Las relaciones siguen siendo tensas, en especial si la perspectiva de una de tus amistades o de un ser querido es distinta a la de tu familia. Tendrás que ser quien intervenga para llegar a un compromiso. Es posible encontrar valores compartidos en esta situación, y esto puede facilitar la resolución de un problema o el compromiso. 
- Cuando tu planeta regente conecta con Neptuno en tu sector de estilo de vida, puede que sea más sencillo rendirte ante la tentación que resistirte. Este podría ser uno de esos momentos en los que darte algunos gustos es muy bueno para ti. Si has atravesado una intensa fase, se siente bien hacer algo bonito por ti. Con respecto a tus relaciones, las cosas pueden mejorar este fin de semana cuando el animado Mercurio se vuelve directo después de su fase retrógrada. Por último, la luna llena del domingo en este sector sugiere que puede ser momento de llevar una relación clave al próximo nivel.
+Te van a echar de menos Capricornio, y te van a echar de menos porque te vas a ir alejando, poco a poco, despacio, sin hacer demasiado ruido, sin peleas ni dramas… Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso. No te sientas mal por nada, que se sienta mal el resto. Perderán a una persona excepcional. Te duele sí, pero tu coraje también puede con eso. Has estado frente a gente, justo delante, y parece que no importabas nada y sin embargo, cuando te empieces a alejar te buscarán de nuevo… Pero eso es un tira y afloja que no te conviene, alargar situaciones incómodas, avanzar dos pasos pero volver a retroceder tres… Eso es una mierda… Esta semana necesitas mucho silencio Capricornio, sí, mucho, aprender a poner la mente en blanco, aprender a marcharte de los sitios donde no estás a gusto, de los lugares que te están restando todo el tiempo, del dolor… Necesitas meditar, conectar con tu mente, que no te controle a ti y se vuelva loca por un arrebato. Cuando vuelvas a soltar esas cadenas que te atrapan te echarán de menos, mucho, se darán cuenta de lo que de verdad perdieron, de lo que ya no es recuperable, de lo que se ha marchado a buscar algo mejor… Empieza a construir, quizás vuelvas, pero quizás no. Feliz semana.
+Puede que sientas ganas de hacer algo espontáneo con el fin de liberar la sensación de presión. Si sientes esto al comienzo de la semana, puede que sea más beneficioso atenerte a una idea o proyecto y finalizarlos, ya que tus esfuerzos no serán en vano. A medida que el enfoque cambia a tu sector hogareño, el cosmos te anima a bajar tu ritmo y darte el gusto de mimarte y cuidarte un poco.
 
 ## Dinero
 
-Hay algunos problemas en tu hogar, en los que te estás muriendo por gastar. Desde querer un espacio más amplio a comprometerte en hacer mejoras, es crucial determinar de antemano lo que puedes gastarte. Querrás entretener e impresionar a aquellos con quienes haces negocios. No te preocupes. Todo viene a su debido tiempo. Primero trabaja y luego recoge los frutos.
+Esta semana la vida será cualquier cosa menos que aburrida con tu eléctrica personalidad ganándose a algunos, pero dejando a otros preguntándose de qué planeta viniste. Quieres salir a divertirte con amantes, amigos y familiares, pero el Universo quiere que te encargues del cambio en el frente de carrera. Si te está empezando a costar demasiado, piensa en cómo trabajar desde casa tiempo parcial para ahorrarte el dinero gastado en transportación.

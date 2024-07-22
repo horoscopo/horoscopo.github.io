@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 15 de julio 2024 al 21 de julio 2024 
-description: Horóscopo semanal piscis 15 de julio 2024 al 21 de julio 2024. Dedícate la semana a ti Piscis, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
+title: piscis 22 de julio 2024 al 28 de julio 2024 
+description: Horóscopo semanal piscis 22 de julio 2024 al 28 de julio 2024. Esta semana vas a abrir los ojos Piscis, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2024-07-15
+ogimg: /images/zodiac/semanal_piscis.png#2024-07-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-07-15'
+ lastmod: '2024-07-22'
 ---
 
 
 
-## Dedícate la semana a ti Piscis, en serio, olvídate del mundo por un momento y sólo hazte feliz a ti mismo, date algún capricho de esos que hace mucho que no te das, cuida de ti, deja que todo fluya, libérate desahogándote y llora, llora todo lo que necesites.
+## Esta semana vas a abrir los ojos Piscis, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
 
-Eres hábil para descubrir las cosas aunque a veces solamente te ciegas por tus impulsos, por tus ganas de tenerlo. Esta semana abre bien los ojos a las proposiciones, no todo lo que brilla es oro, demuestra que estás por delante de todo eso, demuestra que ya no te sorprenderás por cualquier cosa, necesitas pruebas y sobre todo garantías de que va a salir bien. No vuelvas a pensar de nuevo por qué decidiste esto cuando debías haber hecho lo otro, porque todo pasa por alguna razón y sí, las malas decisiones muy a menudo, te llevan a situaciones maravillosas. Cuando algo está apagado, está apagado, tratar de encenderlo a veces es algo imposible y si se apagó, fue por alguna razón. Las cosas rotas pueden arreglarse pero a veces, es mejor comprar algo nuevo, cambiar de rumbo, cambia de “producto”, quizás lo que creías tener ya no merece la pena. Necesitas un objetivo que perseguir, algo donde poner todas tus fuerzas y gastar toda tu energía. Es el momento del cambio Piscis, es el momento de que todo lo bueno que deseas llegue, tu actitud lo determina, así que, ¡a por todas!
-Una positiva conexión entre Venus y Marte en tu signo al principio de semana puede ser perfecta para una cita especial o un evento social un tanto interesante. Una cuestión relativa a una meta o un negocio creativo podría dominar tu conciencia, y esto podría significar que te pierdas de un par de oportunidades en otros lugares. Dale tu atención, pero sé consciente de que hay una alta probabilidad de que lo que decidas llegue a cambiar la próxima semana. Por último, si vas a acudir a un evento este fin de semana, tal debería ser estupendo.
+No pienses tanto Piscis, deja que la vida te vaya sorprendiendo. Últimamente estás como muy nostálgico ¿no? No es que estés deprimido pero sí se te ha pasado por la cabeza eso de que algunos momentos del pasado fueron mejores que en el que estás ahora. No te agobies Piscis, ni te estreses. Quizás estás pensando demasiado en el futuro, en cómo van a ir las cosas, en si saldrá bien. Has arriesgado mucho para estar donde estás y con quien estás, y ya lo decidiste así que, no puedes pasarte la vida pensando si has hecho bien o no. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro Piscis, pero no trates de sujetarlo por todos lados cuando su destino es el suelo. Eres firme con las decisiones que tomas, siempre lo has sido pero, probablemente por momentos se te haga cuesta arriba en muchos aspectos. Deja la nostalgia a un lado y esfuérzate en pensar que todo tiene un principio y un fin y que la vida son ciclos que empiezan y que acaban, y que después llega otro ciclo de la misma manera. No tengas miedo a lo que es desconocido para ti, al revés, enfréntalo como algo nuevo que, quien sabe, puede traerte cosas que duren para toda la vida. Ten mucha paciencia en estos días y aprende a tomarte las cosas como lo que son, ni más ni menos, no puedes dar mucha importancia a cosas que no la tienen pero tampoco quitársela a otras muchas que SI la tienen. Y lo sabes. Mantente hábil para descubrir todo. Ya hace un tiempo te planteaste que ser positiv@ sería probablemente el único camino para que las cosas salieran bien y sí, en el fondo sabes que gracias a eso estás aquí, así que, no lo pierdas por nada del mundo, aunque se caiga todo a pedazos, aunque nada tenga sentido, mantente fuerte, eso será lo que necesitas para que tu cabeza no decaiga por pensamientos negativos. Vas a darte cuenta de tantas cosas…
+Esta semana, podrías necesitar tus habilidades de negociación, en especial si te enfrentas a los deseos obstinados de alguien más. Una conversación constructiva puede hacer mucho más por ti que la persuasión explícita. También puede alegrarte la forma en la que salen las cosas. La buena noticia es que el optimista Júpiter ingresa a tu sector de finanzas el martes y se queda ahí por un año, lo que trae oportunidades para mejorar tus ingresos de diferentes maneras. Sin embargo, podrías excederte en tus gastos, así que ten cuidado con esta tendencia.
 
 ## Dinero
 
-La buena noticia es que el Universo te está haciendo parecer interesante y único/a con todos. La mala noticia es que aporta una buena dosis de tensión a tu sector de profesión. Es posible que desees que tu individualidad y  tus buenas ideas brillen, pero alguien en el trabajo quiere mantener el statu quo. El dinero viene cuando eres capaz de alzar la línea sólo un poco con tal de encontrar un foro de apoyo para tus habilidades.
+Es una semana de confusión conforme varios aspectos tensamente chocan en el cielo. Los efectos en tu sector de trabajo infieren que se requiere de más atención antes de que puedas subir de posición y ganar la cantidad de dinero que deseas. Busca programas de educación en los que tu compañía quiera pagar en parte o completamente.
