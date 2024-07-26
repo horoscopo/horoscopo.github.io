@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Capricornio Julio 2024 
+title: Horoscopo Capricornio Agosto 2024 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Capricornio_mes.png#2024-06-26
+ogimg: /images/mes/Capricornio_mes.png#2024-07-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-06-26'
+ lastmod: '2024-07-26'
 ---
 
 

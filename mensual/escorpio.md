@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Escorpio Julio 2024
-description: El Horóscopo Julio de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Escorpio Agosto 2024
+description: El Horóscopo Agosto de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/escorpio/
 amplink: /horoscopo-mensual/amp/escorpio/
 home: FALSE
-keywords: horóscopo julio, horoscopos en español, horóscopo Escorpio julio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Escorpio, Tarot, Astrologia, Zodíaco, Escorpio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo agosto, horoscopos en español, horóscopo Escorpio agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Escorpio, Tarot, Astrologia, Zodíaco, Escorpio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/escorpio_mes.png#2024-06-26
+ogimg: /images/mes/escorpio_mes.png#2024-07-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-06-26'
+ lastmod: '2024-07-26'
 ---
 
 

@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Virgo Julio 2024 
+title: Horoscopo Virgo Agosto 2024 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Virgo_mes.png#2024-06-26
+ogimg: /images/mes/Virgo_mes.png#2024-07-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-06-26'
+ lastmod: '2024-07-26'
 ---
 
 

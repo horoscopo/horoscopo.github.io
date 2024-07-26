@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Acuario Julio 2024 
+title: Horoscopo Acuario Agosto 2024 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Acuario_mes.png#2024-06-26
+ogimg: /images/mes/Acuario_mes.png#2024-07-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-06-26'
+ lastmod: '2024-07-26'
 ---
 
 
