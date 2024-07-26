@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Aries Julio 2024
-description: El Horóscopo Julio de Aries todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Aries Agosto 2024
+description: El Horóscopo Agosto de Aries todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/aries/
 amplink: /horoscopo-mensual/amp/aries/
 home: FALSE
-keywords: horóscopo julio, horoscopos en español, horóscopo Aries julio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Aries, Tarot, Astrologia, Zodíaco, Aries, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo agosto, horoscopos en español, horóscopo Aries agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Aries, Tarot, Astrologia, Zodíaco, Aries, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/aries_mes.png#2024-06-26
+ogimg: /images/mes/aries_mes.png#2024-07-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-06-26'
+ lastmod: '2024-07-26'
 ---
 
 
