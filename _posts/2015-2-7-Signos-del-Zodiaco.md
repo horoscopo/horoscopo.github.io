@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 27 de julio 2024
-description: Horóscopos del dia de hoy 27 de julio 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 28 de julio 2024
+description: Horóscopos del dia de hoy 28 de julio 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2024-07-27
+ lastmod: 2024-07-28
 ---
-Apégate a lo esencial. Hoy, anota las cosas y las ideas que salgan de tu cabeza. Esta noche, las complicaciones tienden a surgir mientras Venus entra a Escorpión, donde se quedará hasta mediados de octubre. Los inconvenientes surgen debido a que no hay una gran cantidad de comunicación - el silencio es mortal. El antídoto es hablar las cosas.
+No tomar una decisión es una opción para no tomar ninguna acción. Hoy tienes que tomar una ya sea que quieras o no. Esta noche, el romanticismo está en el aire. Podría haber una reunión casual con alguien nuevo para aquellos solteros que se encuentren con una lista de espera de potenciales parejas.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
