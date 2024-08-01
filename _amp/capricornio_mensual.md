@@ -7,17 +7,16 @@ home: FALSE
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Capricornio_mes.png#2024-07-26
+ogimg: /images/mes/Capricornio_mes.png#2024-08-01
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-07-26'
+ lastmod: '2024-08-01'
 ---
 
 
-No es ningún secreto que eres uno de los signos del zodíaco con menos preocupaciones, estimable Capricornio, con una asombrosa habilidad para actualizar tus metas sin un plan concreto para alcanzarlas.
-Sin embargo, la temporada de Géminis te pedirá que te alejes un poco de tus despreocupadas formas para que puedas asumir el control de cualquier problema en tu vida que se haya salido de control recientemente. Desde rutinas inconsistentes hasta ambientes de trabajo tóxicos o maliciosas amienemistades, es tiempo de establecer algunos límites tanto para ti como para otras personas. Solo intenta no abandonar tu calidez durante este proceso, ya que podría resultar fácil que pierdas la compasión con alguien que saque de tus cabales.
-Mantente a la espera de drama en tus relaciones sociales a partir del 9 de junio cuando Mercurio se vuelve retrógrado en tu onceava casa solar. Los asuntos del pasado también podrían resurgir ahora, por lo que es posible que quieras mantenerte lejos de las personas de tu círculo que guardan rencor. Planifica quedarte en casa durante la luna nueva el día 6. Las emociones estarán a flor de piel, y es posible que estés de humor para secar las lágrimas de otras personas.
-La temporada de Géminis hace su debut el 22 de junio, y eleva tu conciencia social y política. La injusticia se sentirá particularmente desencadenante ahora, pero querrás mantener el control de tus respuestas emocionales. Evita desahogarte con diatribas en las redes o en discusiones con otras personas. En cambio, adopta un enfoque significativo hacia los cambios que quieres ver. Por suerte, también tendrás suficientes oportunidades de disfrutar el lado menos serio de la vida mientras sientes el llamado para unir fuerzas con tus camaradas más serviciales.
-Días destacados: 1, 25, 30
-Días desafiantes: 2, 18, 26
+Para un mes lleno de amor, lujos, y romance, estimable Capricornio, ya que el sol activa el sector de tu carta astral que rige los asuntos del corazón. Aunque esta energía debiera traer más estabilidad a tus relaciones, eso no significa que estará acompañada por una buena dosis de entusiasmo. Gestos sorprendentes o declaraciones de amor podrían venir a tu encuentro cuando el sol entre a Virgo, tu apasionado planeta regente, el 5 de agosto. No importa si te encuentras en una relación comprometida o si estás buscando un encuentro fugaz, puedes apostar a que esta fogosa energía traerá suficiente emoción a tu día.
+La inspiración creativa te encontrará cuando Marte forme una alianza cósmica con el soñador Neptuno el día 17. Busca apoyo en tu lado artístico aún si consideras que no dominas del todo tu arte. Jugar con tu imaginación con seguridad te ayudará a sanar mientras incrementa tu confianza. Estas vibras son, además, perfectas al momento de trabajar en alcanzar tus sueños ya que tus esfuerzos pueden transformar la fantasía en realidad. Solo recuerda mantener los pies sobre la tierra y la mente clara durante el proceso. La inversión emocional en cualquier situación podría nublar tu juicio si no tienes cuidado.
+Comenzarás a ver cómo tus esfuerzos generan un cambio desde el momento en que el sol entra a Virgo y a tu octava casa solar el 20 de agosto. Esta ubicación privilegiada requiere que cortes lazos con todas las personas, situaciones o comportamientos que podrían estar impidiendo que les abras paso a las muchas bendiciones que el universo está planeando otorgarte.
+Días destacados: 11, 14, 29
+Días desafiantes: 13, 15, 27

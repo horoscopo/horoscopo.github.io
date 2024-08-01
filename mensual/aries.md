@@ -9,21 +9,21 @@ keywords: horóscopo agosto, horoscopos en español, horóscopo Aries agosto , h
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/aries_mes.png#2024-07-26
+ogimg: /images/mes/aries_mes.png#2024-08-01
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-07-26'
+ lastmod: '2024-08-01'
 ---
 
 
- > Aries, vas a tener un mes de junio muy sensible en el que deberás abrir más tu mente y dejar que las ideas de los demás influyan en ti. Aunque tendrás que vivir también cierta tensión, por lo que conseguir lo que deseas será tu mayor preocupación. Esta energía hará oscilar tu estado de ánimo y tu mente vaya de la necesidad de libertad a la necesidad de seguridad. Tomar una decisión radical no es la mejor solución en este momento. Utiliza tus conexiones para distraerte y ponte en contacto con tus amigos. Sus ideas te darán claridad y te llevarán a una solución. Aprenderás y crecerás como persona, sobre todo en el terreno amoroso, además de que realizarás un balance con el objetivo de empezar el mes que entra comiéndote el mundo.
+ > Aries, este mes de agosto, Mercurio hace su trabajo y puedes recuperar a personas que se han ido de tu vida sin que tú lo quieras. Con su retrogradación, aprenderás a elegir cuidadosamente y percibir quién es confiable y quién no. La segunda mitad de mes, notarás un renovado impulso en tus relaciones y la influencia de Júpiter proporciona a tu vida más seguridad y estabilidad.
 
 
 
-La luna Nueva del 6 de junio reúne amistades y vecinos. Tal vez no sea una fiesta de todo el vecindario, pero se sentirá como una. Recibe cooperación y haz muchas conexiones prácticas. 
- El día 16, Venus se torna directo justo antes de que Mercurio se torne retrógrado. Mantén la organización, tómatelo con calma al tomar decisiones, y deja que un asunto romántico se resuelva antes de celebrar. 
-Conocidos y colegas podrían demandar tu tiempo durante la luna llena del 22 de junio, pero deberías ser capaz de aplacarlos sin problemas. Esto puede sacar un poco de tiempo de tu vida familiar o doméstica, pero no debería ser nada muy severo. Ahora puedes hacer feliz a mucha gente. 
-Mercurio forma una cuadratura con Marte el día 26. Al día siguiente, el sol y luego Júpiter forman una conjunción con Mercurio. Durante estos dos días, confía en tus instintos y emociones más que en tu intelecto. Razonar está bien, pero los sentimientos son más reveladores. 
-Días destacados: 14, 16, 27
-Días desafiantes: 19, 29
+Este mes verás el mundo a través de un lente de equidad, ya que el sol en Libra y Venus activan tu tercera casa solar. Lamentablemente, también podrías volverte más sensible a las injusticias que plagan nuestro mundo. Esto puede hacer que tu salud mental reciba un golpe si no controlas tu consumo de noticias según lo que puedes soportar emocionalmente. Estas energías también potenciarán tus habilidades de mediación, Aries, así que no tengas miedo de intervenir e intentar solucionar las disputas entre tus seres queridos, y ayudar a reemplazar el conflicto con la paz.
+Una curiosa energía podría apoderarse de ti cuando Mercurio entra a Libra el 10 de agosto, lo que te prepara para un período de crecimiento a través de la educación. Aprovecha esta posición planetaria como una oportunidad para cultivar tu intelecto e indagar en tus intereses personales, escribir, participar en el arte de la conversación y apreciar tu mente. Aunque a veces sientas que tus pensamientos e ideas te sobreestimulan, encontrar un escape saludable para tu mente puede ayudarte a mantener a raya estos momentos.
+La temporada de Virgo comienza cuando el sol y entra a este signo reservado pero compasivo el día 23. Esta posición solar podría despertar sentimientos profundos en tu interior, ya que los astros se alinean para ayudarte a purgar el equipaje que ya no necesitas cargar.
+Por suerte, la luna llena en Escorpión del 19 de agosto puede ayudarte a crecer y soltar, siempre y cuando te dispongas a perdonar, aceptar y dejar atrás trauma, asuntos del pasado o cualquier cosa que te impida sentirte a salvo dentro de tu corazón y tu mente.
+Días destacados: 9, 17, 22
+Días desafiantes: 2, 7, 19
