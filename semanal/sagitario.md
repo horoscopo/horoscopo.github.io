@@ -1,28 +1,29 @@
 ---
 layout: horoscopos
-title: sagitario 29 de julio 2024 al 04 de agosto 2024 
-description: Horóscopo semanal sagitario 29 de julio 2024 al 04 de agosto 2024. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
+title: sagitario 05 de agosto 2024 al 11 de agosto 2024 
+description: Horóscopo semanal sagitario 05 de agosto 2024 al 11 de agosto 2024. Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda Sagitario, pero sé constante.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2024-07-29
+ogimg: /images/zodiac/semanal_sagitario.png#2024-08-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-07-29'
+ lastmod: '2024-08-05'
 ---
 
 
 
-## Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
+## Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda Sagitario, pero sé constante.
 
-Eres así, y quien intente cambiarlo, debe tener claro que será imposible. El problema es cuando te metes en los juegos más de lo que debes. 
- y es que no puedes parar, de verdad.
-La comunicación es subrayada de una forma que ofrece respuestas a los dilemas cotidianos. Es probable que seas una mina de información en tu trabajo y tu amplio conocimiento mejore tu innata capacidad para vender una idea. La actividad lunar del Martes puede ser útil para comenzar un nuevo trabajo, comprometerte a un contrato, o iniciar tu propio negocio. Las relaciones son puestas bajo enfoque desde el Domingo. El movimiento del Sol en Leo aumenta sentimientos, fomentando una mayor empatía e intimidad con tu pareja.
+Por fin has tomado decisiones, y además decisiones que te benefician, 
+por fin están tomando alternativas a la vida que estabas llevando y por fin te estás enfrentando a los problemas de una vez.
+Al parecer, hay muchas cosas dando vueltas en tus relaciones esta semana, con la posibilidad de que ciertos asuntos generen intensas emociones. Sin embargo, cuando el encantador Marte se alinea con el jovial Júpiter el lunes, puede que no te des cuenta qué tan profundos son los sentimientos de otra persona hasta que comiences a hablar con él o ella. Mantén una comunicación fluida, ya que esto puede ser invaluable para suavizar cualquier dificultad y permitir que las cosas avancen a más tranquilamente. 
+ Si sientes que alguien tiene la determinación de tomar una medida, puede que la razón no sea útil. Tal vez puedas ofrecerle tu apoyo en lugar de la lógica. Cuando el encantador Venus ingresa a tu sector espiritual el jueves, tu lado compasivo podría pasar al frente. Esto podría ser un factor en cualquier decisión que tomes. La luna nueva en tu sector de recreación el domingo puede ser excelente para una reunión o celebración.
 
 ## Dinero
 
-Hay mucho sucediendo en tu sector de trabajo. Sin duda, tu trabajo ha llamado recientemente la atención de tus superiores, y si no, toma algunas medidas fuertes pero sutiles para asegurarte de que lo que haces es tomado en cuenta. Es posible que desees mantener escritos tus logros. Podría ser útil el tener notas la próxima vez que las revisiones de desempeño tomen lugar. Es necesario construir tu caso si lo que quieres es un aumento de sueldo.
+Si esta semana estás pensando en cambiar de trabajo, voilà, las fuerzas parecen ayudar. Los planetas que afectan tu trabajo día a día te piden que pienses acerca de cómo cambiar tu situación actual para bien (¿tal vez un aumento?). O empezar a buscar algo mejor. Los aspectos opuestos apoyan que renuncies, pero sólo cuando el tiempo y el dinero estén en orden. Si tu conjunto de habilidades necesita mejorar, pídale a alguien de más arriba que te enseñe algo nuevo.
