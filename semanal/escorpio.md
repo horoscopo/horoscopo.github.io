@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 05 de agosto 2024 al 11 de agosto 2024 
-description: Horóscopo semanal escorpio 05 de agosto 2024 al 11 de agosto 2024. Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+title: escorpio 12 de agosto 2024 al 18 de agosto 2024 
+description: Horóscopo semanal escorpio 12 de agosto 2024 al 18 de agosto 2024. Las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2024-08-05
+ogimg: /images/zodiac/semanal_escorpio.png#2024-08-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-08-05'
+ lastmod: '2024-08-12'
 ---
 
 
 
-## Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+## Las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz.
 
-Empieza a hacerte promesas a ti mismo Escorpio, empieza a prometerte amor propio, hoy y siempre. Has dejado abandonadas algunas cosas últimamente, has dejado de lado tu estilo, tu manera de vivir, tus ganas, tu fuerza, tu pasión… Lo has dejado de lado para entrar en conflictos internos y externos con otras personas… Prométete quererte cada día, y anteponerte siempre al resto por favor, prométete ir donde tu corazón te lleve, donde lata con más fuerza sin tener que pensar constantemente en el daño colateral que puedes causar, prométete no ceder cuando sabes que no debes… Hay sentimientos que no se pueden controlar, pero la tensión y la impulsividad sí. Así que, deja de enredarte en historias que no van contigo. Si hay que dejar las cosas claras que se dejen claras de una vez por todas. Saca los jueguecitos de tu vida, saca las estupideces, saca la basura Escorpio. Y saca lo que tienes dentro y lo que llevas cargando un tiempo. Hay cosas que simplemente no están hechas para ti, por mucho empeño que le pongas, hay cosas que por más que intentes solucionar no se van a dar, pero tienes que hacerte una pregunta, ¿cuánto tiempo estás dispuesto a aguantar donde estás? Deja que el tiempo cure… Y recuerda, tu amor propio antes que nada y mucho más ahora.
-Esta es una semana optimista con mucha actividad, especialmente en relación a cuestiones administrativas y comunicativas. Debido a que Marte en Leo podría llevarte a presionar a la gente un poco, te ayudaría adoptar una característica del Signo Libra y ver las cosas desde el punto de vista de la otra persona; hacerlo podría traerte positivas recompensas. Si trabajas en ventas o medios de comunicación, sin duda tendrás mucho que hacer y hasta podrías superar tus propias y las expectativas de los demás.
+Disfruta de la vida Escorpio, de verdad. A veces hay que dejar atrás lo que pertenece a atrás de una vez, y sí, por qué no, volver a dar oportunidades, volver a confiar. Es muy triste que te hayan fallado, es cierto, pero el castigo más grande es haberte hecho desconfiado con el mundo, desconfiado con todos. Hay que cambiar eso como sea, hay que cambiarlo porque hay gente buena que lo que quiere es dar, que te valora, que te quiere. Sé amable con la gente que está a tu alrededor y perdona y sigue a tu corazón. Al final del todo, si no lo haces, te vas a arrepentir muchísimo, a veces esas situaciones no vuelven Escorpio. Hay algunos problemillas que te rodean pero van a solucionarse pronto, aunque deberás tener una buena actitud para liquidarlos definitivamente. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierda en unas semanas. Quédate con lo positivo y sigue adelante con tu vida. Todo cambiará a mejor. La paz interior es la nueva meta, así que, ¡céntrate! Feliz semana Escorpio.
+La actividad lunar en tu sector de recursos compartidos podría ser un llamado a resolver cualquier problema en esta área, ya sea de negocios o asuntos financieros. Actuar ahora puede permitirte resolver dificultades antes de empezar a trabajar en proyectos más ambiciosos. Marte entra a tu sector espiritual el martes, pudiendo ser un llamado a resolver asuntos más personales, sobre todo si están drenando tu energía. Inclusive dar pasos pequeños para arreglar las cosas puede ser muy beneficioso.
 
 ## Dinero
 
-Esta semana podría ser tensa para ti. Considera seriamente la posibilidad  de hacerle caso a los mensajes que estás recibiendo de tus sueños y flashes psíquicos. Lejos de ser esotéricos y confusos, están en lo correcto y dándole al tino. Al mismo tiempo, sigue añadiendo habilidades al asistir a clases, talleres y seminarios. Tienes lo que se necesitas, pero sería bueno el tener un poco más.
+Esta semana, te rodeas de gente que quiere verte tener éxito, lo cual no es algo malo en lo absoluto. Con expansión y suerte en tu sector de trabajo combinado con una visión súbita y cambios, es el momento de lanzar la precaución al viento y conseguir que tu trabajo sea visto por los más altos en la cadena alimenticia. Es un momento de suerte para ti, en el que se te protege casi divinamente. Así que, dale una oportunidad y ve qué sale de nuevo en términos de dinero.

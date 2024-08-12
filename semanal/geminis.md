@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 05 de agosto 2024 al 11 de agosto 2024 
-description: Horóscopo semanal geminis 05 de agosto 2024 al 11 de agosto 2024. Tómate un tiempo Géminis, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
+title: geminis 12 de agosto 2024 al 18 de agosto 2024 
+description: Horóscopo semanal geminis 12 de agosto 2024 al 18 de agosto 2024. La realidad es esta y sí, aunque a veces sea una mierda busca SIEMPRE el lado bueno, en el fondo nunca dejas de hacerlo, aunque a veces te superen las circunstancias. Hay gente que sigue echando de menos al Géminis de siempre…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2024-08-05
+ogimg: /images/zodiac/semanal_geminis.png#2024-08-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-08-05'
+ lastmod: '2024-08-12'
 ---
 
 
 
-## Tómate un tiempo Géminis, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
+## La realidad es esta y sí, aunque a veces sea una mierda busca SIEMPRE el lado bueno, en el fondo nunca dejas de hacerlo, aunque a veces te superen las circunstancias. Hay gente que sigue echando de menos al Géminis de siempre…
 
-A veces te acercas de nuevo a eso de lo que te alejaste porque sabías que no te convenía… Estás en una encrucijada Géminis. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo. Y te entra frustración, y rabia, y muchas ganas de poner a más de uno en su sitio, de explicar cómo te has sentido, todo lo que has sufrido, todo lo que tienes dentro… Y esa es a menudo la excusa que te pones para volver… No Géminis, error. No pongas a prueba a los demás porque tienes más de perder que de ganar. Las personas no cambian. Pero claro, eres Géminis, súper metódico con todo, y hasta que no pruebes no te quedarás a gusto. Está bien, prueba si quieres, date la oportunidad de saber si te equivocas o no, no te quedes con ninguna duda, no sigas consejos de nadie, ni siquiera de tu cabeza y termina viendo las cosas por ti mismo/a. Pero también prepárate para todo, incluso para asimilar decepciones si las hubiera… El instinto no te falla pero la impulsividad a veces sí puede hacerlo. Quizás no sea lo que esperas Géminis pero puede que al menos te refuerces más. Pase lo que pase, prométete a ti mismo/a no volver a sufrir más…
-Plutón se torna directo en tu sector de relaciones, por lo que podrías percatarte de que cambios positivos se hacen más posibles de una manera muy notable. Además, con Marte entrando a esta misma zona, sus agitadas cualidades podrían animarte a solucionar ciertos problemas, empezar a trabajar en ciertos proyectos y aumentar tu nivel de interacción con alguien. Es posible que desees hacer uso de la actividad lunar del viernes en tu sector hogareño para poner en marcha un proyecto manual o doméstico. La compra o venta de bienes raíces también podría funcionar bien.
+Esta semana estás un poco impredecible Géminis, para ti y para el resto, de repente tendrás momentos en los que parecerás un encanto y otros muchos en los que pagarás tu rabia con la persona que primero se cruce en tu camino pero, las cosas como son, estás intentando controlarte más de la cuenta. Después de haber comprendido qué fue lo que te ha llevado a estar como estás viene la calma, pero es un proceso largo. Está bien que seas duro contigo mismo a veces, pero sobretodo sé duro con las personas que no te dan el trato que deberían darte. Te ablandas demasiado y pasas muchas cosas por alto. Todo duele más de la cuenta pero no puedes permanecer en el lugar que te hace daño por mucho tiempo, por tu bien y por el bien de los que te quieren. Procura no pelear demasiado esta semana, procura no meterte en muchos líos que al final siempre acaban como acaban. Mal. Evita el mal rollo a tu alrededor como sea. Y cambia de nuevo el chip. Tienes tan clara la teoría pero te cuesta tanto trabajo la práctica Géminis… Planea algún viaje, trata de pasar más tiempo con los tuyos, en reuniones, en fiestas. Deja de estresarte por cosas que aún no han pasado y emociónate por tus proyectos, por los planes que tienes en mente, motívate con algo TUYO de verdad, con algo que tú vas a crear. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Géminis. Tú solito.
+¿Eres capaz de aventurarte? De ser así, la próxima semana podría animarte a que sigas a tu corazón. De hecho, una discusión con una de tus amistades podría actuar como catalizador y animarte a reservar un viaje. Una vez que el sol ingresa a tu sector de lejanos horizontes el martes, podrías dispararte a toda velocidad hacia experiencias que expandan tu mente. Sin embargo, si planeas viajar, la fase retrógrada de Mercurio comienza el jueves, lo que podría significar demoras o desvíos. Si tienes la actitud adecuada, esto también puede ser divertido.
 
 ## Dinero
 
-Esta semana hay ciertos aspectos afectando tu expresión personal. Es posible que sientas inspiración por los estilos del pasado o simplemente una forma relacionada con la forma en la que solías pensar en ti y cómo cambiar tu enfoque. El cosmos te ayuda a atraer más a corto plazo y considerar cómo podrías añadir más fuentes de ingresos.
+Tienes una buena dosis de apoyo del Universo conforme tratas de ganar más dinero y creas más estructura en tu vida. Los aspectos afectando tu sector de dinero y valores hacen de este un buen momento no sólo para ganar más dinero a través de mayores oportunidades, sino también para investigar la manera de invertir en el futuro. Empieza a actuar con cautela, luego, ramifícate conforme empiezas a sentir más comodidad.

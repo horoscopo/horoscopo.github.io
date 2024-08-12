@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: aries 05 de agosto 2024 al 11 de agosto 2024 
-description: Horóscopo semanal aries 05 de agosto 2024 al 11 de agosto 2024. Da la bienvenida a tu nueva vida Aries, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
+title: aries 12 de agosto 2024 al 18 de agosto 2024 
+description: Horóscopo semanal aries 12 de agosto 2024 al 18 de agosto 2024. Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2024-08-05
+ogimg: /images/zodiac/semanal_aries.png#2024-08-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-08-05'
+ lastmod: '2024-08-12'
 ---
 
 
 
-## Da la bienvenida a tu nueva vida Aries, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
+## Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta.
 
-No arriesgues, no apuestes si no es victoria segura, es un consejo. Si tienes algo claro ve a por ello a muerte pero si dudas no pelees ni luches, al menos por ahora. Has perdido muchas fuerzas en otros asuntos y lo que menos te conviene es seguir perdiéndola en cosas en las que no sabes si vas a ganar. Ha llegado el momento en el que debes hacerte valorar más. El pasado te ha creado esa inseguridad que a veces tienes a la hora de tomar decisiones, y sí, antes quizá pensabas todo demasiado pero ahora estás en modo “lo tiro todo por la ventana”. Cuidado Aries, cuidado porque los cambios no pueden ser radicales, no tienes la fuerza necesaria ahora para andar arriesgando tontamente y sólo porque en el momento te apetezca. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
-El deseo de viajar quizá sea tentador, especialmente si una persona te invita a unas breves vacaciones. Puede que también sea una buena oportunidad para tener un poco de paz y tranquilidad para pensar sobre asuntos en los que debes pensar detenidamente. Al mismo tiempo, surge un acuerdo de negocios que parece muy prometedor. Una reunión con una persona el viernes podría tener buenos resultados para los dos y puede que sea la primera reunión de muchas por delante. También es posible que recibas una pequeña suma de dinero pronto.
+No pelees Aries, no discutas, no pierdas el tiempo con nada ni con nadie. Esta semana estás apático por momentos, como si hubieras tirado la toalla en muchos aspectos de tu vida, como si ya no te importara pelear por algo que ves que no merece la pena. Pero el problema no es que digas “hasta aquí”, el problema es que sigues ahí, sin fuerzas, mostrándote casi indiferente hacia todo lo que gira en torno a ti, como si ya nada importara. Pero el caso es que sí que importan muchas cosas, muchísimas, pero debes dejar de lado de verdad las que ya no tienen cabida. Haz algo diferente Aries, tienes que curarte aún de algunos palos, tienes que darte un chute de fuerza y de energía y remontar como sea… Vete a una cafetería, solo, y piensa en todo lo que ha pasado, escríbelo, acuérdate de cuanto tiempo has estado dando todo de ti, plantéate si merece la pena seguir haciéndolo… A veces, para curarte de todo ese estrés emocional hay que descansar, y a veces descansar es ocultarse del mundo por un tiempo, es tener todo lo que necesitas dentro de ti. Quizás sea bueno que te alejes de lo que te daña y lo veas desde fuera, como un espectador Aries, vas a ver muchas más cosas de las que creías ver, vas a sentir que es cierto que mereces un cambio.
+El enfoque en tu sector espiritual podría animarte a tomarte un pequeño descanso para relajarte y recargar tus energías. Si puedes dedicar una hora o dos para disfrutar de un masaje o un tratamiento de belleza, podría resultarte muy relajante y sanador. Es momento de una sesión de cuidados y una oportunidad de cuidarte con tierna y amorosa atención. El estimulante Marte ingresa a tu sector social el sábado, lo que mejora tu participación en todo tipo de divertidos eventos. ¡Prepárate para las fiestas!
 
 ## Dinero
 
-Puede que sientas un poco de tensión esta semana. Dado que el efecto es en el sector social, las personas pueden comportarse de forma inesperada o no estar allí cuando les necesites. Además, alguien puede desenterrar todo tipo de cosas en relación a tu zona de deudas. No dejes de levantar ninguna piedra y asegúrate dos so tres veces de haber pagado los saldos pendientes. No necesitas ninguna sorpresa por ahora.
+Es un momento tenso para ti. Tus relaciones más cercanas apoyan plenamente los objetivos que te has fijado para ti mismo/a, en particular las que involucran tu situación financiera, y tu carrera está en expansión. Hay tantas cosas pasando en tu vida ahora que puede que sientas agobio, falta de apreciación y que no te pagan lo suficiente. Descansa lo más que puedas.

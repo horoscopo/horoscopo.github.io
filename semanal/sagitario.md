@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 05 de agosto 2024 al 11 de agosto 2024 
-description: Horóscopo semanal sagitario 05 de agosto 2024 al 11 de agosto 2024. Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda Sagitario, pero sé constante.
+title: sagitario 12 de agosto 2024 al 18 de agosto 2024 
+description: Horóscopo semanal sagitario 12 de agosto 2024 al 18 de agosto 2024. Hay personas que juegan en otra liga Sagitario, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2024-08-05
+ogimg: /images/zodiac/semanal_sagitario.png#2024-08-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-08-05'
+ lastmod: '2024-08-12'
 ---
 
 
 
-## Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda Sagitario, pero sé constante.
+## Hay personas que juegan en otra liga Sagitario, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
 
-Por fin has tomado decisiones, y además decisiones que te benefician, 
-por fin están tomando alternativas a la vida que estabas llevando y por fin te estás enfrentando a los problemas de una vez.
-Al parecer, hay muchas cosas dando vueltas en tus relaciones esta semana, con la posibilidad de que ciertos asuntos generen intensas emociones. Sin embargo, cuando el encantador Marte se alinea con el jovial Júpiter el lunes, puede que no te des cuenta qué tan profundos son los sentimientos de otra persona hasta que comiences a hablar con él o ella. Mantén una comunicación fluida, ya que esto puede ser invaluable para suavizar cualquier dificultad y permitir que las cosas avancen a más tranquilamente. 
- Si sientes que alguien tiene la determinación de tomar una medida, puede que la razón no sea útil. Tal vez puedas ofrecerle tu apoyo en lugar de la lógica. Cuando el encantador Venus ingresa a tu sector espiritual el jueves, tu lado compasivo podría pasar al frente. Esto podría ser un factor en cualquier decisión que tomes. La luna nueva en tu sector de recreación el domingo puede ser excelente para una reunión o celebración.
+Tienes grandes planes Sagitario, el problema es que tienes que pensar muy bien con quién quieres tener esos planes, con quien quieres disfrutarlos. Un día estás bien, pero después estás tres mal y eso sólo es mierda que se va acumulando constantemente en tu vida. Decide qué es lo que quieres hacer y con quien quieres compartir tus logros. Esta semana estás un poco así como que te da igual todo, que no es que te de igual en el fondo, pero no te implicas de la misma manera en la que lo hacías unas semanas antes. Cuando te propones algo vas con ello hasta el final, el problema es que quizás ahora ya no te motiva como antes nada, quizás no quieres arriesgar por nadie, quizás no te merece tanto la pena como creías… No te preocupes Sagitario, si esta semana estás un poco más apático con el mundo no pasa nada. Tienes tu derecho a no querer hacer nada, a pasar un poco de todo. De hecho, pasar un poco de todo es lo que te hará ver las cosas desde fuera, lo que te hará ser más objetivo. Esta semana abrirás los ojos, verás qué merece la pena, qué puedes perder, qué debes ganar, de qué debes pasar… Y si no eres el/la mismo/a de antes con los demás, que aprendan a valorarte un poco más. Ya verás como vuelve el Sagitario de siempre…
+Puede que este no sea el mejor momento para unirte a un club caro a pesar de que la actividad lunar podría estarte insinuando invertir en tu vida social. Lo mejor sería investigar más sobre los precios antes de continuar. Además, este no es un buen momento para prestarles dinero a amigos. A partir del sábado, la entrada de Mercurio a tu sector financiero podría hacerte pensar en maneras de mejorar tu ingreso. Por último, ciertas amistades pueden tener planes de viaje que es posible que desees considerar.
 
 ## Dinero
 
-Si esta semana estás pensando en cambiar de trabajo, voilà, las fuerzas parecen ayudar. Los planetas que afectan tu trabajo día a día te piden que pienses acerca de cómo cambiar tu situación actual para bien (¿tal vez un aumento?). O empezar a buscar algo mejor. Los aspectos opuestos apoyan que renuncies, pero sólo cuando el tiempo y el dinero estén en orden. Si tu conjunto de habilidades necesita mejorar, pídale a alguien de más arriba que te enseñe algo nuevo.
+Nunca ha sido tu punto fuerte el aceptar ciertas cosas, y tal sentimiento se duplicará esta semana. Algunos aspectos negativos crearán olas. Trata de sobrellevar las facciones beligerantes de tus redes sociales de regreso a la mesa de la paz mientras te haces cargo de propiedades que compartas con otra persona.  El dejarla en sus manos no traerá los mejores resultados ahora. Tu sabes que es lo mejor para los dos.

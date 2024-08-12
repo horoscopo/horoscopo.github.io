@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 05 de agosto 2024 al 11 de agosto 2024 
-description: Horóscopo semanal leo 05 de agosto 2024 al 11 de agosto 2024. Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
+title: leo 12 de agosto 2024 al 18 de agosto 2024 
+description: Horóscopo semanal leo 12 de agosto 2024 al 18 de agosto 2024. No dejes todo por nada, ni por nadie. Déjalo por ti. Que te caes, está bien, ya has aprendido a levantarte muchas veces…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2024-08-05
+ogimg: /images/zodiac/semanal_leo.png#2024-08-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-08-05'
+ lastmod: '2024-08-12'
 ---
 
 
 
-## Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
+## No dejes todo por nada, ni por nadie. Déjalo por ti. Que te caes, está bien, ya has aprendido a levantarte muchas veces…
 
-No puedes ser sumiso Leo, al final, tus necesidades siempre acaban saliendo a la luz porque no puedes limitarte ni encasillarte con nada. No puedes pasarte la vida sabiendo qué es lo que debes hacer pero sin hacerlo, no puedes pasarte la vida queriendo hacer algo y que al final ese algo sólo se quede en tu cabeza, en tus pensamientos. Tienes que romper con eso. Esta semana céntrate en cumplir cada una de tus metas, trata de hacer lo que te pida el cuerpo sin necesidad de quejarte, piensa en qué es lo que está en tu mano, en qué es lo que tú puedes hacer, y hazlo. No hagas de tu tiempo tiempo perdido, con nada, con nadie… Si no vas a por todo, mejor no vayas. Es uno de tus lemas, pero a veces te olvidas de aplicártelo a ti, y sí, empiezas algo y por unas cosas u otras, no lo acabas. Piensa que así es como te frustras y piensa que es el motivo por el cual te pones de muy mala hostia un día sí y otro también. Eres un signo de fuego, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo. No te compliques y al lío Leo. Ponte en marcha de una vez esta semana, y no pienses en lo que perdiste o en lo que ganaste, piensa en lo que llegará si de verdad te pones las pilas.
-Un encuentro amistoso podría darle un positivo impulso a tu semana. Alguien podría ofrecerte una oportunidad o darte información que demuestre ser muy útil. Si el flujo de tus finanzas ha disminuido últimamente, Marte entrando a tu sector monetario podría animarte a aumentar tus esfuerzos. Este es uno de esos momentos en los que cuanto más inviertas, más podrías recibir. Si estás considerando unirte a un club o invitar a alguien a una primera cita, hazlo alrededor de la actividad Lunar del viernes.
+La gente no hará siempre lo que tu quieres, la gente no agradecerá ni te dará lo mismo a ti, pero no, no te decepciones, es tiempo de dar un giro a todo. Sinceramente ¿de qué te saca dar más vueltas de lo debido a cosas que realmente no te hacen bien? Entrena tu mente, entrénala para ver las cosas buenas hasta en lo peor. Lo que parecía que no tenía solución, de repente lo tiene, las excusas que a veces ponías sólo por el miedo a que algo peor pasara ya no están. La felicidad se puede hallar hasta en los momentos más oscuros si somos capaces de usar bien la luz, y de eso, estás más seguro que nunca. Pues adelante Leo, la luz está en tus manos, solamente tienes que alumbrar lo que de verdad te conviene, ya basta de ir detrás de cosas o personas que lo que intentan hacer es apagarte, eres fuerte, y estás conociendo gente nueva que puede apoyarte en todo. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
+Podrías encontrarte a merced de fuerzas que te saquen fuera de equilibrio. A principios de la semana, un confuso enlace producido por Neptuno podría llevarte a tratar de apuntar hacia objetivos profesionales inalcanzables. Desafortunadamente, Venus y el Sol enfrentándose a Saturno podrían bajarte a la tierra de golpe si alguien decide desilusionarte. Si deseas avanzar, utiliza la actividad lunara en tu signo del sábado para obtener un buen consejo y formular a un plan práctico de acción.
 
 ## Dinero
 
-Esta semana trae actividad a tu sector de dinero. Mientras que orientas tu vida en torno a ganar más dinero, también es necesario construir una base que sea sólida. Asegurarte de que tu ingreso sea estable y consistente es de primordial importancia. A medida que tu empleo y tu lugar de trabajo puedan estar cambiando, hay un gran potencial sin explotar en el extranjero. Explora otras posibilidades de trabajo y de ganar dinero en línea o en los crecientes mercados extranjeros.
+Esta semana es sobre la energía que recibes del Universo que afecta a tu vida laboral. Es posible que desees asociarte con alguien que no conoces muy bien con el fin de terminar cierto trabajo, o aliarte con otras personas que quieren salir adelante. No te aproveches ni de los demás o del poder que tengas. Un paso lento pero constante gana la carrera. Formula tu estrategia con prudencia.
