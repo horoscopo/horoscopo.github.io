@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: aries 12 de agosto 2024 al 18 de agosto 2024 
-description: Horóscopo semanal aries 12 de agosto 2024 al 18 de agosto 2024. Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta.
+title: aries 19 de agosto 2024 al 25 de agosto 2024 
+description: Horóscopo semanal aries 19 de agosto 2024 al 25 de agosto 2024. Fuera las preocupaciones. Tira del carro Aries, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2024-08-12
+ogimg: /images/zodiac/semanal_aries.png#2024-08-19
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-08-12'
+ lastmod: '2024-08-19'
 ---
 
 
 
-## Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta.
+## Fuera las preocupaciones. Tira del carro Aries, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
 
-No pelees Aries, no discutas, no pierdas el tiempo con nada ni con nadie. Esta semana estás apático por momentos, como si hubieras tirado la toalla en muchos aspectos de tu vida, como si ya no te importara pelear por algo que ves que no merece la pena. Pero el problema no es que digas “hasta aquí”, el problema es que sigues ahí, sin fuerzas, mostrándote casi indiferente hacia todo lo que gira en torno a ti, como si ya nada importara. Pero el caso es que sí que importan muchas cosas, muchísimas, pero debes dejar de lado de verdad las que ya no tienen cabida. Haz algo diferente Aries, tienes que curarte aún de algunos palos, tienes que darte un chute de fuerza y de energía y remontar como sea… Vete a una cafetería, solo, y piensa en todo lo que ha pasado, escríbelo, acuérdate de cuanto tiempo has estado dando todo de ti, plantéate si merece la pena seguir haciéndolo… A veces, para curarte de todo ese estrés emocional hay que descansar, y a veces descansar es ocultarse del mundo por un tiempo, es tener todo lo que necesitas dentro de ti. Quizás sea bueno que te alejes de lo que te daña y lo veas desde fuera, como un espectador Aries, vas a ver muchas más cosas de las que creías ver, vas a sentir que es cierto que mereces un cambio.
-El enfoque en tu sector espiritual podría animarte a tomarte un pequeño descanso para relajarte y recargar tus energías. Si puedes dedicar una hora o dos para disfrutar de un masaje o un tratamiento de belleza, podría resultarte muy relajante y sanador. Es momento de una sesión de cuidados y una oportunidad de cuidarte con tierna y amorosa atención. El estimulante Marte ingresa a tu sector social el sábado, lo que mejora tu participación en todo tipo de divertidos eventos. ¡Prepárate para las fiestas!
+Estás alcanzando una madurez Aries, y no es que antes fueras inmaduro no, pero ahora estás aprendiendo a alejarte de las personas y situaciones que amenazan tu paz mental, el respeto, los valores, la moral y tu amor propio. Y eso está bien pero aún así, a pesar de que te has alejado de eso, hay momentos en los que, inevitablemente vuelves a caer, aunque no sean las mismas situaciones ni las mismas personas. No puedes presumir de haber superado ciertas cosas para repetir después los mismos errores. Eres fuerte Aries y sea cual sea el estrés, el dolor o el odio que puedas sentir esta semana respira profundo y deja que se vaya, y no te enzarces con nadie, no vas a cambiar las cosas. Un pensamiento negativo puede arruinar mil vibraciones positivas. No pierdas más el tiempo. Organiza tu semana y ves paso por paso, organiza tu vida y trátate bien y con respeto. Si te valoras a ti mismo y te cuidas, el resto también lo hará. Y hay algo muy importante que debes saber esta semana, no cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás. Y no detengas ni frenes tu vida ahora.
+Si sientes agobio y algo de falta de reconocimiento en tu trabajo actual, la idea de tomarte un descanso para viajar y relejarte podría resultarte muy atractiva. Una extraña combinación de energías podría hacer que te sientas culpable por no poder dar lo mejor de ti y, al mismo tiempo, que tengas muchas ganas de alejarte para disfrutar durante un tiempo. Sería útil delegar algunas de tus tareas, en especial si sientes que no te quedan energías. 
+El animado Marte se encuentra actualmente en tu sector de recreación, de modo que el cosmos te anima a conectar con tus pasatiempos favoritos y a dedicarle un tiempo a alegres y divertidas actividades. El escurridizo Neptuno, que actualmente se está moviendo en tu sector de trabajo y servicio, hace que sientas la tentación de hacer demasiado. No te sientas mal si debes bajar unos escalones y delegar algunas tareas a otra persona. Haz solo lo que puedas cumplir razonablemente.
 
 ## Dinero
 
-Es un momento tenso para ti. Tus relaciones más cercanas apoyan plenamente los objetivos que te has fijado para ti mismo/a, en particular las que involucran tu situación financiera, y tu carrera está en expansión. Hay tantas cosas pasando en tu vida ahora que puede que sientas agobio, falta de apreciación y que no te pagan lo suficiente. Descansa lo más que puedas.
+Eres alguien poco convencional ahora al traerle una ola repentina de genialidad a ciertos acontecimientos. El Universo le envía vibraciones de suerte a tu sector de efectivo y valores. Ahora te llegan oportunidades para mayor número de horas, mejores salarios y proyectos más deseables, al igual que la posibilidad de disfrutar de lo que haces para ganarte la vida. Es un momento muy bueno en general.

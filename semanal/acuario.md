@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 12 de agosto 2024 al 18 de agosto 2024 
-description: Horóscopo semanal acuario 12 de agosto 2024 al 18 de agosto 2024. Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor Acuario, sin remordimientos.
+title: acuario 19 de agosto 2024 al 25 de agosto 2024 
+description: Horóscopo semanal acuario 19 de agosto 2024 al 25 de agosto 2024. Empieza a hacerte promesas a ti mismo Acuario, empieza a prometerte amor propio, hoy y siempre. 
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2024-08-12
+ogimg: /images/zodiac/semanal_acuario.png#2024-08-19
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-08-12'
+ lastmod: '2024-08-19'
 ---
 
 
 
-## Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor Acuario, sin remordimientos.
+## Empieza a hacerte promesas a ti mismo Acuario, empieza a prometerte amor propio, hoy y siempre. 
 
-Controla tus impulsos y sobretodo tus nervios e intenta evitar conflictos con las personas cercanas a ti. No saldrá nada bien. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. Cuenta hasta diez antes de saltar con alguna mala palabra, piénsalo dos veces antes de estropearlo. Resiste la tentación de crear un conflicto. Diplomacia y pies de plomo Acuario. Siempre la has tenido pero claro, todo el mundo tiene sus límites. Define tus prioridades y no acumules, es importante que lo tengas claro, si acumulas lo único que puede pasar es que explotes, y además que salpique a todos, sin excepción, porque el día que Acuario estalla, nadie se salva.
-Si tienes decisiones importantes que tomar, puede que sea buena idea evitar hacerlo por el momento. Lo mismo ocurre con la firma de contratos o el cierre de ofertas. De hecho, comprometerte a cualquier cosa podría ser un poco riesgoso mientras Mercurio continúa retrocediendo en tu sector de léxico y pensamiento. Además, ciertos planes o proyectos podrían retrasarse. Sin embargo, tienes una muy buena oportunidad para estudiarlos con más detalle y detectar cualquier potencial defecto. En referente a tu vida social, alguien del pasado podría reaparecer.
+Las cosas a veces, tardan más de la cuenta, tanto en superarse como en construirse, no todo puede ser ya y en este momento aunque sabes que a veces te encantaría, pero cada minuto que pasa es un aprendizaje para ti, para valorar tu tiempo y para valorar lo que realmente merece la pena.
+El Lunes podría ser un día especialmente afortunado para ti, especialmente si has estado trabajando duro y esperas ver tus esfuerzos recompensados. Mantente alerta - este es el momento en el que las oportunidades pueden aparecer de la nada. Incluso así, haz tiempo el Martes para leer importantes documentos con el fin de evitar errores. La presencia de Marte en Cáncer despertará ciertos asuntos hogareños y familiares, motivándote a hacer avanzar proyectos que pudieran haberse estancado a lo largo del camino.
 
 ## Dinero
 
-Te diriges a un periodo de gran riqueza en términos de finanzas e información que te ayudará a obtener más seguridad. Tienes un increíble poder psíquico ahora. El Universo está agitando tu sector de karma, vidas pasadas, e instituciones,  con el fin de acudir a estas áreas para hacer más dinero, encontrar nuevas ideas para productos y servicios únicos, o localizar lugares para invertir tu dinero para maximizar tus ganancias.
+Es una semana ideal para pensar en iniciar un nuevo negocio. Tu trabajo está cambiando, al igual que tu imagen de dinero. El ir con la corriente significa que debes aceptar lo que está sucediendo ahora en lugar de tratar de resistirte a ello. Tus relaciones no sólo son importantes sino también un sueño perfecto para este momento de tu vida.

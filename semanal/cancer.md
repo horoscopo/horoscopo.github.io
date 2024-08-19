@@ -1,31 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 12 de agosto 2024 al 18 de agosto 2024 
-description: Horóscopo semanal cancer 12 de agosto 2024 al 18 de agosto 2024. Vamos Cáncer, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
+title: cancer 19 de agosto 2024 al 25 de agosto 2024 
+description: Horóscopo semanal cancer 19 de agosto 2024 al 25 de agosto 2024. Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2024-08-12
+ogimg: /images/zodiac/semanal_cancer.png#2024-08-19
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-08-12'
+ lastmod: '2024-08-19'
 ---
 
 
 
-## Vamos Cáncer, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. 
+## Tienes una semana increíble por delante y te darás cuenta de que cuanto más lastres te quites, más y mejores momentos llegarán…
 
-Porque quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que 
- Pero no, debes escapar de esos pensamientos, enfocarte en otras cosas en las que no debas decidir esto o lo otro, si no que simplemente fluyas sin más, 
-pero otras muchas veces sí, así que, plantéate en cuales puedes hacer algo para cambiar el rumbo y en cuáles lo mejor de todo es dar media vuelta y olvidar, aunque sea complicado…
-A medida que el sol y el conversador Mercurio interactuan esta semana, puede que tengas mucho que decir y que demuestres una gran elocuencia. Sin embargo, trata de no prometer algo que no puedas cumplir. Podrías caer muy fácilmente en la tentación de hacerlo. Al mismo tiempo, el encantador Venus ingresa a tu sector de recreación, cuya presencia aquí podría estimular tu lado creativo y mejorar las posibilidades románticas. Las próximas semanas podrían encontrarte saliendo bastante, dándote un gusto con tus pasatiempos preferidos o pasando tiempo con tu amor. 
-Un aspecto muy positivo a mitad de semana podría inspirarte a volver a visitar un lugar que te trae muchos recuerdos. Hacerlo podría darte mucha alegría y una placentera energía. 
-Si alguien te presiona para que hagas algo el viernes, completar esta tarea te permite anticiparte al fin de semana. Durante el fin de semana, el eclipse solar en tu sector de comunicación podría traer consigo una interesante oferta o alguna noticia.
+Para de pensar tanto en todo, para de sobreanalizar. ¿Te has parado alguna vez en seco y te has preguntado si realmente eres feliz, si realmente quieres que las cosas sigan como están? Hazlo, contigo las terapias de choque funcionan muchas veces. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? Cuando lo averigües ves a por ello. La comodidad está bien Cáncer pero está bien por un tiempo, no toda la vida, si sólo te conformas con lo que tienes al final tu vida nunca será tuya si no de los demás, las decisiones no las tomarás tú, si no todo lo que está a tu alrededor porque, al final, solamente te adaptarás a ello, tal cual, como venga, quizás enfadado y quejándote o quizás dejándote llevar pero al final, los que ganan serán los demás… Vuelve a creer en tus metas, vuelve a creer en ti mismo, vuelve a intentar conseguir lo que siempre has querido.
+Para sobreponerte a cualquier reserva que tengas en torno a una idea atrevida, puedes beneficiarte de hablar con alguien que haya pasado por una situación similar. La influencia de Venus en tu sector creativo podría ayudarte a ver las cosas desde una perspectiva más positiva o desde un nuevo ángulo, lo que te dará esperanzas. Más adelante en la semana, una conexión con el suertudo Júpiter puede traerte un estado de ánimo optimista que te anime a seguir adelante de todas formas; incluso si el resultado es incierto.
 
 ## Dinero
 
-Una energía de suerte con respecto al dinero de otras personas significa que puedes beneficiarte de la propiedad compartida, las inversiones, o una herencia inesperada. Esto da rienda suelta a todo tipo de cosas buenas en esta área de tu vida. Otros aspectos afectan las vidas pasadas, los sueños y el karma. Otórgales a los demás lo que quisieras que te dieran a ti, financieramente hablando.
+Para ti esta semana se trata de ser más responsable con el trabajo y el desarrollo de contactos con grupos sociales. A pesar de que puedas estar cansado/a, lo mejor es que después del trabajo digas que sí a esa bebidas o comidas sociales. Los chismes que oigas, no sólo pueden ser ociosos, sino también de inteligencia estratégica para tu plan de dominación mundial. No dejes que otros tomen todas las ventajas que podrían ser tuyas.
