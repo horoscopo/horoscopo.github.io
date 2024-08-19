@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 18 de agosto 2024
-description: Horóscopos del dia de hoy 18 de agosto 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 19 de agosto 2024
+description: Horóscopos del dia de hoy 19 de agosto 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2024-08-18
+ lastmod: 2024-08-19
 ---
-Con la Luna en Géminis oponiéndose a Saturno, te despiertas con un nuevo sentido de propósito, planes, e incluso un poco más de ambición. Las emociones son muy sensibles esta tarde. Un gran comienzo, pero, ¡¿de dónde proviene toda esta ira?! El magnetismo de esta noche despierta una gran cantidad de sensuales chispas.
+Podría ser difícil definir las emociones que uno está sintiendo cuando la Luna forma sextil con Mercurio directo el día de hoy. Sin embargo, piensa en ello. Tal vez esos pensamientos se produjeron en las últimas semanas mientras Mercurio se encontraba retrógrado. Esta noche te surge una vez más esa sensación de desconexión debido a la Luna saliéndose de su órbita.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
