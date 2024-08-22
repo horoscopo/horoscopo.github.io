@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 21 de agosto 2024
-description: Horóscopos del dia de hoy 21 de agosto 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 22 de agosto 2024
+description: Horóscopos del dia de hoy 22 de agosto 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2024-08-21
+ lastmod: 2024-08-22
 ---
-El poder de Marte es más amable al encontrarse en Piscis. No es un renacimiento de la audacia, pero te percatarás de que tal enfoque tiene sus ventajas. (Recuerda lo que te estaba pasando hace dos años y medio). Mercurio iniciando su retroceso esta noche trae consigo déjà vus. Si algo te resulta familiar, tal vez no puedas identificarlo debido a que se te escapó la primera vez.
+¡Qué bueno es comenzar a encontrar alegría en conversaciones cuando Mercurio inicia su tránsito en Libra! Sin embargo, puede que sea un poco más difícil tomar decisiones con respecto a cualquier cosa importante. A veces, cuando la Luna se encuentra en Acuario como lo hace esta noche, todos quieren ser tus amigos, algo que no es un mal comienzo para algo más serio.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
