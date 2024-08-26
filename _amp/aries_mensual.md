@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Aries Agosto 2024 
+title: Horoscopo Aries Septiembre 2024 
 permalink: /horoscopo-mensual/amp/aries/
 normallink: /horoscopo-mensual/aries/
 home: FALSE
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/Aries_mes.png#2024-08-01
+ogimg: /images/mes/Aries_mes.png#2024-08-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-08-01'
+ lastmod: '2024-08-26'
 ---
 
 
