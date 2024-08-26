@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 19 de agosto 2024 al 25 de agosto 2024 
-description: Horóscopo semanal sagitario 19 de agosto 2024 al 25 de agosto 2024. Siempre te adelantas a los malos tiempos, de hecho es como si los vieras venir, e intentas retirarte de ese camino… Así que, que ahora no vengan a contarte cuentos, y mucho menos a hacerte creer que eres tú el que estabas equivocado.
+title: sagitario 26 de agosto 2024 al 01 de septiembre 2024 
+description: Horóscopo semanal sagitario 26 de agosto 2024 al 01 de septiembre 2024. No te permitas sentir la presencia de nada que tenga ya que ver con el pasado Sagitario, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2024-08-19
+ogimg: /images/zodiac/semanal_sagitario.png#2024-08-26
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-08-19'
+ lastmod: '2024-08-26'
 ---
 
 
 
-## Siempre te adelantas a los malos tiempos, de hecho es como si los vieras venir, e intentas retirarte de ese camino… Así que, que ahora no vengan a contarte cuentos, y mucho menos a hacerte creer que eres tú el que estabas equivocado.
+## No te permitas sentir la presencia de nada que tenga ya que ver con el pasado Sagitario, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
 
-Te crees que eres débil Sagitario, a veces te menosprecias demasiado, más de lo que deberías, te crees que no llegas, que no puedes, te crees que quizás se te está yendo de las manos el tiempo que estás tardando en curarte de viejas heridas, piensas que ya tenía que tener superado mucho, pero no… Todo tiene su tiempo, no quieras comerte el mundo en un minuto porque seguro que lo escupes al minuto siguiente. Vas a tardar en ser “normal” otra vez, porque tienes sentimientos Sagitario, porque las cosas te duelen, porque vas a tardar en recuperarte del todo… Pero eh, que saldrás de cualquier cosas, que tu te pones las pilas y te mentalizas y trepas hasta de lo más profundo. Esta semana dedícate a mimar algunas relaciones que tienes cerca y que, por tener tu mente en otro lugar, estás descuidando. Y quiérete un poco más, y piensa que los bajones son normales, y más cuando estás en un proceso de duelo, de superar algunas cosas y de cambiar otras de forma radical. Nadie sabe estar de un minuto a otro sin parte de su vida anterior Sagitario… Tómate un tiempo Sagitario, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
-Tu trabajo y salud son temas importantes esta semana, por lo que, si tienes ganas de avanzar, puede que tengas que cambiar tu forma de pensar. La Luna Llena del 19 de agosto destaca una perspectiva que ya no te funciona y que podría activamente estarte impidiendo avanzar. Es hora de un cambio, uno que también podría ayudarte a revitalizar otras áreas de tu vida. El consejo que una amistad te otorgue durante el fin de semana podría ser el catalizador que te empuje a empezar de nuevo.
+Abre los ojos de una vez Sagitario. Te preocupas demasiado, pero te preocupas por todo, por todos. A veces incluso por cosas irreales, por cosas que no han pasado aún… A veces tienes tanta desconfianza en todo que sólo piensas en adelantarte a las circunstancias. Pero al final esa desconfianza se va y perdonas Sagitario, siempre encuentras la forma de perdonar, has vivido la mitad de tu vida poniendo a los demás antes que a ti mismo, y te han hecho daño, te han fallado, te han demostrado que no eres una prioridad. Y eso duele mucho… Pero Sagitario, tú no puedes cambiar, tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias tu corazón vale oro, y tú también Sagitario. Pero sigue protegiéndote a ti mismo, y esta semana mucho más. No es que no seas hábil y astuto para no ver las cosas venir pero a veces te ciegas mucho, incluso aunque sea destructivo y tóxico para ti. Necesitas entender muchas cosas, necesitas cuidar mejor de tu corazón, no hace falta que cambies pero da oportunidades a las personas adecuadas, y hazte valer, y comprende que está bien perdonar a las personas, pero no está bien dejar que te hagan daño, una y otra vez. Sagitario por favor, te tenían que tener en un altar… Y lo sabes…
+Los mensajes confusos podrían ser un problema al comienzo de la semana, así como la tentación de actuar impulsivamente. Si quieres que los próximos días sean productivos, puede que te resulte útil tranquilizarte y reflexionar. Te complacerá haberlo hecho, ya que tus esfuerzos (junto con los de los demás) serán mucho más fructíferos. A partir del jueves, entrarás a una fase más intensa que podría abrirte el camino para un cambio más profundo de adentro hacia afuera.
 
 ## Dinero
 
-Para ti esta semana es sobre las redes sociales, las cuáles son cada vez más importantes. Tus amigos de verdad te extrañan y quieren escuchar todo acerca de tus últimas aventuras. Has estado haciendo un montón de cambios, los cuáles podrían afectar la forma en la que te ves y presentas. Puede que algunos de tus amigos no aprecien este proceso. Sé amable con ellos ya que todavía no entienden a dónde vas y que ellos pueden venir también.
+Puede que te sientas un poco más hablador/a de lo habitual esta semana. Por lo general no puedes esperar mucho a recibir historias de los demás, pero esta semana estás feliz de compartir tus experiencias también. Conforme toda esta comunicación ocurre a tu alrededor, asegúrate de pasar tiempo y gastar dinero en ti mismo/a. El tener cuidado personal extremo puede parecer demasiado lujoso ahora, pero es una gran inversión en tu futuro a largo plazo. Descansa, rejuvenece y di lo que piensas.
