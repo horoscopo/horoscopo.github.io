@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Capricornio Agosto 2024 
+title: Horoscopo Capricornio Septiembre 2024 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Capricornio_mes.png#2024-08-01
+ogimg: /images/mes/Capricornio_mes.png#2024-08-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-08-01'
+ lastmod: '2024-08-26'
 ---
 
 

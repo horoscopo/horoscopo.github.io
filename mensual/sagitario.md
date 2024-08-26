@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Sagitario Agosto 2024
-description: El Horóscopo Agosto de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Sagitario Septiembre 2024
+description: El Horóscopo Septiembre de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/sagitario/
 amplink: /horoscopo-mensual/amp/sagitario/
 home: FALSE
-keywords: horóscopo agosto, horoscopos en español, horóscopo Sagitario agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Sagitario, Tarot, Astrologia, Zodíaco, Sagitario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo septiembre, horoscopos en español, horóscopo Sagitario septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Sagitario, Tarot, Astrologia, Zodíaco, Sagitario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/sagitario_mes.png#2024-08-01
+ogimg: /images/mes/sagitario_mes.png#2024-08-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-08-01'
+ lastmod: '2024-08-26'
 ---
 
 

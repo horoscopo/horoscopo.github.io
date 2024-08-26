@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Piscis Agosto 2024 
+title: Horoscopo Piscis Septiembre 2024 
 permalink: /horoscopo-mensual/amp/piscis/
 normallink: /horoscopo-mensual/piscis/
 home: FALSE
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Piscis_mes.png#2024-08-01
+ogimg: /images/mes/Piscis_mes.png#2024-08-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-08-01'
+ lastmod: '2024-08-26'
 ---
 
 
