@@ -7,12 +7,16 @@ home: FALSE
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Acuario_mes.png#2024-08-26
+ogimg: /images/mes/Acuario_mes.png#2024-08-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-08-26'
+ lastmod: '2024-08-28'
 ---
 
 
-Sal a divertirte con tus amigos durante la primera semana de agosto. Tu hogar se volverá tu refugio a partir de la Luna Nueva del 4 de agosto, y será tu lugar favorito para disfrutar de una racha de creatividad. Los eventos sociales podrían tomar el control de tu vida de nuevo después de la Luna Llena del 19 de agosto. Estos pueden dirigirte a cosas buenas y a conocer a personas igual de ambiciosas y cooperativas que tú. Sin embargo, evita los choques de personalidad. Si es necesario, piérdete en la multitud con tal de ampliar tu red de contactos. El Sol entra a Virgo el 21 de agosto, trayendo consigo unas imparables ganas de tomarte unas vacaciones. Trabaja duro para poder diviértete igual de duro.
+septiembrede 2024 - No te sorprendas si eres el centro de atención este mes, estimable Escorpión, ya que la temporada de Libra activa tu quinta casa solar. Esta ubicación cósmica tiene como objetivo elevar tu aura, lo que te permite reflejar la fuerza compasiva, talentosa y amante de la libertad que realmente eres. Las personas se sentirán atraídas hacia tu forma de ser abierta pero a la vez misteriosa, lo que te da la oportunidad de hacer nuevas amistades mientras continúas nutriendo las relaciones que aprecias. También sentirás una mayor creatividad y pasión ya que los astros te abren a la inspiración divina. Sin embargo, necesitarás tomate con seriedad tus metas artísticas cuando Saturno entra al signo de los Peces el 7 de septiembre.
+El año astrológico se intensifica mientras el sol entra a Libra y al sector de tu carta astral que rige la salud, las rutinas y el trabajo el día 23. El universo te pedirá que organices tu agenda, en especial si tienes grandes planes para los próximos doce meses. Solo recuerda nutrir tu cuerpo con cada hito que alcanzas, por lo que debes ser consciente de lo que comes, descansar bien y practicar el autocuidado cada vez que lo necesites. La luna nueva se manifiesta al día 3 y es la ocasión perfecta para reconectar con tus resoluciones de anuales, en especial si has estado teniendo dificultades para poner en práctica nuevos hábitos.
+Sentirás un cambio importante cuando Plutón entra a Acuario y a tu cuarta casa solar el 23 de septiembre. Esta ubicación planetaria con certeza transformará tu vida doméstica y podría desencadenar reubicaciones, nuevas dinámicas familiares y proyectos de mejoras en el hogar. Por suerte sentirás la motivación necesaria para seguir adelante y con confianza en el universo una vez que el apasionado Marte entra a Cáncer y al sector espiritual de tu carta astral dos días después.
+Días destacados: 5, 20, 28
+Días desafiantes: 3, 16, 25

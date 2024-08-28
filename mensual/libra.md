@@ -9,18 +9,16 @@ keywords: horóscopo septiembre, horoscopos en español, horóscopo Libra septie
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/libra_mes.png#2024-08-26
+ogimg: /images/mes/libra_mes.png#2024-08-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-08-26'
+ lastmod: '2024-08-28'
 ---
 
 
- > Libra, agosto supondrá para ti un mes en el que se te pondrá a prueba para ver si por fin puedes controlar tus impulsos. En el tema del amor primará la armonía y es casi imposible que algo pueda salir mal.
+ > Libra, el mes de septiembre será satisfactorio para ti por muchas razones. La primera de todas es que disfrutarás de armonía en tus relaciones y no tendrás conflictos, ni discusiones, ni malos entendidos con nadie, y ya sabes de sobra la cantidad de energía vital que te roban estas situaciones. La intuición y la compasión sintonizará con tu lado más espiritual y te conectará con tus emociones y las de los demás. Si has estado sintiendo una sensación de estancamiento o insatisfacción en el amor, este es el momento de explorar tus emociones y comunicarte con tu pareja de manera abierta y sincera. Este mes, dedica tiempo a practicar la meditación y el autocuidado para mantener un equilibrio mental saludable.
 
 
 
-Deja que tu niño interior salga a jugar bajo la Luna Nueva del 4 de agosto. Inspírate y diviértete más haciendo algo ordinario de la forma más extraordinaria. Todo niño sabe que, muchas veces, ciertas cosas que son puestas al revés son en realidad verdades disfrazadas. La oposición entre el Sol y Saturno del 15 de agosto te da más autoridad de la que esperabas. Alrededor de la Luna Llena del 19 de agosto, podrías tener muchísimas tareas e involucrarte en la vida de manera introvertida. Si has observado un cambio en una relación o romance, tómate todo el tiempo que sea necesario para comprenderlo y hacer que las cosas funcionen a tu favor.
-
-Mejores días: 3, 18, 21Peores días: 4, 12
+Algunas pequeñas cosas en el hogar necesitan atención, y estás de ánimo para hacerlas bajo la luna nueva del 3 de septiembre. Peina al perro, lleva al gato al veterinario, o acomoda y riega las plantas de interior. La luna llena del día 18 favorece más las reuniones privadas tranquilas que las enormes fiestas sociales. Tal vez quieras invitar a un par de amistades (o quizás solo una) a tu casa para tener una celebración íntima de temporada. El 23 de septiembre, el sol ingresa a Libra y forma una conjunción con Saturno. Las festividades se están colocando en su lugar, y tú estás haciendo que todo parezca fácil. 

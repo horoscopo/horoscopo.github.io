@@ -7,14 +7,12 @@ home: FALSE
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/Libra_mes.png#2024-08-26
+ogimg: /images/mes/Libra_mes.png#2024-08-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-08-26'
+ lastmod: '2024-08-28'
 ---
 
 
-Deja que tu niño interior salga a jugar bajo la Luna Nueva del 4 de agosto. Inspírate y diviértete más haciendo algo ordinario de la forma más extraordinaria. Todo niño sabe que, muchas veces, ciertas cosas que son puestas al revés son en realidad verdades disfrazadas. La oposición entre el Sol y Saturno del 15 de agosto te da más autoridad de la que esperabas. Alrededor de la Luna Llena del 19 de agosto, podrías tener muchísimas tareas e involucrarte en la vida de manera introvertida. Si has observado un cambio en una relación o romance, tómate todo el tiempo que sea necesario para comprenderlo y hacer que las cosas funcionen a tu favor.
-
-Mejores días: 3, 18, 21Peores días: 4, 12
+Algunas pequeñas cosas en el hogar necesitan atención, y estás de ánimo para hacerlas bajo la luna nueva del 3 de septiembre. Peina al perro, lleva al gato al veterinario, o acomoda y riega las plantas de interior. La luna llena del día 18 favorece más las reuniones privadas tranquilas que las enormes fiestas sociales. Tal vez quieras invitar a un par de amistades (o quizás solo una) a tu casa para tener una celebración íntima de temporada. El 23 de septiembre, el sol ingresa a Libra y forma una conjunción con Saturno. Las festividades se están colocando en su lugar, y tú estás haciendo que todo parezca fácil. 

@@ -9,20 +9,22 @@ keywords: horóscopo septiembre, horoscopos en español, horóscopo Capricornio 
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/capricornio_mes.png#2024-08-26
+ogimg: /images/mes/capricornio_mes.png#2024-08-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-08-26'
+ lastmod: '2024-08-28'
 ---
 
 
- > Capricornio, este mes aparecen nuevas oportunidades y se abren nuevos caminos para ti que no debes desaprovechar, pero también es importante que evites situaciones peligrosas e inciertas. El espíritu emprendedor se apoderará de ti con la entrada de Venus en Aries a principios de mes. Haz un uso positivo de esta nueva disposición y ¡atrévete!
+ > Capricornio, el mes de septiembre será para afianzar aquellos proyectos que estaban estancados porque ha llegado la hora de que vean la luz. La perseverancia y logros, que te han acompañado hasta ahora, te brindarán un enfoque renovado en tus metas y aspiraciones personales. Podrías explorar también emociones más profundas en tus relaciones, tanto las más cercanas como las más distantes.
 
 
 
-Para un mes lleno de amor, lujos, y romance, estimable Capricornio, ya que el sol activa el sector de tu carta astral que rige los asuntos del corazón. Aunque esta energía debiera traer más estabilidad a tus relaciones, eso no significa que estará acompañada por una buena dosis de entusiasmo. Gestos sorprendentes o declaraciones de amor podrían venir a tu encuentro cuando el sol entre a Virgo, tu apasionado planeta regente, el 5 de agosto. No importa si te encuentras en una relación comprometida o si estás buscando un encuentro fugaz, puedes apostar a que esta fogosa energía traerá suficiente emoción a tu día.
-La inspiración creativa te encontrará cuando Marte forme una alianza cósmica con el soñador Neptuno el día 17. Busca apoyo en tu lado artístico aún si consideras que no dominas del todo tu arte. Jugar con tu imaginación con seguridad te ayudará a sanar mientras incrementa tu confianza. Estas vibras son, además, perfectas al momento de trabajar en alcanzar tus sueños ya que tus esfuerzos pueden transformar la fantasía en realidad. Solo recuerda mantener los pies sobre la tierra y la mente clara durante el proceso. La inversión emocional en cualquier situación podría nublar tu juicio si no tienes cuidado.
-Comenzarás a ver cómo tus esfuerzos generan un cambio desde el momento en que el sol entra a Virgo y a tu octava casa solar el 20 de agosto. Esta ubicación privilegiada requiere que cortes lazos con todas las personas, situaciones o comportamientos que podrían estar impidiendo que les abras paso a las muchas bendiciones que el universo está planeando otorgarte.
-Días destacados: 11, 14, 29
-Días desafiantes: 13, 15, 27
+El 5 de septiembre, Venus se torna retrógrado en Escorpión. El amor podría volverse más emocionante (o incluso travieso), cuando es época de secretos románticos. Evita asumir compromisos importantes en las relaciones hasta que la fase retrógrada termine el 16 de septiembre. 
+¿Necesitas que alguien te cuide, o eres tú quien prefiere cuidar de alguien? Durante la luna nueva del día 3, alguien puede querer cuidar de ti, aunque sea un poco. Es una muestra de amor, no un juego de poder. 
+El romance vendrá al rescate con la luna llena del 18 de septiembre. Incluso si se te antoja algo peculiar o fuera de lo común, tu pareja estará feliz de complacerte. Si estás buscando amor, está justo a la vuelta de la esquina. 
+El sol forma una conjunción con Venus el día 26. Un asunto romántico podría al fin resolverse al volverse el centro de atención. 
+Venus retrógrado entra a Libra el 30 de septiembre, cuando las personas podrían ser más agradables de lo que realmente intentan o quieren ser. 
+Días destacados: 6, 11, 28
+Días desafiantes: 17, 30

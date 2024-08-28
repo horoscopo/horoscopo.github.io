@@ -9,16 +9,21 @@ keywords: horóscopo septiembre, horoscopos en español, horóscopo Leo septiemb
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/leo_mes.png#2024-08-26
+ogimg: /images/mes/leo_mes.png#2024-08-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-08-26'
+ lastmod: '2024-08-28'
 ---
 
 
- > El mes de agosto será de confusión o revelación en tus relaciones afectivas. Deja espacio para la intuición y la comunicación honesta, sobre todo con tu pareja. Tu esfuerzo y dedicación finalmente serán recompensados, y podrías recibir elogios o ascensos en el trabajo. Proyectarás una imagen de éxito que convencerá a propios y extraños. Déjate seducir por el ambiente inspirador que te rodea este mes y embriágate con los estímulos que recibirás.
+ > Leo, parece que en septiembre no va a haber quién te pare y vas a cumplir todo lo que te propones. En el amor por fin pasarás página y te vas a centrar en lo que de verdad importa: tú misma.
 
 
 
-Para la luna nueva del 4 de agosto, sé una persona artística y atrevida. Tómate una o dos horas para hacer bordados en miniatura o un álbum de recortes. Encuentra una gran diversión en pequeños esfuerzos. La luna llena del día 19 se trata de tener vida social, conexiones y fiestas. La alegría, el amor y la suerte están ahora en el aire. El 30 de agosto, Venus entra a Tauro, el signo que rige. Atrae toda la atención que puedas querer, y disfruta de cada momento. Llénate de motivación con la luna llena, el 19 del mes, y cuida mejor de ti. Además, come, duerme y sueña mejor.
+El mes comienza con Mercurio, tu planeta regente, que termina su ciclo de retrogradación en Tauro y en tu casa 9. Si bien este retroceso planetario ciertamente podría cambiar las cosas en tu vida diaria, es posible que también sientas que el Universo te está enviando mensajes confusos.
+Por suerte, tu tercer ojo empezará a funcionar con más claridad cuando el planeta de la comunicación termina su reinado de terror el 3 de septiembre, y un gran trígono que ocurre el 8 seguramente te abrirá a mensajes del más allá.
+Mientras tanto, el sol en Virgo le aporta un impulso de eficiencia a tu trabajo, lo que te ayuda a avanzar en tu profesión. Este también es un buen momento para relacionarte y hacer nuevas conexiones, en especial durante la luna llena el 18. Este clima cósmico le aportará optimismo y emoción a tu vida, lo que te ayuda a vincularte con otras personas de manera más orgánica. Así que no intentes encontrar afinidad a través de rumores malintencionados o podrías terminar pagando por eso más adelante.
+El 21 de septiembre, tu enfoque cambia hacia pasar tiempo con tus amistades cuando el sol ingresa a Libra y la primavera u otoño, según donde te encuentres, comienza oficialmente. Estas buenas vibras se amplifican con la dulce unión que Venus forma con Plutón, que seguramente profundizará tus relaciones. Usa esta energía como una oportunidad para programar un tiempo para divertirte con alguien con quien esperas acercarte más, porque bajar la guardia se sentirá más natural de lo que acostumbras. ¡Solo recuerda no revelar todos tus secretos de inmediato!
+Días destacados: 7, 10, 13
+Días desafiantes: 5, 12, 19

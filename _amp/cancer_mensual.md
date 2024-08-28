@@ -7,16 +7,19 @@ home: FALSE
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/Cáncer_mes.png#2024-08-26
+ogimg: /images/mes/Cáncer_mes.png#2024-08-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-08-26'
+ lastmod: '2024-08-28'
 ---
 
 
-agostode 2024 - Puede que sientas como si todo el mundo estuviera desahogando sus frustraciones contigo en este momento, estimable Cáncer, ya que la temporada de Leo activa el sector de tu carta astral que rige la comunicación. Estés o no de humor para socializar, las demás personas acudirán a ti en busca de consuelo, consejo y tranquilidad. Aunque tu naturaleza compasiva encontrará placer en apoyar a tus seres queridos, sería un error esforzarte demasiado atendiendo las necesidades emocionales del resto. Por suerte, leer, aprender y ponerse al día con tus acompañantes de bajo mantenimiento puede ayudarte a llenar tu copa, así que asegúrate de dirigir tu energía en consecuencia.
-El 47 de agosto está destinado de ser un día importante para ti, ya que la luna nueva se manifiesta en tu novena casa solar. Esta energía desencadenará la mística que vive en tu interior mientras el universo conspira para guiarte, elevarte y apoyarte. Momentos después, Saturno entra al signo de los Peces, ayudándote a estructurar mejor tus pensamientos y palabras. Aprovecha este clima cósmico para adoptar una rutina de meditación más consistente. Si lo haces, te será más fácil obtener claridad y mensajes del más allá.
-Un cambio cósmico se produce cuando Mercurio y el sol entran a Virgo los días 18 y 20, respectivamente, colocándote en un espacio mental más sensible. Sentirás atracción por las comodidades del hogar y optarás por esconderte de los familiares o amistades que hablaron contigo sin cesar a principios de mes. Esta es perfecta perfectas para poner en marcha nuevos proyectos, así que asegúrate de alimentar tus pasiones y sueños. Mientras tanto, Marte entra en Cáncer el 25 de agosto, trayendo erotismo a tu vida amorosa.
-Días destacados: 2, 20, 21
-Días desafiantes: 3, 16, 23
+septiembrede 2024 - Cáncer, el mes comienza con poderosas conversaciones, ya que el Sol de Piscis activa tu tercera casa, la de la comunicación y los pensamientos. Anhelas la conexión y las conversaciones profundas. Decir lo que piensas durante la luna nueva de Virgo, el 3 de septiembre, te brinda oportunidades emocionantes para explorar.
+Mercurio entra en Tauro el día 15 y despierta tu curiosidad. Haz preguntas para recibir la información que necesitas para avanzar. Es el momento de utilizar tu voz y compartir tus ideas.
+El Sol entra en Libra y despierta tu cuarta casa de la intuición y las emociones el 23 de septiembre. Cuando escuchas tu voz interior, recibes claridad sobre lo que te hace sentir bien. Tus vínculos con los seres queridos crecen cuando te vuelves vulnerable. Al explorar los bellos pasillos de tu reino interior, profundizarás en la relación que tienes contigo mismo.
+La luna llena ilumina el cielo y hace brillar una luz en tu décima casa de la carrera profesional el día veintitrés. Libérate de responsabilidades que te estresan y quítate el peso del mundo de encima. Un nuevo comienzo está a la vuelta de la esquina que te ayudará a dar un paso hacia tu poder personal. Todo lo que tienes que hacer es creer en ti mismo. Venus entra en Géminis el mismo día, invitándote a considerar tu entorno. Embellece tu espacio y deshazte de los objetos que no te aportan alegría. Tu espacio es tu santuario
+Júpiter entra en Géminis el 25 de septiembre y te inspira a embarcarte en un viaje de autodescubrimiento. Tus sentimientos son válidos y descubrirás que también son superpoderes
+¡Buena suerte este mes, Piscis!
+Días destacados: 2, 13, 29
+Días desafiantes: 10, 17, 30

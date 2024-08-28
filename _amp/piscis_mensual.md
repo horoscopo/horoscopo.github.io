@@ -7,18 +7,12 @@ home: FALSE
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Piscis_mes.png#2024-08-26
+ogimg: /images/mes/Piscis_mes.png#2024-08-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-08-26'
+ lastmod: '2024-08-28'
 ---
 
 
-Venus se torna retrógrado el 5 de agosto. El verdadero amor no desaparecerá. De hecho, puede que se vuelva más fuerte y más serio. Sé súper amable con los corazones ajenos. 
-En la luna nueva del día 4, el romance puede venir a buscarte. Si no te interesa, o si ya estás es una relación agradable, permite que te halaguen. Recibe esta atención con elegancia. 
-La cuadratura que Venus forma con Marte el 10 de agosto podría desatar una discusión que era inminente. No necesitas entrar en eso. No impongas tu propia agenda de forma agresiva por el momento. 
-La luna forma una conjunción con Marte el día 18. Da lo mejor de ti y sé más fuerte durante los próximos días. Haz algo bueno con ello. Será útil cuando Mercurio forma una cuadratura con Marte al día siguiente. 
-Conecta a un nivel profundo con alguien durante la luna llena del 19 de agosto. Aclara un malentendido, o comparte un momento revelador que despeje el ambiente y abra el camino hacia un proyecto importante. 
-Días destacados: 8, 23, 28
-Días desafiantes: 4, 11
+La paz y la tranquilidad pueden ser muy valiosas bajo la Luna Nueva del 3 de septiembre. Podría ser difícil escapar de todas las actividades y demandas de tu tiempo. Encuentra refugio en la música, la lectura y los momentos de soledad, incluso si estás en medio de una multitud. El 15 de septiembre, la oposición entre el Sol y Saturno podría crear una lucha de poder que podrías aprovechar. La Luna Llena del 18 de septiembre trae más amor, afecto y atención de la que una persona podría querer. Disfrútalos. Te mereces la adoración, y te mereces que te traten bien. Siente como tu autoestima se eleva, y siéntete bien al respecto.

@@ -9,21 +9,21 @@ keywords: horóscopo septiembre, horoscopos en español, horóscopo Géminis sep
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/geminis_mes.png#2024-08-26
+ogimg: /images/mes/geminis_mes.png#2024-08-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-08-26'
+ lastmod: '2024-08-28'
 ---
 
 
- > Este mes de agosto tus planetas amigos te animan a abrirte a otras perspectivas, Géminis. Antes de emitir un juicio precipitado, tómate el tiempo necesario para revisar la situación. En los últimos diez días del mes la luna llena te mostrará que tu entorno se está esforzando por ti, para que creas que lo imposible puede hacerse posible. Tendrás el apoyo de tus seres queridos y toda su confianza, si te animas a ir más allá de lo que conoces.
+ > Géminis, septiembre trae consigo una montaña rusa emocional a medida que la Luna y Neptuno influyen en tu signo, llevándote por caminos de intuición y sensibilidad. Este mes te desafiará a explorar tus sentimientos y a encontrar el equilibrio entre la emotividad a flor de piel y la claridad mental. Y es que te espera un mes plagado de emociones intensas y contrastadas, que te harán sentir que vives una película y que te sacarán del estado de ensimismamiento. Será inevitable que reacciones antes los acontecimientos y que te pongas en marcha para conseguir aquello que te propongas este mes. Y, por supuesto, también indica un nuevo comienzo en el amor, lleno de  nuevos encuentros y oportunidades.
 
 
 
-La cuadratura entre el sol y Marte del 2 de agosto puede generar un comienzo difícil para el mes, pero tú puedes enfrentarte a cualquier cosa que intente alterar tus planes. Tal vez no estás de acuerdo con algo, pero hazlo con amabilidad si puedes. 
-Ponte a crear y jugar durante la luna nueva del día 4. Tienes ideas y planes que pueden levantar el ánimo de las celebraciones de todos. Mercurio se torna estacionario directo también ese día. Haz una pausa, y deja que las cosas se arreglen a su propio ritmo. 
-El sol forma un trígono con Urano el 20 de agosto, y esto te permite sorprender a una persona especial con un regalo o invitación perfecta y agradable. El sol entra a Virgo. Sienta cabeza y disfruta de una calma seria y constructiva. 
-Déjate llevar más por tu propia luz interna durante la luna llena del día 19. No te estás volviendo una persona ermitaña. En cambio, te estás volviendo más sensible, y tienes una mayor receptividad a la paz y quietud que la gente necesita, pero por lo general ignora. 
-Días destacados: 7, 20, 21
-Días desafiantes: 2, 5
+septiembrede 2024 - Las flores florecerán a tus pies este mes, querida Géminis, cuando cuatro cuerpos celestes atraviesen Aries y el sector de tu carta que rige el amor. Apóyate en la energía dulce y sexy que está en juego, dejando que tus pasiones y tu corazón te guíen. Presta atención a quién te diriges cuando Mercurio entre en Tauro el 3 de septiembre, aportando profundidad e intensidad a tus conversaciones. Aunque estas vibraciones son perfectas para alimentar vínculos saludables, podrías apuntarte a algún disgusto si inviertes en las personas equivocadas.
+Tu estrella se eleva con la luna nueva del día 3, cuando Luna brilla intensamente en tu signo, elevando tu aura y tu espíritu. Si alguna vez hubo un momento para poner tus necesidades 
+El eclipse solar de Aries del 19 de septiembre pondrá a prueba tus relaciones sentimentales. Los lazos nuevos y maduros podrían ponerse a prueba, porque el Universo busca fortalecer las dinámicas que están destinadas a ser mientras desestabiliza las que no lo están. El destino tendrá un papel que desempeñar en tu felices para siempre, aunque tendrás que seguir las señales y tu corazón.
+Los vientos del cambio soplarán en tu cabello una vez que la estación de Tauro arranque el día veinte, activando el sector de tu carta que rige la transformación. Intenta no rebelarte contra la dirección hacia la que te están apuntando en este momento, porque el Universo quiere que evoluciones a un nivel fundamental. Elige la felicidad por encima de todo, aunque debes estar preparado para algunos momentos intensos en un futuro próximo.
+Días destacados: 7, 23, 25
+Días desafiantes: 12, 14, 29 
