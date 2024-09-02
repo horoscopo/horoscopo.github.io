@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: leo 26 de agosto 2024 al 01 de septiembre 2024 
-description: Horóscopo semanal leo 26 de agosto 2024 al 01 de septiembre 2024. Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+title: leo 02 de septiembre 2024 al 08 de septiembre 2024 
+description: Horóscopo semanal leo 02 de septiembre 2024 al 08 de septiembre 2024. Hay cosas que ya no funcionan Leo, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2024-08-26
+ogimg: /images/zodiac/semanal_leo.png#2024-09-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-08-26'
+ lastmod: '2024-09-02'
 ---
 
 
 
-## Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+## Hay cosas que ya no funcionan Leo, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
 
-Aunque creas que tus asuntos están cerrados del todo no es así, y en el fondo lo sabes, por eso por fuera querrías hacer muchas cosas ya, en el momento, pero sin embargo por dentro sabes que con calma y con cabeza fría las decisiones se toman mucho mejor. 
- En la vida, valora lo que pierdes, pero mucho más lo que ganas. Debes aprender a desprenderte de lo que no te hace bien, debes aprender a echar de tu vida o a alejarte de lo que te causa más de un problema.
-Puede que debas usar tus poderes de persuasión para convencer a tu familia de que tus ideas no tienen malas intenciones. Con el sol y el amoroso Venus alineándose con el apasionado Plutón, puede que otras personas tengan sus propios planes y esto podría demorar los tuyos. Después de todo, quizá debas poner tus ideas en marcha para mostrarles que hablas en serio. Una vez que lo entiendan, puede que te apoyen por completo. Trata de ser flexible con tus planes sociales durante el fin de semana.
+Vale, puede que te lleves o que ya te estés llevando decepciones, pero piénsalo bien, son decepciones que no te sorprenden demasiado. Las cosas ya no te afectan como antes, es muy raro que algo te de la sorpresa de tu vida, ya has pasado demasiado pero aún así, por muy duro que parezcas a veces, las cosas duelen. Bueno, lo hecho, hecho está, y quizás en tus manos tengas poco poder para cambiar los fallos que cometen los demás, pero ¡despierta! En tus manos sí está el poder de cambiar lo que tú quieres, para ti, para tu vida. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. Todo pasa, todo cambia y todo llega Leo. A veces la opción más difícil y la mejor opción son la misma. Tener el control de uno mismo es fundamental para caminar hacia delante y eso es lo que debes tener controlado ahora, no se trata de lo que tienes o de lo que no tienes, se trata de lo que quieres llegar a tener, con lo que de verdad te quieres llegar a sentir satisfecho. No te dejes arrastrar de nuevo por la mierda.
+Podrías obtener una gran cantidad de apoyo y ayuda por parte de otras personas en las próximas semanas, lo que es para bien. También es un momento en el que es posible que tengas que ceder con el fin de mantener las cosas en marcha. Haz tiempo para centrarte en los intereses que capten tu atención y te provoquen un buen sentimiento. Hacerlo te ayudará a recargar baterías a todos los niveles. Asimismo, tendrás ganas de organizar tus finanzas una vez que Mercurio ingrese a Virgo el sábado.
 
 ## Dinero
 
-Es una semana emocionante. Las invitaciones sociales y profesionales son la norma actual, por lo que acostúmbrate a hacer malabares con más de una al día. No esperes que tus sentimientos estén en silencio. Puedes tener problemas al tratar de equilibrar el trabajo y el hogar, o simplemente te encuentras harto/a de la misma vieja rutina. No es suficiente con simplemente ganar dinero ahora. Tienes que experimentar lo que éste puede hacer por ti en términos de tiempo.
+Tus pensamientos e ideas pueden tornarse a la familia y la diversión por ahora, pero el Universo te está empujando a pensar en instituciones grandes como una forma de ganar dinero. Si tu dinero está en un banco pequeño o local, puede ser momento de darles a los bancos grandes una oportunidad. Mejores tarifas y opciones de ahorro significan más dinero para ti y tu clan.

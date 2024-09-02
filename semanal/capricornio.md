@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 26 de agosto 2024 al 01 de septiembre 2024 
-description: Horóscopo semanal capricornio 26 de agosto 2024 al 01 de septiembre 2024. Esta semana relájate un poco Capricornio, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
+title: capricornio 02 de septiembre 2024 al 08 de septiembre 2024 
+description: Horóscopo semanal capricornio 02 de septiembre 2024 al 08 de septiembre 2024. No te mereces poco Capricornio… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2024-08-26
+ogimg: /images/zodiac/semanal_capricornio.png#2024-09-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-08-26'
+ lastmod: '2024-09-02'
 ---
 
 
 
-## Esta semana relájate un poco Capricornio, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
+## No te mereces poco Capricornio… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas…
 
-Vamos Capricornio, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. Aprovecha tu vida Capricornio, aprovéchala ahora más que nunca. Se vive mejor sin esperara nada de nadie Capricornio pero el problema es que, aunque la teoría te la sepas, la práctica te falla un poco. Vuelves a confiar cuando pasa un tiempo, y si no a confiar, al menos das otra oportunidad, das el 100% de ti aunque presumas de frío. Sí, quizás seas frío después, pero estás ahí. Siempre. Y eso no es del todo sano para ti porque no dejas tiempo para que los demás se arrepientan de lo que han hecho y tampoco te das tiempo tú para saber realmente qué es lo que quieres. Y vuelves al bucle. Otra vez. Deja de obsesionarte por lo complicado, en realidad, tú eres muy así, las cosas como son, pero de verdad que sabes que no te trae nada bueno, céntrate en ti y en tus proyectos, en tus metas, ahora más que nunca necesitas esa fuerza y esa fe para que las cosas salgan como realmente quieres. Lo demás tiene que ser pasajero, lo demás probablemente entrará y saldrá de tu vida, pero el que se queda eres tú, así que, aprovecha tu talento ante todo, tus ganas de hacer las cosas bien. Tienes que empezar a dar de ti lo que tu recibes de los demás Capricornio. Así, tal cual.
-La próxima semana podría ser muy ocupada. Con el actual enfoque en Virgo, esta podría ser una buena oportunidad para considerar si estás haciendo el mejor uso de tu tiempo. Es probable que haya actividades que puedas recortar o eliminar para que puedas centrarte en tareas más importantes y lucrativas. A partir de mediados de la semana, podrías experimentar una especie de bloqueo creativo que retrase un proyecto. Si este es el caso, no te preocupes. Aprovecha esta oportunidad para relajarte y recargar baterías. Pronto volverás a la normalidad.
+No sueles dar la llave de tu corazón a nadie Capricornio, pero si hay personas que la tienen, y de hecho esas personas son las únicas que pueden desbloquearlo, que pueden ver el fondo de lo que hay, tu esencia, tu alma. Pero esta semana vas a cambiar la cerradura, porque te apetece, porque ahora quieres estar seguro de a quien se la quieres dar, porque quieres empezar de cero muchas cosas. Y no cambiará tu esencia Capricornio, porque la esencia es la misma, lo que cambiará será el poder que vas a tener, el poder que van a tener otros sobre ti. Esta semana preocúpate de hacer las cosas bien. Hay mucha responsabilidad y mucho en juego. Vas a sentirte bien por las decisiones que vas a tomar, vas a sentir que vuelves a tomar el timón de tu vida como antes. No te preocupes porque algo no salga, te esperan cosas mejores. No te pongas nervioso cuando te digan que no puedes, que no tienes el valor suficiente o la capacidad para hacerlo. Puedes con todo, y a aunque tengas que ir en contra de todo, si has tomado la decisión, que sea hasta el final. Vas a tener que volverte invisible para algunas personas si de verdad quieres ir hacia delante. Feliz semana Capricornio.
+A medida que el atractivo Venus se dirige al animado Júpiter en tu sector de relaciones el lunes, podrías tener éxito al impresionar a alguien con tus habilidades culinarias y de entretenimiento. Como resultado de esto, esta persona podría convertirse en una amistad para toda la vida. 
+La noticia más importante esta semana es que el dinámico Marte se vuelve retrógrado en tu sector de carrera y ambición el martes, lo que podría provocar demoras a tus planes mejor trazados. El animado Marte estará retrógrado hasta el Viernes, por lo que sería útil esperar respecto de ciertos planes. El motivo es que, mientras tanto, podrías cambiar de opinión o incluso perder el entusiasmo por el proyecto. El martes, la luna nueva en Capricornio y en tu sector de lejanos horizontes conecta con el prudente Saturno, lo que puede encontrarte organizando un viaje. Si bien podría ser una buena oportunidad para una escapada, puede que tengas otro motivo más profundo para querer viajar. Por último, el ingreso del animado Mercurio a Leo podría encontrarte organizando tu casa.
 
 ## Dinero
 
-Cierta actividad en tu sector de herencias y de deuda esta semana muestra que es posible que estés en el extremo receptor de uno u otro. Uno, por supuesto, no puedes controlar. Pero si te percatas de que necesitas poner más energía en un plan de pago de deuda, el Universo puede ayudarte a lograr una mayor responsabilidad en esa área. Sonríe, las cosas están mejorando.
+Se indica un tiempo de cambio con respecto a los asuntos de carrera y figuras de autoridad. El Universo apoya nuevos cambios que deseas hacer en tu carrera y te ofrece un impulso. Sin embargo, las influencias pueden ya sea ser creativas o confusas, dependiendo de cómo se usan. Elige tu camino con cuidado y con intención.

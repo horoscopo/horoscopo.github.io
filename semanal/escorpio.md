@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 26 de agosto 2024 al 01 de septiembre 2024 
-description: Horóscopo semanal escorpio 26 de agosto 2024 al 01 de septiembre 2024. Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Escorpio, por qué te lo callas y te lo llevas callando tanto tiempo? 
+title: escorpio 02 de septiembre 2024 al 08 de septiembre 2024 
+description: Horóscopo semanal escorpio 02 de septiembre 2024 al 08 de septiembre 2024. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2024-08-26
+ogimg: /images/zodiac/semanal_escorpio.png#2024-09-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-08-26'
+ lastmod: '2024-09-02'
 ---
 
 
 
-## Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Escorpio, por qué te lo callas y te lo llevas callando tanto tiempo? 
+## No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
 
-A veces quieres llegar al fondo de cualquier cosa Escorpio, pero el problema es que también a veces, eso, no te hace ningún bien. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Escorpio. De verdad, a veces es mejor tener paz que tener razón. ¿Por qué no tratas de pasar del mal rollo? ¿Por qué no te alejas de lo que te pone los nervios de punta? Quizás debas dar algunas lecciones y quizás deberías hacerte de rogar un poco. Al menos para que el resto despierte. Muchos no saben lo que se pierden al perder a Escorpio, eh. Esta semana deberías hacerte valer un poco, deberías recordarte todas las lecciones que ya llevas aprendidas y dejar de repetir patrones todo el tiempo. Sé valiente y no te engañes a ti mismo. Cuando haces algo por alguien no esperas que hagan lo mismo por ti porque lo haces de corazón pero tampoco esperas que no muevan ni un dedo. Tú sabes de sobra lo que funciona y lo que no funciona Escorpio así que, por favor, empieza a ser un poco más productivo y deja de perder el tiempo. Ve a por lo que interesa, a por lo que aporta, a por lo que te hace mejor. No vuelvas a dejar tus planes de lado por nada ni por nadie.
-Esta es una de esas semanas en las que es esencial que te tomes algo de tiempo para ti. Con Saturno ocultándose en una parte más privada de tu carta, podrías percatarte de que el tiempo que pasas a solas te sirve para pensar y resolver cualquier problema con el que hayas estado tendiendo dificultades. Lo mejor sería que no te programaras un horario agitado, sino más bien cortar lo más posible el número de actividades; incluso aunque otros te las estén demandando. La actividad lunar del sábado podría ser una llamada a revisar tu horario y hacerlo más manejable.
+No te conformes con poco Escorpio, no te conformes con cualquier cosa, con cualquier trabajo, con cualquier amor… Estás aquí para hacer las cosas a lo grande, para sentir fuerte, profundo, para lograr esas metas que llevas teniendo en tu mente desde hace tanto… En serio, ponte las pilas, dale caña, echa las horas que tengas que echar pero ve a por todas, en cualquier sentido en tu vida… Nunca hay un momento perfecto para empezar, siempre hay algo que pasa y que descoloca todo, una u otra cosa, pero tienes que aprender a pasar de toda esa basura, tienes que aprender a tener autocontrol y a entender que el mundo sigue girando pase lo que pase y el tiempo también sigue corriendo… Y no hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Escorpio, abre las puertas y ciao. No tienes que mantener nada, no tienes que obligar a quien quiere irse. Esta semana vas a tener varios momentos así, varios momentos en los que no sabrás si debes luchar o si debes permanecer quieto… Lucha si merece la pena pero no ruegues, no vayas detrás de nadie, lucha por lo que es tuyo sí, pero no entres en el juego cuando traten de manipularte. Tienes cosas muy importantes por hacer, mucho más importantes que estar esperando a alguien o que estar dándole vueltas a la cabeza a algo que sólo te roba tiempo ahora.
+Quizás le estés dándole vueltas a los beneficios de seguir un determinado curso de acción. Con Mercurio desacelerando antes de comenzar a avanzar, podrías toparte con que cualquier plan que hagas esté sujeto a cambios o retrasos. Si es así, tal podría resultar a tu favor. La actividad solar en Viego pone el enfoque firmemente en la parte superior de tu carta, animándote a seguir adelante con aquellas metas y planes que has estado investigando. Este fin de semana, mantente alerta a una posible oportunidad.
 
 ## Dinero
 
-Esta semana estás pensando en la manera de expresar tu lado serio. Tienes algunas cosas pesadas en la mente, y mantenerlas dentro  no le hace bien a nadie. En vez de eso, encuentra a tu locutor interno, y dale la noticia de una manera neutral e imparcial. Al menos tu sector de trabajo es un lugar seguro en el que puedes dejar que tu nuevo “yo” salga. La gente quiere escuchar lo que tienes que decir, sobre todo tus ideas sobre cómo ahorrarle dinero a la empresa.
+Es una buena semana para ponerse en contacto con tus necesidades. Los aspectos que destacan la belleza, la creatividad y el amor muestran que es importante no sólo el mirar la parte, sino también sentirla. El amar lo que haces para ganarte la vida no solo sucede. Si lo cultivas mediante la exploración de tus habilidades qué mejor que utilizarlo para atraer efectivo. Esto ayudará a tu estado de ánimo. Tienes éxito con las asociaciones empresariales y financieras derivadas de tus amistades y redes sociales.
