@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 02 de septiembre 2024 al 08 de septiembre 2024 
-description: Horóscopo semanal escorpio 02 de septiembre 2024 al 08 de septiembre 2024. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
+title: escorpio 09 de septiembre 2024 al 15 de septiembre 2024 
+description: Horóscopo semanal escorpio 09 de septiembre 2024 al 15 de septiembre 2024. Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2024-09-02
+ogimg: /images/zodiac/semanal_escorpio.png#2024-09-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-09-02'
+ lastmod: '2024-09-09'
 ---
 
 
 
-## No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
+## Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
 
-No te conformes con poco Escorpio, no te conformes con cualquier cosa, con cualquier trabajo, con cualquier amor… Estás aquí para hacer las cosas a lo grande, para sentir fuerte, profundo, para lograr esas metas que llevas teniendo en tu mente desde hace tanto… En serio, ponte las pilas, dale caña, echa las horas que tengas que echar pero ve a por todas, en cualquier sentido en tu vida… Nunca hay un momento perfecto para empezar, siempre hay algo que pasa y que descoloca todo, una u otra cosa, pero tienes que aprender a pasar de toda esa basura, tienes que aprender a tener autocontrol y a entender que el mundo sigue girando pase lo que pase y el tiempo también sigue corriendo… Y no hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Escorpio, abre las puertas y ciao. No tienes que mantener nada, no tienes que obligar a quien quiere irse. Esta semana vas a tener varios momentos así, varios momentos en los que no sabrás si debes luchar o si debes permanecer quieto… Lucha si merece la pena pero no ruegues, no vayas detrás de nadie, lucha por lo que es tuyo sí, pero no entres en el juego cuando traten de manipularte. Tienes cosas muy importantes por hacer, mucho más importantes que estar esperando a alguien o que estar dándole vueltas a la cabeza a algo que sólo te roba tiempo ahora.
-Quizás le estés dándole vueltas a los beneficios de seguir un determinado curso de acción. Con Mercurio desacelerando antes de comenzar a avanzar, podrías toparte con que cualquier plan que hagas esté sujeto a cambios o retrasos. Si es así, tal podría resultar a tu favor. La actividad solar en Viego pone el enfoque firmemente en la parte superior de tu carta, animándote a seguir adelante con aquellas metas y planes que has estado investigando. Este fin de semana, mantente alerta a una posible oportunidad.
+Acepta las ofertas que creas que debas aceptar y sobre todo, cree en ti, porque solo o acompañado puedes hacer lo que quieras, puedes llegar hasta donde quieras llegar… Empieza a dedicarle todo el tiempo del mundo a lo que te hace feliz, lo necesitas. Las dudas han quedado atrás, ya te lanzas, y más cuando te estás dando cuenta que si sientes que vas a apostar para ganar tienes que hacerlo ya. Esta semana es muy probable que empieces a abrir los ojos ante cosas nuevas, van a ofrecerte demasiado, conocen tu talento, pero debes ser hábil para elegir qué es lo que más te conviene, qué es lo que realmente necesitas y qué es lo que te hará crecer en un futuro. A la mierda lo demás Escorpio. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora. Algo muy importante que debes saber es que cuando hagas lo que deseas, procura mandar muy lejos lo que no deseas, ¿y por qué? Porque al final lo que está podrido acabará por pudrir al resto de cosas. Es decir, si empiezas con buen pie algo pero tienes un lastre de cosas o personas que lo que te hacen es que de nuevo vayas hacia atrás, jamás vas a progresar, nunca. Por eso, aleja primero las cosas que debas alejar y cuando estés libre totalmente de ese tipo de negatividad, lánzate a hacer lo que más te gusta, y dedícate a ello al 100%. Te espera una buena semana pero por favor, deja de pensar en idioteces que no te sacan de nada.
+Hay un enfoque en descanso apareciendo en tu carta que te anima a relajarte y disfrutar de la vida. La actividad lunar del lunes en tu sector espiritual podría motivarte a adoptar una práctica espiritual que podría ayudarte a alcanzar una mayor paz mental. También tendrás ansias de contribuir a eventos comunitarios y colaborar en proyectos, especialmente cualquiera que pudiera presentarse como un desafío. Una oportunidad muy prometedora podría aparecerse al final de la semana como resultado de tu esfuerzo en la creación de contactos.
 
 ## Dinero
 
-Es una buena semana para ponerse en contacto con tus necesidades. Los aspectos que destacan la belleza, la creatividad y el amor muestran que es importante no sólo el mirar la parte, sino también sentirla. El amar lo que haces para ganarte la vida no solo sucede. Si lo cultivas mediante la exploración de tus habilidades qué mejor que utilizarlo para atraer efectivo. Esto ayudará a tu estado de ánimo. Tienes éxito con las asociaciones empresariales y financieras derivadas de tus amistades y redes sociales.
+Puede que sientas más madurez acerca de la forma en la que manejas el dinero. Puede que las inversiones de riesgo ya no llamen más tu atención. En vez, puede que estés buscando acciones, bonos y otros vehículos con una perspectiva más conservadora. Ciertos aspectos demuestran que tu vida social puede estallar de repente e inesperadamente con invitaciones sociales. Trata de balancear todo con gracia y ecuanimidad.

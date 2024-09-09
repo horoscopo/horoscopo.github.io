@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 02 de septiembre 2024 al 08 de septiembre 2024 
-description: Horóscopo semanal cancer 02 de septiembre 2024 al 08 de septiembre 2024. Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
+title: cancer 09 de septiembre 2024 al 15 de septiembre 2024 
+description: Horóscopo semanal cancer 09 de septiembre 2024 al 15 de septiembre 2024. Vienen emociones fuertes Cáncer, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2024-09-02
+ogimg: /images/zodiac/semanal_cancer.png#2024-09-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-09-02'
+ lastmod: '2024-09-09'
 ---
 
 
 
-## Necesitas un respiro. Desconectar del mundo y conectar contigo… Y cuando llegue el corazón a golpear a tu puerta, no te olvides de utilizar la cabeza… Es importante…
+## Vienen emociones fuertes Cáncer, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
 
-Tienes mucha energía esta semana y vas a tener unos altibajos demasiado fuertes así que, intenta canalizarla como sea y enfócate en la dirección correcta. Si toda esa fuerza que tienes la proyectas en algo que te hace daño eso mismo que te hace daño se multiplicará por tres. 
-Cuando te sientas mal, tira de memoria Cáncer y acuérdate de que las historias se repiten, y con las mismas personas la gran mayoría de las veces.
-El comienzo de la semana podría encontrarte luchando con ciertas responsabilidades. Puede que no quieras enfrentarlas, pero es mejor hacerlas lo mejor posible y quitarlas del camino. Así, el resto de la semana puede desarrollarse tranquilamente. El expansivo Júpiter se alinea con el etéreo Neptuno en Piscis el fin de semana. Esto podría coincidir con el descubrimiento de una filosofía o de creencias que te resulten muy atractivas. Hay una buena chance de que quieras aprender más sobre ellas.
+Estás bien aquí, estás bien allí, y en cuanto las cosas se complican un poquito, por poco que sea, huyes. Está bien que vivas de esas manera, buscando en realidad cualquier lugar que te de felicidad, cualquier momento sea cual sea y donde sea. Pero 
+ un poquito de ella.
+Aunque todavía estás en busca de aventura, una parte de ti desea paz y tranquilidad. La activdad Lunar del lunes podría poner de relieve una situación en la que tomarte algo de tiempo podría ayudarte a reflexionar sobre tus prioridades y tal vez tomar algunas decisiones clave. Con Venus y Mercurio moviéndose a la parte superior de tu carta, podría ser un periodo de tiempo en el que seas el centro de atención. Muestra tus habilidades creativas, ya que hacerlo podría traerte verdaderas oportunidades.
 
 ## Dinero
 
-Podrías sentir el deseo de poner algo en marcha esta semana. Tus habilidades de comunicación están aumentando, mostrando que podrás salir adelante a través del solicitar fuerte y claramente a quienes te rodean. Pide lo que quieres en el trabajo y en tu vida monetaria y podrás conseguirlo. Aunque también deberías saber que las cosas podrían ponerse tensas, así que es mejor mantenerse limpios kármicamente hablando. No seas malo/a o utilices tus palabras para herir a los demás.
+A veces puedes  ser muy conformista, y esta semana, podrías tener todo lo necesario para seguir siéndolo. Una nueva energía inunda tu casa del dinero y los valores, facilitando una especia de pausa para ti. En este momento de paz, podrías estar preguntándote que es lo que harías y no harías por dinero y cuánto tiempo más de descanso necesitas para mantenerte sano/a y productivo/a. Esto será muy sano para ti a la larga.

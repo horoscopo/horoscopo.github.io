@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: aries 02 de septiembre 2024 al 08 de septiembre 2024 
-description: Horóscopo semanal aries 02 de septiembre 2024 al 08 de septiembre 2024. Aries, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
+title: aries 09 de septiembre 2024 al 15 de septiembre 2024 
+description: Horóscopo semanal aries 09 de septiembre 2024 al 15 de septiembre 2024. Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar Aries. 
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2024-09-02
+ogimg: /images/zodiac/semanal_aries.png#2024-09-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-09-02'
+ lastmod: '2024-09-09'
 ---
 
 
 
-## Aries, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierd*, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces.
+## Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar Aries. 
 
-No estás mal con lo que tienes no, pero ya no eres el mismo que antes Aries. Has cambiado, y quieres otra vida, llenarte de otras sensaciones que te alimenten, que te hagan crecer como persona, metas y objetivos nuevos. Quieres llenar tu vida de personas inigualables, de gente que merece la pena de verdad. Quieres que tus días estén llenos de esas personas que te hacen ver la belleza del mundo. Quieres gente aventurera cerca, que no se raye por estupideces, que no te raye a ti… Quieres perseguir puestas de sol, quieres perseguir lunas llenas, quieres salir de la mierda de la rutina que a veces te ahoga. Quieres personas que no vean el mundo de la misma manera que tú, personas que tengan la capacidad de hacerte cuestionar todo lo que creías que era cierto. Necesitas vidilla, aventura, es lo que más deseas ahora, búscala Aries, búscala y sal de la rutina como sea. Si no tienes sueños o metas de este tipo te acabas apagando, y mucho. O te empiezas a ilusionar y a perseguir lo que de verdad quieres o vas para abajo Aries. Si quieres cambiar algo es porque no estás satisfecho del todo Aries, esto funciona así. Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
-Esta semana podría hacérsete fácil sentir complacencia y renunciar a tareas y actividades que son necesarias para tu progreso. Tratar de cumplir con plazos o alcanzar objetivos podría parecer como si estuvieras nadando contra corriente. Potentes energías podrían coincidir con tendencia a evadir la realidad, a soñar con unas vacaciones exóticas, o a quedarte en cama todo el día. Puede que tu mejor opción sea cortar actividades que no sean estrictamente necesarias y dejar suficiente tiempo para relajarte y rejuvenecer.
+Te estás dando cuenta de quien sí y quien no Aries. Y además bien rapidito. Ya no te apetece pasar ni una más por alto, ya no te apetece tener que sonreír si no te apetece sonreír. Es cierto que te adaptas a todo Aries pero ahora sí te vas a alejar de lo que no te hace ni put* gracia y aquí se incluyen momentos, personas y situaciones. Esta semana estás a tope Aries, no te apetece anclarte en ningún sitio, no te apetece sentarte a ver la vida pasar. Nada de eso, quieres sol, quieres que el aire te de en la cara y salir a pasar el rato con amigos, socializarte y divertirte sin tener que pensar en nada más. Amplía tu mente Aries, amplía tu mente y tómate una temporada sabática, aunque sean unos días o unas semanas. Haz lo que tengas que hacer pero hazlo con calma, y apaga el teléfono por favor. Si en realidad quieres tomarte un tiempo por y para ti no puedes estar ahí todo el día enganchado a todo. Esta semana tienes que cargar pilas, y debes cargarlas pasando tiempo con las personas que quieres y dejando un poco a un lado algunas obligaciones y responsabilidades. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Aries, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+La semana que se aproxima puede ser un punto decisivo para ti, debido a que el eclipse lunar en tu signo podría generar cambios en ciertas relaciones. Puede que los sentimientos se vuelvan más intensos en los próximos días con el eclipse a la mitad de la semana quizá coincidiendo con una decisión que afecta el futuro de un vínculo importante. Si la relación es sólida, esto puede ser un cambio positivo. Pero si las cosas no han estado bien, puede que decidas seguir adelante. Si lo haces, no te sientas culpable.
 
 ## Dinero
 
-Es posible que te sientas muy especial esta semana. Esta es una semana muy buena para explorar la manera de mejorar tu situación financiera. Los planetas te piden encontrar una nueva forma de utilizar tu creatividad, que pases tiempo con tu familia, hijos y parejas románticas. Has trabajado lo suficientemente duro. Es hora de disfrutar de los frutos de tu trabajo.
+Los aspectos de esta semana podrían arruinar tus esfuerzos comunicativos. Las posibilidades de confundir tus ideas abundan, así que no abras la boca sin pensar primero. La forma en la que actualmente ganas dinero está cambiando. Ir con la corriente te obtendrá los mejores resultados.

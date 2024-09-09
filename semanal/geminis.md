@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 02 de septiembre 2024 al 08 de septiembre 2024 
-description: Horóscopo semanal geminis 02 de septiembre 2024 al 08 de septiembre 2024. Es difícil comprenderte Géminis, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
+title: geminis 09 de septiembre 2024 al 15 de septiembre 2024 
+description: Horóscopo semanal geminis 09 de septiembre 2024 al 15 de septiembre 2024. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Géminis porque no eres así. 
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2024-09-02
+ogimg: /images/zodiac/semanal_geminis.png#2024-09-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-09-02'
+ lastmod: '2024-09-09'
 ---
 
 
 
-## Es difícil comprenderte Géminis, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones…
+## Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Géminis porque no eres así. 
 
-Llevabas un ritmo un poco alocado Géminis, todo mezclado con dudas existenciales, un futuro incierto y si, altibajos constantes. Te encuentras un poco agotado por todo, sin tener aún muy claro por dónde tirar y qué camino elegir. Vives al día, el instante, el momento, mañana ya veremos y eso está muy bien pero cuando te da un momento de bajón, te hundes, y mucho. En realidad ¿es lo que quieres? Te das cuenta de que no puedes seguir así, que necesitas asentarte, “centrar” la cabeza, pero en un momento determinado todo lo que piensas se va de tu cabeza. “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate Géminis, que no te entre la locura. Ni todo es tan malo ni todo es tan bueno. Eres demasiado nervioso y te estresas rápidamente pero eso no tiene que llevarte a hacer ninguna locura. Al revés, siéntate y, por unos minutos, aunque sean sólo 5, piensa en lo bueno que tienes, aunque lo malo pueda ser muy muy malo, y dedícate de pleno a cuidarlo. Y si tienes que relajarte más, hazlo, y si tienes que buscar alternativas a esos bucles mentales que parecen no tener fin, pues hazlo también. Con la mente despejada y, sobretodo haciendo una lista de lo que te conviene y no te conviene, tomarás el rumbo de tu vida. Y ahora cuídate más que nunca y sobretodo pon mil ojos a tu alrededor porque sabes que hay envidiosos que tienen asuntos pendientes contigo y aprovecharán cualquier momento para hacer daño, de una forma o de otra, y sobretodo, aprovecharán los momentos en los que estés bajo de ánimos para atacar y debilitarte aún más. Cuídate un poquito más Géminis, quiérete un poquito más, y pon la mente en blanco todo lo que puedas…
-Esta semana, ciertos sentimientos podrían ser bastante intensos, desarrollándose hacia una gran fuerza conforme Venus se acerca a Plutón. Podrías percatarte de que sientes atracción hacia alguien que realmente se destaca del resto. Más tarde, ciertas conversaciones también podrían aumentar de tono y volverse muy intensas. Esta podría ser una de esas semanas en las que las cosas entre tú y alguien más podrían llegar a un punto crítico, y tu reacción podría tener consecuencias en el futuro. Mientras tanto, el espíritu festivo aumenta, ¡mejorando tu vida social radicalmente!
+A veces sientes como si no avanzaras Géminis, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente. Las cosas de palacio van despacio ¿ok? Así que no desesperes. Estás en una de esas etapas en las que lo quieres todo ya, aquí y ahora, que lo malo pase pronto y que lo bueno se quede en tu vida por mucho tiempo pero date eso, TIEMPO. Esta semana tendrás momentos de mucho estrés emocional, hay cosas que no están solucionadas del todo pero todo llega, y antes de lo que esperabas… Deja de preocuparte por los fallos que ya se cometieron y empieza a darle importancia a las oportunidades que puedes dejar escapar si no reaccionas a tiempo y si no reaccionas bien. Prueba Géminis, prueba todo lo que puedas y más, no hace falta querer tener una vida perfecta, lo suyo es tener una vida FELIZ. El hecho de que puedas dejar muchas cosas atrás no es malo, porque otras muchas llegan, pero no fuerces la situación ni esperes que todo cambie de un día para otro. Tienes que trabajártelo, tienes que ir paso a paso y pensar que no tienes una buena o mala vida, si no sólo una vida, y que está en ti hacerla buena o mala. Ánimo Géminis, feliz semana.
+La necesidad de gastar podría tentarte a realizar compras que realmente no valen la pena. Al comienzo de la semana, te beneficiarás de saber esperar si lo que estás contemplando parece ser el elemento más deseable sobre la faz de la tierra; ya que más adelante en la semana podrías preguntarte qué es lo que estabas pensando. En caso de duda, pídele su opinión a alguien de confianza. Más tarde, tu opinión podría ser requerida por alguien que te ve como la persona experta en un tema en particular. Tu popularidad podría aumentar de nivel como resultado.
 
 ## Dinero
 
-Este período es acerca de los aspectos que afectan a tu sector del matrimonio y las relaciones serias. Asegúrate de que tu calendario y contactos estén actualizados. Con el fin de hacer más dinero, tendrás que contactar a estas personas regularmente. Planea almuerzos, cenas y horas felices para establecer redes de contacto. Tu cuenta bancaria, como tu ego, te lo agradecerán más tarde.
+Esta semana estás preparando el escenario para un nuevo capítulo. Ha llegado el momento de parecer más profesional, por lo que salir a comprar ropa de oficina no es una mala idea. Te percatarás de que tu actitud cambia y que eres capaz de atraer el tipo de ofertas que realmente deseas. El Universo está alertando nuevas formas de pagar la deuda o solicitar financiación si necesitas una extensión de crédito.
