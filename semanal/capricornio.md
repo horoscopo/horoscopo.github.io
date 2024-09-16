@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 09 de septiembre 2024 al 15 de septiembre 2024 
-description: Horóscopo semanal capricornio 09 de septiembre 2024 al 15 de septiembre 2024. Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
+title: capricornio 16 de septiembre 2024 al 22 de septiembre 2024 
+description: Horóscopo semanal capricornio 16 de septiembre 2024 al 22 de septiembre 2024. Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2024-09-09
+ogimg: /images/zodiac/semanal_capricornio.png#2024-09-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-09-09'
+ lastmod: '2024-09-16'
 ---
 
 
 
-## Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
+## Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
 
-Lo más complicado es siempre el principio, de todo, una vez que te has subido al “barco” no vuelvas a tirarte al agua, ¿me explico? 
-Y si aún tienes dudas sobre algo, tómate tu tiempo para decidir, a solas, sin que nadie pueda darle más vueltas a tu cabeza…
-Puede que te falte energía en una situación que requiere acción en los primeros días de la semana. Sin embargo, también hay muchas posibilidades de que ya hayas invertido tiempo y energía en este asunto y que los resultados no estén llegando. Intentarlo demasiado o actuar de manera impulsiva puede no ser beneficioso, pero pedir consejo a tus amistades podría significar que las cosas resulten mejor de lo que esperabas. Por último, tu vida social tendrá una chispa extra justo a tiempo para el fin de semana.
+Los finales no significan que hayas fallado en algo Capricornio, los finales a veces sirven para abrir nuevas puertas a algo. Capricornio, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierda, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces. Pero a veces parece que no llega, y mientras tanto, malgastas tu tiempo, malgastas momentos de tu vida en pelear por y para nada, para no conseguir lo que de verdad sabes que te mereces… No tienes que cambiar de vida, no tienes que encontrar un nuevo lugar, con nuevas amistades, con nuevas personas que aviven tu fuego… Es mucho lo que te rodea que es bueno pero sí es necesario restaurar o abandonar esas cosas que ya están rotas y que a veces cobran mucha más importancia que todo lo bonito y bello que está a tu alrededor. Quizás te de tristeza pero estás aprendiendo a aceptar los finales como algo que en su día fue bueno en vez de sentirlo como un fracaso… Las cosas no están destinadas para durar toda la vida, algunas cosas sólo nos enseñan lecciones y después se marchan, algunos finales son necesarios. Aprende a despedirte, aprende a dejar un espacio en tu vida para lo mejor y los mejores. Para lo correcto. El final a veces es libertad y esperanza Capricornio…
+Adopta un enfoque muy cauteloso hacia inversiones, asuntos empresariales, recursos compartidos y actividades de mercado de valores. De hecho, la mezcla de energías de esta semana insinúa inestabilidad en las áreas antes mencionadas; lo que podría deberse a fuerzas fuera de tu control. Por ahora, es mejor que no apuestes tus recursos o tomes cualquier tipo de riesgo, ya que hay una buena probabilidad de que no rinda frutos o que incluso termines perdiendo dinero. Haz lo que puedas para guardar bien tu efectivo y espera pacientemente que este período llegue a su fin.
 
 ## Dinero
 
-Los aspectos activan tu sector de efectivo y valores. Hay tanta actividad ahí, que puede que tengas que establecer un tiempo para organizar tus finanzas o regresar las llamadas de tus muchos pretendientes financieros. Mientras clasificas las nuevas ofertas de empleo y las oportunidades para ganar dinero extra, no te olvides de la planificación de tu carrera. Por supuesto, trabajas para recibir un cheque, pero ¿qué otra recompensa se puede derivar de tu trabajo?
+El Universo dice que es posible que estés proyectando una imagen interesante hacia los demás esta semana. Algunos pueden estarte viendo exactamente como les gustaría que fueras en lugar de como realmente eres, pero no te preocupes por ello. Mientras tanto, estás a punto de recibir un mensaje importante acerca de un nuevo negocio o una oportunidad financiera. Sólo asegúrate de devolver la llamada o responder a ese e-mail.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 09 de septiembre 2024 al 15 de septiembre 2024 
-description: Horóscopo semanal acuario 09 de septiembre 2024 al 15 de septiembre 2024. Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento Acuario. Hay personas a las que TÚ debes dar ese escarmiento.
+title: acuario 16 de septiembre 2024 al 22 de septiembre 2024 
+description: Horóscopo semanal acuario 16 de septiembre 2024 al 22 de septiembre 2024. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2024-09-09
+ogimg: /images/zodiac/semanal_acuario.png#2024-09-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-09-09'
+ lastmod: '2024-09-16'
 ---
 
 
 
-## Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento Acuario. Hay personas a las que TÚ debes dar ese escarmiento.
+## Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
 
-Nunca te has arrepentido de nada Acuario, para bien o para mal la vida te ha dado lecciones en las que no te ha quedado más remedio que aprender. Estás en una fase en la que tus pensamientos se vuelven a pelear entre ellos. Lo que deberías hacer, lo que quieres hacer, lo que el mundo espera que hagas… Otra vez. Piensa antes de nada en lo que vas a perder antes de actuar y de tomar una decisión, pero tampoco busques hasta la más mínima excusa para no hacerlo. A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos Acuario. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad. Métete en la cabeza que puedes hacer absolutamente todo lo que te propongas solo, sin necesidad de que nadie te nuble el juicio, sin necesidad de que nadie te vuelva loco. La vida va a empezar a enseñarte quien merece la pena, quién no merece que se acerque a ti más de cinco minutos al día y quien no merece que se acerque nunca. Pero primero eres tú, en eso es en lo que tienes que trabajar más, en valorarte a ti mismo, en confiar en ti, en tus instintos, en tus objetivos, en saber que lo que hagas saldrá bien, de verdad. Tú no necesitas ejemplos de nadie, cada uno vive su vida como le apetece y si a alguien no le salieron las cosas como esperaba no significa que a ti no te vayan a salir, deja el miedo a un lado y sobretodo la dependencia emocional. Aunque sea una dependencia mínima. Vuelve a ser la persona que siempre has sido.
-Esta semana festiva es un momento alegre y positivo para ti. Además de celebrar junto con tus amistades y familiares, aparecen otras propuestas interesantes. En particular, piensas en asociarte con alguien, lo que podría ser satisfactorio para ustedes dos. Sin embargo, intenta no apurar el proyecto, ya que puede resultar sólido a largo plazo si eres paciente.
+Al final sólo nos arrepentiremos de las oportunidades que no tomamos Acuario así que, empieza a agarrar todas las que lleguen con fuerza. No pienses demasiado, ya has vivido mucho como para saber lo que te interesa y lo que no así que, no te dejes amedrentar por nada ni por nadie. Puedes con todo lo que te propongas y además hagas lo que hagas lo harás bien. Puedes llegar alto si empiezas a dejar de lado cosas que no son productivas y tomas otros caminos. A veces te aferras demasiado por cariño y tratas de arreglar todo, de tratar de hacer a algunas personas mejores personas, de mantener situaciones que en vez de sumarte te restan todo el tiempo, y lo peor es que todo ese tiempo que gastas podías invertirlo en ti y en avanzar mucho más con tus objetivos en la vida. Hay cosas que no quieres que ocurran pero que debes aceptar Acuario, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir. Por tu bien. Procura que todo lo que decidas hacer esta semana te haga realmente feliz.
+Si has tenido problemas con tus finanzas o ciertos asuntos empresariales, las cosas podrían empezar a mejorar cuando Júpiter comience a avanzar desde el lunes. Si cierto monto de dinero se ha retrasado por la razón que sea, deberías escuchar noticias que confirmen que se encuentra en camino. También te percatarás de que cierto enfoque en tu sector hogareño te anima a decorar, eliminar el desorden y poner tu lugar en óptimas condiciones. Tu vida social debería ser divertida y un secreto deseado que has albergado por un tiempo podría hacerse realidad.
 
 ## Dinero
 
-Con actividad en el área de tu carta que rige las vidas pasadas, el karma y las instituciones, es muy probable que estés reevaluando tus planes de trabajo para el futuro. Empresas o personas con las que pensaste que no te gustaría trabajar parecen tener todo lo que quieres y necesitas ahora; desde la distribución de redes, a acceso a acaudalados donantes. Para ganar más, encuentra la manera de trabajar dentro del sistema. Te percatarás de que no es tan malo como piensas.
+Esta semana tu sector de labor te trae todo tipo de elogios en el trabajo. Los de arriba están notando tu trabajo y quieren verte tener éxito. Se te alienta a hablar de tus metas personales y de tu visión para la empresa en conjunto. Tus esfuerzos son muy apreciados. Van a ser recompensados económicamente y con más beneficios.
