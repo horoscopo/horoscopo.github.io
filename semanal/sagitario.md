@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 16 de septiembre 2024 al 22 de septiembre 2024 
-description: Horóscopo semanal sagitario 16 de septiembre 2024 al 22 de septiembre 2024. Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
+title: sagitario 23 de septiembre 2024 al 29 de septiembre 2024 
+description: Horóscopo semanal sagitario 23 de septiembre 2024 al 29 de septiembre 2024. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2024-09-16
+ogimg: /images/zodiac/semanal_sagitario.png#2024-09-23
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-09-16'
+ lastmod: '2024-09-23'
 ---
 
 
 
-## Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
+## No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
 
-No más paciencia Sagitario. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso. Has llegado a un límite y se acabó lo que se daba, al menos hasta que de verdad encuentres una razón para darlo de nuevo. No es justo que tengas que aceptar daños, que tengas que aceptar desprecios o que tengas que seguir como si nada. ¡Venga ya! En la vida hacemos cosas, y sí, ojalá que algunas de ellas no hubieran sucedido nunca, sobretodo esas que retumban en tu cabeza una y otra vez. Pero todas ellas te hacen ser quien eres Sagitario, y al final el conjunto es tu forma de ser. Si pudieras regresar para cambiar algo ya no serías tu, así que, vive, comete errores, ten recuerdos inolvidables, pero nunca dudes de quien eres, de donde estás y lo más importante, hacia donde vas. Nunca es tarde para empezar de cero, nunca es tarde para dejar de aguantar lo que sabes que no te hace bien. Así que, a partir de ahora deja de tener paciencia con lo que no te suma y empieza a respetarte un poco y a tener amor propio. Lo primero es eso. Feliz semana Sagitario.
-Las próximas semanas traen la oportunidad para que aclares tus intenciones con respecto a una meta o un plan profesional. Esto podría resultar necesario si estás teniendo problemas con un miembro de tu familia que podría no estar de acuerdo con tus ideas. Sin embargo, la forma en la que te enfrentes a este problema puede ser muy importante. Puede que te des cuenta de que explicar bien tus intenciones es suficiente para hacerlos sentir mejor. Una conducta tranquila y comprensiva tiene mejores resultados que involucrarte en una discusión, lo que no llevaría a ningún lado.
+A veces, no es fácil vivir la vida Sagitario, a veces no es fácil enfrentarte al mundo con una sonrisa cuando en el fondo estás llorando por dentro. Pero la vida sigue, y aún tienes fuerza suficiente dentro de ti como para aguantar lo que te echen. Algún día te olvidarás de las heridas, de la razón por la que llorabas y por qué o quién te llenaste de dolor. Hay que dejar que las cosas se desarrollen a su manera y a su propio ritmo, no trates de que las cosas pasen a tu manera Sagitario. En realidad ese no es el plan, y, en el fondo, no te beneficia. Lo que importa en el fondo es el último capítulo, no tanto el primero…
+Tal vez pienses que sabes lo que quieres pero ¿es así? La mezcla de energías de esta semana podría provocar un conflicto entre tu cabeza y tu corazón, lo que traerá confusión. A esto se suma el deseo de reconocimiento o la necesidad de dar una audaz impresión. Podrías sentir que debes ir en distintas direcciones al mismo tiempo. 
+Cuando el sol conecta con el animado Mercurio el martes y el escurridizo Neptuno el miércoles, quizás no todo es lo que parece. Puede que no te resulte sencillo desarrollar un plan de acción porque tus pensamientos podrían cambiar de un momento a otro. Tal vez lo mejor sea relajarte e ir con la corriente. Sin importar qué tan grande sea el impulso de controlar o manipular una situación, dejar pasar el asunto puede producir resultados mucho más beneficiosos. Y debido a que tu planeta regente se encuentra en tu sector de amistades, tu vida social podría compensar cualquier decepción.
 
 ## Dinero
 
-Se te está dando una oportunidad importante esta semana. Esto te da tiempo a tomar cargo de lo que debes y encontrar una manera amistosa para pagarlo. Sin embargo, tus amigos y grupos sociales no pueden ser el mejor lugar para encontrar información financiera confiable. Sin ofenderlos, tienen objetivos diferentes a los tuyos. Es posible que debas seguir tu propio camino.
+Hay algunas restricciones y limitaciones en tu capacidad para aprender y enseñar, así como también los viajes. Aunque es posible que te estés mordiendo las uñas para poner las cosas en marcha, no hay caso en luchar contra esta influencia. La buena noticia es que también hay aspectos favorables. Son tus amigos, contactos sociales, conocidos y colegas los que apoyarán tus esfuerzos en el trabajo y en tu vida monetaria. Ellos proporcionarán una muy bienvenida distracción hasta que las cosas se abran o mejoren.

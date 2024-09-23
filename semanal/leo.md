@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 16 de septiembre 2024 al 22 de septiembre 2024 
-description: Horóscopo semanal leo 16 de septiembre 2024 al 22 de septiembre 2024. No quieres pasar más tiempo equivocándote, sobretodo porque en el fondo sabes que lo estás haciendo, y cuando de repente ves todo el tiempo que llevas así te entra todo el bajón, ¿cómo has podido aguantar tanto?
+title: leo 23 de septiembre 2024 al 29 de septiembre 2024 
+description: Horóscopo semanal leo 23 de septiembre 2024 al 29 de septiembre 2024. Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza Leo. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2024-09-16
+ogimg: /images/zodiac/semanal_leo.png#2024-09-23
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-09-16'
+ lastmod: '2024-09-23'
 ---
 
 
 
-## No quieres pasar más tiempo equivocándote, sobretodo porque en el fondo sabes que lo estás haciendo, y cuando de repente ves todo el tiempo que llevas así te entra todo el bajón, ¿cómo has podido aguantar tanto?
+## Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza Leo. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
 
-Despacito Leo, ahora todo despacito. A veces, hacer las cosas de forma lenta es lo que tu corazón necesita, y tu cabeza. Necesitas un descanso, necesitas a personas cerca que no pongan tu mundo al revés otra vez. La suerte para tener éxito en la vida se llama “creer en ti”. Te has dado cuenta de que, por mucho que haya personas que han intentado joderte y hundir tu ego y tu forma de ser hasta lo más profundo, existen otras muchas que están ahí por y para ti, que se desviven, y que son las que realmente merecen la pena. Quizás no has pasado tu mejor etapa este tiempo atrás pero ahora lo tienes claro, vales lo que vales, incluso un poco más, y la fé que tendrás en ti mismo/a de ahora en adelante no va a arrebatártela nadie. Primero va tu felicidad. De hecho necesitas que ahora sea lo primordial. Quítate los pesos que cargas a tu espalda, y renace… No hay que tener miedo de empezar otra vez, de hecho, es una nueva oportunidad para reconstruir lo que siempre quisiste… Esta semana puede ser el momento para desprenderte de algo a lo que estabas muy apegado, quizás ahora tengas esa fuerza para hacerlo Leo.
-Podrías pasar esta semana de vacaciones y disfrutando mucho. Sin importar qué estés haciendo, podrás deleitarte con la oportunidad de salir de tu rutina diaria. El 25 de septiembre podría ser un poco más formal de lo habitual, cuando el encantador Venus se alinea con el ejemplar Saturno. Si vas a tener invitados en casa, puede que debas hacer un esfuerzo consciente por relajarte. La capacidad de relajarte te resultará mucho más fácil alrededor del 27 de septiembre, algo que definitivamente deberías aprovechar.
+El mundo no te entiende Leo, ya estás acostumbrado a eso, pero no te frustres, en serio no te frustres. Ha llegado un momento en el que ya no quieres las cosas a medias, o te lo dan todo o mejor que no te den nada. Estás harto de hacerte ilusiones que después no se cumplen, estás harto de depender siempre de la felicidad de los demás, de sus decisiones… Y te has dado cuenta de que vales mucho, de que si el resto no es capaz de valorar lo que podrías llegar a dar no es problema tuyo. Ahora sí sabes lo que vales Leo, ahora sí sabes lo que mereces. A pesar de que ahora sea todo o nada ni siquiera necesitas eso del resto, ¡qué va! Porque las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz. Quieres “sobrevivir” en el mundo sin necesidad de nadie, sin necesidad de nada que te ate y te corte las alas, sin broncas, sin malos rollos, sin dramas ni peleas. Cuando te metes en bucles así no avanzas y si no avanzas te estancas, y si te estancas dejas de ser feliz. Ya has estado en el fondo mucho tiempo Leo, ahora que has salido no vuelvas a caer. No eres de hierro no, pero procura serlo esta semana, aunque sea complicado. Descúbrete a ti mismo y descubre tu misión en la vida, y hazlo solo, y en vez de darle vueltas a lo malo, quédate con los buenos momentos, con lo que de verdad no falla.
+Tu impulso creativo sigue fuerte debido a una positiva alineación animándote a pensar en grande y a actuar acorde a tus corazonadas. Mientras que los resultados podrían tardar un tiempo en llegar, bien valdrá la pena el esfuerzo. El actual enfoque continúa en tu sector de recursos compartidos conforme Venus se une a Mercurio en el mismo. Esta es tu oportunidad para organizar tus finanzas al recopilar información y tomar decisiones astutas. ¡Evita gastar demasiado si es que puedes! Por último, nuevas oportunidades y aventuras se vislumbran en tu camino a partir del jueves.
 
 ## Dinero
 
-Estudiando tu sector de educación superior y viajes, estás anhelando el intercambiar información. Puede que se te esté guiando a enseñar o a regresar a la escuela para tomar una clase los fines de semana. A pesar de que es casi seguro que estés enviando mensajes de texto e emails, tu mente está enfocada en lo que debe estar. ¿Cómo pueden tus habilidades de comunicación traer más dinero? ¿Tienes algunas ideas profundas que quieren salir con respecto a esto? Ahora es tiempo.
+Para ti, esta semana es sobre la auto-expresión. Puedes ser una persona muy creativa, por lo que puedes tener la tentación de tratar de mejorar tu vestuario o dar un cambio radical de look. Ciertos aspectos que afectan la belleza y el afecto dicen que tu familia, pareja romántica o niños te apoyan en tus metas financieras y personales. Es bueno saber que tienes un equipo de apoyo.

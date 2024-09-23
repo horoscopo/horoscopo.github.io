@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: libra 16 de septiembre 2024 al 22 de septiembre 2024 
-description: Horóscopo semanal libra 16 de septiembre 2024 al 22 de septiembre 2024. Retírate del mundo artificial Libra, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
+title: libra 23 de septiembre 2024 al 29 de septiembre 2024 
+description: Horóscopo semanal libra 23 de septiembre 2024 al 29 de septiembre 2024. Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2024-09-16
+ogimg: /images/zodiac/semanal_libra.png#2024-09-23
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-09-16'
+ lastmod: '2024-09-23'
 ---
 
 
 
-## Retírate del mundo artificial Libra, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
+## Si no hay un interés real empieza a mandar a la mierd*, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… 
 
-Por fin vas a finalizar ciclos Libra, ¡por fin! Por favor, échale ganas a todo lo que vayas a terminar, y cuando lo hagas, mantén la cabeza bien alta, arribita, para que todos vean lo que eres capaz de conseguir. Y empieza nuevas metas, nuevos proyectos. Es cuestión de ponerse Libra, de verdad. Ahora todo va a ser mucho más fácil que antes, te espera una buena semana porque vas a quitarte lastres de encima, vas a motivarte a ti mismo sin esa put* carga que pesaba tanto. Vas a volver a brillar. Eres Libra joder, un mal día no es una mala vida y aunque estos días atrás hayas tenido más de un bajón emocional todo eso ahora se disipa. Se acabó. No olvides que tienes una belleza increíble, por dentro y por fuera, no olvides que aunque tu alrededor haya sido una mierda tú sigues brillando. Y lo estás haciendo bien Libra. Dentro de poco volverás a tu lugar, ese del que nunca debías haberte alejado. Un lugar en lo alto, un lugar que elijas, un lugar donde se te admire, donde se vea tu esencia… Puedes conseguir absolutamente todo, métetelo en tu cabeza, ¿ok? Y que no vuelva a salir por nada del mundo. Feliz semana Libra, y ¡a empezar de nuevo! El estrés o la ansiedad no tienen hueco en tu vida en estos momentos. No pueden robarte más vida…
-Después del eclipse solar de la semana pasada en tu sector doméstico, esta semana puede ser una llamada a tranquilizarse y reflexionar sobre cuál es el mejor camino por to Puede que todavía estés en medio de ciertos cambios, pero la presión que sentiste puede estar disipándose y ahora puedes adoptar un enfoque más relajado en torno a la concreción de tus objetivos. La luna llena de esta semana en tu sector de relaciones podría ser la oportunidad de preguntarles a los demás qué piensan sobre tus planes. Tener distintas perspectivas puede ser valioso para ayudarte a tomar las mejores decisiones para todas las partes involucradas. 
-El fin de semana tiene una cualidad muy positiva a medida que el encantador Venus se alinea con el expansivo Júpiter, lo que hace que sea la ocasión ideal para todo tipo de eventos sociales y noches románticas. Y cuando el sol ingresa a Libra y a tu sector de recreación el domingo, entrarás en una fase más liviana y brillante en la que la creatividad y diversión forman parte de tu agenda.
+Nadie se cura por herir a otro Libra. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que, a menudo pesa más de la cuenta, pero todo pasa, y todo llega. A muchos se les hace complicado entender por qué le das tantas vueltas a todo, por qué sufres momentos de ansiedad que parecen no calmarse con nada, por qué puedes llegar a ser tan autodestructivo con tus propios pensamientos… No olvidas nada, ese es el problema a veces, y también la virtud en otros momentos. Y es duro para el resto sí, pero más duro es para ti. Tienes que canalizar todo eso y llevarlo hacia lo productivo, mandar toda esa energía hacia lo que te hace feliz. Las traiciones están ahí, y no todo el mundo es como tú, no todo el mundo valora la sinceridad como tú lo haces, no todos tienen tu coraje… Debes aprenderlo para no caer en los mismos errores una y otra vez, y sobretodo para no hacerte daño.
+Las energías estimulantes de Marte en tu signo reaniman y revitalizan tus sueños y deseos. Se crea un ambiente interactivo a medida que el Sol entra a tu sector social. Cuando se trata de ocasiones festivas, tú te encargas de organizarlo todo y te aseguras de que todos estén contentos. Pero con Mercurio retrógrado, que no te sorprenda si una o dos de tus amistades no pueden ir, o si debes modificar tu plan a último momento. Aun así, tu mente está enfocada en proyectos más ambiciosos.
 
 ## Dinero
 
-Provees un par de ojos frescos a los acontecimientos de esta semana con actividad en tu sector de apariencias. Una amistad puede tener una sugerencia útil sobre cómo ganar más dinero o conseguir la promoción que has estado buscando. Incluso si no piensas igual, escucha a esta persona. Tal ve esta situación con más claridad que tú. Se te pide traer un lado mucho más serio de tu personalidad a la mesa.
+Esta semana tienes un aspecto favorable, una explosión muy poderosa de energía, lo que va a afectar tu rutina diaria positivamente. Tu lugar de trabajo podría no ser del todo estable o puede estarte dando señales contradictorias acerca de tu trabajo de un día para otro. Ten cuidado con las promesas vacías de alguien dentro de tu red social. Tales no son como pretenden ser.

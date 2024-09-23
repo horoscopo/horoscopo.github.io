@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 16 de septiembre 2024 al 22 de septiembre 2024 
-description: Horóscopo semanal escorpio 16 de septiembre 2024 al 22 de septiembre 2024. Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así Escorpio, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
+title: escorpio 23 de septiembre 2024 al 29 de septiembre 2024 
+description: Horóscopo semanal escorpio 23 de septiembre 2024 al 29 de septiembre 2024. Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2024-09-16
+ogimg: /images/zodiac/semanal_escorpio.png#2024-09-23
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-09-16'
+ lastmod: '2024-09-23'
 ---
 
 
 
-## Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así Escorpio, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
+## Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
 
-Céntrate en tus metas Escorpio, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
-Tus oportunidades hogareñas continúan vislumbrándose buenas, incluyendo muchas opciones para expandirte. Esto podría significar abrir tu propio negocio desde tu hogar o mudarte a un lugar con más espacio. Sin embargo, es posible que tengas algunos problemas en el trabajo debido a que algunas personas podrían presionar para establecer su propia agenda. Requerirás de mucho tacto y diplomacia si quieres eludir cualquier demanda y mantenerte en buenos términos. Además, ¡una noticia inesperada con respecto a un plan o meta también podría ser de tu interés!
+Eres más resistente que nunca, tienes más poder sobre ti mismo y has sobrevivido. Incluso cuando pensabas que no volverías a sonreír de nuevo, lo has hecho. Incluso cuando las peores circunstancias te estaban dejando sin fuerzas, le echaste valor y saliste adelante.
+Con el expansivo Júpiter ahora en un sector más relajado de tu carta, las aficiones y los pasatiempos pueden convertirse en una forma de canalizar emociones. Esto podría ser muy terapéutico y sanador de muchas maneras. A medida que el adorable Venus ingresa a este mismo sector el martes, puede que sientas que algunas relaciones son igualmente inspiradoras. De hecho, podrías encontrarte hablando y relacionándote a nivel íntimo con bastante facilidad, y esto podría gustarte. Por otro lado, una innovadora idea podría revolucionar tu vida laboral.
 
 ## Dinero
 
-Esta semana es de gran actividad para ti, ya que la atención se centra en las culturas extranjeras, viajes, idiomas y la educación superior. Es hora de pensar en invertir en mercados muy lejos de donde vives para hacer tu investigación. Los aspectos indican que es probable que te sientas optimista también.
+Le estás dando nueva vida a algo por lo que perdiste interés hace mucho tiempo, gran parte de tu energía se está moviendo en esta dirección. De hecho, puedes hasta disfrutar de un golpe de suerte que lo haga suceder esta vez y de verdad. Asegúrate de que tu flujo de efectivo se mantenga estable al gastarlo proporcionalmente. Podrías estar viendo tu situación financiera a través de lentes de color de rosa.

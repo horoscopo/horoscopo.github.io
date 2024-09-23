@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 16 de septiembre 2024 al 22 de septiembre 2024 
-description: Horóscopo semanal acuario 16 de septiembre 2024 al 22 de septiembre 2024. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
+title: acuario 23 de septiembre 2024 al 29 de septiembre 2024 
+description: Horóscopo semanal acuario 23 de septiembre 2024 al 29 de septiembre 2024. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. 
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2024-09-16
+ogimg: /images/zodiac/semanal_acuario.png#2024-09-23
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-09-16'
+ lastmod: '2024-09-23'
 ---
 
 
 
-## Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
+## Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. 
 
-Al final sólo nos arrepentiremos de las oportunidades que no tomamos Acuario así que, empieza a agarrar todas las que lleguen con fuerza. No pienses demasiado, ya has vivido mucho como para saber lo que te interesa y lo que no así que, no te dejes amedrentar por nada ni por nadie. Puedes con todo lo que te propongas y además hagas lo que hagas lo harás bien. Puedes llegar alto si empiezas a dejar de lado cosas que no son productivas y tomas otros caminos. A veces te aferras demasiado por cariño y tratas de arreglar todo, de tratar de hacer a algunas personas mejores personas, de mantener situaciones que en vez de sumarte te restan todo el tiempo, y lo peor es que todo ese tiempo que gastas podías invertirlo en ti y en avanzar mucho más con tus objetivos en la vida. Hay cosas que no quieres que ocurran pero que debes aceptar Acuario, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir. Por tu bien. Procura que todo lo que decidas hacer esta semana te haga realmente feliz.
-Si has tenido problemas con tus finanzas o ciertos asuntos empresariales, las cosas podrían empezar a mejorar cuando Júpiter comience a avanzar desde el lunes. Si cierto monto de dinero se ha retrasado por la razón que sea, deberías escuchar noticias que confirmen que se encuentra en camino. También te percatarás de que cierto enfoque en tu sector hogareño te anima a decorar, eliminar el desorden y poner tu lugar en óptimas condiciones. Tu vida social debería ser divertida y un secreto deseado que has albergado por un tiempo podría hacerse realidad.
+Tienes que esforzarte Acuario, esforzarte para no cagarla de nuevo. Tienes que esforzarte para no enviar mensajes cuando te dan esos impulsos y arrebatos en los que no te controlas, tienes que esforzarte en no perder los papeles cuando algo no sale, tienes que esforzarte en tratar de vivir en el momento y en pasar de malos rollos. Ya está bien Acuario, hazte valer de una vez. Siempre te tratan de buenas persona, que lo eres sí, pero de ahí a que se aprovechen… No. Esta semana hay un gran cambio que llevas esperando mucho tiempo, céntrate en ello, es muy importante que mantengas tu cabecita ahí y que lo externo te deje de afectar. Y que el resto se gane estar a tu lado si realmente quiere, que las palabras se las lleva el viento y a ti, otra cosa no, pero hay mucha fila detrás que quiere engancharte… Nada tiene que ser ahora suficiente para ti Acuario, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. Si de verdad se preocupan por ti, no dejarán que la vida se interponga en el camino, no importará lo ocupadísimos que estén, el tiempo para las cosas que importan se saca. Así que, esta vez, estate tranquilo Acuario, sin remordimiento de ningún tipo, y espera a que el resto te busque…
+Si has estado buscando una forma de librarte de demasiadas responsabilidades, esta podría ser tu oportunidad. Con Saturno en tu signo y vinculándose con Urano, una idea de negocios podría cambiar tu vida de manera positiva y darte también la libertad que tanto deseas. La actividad lunar del Martes podría ser una señal para que reestructures tus finanzas y planifiques un presupuesto estructurado para el 2024. Si has estado posponiéndolo, ahora es el momento de hacerlo.
 
 ## Dinero
 
-Esta semana tu sector de labor te trae todo tipo de elogios en el trabajo. Los de arriba están notando tu trabajo y quieren verte tener éxito. Se te alienta a hablar de tus metas personales y de tu visión para la empresa en conjunto. Tus esfuerzos son muy apreciados. Van a ser recompensados económicamente y con más beneficios.
+Ciertos aspectos en tu sector de dinero y valores te dan mucho espacio para crecer esta semana. El desafío se presenta debido a que no siempre se siente fácil hacerlo, pero por lo general el esfuerzo obtiene resultados. Se te está empujando a ser más social ahora, considera el autoempleo como una forma de ganar más dinero y piensa cómo utilizar las políticas de oficina para tu ventaja.
