@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 25 de septiembre 2024
-description: Horóscopos del dia de hoy 25 de septiembre 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 26 de septiembre 2024
+description: Horóscopos del dia de hoy 26 de septiembre 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2024-09-25
+ lastmod: 2024-09-26
 ---
-Hoy, cuenta con tu poderosa intuición para ayudarte a conectar los puntos y eliminar la obstrucción. Tomar acciones que son efectivas también es algo que está en pro de tus intereses. Esta noche, Venus en Aries le añade una dosis de asertividad y una pizca de impaciencia al romance. Durante las próximas semanas, el antídoto es un equilibrio entre la mente y las emociones. 
+Muchos prometen y pocos cumplen cuando Mercurio cuadra a Júpiter y los acuerdos no se apeguen a la verdad el día de hoy. Sin embargo, no todo el mundo reniega. Alguien mantiene una promesa importante (tal podrías incluso ser tú). Venus a punto de cambiar de signo marca un momento importante dentro de una relación. Esta noche, los patrones usuales prueban ser bastante obsoletos. ¡Los viejos hábitos son fáciles de romper!
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
