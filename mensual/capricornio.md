@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Capricornio Septiembre 2024
-description: El Horóscopo Septiembre de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Capricornio Octubre 2024
+description: El Horóscopo Octubre de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/capricornio/
 amplink: /horoscopo-mensual/amp/capricornio/
 home: FALSE
-keywords: horóscopo septiembre, horoscopos en español, horóscopo Capricornio septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Capricornio, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo octubre, horoscopos en español, horóscopo Capricornio octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Capricornio, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/capricornio_mes.png#2024-08-28
+ogimg: /images/mes/capricornio_mes.png#2024-09-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-08-28'
+ lastmod: '2024-09-26'
 ---
 
 

@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Escorpio Septiembre 2024 
+title: Horoscopo Escorpio Octubre 2024 
 permalink: /horoscopo-mensual/amp/escorpio/
 normallink: /horoscopo-mensual/escorpio/
 home: FALSE
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Escorpio_mes.png#2024-08-28
+ogimg: /images/mes/Escorpio_mes.png#2024-09-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-08-28'
+ lastmod: '2024-09-26'
 ---
 
 
