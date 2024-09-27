@@ -9,22 +9,19 @@ keywords: horóscopo octubre, horoscopos en español, horóscopo Capricornio oct
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/capricornio_mes.png#2024-09-26
+ogimg: /images/mes/capricornio_mes.png#2024-09-27
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-09-26'
+ lastmod: '2024-09-27'
 ---
 
 
- > Capricornio, el mes de septiembre será para afianzar aquellos proyectos que estaban estancados porque ha llegado la hora de que vean la luz. La perseverancia y logros, que te han acompañado hasta ahora, te brindarán un enfoque renovado en tus metas y aspiraciones personales. Podrías explorar también emociones más profundas en tus relaciones, tanto las más cercanas como las más distantes.
+ > Capricornio, el mes de octubre te desafiará a salir de tu zona de confort y a vivir la vida con entusiasmo. En el amor, te sugiere que es el momento de tomar la iniciativa y ser proactivo en tus relaciones. Si has estado esperando que algo suceda en el ámbito sentimental, se presenta la ocasión de dar el primer paso. Si estás en una relación, sorprende a tu pareja con gestos románticos y aventureros. Planifica una escapada espontánea. Este mes, no tengas miedo de perseguir lo que realmente deseas en tu carrera. Tu intuición te guiará hacia oportunidades que te ayudarán a alcanzar tus metas profesionales. Abraza la creatividad y la innovación en tu trabajo.
 
 
 
-El 5 de septiembre, Venus se torna retrógrado en Escorpión. El amor podría volverse más emocionante (o incluso travieso), cuando es época de secretos románticos. Evita asumir compromisos importantes en las relaciones hasta que la fase retrógrada termine el 16 de septiembre. 
-¿Necesitas que alguien te cuide, o eres tú quien prefiere cuidar de alguien? Durante la luna nueva del día 3, alguien puede querer cuidar de ti, aunque sea un poco. Es una muestra de amor, no un juego de poder. 
-El romance vendrá al rescate con la luna llena del 18 de septiembre. Incluso si se te antoja algo peculiar o fuera de lo común, tu pareja estará feliz de complacerte. Si estás buscando amor, está justo a la vuelta de la esquina. 
-El sol forma una conjunción con Venus el día 26. Un asunto romántico podría al fin resolverse al volverse el centro de atención. 
-Venus retrógrado entra a Libra el 30 de septiembre, cuando las personas podrían ser más agradables de lo que realmente intentan o quieren ser. 
-Días destacados: 6, 11, 28
-Días desafiantes: 17, 30
+Dale gusto a tu mariposa social interna cuando el eclipse solar anular el 2 de octubre. Puede que no haya muchas conversaciones profundas, pero está bien. Busca encuentros casuales cordiales y coquetos, y diviértete mucho. El sol entra a Escorpio y comienza una nueva temporada. Muestra el mejor lado de tu personalidad, en especial a amistades y familia. Para la luna llena del 17 de octubre, elige uno o dos asuntos para concentrarte en el trabajo, y no permitas que te abrumen con otros pedidos. Tómate tu tiempo, sé una persona metódica y no tengas prisa. Los resultados hablarán por sí mismos. Tus logros no serán desestimados. 
+
+Días destacados: 5, 13, 29
+Días desafiantes: 7, 28

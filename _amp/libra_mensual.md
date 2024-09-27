@@ -7,12 +7,14 @@ home: FALSE
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/Libra_mes.png#2024-09-26
+ogimg: /images/mes/Libra_mes.png#2024-09-27
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-09-26'
+ lastmod: '2024-09-27'
 ---
 
 
-Algunas pequeñas cosas en el hogar necesitan atención, y estás de ánimo para hacerlas bajo la luna nueva del 3 de septiembre. Peina al perro, lleva al gato al veterinario, o acomoda y riega las plantas de interior. La luna llena del día 18 favorece más las reuniones privadas tranquilas que las enormes fiestas sociales. Tal vez quieras invitar a un par de amistades (o quizás solo una) a tu casa para tener una celebración íntima de temporada. El 23 de septiembre, el sol ingresa a Libra y forma una conjunción con Saturno. Las festividades se están colocando en su lugar, y tú estás haciendo que todo parezca fácil. 
+El eclipse solar anular del 2 de octubre ilumina tu imagen pública y tus planes profesionales. Sin importar qué tan tentativa o incompleta pueda ser una oferta u oportunidad, puedes percibir qué está pasando realmente y puedes relacionarte bien con las personas involucradas. Usa toda tu intuición, instinto e impulso. Neptuno se vuelve retrógrado en Piscis el 16 de octubre. Ahora, los sentimientos y sueños fluyen más profundamente y con más fuerza. La Luna Llena del 17 de octubre te recuerda que debes divertirte de gran manera. Tu felicidad será contagiosa, y las personas querrán seguir tu ejemplo. Haz algo radicalmente distinto y no lo pienses demasiado.
+
+Mejores días: 11, 22, 24Peores días: 8, 26

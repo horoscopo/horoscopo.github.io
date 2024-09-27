@@ -7,17 +7,18 @@ home: FALSE
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/Aries_mes.png#2024-09-26
+ogimg: /images/mes/Aries_mes.png#2024-09-27
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-09-26'
+ lastmod: '2024-09-27'
 ---
 
 
-La cuadratura que el sol forma con Marte el 2 de septiembre puede hacer que el mes comience con el pie izquierdo, pero tú tienes la energía y voluntad para hacerlo funcionar a tu manera. 
-Los horizontes se expanden, y tu mundo se abre de golpe durante la luna nueva del día 3. Te rodearán posibilidades, personas y oportunidades inimaginables. Mercurio se torna directo también ese día. La vida se vuelve más armoniosa y sensible. 
-Más tarde, la conjunción entre Marte y Neptuno al día siguiente agrega un fuerte impulso mágico a un día que de por sí ya es poderoso. Ten cuidado con lo que deseas, porque hoy puedes hacer que se vuelva realidad. 
-El mundo exterior podría reclamarte durante la luna llena del 18 de septiembre, pero tú sabes cómo rechazarlo. Dale prioridad a tu hogar y familia, y luego atiende tus obligaciones sociales. Puedes con todo, sin problemas. Sé amable al respecto. Marte entra a Aries el día 30. ¡Comienza el mes al máximo! 
-Días destacados: 7, 14, 30
-Días desafiantes: 16, 28
+El sol forma un trígono con Neptuno el 5 de octubre. Que tus aspiraciones y ambiciones aumenten. 
+La vida familiar y doméstica se ven geniales con el eclipse solar anular del día 2. Alegra tu corazón con un gran cambio, o un cambio pequeño que te dé una gran satisfacción, que sea práctico y funcional por completo, sin nada cosmético. 
+El 16 de octubre, Venus al fin se torna directo mientras Mercurio se torna retrógrado. Los rencores pueden atenuarse, pero probablemente es demasiado pronto para hablar con palabras más suaves que no serán malinterpretadas. 
+Durante la luna llena del día 17, una gran cantidad de cosas maravillosas pueden buscarte, pero el impulso más fuerte puede ser alejarte de todo, salir, y estar con personas. Eso también puede ser algo valioso, así que no te sientas culpable si no terminas de hacer tus cosas. Puedes hacerlas después. El sol entra a Escorpio el 24. Hay un fuerte impulso de ser sociable. 
+El sol forma una conjunción con Júpiter el 25 de octubre. Disfruta en grande de la suerte que tienes. 
+Días destacados: 7, 11, 25
+Días desafiantes: 21, 29
