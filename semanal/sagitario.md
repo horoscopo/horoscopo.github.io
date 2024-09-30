@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 23 de septiembre 2024 al 29 de septiembre 2024 
-description: Horóscopo semanal sagitario 23 de septiembre 2024 al 29 de septiembre 2024. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
+title: sagitario 30 de septiembre 2024 al 06 de octubre 2024 
+description: Horóscopo semanal sagitario 30 de septiembre 2024 al 06 de octubre 2024. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Sagitario. Tú solito.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2024-09-23
+ogimg: /images/zodiac/semanal_sagitario.png#2024-09-30
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-09-23'
+ lastmod: '2024-09-30'
 ---
 
 
 
-## No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
+## Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Sagitario. Tú solito.
 
-A veces, no es fácil vivir la vida Sagitario, a veces no es fácil enfrentarte al mundo con una sonrisa cuando en el fondo estás llorando por dentro. Pero la vida sigue, y aún tienes fuerza suficiente dentro de ti como para aguantar lo que te echen. Algún día te olvidarás de las heridas, de la razón por la que llorabas y por qué o quién te llenaste de dolor. Hay que dejar que las cosas se desarrollen a su manera y a su propio ritmo, no trates de que las cosas pasen a tu manera Sagitario. En realidad ese no es el plan, y, en el fondo, no te beneficia. Lo que importa en el fondo es el último capítulo, no tanto el primero…
-Tal vez pienses que sabes lo que quieres pero ¿es así? La mezcla de energías de esta semana podría provocar un conflicto entre tu cabeza y tu corazón, lo que traerá confusión. A esto se suma el deseo de reconocimiento o la necesidad de dar una audaz impresión. Podrías sentir que debes ir en distintas direcciones al mismo tiempo. 
-Cuando el sol conecta con el animado Mercurio el martes y el escurridizo Neptuno el miércoles, quizás no todo es lo que parece. Puede que no te resulte sencillo desarrollar un plan de acción porque tus pensamientos podrían cambiar de un momento a otro. Tal vez lo mejor sea relajarte e ir con la corriente. Sin importar qué tan grande sea el impulso de controlar o manipular una situación, dejar pasar el asunto puede producir resultados mucho más beneficiosos. Y debido a que tu planeta regente se encuentra en tu sector de amistades, tu vida social podría compensar cualquier decepción.
+Está bien que la gente que te acompaña en la vida, comparta tus metas, tus logros, y también tus decepciones y bajones. Está bien que estén a tu lado en las buenas y en las malas. Pero ellos NO son tu felicidad Sagitario, y no debes depender de nadie porque, si algún días te abandonan, te quedarás vacía/o por dentro.
+A pesar de que tu poder mental es fuerte ahora y durante las próximas semanas, podrías experimentar algunos contratiempos como Mercurio, el planeta que te rige, y Júpiter en tu signo retrocediendo. De hecho, puede que hasta llegues a  sentir como si fuera algo personal debido a que proyectos e ideas importantes sufren complicaciones y retrasos. Sin embargo, la actividad lunar en Capricornio puede ser útil para hacer el trabajo preliminar asociado con un proyecto creativo. Una vez que Mercurio comience a avanzar de nuevo a finales de mes, será buen momento para un nuevo comienzo.
 
 ## Dinero
 
-Hay algunas restricciones y limitaciones en tu capacidad para aprender y enseñar, así como también los viajes. Aunque es posible que te estés mordiendo las uñas para poner las cosas en marcha, no hay caso en luchar contra esta influencia. La buena noticia es que también hay aspectos favorables. Son tus amigos, contactos sociales, conocidos y colegas los que apoyarán tus esfuerzos en el trabajo y en tu vida monetaria. Ellos proporcionarán una muy bienvenida distracción hasta que las cosas se abran o mejoren.
+Esta semana ilumina las áreas de tu carta que quieren salir y explorar todo lo que la vida tiene que ofrecer; desde lo emocional, a lo físico, a lo espiritual. Es imprescindible ir con la corriente cuando se trata de los cambios en el frente monetario. Estos no son malos, pero van a requerir de un poco de paciencia.
