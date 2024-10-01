@@ -9,11 +9,11 @@ keywords: horóscopo octubre, horoscopos en español, horóscopo Virgo octubre ,
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/virgo_mes.png#2024-09-27
+ogimg: /images/mes/virgo_mes.png#2024-10-01
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-09-27'
+ lastmod: '2024-10-01'
 ---
 
 

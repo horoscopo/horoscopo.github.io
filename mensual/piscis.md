@@ -9,11 +9,11 @@ keywords: horóscopo octubre, horoscopos en español, horóscopo Piscis octubre 
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/piscis_mes.png#2024-09-27
+ogimg: /images/mes/piscis_mes.png#2024-10-01
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-09-27'
+ lastmod: '2024-10-01'
 ---
 
 

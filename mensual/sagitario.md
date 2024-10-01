@@ -9,11 +9,11 @@ keywords: horóscopo octubre, horoscopos en español, horóscopo Sagitario octub
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/sagitario_mes.png#2024-09-27
+ogimg: /images/mes/sagitario_mes.png#2024-10-01
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-09-27'
+ lastmod: '2024-10-01'
 ---
 
 

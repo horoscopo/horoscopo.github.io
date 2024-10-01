@@ -7,11 +7,11 @@ home: FALSE
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Leo_mes.png#2024-09-27
+ogimg: /images/mes/Leo_mes.png#2024-10-01
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-09-27'
+ lastmod: '2024-10-01'
 ---
 
 
