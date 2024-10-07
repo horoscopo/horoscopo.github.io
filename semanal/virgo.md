@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 30 de septiembre 2024 al 06 de octubre 2024 
-description: Horóscopo semanal virgo 30 de septiembre 2024 al 06 de octubre 2024. “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate Virgo, que no te entre la locura.
+title: virgo 07 de octubre 2024 al 13 de octubre 2024 
+description: Horóscopo semanal virgo 07 de octubre 2024 al 13 de octubre 2024. El mundo puede esperar Virgo, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2024-09-30
+ogimg: /images/zodiac/semanal_virgo.png#2024-10-07
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-09-30'
+ lastmod: '2024-10-07'
 ---
 
 
 
-## “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate Virgo, que no te entre la locura.
+## El mundo puede esperar Virgo, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 
-No es que estés cambiando Virgo, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo, prefieres, digamos, no arriesgar. La gente a menudo es muy egoísta, y cree que porque tengas una actitud diferente, eres tú quien está fallando, y no. El problema es que no eres estúpido/a y que si estás cambiando es porque ya has recorrido el mismo camino varias veces y sabes que en el fondo, y en estos momentos ya no te llevará a ningún sitio. A lo largo de tu vida has perdonado cosas que sabes que a ti jamás te perdonarían y por eso, te has sentido impotente muchas veces, porque en el fondo, y en tu interior, eso es fallarte a ti mismo/a, por eso estás cambiando o lo estás intentando hacer a muerte, porque no es algo bueno para ti, ni más ni menos. Los que te quieran y estén a tu lado deben entenderlo, y los que te tachen de egoísta sabes que no están mirando por tu bien si no por lo que les interesa a ellos… Esta semana te vas a sentir más fuerte que nunca, aunque lo hagas solo/a, te vas a sentir libre, vas a sentir que puedes con todo. Te lo has prometido a ti mismo/a…
-Tu sector de comunicación recibe un impulso a partir del martes a medida que el interactivo Mercurio y el sociable Venus ingresan. Las próximas semanas podrían animarte a entablar relaciones y comunicarte con otras personas que puedan ayudarte a lograr tus metas y planes. Y con el vital Marte que continúa su viaje a través de tu sector social, asistir a eventos clave puede ser otra manera de forjar nuevas conexiones y de divertirte. Debido a que Júpiter retrocede en tu sector más importante a partir del jueves, puede que sea momento de volver a evaluar tus metas en la vida y, tal vez, hacer algunos importantes ajustes.
+¿Cómo quieres gastar tu vida Virgo? ¿sintiéndote mal? ¿arrepintiéndote por lo que has hecho, o peor aún, por lo que no has hecho? ¿odiando y sintiendo rencor? ¿no afrontando los problemas o las situaciones? Sé valiente Virgo, siempre lo has sido, y sigue creyendo en ti mismo, y haz lo que te haga sentir bien, y trata de huir de lo que te encoge el corazón, de lo que te hace daño, y manda lejos a tus pensamientos oscuros que lo único que hacen es que entres en bucles y que desperdicies tu tiempo. Tienes esta vida Virgo, sólo esta así que, trata de sentirte orgulloso de cómo la estás llevando. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro Virgo. Piénsalo bien, ¿qué más puede afectarte? NADA. Eres como eres y nadie va a cambiarte pero tienes que aprender a que te de un poco más igual todo, tienes que aprender a no obsesionarte con nada. Si las cosas no salen del todo bien es porque hay algo mejor que te espera. Y pasará… Pero cambia la manera de ver las cosas porque es la única forma en que cambien las cosas que ves. Feliz semana Virgo.
+La alineación actual podría encontrarte considerando ideas empresariales en tu búsqueda de una que sea la correcta para ti. Pero debido a que Mercurio entró a la escena, no te limites a una o dos. Puede que encuentres un número de oportunidades que parezcan bastante prometedoras una vez que comiences a buscar. La entrada de Venus a Cáncer del viernes podría verte querer ampliar tu ámbito de acción. Si tu tiempo ha estado ocupado últimamente, la idea de una escapada a un lugar exótico bien podría llamarte la atención.
 
 ## Dinero
 
-Esta semana se desplaza la atención a tu sector de seguridad y de obtención de dinero. Es posible que tu familia, pareja romántica, hijos o inclusive tu mismo/a quieran una mejor calidad de vida. La buena noticia es que no todo esto se puede comprar con dinero en efectivo. Tú disfrutas de una base sólida debido a las personas importantes en tu vida. Ellos entienden si tienes que gastar un poco más en otras cosas por ahora.
+Puede que tengas un poco de tentación a descubrir un poco de belleza oculta en tu vida, tu personalidad o tu estilo. Justo debajo de la superficie, podrías ser una persona completamente diferente a la que todo el mundo ve. Deléitate con el progreso que has hecho en tu vida en lugar de insistir en lo que aún no han logrado alcanzar. El abandonar tus propias necesidades en materia de profesión y dinero no tiene sentido.

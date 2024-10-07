@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: tauro 30 de septiembre 2024 al 06 de octubre 2024 
-description: Horóscopo semanal tauro 30 de septiembre 2024 al 06 de octubre 2024. Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
+title: tauro 07 de octubre 2024 al 13 de octubre 2024 
+description: Horóscopo semanal tauro 07 de octubre 2024 al 13 de octubre 2024. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2024-09-30
+ogimg: /images/zodiac/semanal_tauro.png#2024-10-07
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-09-30'
+ lastmod: '2024-10-07'
 ---
 
 
 
-## Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
+## Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
 
-Si tienes algo que pensar, intenta no hacerlo en el momento, YA, AHORA y AQUÍ. Las preocupaciones cambian de intensidad muy a menudo, y sólo es con el tiempo cuando se ven. Vale, las cosas te estresan pero quizás si en vez de tomar la decisión ahora esperas un poco y la tomas después de dormir 8 horas, todo cambia, ya no es tan dramático como parecía, se suaviza, y mucho… Tómate ese tiempo, hazlo Tauro, porque te darás cuenta de que no todo es tan bueno, y tampoco todo es tan malo… Relax… Parece mentira como te estresas por situaciones que no siempre están en tu mano, pero es verdad es como si tú pudieras hacer todo por ti mismo y no Tauro, por desgracia no todo es así… Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino. Un día malo no significará nada, sabes de sobra lo que es mover el culo para trabajar, sabes lo que es ir consiguiendo frutos, día a día… Recuerda lo que mereces, y lucha por ello muerte…
-Esta semana parece encantadora de muchas maneras. Con Venus y Marte en tu sector de recreación y placer, tu diversión podría no tener fin. Si hace poco que estás en pareja, semana podría hacer que vayas más allá en busca de un vínculo más comprometido. Sin embargo, también querrás tener tu espacio, así que asegúrate de aclararlo desde el principio. La situación es igual de apasionada si es que ya tienes una relación estable, especialmente si te vas de viaje con tu pareja.
+Tu mente lo está analizando absolutamente todo Tauro, conversaciones del pasado, cosas que se dijeron, palabras que nunca se debieron decir… Como no dejes a un lado todos esos pensamientos que ya están en el pasado, acabarás viviendo en el pasado, otra vez Tauro… No… Vas a arruinar todo antes de que ocurra, vas a estar en otro lugar cuando debes estar aquí, en el presente, vas a perderte oportunidades esta semana por eso. Cambia como sea. Y agarra todo lo que venga con mucha fuerza. No pienses si lo que estas haciendo está mal o bien, no pienses en el daño que quizás puedas hacer a algunos o en la alegría que les darás a otros. Piensa en ti un poquito. Todo el mundo jamás estará contento con las decisiones que tomes, por eso mismo, deja de pensar un poco en los demás y dirígete hacia donde de verdad te sientas bien. Fuera las expectativas Tauro, fuera el creer que va a ocurrir algo, si tiene que ser será, pero no te comas la cabeza y no le des más vueltas a todo. La ansiedad podrá contigo en algún momento de esta semana Tauro, pero ya has pasado por eso, no dejes que se apodere de tu mente, la ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+Te estarás moviendo a toda máquina para lograr el progreso que deseas en objetivos profesionales y ambiciones personales. Tendrás la energía extra necesaria para obtener los resultados que buscas. Con Júpiter entrando a Virgo, obtendrás ayuda por parte de contactos y círculos sociales que podrían ponerte firmemente en camino hacia el éxito. No es sólo lo que conoces sino a quién conoces lo que cuenta para el futuro previsible. Tu vida romántica también recibe un impulso, al igual que tus amistades y relaciones bien establecidas.
 
 ## Dinero
 
-El cosmos trae cambios en la forma en la que te ves y cómo te expones al mundo. Los demás normalmente te ven como una persona trabajadora y ahorrativa. Sin embargo, los aspectos que afectan a tu sector de grupos, política y trabajo por cuenta propia pueden hacer que de repente parezcas más social. Algunos incluso te llaman el alma de la fiesta conforme conoces gente nueva, cierras tratos y llenas tu agenda social.
+Esta semana estás en el meollo de las cosas con ciertos aspectos afectando tu sector de dinero y valores. Se te está forzando hacia cierta área de tu vida que ha sido desatendida durante demasiado tiempo. Pon un poco más de tu pensamiento y acción en cómo ganar dinero y cuánto quieres ganar en el futuro.

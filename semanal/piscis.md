@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 30 de septiembre 2024 al 06 de octubre 2024 
-description: Horóscopo semanal piscis 30 de septiembre 2024 al 06 de octubre 2024. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
+title: piscis 07 de octubre 2024 al 13 de octubre 2024 
+description: Horóscopo semanal piscis 07 de octubre 2024 al 13 de octubre 2024. Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2024-09-30
+ogimg: /images/zodiac/semanal_piscis.png#2024-10-07
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-09-30'
+ lastmod: '2024-10-07'
 ---
 
 
 
-## Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
+## Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
 
-Debes tener cuidado si no quieres que la caída sea desde muy arriba. No tiene por qué pasar, está claro, pero debes prevenir y no entregarte al 100% en todo lo que haces, porque los golpes duros duelen menos cuando no diste todo de ti, ves con un poquito de ojo esta semana.
-Ten mucho cuidado si estás negociando un contrato o intentando cerrar un acuerdo esta semana. Con Mercurio retrógrado en tu sector de relaciones y la actividad Lunar en tu signo, podría ser conveniente abstenerte de hacer cualquier compromiso por ahora. La próxima semana podría mostrar las razones por las que sería mejor esperar. Esto no significa el final de un acuerdo, más bien te ofrece la oportunidad de continuar los debates y negociaciones que podrían trabajar a tu favor.
+Y aunque por dentro te tiemblen las piernas sabes lo que está bien y lo que está mal, sabes lo que te hace daño hoy y lo que te hará daño mañana.
+Esta podría ser una semana de cambios radicales debido a que el eclipse lunar en tu sector de transformación te alienta a dejar atrás tu pasado. Puede que tus instintos te estén diciendo que si deseas seguir con tu vida, deberás abandonar todas las condiciones y situaciones en tu vida que ya no te hacen bien. También es posible que sepas cuáles son estas condiciones y situaciones, solo que no quieres dejarlas ir. Es natural. No te apresures. La intención de tomar una decisión puede ser un positivo comienzo.
 
 ## Dinero
 
-Esta semana destaca la necesidad de actualizar tu conjunto de habilidades. El mejorar tu educación, no sólo te da más confianza en tus posibilidades, también logra que los demás tengan el habito de percibirte con el grado de experiencia que empiezas a tener. Es posible que necesites incorporar conocimientos de vidas pasadas. No hay necesidad de saber porque eres bueno/a en lo que haces, simplemente lo eres.
+Esta semana, los planetas están cambiando la manera en la que otros te ven, lo cual es positivo a largo plazo. Pero, dado a que en la actualidad afecta a tu carrera y tu vida hogareña, lo mejor es acudir a tus relaciones serias en busca de asistencia. Aquellos que pueden sostenerse en medio de una tormenta son aquellos que deseas mantener cerca.

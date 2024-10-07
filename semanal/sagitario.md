@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 30 de septiembre 2024 al 06 de octubre 2024 
-description: Horóscopo semanal sagitario 30 de septiembre 2024 al 06 de octubre 2024. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Sagitario. Tú solito.
+title: sagitario 07 de octubre 2024 al 13 de octubre 2024 
+description: Horóscopo semanal sagitario 07 de octubre 2024 al 13 de octubre 2024. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2024-09-30
+ogimg: /images/zodiac/semanal_sagitario.png#2024-10-07
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-09-30'
+ lastmod: '2024-10-07'
 ---
 
 
 
-## Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Sagitario. Tú solito.
+## No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
 
-Está bien que la gente que te acompaña en la vida, comparta tus metas, tus logros, y también tus decepciones y bajones. Está bien que estén a tu lado en las buenas y en las malas. Pero ellos NO son tu felicidad Sagitario, y no debes depender de nadie porque, si algún días te abandonan, te quedarás vacía/o por dentro.
-A pesar de que tu poder mental es fuerte ahora y durante las próximas semanas, podrías experimentar algunos contratiempos como Mercurio, el planeta que te rige, y Júpiter en tu signo retrocediendo. De hecho, puede que hasta llegues a  sentir como si fuera algo personal debido a que proyectos e ideas importantes sufren complicaciones y retrasos. Sin embargo, la actividad lunar en Capricornio puede ser útil para hacer el trabajo preliminar asociado con un proyecto creativo. Una vez que Mercurio comience a avanzar de nuevo a finales de mes, será buen momento para un nuevo comienzo.
+Estás activo Sagitario, con ganas de hacer cosas nuevas, de conocer, de reír, de disfrutar y sobretodo con ganas de vivir el presente más que nunca. Te mereces más de lo que tienes, sí, mucho más aún…
+Después del eclipse solar de la semana pasada en tu signo, tal vez sientas que mereces un descanso. El positivo Júpiter se encuentra en tu sector de relajación y recreación. No dudes en tomarte un descanso corto que te ayude a centrarte y te brinde la posibilidad de pensar en cuáles son tus prioridades. Debido a que el encantador Venus se encuentra en tu sector de comunicación, podrías tener una dosis extra de persuasión y encanto, lo que puede jugarte a favor al momento de negociar. 
+La actividad lunar del jueves en tu sector de hogar puede ser la chance de conectar con familiares y pedirles su opinión sobre una idea. Si todos están de acuerdo, todo fluye mucho mejor. El domingo, la actividad solar en tu sector de recursos y bienes materiales, lo que podría fomentar un frenesí de ventas. Deshacerte de aquello que ya no necesitas o quieres podría significar un dinero extra y traerte tranquilidad.
 
 ## Dinero
 
-Esta semana ilumina las áreas de tu carta que quieren salir y explorar todo lo que la vida tiene que ofrecer; desde lo emocional, a lo físico, a lo espiritual. Es imprescindible ir con la corriente cuando se trata de los cambios en el frente monetario. Estos no son malos, pero van a requerir de un poco de paciencia.
+Esta semana es acerca de los aspectos que afectan dinero y valores. Esto es extremadamente afortunado, dándote la oportunidad de mejorar tus finanzas ahora. Se te está empujando a centrarte en la familia y el romance. Podría ser bueno tomarte un descanso o renovar tu convicción de equilibrar tu vida laboral con tu vida personal.

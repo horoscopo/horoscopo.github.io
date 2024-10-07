@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: libra 30 de septiembre 2024 al 06 de octubre 2024 
-description: Horóscopo semanal libra 30 de septiembre 2024 al 06 de octubre 2024. Sumisión contigo van a encontrar poca ahora Libra… Muy poca.
+title: libra 07 de octubre 2024 al 13 de octubre 2024 
+description: Horóscopo semanal libra 07 de octubre 2024 al 13 de octubre 2024. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Libra, no hay casualidades ni coincidencias.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2024-09-30
+ogimg: /images/zodiac/semanal_libra.png#2024-10-07
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-09-30'
+ lastmod: '2024-10-07'
 ---
 
 
 
-## Sumisión contigo van a encontrar poca ahora Libra… Muy poca.
+## Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Libra, no hay casualidades ni coincidencias.
 
-El mundo puede esperar Libra, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir… No paras, tu mente no para ni un momento y al final como no eches el freno te acabará pasando factura. Relájate Libra, disfruta de los pequeños momentos que la vida te da, de esos momentos que no cuestan tanto pero que valen mucho y sobretodo piensa que todo llega pero que no hay que forzar las situaciones. Todo se acaba colocando en el lugar que debe estar. Necesitas descansar un poco pero no puedes estar aquí queriendo estar allí porque así ni descansas ni nada. Vas a empezar un proyecto muy bueno y va a suponer un cambio muy grande en tu vida pero debes estar centrado al 100% y no tener la cabeza en otras cosas así que, por ahora, trata de disfrutarte un poco, trata de relajarte y de hacer las cosas con calma pero sin parar. Y pasa de los jueguecitos mentales esta vez, al final esa clase de personas sólo quieren sacarte de tu camino. Sé más inteligente que ellos y en vez de la impulsividad utiliza el sentido común. No te aportan nada.
-Esta es una semana de cambios y transformaciones, no sólo porque el mes termina y uno nuevo comienza, también porque varios planetas cambian a nuevos signos. Tu planeta regente entrando al atrevido Sagitario, podrías estarte preparando para algunas aventuras financieras. Sin embargo, te ayudaría cubrir bien tus bases e investigar antes de cerrar un trato u optar por trucos para enriquecerte rápidamente. Las relaciones se intensifican, pudiendo llevarte a que te dispongas a hacer cambios en áreas que los han requerido por un largo tiempo.
+En serio, Libra, por muy mal que vayan las cosas has demostrado al mundo que con tu ejemplo que se puede vencer cualquier obstáculo poniendo ganas, entusiasmo y pasión. A pesar de que eres siempre alguien bastante reservado para tus cosas más profundas (quizás a veces parece que hablas demasiado pero a la hora de la verdad de lo tuyo, de lo profundo, no sueles abrir el pico), la gente que te conoce sabe de sobra que te has caído y levantado muchas veces en estas últimas semanas queriendo antes que cualquier otra cosa tener el control sobre ti mismo. Eres Libra por lo tanto es normal que no todo lo que quieras se de en el momento, la constancia y el trabajo diario es lo que a ti, te hace cumplir tus objetivos y tus metas, la constancia es al final la que te da todo lo que buscas. Las cosas que llegan rápidamente se acaban yendo de la misma manera así que, sigue con lo que tienes fijado en la mente y no desistas porque cualquiera quiera llegar y cambiar tus planes. No te dejes llevar por nadie ahora, puede ser una semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Lo has pasado mal Libra, así que, plantéate si te merece la pena volver a mirar atrás de nuevo, creo que no. Lo peor ya está casi superado, no estabas del todo bien con tu vida y por eso decidiste cambiar y aunque los cambios no se den todavía no importa porque están en tu cabeza y poco a poco lo estarán en tus hechos. No te agobies, verás como cada día que pasa es una victoria hacia lo que quieres, sólo preocúpate de vivir esos días lo mejor que puedas ahora…
+Tal vez un asunto financiero necesita atención, particularmente si es algo que has estado evitando hasta el momento. Con el eclipse lunar cruzando tu eje monetario, quizás necesites tomar una rápida decisión o medidas para resolver un asunto clave. Sin embargo, esto también puede ser un punto decisivo para ti y tal vez sea una oportunidad para reorganizar algunas cuestiones. Por otro lado, no vendría mal corroborar los detalles, en particular cuando firmes cualquier cosa importante, ya que el interactivo Mercurio retrocederá a partir del final de la semana.
 
 ## Dinero
 
-Esta semana tienes actividad en tu sector de carrera indicando una época de gran movimiento y energía. Esto demuestra que puedes estar experimentando cambios repentinos en esta área de tu vida. A veces, el Universo tiende a ir sobre territorio previamente cubierto con un peine de dientes finos, así que no te sorprendas si algo que pensabas que había sido cubierto se vuelve en tu contra. Espera tener comunicación en lo que menos pensabas.
+Esta semana para ti es acerca de relaciones no solidarias. Quieres lanzarte hacia metas financieras y relacionadas con el trabajo. La decisión puede estar entre brillar con luz propia como individuo o como miembro de un equipo. Una parte de ti quiere alimentar tu ego, pero la otra parte, la más inteligente, se da cuenta de que también dependes de tu equipo. Escucha a la mejor parte que tienes.

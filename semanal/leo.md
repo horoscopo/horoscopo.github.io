@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 30 de septiembre 2024 al 06 de octubre 2024 
-description: Horóscopo semanal leo 30 de septiembre 2024 al 06 de octubre 2024. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+title: leo 07 de octubre 2024 al 13 de octubre 2024 
+description: Horóscopo semanal leo 07 de octubre 2024 al 13 de octubre 2024. No más paciencia Leo. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2024-09-30
+ogimg: /images/zodiac/semanal_leo.png#2024-10-07
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-09-30'
+ lastmod: '2024-10-07'
 ---
 
 
 
-## Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+## No más paciencia Leo. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
 
-Necesitas tener un objetivo en la vida Leo, pelear por lo que quieres, tener ambición y no estancarte. Si no, te acabas marchitando… Y a veces te encuentras quieto, parado, sin saber hacia qué dirección moverte, sin saber si es bueno mandar todo a la mierda y empezar desde cero otra vez más o quedarte como estás. Esta semana llega un proceso duro pero que al final te habrá merecido la pena. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas. Como si a mitad del camino te empezaran a flaquear las piernas y te quedaras sin fuerzas. Nada Leo, no puede flaquearte nada ahora. Cualquier proceso de cambio tiene un tiempo y ahí es donde estás ahora. Acoplándote a las nuevas situaciones. Todo ese estrés pasará, y los momentos duros empezarán a suavizarse, como siempre ha pasado… No le temas a eso porque todo se coloca en su lugar. Disfruta del momento que estás viviendo, saca la parte positiva de todo, aunque a veces parezca que no la hay, y déjate llevar un poco, sin pensar tanto, que no es tan negro todo…
-Gran parte de tu energía podría ser empleada en resolver ciertos asuntos hogareños o familiares. Estarás funcionando a toda máquina y tendrás ganas de hacer cambios. Como resultado, los asuntos hogareños deberían mejorar conforme tu pareja y otros miembros de tu familia comparten tu entusiasmo por proyectos creativos u otros eventos familiares. Si disfrutas de hacer artesanías, la entrada de Júpiter a Virgo podría hacerte disfrutar de esta afición. No sólo sería terapéutico, sino que también podría tener potencial empresarial.
+Hay gente que no respeta que puedas crecer Leo, hay gente que no entiende que a veces tengas que mirar por ti mismo antes que por los demás. Ya has pasado demasiado ¿no crees? No puedes estancarte con nada ni con nadie. Ahora es el momento en el que debes tomar decisiones y quien de verdad quiera estar a tu lado puede seguirte. Ya no quieres estar detrás de nadie anteponiendo siempre sus vidas a la tuya, sus metas a tus objetivos, ya estás cansado de ir detrás del mundo. Es ahora el mundo quien debe, si quiere, ir detrás de ti. Llegan buenos tiempo para los Leo pero tienes que ser positivo. Todo lo que hagas hoy te repercutirá mañana, cada paso, cada peldaño que subas, cada decisión que tomes. Es importante que tengas todo claro y que cuando te enfoques en algo pelees por ser el mejor. Todo lo que des lo vas a atraer, si tu ambiente es positivo atraerás lo positivo, y ahora debe ser así. Y si surge algún pensamiento negativo trata de esquivarlo como sea, y si no puedes hacerlo, impulsa tu ego y llénate de piropos y de cosas positivas, no puedes dejar que lo negativo domine tu vida, tienes que tomar el control. Crece Leo, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
+Si tienes un plan que te mueres por llevar a cabo, este es el momento. Sin embargo, alguien podría ofrecerte una oportunidad que sea demasiado buena para ser verdad, una que no te gustaría dejar pasar. Sí, tienes que analizarla primero, pero si todo parece correcto, no hay razón para no avanzar con ella.
 
 ## Dinero
 
-Tienes actividad en tu sector de relaciones esta semana. Una nueva relación podría materializarse de la nada y resultar económicamente beneficiosa para ambas partes. En este momento, tu atención tiene que enfocarse en la construcción de tu carrera. La elaboración de un plan a cinco años puede no ser una mala idea tampoco. Es más fácil hacer que el dinero que deseas se manifieste cuando este paso se haya dado.
+Es posible que tengas que pensar seriamente esta semana sobre el dinero de otras personas, o la deuda. La adopción de una actitud responsable es la mejor mientras haces el balance de la deuda, llega a una negociación realista de rentabilidad y apégate a ella. Ciertos aspectos indican que tu familia o niños pueden ser la mayor fuga de tu dinero por ahora. Esfuérzate para mantener el equilibrio a medida que te apegas a tu presupuesto.
