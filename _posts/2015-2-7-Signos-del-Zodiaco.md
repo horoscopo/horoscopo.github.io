@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 11 de octubre 2024
-description: Horóscopos del dia de hoy 11 de octubre 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 12 de octubre 2024
+description: Horóscopos del dia de hoy 12 de octubre 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2024-10-11
+ lastmod: 2024-10-12
 ---
-Mientras que ciertas cosas sean dejadas sin terminar hoy, no son inacabables. Es hora de concluir otro tipo de cosas - con éxito. La comunicación se vuelve un poco menos clara cuando Mercurio aspecta a Neptuno esta noche. Aquellos que sean sabios prestarán atención o correrán el riesgo de perderse de lo esencial.
+Un momento de epifanía surge bajo la Luna Nueva en Capricornio. Prepárate para dejarte sorprender por tu resistencia. Es lo que te hace capaz de grandes cosas. Esta noche, no presiones a la gente para que supere sentimientos. Las cosas nunca se arreglan de tal manera, necesitan ser habladas y las personas todavía gozan el valor del aspecto cósmico de ayer para hacerlo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
