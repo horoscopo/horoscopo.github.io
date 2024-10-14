@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 07 de octubre 2024 al 13 de octubre 2024 
-description: Horóscopo semanal capricornio 07 de octubre 2024 al 13 de octubre 2024. Llega una semana bonita Capricornio, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención Capricornio, y seguramente la persona que menos te esperabas…
+title: capricornio 14 de octubre 2024 al 20 de octubre 2024 
+description: Horóscopo semanal capricornio 14 de octubre 2024 al 20 de octubre 2024. Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2024-10-07
+ogimg: /images/zodiac/semanal_capricornio.png#2024-10-14
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-10-07'
+ lastmod: '2024-10-14'
 ---
 
 
 
-## Llega una semana bonita Capricornio, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención Capricornio, y seguramente la persona que menos te esperabas…
+## Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
 
-Tu cabeza quiere un cambio Capricornio, y tu corazón también, y te lo está pidiendo a gritos pero sigues siendo testarudo cuando quieres, y muchas veces aunque a tu alrededor haya una vibra negativa casi imposible de aguantar, tú te la echas a la espalda y la aguantas como el que más. Pero mira Capricornio, no se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo. A veces, parece que no quieres salir de tu estado de confort, de esa zona en la que de confort en el fondo hay poco. Y no quieres salir por miedo a encontrarte cosas peores pero Capricornio por favor, si lo que hay no te llena o no te realiza como persona algo tendrás que hacer ¿no? Esta semana vas a tener sensaciones muy diferentes, sentimientos con un pasado que no es tan pasado. Tienes que acordarte de muchas cosas, acordarte de que eras feliz antes de tener lo que tienes ahora, de que debes seguir creciendo, de que has de liberarte de algunas expectativas muy grandes que tenías y que después han resultado ser falsedad y mentira… Arréglate y déjate de perezas, sal, disfruta, respira aires nuevos y cambia el chip.
-La actividad lunar del martes en tu signo es lo mejor que te sucede en el año, ya que te dará la oportunidad de cumplir tus sueños y tus deseos. Si haces una lista de tus deseos y sueños y la lees con frecuencia, puede que notes que se hacen realidad mucho antes de lo que esperas. Por otro lado, la entrada de Mercurio a tu sector de dinero puede impulsarte a que vendas ciertos objetos y ganes un poco de dinero extra. Si empiezas vendiendo cosas que ya no necesitas, puedes ganar algo de dinero y disfrutar de tener más espacio.
+A veces dejar ir las cosas es mucho más complicado de lo que piensas Capricornio. No vas a encontrar el momento definitivo nunca, no vas a cerrar la puerta de golpe y creer que ya lo tienes superado. Así nada termina bien. Quieres tener seguridad Capricornio, y te aferras deprisa a las cosas pero si miras a tu alrededor sabes que hay piezas que no encajan en el puzzle, que a veces incluso todo parece un teatro, que estás dejando pasar algo en lo que no crees. Pero no querrás dejar ir tan fácilmente, piensas que si lo mantienes todavía lo tienes, que si lo mantienes, todavía existe. Y claro que existe pero no como antes y no como quieres Capricornio. Si hay cosas que fallan repara la grietas o trata de hacerlo, pero no pienses que se podrán reparar solas. Si tienes que plantar cara y dejar sobre la mesa cuáles son tus intenciones y lo que esperas, hazlo. Está bien que creas que muchas cosas van perfectamente pero Capricornio, sabes de sobra que no van tan perfectamente, que hay que arreglar mucho. En serio Capricornio, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo? No te ates tanto, no te creas que el mundo es como tú lo ves en un momento dado. Capricornio, la realidad no es la que tú quieres pintar ahora. Hay promesas rotas y futuros que no se van a dar, pero cuando te des cuenta no te pongas triste, mírate al espejo y sonríe, sonríe por ser quien eres. Y si tienes que llorar que sea por ti mismo, y de emoción, por darte cuenta de todo, por ser valiente.
+Esta podría ser una interesante semana en la que el eclipse solar en tu signo puede traerle energía fresca a tu vida. Este eclipse, que se produce el jueves, podría animarte a dar un paso en una dirección que deseas seguir desde hace mucho tiempo. Los eventos pueden conspirar para que llegues allí incluso si sientes que no te has preparado. Pronto te acostumbrarás a vivir a otro nivel y te dará gusto haber aprovechado esa oportunidad. El enfoque cambia el fin de semana, lo que te anima a invertir en algunos mimos para ti.
 
 ## Dinero
 
-Tu sector de dinero se destaca esta semana. La forma en la que ves el dinero en tu vida entra en cuestión, así como la sabiduría de tus planes monetarios más recientes. Este es el momento de cuestionar todo - incluso lo que decidiste que fue bueno hace unos meses. Alentar las señales del Universo se relacionan con tu capacidad de obtener ingresos, mientras que los detalles de cualquier noticia negativa se suavizan. Estás en el camino correcto en ambos sentidos.
+Podrías estar mas ocupado/a en el trabajo que de costumbre cuando las responsabilidades de ciertas personas caigan en tus manos. En la cumbre de la locura, ponte a tono con tus más crudas ambiciones y pregúntate: ¿Qué tan alto quieres llegar en esta empresa? Si la respuesta es no, sabes que tienes muchas ideas propias. Tal vez prefieras invertir un poco de dinero en comenzar un negocio nuevo. Los viajes, la educación, la metafísica, la publicación, la ley, son algunos de los campos que te pudieran interesar.

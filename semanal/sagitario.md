@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 07 de octubre 2024 al 13 de octubre 2024 
-description: Horóscopo semanal sagitario 07 de octubre 2024 al 13 de octubre 2024. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+title: sagitario 14 de octubre 2024 al 20 de octubre 2024 
+description: Horóscopo semanal sagitario 14 de octubre 2024 al 20 de octubre 2024. Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no Sagitario. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2024-10-07
+ogimg: /images/zodiac/semanal_sagitario.png#2024-10-14
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-10-07'
+ lastmod: '2024-10-14'
 ---
 
 
 
-## No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+## Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no Sagitario. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
 
-Estás activo Sagitario, con ganas de hacer cosas nuevas, de conocer, de reír, de disfrutar y sobretodo con ganas de vivir el presente más que nunca. Te mereces más de lo que tienes, sí, mucho más aún…
-Después del eclipse solar de la semana pasada en tu signo, tal vez sientas que mereces un descanso. El positivo Júpiter se encuentra en tu sector de relajación y recreación. No dudes en tomarte un descanso corto que te ayude a centrarte y te brinde la posibilidad de pensar en cuáles son tus prioridades. Debido a que el encantador Venus se encuentra en tu sector de comunicación, podrías tener una dosis extra de persuasión y encanto, lo que puede jugarte a favor al momento de negociar. 
-La actividad lunar del jueves en tu sector de hogar puede ser la chance de conectar con familiares y pedirles su opinión sobre una idea. Si todos están de acuerdo, todo fluye mucho mejor. El domingo, la actividad solar en tu sector de recursos y bienes materiales, lo que podría fomentar un frenesí de ventas. Deshacerte de aquello que ya no necesitas o quieres podría significar un dinero extra y traerte tranquilidad.
+Sin querer, y a veces queriendo y siendo consciente te pones ataduras a algunas personas que son dañinas para ti. Y sabiendo que pueden tirar de ti y hacer lo que les de la gana no te sueltas, no utilizas la llave para abrir esos grilletes y ser libre.
+A medida que Mercurio, tu planeta guía, entra a tu signo el martes, puede que veas que tu innata curiosidad se despierta con nuevas ideas y oportunidades. Puede que también quieras examinar tus finanzas y encontrar maneras para ganar más dinero. Pero los sentimientos también pueden intensificarse el viernes, cuando la Luna Llena en tu sector de relaciones hace que las emociones estén a flor de piel. Ve con cuidado, ya que puedes decir o hacer algo de lo que después te arrepientas.
 
 ## Dinero
 
-Esta semana es acerca de los aspectos que afectan dinero y valores. Esto es extremadamente afortunado, dándote la oportunidad de mejorar tus finanzas ahora. Se te está empujando a centrarte en la familia y el romance. Podría ser bueno tomarte un descanso o renovar tu convicción de equilibrar tu vida laboral con tu vida personal.
+Te muerdes las uñas para empezar a trabajar en un nuevo proyecto creativo. Esto pasará, y tu mente será estimulada en todo tipo de interesantes direcciones. Esto también afectará a los niños, parejas románticas, miembros de familia y diversión. Gastar tu dinero en efectivo en estas áreas afirma tu lugar en el mundo y todos los beneficios de tu arduo trabajo.
