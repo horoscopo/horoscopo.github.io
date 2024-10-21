@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 14 de octubre 2024 al 20 de octubre 2024 
-description: Horóscopo semanal cancer 14 de octubre 2024 al 20 de octubre 2024. Quita importancia a las cosas Cáncer, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
+title: cancer 21 de octubre 2024 al 27 de octubre 2024 
+description: Horóscopo semanal cancer 21 de octubre 2024 al 27 de octubre 2024. Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2024-10-14
+ogimg: /images/zodiac/semanal_cancer.png#2024-10-21
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-10-14'
+ lastmod: '2024-10-21'
 ---
 
 
 
-## Quita importancia a las cosas Cáncer, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
+## Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
 
-Se avecinan cosas nuevas Cáncer, algo que te va a remover enterito/a de arriba a abajo, pero antes vas a tener que desprenderte emocionalmente de algunas cosas pendientes. Esta semana vas a estar a tope, no vas a parar ni un solo momento, hay mucho por hacer. Pero por otro lado, igual que vas a tener sorpresas positivas, también hay una que quizás no lo sea tanto pero bueno, como ya no esperas nada de nadie ni nada de nada, tampoco será una gran decepción. Te vuelven a buscar Cáncer, otra vez sí. Y aunque no puedas verlo, por detrás se están manejando los hilos. Pero tú pasa, es más, mejor que ni lo veas, a ti ya no te importa lo que pertenece al pasado pero sí que te jode que aún se esté dando vueltas a algo cuando debió de quedar todo clarísimo. En fin Cáncer, que nadie te robe esta sonrisa esta semana. Trabaja duro, haz las cosas como siempre las haces, a lo grande, bien hechas. Sal con los tuyos y sigue tan positivo como siempre. Y quédate con esas sorpresas que van a darte la vida, que van a alegrarte la existencia, que van a darte chutes de energía bestiales. Esas son las que merecen la pena. El apego emocional se marchará… Primero, porque quieres que se marche…
-Hay una vibración hogareña en el aire, pero puede que sientas que debes analizar un problema que ha estado burbujeando debajo de la superficie. Sin embargo, otras influencias más ligeras y brillantes pueden ayudarte a hacerlo de manera que fomente la cooperación y comprensión. La Luna Llena del 17 de octubre podría ser el momento en que finalmente compartas lo que sientes realmente. Este nivel de honestidad podría sorprender a los demás, pero puede ayudar a relajar el ambiente. Por último, tus amistades pueden ser una influencia inspiradora en este momento.
+Céntrate en tus metas Cáncer, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
+La actividad lunar del lunes podría causar que fluctúes entre la funcionalidad y la frugalidad por un lado y la extravagancia y la generosidad por el otro. Eventualmente encontrarás el equilibrio adecuado. Puede que sientas más motivación a aumentar tus ingresos una vez que Marte entre a tu sector financiero el viernes. Ponte a editar tu currículum e incluye el mayor número de habilidades y talentos que te sea posible. Esto podría ser crucial en ayudarte a encontrar el trabajo perfecto. Más tarde, ¡un mensaje romántico podría poner una sonrisa en tu cara!
 
 ## Dinero
 
-Tú necesitas asegurarte de que tus emociones estarán protegidas tanto como tu cuerpo. Ahora, las emociones son aún más importantes. Debido a que ciertos aspectos afectan tu sector de romance, niños y diversión, se trata de áreas que podrían ser aprovechadas para obtener ingresos adicionales y satisfacción emocional. Una nueva idea puede proporcionarte la manera de salirte de tu empleo actual a favor de algo que tiene un significado mayor para ti.
+Estás tratando de expresarte más en lo que se refiere a trabajo y dinero ahora. Es el momento perfecto para hablar acerca de tus prioridades y que se te escuche en lo que se refiere a dinero en efectivo. No dejes que alguien más en el trabajo o en una relación estrecha sea demasiado dominante con sus ideas sobre el dinero. Juntos, pueden mover montañas – a solas, no tanto.

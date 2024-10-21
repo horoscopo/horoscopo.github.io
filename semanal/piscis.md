@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 14 de octubre 2024 al 20 de octubre 2024 
-description: Horóscopo semanal piscis 14 de octubre 2024 al 20 de octubre 2024. Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
+title: piscis 21 de octubre 2024 al 27 de octubre 2024 
+description: Horóscopo semanal piscis 21 de octubre 2024 al 27 de octubre 2024. No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2024-10-14
+ogimg: /images/zodiac/semanal_piscis.png#2024-10-21
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-10-14'
+ lastmod: '2024-10-21'
 ---
 
 
 
-## Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
+## No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
 
-Estás alcanzando una madurez Piscis, y no es que antes fueras inmaduro no, pero ahora estás aprendiendo a alejarte de las personas y situaciones que amenazan tu paz mental, el respeto, los valores, la moral y tu amor propio. Y eso está bien pero aún así, a pesar de que te has alejado de eso, hay momentos en los que, inevitablemente vuelves a caer, aunque no sean las mismas situaciones ni las mismas personas. No puedes presumir de haber superado ciertas cosas para repetir después los mismos errores. Eres fuerte Piscis y sea cual sea el estrés, el dolor o el odio que puedas sentir esta semana respira profundo y deja que se vaya, y no te enzarces con nadie, no vas a cambiar las cosas. Un pensamiento negativo puede arruinar mil vibraciones positivas. No pierdas más el tiempo. Organiza tu semana y ves paso por paso, organiza tu vida y trátate bien y con respeto. Si te valoras a ti mismo y te cuidas, el resto también lo hará. Y hay algo muy importante que debes saber esta semana, no cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás. Y no detengas ni frenes tu vida ahora.
-El seductor Venus forma unos aspectos importantes esta semana. De hecho, los días hasta el jueves inclusive podrían reavivar el romance de una relación a largo plazo o hacer que una conexión nueva se vuelva más íntima. Sin embargo, la luna llena del jueves podría hacerte mantener en privado algunos sentimientos entre tú y otra persona. Se divierten mucho juntos, y nadie más necesita enterarse. Este fin de semana podría sacar a la luz un lado más serio de tu personalidad, cuando tomar conciencia podría traer recompensas.
+Está bien hacerse ilusiones Piscis, pero hazte ilusiones que sean reales por favor. Pon los pies en la tierra y vive y disfruta un poco del presente, a veces parece que te olvidas de donde estás y te vas a momentos que todavía no han llegado, lo peor es que no siempre son momentos buenos si no que tu mente se pone en lo peor. Esta semana tendrás días buenos y malos, tendrás días en los que estés muy arriba y otros muchos en los que querrás que nadie se acerque a ti. Tendrás que tomar decisiones que te lleven a cosas positivas Piscis, cosas en realidad de provecho. Te llegan dudas, sobretodo en el amor, no confías del todo en que las cosas cambien pero debes poner en una balanza los momentos positivos y los negativos de todo y en base a eso decidir qué es lo que más te interesa. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada Piscis. Controla tu carácter y en vez de enfadarte con el mundo busca soluciones porque si te enfadas pero te quedas donde siempre has estado no valdrá para nada. Enfádate con razón, con motivos, y después haz algo al respecto. Hay algunas cosas en la vida que simplemente no tienen sentido, pero tendrás que tener fe de que han pasado por alguna razón… No te agobies demasiado.
+Puede que estés de humor para salir a comprar regalos. Pero si lo haces el lunes y te topas con algunas rebajas, es probable que exudas generosidad y gastes más de lo que habías planeado. Aun así, te recordarán y elogiarán por haberlo hecho. Si estás preparando alguna reunión para la próxima semana, es de suma importancia anotar todo. Las conexiones entre el conversador Mercurio, el glorioso Venus y el etéreo Neptuno sugieren que puedes cometer errores a menos que tengas cuidado. Sería prudente mantener un enfoque tranquilo durante el fin de semana.
 
 ## Dinero
 
-Estás pensando en cómo hacer que tu lado masculino y femenino se encuentren ésta semana. Uno quiere que avances en tus habilidades de comunicación para que puedas mantenerte a la misma altura de los grandes. No tienes que dejar que los demás te dominen verbalmente. Tu lugar de trabajo es el área en la que debes demostrar la creatividad con la que estás hecho/a.
+Esta semana tiene algunas sorpresas para ti. Ciertos aspectos de tu sector profesional te exhortan a poner mucha energía y esfuerzo aquí. Puede ser que estés mucho más ocupado/a que de costumbre y bajo presión de entregas. En pocas palabras, no tendrás mucho tiempo para la diversión. Sin embargo, te podría sorprender el encontrar que has gastado más de lo previsto y necesitas ajustar tus patrones de gasto.

@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: libra 14 de octubre 2024 al 20 de octubre 2024 
-description: Horóscopo semanal libra 14 de octubre 2024 al 20 de octubre 2024. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
+title: libra 21 de octubre 2024 al 27 de octubre 2024 
+description: Horóscopo semanal libra 21 de octubre 2024 al 27 de octubre 2024. Deberías empezar a poner las cosas claras Libra, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2024-10-14
+ogimg: /images/zodiac/semanal_libra.png#2024-10-21
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-10-14'
+ lastmod: '2024-10-21'
 ---
 
 
 
-## No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
+## Deberías empezar a poner las cosas claras Libra, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
 
-Al final, sólo te lamentarás de las posibilidades que no tomaste Libra así que, empieza a hacer todo lo que deseas. Cada día debes tratar de ser feliz como sea, y a veces, esas cosas que te hacen feliz son pequeñas, son detalles, son momentos… Cada día tienes una oportunidad, aprovecha tu tiempo Libra. No te estanques en lo que salió mal, en lugar de eso, concéntrate en buscar soluciones, en buscar respuestas, y si no las encuentras en ese momento pasa a otra cosa, ya llegarán, pero no desaproveches ni un segundo más.
-Podrías sentir como si estuvieras a punto de experimentar un nuevo amanecer. La Luna Llena de esta semana en tu sector de comunicación sugiere que es hora de explorar nuevas oportunidades para interactuar, hacer nuevos contactos y valiosas conexiones. Con Marte entrando a tu sector de relaciones, sentirás inspiración para explorar formas de asociarte con otras personas por razones ya sea de negocios o placer. Este fin de semana, puede que tengas que tomarte tu tiempo, ya que varios aspectos sugieren que sería mejor que no te precipitaras a tomar decisiones clave.
+Esta semana te apetece hacer cosas nuevas, has dejado la idea de tener que estar siempre pendiente de los demás, de tener incluso que buscar soluciones para la vida de todo el mundo menos para la tuya. 
+ A veces, te aferras a momentos de felicidad pasajera Libra, pero sin embargo, esos momentos no son productivos ni significativos para ti. Y al final, se quedaban en momentos superficiales que después restaban mucho más de lo que sumaban.
+La actividad lunar ilumina tu sector de ocio y placer, acentuando actividades que te encantará disfrutar. Tales pudiendo tratarse de un enlace romántico, interés creativo, un deporte o una actividad cultural. Sin embargo, ten cuidado, ya que podías terminar actuando bajo impulso, especialmente cuando se trate de romance; lo que podría causar que hagas algo que pudieras lamentar más tarde. El final de la semana podría ser excelente para orientarte con respecto a un puesto de trabajo o meta profesional. Tus amigos podrían tentarte a salir el domingo.
 
 ## Dinero
 
-El dinero puede ser un punto de fricción para ti. Por un lado, deseas la seguridad que el dinero puede proporcionarte. Por otro lado, quieres sentirte en control, y el dinero es raramente controlable. La buena noticia es que hay un montón de energía positiva concentrada en tu sector de dinero. Con acción y un poco de suerte, debería ser fácil ganar dinero en este momento.
+Para ti, el dinero puede ser más que una recompensa por tu trabajo bien hecho. Ahora, el dinero puede convertirse en una manera de conectarse a vidas pasadas, sueños, y a las partes efímeras de la vida. Si has estado albergando en tu mente una idea de algo que preferirías hacer para ganarte la vida, este periodo puede proporcionarte el impulso necesario para que esto ocurra en la realidad. Los sueños pueden hacerse realidad bajo estas condiciones.

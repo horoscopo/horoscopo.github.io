@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 14 de octubre 2024 al 20 de octubre 2024 
-description: Horóscopo semanal sagitario 14 de octubre 2024 al 20 de octubre 2024. Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no Sagitario. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
+title: sagitario 21 de octubre 2024 al 27 de octubre 2024 
+description: Horóscopo semanal sagitario 21 de octubre 2024 al 27 de octubre 2024. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Sagitario, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2024-10-14
+ogimg: /images/zodiac/semanal_sagitario.png#2024-10-21
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-10-14'
+ lastmod: '2024-10-21'
 ---
 
 
 
-## Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no Sagitario. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
+## No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Sagitario, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
 
-Sin querer, y a veces queriendo y siendo consciente te pones ataduras a algunas personas que son dañinas para ti. Y sabiendo que pueden tirar de ti y hacer lo que les de la gana no te sueltas, no utilizas la llave para abrir esos grilletes y ser libre.
-A medida que Mercurio, tu planeta guía, entra a tu signo el martes, puede que veas que tu innata curiosidad se despierta con nuevas ideas y oportunidades. Puede que también quieras examinar tus finanzas y encontrar maneras para ganar más dinero. Pero los sentimientos también pueden intensificarse el viernes, cuando la Luna Llena en tu sector de relaciones hace que las emociones estén a flor de piel. Ve con cuidado, ya que puedes decir o hacer algo de lo que después te arrepientas.
+Y es cierto, en parte, pero a la vez, en tu interior cargas con cosas que de verdad, ya no merecen la pena. 
+ La gente es como es y no debes martirizarte por ello Sagitario.
+El Sol ocupando tu signo te otorga una mayor vitalidad y energía. Aun así, a menos que sientas mucho interés o pasión por algo, puede que te resulte difícil ponerlo en marcha. Esta semana, trabaja en esos proyectos e ideas que significan mucho para ti. Esto no quiere decir que debas olvidarte de tus responsabilidades, debes de hacer todo lo posible por cumplirlas. Pero cuando tengas tiempo, trabajar en tus proyectos favoritos puede ser profundamente gratificante, no sólo ahora sino también en el futuro.
 
 ## Dinero
 
-Te muerdes las uñas para empezar a trabajar en un nuevo proyecto creativo. Esto pasará, y tu mente será estimulada en todo tipo de interesantes direcciones. Esto también afectará a los niños, parejas románticas, miembros de familia y diversión. Gastar tu dinero en efectivo en estas áreas afirma tu lugar en el mundo y todos los beneficios de tu arduo trabajo.
+Para ti esta semana es sobre la creatividad, el amor, la agresión y el salir adelante. Tienes una ventana de tiempo para hacerte cargo de viejos asuntos y para investigar si es mejor mantener, comprar o vender inversiones compartidas. Sin embargo, sabes bien lo que quieres y esta semana tienes la capacidad de gastar pródigamente en diversión familiar.

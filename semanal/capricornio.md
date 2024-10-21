@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 14 de octubre 2024 al 20 de octubre 2024 
-description: Horóscopo semanal capricornio 14 de octubre 2024 al 20 de octubre 2024. Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
+title: capricornio 21 de octubre 2024 al 27 de octubre 2024 
+description: Horóscopo semanal capricornio 21 de octubre 2024 al 27 de octubre 2024. Tienes la semana agitada Capricornio. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2024-10-14
+ogimg: /images/zodiac/semanal_capricornio.png#2024-10-21
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-10-14'
+ lastmod: '2024-10-21'
 ---
 
 
 
-## Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
+## Tienes la semana agitada Capricornio. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
 
-A veces dejar ir las cosas es mucho más complicado de lo que piensas Capricornio. No vas a encontrar el momento definitivo nunca, no vas a cerrar la puerta de golpe y creer que ya lo tienes superado. Así nada termina bien. Quieres tener seguridad Capricornio, y te aferras deprisa a las cosas pero si miras a tu alrededor sabes que hay piezas que no encajan en el puzzle, que a veces incluso todo parece un teatro, que estás dejando pasar algo en lo que no crees. Pero no querrás dejar ir tan fácilmente, piensas que si lo mantienes todavía lo tienes, que si lo mantienes, todavía existe. Y claro que existe pero no como antes y no como quieres Capricornio. Si hay cosas que fallan repara la grietas o trata de hacerlo, pero no pienses que se podrán reparar solas. Si tienes que plantar cara y dejar sobre la mesa cuáles son tus intenciones y lo que esperas, hazlo. Está bien que creas que muchas cosas van perfectamente pero Capricornio, sabes de sobra que no van tan perfectamente, que hay que arreglar mucho. En serio Capricornio, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo? No te ates tanto, no te creas que el mundo es como tú lo ves en un momento dado. Capricornio, la realidad no es la que tú quieres pintar ahora. Hay promesas rotas y futuros que no se van a dar, pero cuando te des cuenta no te pongas triste, mírate al espejo y sonríe, sonríe por ser quien eres. Y si tienes que llorar que sea por ti mismo, y de emoción, por darte cuenta de todo, por ser valiente.
-Esta podría ser una interesante semana en la que el eclipse solar en tu signo puede traerle energía fresca a tu vida. Este eclipse, que se produce el jueves, podría animarte a dar un paso en una dirección que deseas seguir desde hace mucho tiempo. Los eventos pueden conspirar para que llegues allí incluso si sientes que no te has preparado. Pronto te acostumbrarás a vivir a otro nivel y te dará gusto haber aprovechado esa oportunidad. El enfoque cambia el fin de semana, lo que te anima a invertir en algunos mimos para ti.
+Se avecinan cambios Capricornio, cambios grandes. Estás en una etapa un tanto selectiva, no te conformas con poco, a veces no te conformas con nada. Y estás en tu derecho. De verdad, ya era hora de que callaras la boca a más de uno que lleva intentando joderte la vida un tiempo. No pasas ni una Capricornio, y no la pasas porque no te da la gana, porque ya has aguantado demasiadas cosas. Porque, en el fondo, pensabas que todo podría cambiar, que, como tú, las personas se dan cuenta de los errores que cometen y dan marcha atrás para intentar solucionarlos. Pero no Capricornio. No todo el mundo es como tú. Así que, si esta semana piensan que eres un estúpido borde que lo piensen, si creen que has cambiado y que pasas de todo que lo crean. No estás para dar explicaciones a nadie, que la gente piense lo que le de la gana. Ves a tu rollo, mantén a cabeza bien alta y si no eres delicado en tus formas que traten de pensar que puede ser por alguna razón. Pero que se quiebren la cabeza. En serio, no necesitas volver a retomar conversaciones una y otra vez para acabar siempre en lo mismo. Deja de obsesionarte por el resto, deja de ponerles siempre primero antes que a ti. Todos tenemos un límite. Y es normal que el tuyo haya llegado ya. Feliz semana Capricornio.
+Si has tenido un desacuerdo con alguien o necesitas renegociar un acuerdo, la mezcla de energías de esta semana puede ayudar a hacer precisamente eso. Ya seas tú o alguien más quien dé el primer paso, la disposición a escuchar y encontrar un compromiso que funcione para todos puede ponerlo todo de vuelta a la normalidad. Con el suertudo Júpiter avanzando en tu sector de amistad y sueños, es posible que ganes terreno al unirte a grupos que compartan tus intereses. ¡Reiniciar una vieja membresía también podría probar ser productivo!
 
 ## Dinero
 
-Podrías estar mas ocupado/a en el trabajo que de costumbre cuando las responsabilidades de ciertas personas caigan en tus manos. En la cumbre de la locura, ponte a tono con tus más crudas ambiciones y pregúntate: ¿Qué tan alto quieres llegar en esta empresa? Si la respuesta es no, sabes que tienes muchas ideas propias. Tal vez prefieras invertir un poco de dinero en comenzar un negocio nuevo. Los viajes, la educación, la metafísica, la publicación, la ley, son algunos de los campos que te pudieran interesar.
+El Universo está poniendo de relieve tu sector profesional y ayudándote a tener la energía necesaria para el crecimiento. Puede que revisites una antigua idea o proyecto que habías abandonado y descubras que ahora es el momento perfecto para hacerlo realidad. Podrías percatarte de que tus sueños o destellos intuitivos son particularmente útiles para dar con algo que nadie ha visto nunca antes.

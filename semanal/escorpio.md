@@ -1,27 +1,29 @@
 ---
 layout: horoscopos
-title: escorpio 14 de octubre 2024 al 20 de octubre 2024 
-description: Horóscopo semanal escorpio 14 de octubre 2024 al 20 de octubre 2024. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
+title: escorpio 21 de octubre 2024 al 27 de octubre 2024 
+description: Horóscopo semanal escorpio 21 de octubre 2024 al 27 de octubre 2024. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2024-10-14
+ogimg: /images/zodiac/semanal_escorpio.png#2024-10-21
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-10-14'
+ lastmod: '2024-10-21'
 ---
 
 
 
-## Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
+## Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
 
-Tienes que enderezar un poco tu vida Escorpio, y dejar de lado algunas inseguridades, de hecho, serás más feliz cuando empieces a creerte lo que vales de verdad, lo que puedes llegar a conseguir y sobretodo lo que te mereces. En realidad debes encontrar esa seguridad en tu día a día y no dejar que nadie te la arrebate. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte. No necesitas a nadie para ser feliz pero si están cerca de ti sí que necesitas que cuiden también de tu vida como tu haces con ellos. Últimamente has asumido cosas que no te pertenecen, has perdonado y has tratado de olvidar para mantener un equilibrio pero a veces no se trata de eso, se trata de rebelarte, se trata de dejar las cosas claras a más de uno y sobretodo de estar en paz contigo mismo, de respirar. Aprecias la sencillez y odias pelear, así que, ¿para qué peleas? No te preocupes innecesariamente por nada ni por nadie, y si estás un poco estresado o abrumado tómate unos días, relaja la mente y vuelve para continuar lo que sea que tengas. Es posible que necesites un poco de espacio, y no es malo, simplemente es eso, necesario.
-La mezcla de energías de esta semana te anima a poner tu hogar en orden, literal y figurativamente. Ponte a trabajar en proyectos hogareños importantes y maneja los conflictos familiares sabiamente. Tener invitados podría ser muy divertido, a pesar de uno o dos obstáculos que pudieran surgir. Más tarde, el enfoque se desplaza hacia divertidas oportunidades. No tendrás que ir muy lejos en busca de emoción - la puedes encontrar en tu mismo vecindario. Considera la posibilidad de un nuevo restaurante u otro lugar para un día o noche de diversión.
+Ya tienes demasiados quebraderos de cabeza como para encima entrar en una etapa de poco orgullo. Nada de eso. 
+ La gente cree que estarás siempre ahí, y es que eres muy leal a los tuyos, y es que has dejado pasar errores grandes que te han costado muchos disgustos, errores que en otros momentos los hubieras hecho pagar caros. ¿Qué te pasa Escorpio? 
+ todo lo que desea.
+Este es un excelente momento para apoderarte del centro de atención y mostrar tus habilidades y capacidades. El Eclipse Solar en tu sector de creatividad, romance y autoexpresión podría convertirse en algo muy emocionante. Si tienes talentos que has explotado poco, es posible que se te ofrezca una oportunidad para promoverlos que podría conducirte a una obtener mayor publicidad en el futuro. Alternativamente, una historia de amor podría volverse más apasionada e intensa. En ese caso, sin embargo, no te precipites. Tómate tu tiempo y espera un par de semanas antes de involucrarte.
 
 ## Dinero
 
-Para ti, esta semana es sobre la necesidad imperiosa de comunicar tu experiencia al escribir, enviar mensajes de texto, enviar correos electrónicos o para hablar. Todos estos esfuerzos pueden dar dinero en efectivo en el futuro. Pero esta semana, un fuerte campo de energía requiere que cuides de los problemas en el trabajo. Tu trabajo puede estar pasando por enormes cambios ahora. El luchar contra ellos, o decidir abandonar el barco no dará los resultados que buscas. Ve con los cambios lo mejor que puedas.
+Ciertos aspectos afectan tu sector de carrera y de autoridad, demostrando que lo que aportas a la mesa es un conocimiento profundo de tu trabajo, así como un comportamiento profesional. La actividad en el sector de tu carta que afecta a tu potencial de ingresos dice que está cambiando para bien. Con un poco de paciencia, puede ser todo lo que quieres que sea en el futuro.
