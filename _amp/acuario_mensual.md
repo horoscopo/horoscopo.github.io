@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Acuario Octubre 2024 
+title: Horoscopo Acuario Noviembre 2024 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Acuario_mes.png#2024-10-01
+ogimg: /images/mes/Acuario_mes.png#2024-10-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-10-01'
+ lastmod: '2024-10-26'
 ---
 
 

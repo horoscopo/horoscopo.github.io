@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Leo Octubre 2024 
+title: Horoscopo Leo Noviembre 2024 
 permalink: /horoscopo-mensual/amp/leo/
 normallink: /horoscopo-mensual/leo/
 home: FALSE
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Leo_mes.png#2024-10-01
+ogimg: /images/mes/Leo_mes.png#2024-10-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-10-01'
+ lastmod: '2024-10-26'
 ---
 
 

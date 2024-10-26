@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Sagitario Octubre 2024 
+title: Horoscopo Sagitario Noviembre 2024 
 permalink: /horoscopo-mensual/amp/sagitario/
 normallink: /horoscopo-mensual/sagitario/
 home: FALSE
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Sagitario_mes.png#2024-10-01
+ogimg: /images/mes/Sagitario_mes.png#2024-10-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-10-01'
+ lastmod: '2024-10-26'
 ---
 
 

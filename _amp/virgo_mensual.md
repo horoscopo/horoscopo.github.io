@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Virgo Octubre 2024 
+title: Horoscopo Virgo Noviembre 2024 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Virgo_mes.png#2024-10-01
+ogimg: /images/mes/Virgo_mes.png#2024-10-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-10-01'
+ lastmod: '2024-10-26'
 ---
 
 
