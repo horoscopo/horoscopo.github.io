@@ -9,16 +9,19 @@ keywords: horóscopo noviembre, horoscopos en español, horóscopo Leo noviembre
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/leo_mes.png#2024-10-26
+ogimg: /images/mes/leo_mes.png#2024-10-27
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-10-26'
+ lastmod: '2024-10-27'
 ---
 
 
- > Leo, si quieres mejorar tu vida sentimental deja de perder el tiempo con personas con las que no fluyes. Venus en tu signo aumenta tu magnetismo y no te será difícil atraer a los demás, pero debes elegir correctamente. Si notas cambios en el ambiente laboral no te agobies y dale una oportunidad a lo nuevo.
+ > Leo, parece que ha llegado la hora de que noviembre sea el mes en el que empieces a creértelo más, así que, sal ahí con la cabeza bien alta porque verás oportunidades donde los demás no ven nada y, además, podrás con todo lo que te venga.
 
 
 
-El amor podría encontrarte el 2 de octubre, cuando Mercurio forme sextil con Plutón y la Luna conjunte a Venus. Acurrúcate y lee un buen libro o ve una buena película durante la manifestación de la Luna Llena del 17 de octubre. Date un capricho y no sientas soledad. La gente está a sólo un texto, después de todo. Invita a alguien a acompañarte, si es necesario. La actividad lunar del 29 de octubre te traerá fantásticas posibilidades románticas. Y vaya que no serán posibilidades aburridas. Es hora de encontrar un romance real, práctico y sólido con alguien inteligente y nunca aburrido. Esto incluye la posibilidad de revivir una relación actual o anterior. Puedes ser tú quien dé el primer paso, pero después, déjate romancear.
+Dinero y oportunidades de ingreso aparecen en tu camino durante la luna nueva del 15 de noviembre. Descubre formas más fáciles de hacer lo que ya haces. Las personas también quieren que lo hagas por ellas, y están listas para ser generosas. El día 23, el trígono entre el sol y Marte te da más energía que la mayoría. Interactúa con mucha gente y tal vez involúcrate en algún nuevo proyecto. Para la luna llena del 15 de noviembre, intenta algo nuevo o ve a algún lugar aventurero. Puedes pasar horas viendo diarios de viajes, pero hay buenas probabilidades de que quieras salir y absorber la cultura. 
+
+Días destacados: 5, 15, 24
+Días desafiantes: 12, 16

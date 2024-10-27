@@ -9,20 +9,19 @@ keywords: horóscopo noviembre, horoscopos en español, horóscopo Escorpio novi
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/escorpio_mes.png#2024-10-26
+ogimg: /images/mes/escorpio_mes.png#2024-10-27
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-10-26'
+ lastmod: '2024-10-27'
 ---
 
 
- > Escorpio, la influencia de la luna llena este mes te hará reconocer tus sentimientos y con los de los demás. Tendrás que tomar algunas decisiones complicadas, pero esta energía te ayudará a tomar el camino correcto. No permitas que las emociones de nadie se vean perturbadas y no te involucres en peleas innecesarias con las personas a tu alrededor estas semanas.
+ > Escorpio, este mes puedes volver a sentir interés por viejos amigos o relaciones, pero debes recordarte tus límites. En el trabajo encontrarás el apoyo que necesitas. Enfócate en relacionarte con personas que te entiendan y puedan animarte en lugar de caer en energías que no te llevan a ninguna parte.
 
 
 
-Puede que este mes te encuentres recorriendo un nuevo camino espiritual, querido Escorpio, ya que Júpiter y el Nodo Norte se alinean el 1 de octubre. Haz todo lo posible por aprovechar la energía que fluye a través de ti y a tu alrededor, porque hacerlo te proporcionará momentos de iluminación que pueden ayudarte a guiarte hacia un mañana mejor. Esté atento a las señales y sincronicidades cuando Mercurio se alinee con Urano el 4 de octubre. Podrían desencadenar descargas psíquicas, epifanías profundas y mensajes del más allá.
-Podrías sentir que tu corazón se cierra cuando Venus entre en Leo el 5 de octubre, especialmente si has estado trabajando para superar un dolor o una pena. Esta colocación planetaria tiene que ver con tomarse el tiempo necesario para procesar emociones o disgustos, acercándose a lugares sensibles de su mente desde un lugar de profunda compasión y amor propio. Por suerte, te resultará más fácil centrarte en el presente y establecer nuevos límites o barandillas para ti cuando Mercurio entre en Géminis el día 11, activando tu décima casa solar. Esta energía también es ideal para esbozar estrategias profesionales, proporcionándote una distracción muy necesaria.
-El verano hace su debut cuando el Sol migra hacia el sensible Escorpio el 24 de octubre, ayudándote a sentirte más conectado y en sintonía con tu comunidad. El intercambio emocional se producirá con facilidad en este momento, siendo la ocasión perfecta para unirse a una sesión de meditación, una clase de interés especial o un grupo de apoyo. Recuerda que no tienes que moverte solo por esta vida, especialmente cuando Mercurio se mueva al signo del Cangrejo el día veintiséis, instándote a compartir lo que hay en tu corazón.
-Días destacados: 9, 17, 27
-Días desafiantes: 8, 15, 25
+El 5 de noviembre, el sol forma una conjunción con Mercurio en Géminis. Tu intuición es aguda, y tu interés en el mundo es grande. Mira lo que puedes encontrar. La profesión se ve resaltada durante la luna llena del día 15. Tal vez sea un buen momento para un gran cambio o varios ajustes pequeños. Sé flexible y razonable, y escucha a los demás tanto como hablas. Trabajo y diversión pueden superponerse con la actividad lunar del 27 de noviembre. Tómate en serio una pasión personal, y ten entusiasmo por una tarea que necesita cumplirse. Siéntete bien con todo tu progreso, y ten en cuenta que las cosas pasarán cuando llegue el momento adecuado. 
+
+Días destacados: 1, 12, 28
+Días desafiantes: 6, 23
