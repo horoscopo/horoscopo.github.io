@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 21 de octubre 2024 al 27 de octubre 2024 
-description: Horóscopo semanal escorpio 21 de octubre 2024 al 27 de octubre 2024. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
+title: escorpio 28 de octubre 2024 al 03 de noviembre 2024 
+description: Horóscopo semanal escorpio 28 de octubre 2024 al 03 de noviembre 2024. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2024-10-21
+ogimg: /images/zodiac/semanal_escorpio.png#2024-10-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-10-21'
+ lastmod: '2024-10-28'
 ---
 
 
 
-## Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora.
+## A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
 
-Ya tienes demasiados quebraderos de cabeza como para encima entrar en una etapa de poco orgullo. Nada de eso. 
- La gente cree que estarás siempre ahí, y es que eres muy leal a los tuyos, y es que has dejado pasar errores grandes que te han costado muchos disgustos, errores que en otros momentos los hubieras hecho pagar caros. ¿Qué te pasa Escorpio? 
- todo lo que desea.
-Este es un excelente momento para apoderarte del centro de atención y mostrar tus habilidades y capacidades. El Eclipse Solar en tu sector de creatividad, romance y autoexpresión podría convertirse en algo muy emocionante. Si tienes talentos que has explotado poco, es posible que se te ofrezca una oportunidad para promoverlos que podría conducirte a una obtener mayor publicidad en el futuro. Alternativamente, una historia de amor podría volverse más apasionada e intensa. En ese caso, sin embargo, no te precipites. Tómate tu tiempo y espera un par de semanas antes de involucrarte.
+El mundo no te entiende Escorpio, ya estás acostumbrado a eso, pero no te frustres, en serio no te frustres. Ha llegado un momento en el que ya no quieres las cosas a medias, o te lo dan todo o mejor que no te den nada. Estás harto de hacerte ilusiones que después no se cumplen, estás harto de depender siempre de la felicidad de los demás, de sus decisiones… Y te has dado cuenta de que vales mucho, de que si el resto no es capaz de valorar lo que podrías llegar a dar no es problema tuyo. Ahora sí sabes lo que vales Escorpio, ahora sí sabes lo que mereces. A pesar de que ahora sea todo o nada ni siquiera necesitas eso del resto, ¡qué va! Porque las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz. Quieres “sobrevivir” en el mundo sin necesidad de nadie, sin necesidad de nada que te ate y te corte las alas, sin broncas, sin malos rollos, sin dramas ni peleas. Cuando te metes en bucles así no avanzas y si no avanzas te estancas, y si te estancas dejas de ser feliz. Ya has estado en el fondo mucho tiempo Escorpio, ahora que has salido no vuelvas a caer. No eres de hierro no, pero procura serlo esta semana, aunque sea complicado. Descúbrete a ti mismo y descubre tu misión en la vida, y hazlo solo, y en vez de darle vueltas a lo malo, quédate con los buenos momentos, con lo que de verdad no falla.
+Tendrás ganas de explorar el potencial de una idea que te llevaría a descubrir un nuevo territorio. Este podría ser un plan importante que te convendrá explorar con alguien más. Sin embargo, no te preocupes por los detalles ahora porque podría atrasar el proceso. Concéntrate en el panorama general. Ya tendrás tiempo para pulir tus planes. El viernes es una fantástica oportunidad para asistir a un evento social que realmente disfrutarás, ya sea una cita o solo una ocasión divertida.
 
 ## Dinero
 
-Ciertos aspectos afectan tu sector de carrera y de autoridad, demostrando que lo que aportas a la mesa es un conocimiento profundo de tu trabajo, así como un comportamiento profesional. La actividad en el sector de tu carta que afecta a tu potencial de ingresos dice que está cambiando para bien. Con un poco de paciencia, puede ser todo lo que quieres que sea en el futuro.
+Te encuentras en un momento de aumento de actividad social, lo que puede ayudar a cualquier empresa de negocios puesta en marcha recientemente. Con cierto enfoque en grupos, política y negocios personales, estás a punto de hacer un gran cambio en tu vida; uno que puede acabar afectando la forma en la que vives. Es más fácil comunicarse con grupos acerca de tus ideas y de influir en la opinión pública a tu favor.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 21 de octubre 2024 al 27 de octubre 2024 
-description: Horóscopo semanal leo 21 de octubre 2024 al 27 de octubre 2024. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Leo.
+title: leo 28 de octubre 2024 al 03 de noviembre 2024 
+description: Horóscopo semanal leo 28 de octubre 2024 al 03 de noviembre 2024. Llega una buenísima semana Leo pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2024-10-21
+ogimg: /images/zodiac/semanal_leo.png#2024-10-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-10-21'
+ lastmod: '2024-10-28'
 ---
 
 
 
-## Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Leo.
+## Llega una buenísima semana Leo pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada.
 
-Tienes grandes planes Leo, el problema es que tienes que pensar muy bien con quién quieres tener esos planes, con quien quieres disfrutarlos. Un día estás bien, pero después estás tres mal y eso sólo es mierda que se va acumulando constantemente en tu vida. Decide qué es lo que quieres hacer y con quien quieres compartir tus logros. Esta semana estás un poco así como que te da igual todo, que no es que te de igual en el fondo, pero no te implicas de la misma manera en la que lo hacías unas semanas antes. Cuando te propones algo vas con ello hasta el final, el problema es que quizás ahora ya no te motiva como antes nada, quizás no quieres arriesgar por nadie, quizás no te merece tanto la pena como creías… No te preocupes Leo, si esta semana estás un poco más apático con el mundo no pasa nada. Tienes tu derecho a no querer hacer nada, a pasar un poco de todo. De hecho, pasar un poco de todo es lo que te hará ver las cosas desde fuera, lo que te hará ser más objetivo. Esta semana abrirás los ojos, verás qué merece la pena, qué puedes perder, qué debes ganar, de qué debes pasar… Y si no eres el/la mismo/a de antes con los demás, que aprendan a valorarte un poco más. Ya verás como vuelve el Leo de siempre…
-Puede que un hobby o pasatiempo que solías disfrutar vuelva a ser el centro de atención si buscas retomarlo. Si lo disfrutas, ¿por qué no hacerlo? La actividad lunar del Jueves puede ser una oportunidad para comenzar un proyecto creativo o un plan empresarial que vienes evaluando hace tiempo. La víspera del fin de semana podría ser un momento interesante cuando el vínculo entre Marte y Neptuno te lleve a disfrutar de una velada romántica con tu pareja o a relajarte con una amistad.
+Vives tanto con tantísima intensidad que a veces te olvidas de la realidad, de lo que aún tienes pendiente, de lo que necesitas conseguir y sobretodo de lo que necesitas cerrar y zanjar. Y es que Leo, cuando las cosas empiezan a ir un poquito mejor se te olvida todo lo malo por lo que has pasado, por lo que te han hecho pasar. Y estás bien, porque así es como vives el presente, el minuto, el momento, pero a la vez si después viene otra golpe, vuelve a doler. Lo que pasa es que ya no duele igual, ya duele menos, porque te insensibilizas, y eso en realidad no es del todo bueno. Es como si lo esperaras, como si ya supieras que después de una discusión vendrá una reconciliación, con todo, con la gente que está a tu alrededor, con tu vida. Y todo se repite, una y otra vez, y no sales de ese círculo, y lo que antes te rompía el corazón ya no te rompe, porque sabes lo que vendrá después, y así todo el tiempo. Y eso se llama conformismo Leo. ¿Hace cuanto no te paras a pensar solo si realmente eres feliz con lo que tienes? En la vida puedes estar contento con muchas cosas que no van mal a tu alrededor, pero también tienes que saber cuáles son las que van mal para cambiarlas. Porque aunque no lo creas, una manzana podrida en el cesto puede pudrir las demás si no se saca a tiempo. Y es que, tienes que hacer una limpia en tu vida, no puedes pensar que “bueno, en la vida hay cosas buenas y cosas malas”, claro que es así, pero ahí estás tu para poder cambiar las malas. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Leo.
+A pesar de que siempre es bueno actuar con inspiración, no actúes impulsivamente en referente a una idea financiera. En esta ocasión podías estar induciéndote a un error. Hay un delicioso trígono entre Venus en tu signo y Marte en Sagitario, sugiriendo que el romance es posible si te sales de tu zona de confort. Este fin de semana, mantén los ojos bien abiertos a una oportunidad que podría dar lugar a un nuevo y emocionante desarrollo profesional. Por último, se te podría obligar a posponer algunos planes de viaje.
 
 ## Dinero
 
-Algunos aspectos afectando tus vidas pasadas, sueños y karma liberan tus ideas más interesantes e individualistas. Lo que pudo estar bloqueado por obstáculos en el pasado se vuelve más libre y más fácil de conseguir ahora. Algunas de tus mejores ideas pueden surgir de tu subconsciente. Se te podría pedir que consideres trabajar desde casa o traer dinero extra mediante el uso de tu casa de manera creativa. Es tu decisión.
+Es una gran semana para pensar y planificar. El Universo indica un tiempo de gran actividad mental. Es un momento de gran oportunidad, a partir de los pasos que tendrás que tomar para realizar tus sueños financieros a darte crédito por cosas que ya has logrado. Cierta actividad en tu sector de aprendizaje te llama para que tomes una clase de algo que te inspire.

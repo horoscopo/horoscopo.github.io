@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 21 de octubre 2024 al 27 de octubre 2024 
-description: Horóscopo semanal capricornio 21 de octubre 2024 al 27 de octubre 2024. Tienes la semana agitada Capricornio. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
+title: capricornio 28 de octubre 2024 al 03 de noviembre 2024 
+description: Horóscopo semanal capricornio 28 de octubre 2024 al 03 de noviembre 2024. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2024-10-21
+ogimg: /images/zodiac/semanal_capricornio.png#2024-10-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-10-21'
+ lastmod: '2024-10-28'
 ---
 
 
 
-## Tienes la semana agitada Capricornio. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
+## Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece.
 
-Se avecinan cambios Capricornio, cambios grandes. Estás en una etapa un tanto selectiva, no te conformas con poco, a veces no te conformas con nada. Y estás en tu derecho. De verdad, ya era hora de que callaras la boca a más de uno que lleva intentando joderte la vida un tiempo. No pasas ni una Capricornio, y no la pasas porque no te da la gana, porque ya has aguantado demasiadas cosas. Porque, en el fondo, pensabas que todo podría cambiar, que, como tú, las personas se dan cuenta de los errores que cometen y dan marcha atrás para intentar solucionarlos. Pero no Capricornio. No todo el mundo es como tú. Así que, si esta semana piensan que eres un estúpido borde que lo piensen, si creen que has cambiado y que pasas de todo que lo crean. No estás para dar explicaciones a nadie, que la gente piense lo que le de la gana. Ves a tu rollo, mantén a cabeza bien alta y si no eres delicado en tus formas que traten de pensar que puede ser por alguna razón. Pero que se quiebren la cabeza. En serio, no necesitas volver a retomar conversaciones una y otra vez para acabar siempre en lo mismo. Deja de obsesionarte por el resto, deja de ponerles siempre primero antes que a ti. Todos tenemos un límite. Y es normal que el tuyo haya llegado ya. Feliz semana Capricornio.
-Si has tenido un desacuerdo con alguien o necesitas renegociar un acuerdo, la mezcla de energías de esta semana puede ayudar a hacer precisamente eso. Ya seas tú o alguien más quien dé el primer paso, la disposición a escuchar y encontrar un compromiso que funcione para todos puede ponerlo todo de vuelta a la normalidad. Con el suertudo Júpiter avanzando en tu sector de amistad y sueños, es posible que ganes terreno al unirte a grupos que compartan tus intereses. ¡Reiniciar una vieja membresía también podría probar ser productivo!
+Debes dejar de darle vueltas a situaciones y quizás pensar un poco más en el momento, en como levantar el ánimo en todos los aspectos de tu vida. Tú funcionas así, puedes ser feliz con cosas pero si hay una pequeña situación que se escapa de tus manos todo girará en torno a ella, y te perderás lo bueno que si puedes aprovechar.
+Una conversación sobre una compra podría resultar a tu favor. Con un poco de encanto, es posible que puedas persuadir a tu pareja de que te compre algo que siempre has querido. Cuando el sol se dirige a tu sector de dinero el martes, puede que sea momento de evaluar y ajustar tu presupuesto para que puedas ahorrar dinero. Sin embargo, Mercurio retrocede en tu sector financiero a partir del jueves, de manera que guarda los recibos si compras algo importante o costoso.
 
 ## Dinero
 
-El Universo está poniendo de relieve tu sector profesional y ayudándote a tener la energía necesaria para el crecimiento. Puede que revisites una antigua idea o proyecto que habías abandonado y descubras que ahora es el momento perfecto para hacerlo realidad. Podrías percatarte de que tus sueños o destellos intuitivos son particularmente útiles para dar con algo que nadie ha visto nunca antes.
+Puedes lograr cualquier cosa que te propongas esta semana. ¿Te acuerdas de esa lista de tareas que está  haciendo un agujero en tu bolsillo? Esta es la semana indicada para hacerle frente a los elementos más difíciles. ¡No te puedes negar a hacerlo! La suerte y la creatividad ayudan a que tu vida social explote. Así que, junta a los contactos que tengas para ver cómo se pueden ayudar mutuamente a subir la escalera del éxito. De esta manera, todo el mundo gana.

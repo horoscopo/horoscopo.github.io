@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: libra 21 de octubre 2024 al 27 de octubre 2024 
-description: Horóscopo semanal libra 21 de octubre 2024 al 27 de octubre 2024. Deberías empezar a poner las cosas claras Libra, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
+title: libra 28 de octubre 2024 al 03 de noviembre 2024 
+description: Horóscopo semanal libra 28 de octubre 2024 al 03 de noviembre 2024. Libra, tienes que cambiar un poco el entorno que te rodea, dar nuevas oportunidades a otras personas, cambiar de lugar por un tiempo, cambiar de hábitos. Procura levantarte cada mañana y trazar un plan de lo que quieres conseguir a lo largo del día.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2024-10-21
+ogimg: /images/zodiac/semanal_libra.png#2024-10-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-10-21'
+ lastmod: '2024-10-28'
 ---
 
 
 
-## Deberías empezar a poner las cosas claras Libra, pero inténtalo hacer antes de que lo malo ocurra. No esperes y esperes, no pases por alto, no tengas la expectativa en que los demás saben lo que hacen, porque sí, los demás saben lo que hacen, pero en beneficio propio, y pocas veces piensan en el resto.
+## Libra, tienes que cambiar un poco el entorno que te rodea, dar nuevas oportunidades a otras personas, cambiar de lugar por un tiempo, cambiar de hábitos. Procura levantarte cada mañana y trazar un plan de lo que quieres conseguir a lo largo del día.
 
-Esta semana te apetece hacer cosas nuevas, has dejado la idea de tener que estar siempre pendiente de los demás, de tener incluso que buscar soluciones para la vida de todo el mundo menos para la tuya. 
- A veces, te aferras a momentos de felicidad pasajera Libra, pero sin embargo, esos momentos no son productivos ni significativos para ti. Y al final, se quedaban en momentos superficiales que después restaban mucho más de lo que sumaban.
-La actividad lunar ilumina tu sector de ocio y placer, acentuando actividades que te encantará disfrutar. Tales pudiendo tratarse de un enlace romántico, interés creativo, un deporte o una actividad cultural. Sin embargo, ten cuidado, ya que podías terminar actuando bajo impulso, especialmente cuando se trate de romance; lo que podría causar que hagas algo que pudieras lamentar más tarde. El final de la semana podría ser excelente para orientarte con respecto a un puesto de trabajo o meta profesional. Tus amigos podrían tentarte a salir el domingo.
+Algo que te haga sentir vivo/a ya. Te has metido en una espiral de rutina un poco complicada y poco a poco esa energía que tenías va siendo consumida. Con lo que tú has sido… Con lo que tú eres…
+Podrías recibir un mensaje de un amante del pasado o de una de tus amistades de la universidad invitándote a volver a estar en contacto. No rechaces esta invitación, ya que podría salir mejor de lo que crees. La oportunidad de ponerte al día y, tal vez, de renovar la relación es una posibilidad real. Por otro lado, ten cuidado de no enviar señales confusas, porque una persona podría pensar que sientes algo por ella cuando en realidad solo intentas no ser descortés. A partir del viernes, tu hogar puede ser un refugio de paz y cuidado.
 
 ## Dinero
 
-Para ti, el dinero puede ser más que una recompensa por tu trabajo bien hecho. Ahora, el dinero puede convertirse en una manera de conectarse a vidas pasadas, sueños, y a las partes efímeras de la vida. Si has estado albergando en tu mente una idea de algo que preferirías hacer para ganarte la vida, este periodo puede proporcionarte el impulso necesario para que esto ocurra en la realidad. Los sueños pueden hacerse realidad bajo estas condiciones.
+Es una temporada muy ocupada conforme pasas de una tarea a otra. Te estás reuniendo con compañeros de trabajo y superiores con el fin de consolidar tu participación en la jerarquía, pero eso no es todo. Tu sentido psíquico da justo en el blanco con respecto a tu trabajo y dinero. Si tienes una corazonada con respecto a inversiones, ándate con cuidado. El aspecto astrológico presente es afortunado para los aumentos repentinos de riqueza.

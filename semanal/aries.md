@@ -1,27 +1,29 @@
 ---
 layout: horoscopos
-title: aries 21 de octubre 2024 al 27 de octubre 2024 
-description: Horóscopo semanal aries 21 de octubre 2024 al 27 de octubre 2024. A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad Aries, ahora estás que lo partes.
+title: aries 28 de octubre 2024 al 03 de noviembre 2024 
+description: Horóscopo semanal aries 28 de octubre 2024 al 03 de noviembre 2024. Tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias, tu corazón vale oro, y tú también Aries. Pero sigue protegiéndote a ti mismo…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2024-10-21
+ogimg: /images/zodiac/semanal_aries.png#2024-10-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-10-21'
+ lastmod: '2024-10-28'
 ---
 
 
 
-## A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad Aries, ahora estás que lo partes.
+## Tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias, tu corazón vale oro, y tú también Aries. Pero sigue protegiéndote a ti mismo…
 
-Eres más resistente que nunca, tienes más poder sobre ti mismo y has sobrevivido. Incluso cuando pensabas que no volverías a sonreír de nuevo, lo has hecho. Incluso cuando las peores circunstancias te estaban dejando sin fuerzas, le echaste valor y saliste adelante.
-Mercurio le hace una breve visita a tu signo y se torna retrógrado a principios de esta semana, lo que podría dar lugar a que ciertos planes sufran retrasos. De hecho, puede que no los pongas en marcha hasta que Mercurio comience a avanzar de nuevo el 25 de octubre. Sin embargo, hay mucho que puedes lograr durante este periodo, y la semana por delante podría ser decisiva al animarte a examinar tus motivos y poner tus prioridades en orden. Una vez hecho eso, las cosas deberían empezar a caer en su lugar con mayor facilidad, también haciéndote sentir más confianza.
+Eres hábil para descubrir las cosas aunque a veces solamente te ciegas por tus impulsos, por tus ganas de tenerlo. Esta semana abre bien los ojos a las proposiciones, no todo lo que brilla es oro, demuestra que estás por delante de todo eso, demuestra que ya no te sorprenderás por cualquier cosa, necesitas pruebas y sobre todo garantías de que va a salir bien. No vuelvas a pensar de nuevo por qué decidiste esto cuando debías haber hecho lo otro, porque todo pasa por alguna razón y sí, las malas decisiones muy a menudo, te llevan a situaciones maravillosas. Cuando algo está apagado, está apagado, tratar de encenderlo a veces es algo imposible y si se apagó, fue por alguna razón. Las cosas rotas pueden arreglarse pero a veces, es mejor comprar algo nuevo, cambiar de rumbo, cambia de “producto”, quizás lo que creías tener ya no merece la pena. Necesitas un objetivo que perseguir, algo donde poner todas tus fuerzas y gastar toda tu energía. Es el momento del cambio Aries, es el momento de que todo lo bueno que deseas llegue, tu actitud lo determina, así que, ¡a por todas!
+Podrías tener tentación a gastar al comienzo de la semana. Cuando el inquisitivo Mercurio se alinea con el afortunado Júpiter en tu sector de dinero el martes, puede que no pienses en el precio cuando se trata de comprar un objeto o una experiencia costosos. Sin embargo, antes de gastar cualquier dinero, lo prudente sería considerar si es una buena inversión. Puede que no lo sea. 
+Tal vez esta semana también te sientas con ánimos de cuidar y mostrar compasión hacia a los demás. Podrías sacrificar tu tiempo y recursos para ayudar a otra persona. Sin embargo, ten presente dónde debes poner el límite, ya que tu generosidad podría ser demasiado grande para tu propio bien. 
+En lo que respecta a una decisión u oportunidad profesional, que no te desanimen las críticas de un familiar. Si se siente bien, ¡adelante!
 
 ## Dinero
 
-Tienes un tema interesante en tus manos esta semana. Se te insta a ponerte en contacto con tus necesidades como inversionista y fijar tus metas en consecuencia. Por supuesto, la mayoría de la gente te dice que hagas más dinero, pero eso no te hace justicia. ¿Quieres ayudar a la gente menos afortunada que tú? Si es así, las inversiones socialmente responsables son la mejor opción para ti. Piensa en ello.
+Esta semana estás llegando a un público mucho más grande con tu trabajo, lo que conduce a más dinero a la larga. Es posible que estés reconectando con la gente de tu pasado y consiguiendo presentaciones con nuevos fans. No importa lo que hagas para ganarte la vida, estás siendo empujado/a al escenario para entregar un mensaje único. Los aspectos te dan el apoyo y la fuerza que necesitas de estrechas relaciones. Gozas de un periodo en el que es muy poco probable que hagas errores, disfruta de este personal y financieramente.

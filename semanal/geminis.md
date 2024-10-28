@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 21 de octubre 2024 al 27 de octubre 2024 
-description: Horóscopo semanal geminis 21 de octubre 2024 al 27 de octubre 2024. No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
+title: geminis 28 de octubre 2024 al 03 de noviembre 2024 
+description: Horóscopo semanal geminis 28 de octubre 2024 al 03 de noviembre 2024. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2024-10-21
+ogimg: /images/zodiac/semanal_geminis.png#2024-10-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-10-21'
+ lastmod: '2024-10-28'
 ---
 
 
 
-## No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
+## Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
 
-Tienes conversaciones pendientes Géminis, tienes algunas cosas que solucionar y mejor que lo hagas cuanto antes si no quieres tener después quebraderos de cabeza. En el fondo lo tienes todo súper claro, sabes lo que te interesa y sabes qué camino debes tomar para lograr lo que de verdad te dará felicidad: la realización autopersonal. De verdad Géminis, ni una amor, ni los amigos, ni siquiera la familia pueden darte ese nivel de felicidad máxima. Tú necesitas sentirte realizado, saber que estás aquí para ser alguien, saber que dejarás huella. Tienes talento, tienes actitud y sobretodo tienes oportunidades para hacerlo. Esta semana pasarán cosas buenas Géminis, la vida te dará oportunidades, te pondrá en el lugar en el que debes estar. No dejes pasar nada, vas a terminar una etapa que te dio mucha felicidad pero es necesario avanzar. Di sí a los proyectos que llegan, céntrate en ti y en superarte día a día y por favor, pasa totalmente de los malos rollos y de las malas influencias. Si no lo haces no avanzarás, y ahora tienes por delante mucho en juego. Pasa más tiempo con los tuyos y desahógate cuando lo necesites. No por callarte se solucionará nada, a veces es necesario hablarlo y ver otros puntos de vista.
-Con la actividad lunar del lunes en tu signo, que no te sorprenda sentirte más emocional de lo habitual. Trata de darte más margen y de eliminar las tareas innecesarias. Evita tomar decisiones espontáneas hasta que sientas más calma y tranquilidad. Las relaciones parecen ser un tema recurrente. Alguien cercano a ti podría sorprenderte. Con Venus, tu planeta regente, ahora avanzando, podrías descubrir que cualquier problema reciente comienza a resolverse, lo que te permitirá progresar.
+Despacito Géminis, ahora todo despacito. A veces, hacer las cosas de forma lenta es lo que tu corazón necesita, y tu cabeza. Necesitas un descanso, necesitas a personas cerca que no pongan tu mundo al revés otra vez. La suerte para tener éxito en la vida se llama “creer en ti”. Te has dado cuenta de que, por mucho que haya personas que han intentado joderte y hundir tu ego y tu forma de ser hasta lo más profundo, existen otras muchas que están ahí por y para ti, que se desviven, y que son las que realmente merecen la pena. Quizás no has pasado tu mejor etapa este tiempo atrás pero ahora lo tienes claro, vales lo que vales, incluso un poco más, y la fé que tendrás en ti mismo/a de ahora en adelante no va a arrebatártela nadie. Primero va tu felicidad. De hecho necesitas que ahora sea lo primordial. Quítate los pesos que cargas a tu espalda, y renace… No hay que tener miedo de empezar otra vez, de hecho, es una nueva oportunidad para reconstruir lo que siempre quisiste… Esta semana puede ser el momento para desprenderte de algo a lo que estabas muy apegado, quizás ahora tengas esa fuerza para hacerlo Géminis.
+Puede que redescubras un pasatiempo de tu infancia que solía hacerte sentir muy bien. La mezcla presente de energías sugiere que podría resultar terapéutico que, para canalizar tu creatividad, retomes una actividad en la que solías destacarte. Hacerlo podría conectarte con tus recuerdos de la infancia, así como también recordarte a tus raíces y todo el camino que has recorrido para convertirte en la persona que eres hoy. No sientas que debes compartir tus descubrimientos con los demás. Este es el tipo de cosas que es mejor mantener en privado.
 
 ## Dinero
 
-Es una semana de desarrollo en tu sector de relaciones. Esto podría significar que alguien a quien has dudado contactar es todo oídos ahora, o que recibes energía de apoyo para ir más profundo, ya sea personal o profesional. Si has estado buscando una fusión de empresas, el Universo puede ayudarte. Mientras tanto, tu vida en el hogar necesita más atención y algunos gastos adicionales.
+Gran parte de la energía celeste indica que alguien o algo del pasado volverá para que puedas lidiar con ello de una vez por todas. Por otra parte, tu sector de trabajo por cuenta propia y de grupos sociales está resaltado. Conectar con gente con quién hayas perdido contacto puede conducirte a más dinero en el futuro.

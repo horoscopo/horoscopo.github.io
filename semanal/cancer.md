@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 21 de octubre 2024 al 27 de octubre 2024 
-description: Horóscopo semanal cancer 21 de octubre 2024 al 27 de octubre 2024. Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+title: cancer 28 de octubre 2024 al 03 de noviembre 2024 
+description: Horóscopo semanal cancer 28 de octubre 2024 al 03 de noviembre 2024. Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2024-10-21
+ogimg: /images/zodiac/semanal_cancer.png#2024-10-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-10-21'
+ lastmod: '2024-10-28'
 ---
 
 
 
-## Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+## Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate.
 
-Céntrate en tus metas Cáncer, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
-La actividad lunar del lunes podría causar que fluctúes entre la funcionalidad y la frugalidad por un lado y la extravagancia y la generosidad por el otro. Eventualmente encontrarás el equilibrio adecuado. Puede que sientas más motivación a aumentar tus ingresos una vez que Marte entre a tu sector financiero el viernes. Ponte a editar tu currículum e incluye el mayor número de habilidades y talentos que te sea posible. Esto podría ser crucial en ayudarte a encontrar el trabajo perfecto. Más tarde, ¡un mensaje romántico podría poner una sonrisa en tu cara!
+No desperdicies ni un solo día de tu vida Cáncer porque los días buenos te darán felicidad, y mucha, los días malos sólo te darán experiencia, y esos días en los que te quieres morir te darán lecciones. En serio Cáncer, quédate en los días buenos, y trata de mantenerlos el mayor tiempo posible. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio. A la gente le gusta el/la Cáncer de siempre, y todos los ojos se fijan en ti cuando estás bien. Empieza a dejar de pensar todo el tiempo, da pequeños pasos pero no te frenes, no te estanques en lo que fue porque ya forma parte del pasado y ten fe en tu futuro, ten fe en que puedes conseguir lo que sea cuando estás bien, porque atraes lo positivo, atraes las cosas buenas. Haz balance, es un buen momento para que dejes de hablar de problemas y empieces a hablar de todo lo que llega, empieza a hacer del resto de tu vida lo mejor de tu vida Cáncer. Y ten paciencia, mucha paciencia porque te llevará un tiempo aceptar que no hay que buscar respuestas a todo porque cuando encuentras la respuesta la vida te ha cambiado la pregunta. Todo tiene que ponerse a tu favor ahora, debe ponerse a tu favor. Feliz semana y feliz vida.
+Hay mucha actividad en tu zona financiera en las próximas semanas, pero esta semana, un evento en particular te alienta a solucionar tus asuntos. Te sientes mejor una vez que te enfrentas a las dificultades y haces lo necesario para resolverlas. La entrada de Venus a tu signo puede ser una llamada de atención para que busques estar con amistades, especialmente si estuviste haciendo otras cosas últimamente. Te sientes mejor porque puedes relajarte.
 
 ## Dinero
 
-Estás tratando de expresarte más en lo que se refiere a trabajo y dinero ahora. Es el momento perfecto para hablar acerca de tus prioridades y que se te escuche en lo que se refiere a dinero en efectivo. No dejes que alguien más en el trabajo o en una relación estrecha sea demasiado dominante con sus ideas sobre el dinero. Juntos, pueden mover montañas – a solas, no tanto.
+Te enfrentas a un momento interesante. Por un lado, las redes sociales son cada vez más grandes y más solidarias. Por otro lado, alguien no está siendo totalmente honesto sobre lo que quiere sacar de tu amistad. En lugar de terminar la relación o tomarlo como algo personal, atribúyeselo a tu irresistible forma de vivir la vida. Tal quiere estar cerca de ti porque eres una persona exitosa y puede ser capaz de ayudarte a alcanzar tus sueños.
