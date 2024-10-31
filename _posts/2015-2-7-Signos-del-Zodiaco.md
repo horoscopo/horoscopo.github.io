@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 30 de octubre 2024
-description: Horóscopos del dia de hoy 30 de octubre 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 31 de octubre 2024
+description: Horóscopos del dia de hoy 31 de octubre 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2024-10-30
+ lastmod: 2024-10-31
 ---
-Las oportunidades abundan cuando Mercurio forma sextil con Venus. Hoy podría ser un día muy afortunado para ti. Esta noche, el Eclipse Lunar en Leo recomienda emplear valor para expresar sentimientos abiertamente. ¿Sería posible que esa falta de valor te esté alejando de lo que realmente quieres? ¡Vamos! Ten el valor de tus convicciones y da el primer paso.
+Intenta pensar de manera diferente para celebrar la entrada de Mercurio a Acuario. Mientras Marte forme sextil con Júpiter, inventa nuevas combinaciones derivadas de cosas viejas. La noche está llena de sentimentales emociones cuando la Luna en Tauro forma sextil con Neptuno. Es una oportunidad para descubrir lo que alguien siente, emocionalmente hablando.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
