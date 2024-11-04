@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 28 de octubre 2024 al 03 de noviembre 2024 
-description: Horóscopo semanal sagitario 28 de octubre 2024 al 03 de noviembre 2024. Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
+title: sagitario 04 de noviembre 2024 al 10 de noviembre 2024 
+description: Horóscopo semanal sagitario 04 de noviembre 2024 al 10 de noviembre 2024. Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2024-10-28
+ogimg: /images/zodiac/semanal_sagitario.png#2024-11-04
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-10-28'
+ lastmod: '2024-11-04'
 ---
 
 
 
-## Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
+## Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
 
-Aunque creas que tus asuntos están cerrados del todo no es así, y en el fondo lo sabes, por eso por fuera querrías hacer muchas cosas ya, en el momento, pero sin embargo por dentro sabes que con calma y con cabeza fría las decisiones se toman mucho mejor. 
- En la vida, valora lo que pierdes, pero mucho más lo que ganas. Debes aprender a desprenderte de lo que no te hace bien, debes aprender a echar de tu vida o a alejarte de lo que te causa más de un problema.
-No compartas demasiada información accidentalmente, especialmente cuando se trate de una lluvia de ideas en tu trabajo o plan de ataque contra la competencia. La razón es que alguien podría estar prestando más atención de la que aparenta y podría terminar robándose tu idea. Asimismo, podría haber algunas personas sin escrúpulos que podrían parecer agradables, pero que en realidad no lo son. Sin embargo, la pasión puede florecer entre tú y alguien, pero puede que ésta tenga un tono obsesivo. Retroceder un par de pasos podría ayudarte a entender tus motivos.
+Organízate Sagitario, organiza tu mente, ¿qué es lo que quieres hacer? ¿con qué podrías ser feliz? ¿qué te gustaría tener que ahora no tienes? Hay que empezar por eso, y después hacer un plan para que se vuelva realidad. Sí, hay que ponerle mucho, muchísimo esfuerzo a todo, está claro, pero tú puedes hacerlo, tienes fuerza más que de sobra, sólo necesitas ese empujón a veces, eso quizás es lo que ahora te falta, en cuanto lo des, las cosas empezarán a fluir tal y como tú quieres… Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas. No aceptes menos de lo que mereces, no te conviene, nunca te ha convenido pero a veces has pasado por el aro. Si cree que necesitas otras cosas, hazlo, levántate, mueve el culo, busca lo que te gusta y pon el máximo de ganas en conseguirlo. Quejarse es sencillo y a veces necesario, pero de verdad, ¿qué sacas con eso? ¿simplemente amargarte el día? Pues sí. Empieza a actuar. Es muy probable que haya momentos en los que no te queden fuerzas, pero eres Sagitario, que a pesar de estar hundido por dentro saca ganas de donde hagan falta, pues aplica esa testarudez que tienes para conseguir lo que te beneficia en vez de quedarte de mala hostia con pensamientos negros y dándole más vueltas a las cosas de la cuenta.
+Puede que te preguntes si deberías jugar a lo seguro o comprar un costoso artículo o experiencia. Con Mercurio retrógrado en tu sector financiero, puede que sea mejor esperar hasta después de 21 de noviembre, ya que darte un pequeño lujo o capricho podría atarte a algo. Además, ciertas emociones podrían salir a la superficie con el Eclipse Lunar en tu sector de bienes compartidos. Teniendo esto en cuenta, podría ser prudente irte a lo seguro si sientes preocupación debido a gastos inesperados.
 
 ## Dinero
 
-Tienes una semana monetaria interesante por delante. Esto puede ser extremadamente afortunado, así que mantén los ojos bien abiertos para todo tipo de nuevas oportunidades de ganar y recibir el dinero que ya se encuentre en camino. El Universo afecta la forma en la que actualmente estás pagando tu pendiente deuda. Un ritmo lento pero constante gana la carrera en todo momento.
+Puede que estés pensando en hacer un cambio de carrera. Ciertos aspectos en tu sector del hogar y emociones internas te dan un poco de inquietud desde el interior. Podrías darte cuenta de que preferirías estar haciendo otra cosa para ganarte la vida. Primero que nada, paga cualquier deuda que tengas y luego comienza tu investigación.

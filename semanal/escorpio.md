@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 28 de octubre 2024 al 03 de noviembre 2024 
-description: Horóscopo semanal escorpio 28 de octubre 2024 al 03 de noviembre 2024. A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
+title: escorpio 04 de noviembre 2024 al 10 de noviembre 2024 
+description: Horóscopo semanal escorpio 04 de noviembre 2024 al 10 de noviembre 2024. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. 
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2024-10-28
+ogimg: /images/zodiac/semanal_escorpio.png#2024-11-04
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-10-28'
+ lastmod: '2024-11-04'
 ---
 
 
 
-## A veces te cuesta mucho morderte la lengua, y de hecho, no deberías hacerlo, llevas razón y es justificado totalmente pero, te traerá problemas si lo haces y todo puede acabar en caos. 
+## Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. 
 
-El mundo no te entiende Escorpio, ya estás acostumbrado a eso, pero no te frustres, en serio no te frustres. Ha llegado un momento en el que ya no quieres las cosas a medias, o te lo dan todo o mejor que no te den nada. Estás harto de hacerte ilusiones que después no se cumplen, estás harto de depender siempre de la felicidad de los demás, de sus decisiones… Y te has dado cuenta de que vales mucho, de que si el resto no es capaz de valorar lo que podrías llegar a dar no es problema tuyo. Ahora sí sabes lo que vales Escorpio, ahora sí sabes lo que mereces. A pesar de que ahora sea todo o nada ni siquiera necesitas eso del resto, ¡qué va! Porque las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz. Quieres “sobrevivir” en el mundo sin necesidad de nadie, sin necesidad de nada que te ate y te corte las alas, sin broncas, sin malos rollos, sin dramas ni peleas. Cuando te metes en bucles así no avanzas y si no avanzas te estancas, y si te estancas dejas de ser feliz. Ya has estado en el fondo mucho tiempo Escorpio, ahora que has salido no vuelvas a caer. No eres de hierro no, pero procura serlo esta semana, aunque sea complicado. Descúbrete a ti mismo y descubre tu misión en la vida, y hazlo solo, y en vez de darle vueltas a lo malo, quédate con los buenos momentos, con lo que de verdad no falla.
-Tendrás ganas de explorar el potencial de una idea que te llevaría a descubrir un nuevo territorio. Este podría ser un plan importante que te convendrá explorar con alguien más. Sin embargo, no te preocupes por los detalles ahora porque podría atrasar el proceso. Concéntrate en el panorama general. Ya tendrás tiempo para pulir tus planes. El viernes es una fantástica oportunidad para asistir a un evento social que realmente disfrutarás, ya sea una cita o solo una ocasión divertida.
+Deberían valorarte más Escorpio, los demás y tú el primero, deberían saber escucharte cuando estás mal, saber comprender porque te sientes en ocasiones así, tratar de meterse un poco en ti, en tu lugar, y descubrirte. Eso es, deberías descubrirte de verdad, y ahora no podrán decir que tú no te estás dejando… No es que te sientas solo, pero muchas veces sientes que vives en un mundo en el que nadie es capaz, por un momento, de ponerse en tu lugar, en el que nadie es capaz de pensar que quizás tú también tienes tus momentos de bajón, tus momentos de pena o de dudas. Bajo esa fachada se esconden sentimientos complicados que muchas veces ni siquiera tú entiendes. Quizás es conformismo, quizás dependencia del resto, o quizás un cúmulo de circunstancias que llevas acumuladas mucho tiempo. Y los días empiezan a pasar, y ves que avanzas, pero a veces no tan deprisa como esperabas. Y ves que el tiempo pasa, y empiezas a estresarte, y te frenas, y de repente quieres ir más deprisa porque ya perdiste mucho tiempo, y te vuelves a frenar. Para Escorpio, para un poco. No puedes fingir que las cosas no te importan ¿vale? Porque además, eso al final duele el doble. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… Ahí es cuando empiezas a frenarte, por muy claro que lo tengas todo. Piensa que caminar entre las piedras también es avanzar, así que, lo que has hecho, lo has hecho bien, ahora averigua si quieres seguir por ese camino.
+Debido a que Mercurio comienza su danza hacia atrás el jueves, es posible que notes su influencia si estás de viaje o de vacaciones. Sería útil que tuvieras una lista preparada antes de salir y asegurarte de que hayas empacado todo lo necesario. Y a pesar de haberte preparado, espera algunos desvíos inesperados a lo largo del camino. Por último, Venus entrando a Tauro este viernes podría poner un romance en tu camino si es que decides salirte de tu zona de confort.
 
 ## Dinero
 
-Te encuentras en un momento de aumento de actividad social, lo que puede ayudar a cualquier empresa de negocios puesta en marcha recientemente. Con cierto enfoque en grupos, política y negocios personales, estás a punto de hacer un gran cambio en tu vida; uno que puede acabar afectando la forma en la que vives. Es más fácil comunicarse con grupos acerca de tus ideas y de influir en la opinión pública a tu favor.
+Tienes una relación tensa entre tu hogar y profesión esta semana. Puede que sientas un poco de agobio en el trabajo o que tu carrera pasa por muchos obstáculos en el presente. Al mismo tiempo, tu vida hogareña y sentimientos interiores son algo tumultuosos o turbulentos. Establece un equilibrio al mantener una estrecha vigilancia en tu flujo de efectivo para ayudar a aliviar el estrés. Las cosas mejorarán desde allí.
