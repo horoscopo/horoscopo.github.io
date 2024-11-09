@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 08 de noviembre 2024
-description: Horóscopos del dia de hoy 08 de noviembre 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 09 de noviembre 2024
+description: Horóscopos del dia de hoy 09 de noviembre 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2024-11-08
+ lastmod: 2024-11-09
 ---
-Piensa antes de actuar para lograr los resultados que deseas cuando el Sol conjunta a Saturno, el planeta del cuidado y la atención al detalle. Esta noche, el pasado arroja una bruma dorada mientras las parejas se acarician, hablan y comparten dulces recuerdos. Por su parte, los solteros podrían toparse con alguien que una vez conocieron y con quien querían encontrarse de nuevo.
+La Luna en Capricornio aumenta la motivación para triunfar. Y la moderación le evita a uno comportarse de manera exagerada, abrumadora, aplastante, y distraída. Todo es cuestión de equilibrio. Esta noche, busca romance, glamour y disfruta del misterio mientras la Luna aspecte a ambos, Júpiter y Neptuno.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
