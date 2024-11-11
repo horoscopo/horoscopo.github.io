@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: libra 04 de noviembre 2024 al 10 de noviembre 2024 
-description: Horóscopo semanal libra 04 de noviembre 2024 al 10 de noviembre 2024. No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
+title: libra 11 de noviembre 2024 al 17 de noviembre 2024 
+description: Horóscopo semanal libra 11 de noviembre 2024 al 17 de noviembre 2024. Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2024-11-04
+ogimg: /images/zodiac/semanal_libra.png#2024-11-11
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-11-04'
+ lastmod: '2024-11-11'
 ---
 
 
 
-## No te eches las manos a la cabeza pensando en los por qué. Hay gente que no merece estar en tu vida. Tú siempre has peleado por lo que quieres pero piensa bien qué es lo que quieres ¿vale? Porque tienes poder para conseguir todo.
+## Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina. 
 
-No puedes poner piezas en lugares que no corresponden Libra, no puedes forzar situaciones ni tratar de encajar algo cuando es imposible que encaje. Todo tiene un por qué, una razón, un lugar y un momento y pasará en el momento que tenga que pasar. Olvida un poco todo Libra, no des tanta importancia a cosas que no la tienen y ya verás como todo se vuelve a colocar en su lugar. No siempre será el lugar que tú esperes pero sí que será en el que deba. Es triste pero cuando más ignoras, más detrás de ti parecen estar y cuando más cuidas y más proteges más se alejan. Pues eso Libra, ignora un poco. Quizás más de uno debería despertar y entender que no estarás siempre ahí. Mantente siempre fuerte Libra, siempre sonriendo, siempre adelante, a pesar de que haya gente que quiera joderte la vida. Y desconfía hasta que las cosas no se demuestren con hechos, desconfía hasta que de verdad se partan el lomo por demostrártelo. Dentro de muy poco comprenderás quién merece la pena y quien no, pero debes darte un tiempo, y empezar a centrarte en ti mismo. No desperdicies el tiempo en cosas que no te dejan nada de provecho Libra, porque no merece la pena, y los pensamientos malos… ¡fuera! Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierda!
-Puede que hayas notado tu pasión por un proyecto o persona alcanzando nuevos niveles en los últimos días. Tal podría llegar a consumarse esta semana, especialmente en torno a mitad de semana. Podrías estar en uno de esos estados de ánimo cuando harías cualquier cosa por obtener los resultados que buscas. Sin embargo, este enfoque podría resultar ser un poco inflexible y podría hacerte perder otras ideas o información que puedan ayudar a tu causa. Obtener una segunda o tercera opinión puede ser útil, especialmente si es de una amistad de confianza.
+En la vida estamos acostumbrados a arrepentirnos de muchas cosas que en su día hicimos mal pero que también ahora podemos arreglar, empezando por cambiar nuestra actitud. Si no tiene solución no hay que preocuparse más, es algo con lo que te tocará vivir, para bien o para mal, el resto de tu vida, es algo que no cambiará. Pero lo que aún tiene solución, sea la que sea, ¿por qué no solucionarlo? Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. Aguantarse toda la vida algo dentro no es bueno, hay que sacar lo que uno siente, las discusiones a menudo son buenas, siempre que sean respetando al otro, el hecho de decir qué es lo que cambiarías, qué es lo que te pareció mal, qué es lo que te hubiera gustado decir hace mucho tiempo… Todas esas cosas limpian a uno por dentro, el rencor, la rabia, las ganas de decir y no poder, el poder decir pero después no hacer, todo eso, cuando no se saca fuera se acumula, y ¿por qué no sacarlo ahora? ¿Por qué no decir todas esas palabras que no se dijeron? ¿Por qué no dejar limpia tu alma? Hubo un tiempo en el que te funcionó eso de querer decir tanto y saber que es mejor no decir nada… Pero ahora quizás es el momento de que las cosas cambien Libra…
+Una conversación o encuentro podría actuar como catalizador para animarte a que te pongas en forma o que te cures de un problema de bienestar. Tu mentalidad podría cambiar durante los próximos días y semanas, y volverse mucho más positiva. Y si te has sentido con pocos ánimos debido a tu progreso durante las últimas semanas, ahora esto puede cambiar. Además, ciertas relaciones también cobrarán importancia, lo que te alentará a evaluar la situación y considerar cómo puedes mejorarlas. Criticar demasiado tampoco será de ayuda, mientras que una actitud más compasiva ciertamente podría.
 
 ## Dinero
 
-Puede que estés pensando en maneras de embellecer tu área de trabajo o conseguir que tus colegas participen en un esfuerzo creativo. También tienes el apoyo total del Universo para hacer algunos movimientos importantes en la parte frontal de la deuda. Pagar las cosas te da una gran sensación en el interior, al igual que hacer un plan de ahorro global y mantenerte al tanto con él.
+Es hora de pensar en cómo pudiste haber tomado la palabra de otras personas en asuntos de dinero o hayas tomado cierto esquema de inversión que es demasiado bueno para ser verdad. Puede ser que alguien te haya estado vendiendo difícilmente algo relacionado con las inversiones. Necesitas más tiempo para considerar el mejor camino para ti. Sé firme pero amable y asegúrate de que tienes el tiempo que necesitas. Tú sabes que es lo mejor para ti.

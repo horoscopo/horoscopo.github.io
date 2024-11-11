@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 04 de noviembre 2024 al 10 de noviembre 2024 
-description: Horóscopo semanal escorpio 04 de noviembre 2024 al 10 de noviembre 2024. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. 
+title: escorpio 11 de noviembre 2024 al 17 de noviembre 2024 
+description: Horóscopo semanal escorpio 11 de noviembre 2024 al 17 de noviembre 2024. Recuerda que ha empezado la época de los Escorpio… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2024-11-04
+ogimg: /images/zodiac/semanal_escorpio.png#2024-11-11
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-11-04'
+ lastmod: '2024-11-11'
 ---
 
 
 
-## Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. 
+## Recuerda que ha empezado la época de los Escorpio… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
 
-Deberían valorarte más Escorpio, los demás y tú el primero, deberían saber escucharte cuando estás mal, saber comprender porque te sientes en ocasiones así, tratar de meterse un poco en ti, en tu lugar, y descubrirte. Eso es, deberías descubrirte de verdad, y ahora no podrán decir que tú no te estás dejando… No es que te sientas solo, pero muchas veces sientes que vives en un mundo en el que nadie es capaz, por un momento, de ponerse en tu lugar, en el que nadie es capaz de pensar que quizás tú también tienes tus momentos de bajón, tus momentos de pena o de dudas. Bajo esa fachada se esconden sentimientos complicados que muchas veces ni siquiera tú entiendes. Quizás es conformismo, quizás dependencia del resto, o quizás un cúmulo de circunstancias que llevas acumuladas mucho tiempo. Y los días empiezan a pasar, y ves que avanzas, pero a veces no tan deprisa como esperabas. Y ves que el tiempo pasa, y empiezas a estresarte, y te frenas, y de repente quieres ir más deprisa porque ya perdiste mucho tiempo, y te vuelves a frenar. Para Escorpio, para un poco. No puedes fingir que las cosas no te importan ¿vale? Porque además, eso al final duele el doble. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… Ahí es cuando empiezas a frenarte, por muy claro que lo tengas todo. Piensa que caminar entre las piedras también es avanzar, así que, lo que has hecho, lo has hecho bien, ahora averigua si quieres seguir por ese camino.
-Debido a que Mercurio comienza su danza hacia atrás el jueves, es posible que notes su influencia si estás de viaje o de vacaciones. Sería útil que tuvieras una lista preparada antes de salir y asegurarte de que hayas empacado todo lo necesario. Y a pesar de haberte preparado, espera algunos desvíos inesperados a lo largo del camino. Por último, Venus entrando a Tauro este viernes podría poner un romance en tu camino si es que decides salirte de tu zona de confort.
+A veces sientes como si no avanzaras Escorpio, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente. Las cosas de palacio van despacio ¿ok? Así que no desesperes. Estás en una de esas etapas en las que lo quieres todo ya, aquí y ahora, que lo malo pase pronto y que lo bueno se quede en tu vida por mucho tiempo pero date eso, TIEMPO. Esta semana tendrás momentos de mucho estrés emocional, hay cosas que no están solucionadas del todo pero todo llega, y antes de lo que esperabas… Deja de preocuparte por los fallos que ya se cometieron y empieza a darle importancia a las oportunidades que puedes dejar escapar si no reaccionas a tiempo y si no reaccionas bien. Prueba Escorpio, prueba todo lo que puedas y más, no hace falta querer tener una vida perfecta, lo suyo es tener una vida FELIZ. El hecho de que puedas dejar muchas cosas atrás no es malo, porque otras muchas llegan, pero no fuerces la situación ni esperes que todo cambie de un día para otro. Tienes que trabajártelo, tienes que ir paso a paso y pensar que no tienes una buena o mala vida, si no sólo una vida, y que está en ti hacerla buena o mala. Ánimo Escorpio, feliz semana.
+Algunas áreas de tu vida podrían necesitar una reevaluación para corregir ciertos asuntos. Si bien ir hacia adelante puede parecer tentador, esto no es sabio, ya que Mercurio y Saturno ingresan a su fase retrógrada. Sin embargo, ahora tienes la oportunidad de derribar cualquier obstáculo hacia el éxito. Además, la Luna Llena que se desenvuelve en tu sector de relaciones podría intensificar tus sentimientos, lo que provocará algunos dramas a menos que tú y tu pareja acuerden sentarse y analizar el problema.
 
 ## Dinero
 
-Tienes una relación tensa entre tu hogar y profesión esta semana. Puede que sientas un poco de agobio en el trabajo o que tu carrera pasa por muchos obstáculos en el presente. Al mismo tiempo, tu vida hogareña y sentimientos interiores son algo tumultuosos o turbulentos. Establece un equilibrio al mantener una estrecha vigilancia en tu flujo de efectivo para ayudar a aliviar el estrés. Las cosas mejorarán desde allí.
+Puede que estés a punto de cambiar de empleo o ascender de posición. No es sólo que el puesto te llame la atención, es el salario que viene junto con él. Da rienda suelta a tu ambición de forma gratuita siempre y cuando tengas al sartén por el mango. Podría ser la forma en la que te comunicas, o la falta de ella lo que pone a los demás en tu contra. Mantén todo claro y sin problemas mediante la claridad y el ser conciso/a.

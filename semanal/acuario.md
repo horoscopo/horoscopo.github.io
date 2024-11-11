@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: acuario 04 de noviembre 2024 al 10 de noviembre 2024 
-description: Horóscopo semanal acuario 04 de noviembre 2024 al 10 de noviembre 2024. Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
+title: acuario 11 de noviembre 2024 al 17 de noviembre 2024 
+description: Horóscopo semanal acuario 11 de noviembre 2024 al 17 de noviembre 2024. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2024-11-04
+ogimg: /images/zodiac/semanal_acuario.png#2024-11-11
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-11-04'
+ lastmod: '2024-11-11'
 ---
 
 
 
-## Ten cuidado con las atracciones esta semana, algunas pueden ser fatales y pueden desviarte del camino, y no te encabrones más de la cuenta por decisiones estúpidas de terceras personas.
+## No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
 
-Bueno Acuario, ya lo sabes más que de sobra, en tu vida siempre ha habido gente de todo tipo pero las envidias y el odio han estado a la orden del día. Sí, levantas ese tipo de sentimiento en los demás, y no es malo, simplemente es así.
-Con el sol y el amoroso Venus en Escorpio, puede que sientas una explosión de energía y bienestar. Las próximas cuatro semanas pueden ser ideales para avanzar con los planes y proyectos que habías dejado de lado y para organizar eventos sociales y conocer a nuevas personas. Puede que también tengas ganas de hacerte un cambio de imagen. Tu vida social también agarra ritmo. El dinámico Marte en esta zona podría traerte más oportunidades para pasar buenos momentos.
+Si aún sientes que hay cosas pendientes lo primero que debes de hacer es solucionarlas, sobre todo para poder empezar cosas nuevas, dejarlas a medias sólo te llevará a acumular y a acumular y eso no te lleva a ningún puerto, solamente a estallar en el momento menos esperado. Por eso, 
+Después podrás abrir nuevas puertas, pero no dejes entre abiertas las demás…
+No permitas que las dudas o temores socaven tus objetivos o te impidan apuntar alto. El contexto cósmico de esta semana podría hacerte dudar y preguntarte si estás haciendo lo correcto. Ten confianza en ti. Si necesitas reafirmación o motivación, habla con una amistad o consejero de vida. Una nueva perspectiva podría mejorar maravillosamente tu estado de ánimo. La Luna Llena en Escorpio de mitad de semana sugiere que vas a tener visitas en tu hogar, pudiendo dar lugar a una gran fiesta.
 
 ## Dinero
 
-La actividad en tu sector de grupos y política te insta a dejar de esconderte detrás de e-mails y textos para hacer negocios. El teléfono está bien a veces, pero si quieres que te recuerden, lo mejor es presentarte en persona. Los encuentros con nuevos clientes en un entorno social pueden conducir a rápidas ventas, mientras que con colegas existentes pueden cimentar el trabajo en equipo. Puedes sentir que estás detrás de la curva de alguna manera, pero estás exactamente donde tienes que estar.
+Es posible que no tengas total equilibrio ahora. El hogar y las emociones internas se destacan, por lo que es posible que te falte confianza o una base firme desde la cual operar. Debido a que las cosas están  cambiando allí, tus sueños están en vivo con todo tipo de imágenes y extrañas señales. Practica la paciencia con tu mente inconsciente, está tratando de decirte algo que te traerá abundancia con el tiempo.

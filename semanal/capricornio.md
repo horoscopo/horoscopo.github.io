@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 04 de noviembre 2024 al 10 de noviembre 2024 
-description: Horóscopo semanal capricornio 04 de noviembre 2024 al 10 de noviembre 2024. Tienes que empezar a dejar que el resto luche por tu Capricornio, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
+title: capricornio 11 de noviembre 2024 al 17 de noviembre 2024 
+description: Horóscopo semanal capricornio 11 de noviembre 2024 al 17 de noviembre 2024. Por muy desconfiado y duro que parezcas ser, al final acabas confiando Capricornio y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2024-11-04
+ogimg: /images/zodiac/semanal_capricornio.png#2024-11-11
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-11-04'
+ lastmod: '2024-11-11'
 ---
 
 
 
-## Tienes que empezar a dejar que el resto luche por tu Capricornio, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
+## Por muy desconfiado y duro que parezcas ser, al final acabas confiando Capricornio y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
 
-Ha llegado el momento en el que debes preocuparte exclusivamente de ti mismo, es más, nadie te hará más feliz que tú. Tienes que cumplir metas Capricornio. No tengas miedo de expresar lo que sientes ni tampoco intentes tapar lo que sabes que no debes. No te calles, no dejes que haya malos entendidos por esto. Dentro de poco organizarás un viaje, y será lejos. Eso es lo que más necesitas ahora, motivarte, sentirte vivo otra vez, sentir que todo merece la pena, que empezar de cero no es ir hacia atrás si no tener una nueva oportunidad para hacer las cosas bien. Recuérdate de qué pasta estás hecha y haz lo que tienes en tu mente, competa tus sueños, muévete hacia lo que de verdad te motiva Capricornio. Hay personas que están cerca de ti que merecen mucho la pena, y tú lo sabes, y tratas de hacer que se queden a toda costa. Está bien Capricornio, siempre hay que hacer todo lo posible para que salga bien, y gracias a ti, el amor crecerá mucho, pero recuerda que es cosa de dos. Que no está bien que una persona lo tenga que dar todo siempre. Si no hay interés por la otra parte lo mejor será cambiar los planes. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
-La semana por delante puede ser un excelente momento para hacer contactos y para disfrutar de tu vida social. Puedes descubrir que tienes más para hacer en este ámbito que de costumbre, pero al mismo tiempo puedes divertirte mucho. Y esta puede ser una oportunidad especialmente positiva si estás buscando el amor, o quieres reavivar la llama del romance en tu actual relación. Pero cuando se trata de asuntos más relacionados a tu carrera profesional, tu familia podría intentar manipularte para que tomes ciertas decisiones. ¡No se los permitas!
+Quita importancia a las cosas Capricornio, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente… Pon la mente en blanco como sea si no quieres empezar a dejar de dormir esta semana. Hay cosas que no están en tu mano, hay cosas que llegan y se van solas, sin que podamos hacer nada, pero sin embargo, la vida sigue y hay otras muchas en las que si puedes hacer mucho. Pues céntrate en esas Capricornio. En las que verdaderamente están ahí, en tu mano. Tienes que tener un plan B para engañar a tu mente, sal un poco más y cuando no te apetezca mucho, oblígate, hazte el favor de relacionarte con tus amigos, de sacar tus sentimientos, lo que pasa por tu cabeza. Los nervios sólo te acabarán consumiendo por dentro. Deja fluir, deja correr, deja pasar las cosas y no vuelvas a abrir las puertas de tu vida a la gente que te hace daño. Si te rodeas de buenas personas, lo positivo empezará a aparecer en tu vida, pero si por tu alrededor la energía mala se palpa, no esperes nada bueno. Deja que las cosas se marchen de tu vida si así tiene que ser, y márchate tú si eso es lo que sabes que debes hacer… Aférrate a ti mismo, sólo a ti… Por una vez manda a la mierda y céntrate en lo que de verdad te hará feliz.
+El conversador Mercurio ingresa a tu sector el martes, y su presencia aquí puede animarte a hablar, en especial si se trata de cualquier tema importante. El animado Mercurio en Cáncer puede brindar una excelente oportunidad para analizar asuntos que deben ponerse sobre la mesa. Hacerlo podría resultar un alivio. Sin embargo, puede que tú y otra persona no estén de acuerdo el fin de semana. Al mismo tiempo, Mercurio se opone al ferviente Saturno en tu sector de relaciones, por lo que podrías descubrir que una persona es abrumadora o extremadamente persuasiva durante los próximos días. Si esto te frustra, puede que sea momento de poner límites más firmes. 
+La luna Llena en tu sector espiritual a mitad de semana puede ser una llamada a comenzar una práctica, como meditación o yoga, que te ayude a lograr la tranquilidad. Y, debido a que el encantador Venus ingresa a tu sector de dinero el mismo día, podrías tener ojo para los lujos.
 
 ## Dinero
 
-Puede que solicites una audiencia más grande con el fin de atraer a compradores, inversionistas y otras personas con dinero. Algo que estas planeando requiere de más dinero con el fin de despegar. Es muy importante el prestar atención al dinero que compartes con otros. Algunos co-inversionistas o algunas deudas necesitarían ser atendidas. Asegúrate de firmar documentos y pagar honorarios a tiempo. A partir de ahí, podrás cosechar recompensas.
+Lo tuyo es el poder ahora. Los demás acuden a ti en busca de respuestas y tú se las proporcionas - por un precio. Cierta tensión puede surgir entre tu tiempo de descanso y tu imagen. Cierta actividad en tu sector de viajes y educación superior indica que piensas en qué parte te vendría bien reforzar tus habilidades. Clases de fin de semana podrían permitirte cobrar más.

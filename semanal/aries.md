@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: aries 04 de noviembre 2024 al 10 de noviembre 2024 
-description: Horóscopo semanal aries 04 de noviembre 2024 al 10 de noviembre 2024. Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo Aries, se llama dignidad. 
+title: aries 11 de noviembre 2024 al 17 de noviembre 2024 
+description: Horóscopo semanal aries 11 de noviembre 2024 al 17 de noviembre 2024. Vete a tu cerebro, y borra Aries, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño Aries. Deja salir para que pueda entrar lo demás.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2024-11-04
+ogimg: /images/zodiac/semanal_aries.png#2024-11-11
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-11-04'
+ lastmod: '2024-11-11'
 ---
 
 
 
-## Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo Aries, se llama dignidad. 
+## Vete a tu cerebro, y borra Aries, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño Aries. Deja salir para que pueda entrar lo demás.
 
-Disfruta de la vida Aries, de verdad. A veces hay que dejar atrás lo que pertenece a atrás de una vez, y sí, por qué no, volver a dar oportunidades, volver a confiar. Es muy triste que te hayan fallado, es cierto, pero el castigo más grande es haberte hecho desconfiado con el mundo, desconfiado con todos. Hay que cambiar eso como sea, hay que cambiarlo porque hay gente buena que lo que quiere es dar, que te valora, que te quiere. Sé amable con la gente que está a tu alrededor y perdona y sigue a tu corazón. Al final del todo, si no lo haces, te vas a arrepentir muchísimo, a veces esas situaciones no vuelven Aries. Hay algunos problemillas que te rodean pero van a solucionarse pronto, aunque deberás tener una buena actitud para liquidarlos definitivamente. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierda en unas semanas. Quédate con lo positivo y sigue adelante con tu vida. Todo cambiará a mejor. La paz interior es la nueva meta, así que, ¡céntrate! Feliz semana Aries.
-Una amistad o socio empresarial podría estar tratando de atraer tu atención. Tal vez algunos de tus planes parecen ser un tanto irrealistas o incorrectos y tal persona está deseosa de darte algunos consejos. Sin embargo, Marte entrando a Virgo a partir del jueves podría inspirarte a ver las cosas desde un punto de vista más práctico. Tal vez detectes defectos que no habías notado antes, ayudándote a armar una estrategia que pueda llevarte al éxito. Este fin de semana, descansar en casa puede ser restaurador para tu cuerpo y espíritu.
+Por eso respira antes de soltar por tu boca cualquier cosa dañina. Al final, sin querer, puedes herir a más de uno/a y sobretodo, herirte a ti mismo/a… 
+así que, deja a un lado esa ansia que hace que repitas los errores más de una vez y céntrate en lo que merece y en lo que no. La teoría la tienes más que clara, ahora sólo llévalo a la práctica. Pero no un día sí y otro no, si te lo has planteado, hasta el final.
+Podrías estar invirtiendo mucha de tu energía mental en pensar en regalos y gastos en general. Tal vez te preguntes si te podría beneficiar comprarle un obsequio caro a alguien. ¿Siquiera lo notaría? Puede que incluso sea mejor adoptar un presupuesto viable y apegarte a él. La tentación de quedarte dentro de tu zona de confort puede ser fuerte, pero te irá mejor si no cedes ante ese impulso.
 
 ## Dinero
 
-Es probable que estés mezclando tus contactos personales con los profesionales esta semana. El Universo te muestra cómo buscar a las personas de cualquier grupo que puedan ayudarte a avanzar en un producto, servicio, empresa o causa. Esta semana, busca a los nacidos en otros países, o los que hablan otro idioma. Cierta actividad en tu sector de dinero indica que tienes la creatividad, pero no la verdadera visión para los negocios con el fin de ganar más dinero ahora.
+Para ti, esta semana es sobre la creatividad, el amor, la agresión y el salir adelante. Tienes la suerte de tener una ventana de tiempo para saldar cuentas viejas o investigar si es mejor comprar, mantener o vender inversiones compartidas. Sin embargo, sabes lo que quieres, y esta semana tienes la capacidad de gastar pródigamente en diversión familiar.
