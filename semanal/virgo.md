@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 11 de noviembre 2024 al 17 de noviembre 2024 
-description: Horóscopo semanal virgo 11 de noviembre 2024 al 17 de noviembre 2024. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
+title: virgo 18 de noviembre 2024 al 24 de noviembre 2024 
+description: Horóscopo semanal virgo 18 de noviembre 2024 al 24 de noviembre 2024. Perdona Virgo, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2024-11-11
+ogimg: /images/zodiac/semanal_virgo.png#2024-11-18
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-11-11'
+ lastmod: '2024-11-18'
 ---
 
 
 
-## Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo.
+## Perdona Virgo, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
 
-La vida siempre se equilibra, antes o después, aunque por momentos parezca que no lo hace Virgo… Si de verdad entiendes que todo pasa por una razón, los momentos más complicados serán mucho más fáciles de manejar. Haz las cosas bien. Ayuda a los demás, sé positivo, no guardes rencores ni rabia y date un paseo por los malos momentos. No pasa nada. Después de cualquier tormenta siempre llega la calma. Si esta semana tienes altibajos no te preocupes porque después de lo malo siempre llega algo bueno, tienes un poder increíble para ver lo bueno de cualquier cosa así que, utilízalo. A veces, a lo que más le temes es lo que al final te hará libre. Enfréntate con lo que de verdad sea importante para ti, saca las garras con lo que merezca la pena pero se suficientemente inteligente para no enzarzarte en discusiones absurdas esta semana. Se necesita equilibrio para lidiar con muchas situaciones que son injustas Virgo, pero tú lo tienes. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
-El eclipse lunar en tu sector de recreaciones podría dominar los eventos, por lo que esta podría ser una semana muy emotiva. Con la enérgica luna llena del 15, quizá veas cómo cambian tu vida social y tu modo de disfrutar tu tiempo de recreación. Si te das cuenta de que te has enamorando, puede que sea mejor dar un paso atrás. Las relaciones que comienzan en este período pueden no estar destinadas a ser y quizá esta nueva relación no termine como esperabas. Pero, en general, tu vida social parece tener el toque justo de sabor.
+Cada día que pasa te das más cuenta de que mereces cosas buenas Virgo, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento. Tú eres tu vida y tú eres tu centro ahora mismo. Nada de comeduras de cabeza por situaciones ajenas a ti o por terceras personas, nada de eso de verdad. Tienes demasiado encima como para dedicar más tiempo a otras cosas que no seas tú mismo/a. Esta semana vas a estar pletórico, empezando porque te has dado cuenta de lo que realmente es importante. Huye de las broncas, no te enfrentes a nadie, si los demás quieren llevar un ritmo de vida caótico que lo lleven, no es problema tuyo pero escapa cuanto antes y que no te salpique. Eres como eres y nadie podrá cambiarte por mucho que se empeñen. Un alma libre, pura, buena pero no imbécil… Empieza a escribir una historia nueva si el cuerpo te lo pide. Lo has hecho toda tu vida. No te puede temblar más el pulso con nada. Empieza el cambio. Sólo debes de dar el primer paso, y después otro y otro… A ver si así, el resto reacciona. Sobretodo cuando sepan que no estarás ahí para aguantar nada que te haga daño… ¡Con la escuela que tienes tú ya! Feliz semana Virgo.
+Podrías sentir mucha más comodidad a medida que avanza la semana, en especial si tuviste un conflicto menor con alguna amistad. Hacia el fin de semana, al parecer habrás olvidado el problema y podrás avanzar. La actividad lunar en Tauro del miércoles puede ser la mejor del año para ti. Usa esta oportunidad para comenzar algunos de tus planes más interesantes. Haz una lista de lo que esperas lograr. Por ahora, puede que quieras mantener en secreto un romance.
 
 ## Dinero
 
-Puede que tu progreso financiero haya disminuido, pero las cosas están definitivamente mejorando. Se te pide que investigues tus gastos en cuestiones relacionadas con la familia, los niños, romance y diversión. Puede que te des cuenta de que había más de los que pensabas. El recortar algunos de estos -aunque sea un poco- podría significar más diversión a largo plazo, junto con menos preocupación. Te mereces un futuro libre de estrés.
+Actualmente estás en una fase de transformación con aspectos en tu sector de vidas pasadas, sueños, karma e instituciones. Puede que sientas como si te estuvieras moviendo en cámara lenta, pero eso es sólo porque se te ha estado pidiendo examinar la parte más profunda de ti. Aunque puede ser contra-intuitivo para alguien con tu personalidad, el pedir dirección financiera es inteligente. Combina la recolección de información con la acción cuidadosa y encontrarás que estás en el camino correcto después de todo.

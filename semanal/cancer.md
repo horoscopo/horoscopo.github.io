@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 11 de noviembre 2024 al 17 de noviembre 2024 
-description: Horóscopo semanal cancer 11 de noviembre 2024 al 17 de noviembre 2024. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
+title: cancer 18 de noviembre 2024 al 24 de noviembre 2024 
+description: Horóscopo semanal cancer 18 de noviembre 2024 al 24 de noviembre 2024. Nada tiene que ser ahora suficiente para ti Cáncer, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. 
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2024-11-11
+ogimg: /images/zodiac/semanal_cancer.png#2024-11-18
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-11-11'
+ lastmod: '2024-11-18'
 ---
 
 
 
-## No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
+## Nada tiene que ser ahora suficiente para ti Cáncer, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. 
 
-Llega una buenísima semana Cáncer pero debes trabajar duro y dejarte de estupideces del resto, de meterte en líos innecesarios y de pensar más de la cuenta en cosas que no te sacan absolutamente de nada. Tienes que trabajar duro ahora, tienes que empezar a sacar cada uno de los proyectos que tienes en tu cabeza, terminarlos de una vez o empezarlos. Pero ya. En serio, tienes un potencial impresionante y con un poco que te pongas las pilas conseguirás lo que de verdad siempre has querido. Todo irá bien Cáncer, eres joven, te sientes joven, si en algún momento pareces inseguro o perdido no te preocupes, es parte del camino, pero no tires la toalla por nada del mundo ahora. Tómate un respiro, escápate unos días si puedes, y desconecta para volver con más fuerzas, pero una vez que estás centrado en algo no te salgas del camino por nada del mundo. Cuando le pones todas las fuerzas del mundo siempre lo consigues así que, pónselas a todo. Toma el control de tu destino, cree en ti mismo otra vez, ignora a todos esos que tratan de desalentarte, que te desaniman, que se cruzan en tu vida sólo por el hecho de querer molestar, evita la negatividad a toda costa. Todo llega en el momento adecuado Cáncer, y a ti te va tocando ya. Tú y tú y más tú. Pelea por lo que es tuyo Cáncer, pelea por lo que te mereces.
-El Eclipse Solar de esta semana manifestándose en tu sector de comunicación podría poner en tu camino una interesante oportunidad. O bien, se te podría ofrecer la oportunidad de colaborar en un proyecto o cerrar un trato. Pero hay que ir con cuidado a menos que tengas completa seguridad de los hechos. Lo que se te está ofreciendo podría ser perfectamente válido y potencialmente lucrativo, pero no está exento de dificultades. Todo ello necesita ser investigado a fondo antes de que aceptes cualquier cosa. Además, asegúrate de leer las cláusulas y condiciones si hay dinero involucrado.
+Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo, desde la felicidad más satisfactoria hasta el llanto más amargo. Y además te diría que intentaras controlarlo pero en realidad ahora lo mejor es que lo sueltes todo y te quedes a gusto y paz cuando lo hagas. Si te entran momentos de desánimos mira a tu alrededor y encontrarás a esas personas que te estiman, que te consideran y que te ven como un ejemplo a seguir, en serio. No les defraudes y demuéstrales que eres fuerte y que cuando te da el bajón es simplemente eso, un bajón del que más temprano que tarde te acabas reponiendo. En tus momentos de alegría máxima ándate con ojo y no te lances sin mirar a los dos lados, ponle cabeza a las cosas que llegan, confía en ellas pero hasta cierto punto. Como eres así de imprevisible muchas veces y tus emociones son como una especie de huracán aunque las lleves siempre por dentro, lo mismo estás contento que triste y tomas decisiones precisamente cuando te encuentras en esos estados. Pues no, cuando quieras hacer algo, párate a pensar, frénate unos minutos, unas horas, y cuando eso de “lo quiero todo y lo quiero ya” haya pasado, elige. Todo pasa Cáncer, y aunque estás en esa etapa de un cambio a otro, lo bueno llega, sólo un poco de paciencia… Y sonríe un poco más, y no te preocupes por tus subidas y bajadas porque van a pasar pronto. Sólo es una etapa de decisiones. Decisiones que marcarán tu vida ahora.
+Con un dinámico enfoque en tu signo, podrías organizar el espectáculo de las fiestas. Sin embargo, a medida que el encantador Venus se alinea con el práctico Saturno el 25 de noviembre, podría surgir una atmósfera un poco formal en un evento familiar, a menos que lo alegres con tu especial sentido del humor. Usarlo podría cambiar la ocasión y hacer que sea muy memorable. Los próximos días también podrían animarte a conectar con los demás de manera más caritativa y compasiva.
 
 ## Dinero
 
-Algunos aspectos en tu sector de profesión te ponen de nuevo en contacto con la gente y los proyectos de tu pasado. Tienes tanta suerte en esta área de tu vida que te verás en la obligación de rechazar algunos de los trabajos que se te presenten. Evita el exceso de estrés mediante la adopción de algún tiempo de inactividad necesario. Un aspecto feliz muestra que tu lugar de trabajo está inundado de creatividad y buena voluntad. ¿Está detrás de todos estos cambios positivos? Sólo tú sabes a ciencia cierta.
+Tu vida financiera está activa esta semana. Se te está pidiendo que cambies tu forma de ver el dinero en tu vida. Esto podría abrir un nuevo canal para manifestar nuevas fuentes de ingresos si mantienes tus ojos bien abiertos. Utiliza tus puntos fuertes para trabajar en pagar tu deuda. Tienes todo lo necesario para disminuir considerablemente esas facturas. Sólo destina de tus ingresos lo más que puedas y ve los números disminuir exorbitantemente.
