@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: libra 18 de noviembre 2024 al 24 de noviembre 2024 
-description: Horóscopo semanal libra 18 de noviembre 2024 al 24 de noviembre 2024. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
+title: libra 25 de noviembre 2024 al 01 de diciembre 2024 
+description: Horóscopo semanal libra 25 de noviembre 2024 al 01 de diciembre 2024. Tu presente y tu futuro valen muchísimo la pena Libra. La vida siempre se acaba equilibrando Libra. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2024-11-18
+ogimg: /images/zodiac/semanal_libra.png#2024-11-25
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-11-18'
+ lastmod: '2024-11-25'
 ---
 
 
 
-## Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
+## Tu presente y tu futuro valen muchísimo la pena Libra. La vida siempre se acaba equilibrando Libra. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
 
-Para alcanzar la felicidad, TÚ FELICIDAD, 
-y ese es tu trabajo ahora. Dejar de pensar, o al menos, intentar engañar a tu mente y a tu cabeza para que piense lo menos posible…
-Podrías terminar gastando mucho esta semana. Puede que los pequeños lujos no te satisfagan y sientas la necesidad de derrochar tu dinero en algo grande y caro. Este podría ser el caso si has estado trabajando mucho últimamente y quieres recompensarte. Aun así, podrías estar en problemas si tu gasto es superior a tus ingresos. Nuevas aventuras podrían hacerte señas una vez que el Sol entre a Sagitario el sábado. Si se te antoja un poco de diversión bajo el Sol, es posible que desees hacer planes de viaje.
+A veces te acercas de nuevo a eso de lo que te alejaste porque sabías que no te convenía… Estás en una encrucijada Libra. No quieres dar marcha atrás a las decisiones que tomas, pero a veces los impulsos son más fuertes que todo. Y te entra frustración, y rabia, y muchas ganas de poner a más de uno en su sitio, de explicar cómo te has sentido, todo lo que has sufrido, todo lo que tienes dentro… Y esa es a menudo la excusa que te pones para volver… No Libra, error. No pongas a prueba a los demás porque tienes más de perder que de ganar. Las personas no cambian. Pero claro, eres Libra, súper metódico con todo, y hasta que no pruebes no te quedarás a gusto. Está bien, prueba si quieres, date la oportunidad de saber si te equivocas o no, no te quedes con ninguna duda, no sigas consejos de nadie, ni siquiera de tu cabeza y termina viendo las cosas por ti mismo/a. Pero también prepárate para todo, incluso para asimilar decepciones si las hubiera… El instinto no te falla pero la impulsividad a veces sí puede hacerlo. Quizás no sea lo que esperas Libra pero puede que al menos te refuerces más. Pase lo que pase, prométete a ti mismo/a no volver a sufrir más…
+La presencia de Marte en tu sector de estilo de vida podría darte ganas de hacer ejercicio más vigorosamente y con más regularidad. Tendrás más energía a tu disposición, por lo que utiliza esto para perder algunas libras si es lo que quieres o simplemente tonifica tus músculos con tal de sentirte mejor con tu cuerpo. Por otro lado, tus relaciones románticas o empresariales son bendecidas por la presencia de Júpiter en Virgo. Durante esta semana y las próximas semanas y meses, verás mejoras y disfrutarás de más oportunidades para colaborar e interactuar.
 
 ## Dinero
 
-Este período se trata de tus relaciones. Puede que un montón de gente nueva entre a tu vida, lo que podría ser ideal para socializar y conocer a otras personas en tu campo. Las relaciones viejas y rancias que parecen no traerte nada pueden estar desapareciendo, cambiando dramáticamente, o desapareciendo por completo. No te aferres a lo que ya no te sirve más.
+Este período es acerca de los desafíos a los que el Universo nos lleva con todo tipo de emociones, algunas de los cuales pueden ser útiles cuando se trata de hacer dinero. Tu cerebro está liberando algunos de tus materiales más creativos, por lo que ten a la mano lápiz y papel para anotar lo que experimentas. ¡Conviértelo en algo especial y ponte a trabajar en venderlo para obtener el máximo beneficio posible!
