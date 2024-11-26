@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Géminis Noviembre 2024 
+title: Horoscopo Géminis Diciembre 2024 
 permalink: /horoscopo-mensual/amp/geminis/
 normallink: /horoscopo-mensual/geminis/
 home: FALSE
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Géminis_mes.png#2024-10-27
+ogimg: /images/mes/Géminis_mes.png#2024-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-10-27'
+ lastmod: '2024-11-26'
 ---
 
 

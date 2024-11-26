@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Tauro Noviembre 2024 
+title: Horoscopo Tauro Diciembre 2024 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/mes/Tauro_mes.png#2024-10-27
+ogimg: /images/mes/Tauro_mes.png#2024-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-10-27'
+ lastmod: '2024-11-26'
 ---
 
 

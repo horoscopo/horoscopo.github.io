@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Capricornio Noviembre 2024
-description: El Horóscopo Noviembre de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Capricornio Diciembre 2024
+description: El Horóscopo Diciembre de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/capricornio/
 amplink: /horoscopo-mensual/amp/capricornio/
 home: FALSE
-keywords: horóscopo noviembre, horoscopos en español, horóscopo Capricornio noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Capricornio, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo diciembre, horoscopos en español, horóscopo Capricornio diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Capricornio, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/capricornio_mes.png#2024-10-27
+ogimg: /images/mes/capricornio_mes.png#2024-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-10-27'
+ lastmod: '2024-11-26'
 ---
 
 

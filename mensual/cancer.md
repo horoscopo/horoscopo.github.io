@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Cáncer Noviembre 2024
-description: El Horóscopo Noviembre de Cáncer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Cáncer Diciembre 2024
+description: El Horóscopo Diciembre de Cáncer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/cancer/
 amplink: /horoscopo-mensual/amp/cancer/
 home: FALSE
-keywords: horóscopo noviembre, horoscopos en español, horóscopo Cáncer noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Cáncer, Tarot, Astrologia, Zodíaco, Cáncer, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo diciembre, horoscopos en español, horóscopo Cáncer diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Cáncer, Tarot, Astrologia, Zodíaco, Cáncer, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/cancer_mes.png#2024-10-27
+ogimg: /images/mes/cancer_mes.png#2024-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-10-27'
+ lastmod: '2024-11-26'
 ---
 
 
