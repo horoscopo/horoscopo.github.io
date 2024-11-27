@@ -9,20 +9,20 @@ keywords: horóscopo diciembre, horoscopos en español, horóscopo Libra diciemb
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/libra_mes.png#2024-11-26
+ogimg: /images/mes/libra_mes.png#2024-11-27
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-11-26'
+ lastmod: '2024-11-27'
 ---
 
 
- > Libra, noviembre se presenta como un mes para indagar, estudiar e investigar sobre lo que desees. Disfrutarás de unas semanas en las que tu sensibilidad a flor de piel te guiará de una manera fiel y verdadera. Confía en tu intuición y comunica tus sentimientos y afectos de forma abierta. Se presenta un momento propicio para la reflexión y la evaluación de tus deseos en el amor. Dedica tiempo a conocer tus necesidades emocionales y a considerar el camino que deseas seguir.
+ > Libra, este mes es el momento de que tomes responsabilidad de tus acciones a lo largo del año, tanto de las buenas como de las malas. Intenta dejar de lado tu nerviosismo y concéntrate en lo que verdaderamente importa. Las conexiones entre Venus, Júpiter y Urano pueden darte la sensación de que, a pesar de tus esfuerzos, las cosas no salen. En lugar de preocuparte, enfócate en lo que sea adecuado para ti.
 
 
 
-Tu cabeza podría dar vueltas con la cantidad de trabajo que tienes, querido Escorpión, porque la estación de Aries trae una oleada de energía a tu sexta casa solar. Este clima cósmico se trata de moverse rápida y eficientemente, especialmente cuando se trata de todos esos pequeños detalles que se suman a la gran imagen. Asegúrate de llevar una vida sana, teniendo especial cuidado de dormir ocho horas cada noche, comer bien e hidratarte a diario. Por suerte, tu mente se sentirá enraizada y equilibrada cuando Mercurio entre en Tauro el 3 de noviembre, bendiciéndote con una sensación de control y gratitud.
-Dedica algo de tiempo a la soledad durante la luna nueva de Libra del primero del mesa, que te pondrá en un estado de ánimo privado e introspectivo. Aunque tu enfoque debe dirigirse hacia la curación interior y la compasión por ti mismo, es posible que tengas que enfrentarte a ciertos hechos de tu existencia, incluso si son feos o dolorosos de aceptar. Examínate durante el eclipse solar del 19 de noviembre, prestando especial atención a disipar cualquier síntoma físico de estrés. Si tiene que tomarse un descanso del trabajo, intente tomárselo con calma. Sin embargo, si dejas las cosas para más tarde, podrías entrar en crisis y sufrir bajo el peso de tu lista de tareas pendientes.
-La armonía te encontrará una vez más cuando la estación de Tauro inaugure una era de lujo, decadencia y gracia el día veinte. Entrégate al amor en las próximas semanas, porque el Universo busca condimentar las cosas en los asuntos del corazón. Tus habilidades de manifestación también se pronunciarán, así que asegúrate de dar pistas al otro lado sobre tus deseos.
-Días destacados: 1, 8, 10
-Días desafiantes: 6, 13, 27 
+Con la temporada de festividades a toda marcha, deberás controlar tus gastos, estimable Escorpión, porque el sol, Venus y Mercurio en Sagitario transitan por tu segunda casa solar. Este clima celestial podría desatar tu naturaleza generosa y hacer que te excedas al comprar regalos para las fiestas. Si planeas pasar esta época con tu familia y amistades, es posible que quieras implementar una lista de compras y un presupuesto colectivo para asegurarte de que todas las personas contribuyan por igual a tales reuniones. Puede que te tiente consentirte mientras compras los regalos, pero intenta no derrochar en tus tiendas favoritas hasta que hayas abierto los regalos que van dirigidos a ti.
+Sentirás un cambio una vez que Júpiter vuelve a ingresar a Piscis el 20 de diciembre, trayendo abundante energía al sector de tu carta astral que rige la autoexpresión y la diversión. Esta ubicación planetaria te vigorizará a medida que se acerca el año nuevo, brindándote la confianza para creer en ti y la idea de que todo es posible. Confía en tu lado creativo lo más que puedas y asegúrate de escuchar el espíritu libre que vive en tu interior mientras que el universo te invita a crecer a nivel emocional y artístico.
+El solsticio de invierno comienza el día 21, agudizando tu ingenio y estabilidad mental. Tu lado más pragmático puede aportar equilibrio a cualquier idea descabellada que tu corazón pueda tener, esto te ayudará a aplicar sentido común a tus deseos y sueños. Sin embargo, puede que sientas que se está gestando una batalla interior entre tu mente y tu alma, por lo que es importante que te permitas soñar sin despegar los pies del suelo por completo.
+Días destacados: 7, 19, 20
+Días desafiantes: 1, 27, 31

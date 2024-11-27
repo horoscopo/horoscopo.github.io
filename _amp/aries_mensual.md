@@ -7,16 +7,16 @@ home: FALSE
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/Aries_mes.png#2024-11-26
+ogimg: /images/mes/Aries_mes.png#2024-11-27
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-11-26'
+ lastmod: '2024-11-27'
 ---
 
 
-Aunque noviembre tiende a inspirar optimismo, esperanza y amor en la sociedad, la temporada será especialmente motivadora para ti, ya que el sol, Venus y Mercurio en Sagitario transitan por el sector de tu carta astral que rige la espiritualidad. Este clima cósmico te traerá una profunda sensación de apoyo proveniente del más allá, estimable Aries, por lo que es un buen momento para volver a conectarte con tu meditación u oración favorita. Intenta ver tu camino de vida como una alianza con el universo, pidiendo ayuda y orientación cuando lo necesites.
-Tu mente estará ocupada durante la luna llena en Géminis el 15 de noviembre, aunque debes intentar mantener el control de lo que dices. Una conjunción entre la luna y Marte retrógrado podría hacer que hables sin pensar, en especial si comienzas a sentirte a la defensiva. Los errores que cometiste podrían volver a atormentarte, y puede que tengas la tentación de revivir el pasado para darle un cierre. Resiste la tentación de mirar hacia atrás, aun si el camino por delante tiene algunos obstáculos.
-Júpiter vuelve a ingresar a tu signo el día 20, trayendo una expansiva energía que permite que veas tu potencial infinito. Tu suerte también estará en alza, así que asegúrate de luchar por tus sueños y deseos. Los cambios continuarán manifestándose cuando el sol ingresa a Sagitario el día 22, alentándote a que tomes en serio tus ambiciones profesionales y responsabilidades personales. Las vibras del momento pueden ayudarte a forjar un nombre, siempre y cuando trabajes de manera constante y paciente para lograr tus objetivos.
-Días destacados: 3, 19, 20
-Días desafiantes: 14, 29, 30
+Te encantará pasar la temporada de festividades en casa este mes, estimable Aries, ya que el sol, Venus y Mercurio en Sagitario transitan por el sector de tu carta astral que rige la felicidad doméstica. Trabajar durante esta época te brindará una sensación de comodidad y nostalgia, así que busca la receta de galletas de tu abuela, prepara chocolate caliente e invita a tus seres queridos a divertirse y conversar frente a la chimenea. Sin embargo, debes tener en cuenta que no estás organizando todo esto a solas. Pide ayuda con los platos y la limpieza al final de las reuniones.
+Saca a relucir toda tu astucia durante la luna llena en Géminis, cuando la luna se acerque al apasionado Marte el 15 de diciembre. Hacer regalos a familiares y amistades puede ayudarte a desconectar temporalmente de cualquier estrés que esté ocupando espacio en tu vida profesional mientras llenas tu corazón de gratitud y amor. Expresarte a través de gestos amables o esmerados regalos te recuerda todo lo bueno de este mundo y te ayuda a fortalecer tus lazos más importantes.
+Tendrás más ganas de aventurarte una vez que la temporada de Capricornio comience el día 21, activando tu quinta casa solar. Estas vibras están relacionadas con la creatividad, la confianza y el disfrute de tus amistades, por lo que es importante que aceptes cualquier tentadora invitación social. Tómate un momento para considerar cómo te gustaría fortalecer tu imagen y tu ego durante la luna nueva del 30 de diciembre, y no te sientas culpable si tu agenda se vuelve un poco superficial o egoísta.
+Días destacados: 6, 15, 17
+Días desafiantes: 1, 9, 29

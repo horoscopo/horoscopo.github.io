@@ -9,20 +9,21 @@ keywords: horóscopo diciembre, horoscopos en español, horóscopo Virgo diciemb
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/virgo_mes.png#2024-11-26
+ogimg: /images/mes/virgo_mes.png#2024-11-27
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-11-26'
+ lastmod: '2024-11-27'
 ---
 
 
- > Virgo, este mes Júpiter ... ¡entra a tu signo! Has estado haciendo un gran trabajo interno que te ha ayudado a reconectar contigo. Ahora es el momento de ampliar horizontes, y a partir de la segunda quincena de noviembre podrás empezar por tu círculo más cercano. Venus en tu casa III suaviza tus relaciones diarias y tu forma de comunicarte. Aprovecha este tránsito para conocer nuevas personas y hacer nuevos contactos.
+ > Virgo, vas a acabar el año como a ti te gusta, rodeada de los tuyos y celebrando, que es lo más importante. Harás balance y tu corazón decidirá por ti lo que será mejor para empezar una nueva etapa que llega en 2025. Este mes de diciembre pareciera que todo el mundo tiene más suerte que tú. Los astros favorecen a los demás y te mandan oposiciones o cuadraturas. Aunque estas energías son tensas, para ayudarte a tener éxito, encontrarás nuevos recursos que te serán muy útiles en el presente y el futuro. Aunque en un principio no te lo parezca, te ayudarán.
 
 
 
-Una conversación o algo que descubres ahora te está pidiendo que cuestiones tus creencias, presunciones y percepciones, a medida que aprendes una verdad más profunda. No tienes que dudar de ti. Esta es una oportunidad para renegociar acuerdos importantes en lo económico y lo personal, con el fin de que te ofrezcan mayor seguridad y libertad personal. Reconoce lo que necesitas, y no niegues los nuevos deseos que crecen dentro de ti. No necesitas decírselo a todo el mundo, pero al menos sé una persona honesta contigo. ¿Qué hace que tu corazón lata fuerte cuando piensas en ello? 
-Desde el 2010, Urano en Aries ha puesto a prueba tus ideas de hogar, familia, y de lo que significa la seguridad. Cuando Urano transita por Tauro, la vida te saca de tu zona de confort. Hazlo con gusto. De esa forma no sentirás que te arrastra, y es probable que disfrutes del proceso. Los niños pueden sorprenderte y enseñarte mucho. Busca más profundo dentro de tu corazón, deseos, creatividad y pasión. 
-Los Capricornios suelen tener responsabilidades impuestas desde una edad temprana. Ya eres mayor, pero permítete conectar con tu niño o niña interior y reivindicar tu inocencia. Libérate para dejar salir tu verdadero yo. 
-Días destacados: 9, 14, 20
-Días desafiantes: 1, 5, 22
+Venus ingresa a Escorpión el 2 de diciembre. Las dificultades pendientes de relaciones que dejó Venus retrógrado pueden resolverse ahora. Aunque tal vez sea mejor no replantear causas perdidas. 
+Pasa más tiempo en tu vecindario con amistades durante la luna nueva del día 1. Tal vez sea tan divertido que no querrás ir a ningún otro lugar. Si tu temporada de festividades comienza temprano, sé feliz. Mercurio se torna estacionario directo también ese día. Dale tiempo a los demás para volver a organizarse. 
+El trígono entre Venus y Neptuno del 21 de diciembre le agrega un poco de magia a una temporada de festividades que ya es mágica. Puede que el fulgor no dure mucho, así que disfruta. El sol entra a Capricornio también ese día, y comienza el invierno. 
+La luna llena del día 15 te mantiene en el centro de atención en el trabajo y entornos sociales. Ahora también tienes grandes reflexiones como figura de autoridad, así que haz lo que sea necesario, y hazlo bien a la primera. 
+Días destacados: 2, 3, 28
+Días desafiantes: 5, 19
