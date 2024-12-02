@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 25 de noviembre 2024 al 01 de diciembre 2024 
-description: Horóscopo semanal sagitario 25 de noviembre 2024 al 01 de diciembre 2024. A veces hay que llevar al límite las cosas Sagitario, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
+title: sagitario 02 de diciembre 2024 al 08 de diciembre 2024 
+description: Horóscopo semanal sagitario 02 de diciembre 2024 al 08 de diciembre 2024. Llega una semana bonita Sagitario, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención Sagitario, y seguramente la persona que menos te esperabas…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2024-11-25
+ogimg: /images/zodiac/semanal_sagitario.png#2024-12-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-11-25'
+ lastmod: '2024-12-02'
 ---
 
 
 
-## A veces hay que llevar al límite las cosas Sagitario, a veces hay que forzar todo para ver cuánto están dispuesto a dar por nosotros.
+## Llega una semana bonita Sagitario, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención Sagitario, y seguramente la persona que menos te esperabas…
 
-La meta es dura Sagitario, pero lo conseguirás. Estás en un proceso de adaptación, estás peleando fuertemente para que las cosas salgan como tú quieres. No hay Sagitario que no lo de todo cuando realmente desea algo… y así estás tú ahora, peleando como el que más. Pero a veces también sientes que nadas a contracorriente, y al final, te acaba arrastrando. Los mejores comienzos, normalmente, vienen después que los peores finales así que piensa que el estrés que has podido pasar últimamente no será en vano… Si las cosas cuestan, es por algo, pero tú lo tienes claro, vas a por todo a muerte, a fuego, y ya no te importará quien se cruce en tu camino o quien quiera estar a tu lado, porque los de verdad están estarán…No hay más… Tu carácter será más poderoso que nunca pero debes creértelo, ahora mucho más. Rodéate de personas que te hagan crecer, no de personas que te estanquen o intenten hundirte, es obvio que sabes de sobra quienes son pero a veces, el problema es que intentas cambiar a los demás, aunque sólo sea por orgullo, pero no, debes aprender simplemente a alejarte, a veces, sin ni siquiera despedirte Sagitario. Porque un mínimo acercamiento a lo que te hace mal puede suponer muchos pasos atrás… Cuesta dejar a un lado cosas en las que tenías mucha fé, pero a veces, si no las dejas jamás verás los miles de caminos que se te abrirán a los lados. No hace falta que digas todo lo que piensas o que hagas todo lo que crees que debes hacer, en ocasiones, dar media vuelta y dejar todo es lo mejor… Te va a costar la salud si no lo haces, y tu propia vida Sagitario… No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
-Tu vida social mejorará con la presencia del sol en este sector el martes, lo que aumenta tus opciones para divertirte y empaparte de un espíritu festivo. También hay un aspecto más enfocado que te anima a escuchar a tu intuición y a prestar atención a las señales y coincidencias que podrían ayudarte con tu carrera y ambiciones. Seguir estos consejos podría ayudarte a aprovechar una oportunidad que, de otro modo, podrías haber perdido. El fin de semana, una de tus amistades podría sorprenderte.
+Nadie se cura por herir a otro Sagitario. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que, a menudo pesa más de la cuenta, pero todo pasa, y todo llega. A muchos se les hace complicado entender por qué le das tantas vueltas a todo, por qué sufres momentos de ansiedad que parecen no calmarse con nada, por qué puedes llegar a ser tan autodestructivo con tus propios pensamientos… No olvidas nada, ese es el problema a veces, y también la virtud en otros momentos. Y es duro para el resto sí, pero más duro es para ti. Tienes que canalizar todo eso y llevarlo hacia lo productivo, mandar toda esa energía hacia lo que te hace feliz. Las traiciones están ahí, y no todo el mundo es como tú, no todo el mundo valora la sinceridad como tú lo haces, no todos tienen tu coraje… Debes aprenderlo para no caer en los mismos errores una y otra vez, y sobretodo para no hacerte daño.
+A partir de esta semana, las cosas pueden empezar a animarse, haciendo que sientas más confianza en tus perspectivas generales. La Luna Nueva en tu sector financiero podría ser el mejor momento para iniciar nuevas iniciativas que has estado considerando. Además, con Marte entrando a tu sector laboral, te prepararás para hacerle frente a cualquier desafío y hacer que ciertas cosas se mueven en la dirección de tus sueños. Venus entra a Virgo, dándote una elocuente habilidad que te dará encanto y te hará irresistible.
 
 ## Dinero
 
-Esta semana se obtiene un agradable descanso. Gente con la que pudiste haber perdido contacto está de vuelta en la escena. Una o más de estas personas más podría traer excelentes oportunidades comerciales. No tienes que entrarle a todos y cada uno de ellos, pero sin duda escucha las ideas que tengan. Debido a que hay grandes aspectos en tu carta ahora, tu influencia sobre los grupos sociales es cada vez mayor. Las esperanzas, los sueños y el dinero no están muy lejos. Deja que todos vengan hacia ti.
+Puede que te pongas las pilas esta semana. Tus habilidades de comunicación están aumentando, mostrando que se puede salir adelante a través de ser firme y claro/a con los que te rodean. Pide lo que deseas y es posible que lo consigas en el trabajo y en tu vida monetaria. Aunque las cosas pueden ser tensas, así que es mejor mantenerse limpios kármicamente hablando. No utilices tus palabras para hacer daño.

@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 25 de noviembre 2024 al 01 de diciembre 2024 
-description: Horóscopo semanal capricornio 25 de noviembre 2024 al 01 de diciembre 2024. No te permitas sentir la presencia de nada que tenga ya que ver con el pasado Capricornio, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
+title: capricornio 02 de diciembre 2024 al 08 de diciembre 2024 
+description: Horóscopo semanal capricornio 02 de diciembre 2024 al 08 de diciembre 2024. Tómate un tiempo Capricornio, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2024-11-25
+ogimg: /images/zodiac/semanal_capricornio.png#2024-12-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-11-25'
+ lastmod: '2024-12-02'
 ---
 
 
 
-## No te permitas sentir la presencia de nada que tenga ya que ver con el pasado Capricornio, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
+## Tómate un tiempo Capricornio, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
 
-Esfuérzate un poco más de lo que hiciste ayer Capricornio, simplemente eso, lo que has aprendido todos estos años se ha instalado ya en tu cabecita. Y bien sabes que cuando quieres cambiar algo y empiezas a presionarte todo sale mal. 
- de hecho ahora es ese momento en el que puedes utilizar todo lo que sabes para ser un poco más feliz.
-Venus se mueve de un lado a otro hasta llegar a tu sector de viajes y exploración el martes, por lo que las oportunidades para el romance podrían aparecer mientras te encuentras de viaje. Puede que también surjan si estás estudiando en grupo o aprendiendo una nueva habilidad. Los asuntos profesionales también son importantes esta semana, y puede que tu situación mejore si haces contactos fundamentales. De hecho, recolectar información y pedir consejos puede ayudarte a avanzar en tu negocio o profesión. También tendrás ganas de conectar con amigos y disfrutar de momentos más tranquilos.
+No estás mal con lo que tienes no, pero ya no eres el mismo que antes Capricornio. Has cambiado, y quieres otra vida, llenarte de otras sensaciones que te alimenten, que te hagan crecer como persona, metas y objetivos nuevos. Quieres llenar tu vida de personas inigualables, de gente que merece la pena de verdad. Quieres que tus días estén llenos de esas personas que te hacen ver la belleza del mundo. Quieres gente aventurera cerca, que no se raye por estupideces, que no te raye a ti… Quieres perseguir puestas de sol, quieres perseguir lunas llenas, quieres salir de la mierda de la rutina que a veces te ahoga. Quieres personas que no vean el mundo de la misma manera que tú, personas que tengan la capacidad de hacerte cuestionar todo lo que creías que era cierto. Necesitas vidilla, aventura, es lo que más deseas ahora, búscala Capricornio, búscala y sal de la rutina como sea. Si no tienes sueños o metas de este tipo te acabas apagando, y mucho. O te empiezas a ilusionar y a perseguir lo que de verdad quieres o vas para abajo Capricornio. Si quieres cambiar algo es porque no estás satisfecho del todo Capricornio, esto funciona así. Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
+Tu vida social tiene una chispa adicional esta semana, a medida que Venus te anima a conectarte con viejas y nuevas amistades, y a involucrarte en general. Una poderosa influencia en un sector sutil podría animarte a renovar tu relación con pensamientos y sentimientos más profundos. Una forma de hacerlo es anotar tus sueños, ya que pueden contener poderosos consejos para ti. Por otro lado, una relación podría costarte más de lo que te das cuenta. ¿Realmente vale la pena?
 
 ## Dinero
 
-Para ti, esta semana es sobre el sector de tus sueños y vidas pasadas que de repente pueden revelar un talento que no sabías que tenías. Pon un poco de acción e intención en donde se encuentre tu atención ahora y verás que el dinero inmediatamente te seguirá. Mientras que escuches a tu juicio interior, te será difícil imaginar un momento más afortunado.
+Es probable que busques maneras de hacer que tu creatividad fluya. Tienes que usar tus emociones para ganarte la vida de alguna manera. Puesto que los aspectos presentes afectan tu sector de romance, niños y familia; buscar productos que todos disfruten te rendirá los mejores resultados. Planea cómo entretener, o como servir a tu demográfico elegido y verás la mayor cantidad de dinero al final.

@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 25 de noviembre 2024 al 01 de diciembre 2024 
-description: Horóscopo semanal virgo 25 de noviembre 2024 al 01 de diciembre 2024. Mira Virgo, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
+title: virgo 02 de diciembre 2024 al 08 de diciembre 2024 
+description: Horóscopo semanal virgo 02 de diciembre 2024 al 08 de diciembre 2024. Empieza a hacerte promesas a ti mismo Virgo, empieza a prometerte amor propio, hoy y siempre. 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2024-11-25
+ogimg: /images/zodiac/semanal_virgo.png#2024-12-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-11-25'
+ lastmod: '2024-12-02'
 ---
 
 
 
-## Mira Virgo, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie.
+## Empieza a hacerte promesas a ti mismo Virgo, empieza a prometerte amor propio, hoy y siempre. 
 
-Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Virgo, por qué te lo callas y te lo llevas callando tanto tiempo? No te das cuenta de que sufres en silencio, no te das cuenta de que acumulas y por eso a veces no avanzas? No eres sensible ni débil por hacerlo, eres real Virgo, y si las cosas te duelen no puedes hacer como si no pasara nada, no puedes dejarlo a un lado y seguir como si nada. Tú no funcionas así Virgo. Has perfeccionado esa sonrisa falsa, has perfeccionado eso de aguantar por fuera como si estuviera entero cuando por dentro estabas roto en mil pedazos, has aprendido a engañar a los demás. Está bien que no quieras preocupar a algunas personas, pero no todo va tan bien como te gustaría Virgo, y mira, tampoco te lo vas a comer todo vale? No ignores tus sentimientos, no trates de aplastarlos para que no se interpongan en tu camino, no intentes de forzar y de mantener fuera de tu vida lo que aún está dentro, la tentación siempre estará ahí hasta que no cortes realmente con el problema… No te sientas imbécil por llorar, por preocuparte demasiado aún, todo tiene un proceso… Y ese proceso llega a su fin… Feliz semana…
-Las dificultades podrían comenzar a desaparecer con Mercurio ahora avanzando en tu sector de carrera y propósito de vida. Planes que fueron retrasados ahora pueden ser puestos en acción con una buena probabilidad de que vayan a empezar a materializarse. Es posible que desees analizar más profundamente cierta oportunidad, ya que puede que no sea lo que parece. Pregúntate cuales son tus motivos para involucrarte. La respuesta podría ser muy reveladora. El fin de semana trae la posibilidad de una cita amorosa, junto con una muy útil información.
+Está bien que luches por lo que quieres pero a veces te pasa que por lo único que luchas es por no perder lo que tienes. Y eso es muy distinto. 
+ A veces nada es mucho mejor que algo, a veces nada es mejor que todo y sobretodo que “eso” que tampoco es que vaya genial o que merezca muchísimo la pena.
+Todo lo que conoces y entiendes de tu vida interna y de tus pensamientos y sentimientos puede influir directamente en tus finanzas. Mientras más confianza sientas, más confianza tendrás en tu capacidad de aumentar tus ingresos y sentir seguridad. La presencia del expansivo Júpiter en tu sector espiritual sugiere que contratar los servicios de un consejero de vida u otro profesional podría ser útil, ya que podría ayudarte a superar los límites que sientes y a sentir más plenitud.
 
 ## Dinero
 
-Esta semana podría ser un reto para ti. Podías sentir como si alguien te obligara a hacer algo contra tu voluntad. Pero el Universo está simplemente tratando de empujarte hacia tu hogar y a los sentimientos internos. Esto podría revelar algo importante acerca de cómo ganar más dinero a corto plazo. Trabajar en casa puede ser una buena opción.
+¡Vas con todo esta semana! Esto proporciona una gran explosión de energía destinada a mejorar tu publicidad para atraer a nuevos compradores o esfuerzos de ganar dinero, como iniciar un nuevo negocio. Si estás buscando una nueva posición, primero pregunta sobre el salario para que no te decepciones después de haber hecho la entrevista. Un aspecto inarmónico podría significar que la familia y el romance se ponen en segundo plano durante un tiempo.

@@ -1,30 +1,28 @@
 ---
 layout: horoscopos
-title: aries 25 de noviembre 2024 al 01 de diciembre 2024 
-description: Horóscopo semanal aries 25 de noviembre 2024 al 01 de diciembre 2024. Quieres hacer de todo, en realidad no quieres parar de andar, de vivir, de reír y hasta de llorar si eso al final te hace más fuerte después. Estás empezando a comprender que vida no hay más que una…
+title: aries 02 de diciembre 2024 al 08 de diciembre 2024 
+description: Horóscopo semanal aries 02 de diciembre 2024 al 08 de diciembre 2024. Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2024-11-25
+ogimg: /images/zodiac/semanal_aries.png#2024-12-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-11-25'
+ lastmod: '2024-12-02'
 ---
 
 
 
-## Quieres hacer de todo, en realidad no quieres parar de andar, de vivir, de reír y hasta de llorar si eso al final te hace más fuerte después. Estás empezando a comprender que vida no hay más que una…
+## Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
 
-Fíate de ti mismo Aries, de ti mismo y de tus acciones. De nadie más. Las expectativas no funcionan siempre, es más cuantas más expectativas tienes de algo más duro es el golpe después si no se cumplen como tu querías que se cumplieran. Por muy desconfiado y duro que parezcas ser, al final acabas confiando Aries y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto, has dejado de lado tu personalidad, tu opinión acerca de algo. Eso es lo que duele. Por eso ahora, lo mejor es no dar demasiado. Deja que sea el resto el que te de a ti. Déjate mimar. Deja que los demás te demuestren en vez de ser tú quien siempre demuestre al resto. No siempre tienes que ser tú el que está equivocado, no siempre tienes que ser tu el que vaya detrás del resto, el que tiene que arreglar constantemente todo. Si te sientes más frío ahora no te preocupes, son etapas, también tiene que haber momentos en los que no des todo de ti. Y ese es uno de ellos. Y no es que hayas cambiado, es que has sabido valorarte, has aprendido a no dar el 100% cuando sólo recibes la mitad, o ni siquiera eso. Los demás se hacen fuertes cuando el débil eres tú. Deja de poner en primer lugar los propósitos de los demás y pon los tuyos antes.
-¿Qué prefieres? ¿Viajar y disfrutar un poco o ponerte a trabajar en serio? Esta podría ser la decisión a la que te enfrentes el lunes, cuando el conversador Mercurio se dirige al intenso Plutón. Es muy probable que no puedas tomarte un tiempo solo porque crees que lo necesitas, pero tal vez puedas planificarlo y disfrutarlo más adelante en la semana. 
-El martes es más positivo cuando el sol se opone al jovial Júpiter. Un cumplido por parte de un familiar o un sentido apoyo podrían ayudarte a dar un paso adelante en el camino de tus sueños. 
-El viernes podría ser otro día importante. Puede que te ofrezcan una oportunidad relacionada con más trabajo. Si tus instintos te dicen que sigas adelante, definitivamente debes tenerla en cuenta. 
-Por último, la mejor manera de manejar el fin de semana puede ser disfrutar de un espontáneo viaje. Cuanto más interesante sea, ¡mejor!
+Deja de creer que sabes lo que necesitan. En serio, a veces tener tanta empatía puede ser un problema. Siempre estás haciendo un esfuerzo por adaptarte a lo que los demás necesitan y como siempre también, te acabas olvidando de ti misma/o. 
+ No lo has pasado del todo bien pero empiezas a renacer Aries. No quieres mal rollo ni tampoco a personas que te causan una ansiedad ni un estrés terrible a tu lado.
+Debido al actual enfoque en tu sector espiritual, puede que haya habido mucho sucediendo detrás de escenas. Venus entra a tu signo el lunes, seguido por Mercurio a mitad de semana. Puede que esta sea una buena oportunidad para hablar de lo que es importante para ti y poner en marcha algunos de tus planes personales después de un período de inspiración creativa. El fin de semana podría poner una sorpresa en tu camino, una que podrías llegar a disfrutar bastante. Mantente alerta a un sueño que podría tener un significado especial.
 
 ## Dinero
 
-Puede que encuentres que será mejor ser paciente en lugar de avanzar en las metas financieras de esta semana. Los aspectos afectan a la educación superior y los viajes, así como tu trabajo de todos los días. Estas dos áreas no están trabajando bien juntas, por lo que no es un buen momento para insistir en tomar tiempo libre para estudiar o viajar, o hacer caso omiso de tu educación para hacer lo que siempre haces. Comprométete.
+Eres como una pantalla en la que otros pueden proyectar sus esperanzas, temores, logros y mucho más. Esto te permite el tener muchas caras. Así que si quieres un mejor trabajo o una mejor posición en la cadena alimenticia, actúa como si ya estuvieras en esa posición. Los aspectos te ayudarán a manifestar los cambios financieros que quieres ver en tu vida y a ahorrar para el futuro.
