@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 05 de diciembre 2024
-description: Horóscopos del dia de hoy 05 de diciembre 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 06 de diciembre 2024
+description: Horóscopos del dia de hoy 06 de diciembre 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2024-12-05
+ lastmod: 2024-12-06
 ---
-Hoy, la tendencia es actuar repentinamente durante la oposición entre la Luna y Urano. Siéntate, respira profundamente y espera hasta que el impulso pase. Hay un tremendo poder en las palabras cuando Mercurio conjunta a Plutón esta noche. Ciertamente, tu modo de comunicarte inspira respeto. ¿Qué es lo que vas a decir?
+Mira hacia futuro mientras Marte en Piscis conjunta a Neptuno. El futuro se desenrolla ante tus ojos. De verdad es posible comenzar de nuevo y construir una nueva vida basada en resoluciones. La energía lunar de esta noche se trata de esperar y necesitar de un pequeño empujón para revelar algo importante (si no fue revelado anoche).
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
