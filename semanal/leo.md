@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: leo 02 de diciembre 2024 al 08 de diciembre 2024 
-description: Horóscopo semanal leo 02 de diciembre 2024 al 08 de diciembre 2024. Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así Leo, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
+title: leo 09 de diciembre 2024 al 15 de diciembre 2024 
+description: Horóscopo semanal leo 09 de diciembre 2024 al 15 de diciembre 2024. Llega una buena semana Leo, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2024-12-02
+ogimg: /images/zodiac/semanal_leo.png#2024-12-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-12-02'
+ lastmod: '2024-12-09'
 ---
 
 
 
-## Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así Leo, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
+## Llega una buena semana Leo, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
 
-Has caído en la rutina Leo, quieres pelear por personas que quizás no tengan mucho en común contigo pero aún así, te sigues aferrando a algo que quizás tenga fecha de caducidad. Necesitas hablar, conversar, pero un largo tiempo y de verdad poner todas y cada una de las cartas sobre la mesa. Te guardas demasiado para ti, para dentro, y por más que intentas sacarlo es como si algo te lo impidiera. Esta semana es buena para hacer balance de lo que quieres, de lo que buscas y de lo que necesitas. No vas a parar, tienes muchas cosas que hacer y eso será lo que te aleje de algunos problemas. Pero cuando eso que hagas se acabe, el problema seguirá estando presente, seguirá en el mismo sitio donde lo dejaste, y como no lo soluciones permanecerá ahí todo el tiempo. No te agobies y respira hondo cuando algo se ponga difícil. De todo se sale Leo, ya lo sabes. Las pequeñas cosas cuentan mucho ahora así que, empieza a decir que “si” a cualquier plan que te propongan, por pequeño que sea. Si quieres salvar algo, habla Leo, habla y saca de una vez todo ese universo de sentimientos y de emociones que tienes dentro. Como no seas claro de verdad y sólo tragues y tragues, todo va a salir mal. Disfruta esta semana pero aclárate un poco…
-Debido a que el atractivo Venus en tu sector de habla y pensamiento forma una audaz conexión con el etéreo Neptuno en tu sector de lejanos horizontes, puede que la belleza y mística de un lugar te atrapen. Si lo que buscas es tranquilidad, investiga los detalles (en caso de que quieras reservar unas vacaciones). Puede que las fotos se vean fabulosas, pero la realidad podría ser distinta. Puede haber demoras cuando el elocuente Mercurio se vuelve retrógrado en tu sector de dinero personal el Miercoles. Ya que esta fase durará alrededor de tres semanas, puede que sea una buena idea tener cuidado con el dinero en efectivo. Guarda los recibos de las compras grandes y presta especial atención al uso de tarjetas de crédito e información personal. 
-La actividad lunar en Acuario del viernes podría ser una llamada a encontrar el equilibrio entre tu propia necesidad de confort y seguridad, y las necesidades de los demás, en particular durante las próximas semanas.
+Por fin vas a finalizar ciclos Leo, ¡por fin! Por favor, échale ganas a todo lo que vayas a terminar, y cuando lo hagas, mantén la cabeza bien alta, arribita, para que todos vean lo que eres capaz de conseguir. Y empieza nuevas metas, nuevos proyectos. Es cuestión de ponerse Leo, de verdad. Ahora todo va a ser mucho más fácil que antes, te espera una buena semana porque vas a quitarte lastres de encima, vas a motivarte a ti mismo sin esa put* carga que pesaba tanto. Vas a volver a brillar. Eres Leo joder, un mal día no es una mala vida y aunque estos días atrás hayas tenido más de un bajón emocional todo eso ahora se disipa. Se acabó. No olvides que tienes una belleza increíble, por dentro y por fuera, no olvides que aunque tu alrededor haya sido una mierda tú sigues brillando. Y lo estás haciendo bien Leo. Dentro de poco volverás a tu lugar, ese del que nunca debías haberte alejado. Un lugar en lo alto, un lugar que elijas, un lugar donde se te admire, donde se vea tu esencia… Puedes conseguir absolutamente todo, métetelo en tu cabeza, ¿ok? Y que no vuelva a salir por nada del mundo. Feliz semana Leo, y ¡a empezar de nuevo! El estrés o la ansiedad no tienen hueco en tu vida en estos momentos. No pueden robarte más vida…
+Puede que te encuentres siendo el centro de atención, por lo que aprovecha lo más que puedas. De hecho, la conexión entre el Sol y Neptuno podría concederte algunas visionarias ideas que impresionen a una persona importante. Un poco de tiempo dedicado a reflexionar podría permitirte detectar oportunidades que de otra manera no tendrías. Mientras tanto, alguien podría hacerte una oferta que querrás considerar seriamente, ya que parece tener una base sólida. Sin embargo, una sorpresa que surja más adelante en la semana podría no ser tan buena como aparenta.
 
 ## Dinero
 
-Tienes emoción de hacer nuevos y grandes contactos. Hagas lo que hagas para ganarte la vida, verás que es mucho más fácil el llevarse con amigos. El pedir ayuda a un mentor de confianza o simplemente presentarte a alguien que siempre ha sido una inspiración para ti es un gran uso de la energía actual. Algunos de estos mentores se pueden encontrar entre tus hijos, familiares y socios creativos.
+Te sientes con suerte esta semana. Puesto que la energía es tan expansiva, atraerás oportunidades de ganar más, siempre y cuando mantengas los ojos abiertos. Mientras tanto, un aspecto armonioso afecta tu trabajo. ¡Ponte bien los guantes! Es hora de mostrarles de lo que estás hecho/a y atraer un salario acorde a tus capacidades.

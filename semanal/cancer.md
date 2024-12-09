@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 02 de diciembre 2024 al 08 de diciembre 2024 
-description: Horóscopo semanal cancer 02 de diciembre 2024 al 08 de diciembre 2024. Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+title: cancer 09 de diciembre 2024 al 15 de diciembre 2024 
+description: Horóscopo semanal cancer 09 de diciembre 2024 al 15 de diciembre 2024. Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2024-12-02
+ogimg: /images/zodiac/semanal_cancer.png#2024-12-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-12-02'
+ lastmod: '2024-12-09'
 ---
 
 
 
-## Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+## Si tienes que tomarte más de un momento de soledad para recapacitar, para poner encima de la mesa todo, para valorar lo que te conviene o no, hazlo. Y si tienes que escaparte y olvidarte del mundo unos días, también, a veces, necesitas eso para volver con más fuerza y sobretodo con tus ideas más claras…
 
-Tienes que ser tu prioridad ahora, tienes que cuidar de tus necesidades antes que de las demás Cáncer. Has perdido mucho por tomar decisiones que no eran las correctas, por intentar dar oportunidades en balde… Tienes que ser un poco egoísta Cáncer, ahora más que nunca. Tu tiempo vale oro pero últimamente parece que no lo valorabas como tal, dedícate a las cosas importantes, las que te van a dar frutos, las que te van a hacer sentir bien contigo mismo/a. Muévete del sitio en el que estás si eso no lo encuentras, cambia de país, de ciudad, de barrio, de entorno. Lo que sea Cáncer, cambia lo que sea para alcanzar lo que crees que puedes. Piérdete las veces que haga falta, prueba aunque no estés seguro de si las cosas saldrán bien o mal, si tu corazón y tu instinto te llaman, ves. Cuida de tus emociones Cáncer, cuídalas bien y que ahora sean lo más importante de todo. Tienes derecho a elegir qué tipo de gente quieres en tu vida, puedes alejarte de las amistades tóxicas Cáncer, debes olvidarte de las conexiones que sabes que no van a ningún lugar. Esta semana tienes que planificarlo todo, tienes que comprender que si no das el paso tú nadie lo hará, es sólo un empujón hacia tus sueños y tus metas. No te estanques, y vuelve a ponerte el primero en todo.
-La semana por delante podría hacerte algunas exigencias a pesar de que ya tienes ganas de progresar. En casa, las ganas de prepararte para la época de fiestas podrían coincidir con la decisión de limpiar el desorden y poner todo en orden. En tu trabajo, tu situación actual podría requerir de un cambio, sobre todo si los viejos métodos y rutinas no están solucionando actuales problemas. Hacer algunos cambios podría mejorar las cosas. Por último, ya sea que tengas pareja o recientemente te hayas enamorado, tu vida romántica se percibe muy prometedora a partir del domingo.
+No eres la misma persona que eras hace tres años, un año o unos meses atrás, estás en constante cambio, las experiencias te han hecho ser mucho más duro, mucho más fuerte, y sí, te han hecho ver que todo tiene un principio pero que nada dura eternamente. Si necesitas consejo, habla contigo mismo, recuérdate experiencias, aunque muchas sean dolorosas, nadie mejor que tú sabe por lo que has pasado, nadie mejor que tú sabe lo que no quiere volver a repetir. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo. No está bien conformarse Cáncer, no está bien pensar que lo que tienes es porque lo mereces, porque no es así, lo que tienes es porque aún no has buscado o encontrado lo que de verdad deseas, pero si no eres tú quien intenta encontrarlo, nadie lo hará por ti. Pasarán los años, ¿y de verdad te quieres ver en la misma situación dentro de por ejemplo dos años? No, porque tú tienes sueños, tienes proyectos, pero sólo te falta ese empujón, esa “seguridad” que parece que tienes pero que también te falta. Rompe con todo Cáncer, mírate y observa lo que ves, observa lo que vales, puedes llegar a conseguir tanto… Sólo te falta tomar esa decisión que quizás asusta tanto pero que es la decisión que hará que tu destino cambie…
+Los sentimientos podrían elevarse el viernes debido a la incipiente luna llena, así que podrías necesitar llevar tus conversaciones con mucho más cuidado que de costumbre. Sería fácil decir lo que no debes si estás bajo estrés, así que intenta pensar antes de hablar. Como el sol se alinea con Neptuno ese día, podría tener el efecto contrario, lo que te llevaría a poner a los demás antes que a ti, en especial si necesitan ayuda. Por último, el ingreso del interactivo Mercurio a Sagitario es útil para demostrar tus habilidades y talentos.
 
 ## Dinero
 
-Cierta actividad en tu sector de dinero y de valores hace que sea prácticamente imposible evitar todas las ofertas y las oportunidades de ganar más a corto plazo. Haz heno mientras el Sol brilla. Esto es especialmente cierto ya que algunos de los aspectos son desafiantes. Puede ser que tu vida en el hogar sea un poco caótica ahora. No gastes más de lo que deberías.
+Te enfrentas a un tiempo que hace correr la voz. No solamente estás conociendo gente nueva y reconectando con viejos amigos, también estás influyendo en la opinión pública con tu trabajo y pidiendo lo que realmente vales. Un aspecto positivo armoniza tus esfuerzos para crear una vida cómoda. El primer paso en este camino es un hogar seguro y acogedor. Ya sea que ésta sea una casa o un apartamento, asegúrate de que estás viviendo en un espacio que te hace sentir éxito.

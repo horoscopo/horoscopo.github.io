@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: aries 02 de diciembre 2024 al 08 de diciembre 2024 
-description: Horóscopo semanal aries 02 de diciembre 2024 al 08 de diciembre 2024. Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
+title: aries 09 de diciembre 2024 al 15 de diciembre 2024 
+description: Horóscopo semanal aries 09 de diciembre 2024 al 15 de diciembre 2024. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2024-12-02
+ogimg: /images/zodiac/semanal_aries.png#2024-12-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-12-02'
+ lastmod: '2024-12-09'
 ---
 
 
 
-## Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
+## Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
 
-Deja de creer que sabes lo que necesitan. En serio, a veces tener tanta empatía puede ser un problema. Siempre estás haciendo un esfuerzo por adaptarte a lo que los demás necesitan y como siempre también, te acabas olvidando de ti misma/o. 
- No lo has pasado del todo bien pero empiezas a renacer Aries. No quieres mal rollo ni tampoco a personas que te causan una ansiedad ni un estrés terrible a tu lado.
-Debido al actual enfoque en tu sector espiritual, puede que haya habido mucho sucediendo detrás de escenas. Venus entra a tu signo el lunes, seguido por Mercurio a mitad de semana. Puede que esta sea una buena oportunidad para hablar de lo que es importante para ti y poner en marcha algunos de tus planes personales después de un período de inspiración creativa. El fin de semana podría poner una sorpresa en tu camino, una que podrías llegar a disfrutar bastante. Mantente alerta a un sueño que podría tener un significado especial.
+Y de repente cambias Aries, y nadie lo entiende. Pues sí, de vez en cuando hasta tu cuerpo te pide dar un giro que, aunque no sea del todo radical si te permita cerrar algunos asuntos pendientes que parecía que no iban a llegar nunca. Hay personas que no lo entienden, que piensan cómo es posible que llevaras un camino tan inestable en tu vida y de repente la enderezaras para tomar otro rumbo diferente… Pues sí, no eres imbécil, y sabes que si algo no te conviene, no te conviene, y aunque te des cuenta tarde, lo importante es que sabes corregirlo. La cuestión es que los que estaban a tu alrededor y creían conocerte se echan las manos a la cabeza y piensan cómo puede ser que de repente hagas todo lo contrario a lo que parecía que ibas a hacer. Pues es sencillo, porque todo tiene un límite, y por mucha paciencia que Aries pueda tener, lo siento, también tiene amor propio, que a veces no saca, que a veces parece que está escondido, pero lo tiene, aunque a muchos les joda y les fastidie sus planes. Ya te han hecho daño, y estuviste solo, y te sentiste más inseguro que nunca, y el mundo parecía romperse en dos, y ahí nada importaba pero ahora, ahora es todo diferente. Ahora sólo darás tu mejor cara, la buena, la dialogante, la amable, a quien se lo merece. Porque antes lo entregabas todo aunque nadie te lo pidiese, y te quedaste muchas veces sin nada, pero te daba igual, porque eras leal a tu palabra Aries, pero ahora ya sólo quieres ser leal a ti mismo. Sigue así, de verdad, no hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
+Ciertos asuntos de negocios y finanzas compartidas podrían ser agitados conforme Marte entra a tu sector de activos y recursos. Si algunos de ellos han avanzado demasiado lento últimamente, es posible que tu interés sea despertado debido a varias ofertas u oportunidades. Con Plutón avanzando en esta misma zona, cambios positivos pronto podrían surgir. También hay positivas influencias en tu sector de ocio y creatividad. La Luna llena del domingo podría ser el momento adecuado para empezar a mostrar tus habilidades.
 
 ## Dinero
 
-Eres como una pantalla en la que otros pueden proyectar sus esperanzas, temores, logros y mucho más. Esto te permite el tener muchas caras. Así que si quieres un mejor trabajo o una mejor posición en la cadena alimenticia, actúa como si ya estuvieras en esa posición. Los aspectos te ayudarán a manifestar los cambios financieros que quieres ver en tu vida y a ahorrar para el futuro.
+Tu sector de relaciones hace clara más que nunca la importancia de las alianzas positivas con jefes, superiores, mentores y clientes. Nunca te confíes en que estás relaciones  simplemente funcionarán. Sé proactivo/a en la formación, mantenimiento y avance de aquellas que son más útiles para tu vida laboral y monetaria. El enfoque se centra en mejorar tu educación, viajar y aprender sobre otras culturas e idiomas. Todos pueden avanzar en tu causa.

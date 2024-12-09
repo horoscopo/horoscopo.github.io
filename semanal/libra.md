@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: libra 02 de diciembre 2024 al 08 de diciembre 2024 
-description: Horóscopo semanal libra 02 de diciembre 2024 al 08 de diciembre 2024. Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
+title: libra 09 de diciembre 2024 al 15 de diciembre 2024 
+description: Horóscopo semanal libra 09 de diciembre 2024 al 15 de diciembre 2024. En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2024-12-02
+ogimg: /images/zodiac/semanal_libra.png#2024-12-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-12-02'
+ lastmod: '2024-12-09'
 ---
 
 
 
-## Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
+## En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
 
-Acepta las ofertas que creas que debas aceptar y sobre todo, cree en ti, porque solo o acompañado puedes hacer lo que quieras, puedes llegar hasta donde quieras llegar… Empieza a dedicarle todo el tiempo del mundo a lo que te hace feliz, lo necesitas. Las dudas han quedado atrás, ya te lanzas, y más cuando te estás dando cuenta que si sientes que vas a apostar para ganar tienes que hacerlo ya. Esta semana es muy probable que empieces a abrir los ojos ante cosas nuevas, van a ofrecerte demasiado, conocen tu talento, pero debes ser hábil para elegir qué es lo que más te conviene, qué es lo que realmente necesitas y qué es lo que te hará crecer en un futuro. A la mierda lo demás Libra. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora. Algo muy importante que debes saber es que cuando hagas lo que deseas, procura mandar muy lejos lo que no deseas, ¿y por qué? Porque al final lo que está podrido acabará por pudrir al resto de cosas. Es decir, si empiezas con buen pie algo pero tienes un lastre de cosas o personas que lo que te hacen es que de nuevo vayas hacia atrás, jamás vas a progresar, nunca. Por eso, aleja primero las cosas que debas alejar y cuando estés libre totalmente de ese tipo de negatividad, lánzate a hacer lo que más te gusta, y dedícate a ello al 100%. Te espera una buena semana pero por favor, deja de pensar en idioteces que no te sacan de nada.
-Si has sentido confusión acerca de lo que quieres en la vida, las cosas podrían empezar a caer en su lugar durante las próximas semanas. De hecho, con Júpiter posicionado al comienzo de tu sector de ambiciones profesionales, podrías toparte con que tu confianza aumenta y con ella tu capacidad de confiar en que estás tomando decisiones sabias. Bajo la actividad Lunar de este viernes, piensa muy cuidadosamente con respecto a asumir un reto u oportunidad. Investiga los detalles en profundidad antes de comprometerte.
+No pelees Libra, no discutas, no pierdas el tiempo con nada ni con nadie. Esta semana estás apático por momentos, como si hubieras tirado la toalla en muchos aspectos de tu vida, como si ya no te importara pelear por algo que ves que no merece la pena. Pero el problema no es que digas “hasta aquí”, el problema es que sigues ahí, sin fuerzas, mostrándote casi indiferente hacia todo lo que gira en torno a ti, como si ya nada importara. Pero el caso es que sí que importan muchas cosas, muchísimas, pero debes dejar de lado de verdad las que ya no tienen cabida. Haz algo diferente Libra, tienes que curarte aún de algunos palos, tienes que darte un chute de fuerza y de energía y remontar como sea… Vete a una cafetería, solo, y piensa en todo lo que ha pasado, escríbelo, acuérdate de cuanto tiempo has estado dando todo de ti, plantéate si merece la pena seguir haciéndolo… A veces, para curarte de todo ese estrés emocional hay que descansar, y a veces descansar es ocultarse del mundo por un tiempo, es tener todo lo que necesitas dentro de ti. Quizás sea bueno que te alejes de lo que te daña y lo veas desde fuera, como un espectador Libra, vas a ver muchas más cosas de las que creías ver, vas a sentir que es cierto que mereces un cambio.
+Ten cuidado con lo que dices, en especial el lunes, ya que podría ser demasiado fácil irritarte por asuntos menores. Los sentimientos podrían llegar a su punto máximo. Cualquier irritabilidad se canalizará mejor a través del ejercicio o de una caminata tranquila en la naturaleza. Prueba con un masaje, un tratamiento de spa o cualquier cosa que te ayude a relajarte. Cerca del jueves, prepárate para algunas noticias o tal vez una invitación que podría significar un viaje o aprender más sobre un asunto de interés.
 
 ## Dinero
 
-Tienes que pensar un poco acerca de tu casa. Desde la decoración, la organización, los muebles, tienes mucho que hacer por ahora. Pero hay cierta confusión en tus relaciones más cercanas. Ya sea que se trate de personal o profesional, la comunicación debe ser clara y concisa para que no se malinterprete. Mucho está en juego en éste aspecto.
+Te diriges a un período emocionante por delante. No se te puede ignorar sin importar lo que hagas. Puede que se te vea como el rebelde del grupo, lo cual puede funcionar a tu ventaja. Esto te distingue de los demás en tu trabajo, en tu campo y en todas partes. Muestra que tan diferente eres y atraerás más cada día.

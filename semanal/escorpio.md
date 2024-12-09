@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 02 de diciembre 2024 al 08 de diciembre 2024 
-description: Horóscopo semanal escorpio 02 de diciembre 2024 al 08 de diciembre 2024. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
+title: escorpio 09 de diciembre 2024 al 15 de diciembre 2024 
+description: Horóscopo semanal escorpio 09 de diciembre 2024 al 15 de diciembre 2024. Esta semana relájate un poco Escorpio, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2024-12-02
+ogimg: /images/zodiac/semanal_escorpio.png#2024-12-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-12-02'
+ lastmod: '2024-12-09'
 ---
 
 
 
-## Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
+## Esta semana relájate un poco Escorpio, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
 
-Hay cosas que no deben hacer daño Escorpio, pero te hieren, hay cosas que deberían curarte pero te enferman. Algo no va bien del todo, y lo sabes. Cualquier persona que te lastime a propósito no te quiere, cualquier situación en la que no te encuentres bien y te de más quebraderos de cabeza que otra cosa no te conviene. Hay mucho en la vida que perseguir, muchísimos sueños, muchísimas metas… No puedes olvidarte de ti mismo Escorpio, ahora no. Esta semana tienes que tomar un decisión muy importante que probablemente cambie todo el rumbo de tu vida, está semana quizás elijas un futuro muy distinto al que creías y tienes que estar preparado para aceptarlo. Lo nuevo no es malo Escorpio, lo nuevo quizás de un poco de miedo pero cuando lo que tienes no te llena al 100% hay que probar, hay que arriesgar para ganar. No puedes tener claras tantas cosas para que a la mínima de cambio te hagan un lavado de cerebro y acabes por tirar a la basura todas esas ideas tan válidas. No puedes estar de bajón cuando tú eres el primero que no busca estar en ese estado, cuando tú eres quien da todo lo que haga falta por hacer las cosas bien. Semana intensa Escorpio, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
-El comienzo de la semana podría ser muy agradable, ya que te ofrece la oportunidad de conectar con alguien que es una excelente compañía. Este animado comienzo de la semana puede impulsar tu estado de ánimo y dejarte con mucha energía. Debido a que el prudente Saturno y el potente Plutón giran en tu sector de romance y creatividad, podrías centrarte en una nueva relación o proyecto artístico. Sin embargo, también podrías obsesionarte un poco, lo que definitivamente no será útil. Dedica un tiempo a involucrarte en otras cosas. El resultado será más positivo si lo haces. 
- A mitad de semana, podrías recibir una sorpresa, ya sea dinero caído del cielo inesperadamente o un pequeño obsequio. Presta atención a esto. A partir del jueves, la actividad solar puede ser una invitación a explorar nuevos territorios o a tomarte un pequeño descanso. Esto debería ayudarte a relajarte en todos los niveles.
+No pienses tanto Escorpio, deja que la vida te vaya sorprendiendo. Últimamente estás como muy nostálgico ¿no? No es que estés deprimido pero sí se te ha pasado por la cabeza eso de que algunos momentos del pasado fueron mejores que en el que estás ahora. No te agobies Escorpio, ni te estreses. Quizás estás pensando demasiado en el futuro, en cómo van a ir las cosas, en si saldrá bien. Has arriesgado mucho para estar donde estás y con quien estás, y ya lo decidiste así que, no puedes pasarte la vida pensando si has hecho bien o no. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro Escorpio, pero no trates de sujetarlo por todos lados cuando su destino es el suelo. Eres firme con las decisiones que tomas, siempre lo has sido pero, probablemente por momentos se te haga cuesta arriba en muchos aspectos. Deja la nostalgia a un lado y esfuérzate en pensar que todo tiene un principio y un fin y que la vida son ciclos que empiezan y que acaban, y que después llega otro ciclo de la misma manera. No tengas miedo a lo que es desconocido para ti, al revés, enfréntalo como algo nuevo que, quien sabe, puede traerte cosas que duren para toda la vida. Ten mucha paciencia en estos días y aprende a tomarte las cosas como lo que son, ni más ni menos, no puedes dar mucha importancia a cosas que no la tienen pero tampoco quitársela a otras muchas que SI la tienen. Y lo sabes. Mantente hábil para descubrir todo. Ya hace un tiempo te planteaste que ser positiv@ sería probablemente el único camino para que las cosas salieran bien y sí, en el fondo sabes que gracias a eso estás aquí, así que, no lo pierdas por nada del mundo, aunque se caiga todo a pedazos, aunque nada tenga sentido, mantente fuerte, eso será lo que necesitas para que tu cabeza no decaiga por pensamientos negativos. Vas a darte cuenta de tantas cosas…
+Ten cuidado al discutir cuestiones  laborales o cerrar tratos. Con Mercurio retrógrado y Neptuno influyendo, las cosas pueden no ser lo que parecen. Lee cualquier clausula pequeña en cualquier documento que tengas que firmar, y mantén tu información financiera y personal en un lugar seguro. También verifica cualquier hecho que te sea entregado, ya que puede ser de origen dudoso. Aun así, te es posible avanzar si mantienes tu ingenio encendido. En cuanto a romance, recuerda que no todo lo que brilla es necesariamente oro.
 
 ## Dinero
 
-No sólo estás soñando con el próximo gran invento, estás solucionando la mejor manera de construir y financiar su fabricación. También estás estudiando la manera de lograr que algunas de tus ideas de hecho se lleven a cabo. Tienes algo importante que compartir, así que no te vendas por poco. Lo que pones adelante ahora da recompensas favorables para tu familia más tarde.
+Si lo que quieres es cierto equilibrio, mira a tu signo. No es casualidad que seas un excelente anfitrión. Actualmente tu vida profesional se opone a tu vida hogareña. Ambos quieren la totalidad de tu tiempo y una de las dos tiene que ceder. Por ejemplo, cambia tu vida en el hogar para dar cabida a tu vida laboral convirtiendo un cuarto extra en una oficina; lo cuál hará de tus horas de trabajo mucho más productivas, equilibradas y lucrativas.

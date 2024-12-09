@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 02 de diciembre 2024 al 08 de diciembre 2024 
-description: Horóscopo semanal virgo 02 de diciembre 2024 al 08 de diciembre 2024. Empieza a hacerte promesas a ti mismo Virgo, empieza a prometerte amor propio, hoy y siempre. 
+title: virgo 09 de diciembre 2024 al 15 de diciembre 2024 
+description: Horóscopo semanal virgo 09 de diciembre 2024 al 15 de diciembre 2024. Retírate del mundo artificial Virgo, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2024-12-02
+ogimg: /images/zodiac/semanal_virgo.png#2024-12-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-12-02'
+ lastmod: '2024-12-09'
 ---
 
 
 
-## Empieza a hacerte promesas a ti mismo Virgo, empieza a prometerte amor propio, hoy y siempre. 
+## Retírate del mundo artificial Virgo, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
 
-Está bien que luches por lo que quieres pero a veces te pasa que por lo único que luchas es por no perder lo que tienes. Y eso es muy distinto. 
- A veces nada es mucho mejor que algo, a veces nada es mejor que todo y sobretodo que “eso” que tampoco es que vaya genial o que merezca muchísimo la pena.
-Todo lo que conoces y entiendes de tu vida interna y de tus pensamientos y sentimientos puede influir directamente en tus finanzas. Mientras más confianza sientas, más confianza tendrás en tu capacidad de aumentar tus ingresos y sentir seguridad. La presencia del expansivo Júpiter en tu sector espiritual sugiere que contratar los servicios de un consejero de vida u otro profesional podría ser útil, ya que podría ayudarte a superar los límites que sientes y a sentir más plenitud.
+Los finales no significan que hayas fallado en algo Virgo, los finales a veces sirven para abrir nuevas puertas a algo. Virgo, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierda, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces. Pero a veces parece que no llega, y mientras tanto, malgastas tu tiempo, malgastas momentos de tu vida en pelear por y para nada, para no conseguir lo que de verdad sabes que te mereces… No tienes que cambiar de vida, no tienes que encontrar un nuevo lugar, con nuevas amistades, con nuevas personas que aviven tu fuego… Es mucho lo que te rodea que es bueno pero sí es necesario restaurar o abandonar esas cosas que ya están rotas y que a veces cobran mucha más importancia que todo lo bonito y bello que está a tu alrededor. Quizás te de tristeza pero estás aprendiendo a aceptar los finales como algo que en su día fue bueno en vez de sentirlo como un fracaso… Las cosas no están destinadas para durar toda la vida, algunas cosas sólo nos enseñan lecciones y después se marchan, algunos finales son necesarios. Aprende a despedirte, aprende a dejar un espacio en tu vida para lo mejor y los mejores. Para lo correcto. El final a veces es libertad y esperanza Virgo…
+Podrías ser el centro de atención a partir del martes, momento en el que el sol ingresa a tu sector de metas y ambiciones. Las próximas cuatro semanas podrían encontrarte apuntando alto y con ganas de avanzar con tus planes. Como esta también es una semana ocupada socialmente, puede que elijas viajar y disfrutar de esta energía con amistades y familiares que vienen desde lejos. Esto debería ser algo que disfrutarás mucho. Por último, a medida que el etéreo Neptuno se vuelve directo a mediados de la semana, una situación podría esclarecerse.
 
 ## Dinero
 
-¡Vas con todo esta semana! Esto proporciona una gran explosión de energía destinada a mejorar tu publicidad para atraer a nuevos compradores o esfuerzos de ganar dinero, como iniciar un nuevo negocio. Si estás buscando una nueva posición, primero pregunta sobre el salario para que no te decepciones después de haber hecho la entrevista. Un aspecto inarmónico podría significar que la familia y el romance se ponen en segundo plano durante un tiempo.
+Tienes la oportunidad de hacer de tu lugar de trabajo un lugar mucho más agradable en el cuál pasar ocho horas o más de cada día. Tu trabajo está sin duda atrayendo el adecuado tipo de aviso, lo que te pone en línea para un mejor paquete de compensación. Este aviso puede ser añadido a tu ventaja. No hay mejor momento para poner la deuda bajo control que ahora.
