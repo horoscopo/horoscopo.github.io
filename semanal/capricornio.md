@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 09 de diciembre 2024 al 15 de diciembre 2024 
-description: Horóscopo semanal capricornio 09 de diciembre 2024 al 15 de diciembre 2024. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+title: capricornio 16 de diciembre 2024 al 22 de diciembre 2024 
+description: Horóscopo semanal capricornio 16 de diciembre 2024 al 22 de diciembre 2024. Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2024-12-09
+ogimg: /images/zodiac/semanal_capricornio.png#2024-12-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-12-09'
+ lastmod: '2024-12-16'
 ---
 
 
 
-## Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
+## Hay que empezar a cambiar algunas cosas en tu vida, tienes que motivarte con lo que haces, tienes que sentir de verdad que estás en el camino que quieres estar. Si no es así, empieza a cambiarlo. Estás por encima de muchas cosas, deberías darte el valor que te mereces…
 
-Mucha veces buscas la paz, la alegría, despertar de todo lo que te ha mantenido ciego/a durante mucho tiempo, el bienestar, las ganas, la fuerza, ser feliz… Pero todo eso lo tienes dentro Capricornio, lleva dentro de ti mucho tiempo aunque a veces se te olvide, aunque a veces no recuerdes quien eres del todo. Ya eres paz, ya eres alegría, ya eres fuerte y ya has abierto los ojos. Llegan tiempos buenos Capricornio, llega una renovación a tu vida porque tú mismo la estás atrayendo, porque estás cambiando el chip, porque quieres atraer lo positivo. Y lo positivo llegará.
-Si alguien parece un poco distante al comienzo de la semana, no te lo tomes a pecho. Puede que sus propios proyectos y planes mantengan su mente ocupada, y probablemente tenga tiempo de sobra cuando termine. Las cosas se vuelven más ligeras y sencillas cuando Venus ingresa a tu sector de relaciones durante el fin de semana. Esto abre una oportunidad para resolver cualquier dificultad y llegar a un compromiso, si fuera necesario. El conversador Mercurio, astro que te rige, se torna retrógrado el sábado. Puede que sea prudente terminar tus preparativos para la temporada de fiestas antes de lo anticipado.
+A veces de bueno te pasas Capricornio. Vas a tener que empezar a dejar las cosas claras ya. Hay muchos momentos que ya no son como antes, hay muchos momentos en los que ahora lo pasas mal, momentos que ya no estás dispuesto a pasar por alto. En serio Capricornio, con la escuela que tienes, ¿por qué recaes en lo mismo? Si ves las cosas venir, ¿para qué esperas a que pase lo peor? ¡Corta por lo sano! Bueno, lo hecho hecho está, no podrás dar marcha atrás pero sí que puedes solucionarlo todo ahora. Quizás tengas que darte un tiempo, quizás tengas que alejarte de lo que te rodea para darte cuenta de muchas cosas, de la dependencia que tienes, del amor real que sientes, de lo que mereces aguantar… Estás en una etapa súper confusa Capricornio, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones, hasta que tú cambies. Estás enredado en un circulo vicioso Capricornio y de verdad, como no empieces a cortar lo que no te gusta un día de estos explotas. Y va a salpicar… Se va a liar gorda…
+Puedes tener distintas opiniones con otra persona sobre cómo resolver una situación familiar al comienzo de la semana. Pero con Mercurio retomando su movimiento de avance, debería ser más fácil hablar al respecto en un tono más racional y productivo. Sin embargo, la actividad lunar puede despertar emociones y situaciones dramáticas, por lo que es posible que haya alguna reacción exagerada de alguna de las partes o de ambas. Espera a que tus sentimientos se apacigüen. Será más fácil llegar a un término medio si lo haces.
 
 ## Dinero
 
-Es posible que debas prepararte para una decepcionante noticia esta semana. A pesar de que se te invita a compartir tus conocimientos y habilidades con los demás, preferiblemente para la diversión y la ganancia, tu vida laboral está siendo golpeada con más reglas, regulaciones y papeleo. Hay. Y a pesar de que la monotonía puede  nos ser de tu agrado, es mejor que otras alternativas. Ábrete a sugerencias y ganarás más a largo plazo.
+Estás pasando por una etapa de echar raíces nuevas. Estás pensando en dónde quieres estar en los próximos cinco o diez años en el futuro. Si tu trabajo no está funcionando para ti, las inversiones o la propiedad que posees con al menos una persona podrían ser una respuesta. Vende lo que no sea necesario para financiar este movimiento y te lleve a donde quieras estar.

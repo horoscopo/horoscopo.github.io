@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: aries 09 de diciembre 2024 al 15 de diciembre 2024 
-description: Horóscopo semanal aries 09 de diciembre 2024 al 15 de diciembre 2024. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
+title: aries 16 de diciembre 2024 al 22 de diciembre 2024 
+description: Horóscopo semanal aries 16 de diciembre 2024 al 22 de diciembre 2024. Esta semana vas a abrir los ojos Aries, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2024-12-09
+ogimg: /images/zodiac/semanal_aries.png#2024-12-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-12-09'
+ lastmod: '2024-12-16'
 ---
 
 
 
-## Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierd* en unas semanas.
+## Esta semana vas a abrir los ojos Aries, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
 
-Y de repente cambias Aries, y nadie lo entiende. Pues sí, de vez en cuando hasta tu cuerpo te pide dar un giro que, aunque no sea del todo radical si te permita cerrar algunos asuntos pendientes que parecía que no iban a llegar nunca. Hay personas que no lo entienden, que piensan cómo es posible que llevaras un camino tan inestable en tu vida y de repente la enderezaras para tomar otro rumbo diferente… Pues sí, no eres imbécil, y sabes que si algo no te conviene, no te conviene, y aunque te des cuenta tarde, lo importante es que sabes corregirlo. La cuestión es que los que estaban a tu alrededor y creían conocerte se echan las manos a la cabeza y piensan cómo puede ser que de repente hagas todo lo contrario a lo que parecía que ibas a hacer. Pues es sencillo, porque todo tiene un límite, y por mucha paciencia que Aries pueda tener, lo siento, también tiene amor propio, que a veces no saca, que a veces parece que está escondido, pero lo tiene, aunque a muchos les joda y les fastidie sus planes. Ya te han hecho daño, y estuviste solo, y te sentiste más inseguro que nunca, y el mundo parecía romperse en dos, y ahí nada importaba pero ahora, ahora es todo diferente. Ahora sólo darás tu mejor cara, la buena, la dialogante, la amable, a quien se lo merece. Porque antes lo entregabas todo aunque nadie te lo pidiese, y te quedaste muchas veces sin nada, pero te daba igual, porque eras leal a tu palabra Aries, pero ahora ya sólo quieres ser leal a ti mismo. Sigue así, de verdad, no hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
-Ciertos asuntos de negocios y finanzas compartidas podrían ser agitados conforme Marte entra a tu sector de activos y recursos. Si algunos de ellos han avanzado demasiado lento últimamente, es posible que tu interés sea despertado debido a varias ofertas u oportunidades. Con Plutón avanzando en esta misma zona, cambios positivos pronto podrían surgir. También hay positivas influencias en tu sector de ocio y creatividad. La Luna llena del domingo podría ser el momento adecuado para empezar a mostrar tus habilidades.
+Parece que no todo va tan mal, no ¿Aries? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada.
+Si tu hogar se convirtió en un revoltijo de cosas sin usar, las distintas influencias de esta semana pueden alentarte a buscar el orden. Pero no tienes que hacerlo todo de una sola vez. Si lo haces de a poco, tienes la oportunidad de hacer otras cosas y te puede sorprender todo lo que puedes hacer si la aprovechas. La entrada de Mercurio a Sagitario puede ayudarte a vender todo aquello que ya no necesitas y además obtener un poco de dinero extra para divertirte.
 
 ## Dinero
 
-Tu sector de relaciones hace clara más que nunca la importancia de las alianzas positivas con jefes, superiores, mentores y clientes. Nunca te confíes en que estás relaciones  simplemente funcionarán. Sé proactivo/a en la formación, mantenimiento y avance de aquellas que son más útiles para tu vida laboral y monetaria. El enfoque se centra en mejorar tu educación, viajar y aprender sobre otras culturas e idiomas. Todos pueden avanzar en tu causa.
+Puede que esta semana sientas un poco más de despiste y menos conexión de lo normal. Hay un poco de pesadez añadida a tu sector de familia y romance. Puede que el impulso lleve a esto de nuevo, sobre todo cuando se trate de gasto. Sin embargo, el divertirte con tu presupuesto puede ser tan simple como usar tu imaginación. Ten tanta creatividad como te sea posible bajo las circunstancias.

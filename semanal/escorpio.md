@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 09 de diciembre 2024 al 15 de diciembre 2024 
-description: Horóscopo semanal escorpio 09 de diciembre 2024 al 15 de diciembre 2024. Esta semana relájate un poco Escorpio, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
+title: escorpio 16 de diciembre 2024 al 22 de diciembre 2024 
+description: Horóscopo semanal escorpio 16 de diciembre 2024 al 22 de diciembre 2024. Semana de reflexión Escorpio, pero no pares por nadie, reflexiona mientras sales por ahí y te lo pasas bien, y nada de lamentaciones, nada de remordimientos… La vida es tuya Escorpio. 
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2024-12-09
+ogimg: /images/zodiac/semanal_escorpio.png#2024-12-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-12-09'
+ lastmod: '2024-12-16'
 ---
 
 
 
-## Esta semana relájate un poco Escorpio, en serio relájate si no quieres que salten chispas. También tienes tu derecho sí, pero después lo pasas mal tú…
+## Semana de reflexión Escorpio, pero no pares por nadie, reflexiona mientras sales por ahí y te lo pasas bien, y nada de lamentaciones, nada de remordimientos… La vida es tuya Escorpio. 
 
-No pienses tanto Escorpio, deja que la vida te vaya sorprendiendo. Últimamente estás como muy nostálgico ¿no? No es que estés deprimido pero sí se te ha pasado por la cabeza eso de que algunos momentos del pasado fueron mejores que en el que estás ahora. No te agobies Escorpio, ni te estreses. Quizás estás pensando demasiado en el futuro, en cómo van a ir las cosas, en si saldrá bien. Has arriesgado mucho para estar donde estás y con quien estás, y ya lo decidiste así que, no puedes pasarte la vida pensando si has hecho bien o no. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro Escorpio, pero no trates de sujetarlo por todos lados cuando su destino es el suelo. Eres firme con las decisiones que tomas, siempre lo has sido pero, probablemente por momentos se te haga cuesta arriba en muchos aspectos. Deja la nostalgia a un lado y esfuérzate en pensar que todo tiene un principio y un fin y que la vida son ciclos que empiezan y que acaban, y que después llega otro ciclo de la misma manera. No tengas miedo a lo que es desconocido para ti, al revés, enfréntalo como algo nuevo que, quien sabe, puede traerte cosas que duren para toda la vida. Ten mucha paciencia en estos días y aprende a tomarte las cosas como lo que son, ni más ni menos, no puedes dar mucha importancia a cosas que no la tienen pero tampoco quitársela a otras muchas que SI la tienen. Y lo sabes. Mantente hábil para descubrir todo. Ya hace un tiempo te planteaste que ser positiv@ sería probablemente el único camino para que las cosas salieran bien y sí, en el fondo sabes que gracias a eso estás aquí, así que, no lo pierdas por nada del mundo, aunque se caiga todo a pedazos, aunque nada tenga sentido, mantente fuerte, eso será lo que necesitas para que tu cabeza no decaiga por pensamientos negativos. Vas a darte cuenta de tantas cosas…
-Ten cuidado al discutir cuestiones  laborales o cerrar tratos. Con Mercurio retrógrado y Neptuno influyendo, las cosas pueden no ser lo que parecen. Lee cualquier clausula pequeña en cualquier documento que tengas que firmar, y mantén tu información financiera y personal en un lugar seguro. También verifica cualquier hecho que te sea entregado, ya que puede ser de origen dudoso. Aun así, te es posible avanzar si mantienes tu ingenio encendido. En cuanto a romance, recuerda que no todo lo que brilla es necesariamente oro.
+No sueles dar la llave de tu corazón a nadie Escorpio, pero si hay personas que la tienen, y de hecho esas personas son las únicas que pueden desbloquearlo, que pueden ver el fondo de lo que hay, tu esencia, tu alma. Pero esta semana vas a cambiar la cerradura, porque te apetece, porque ahora quieres estar seguro de a quien se la quieres dar, porque quieres empezar de cero muchas cosas. Y no cambiará tu esencia Escorpio, porque la esencia es la misma, lo que cambiará será el poder que vas a tener, el poder que van a tener otros sobre ti. Esta semana preocúpate de hacer las cosas bien. Hay mucha responsabilidad y mucho en juego. Vas a sentirte bien por las decisiones que vas a tomar, vas a sentir que vuelves a tomar el timón de tu vida como antes. No te preocupes porque algo no salga, te esperan cosas mejores. No te pongas nervioso cuando te digan que no puedes, que no tienes el valor suficiente o la capacidad para hacerlo. Puedes con todo, y a aunque tengas que ir en contra de todo, si has tomado la decisión, que sea hasta el final. Vas a tener que volverte invisible para algunas personas si de verdad quieres ir hacia delante. Feliz semana Escorpio.
+Decides darle a alguien el beneficio de la duda, lo cual es algo bueno, ya que esta persona puede ayudarte a salir de una difícil situación. Todo lo que das vuelve a ti esta semana de una manera muy práctica. En cuanto a finanzas, sin embargo, es mejor que actualices tu presupuesto. Ganas más dinero, pero también gastas más y esto es algo que debes tener en cuenta.
 
 ## Dinero
 
-Si lo que quieres es cierto equilibrio, mira a tu signo. No es casualidad que seas un excelente anfitrión. Actualmente tu vida profesional se opone a tu vida hogareña. Ambos quieren la totalidad de tu tiempo y una de las dos tiene que ceder. Por ejemplo, cambia tu vida en el hogar para dar cabida a tu vida laboral convirtiendo un cuarto extra en una oficina; lo cuál hará de tus horas de trabajo mucho más productivas, equilibradas y lucrativas.
+Esta semana es sobre el choque de energías en el cielo conforme varios planetas luchan por tu atención. Algunos te ayudarán a acomodarte en tu trabajo y desarrollar un plan para el avance. Pero también tienes un dilema en sus manos. ¿Deberías de estar de acuerdo con el statu quo, o luchar por tu individualidad? El primero es mejor por ahora.

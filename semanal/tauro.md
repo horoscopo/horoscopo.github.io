@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: tauro 09 de diciembre 2024 al 15 de diciembre 2024 
-description: Horóscopo semanal tauro 09 de diciembre 2024 al 15 de diciembre 2024. Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
+title: tauro 16 de diciembre 2024 al 22 de diciembre 2024 
+description: Horóscopo semanal tauro 16 de diciembre 2024 al 22 de diciembre 2024. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2024-12-09
+ogimg: /images/zodiac/semanal_tauro.png#2024-12-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-12-09'
+ lastmod: '2024-12-16'
 ---
 
 
 
-## Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
+## Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
 
-No sabes cómo desviar tus sentimientos Tauro, sientes con muchísima pasión muchas cosas pero otras se están apagando poco a poco. Y no entiendes por qué, no entiendes como se avivan llamas con personas que no merecen la pena, y como se te apagan con otras que sí. Vas a tener dificultad para liberarte de algunas cosas Tauro… Cuando sientes algo por alguien tu corazón no puede frenar y ahora eso es lo que te está pasando… No eres estúpido por intentar revivir viejos recuerdos y tratar de entender qué fue lo que salió mal o qué es lo que está fallando. La cuestión es que tienes que hablar las cosas, no puedes dejar que se vayan acumulando en tu interior. Si algo no va del todo bien dilo de una vez Tauro. A veces te imaginas un futuro donde termina todo bien, donde eres feliz, donde sonríes cada día, el problema es que el futuro se construye con lo que vas haciendo ahora, y si quieres tener ese futuro deberás empezar a cambiar. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay, y en eso no se puede cambiar por mucho que lo intentes. Date el lujo de sentir lo que sientes, aunque esos sentimientos vayan en contra de lo que querrías sentir. Vamos Tauro que esta semana emocionalmente hablando vas a tener un jaleo en tu cabeza serio y es muy probable que necesites un buen tiempo para aclararte.
-Una expansiva mezcla de energías esta semana sugiere que asumir un pequeño riesgo sin peligro podría resultar en dinero fácil. Sin embargo, puede que busques algo más grande y es aquí donde tienes que tener cuidado. Si bien una jugada puede salir bien, las energías actuales indican que quizá sea demasiado riesgoso. Quizá te convenga invertir tu dinero extra en proyectos o ideas que sin duda impactarán de buena manera tu futuro.
+Esta semana va a estar cargada de altibajos Tauro, va a ser una semana muy movidita. Y cuando estés arriba estarás mucho tiempo pero el problema es cuando estás abajo… Paciencia y sangre fría. Vas a tomar decisiones adecuadas pero al fin y al cabo los cambios te trastocan mucho. Tus expectativas son muy altas siempre y como te falle algo, aunque sea por poco, te amarga la existencia. Pero como siempre Tauro, hay cosas que no están en tu mano. En realidad hay cosas que aún no has perdonado del todo, hay algo que por dentro te agita, algo que no te deja dormir como quisieras. Pero deja de investigar de una vez, deja de gastar tu tiempo en encontrar errores de los demás. Si no te gusta algo, ¡a la mierda! Sin contemplaciones. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón. La cabeza Tauro, la cabeza es la que vale ahora y la que te acabará por salvar. Que no te empujen al límite Tauro, no te enredes en mierdas del resto, de verdad. Los cambios no son malos y estos ni siquiera van a ser tan complicados como tú piensas…
+Cuida tu dinero durante los primeros días de la semana. Algo que parece ser una buena compra podría ser una decepción. Guarda tu efectivo para algo que valga la pena. El martes también podría ser un día para darte todo tipo de gustos, pero tu carta sugiere que hacerlo podría ser bueno para ti. Prepárate para ponerte a trabajar y terminar algunas tareas el miércoles. A partir de allí, ocurre un cambio y el énfasis se traslada a tu sector de relaciones, lo que fomenta mucha más interacción.
 
 ## Dinero
 
-Es crucial no aceptar la palabra de todos por ahora, sino más bien descubrir por ti cuál podría ser el mejor plan para tu dinero. Los vehículos de inversión pueden ser confusos, por lo que cuenta con la ayuda de un asesor financiero calificado que pueda ayudarte a solucionar las ecuaciones numéricas y lograr que todo se haga. Mientras tanto, el Universo añade un poco de emoción.
+Hay algunos aspectos discordantes esta semana, lo que podría traer un poco de tensión a tu vida. Aunque hay algo de pesadez en tu sector profesional, no descuides tus relaciones. Tienes un montón de gente maravillosa que te puede dar consejos sobre cosas, desde la búsqueda de empleo a las inversiones. Úsalos a tu ventaja.

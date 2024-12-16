@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 09 de diciembre 2024 al 15 de diciembre 2024 
-description: Horóscopo semanal virgo 09 de diciembre 2024 al 15 de diciembre 2024. Retírate del mundo artificial Virgo, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
+title: virgo 16 de diciembre 2024 al 22 de diciembre 2024 
+description: Horóscopo semanal virgo 16 de diciembre 2024 al 22 de diciembre 2024. Toma decisiones YA, AQUÍ y AHORA Virgo. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2024-12-09
+ogimg: /images/zodiac/semanal_virgo.png#2024-12-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-12-09'
+ lastmod: '2024-12-16'
 ---
 
 
 
-## Retírate del mundo artificial Virgo, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
+## Toma decisiones YA, AQUÍ y AHORA Virgo. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
 
-Los finales no significan que hayas fallado en algo Virgo, los finales a veces sirven para abrir nuevas puertas a algo. Virgo, en el fondo tienes muy claro todo lo que funciona en tu vida y todo lo que no funciona una mierda, pero tratas de aguantar pensando en que todo puede cambiar, en que tarde o temprano te llegará esa suerte que tanto te mereces. Pero a veces parece que no llega, y mientras tanto, malgastas tu tiempo, malgastas momentos de tu vida en pelear por y para nada, para no conseguir lo que de verdad sabes que te mereces… No tienes que cambiar de vida, no tienes que encontrar un nuevo lugar, con nuevas amistades, con nuevas personas que aviven tu fuego… Es mucho lo que te rodea que es bueno pero sí es necesario restaurar o abandonar esas cosas que ya están rotas y que a veces cobran mucha más importancia que todo lo bonito y bello que está a tu alrededor. Quizás te de tristeza pero estás aprendiendo a aceptar los finales como algo que en su día fue bueno en vez de sentirlo como un fracaso… Las cosas no están destinadas para durar toda la vida, algunas cosas sólo nos enseñan lecciones y después se marchan, algunos finales son necesarios. Aprende a despedirte, aprende a dejar un espacio en tu vida para lo mejor y los mejores. Para lo correcto. El final a veces es libertad y esperanza Virgo…
-Podrías ser el centro de atención a partir del martes, momento en el que el sol ingresa a tu sector de metas y ambiciones. Las próximas cuatro semanas podrían encontrarte apuntando alto y con ganas de avanzar con tus planes. Como esta también es una semana ocupada socialmente, puede que elijas viajar y disfrutar de esta energía con amistades y familiares que vienen desde lejos. Esto debería ser algo que disfrutarás mucho. Por último, a medida que el etéreo Neptuno se vuelve directo a mediados de la semana, una situación podría esclarecerse.
+¿Cuál es la diferencia ahora? Pues que el tiempo en darte cuenta de que estabas haciendo el tonto, se acorta. Vamos, que puedes caer y volver atrás cuando no deberías pero te das cuenta en seguida. 
+ lo que pasa es que lo que sí debes aprender es a no tener que caer ni una vez más, aunque parezca que las cosas no te afectan, te afectan… ¿Por qué no cerrar las puertas que debes cerrar definitivamente y abrir las que te están esperando? Probablemente ganes mucho más… Piénsalo… Y actúa Virgo.
+Aunque sientas la inspiración para seguir un nuevo camino que parece muy prometedor, tal vez sientas inquietud si esto significa salirte demasiado de tu zona de confort. Es realmente una cuestión de fe. Este podría ser un buen momento para deshacerte de cualquier cosa pasada de moda o que te esté reteniendo. Sin embargo, la reciente luna llena en Aries podría traer un poco de drama a un primer plano. También es un momento excelente para una celebración o reunión, incluso si es un poco escandalosa.
 
 ## Dinero
 
-Tienes la oportunidad de hacer de tu lugar de trabajo un lugar mucho más agradable en el cuál pasar ocho horas o más de cada día. Tu trabajo está sin duda atrayendo el adecuado tipo de aviso, lo que te pone en línea para un mejor paquete de compensación. Este aviso puede ser añadido a tu ventaja. No hay mejor momento para poner la deuda bajo control que ahora.
+Esta semana los aspectos ponen más atención en tu sector de relaciones. Puede ser que tu mente esté en la persona con quien estás saliendo (o con quien quieres salir) en lugar de tu trabajo o vida monetaria. Podrías estar examinando cómo ese alguien tan especial puede ayudarte a ganar más, ahorrar más y planificar un mejor futuro financiero. El agregar más a tu educación a través de clases y talleres podría hacerte una triple amenaza en el trabajo.

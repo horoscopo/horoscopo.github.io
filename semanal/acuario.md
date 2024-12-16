@@ -1,28 +1,30 @@
 ---
 layout: horoscopos
-title: acuario 09 de diciembre 2024 al 15 de diciembre 2024 
-description: Horóscopo semanal acuario 09 de diciembre 2024 al 15 de diciembre 2024. Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
+title: acuario 16 de diciembre 2024 al 22 de diciembre 2024 
+description: Horóscopo semanal acuario 16 de diciembre 2024 al 22 de diciembre 2024. Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2024-12-09
+ogimg: /images/zodiac/semanal_acuario.png#2024-12-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-12-09'
+ lastmod: '2024-12-16'
 ---
 
 
 
-## Hay cosas que no tienen solución y la verdad que mejor que no la tengan.
+## Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
 
-No te calientes Acuario, sal de todo lo que te cause malestar, respira aire fresco y vuelve a tu sitio. La gente no te conoce, está claro. Te estás tragando muchas cosas por tener un poco de educación pero el día menos pensado todo va a estallar como una bomba. Y se van a quedar en shock seguro. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces. Sabes lo que te ha traído el no callarte… Pero no Acuario, tienes que marcar tu terreno como sea, tienes que hacerte valer y que dejar claro cual es tu territorio, cual es tu línea, cuales son tus límites. Hay personas que creen que pueden sobrepasarlos, y lo piensan porque no han visto tu peor lado. Esta semana como sigan así va a arder Troya. Y sí, tienes todo el derecho a hacerlo. A ti no te chista nadie, a ti no te vacila nadie, a ti no te manda nadie. Y si sienta mal que siente mal. No es tu problema. Pero como consejo, en vez de estallar una sola vez, hazlo poquito a poco, no te calles nada nunca más. Por tu bien Acuario, porque después quedas tu como loco/a y eso no… Tú no eres ningún loco/a, pero tampoco eres imbécil. De eso nada.
-La conexión del conversador Mercurio con el positivo Júpiter el martes podría traerte buenas noticias en el aspecto laboral, cuando una oferta u oportunidad parezcan demasiado impresionantes para dejarlas pasar. El delicioso Venus, que está en tu sector de relaciones y se traslada para oponerse al vital Marte en tu signo el jueves, podría hacer que un encuentro sea impactante para ti. De hecho, podría dominar los próximos días y hacer que te preguntes cómo podrías conocer mejor a esta persona. Si has estado planeando invitar a esta persona a una cita, quizás ya no puedas resistirte. 
-Por último, la actividad solar, también el jueves, podría inspirarte a observar más de cerca tus hábitos y rutinas para ver si puedes introducir algún positivo cambio en cualquiera de ellos. Incluso unos pequeños ajustes pueden aumentar tu felicidad y salud.
+Te da miedo empezar etapas nuevas, te da miedo dejar a un lado lo que ya has conseguido, te da miedo mandarlo todo a la mierda y también te da miedo darlo todo por algo o por alguien. Y al final, te mantienes como estás, aunque sabes de sobra que como estás no eres plenamente feliz. 
+Date un respiro, toma algún día para pensar y relajarte, mímate un poco y deja que los sentimientos y las emociones vayan saliendo solos. 
+como si no quisieras sentir lo que sientes, como si quisieras sentir lo que no sientes. Es una estupidez porque al final, todo sale.
+Podrías experimentar una crisis de creencias al comienzo de la semana, lo que podría animarte a dejar ir esa actitud restrictiva y adoptar una más expansiva. Presta atención a tus instintos en este aspecto. Si algo se siente bien, probablemente lo sabrás en tu interior. Si no es así, tu cuerpo definitivamente te lo hará saber. Simplemente debes escuchar sus mensajes. Sin embargo, puede que te resulte útil analizar este problema con tus amistades u otras personas que están en tu misma sintonía. 
+ Puede que alguien que tiene sugerencias te abra los ojos a un nuevo mundo. Debido a que existe un importante enfoque en tu sector espiritual, la próxima semana podría traer positivos cambios cuando el animado Mercurio se vuelve directo en este sector, lo que te permitirá tener un mayor control. Por último, la actividad lunar en este sector podría animarte a iniciar una práctica espiritual muy beneficiosa.
 
 ## Dinero
 
-Tienes todo tipo de geniales destellos llegando a tu cabeza. No descartes nada que parezca una posibilidad remota, porque puede que no lo sea dado el tiempo suficiente y la preparación. La mala noticia es que tu empleo podría sufrir un cambio no deseado. Podrías tener un nuevo jefe, un cambio de responsabilidades, o incluso una reducción de sueldo conforme tu empresa lucha con una economía cambiante.
+Puede que estés creando más tiempo en tu vida y más espacio en tu hogar para darle cabida a tus más recientes proyectos. Si querías crear desde tu casa, ya sea escribiendo un libro, desarrollando un curso de enseñanza en línea, o la venta de bienes raíces, este es el momento para empezar. Dale seguridad a tu plan con inversiones sólidas en instituciones de confianza.
