@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 16 de diciembre 2024 al 22 de diciembre 2024 
-description: Horóscopo semanal virgo 16 de diciembre 2024 al 22 de diciembre 2024. Toma decisiones YA, AQUÍ y AHORA Virgo. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
+title: virgo 23 de diciembre 2024 al 29 de diciembre 2024 
+description: Horóscopo semanal virgo 23 de diciembre 2024 al 29 de diciembre 2024. No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2024-12-16
+ogimg: /images/zodiac/semanal_virgo.png#2024-12-23
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-12-16'
+ lastmod: '2024-12-23'
 ---
 
 
 
-## Toma decisiones YA, AQUÍ y AHORA Virgo. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
+## No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
 
-¿Cuál es la diferencia ahora? Pues que el tiempo en darte cuenta de que estabas haciendo el tonto, se acorta. Vamos, que puedes caer y volver atrás cuando no deberías pero te das cuenta en seguida. 
- lo que pasa es que lo que sí debes aprender es a no tener que caer ni una vez más, aunque parezca que las cosas no te afectan, te afectan… ¿Por qué no cerrar las puertas que debes cerrar definitivamente y abrir las que te están esperando? Probablemente ganes mucho más… Piénsalo… Y actúa Virgo.
-Aunque sientas la inspiración para seguir un nuevo camino que parece muy prometedor, tal vez sientas inquietud si esto significa salirte demasiado de tu zona de confort. Es realmente una cuestión de fe. Este podría ser un buen momento para deshacerte de cualquier cosa pasada de moda o que te esté reteniendo. Sin embargo, la reciente luna llena en Aries podría traer un poco de drama a un primer plano. También es un momento excelente para una celebración o reunión, incluso si es un poco escandalosa.
+Sí, la vida te ha dado muchos palos pero quieres seguir adelante, quieres probar cosas diferentes, quieres disfrutar sin tener que pensar si lo que haces está bien o mal para el resto, si es políticamente correcto…
+Los asuntos monetarios se vislumbran prometedores esta semana, cuando podías recibir un golpe de suerte, reembolso, o una cantidad de dinero en efectivo justo en el momento ideal. Este podría ser uno de los mejores momentos para iniciar un negocio, especialmente el viernes, cuando la actividad lunar en tu sector empresarial puede darle un buen comienzo. De hecho, te podría ir extremadamente bien durante los próximos doce meses. Tu vida social también está a punto de volverse muy activa, ¡así que prepárate!
 
 ## Dinero
 
-Esta semana los aspectos ponen más atención en tu sector de relaciones. Puede ser que tu mente esté en la persona con quien estás saliendo (o con quien quieres salir) en lugar de tu trabajo o vida monetaria. Podrías estar examinando cómo ese alguien tan especial puede ayudarte a ganar más, ahorrar más y planificar un mejor futuro financiero. El agregar más a tu educación a través de clases y talleres podría hacerte una triple amenaza en el trabajo.
+Estás atrapado/a en un dilema. Hay acción en el frente interno y oportunidades en el frente de profesión. Sin embargo, te estás conduciendo por un estrecho sendero hacia tu situación de relación. Sólo puedes estar a solas por un determinado tiempo. Haz un esfuerzo por busca a personas que te puedan ser de ayuda.

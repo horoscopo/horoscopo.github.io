@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 16 de diciembre 2024 al 22 de diciembre 2024 
-description: Horóscopo semanal sagitario 16 de diciembre 2024 al 22 de diciembre 2024. Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
+title: sagitario 23 de diciembre 2024 al 29 de diciembre 2024 
+description: Horóscopo semanal sagitario 23 de diciembre 2024 al 29 de diciembre 2024. Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar Sagitario. 
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2024-12-16
+ogimg: /images/zodiac/semanal_sagitario.png#2024-12-23
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-12-16'
+ lastmod: '2024-12-23'
 ---
 
 
 
-## Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
+## Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar Sagitario. 
 
-Tienes que esforzarte Sagitario, esforzarte para no cagarla de nuevo. Tienes que esforzarte para no enviar mensajes cuando te dan esos impulsos y arrebatos en los que no te controlas, tienes que esforzarte en no perder los papeles cuando algo no sale, tienes que esforzarte en tratar de vivir en el momento y en pasar de malos rollos. Ya está bien Sagitario, hazte valer de una vez. Siempre te tratan de buenas persona, que lo eres sí, pero de ahí a que se aprovechen… No. Esta semana hay un gran cambio que llevas esperando mucho tiempo, céntrate en ello, es muy importante que mantengas tu cabecita ahí y que lo externo te deje de afectar. Y que el resto se gane estar a tu lado si realmente quiere, que las palabras se las lleva el viento y a ti, otra cosa no, pero hay mucha fila detrás que quiere engancharte… Nada tiene que ser ahora suficiente para ti Sagitario, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. Si de verdad se preocupan por ti, no dejarán que la vida se interponga en el camino, no importará lo ocupadísimos que estén, el tiempo para las cosas que importan se saca. Así que, esta vez, estate tranquilo Sagitario, sin remordimiento de ningún tipo, y espera a que el resto te busque…
-Pareces estar por buen camino en relación con una oportunidad de oro que ha sido puesta en tu camino y que querrás aprovechar. Asegúrate de revisar los términos y condiciones, ya que la conexión entre Marte y Neptuno sugiere que puede que no todo sea lo que parece. En cuanto a romance, esta podría ser una semana interesante debido a que las emociones se acumulan, pudiendo llegar a un punto crítico este fin de semana. Con Urano involucrado, podría ser tentador actuar impulsivamente. Trata de evitar esto, ya que puedes lamentarlo más tarde.
+Te está así como dando pereza siempre lo mismo. Siempre teniendo que demostrar cuáles son tus intenciones y sobretodo, demostrárselo a personas que ahora ya ni te van ni te vienen. Sagitario, aunque hayas roto con un pasado que te estaba amargando no lo has hecho indefinidamente, no lo has hecho para siempre, o al menos, eso es lo que parece. Eso de que “estaré ahí para siempre” es muy cierto en tu caso pero no seas idiota Sagitario, porque a veces de bueno das la mano y te toman todo el brazo. Si has roto con el mal rollo, has roto. No dejes que vuelva, no dejes que se acerque, no lo permitas. Que sí, que puedes creer que estás súper curado ya, que tus heridas no sangran, pero te estarías engañando Sagitario. La etapa que llega ahora tienes que disfrutarla, tienes que vivirla intensamente, y probablemente tengas que pasar más tiempo solo/a. Para conocerte a ti mismo/a, para entender qué es lo que quieres, qué es lo que buscas… Conoce Sagitario, conoce a todo el mundo que puedas, y comparte… Y cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
+Este mes podría ser bastante intenso en más de un aspecto, en especial cuando el conversador Mercurio permanece en un sector profundamente emocional de tu carta durante algún tiempo. Su presencia aquí podría fomentar tu curiosidad sobre el funcionamiento más profundo de tu subconsciente y qué puede significar esto para ti.Al mismo tiempo, el hermoso Venus ingresa a Virgo y a tu sector de viajes y exploración el lunes, lo que puede traer una aventura amorosa y agregar un poco de chispa a una relación actual. 
+Sin embargo, puede que las relaciones atraviesen cambios durante este mes debido al eclipse solar en Cáncer y en tu sector de relaciones. Como esto conectará con el poderoso Plutón en tu signo, quizá debas cambiar tu enfoque o actitud para que tu relación pueda crecer y desarrollarse de forma positiva. Si no puedes hacerlo, existe la posibilidad de que la conexión termine.
 
 ## Dinero
 
-Es posible que esta semana estés teniendo cierto drama en tus relaciones. Cosas que pensaste que eran implícitas entre tú y tus jefes, mentores o empleados, pueden haber sido mal entendidas o criticadas. Por esta vez olvídate de ello y exprésate con más claridad la próxima vez. Si el dinero está involucrado en estos intercambios, comunica tus necesidades y no dejes que los conflictos estropeen lo que es potencialmente una gran alianza que beneficia a todos. Si la gente entiende esto, tú también debes de hacerlo.
+Ahora tienes cierta actividad en tu sector de ganancias que con el tiempo va a cambiar radicalmente la forma en la que ganas dinero. Aunque parezca que algunas fuentes de ingresos están siendo alejadas de tu vida, a fin de cuentas, será para bien. Analiza tu sector de deuda para poder identificar lo que hay que pagar primero.

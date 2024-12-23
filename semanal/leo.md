@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 16 de diciembre 2024 al 22 de diciembre 2024 
-description: Horóscopo semanal leo 16 de diciembre 2024 al 22 de diciembre 2024. Deja que duela Leo, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo…
+title: leo 23 de diciembre 2024 al 29 de diciembre 2024 
+description: Horóscopo semanal leo 23 de diciembre 2024 al 29 de diciembre 2024. En serio Leo, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2024-12-16
+ogimg: /images/zodiac/semanal_leo.png#2024-12-23
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-12-16'
+ lastmod: '2024-12-23'
 ---
 
 
 
-## Deja que duela Leo, deja que sangre, deja que poco a poco se vaya curando, deja que pase, deja correr el velo, el tiempo…
+## En serio Leo, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
 
-A veces dejas las puertas medio abiertas Leo, crees que puedes cerrarlas cuando quieras, crees que eres lo suficientemente fuerte como para mandarlo todo a la mierda cuando desees… Pero no es del todo así. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar Leo porque no eres así. Parece que tuvieras miedo de cerrar definitivamente algunos capítulos, parece que aún te aferrarás a que pueden tener solución. Está bien Leo, aférrate a lo que quieras, pero que eso no te afecte en tu día a día. Tienes que ver las cosas por ti mismo para dejarlas a un lado o continuar con ellas, así que, tropieza, date la hostia necesaria que te haga abrir los ojos pero, mientras tanto, que no te frene. Sacúdete un poco de las cosas negativas que pululan a tu alrededor, no pagues un precio alto por mantener algo que ni siquiera sabes si quieres mantener. Si necesitas pensar, márchate, desaparece unos días, vete solo y pasa de todo. En serio, algo te está reteniendo a quedarte, algo te está impidiendo continuar hacia delante, ten cuidado Leo, con las decisiones que tomas, y con dejar puertas medio abiertas por miedo a que se cierren del todo…
-El actual enfoque en un área aislada de tu carta sugiere que podría ser un excelente momento para reflexionar sobre el año pasado y tu futuro. De la misma manera, puede que tengas que resolver un conflicto de creencias que es el centro de una dificultad presente. El cambio está en el aire, pero podrías estarte resistiendo a él, lo que probablemente te causará más frustración. Puede que tu mejor apuesta sea aceptarlo. No tengas miedo de pedir ayuda si la necesitas.
+Has estado esforzándote mucho por hacer las cosas bien, por tratar de arreglarlo todo, por conseguir tus metas y tus objetivos así que, esta semana te mereces hacer todo lo que hagas por y para ti Leo.
+Es esa época del año en la que necesitas tomarte tiempo para relajarte y disfrutar un poco de la vida. Toma conciencia de todo lo que has logrado y analiza tus metas y planes para los próximos doce meses. Asegúrate de dejar mucho tiempo para socializar y divertirte, ya que hay una poderosa alineación que te anima a conocer gente, entablar contactos y formar parte de tu comunidad. Si una excepcional oferta o invitación se te presenta este fin de semana, es posible que te beneficies enormemente de aceptarla.
 
 ## Dinero
 
-Estás en una fase de redefinición ahora. Puede que la gente esté acostumbrada a que juegues cierto tipo de papel en sus vidas, lo cuál no ha sido lo mejor para tu vida financiera. No importa. Eres una persona magnética y hay mucha suerte en tu sector de comunicaciones. Podrías percatarte de que mientras más se te vea y se te escuche, puedes conseguir que tus necesidades financieras se cumplan.
+Tanto está pasando en tu vida laboral que puede que tengas que evitar el agobio o el cansancio. Sin embargo, las oportunidades están ahí, para que construyas tu propio pequeño imperio. Tu influencia se amplía sobre los grupos, por lo que asegúrate de que tu mensaje está pulido y listo para atacar. El dinero te sigue cuando eres fiel a lo que eres y lo que quieres decir.
