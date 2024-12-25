@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 24 de diciembre 2024
-description: Horóscopos del dia de hoy 24 de diciembre 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 25 de diciembre 2024
+description: Horóscopos del dia de hoy 25 de diciembre 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2024-12-24
+ lastmod: 2024-12-25
 ---
-Todos ponen sus propias agendas primero bajo la Luna en Aries. La salida es tomar caminos separados y reunirse más tarde en lugar de discutir sobre ello. Esta noche, el Eclipse Lunar borra los recuerdos de aquello de lo que la gente huye o hacia dónde se dirige. ¡Deja de vivir en el pasado y permítete tener nuevos intereses y desafíos!
+Puedes actuar con sorprendente rapidez, pero puede que tiendas a permitir que tu corazón te guíe mientras la Luna forme sextil con Marte. El sentimiento es mutuo para las parejas bajo la Luna en Libra de esta noche. Por su parte, los solteros hacen amigos (que podrían volverse algo más) con una conexión mental instantánea. Disfruta las conversaciones sobre temas cercanos al corazón.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
