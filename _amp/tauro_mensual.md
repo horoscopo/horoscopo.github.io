@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Tauro Diciembre 2024 
+title: Horoscopo Tauro Enero 2025 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/mes/Tauro_mes.png#2024-11-27
+ogimg: /images/mes/Tauro_mes.png#2024-12-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-11-27'
+ lastmod: '2024-12-26'
 ---
 
 

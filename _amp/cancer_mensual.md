@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Cáncer Diciembre 2024 
+title: Horoscopo Cáncer Enero 2025 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/Cáncer_mes.png#2024-11-27
+ogimg: /images/mes/Cáncer_mes.png#2024-12-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-11-27'
+ lastmod: '2024-12-26'
 ---
 
 

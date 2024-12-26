@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Acuario Diciembre 2024 
+title: Horoscopo Acuario Enero 2025 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Acuario_mes.png#2024-11-27
+ogimg: /images/mes/Acuario_mes.png#2024-12-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-11-27'
+ lastmod: '2024-12-26'
 ---
 
 

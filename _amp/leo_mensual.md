@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Leo Diciembre 2024 
+title: Horoscopo Leo Enero 2025 
 permalink: /horoscopo-mensual/amp/leo/
 normallink: /horoscopo-mensual/leo/
 home: FALSE
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Leo_mes.png#2024-11-27
+ogimg: /images/mes/Leo_mes.png#2024-12-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-11-27'
+ lastmod: '2024-12-26'
 ---
 
 

@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Capricornio Diciembre 2024 
+title: Horoscopo Capricornio Enero 2025 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Capricornio_mes.png#2024-11-27
+ogimg: /images/mes/Capricornio_mes.png#2024-12-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-11-27'
+ lastmod: '2024-12-26'
 ---
 
 

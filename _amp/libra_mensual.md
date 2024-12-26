@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Libra Diciembre 2024 
+title: Horoscopo Libra Enero 2025 
 permalink: /horoscopo-mensual/amp/libra/
 normallink: /horoscopo-mensual/libra/
 home: FALSE
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/Libra_mes.png#2024-11-27
+ogimg: /images/mes/Libra_mes.png#2024-12-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-11-27'
+ lastmod: '2024-12-26'
 ---
 
 
