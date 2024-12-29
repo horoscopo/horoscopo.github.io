@@ -9,21 +9,16 @@ keywords: horóscopo enero, horoscopos en español, horóscopo Piscis enero , ho
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/piscis_mes.png#2024-12-26
+ogimg: /images/mes/piscis_mes.png#2024-12-29
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-12-26'
+ lastmod: '2024-12-29'
 ---
 
 
- > Piscis, aprovecha el fin de año para crear un nuevo propósito en el que te concentres más en tu camino y en los métodos que estás utilizando, pues solo así podrás reconocer cuál es la dirección correcta para ti. No desperdicies tu energía en tonterías y confía en ti. Eres muy sensible a los problemas de los demás y eso puede alejarte de tus objetivos. En lugar de hacer eso, utiliza tu experiencia para dar buenos consejos.
+ > Piscis, empiezas el mes con tu regente Neptuno recién ingresado a Aries, lo que marca un nuevo ciclo para ti en tu creatividad, en tus relaciones y en tus afectos. Te volverás mucho más expansiva y no tendrás miedo de ser tú la que des el primer paso para que las cosas sucedan. Aprovecha este tránsito porque te dará una energía que no podías imaginar.
 
 
 
-Tendrás el don de cortar por lo sano sin ofender a los demás, querido Piscis, cuando Mercurio entre en Capricornio y en tu casa de la comunicación el 1 de diciembre. No dudes en ser directo con los demás, fundamentando tus argumentos en la razón para evitar la contestación o la confrontación. Y Venus entra en tu signo el día 4, elevando tu carisma natural para ayudarte a limar las asperezas de la conversación. Esta colocación planetaria también podría atraer a un nuevo admirador o dos, ya que su aura brilla con misterio y gracia.
-La luna llena de Sagitario desencadena su naturaleza generosa el 15 de diciembre, poniéndole de humor para las compras navideñas. Si tienes los medios para dar un poco más de lo que normalmente podrías, permítete encontrar placer en mimar a las personas que amas. Sin embargo, trata de tener en cuenta que los objetos materiales no lo son todo, y puesto que Mercurio se pone directo ese mismo día, será más importante que nunca que mantengas un presupuesto sano mientras navegas por la temporada de hacer regalos.
-El solsticio de invierno llega el veintiuno, marcando el comienzo de la temporada de Capricornio y un momento de reflexión para ti. Ansiarás el crecimiento intelectual a lo largo de las próximas semanas, ya que los astros te instan a cultivar la sabiduría. Pero procura que tu ego no se deje llevar demasiado por el deseo de parecer inteligente. Concéntrate en cómo mantener la concentración mientras expandes tu mente.
-Tu lado filosófico emerge durante la luna nueva de Cáncer el 30 de diciembre, marcando una de las noches más pacíficas y espiritualmente satisfactorias del año para ti. Tu enfoque cambiará para ganar prosperidad cuando Venus migre a Sagitario el veintinueve.
-Días destacados: 5, 15, 25
-Días difíciles: 3, 9, 20
+¡Feliz año nuevo Piscis! El ciclo retrógrado de Mercurio termina el 3 de enero en Aries. Un retraso en el trabajo también podría terminar. Las amistades son tu mayor riqueza durante la Luna Llena del 13 de enero. No tendrás que “invadir” tu vida de personas. Una o dos amistades especiales te brindarán todo el amor y la diversión que podrías pedir. La Luna Nueva del 29 de enero ofrece distintas opciones de trabajo o carrera. Puede que te ofrezcan muchos nuevos proyectos, la mayoría de ellos a corto plazo. Evalúalos y luego elige los que mejor te permitan mostrar tus talentos y habilidades. También ten en cuenta tu satisfacción personal. Tienes la energía para aceptar todo lo que quieras.

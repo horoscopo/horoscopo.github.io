@@ -9,21 +9,16 @@ keywords: horóscopo enero, horoscopos en español, horóscopo Leo enero , horó
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/leo_mes.png#2024-12-26
+ogimg: /images/mes/leo_mes.png#2024-12-29
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-12-26'
+ lastmod: '2024-12-29'
 ---
 
 
- > Leo, como buena balanza, acabarás el año valorando cómo fue y te darás cuenta de que gana lo bueno, lo que te generará una confianza y un magnetismo asombroso. Si estás buscando quedarte embarazada, es el momento perfecto para empezar a intentarlo. Este mes aprovecha los primeros 10 días para concretar los proyectos que tengas en marcha, sobre todo si están relacionados con grupos de personas, amigos o clientes. A partir del 11 aún mantendrás la suerte, pero tu capacidad de acción se verá un poco más limitada. Si quieres que tus proyectos tengan éxito tómate tu tiempo para hacer los reajustes necesarios.
+ > Leo, empiezas el mes poniendo el foco de atención en tus amistades, donde verás que a lo largo del mes sucederán cosas inesperadas, saldrán a la luz secretos escondidos y te enterarás de cosas que creías imposibles. No te sorprendas si algún amigo te declara sus intenciones, pues estarás en el centro de atención.
 
 
 
-Mercurio ingresa a Escorpión el 1 de diciembre. Mercurio se encuentra en su fase retrógrada, pero no por mucho más. Vigila tus pasos (y tus palabras). 
-Con la luna nueva del día 1, un amante podría tener actos de extrema generosidad, o tú podrías recibir admiradores y afecto en exceso. Sabes lo que quieres, y en qué cantidad. Mercurio se torna estacionario directo también ese día. Relájate, pero no salgas corriendo de inmediato. Date tiempo. 
-Mercurio entra a Sagitario el 12 de diciembre. Ahora, tu temporada de festividades puede subir de tono de forma segura. El día 21, el invierno comienza mientras el sol entra al serio Capricornio. Mercurio forma una conjunción con Júpiter el mismo día. Piensa en grande, pero actúa con cuidado y compasión. La generosidad moderada de hoy trae cosas buenas para el futuro. 
-No pidas nada durante la luna llena del 15 de diciembre, y recibirás más de lo que puedes imaginar. Concéntrate en lo que hace falta hacer. Recibirás lo que necesitas y lo que quieres (y más). 
-Días destacados: 6, 12, 21
-Días desafiantes: 13, 24
+Disfruta de un Año Nuevo tan sólido como una roca bajo la Luna Llena del 13 de enero. Puede que te sorprenda la gran cantidad de paciencia que tienes y lo rápido que puedes analizar los problemas y averiguar qué necesitas corregir. Sin embargo, no quemes toda tu energía tratando de hacerlo todo. El 20 de enero brilla con gran ingenio, diversión y tal vez un poco de travesura conforme la Luna en tu signo toma ventaja del Sol entrando al intelectual Acuario. Tanto amigos como vecinos mantienen tu tiempo ocupado alrededor de la Luna Nueva del 29 de enero. Puede que tales tengan algunas increíbles y locas nociones de lo que es diversión, y es posible que tú estés en estado de ánimo para ellas, así que ten cuidado.
