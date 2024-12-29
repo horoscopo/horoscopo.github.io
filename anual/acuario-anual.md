@@ -25,7 +25,7 @@ Bienvenido al 2025, Acuario. El nuevo año trae una ola de cambios y desafíos, 
 
 Saturno volverá a moverse por Piscis a principios de año, enfocándose en su segunda casa y alentándolo a reflexionar y reevaluar sus valores. Al examinar su relación con el dinero y las posesiones materiales, el universo lo insta a adoptar un enfoque más serio y responsable de sus finanzas y de lo que realmente le importa.
 
-A medida que su planeta natal, Urano continúa su viaje a través de Tauro estable a principios de año, es posible que experimente cierta energía conflictiva hasta julio. Urano irá retrógrado desde principios de septiembre hasta finales de año, proporcionando un ligero respiro del impulso de rebelión externa.
+A medida que su planeta natal, Urano continúa su viaje a través del estable Tauro a principios de año, es posible que experimente cierta energía conflictiva hasta julio. Urano irá retrógrado desde principios de septiembre hasta finales de año, proporcionando un ligero respiro del impulso de rebelión externa.
 
 Urano estará en el signo de aire Géminis de ideas afines durante este tiempo, ofreciéndote más libertad. Sin embargo, volver su racha rebelde hacia adentro mientras Urano está retrógrado puede conducir a luchas internas que podrían provocar tendencias autodestructivas y, en última instancia, un camino hacia la redención en 2025.
 

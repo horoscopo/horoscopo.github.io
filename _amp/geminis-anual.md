@@ -18,7 +18,7 @@ sitemap:
 
 
 
-Géminis, como signo curioso, adaptable y social, puede experimentar mucho crecimiento, aprendizaje y autodescubrimiento en 2025. Este año, naturalmente, atraerá nuevas oportunidades personales y profesionales a medida que Saturno serio se mueva entre Piscis sensible y Aries impulsado en sus zonas profesionales y de networking. Como de costumbre, su capacidad para interactuar con las personas y establecer conexiones sociales significativas dará como resultado nuevas colaboraciones comerciales, amistades y asociaciones románticas que traerán nuevos desafíos y satisfacción a su vida.
+Géminis, como signo curioso, adaptable y social, puede experimentar mucho crecimiento, aprendizaje y autodescubrimiento en 2025. Este año, naturalmente, atraerá nuevas oportunidades personales y profesionales a medida que el serio Saturno se mueva entre Piscis sensible y Aries impulsado en sus zonas profesionales y de networking. Como de costumbre, su capacidad para interactuar con las personas y establecer conexiones sociales significativas dará como resultado nuevas colaboraciones comerciales, amistades y asociaciones románticas que traerán nuevos desafíos y satisfacción a su vida.
 
 El afortunado Jupiter pasa tiempo en su primera casa de autotransformación desde principios de año hasta principios de junio, lo que genera un intenso período de crecimiento personal. Júpiter expande todo lo que toca, y en la primera casa, esto se traduce en un sentido magnificado de autoconciencia. Géminis se sentirá más seguro, extrovertido y optimista sobre sus habilidades y perspectivas ahora, así que aproveche todas las oportunidades para mejorarse por dentro y por fuera.
 
@@ -38,7 +38,7 @@ Para mejorar la comunicación y el equilibrio emocional, use un colgante o braza
 
 ## Trabajo
 
-El próspero Júpiter establece el tono general para la expansión en 2025, y cuando salta al Cáncer intuitivo en su casa de dinero a principios de junio, es muy probable que aumente la riqueza. Si bien los aumentos, las empresas comerciales exitosas y las nuevas fuentes de ingresos son posibles ahora, también lo son las herencias, ganar concursos y recibir dinero de la nada. A medida que permanezca conectado a su subconsciente y se concentre en manifestar dinero y otras cosas buenas, la seguridad laboral, la comodidad financiera, la riqueza y el lujo son todas posibilidades.
+El próspero Júpiter establece el tono general para la expansión en 2025, y cuando salta al intuitivo Cáncer en su casa de dinero a principios de junio, es muy probable que aumente la riqueza. Si bien los aumentos, las empresas comerciales exitosas y las nuevas fuentes de ingresos son posibles ahora, también lo son las herencias, ganar concursos y recibir dinero de la nada. A medida que permanezca conectado a su subconsciente y se concentre en manifestar dinero y otras cosas buenas, la seguridad laboral, la comodidad financiera, la riqueza y el lujo son todas posibilidades.
 
 Una luna nueva en tu signo nervioso hacia fines de mayo (siguiendo al sol solo unos días antes) te da algunas ideas emocionantes sobre tu carrera, ¿pero es demasiado de algo malo? Ya eres indeciso, por lo que es fácil paralizarte por todas tus elecciones ahora, y la sobreestimulación puede ser un factor en tu falta de éxito. Aprender cosas nuevas (especialmente un idioma o una habilidad laboral) puede ser una ventaja, pero su principal desafío es elegir solo una cosa e intentarlo.
 

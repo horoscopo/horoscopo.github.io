@@ -18,7 +18,7 @@ sitemap:
 
 
 
-Libra, tu adorable gobernante planetario, Venus, se alinea con Piscis sensible y compasivo al comienzo del año, creando un flujo de amor romántico y soñador que mejora tu comprensión, perdón y compasión. Cuando Venus ilumine su primera casa empoderada entre mediados de octubre y principios de noviembre, sus rasgos naturales estarán en el centro de atención. Su encanto, justicia y amabilidad se destacan, pero tenga cuidado de no dejar que su disposición a negociar conduzca a una indecisión paralizante. 
+Libra, tu adorable gobernante planetario, Venus, se alinea con el sensible y compasivo Piscis al comienzo del año, creando un flujo de amor romántico y soñador que mejora tu comprensión, perdón y compasión. Cuando Venus ilumine su primera casa empoderada entre mediados de octubre y principios de noviembre, sus rasgos naturales estarán en el centro de atención. Su encanto, justicia y amabilidad se destacan, pero tenga cuidado de no dejar que su disposición a negociar conduzca a una indecisión paralizante. 
 
 Venus experimentará un ciclo retrógrado este año desde principios de marzo hasta mediados de abril, moviéndose entre Aries y Piscis, los mismos signos por los que Saturno también transitará en 2025. Este período es perfecto para la autorreflexión, especialmente con respecto a su bienestar. Cuidarse a sí mismo es esencial si desea cuidar a los demás, y revisar sus valores durante este tiempo puede conducir a una realización transformadora.
 
