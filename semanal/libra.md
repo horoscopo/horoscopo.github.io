@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: libra 23 de diciembre 2024 al 29 de diciembre 2024 
-description: Horóscopo semanal libra 23 de diciembre 2024 al 29 de diciembre 2024. Eres un signo de aire, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
+title: libra 30 de diciembre 2024 al 05 de enero 2025 
+description: Horóscopo semanal libra 30 de diciembre 2024 al 05 de enero 2025. La guerra que tienes dentro está deseando encontrar un poco de paz Libra, de verdad, ya no puede aguantar tanto. ¿Qué pasa con tus metas, con tus objetivos? Primero debes ponerte a ti mismo ahora. ¿No te acuerdas de cuantas cosas has rechazado por amor? ¿o de cuanto has dejado de lado?
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2024-12-23
+ogimg: /images/zodiac/semanal_libra.png#2024-12-30
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-12-23'
+ lastmod: '2024-12-30'
 ---
 
 
 
-## Eres un signo de aire, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
+## La guerra que tienes dentro está deseando encontrar un poco de paz Libra, de verdad, ya no puede aguantar tanto. ¿Qué pasa con tus metas, con tus objetivos? Primero debes ponerte a ti mismo ahora. ¿No te acuerdas de cuantas cosas has rechazado por amor? ¿o de cuanto has dejado de lado?
 
-Te estás dando cuenta de quien sí y quien no Libra. Y además bien rapidito. Ya no te apetece pasar ni una más por alto, ya no te apetece tener que sonreír si no te apetece sonreír. Es cierto que te adaptas a todo Libra pero ahora sí te vas a alejar de lo que no te hace ni put* gracia y aquí se incluyen momentos, personas y situaciones. Esta semana estás a tope Libra, no te apetece anclarte en ningún sitio, no te apetece sentarte a ver la vida pasar. Nada de eso, quieres sol, quieres que el aire te de en la cara y salir a pasar el rato con amigos, socializarte y divertirte sin tener que pensar en nada más. Amplía tu mente Libra, amplía tu mente y tómate una temporada sabática, aunque sean unos días o unas semanas. Haz lo que tengas que hacer pero hazlo con calma, y apaga el teléfono por favor. Si en realidad quieres tomarte un tiempo por y para ti no puedes estar ahí todo el día enganchado a todo. Esta semana tienes que cargar pilas, y debes cargarlas pasando tiempo con las personas que quieres y dejando un poco a un lado algunas obligaciones y responsabilidades. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar Libra, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
-Tu vida social parece particularmente alegre esta semana debido a una mezcla vivaz de energías que dan lugar a muchos tipos de interacciones. También es posible que una vieja amistad te llame para invitarte a que se reencuentren. Si lo hace, podría ser un reencuentro de lo más conmovedor. Estarás en tu elemento mientras Marte se impulsa hacia tu signo a mitad de la semana para darte la fortaleza que necesitas para seguir adelante con tus planes personales. No habrá quién te detenga hasta que cumplas tus sueños y muestres tus habilidades.
+Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. Quieres perder el interés de algunas cosas pero no puedes. Sabes de sobra lo que está bien y lo que está mal, lo que deberías dejar a un lado ya pero a la hora de la verdad, sientes como si algo te atrapara, como si no pudieras decir “hasta aquí” definitivamente, como si no pudieras alejarte del todo de verdad. Pero en vez de marcharte, te quedas, y te quedas de mala hostia, y te enzarzas en pensamientos negros, en peleas tontas y en discusiones que no merecen la pena. Tu te quieres mucho, y sabes lo que vales, pero a la vez te dejas llevar, esa pasión incontrolada es la causante de tus alegrías más grandes y de tus dolores de cabeza más intensos. Y no puedes parar. Y te sientes encerrado en un círculo, un círculo del que cuando empiezas a salir te jala para adentro otra vez… Está bien echarle picante a la vida Libra, en serio, está bien que haya un poquito de locura, pero no te pases porque al final vas a acabar por pagar un precio alto por esto. Ahora puedes con todo Libra, recuperarte te lleva un par de días o tres pero, ¿es lo que quieres para tu futuro? No mantengas demasiado lo que debería estar muy lejos de ti.
+Un dinámico tránsito podría coincidir con un golpe de suerte, la oferta de un nuevo puesto de trabajo, o una oportunidad que es demasiado buena para dejarla pasar. Cualquiera que sea la experiencia que tengas, sentirás más riqueza a causa de ello. Prepárate para cuando Marte entre a tu signo a mitad de semana, dándote más vitalidad y coraje. Aun así, te ayudaría respetar las diferentes opiniones, ya que esta influencia podría llevarte a enojarte y caer en la trampa de alguien. Sin embargo, una disputa menor a veces puede aclarar las cosas, así que no hay necesidad de tener demasiada cautela.
 
 ## Dinero
 
-Esta semana trae un positivo suspiro de alivio entre la comunicación y las ideas, y la individualidad y el cambio repentino. Ciertos aspectos afectan a la familia, el romance y la creatividad mientras que amplificas tus esfuerzos para llevar tu producto o servicio a una audiencia global. Tienes confianza en tus capacidades, lo cual es genial. ¡Tienes mucho poder para lograr lo que quieres!
+Ciertos aspectos podrían hacer que dijeras algo erróneo o que alguien te diga algo erróneo a ti. Cuidado con el impulso de explicar tus acciones demasiado o a estar a la defensiva. Puedes llegar a tener un repentino destello de comprensión acerca de cómo llevar tus ideas a un público más global. Muévete de acuerdo a los dictados de tu corazón, ya que tienen la mejor sabiduría en esta situación.

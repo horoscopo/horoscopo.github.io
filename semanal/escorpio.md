@@ -1,27 +1,30 @@
 ---
 layout: horoscopos
-title: escorpio 23 de diciembre 2024 al 29 de diciembre 2024 
-description: Horóscopo semanal escorpio 23 de diciembre 2024 al 29 de diciembre 2024. No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
+title: escorpio 30 de diciembre 2024 al 05 de enero 2025 
+description: Horóscopo semanal escorpio 30 de diciembre 2024 al 05 de enero 2025. Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana Escorpio.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2024-12-23
+ogimg: /images/zodiac/semanal_escorpio.png#2024-12-30
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-12-23'
+ lastmod: '2024-12-30'
 ---
 
 
 
-## No cambies tu viaje para que coincida con el de otra persona porque aún te queda por explorar mucho, y además no hay que forzar nunca nada. Disfruta del momento en el que estás.
+## Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana Escorpio.
 
-La gente no hará siempre lo que tu quieres, la gente no agradecerá ni te dará lo mismo a ti, pero no, no te decepciones, es tiempo de dar un giro a todo. Sinceramente ¿de qué te saca dar más vueltas de lo debido a cosas que realmente no te hacen bien? Entrena tu mente, entrénala para ver las cosas buenas hasta en lo peor. Lo que parecía que no tenía solución, de repente lo tiene, las excusas que a veces ponías sólo por el miedo a que algo peor pasara ya no están. La felicidad se puede hallar hasta en los momentos más oscuros si somos capaces de usar bien la luz, y de eso, estás más seguro que nunca. Pues adelante Escorpio, la luz está en tus manos, solamente tienes que alumbrar lo que de verdad te conviene, ya basta de ir detrás de cosas o personas que lo que intentan hacer es apagarte, eres fuerte, y estás conociendo gente nueva que puede apoyarte en todo. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
-A pesar de que puedas tener muchas ideas, la semana que se aproxima podría motivarte para que veas tus planes desde un punto de vista más filosófico. En primer lugar, un enfoque en tu sector espiritual sugiere que es hora de que ordenes tus prioridades y dejes atrás los problemas que no te hacen bien. Esto puede ser esencial para progresar en el futuro. Marte luego ingresa a Tauro y a tu sector de finanzas personales, lo que te da una actitud más práctica y realista en cuanto a los asuntos diarios.
+Son muchos los que quieren arruinar tu vida Escorpio, los que no pueden soportar cuando subes a una foto a alguna red social, los que rabian cuando te ven feliz. Pero es que ahora, estás conectado a tu vida más que nunca, crees en ti mismo y sabes las posibilidades que tienes en este mundo. Y son muchas. Y esa seguridad tan fuerte es la que hará que consigas todo lo que te propongas pero también te sacará algún enemigo que otro. Pasa Escorpio, tú a lo tuyo, siempre. Todo pasa por alguna razón y lo tienes más que claro pero cuando le toca a uno mismo cuesta el doble aceptarlo pero todo pasa y todo llega Escorpio. Pero ya pasó, y ya lo superaste, o al menos, los aceptaste. Los pocos pensamientos negativos que aún te quedan acabarán por desaparecer, los buenos son los que al final prevalecen. Has tenido falta de confianza por momentos, falta de confianza que te ha ahogado, que no te ha dejado respirar, que te ha ido apagando lentamente aunque tú lucharás hasta el último minuto porque no pasara… Acuérdate de esos malos ratos Escorpio. Y no los repitas. Que la primera vez que algo te pase podrá ser un error, pero si te pasa dos veces es una elección. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Escorpio. Ahora brillas así que, aprovecha. Aprovecha todo.
+Puede que lo mejor sea llegar a un compromiso al principio de la semana, incluso si no estás de acuerdo con las sabias palabras de otra persona. Sin embargo, si parece que esta persona te está manipulando, no te sientas culpable por mostrarte firme y fortalecer tus límites. Si bien una conexión entre el sociable Venus y el etéreo Neptuno podría animarte a ceder ante esta persona, tal vez lo mejor para ti sea no hacerlo.
+Un aspecto muy animado entre el sol y el positivo Júpiter el martes puede ser excelente para todo tipo de eventos sociales, románticas citas y divertidas experiencias. Sin importar qué hagas, diviértete.
+El fin de semana podría ser un poco más intenso. Si debes tomar una decisión importante, la conexión del sol con Plutón el viernes puede ayudarte a elegir la mejor opción para ti. 
+El domingo, la conexión entre el conversador Mercurio y el innovador Urano podría animarte a buscar nuevas oportunidades, pero evita tomar cualquier decisión de manera impulsiva.
 
 ## Dinero
 
-Para ti, esta semana se trata de aumentar considerablemente tu potencial de ingresos. Dondequiera que detectes una oportunidad, haz valer tu voluntad, tus necesidades y tu individualidad. Con la ayuda de los útiles aspectos, el dinero viene cuando cultivas la creatividad en tu pensamiento. En otras palabras, mientras menos hagas las cosas de la misma vieja manera, más lo agradecerás. Es bastante brillante si piensas en ello.
+Puede que te encuentres considerando tu siguiente paso en este momento. Esto se debe a que algunos de tus aspectos en el sector financiero pueden estar frenando lo que se avecina. ¡No entres en pánico! Cuando el Universo cierra una ventana en un área, otra ventana se abre en otra parte. Usa tu imaginación para idear nuevas formas de ganar dinero, sobre todo en lo que respecta a tu vida laboral diaria. Es posible que incluso movimientos inusuales traigan más dinero en efectivo.

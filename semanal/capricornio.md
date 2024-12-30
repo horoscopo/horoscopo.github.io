@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 23 de diciembre 2024 al 29 de diciembre 2024 
-description: Horóscopo semanal capricornio 23 de diciembre 2024 al 29 de diciembre 2024. Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento Capricornio. Hay personas a las que TÚ debes dar ese escarmiento.
+title: capricornio 30 de diciembre 2024 al 05 de enero 2025 
+description: Horóscopo semanal capricornio 30 de diciembre 2024 al 05 de enero 2025. Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2024-12-23
+ogimg: /images/zodiac/semanal_capricornio.png#2024-12-30
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-12-23'
+ lastmod: '2024-12-30'
 ---
 
 
 
-## Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento Capricornio. Hay personas a las que TÚ debes dar ese escarmiento.
+## Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
 
-Nunca te has arrepentido de nada Capricornio, para bien o para mal la vida te ha dado lecciones en las que no te ha quedado más remedio que aprender. Estás en una fase en la que tus pensamientos se vuelven a pelear entre ellos. Lo que deberías hacer, lo que quieres hacer, lo que el mundo espera que hagas… Otra vez. Piensa antes de nada en lo que vas a perder antes de actuar y de tomar una decisión, pero tampoco busques hasta la más mínima excusa para no hacerlo. A veces para tenerlo todo hay que aprender a vivir sin algunas cosas que lo único que hacen es frenarnos Capricornio. Tu mente a veces se crea dependencia de algunas cosas y de algunas personas pero es simplemente porque todavía no has probado a vivir sin ellas de verdad. Métete en la cabeza que puedes hacer absolutamente todo lo que te propongas solo, sin necesidad de que nadie te nuble el juicio, sin necesidad de que nadie te vuelva loco. La vida va a empezar a enseñarte quien merece la pena, quién no merece que se acerque a ti más de cinco minutos al día y quien no merece que se acerque nunca. Pero primero eres tú, en eso es en lo que tienes que trabajar más, en valorarte a ti mismo, en confiar en ti, en tus instintos, en tus objetivos, en saber que lo que hagas saldrá bien, de verdad. Tú no necesitas ejemplos de nadie, cada uno vive su vida como le apetece y si a alguien no le salieron las cosas como esperaba no significa que a ti no te vayan a salir, deja el miedo a un lado y sobretodo la dependencia emocional. Aunque sea una dependencia mínima. Vuelve a ser la persona que siempre has sido.
-Tu planeta regente, cambia de signo esta semana, por lo que puedes notar un cambio en tu enfoque. Entra a tu sector espiritual por una estancia de doce meses para llevarte a que te liberes de esas limitaciones y vivas tu vida aprovechando tu máximo potencial. Este puede ser un momento en el que un asesor o mentor tiene un efecto profundo en ti, y te ayuda a elevarte hacia nuevas alturas. Mientras tanto, la semana por delante podría revelar diferencias de opinión que pueden resolverse con un manejo cuidadoso.
+Es mejor reflexionar que lamentar Capricornio. Siempre. 
+Sí, quizás aún cargas a tu espalda demasiadas cosas que sabes que no te pertenecen del todo pero, eres así Capricornio, y en eso no cambiarás nunca. A pesar de todo, te has acostumbrado a llevarlas y a pesar de todo, ahora no te tira para abajo nadie.
+Trata de no cargarte de demasiadas tareas imposibles desde el comienzo, ya que podría resultarte difícil alcanzar tus expectativas. Si eres realista, puedes lograr mucho. A medida que avanza la semana, el enfoque podría virar hacia actividades más relajadas. Cuando Venus ingresa a tu sector doméstico, es momento de darte algunos gustos y cuidar de ti, en especial si tu agenda ha estado repleta con preparativos o eventos sociales. Tu planeta regente, se vuelve retrógrado el sábado. Terminar cualquier tarea u obligación que tengas antes de tiempo puede serte muy útil.
 
 ## Dinero
 
-Te enfrentas a un momento de decisiones financieras. Tus esfuerzos se están monetizando y te están ayudando a ganar más que nunca. De hecho, puede que tengas tanto que hacer, que no tienes tiempo para amigos y contactos sociales. Puede que tengas que establecer un equilibrio entre el trabajo, las responsabilidades de dinero y la necesidad de desahogarte de vez en cuando. Sin duda te lo mereces.
+Los aspectos de esta semana podrían lanzar una llave inglesa hacia tus planes de dinero. Pon orden en tu propiedad compartida y las inversiones que tengas. La firma, el sellado y la entrega de estos materiales al lugar donde tienen que estar dejan espacio para crear una estrategia en otros lugares. Al mismo tiempo, considera la posibilidad de poner tu dinero en instituciones que sabes que son confiables. Confiar en las nuevas puede ser atractivo, pero no es la decisión correcta para este momento de tu vida.
