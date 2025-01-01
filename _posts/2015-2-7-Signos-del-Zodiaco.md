@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 31 de diciembre 2024
-description: Horóscopos del dia de hoy 31 de diciembre 2024 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 01 de enero 2025
+description: Horóscopos del dia de hoy 01 de enero 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2024-12-31
+ lastmod: 2025-01-01
 ---
-Aunque en un principio podrías pensar que no es así, algo de lo que te enteras es en realidad una buena noticia. Prepárate para meterte de lleno en cierto asunto o saltarle a una buena oportunidad mientras Marte aspecte a Urano hoy. Esta noche, cierta persona te recuerda a alguien del pasado. Venus conjuntando a Plutón te advierte que serías prudente al tratar de recordar reacciones anteriores.
+No es necesario apresurar las cosas. Muchas situaciones funcionan en el momento adecuado mientras Júpiter está retrógrado (aspecto que dura hasta principios de junio). Esta noche, alguien descuida el cumplimiento de una promesa. ¿Eres tú? No es demasiado tarde para cumplirla. El pronóstico social es un debate animado con una intermitente franqueza.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
