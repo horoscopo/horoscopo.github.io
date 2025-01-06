@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 30 de diciembre 2024 al 05 de enero 2025 
-description: Horóscopo semanal geminis 30 de diciembre 2024 al 05 de enero 2025. Tienes estilazo y personalidad propia pero no viene mal de vez en cuando hacerte algún arreglo para potenciarlo más aún. Esta semana vas a reinventarte Géminis, estás increíble, con una energía capaz de mover montañas, con un don de palabra capaz de hacer los mejores acuerdos del mundo.
+title: geminis 06 de enero 2025 al 12 de enero 2025 
+description: Horóscopo semanal geminis 06 de enero 2025 al 12 de enero 2025. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2024-12-30
+ogimg: /images/zodiac/semanal_geminis.png#2025-01-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-12-30'
+ lastmod: '2025-01-06'
 ---
 
 
 
-## Tienes estilazo y personalidad propia pero no viene mal de vez en cuando hacerte algún arreglo para potenciarlo más aún. Esta semana vas a reinventarte Géminis, estás increíble, con una energía capaz de mover montañas, con un don de palabra capaz de hacer los mejores acuerdos del mundo.
+## No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
 
-Después de todo lo que has pasado, pocas cosas son las que te asustan ahora. A ver Géminis, no es que hayas tenido una época fácil últimamente, eso está más que claro, y tienen que entender que cuando psicológicamente has sido decepcionado muchas veces, incluso destrozado, se comienzan a perder las ganas de todo. No es que te hayas cerrado en banda y no vayas a dar nada de ti, no es eso, es sólo que 
- hasta que empieces a sentir que realmente merece la pena.
-Tu vida social está bajo un gran enfoque, pudiendo poner oportunidades en tu camino que de lo contrario no tendrías. Puede que hasta incluso te percates de que una creativa idea te conduce a un proyecto en el que te gustaría colaborar, uno que rápidamente podría convertirse en un hecho. En el frente doméstico, un plan para cambiar tus hábitos alimenticios puede tener éxito si tienes las suficientes razones para verte y sentirte mejor. Si no es así, es posible que requieras de más energía para seguir adelante.
+Aunque nadie lo quiera para sí mismo hay que dejar algo claro: el sufrimiento a veces es nuestro mejor maestro. Sí Géminis, si aún sufres es porque no has aprendido esa lección en particular, es porque aún no te has armado de valor para dejar de lado lo que no te hace ningún bien, lo que no te aporta. Cuando por fin lo hagas y te decidas de verdad, el sufrimiento se acabará yendo… Pero si sólo tratas de engañarte la misma lección acabará por venir una y otra vez a tu vida. Acompañada de dolor.
+Hay motivos por los cuales sería mejor buscar el equilibrio esta semana. Poderosas fuerzas celestiales podrían llevarte a los extremos, y es mejor evitarlo. De hecho, la Luna Llena a mitad de semana podría hacer que tomes una decisión espontánea de la que te arrepientes luego. Tal vez sea mejor esperar hasta el final de la semana, o incluso después, antes de tomar una decisión importante. Sin embargo, el fin de semana ofrece algo de diversión y animadas salidas que deberías disfrutar en grande.
 
 ## Dinero
 
-Puede que estés experimentando algunos cambios no deseados en el trabajo esta semana. Las grandes ideas pueden estar ocurriendo a un ritmo rápido, pero puede que otras personas no estén en el lugar adecuado para escucharlas por el momento. Es como un zapato demasiado ajustado - no se le puede forzar. En vez, ajusta la forma en como tratas con los demás, esto hará toda la diferencia en el mundo. Relájate y deje que esto ocurra.
+Un aspecto positivo le trae suerte a tu sector de educación, idiomas y espiritualidad. Últimamente has tenido tus ojos puestos en el horizonte, preguntándote cómo hacer que tus productos y servicios le lleguen a una audiencia internacional más amplia. Al considerar las medidas necesarias para ello, no descartes las ideas que parezcan locas. Puede que encuentres apoyo hasta en los lugares más extraños.

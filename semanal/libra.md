@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: libra 30 de diciembre 2024 al 05 de enero 2025 
-description: Horóscopo semanal libra 30 de diciembre 2024 al 05 de enero 2025. La guerra que tienes dentro está deseando encontrar un poco de paz Libra, de verdad, ya no puede aguantar tanto. ¿Qué pasa con tus metas, con tus objetivos? Primero debes ponerte a ti mismo ahora. ¿No te acuerdas de cuantas cosas has rechazado por amor? ¿o de cuanto has dejado de lado?
+title: libra 06 de enero 2025 al 12 de enero 2025 
+description: Horóscopo semanal libra 06 de enero 2025 al 12 de enero 2025. Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2024-12-30
+ogimg: /images/zodiac/semanal_libra.png#2025-01-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2024-12-30'
+ lastmod: '2025-01-06'
 ---
 
 
 
-## La guerra que tienes dentro está deseando encontrar un poco de paz Libra, de verdad, ya no puede aguantar tanto. ¿Qué pasa con tus metas, con tus objetivos? Primero debes ponerte a ti mismo ahora. ¿No te acuerdas de cuantas cosas has rechazado por amor? ¿o de cuanto has dejado de lado?
+## Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
 
-Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. Quieres perder el interés de algunas cosas pero no puedes. Sabes de sobra lo que está bien y lo que está mal, lo que deberías dejar a un lado ya pero a la hora de la verdad, sientes como si algo te atrapara, como si no pudieras decir “hasta aquí” definitivamente, como si no pudieras alejarte del todo de verdad. Pero en vez de marcharte, te quedas, y te quedas de mala hostia, y te enzarzas en pensamientos negros, en peleas tontas y en discusiones que no merecen la pena. Tu te quieres mucho, y sabes lo que vales, pero a la vez te dejas llevar, esa pasión incontrolada es la causante de tus alegrías más grandes y de tus dolores de cabeza más intensos. Y no puedes parar. Y te sientes encerrado en un círculo, un círculo del que cuando empiezas a salir te jala para adentro otra vez… Está bien echarle picante a la vida Libra, en serio, está bien que haya un poquito de locura, pero no te pases porque al final vas a acabar por pagar un precio alto por esto. Ahora puedes con todo Libra, recuperarte te lleva un par de días o tres pero, ¿es lo que quieres para tu futuro? No mantengas demasiado lo que debería estar muy lejos de ti.
-Un dinámico tránsito podría coincidir con un golpe de suerte, la oferta de un nuevo puesto de trabajo, o una oportunidad que es demasiado buena para dejarla pasar. Cualquiera que sea la experiencia que tengas, sentirás más riqueza a causa de ello. Prepárate para cuando Marte entre a tu signo a mitad de semana, dándote más vitalidad y coraje. Aun así, te ayudaría respetar las diferentes opiniones, ya que esta influencia podría llevarte a enojarte y caer en la trampa de alguien. Sin embargo, una disputa menor a veces puede aclarar las cosas, así que no hay necesidad de tener demasiada cautela.
+Te crees que eres débil Libra, a veces te menosprecias demasiado, más de lo que deberías, te crees que no llegas, que no puedes, te crees que quizás se te está yendo de las manos el tiempo que estás tardando en curarte de viejas heridas, piensas que ya tenía que tener superado mucho, pero no… Todo tiene su tiempo, no quieras comerte el mundo en un minuto porque seguro que lo escupes al minuto siguiente. Vas a tardar en ser “normal” otra vez, porque tienes sentimientos Libra, porque las cosas te duelen, porque vas a tardar en recuperarte del todo… Pero eh, que saldrás de cualquier cosas, que tu te pones las pilas y te mentalizas y trepas hasta de lo más profundo. Esta semana dedícate a mimar algunas relaciones que tienes cerca y que, por tener tu mente en otro lugar, estás descuidando. Y quiérete un poco más, y piensa que los bajones son normales, y más cuando estás en un proceso de duelo, de superar algunas cosas y de cambiar otras de forma radical. Nadie sabe estar de un minuto a otro sin parte de su vida anterior Libra… Tómate un tiempo Libra, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
+El deseo de gastar podría ser la razón por la que tu lista de compras se está haciendo más y más larga. La Luna Llena en Sagitario del Martes podría coincidir con una fuerte tentación de comprar un artículo costoso que has codiciado desde hace algún tiempo. No decidas comprarlo de inmediato. Espera unos días para ver cómo te sientes al respecto. El movimiento de Venus a Leo es excelente para el entretenimiento o para alojar huéspedes en tu hogar en las próximas semanas. Tu hogar se vislumbra con mucha actividad - en el buen sentido.
 
 ## Dinero
 
-Ciertos aspectos podrían hacer que dijeras algo erróneo o que alguien te diga algo erróneo a ti. Cuidado con el impulso de explicar tus acciones demasiado o a estar a la defensiva. Puedes llegar a tener un repentino destello de comprensión acerca de cómo llevar tus ideas a un público más global. Muévete de acuerdo a los dictados de tu corazón, ya que tienen la mejor sabiduría en esta situación.
+Es probable que estés en un estado mental social con cierta actividad en tu sector de expresión personal y apariencia. Es posible que estés pensando en cambiar la forma en la que te presentas ante el mundo. Suponiendo que un comportamiento profesional significa que puedes conseguir un nuevo empleo, si es que quieres, o elevar tu posición en tu empleo actual. El dinero y las comodidades ejecutivas vienen con la nueva oficina.
