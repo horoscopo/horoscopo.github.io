@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 11 de enero 2025
-description: Horóscopos del dia de hoy 11 de enero 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 12 de enero 2025
+description: Horóscopos del dia de hoy 12 de enero 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-01-11
+ lastmod: 2025-01-12
 ---
-Cuando la Luna en Géminis forma trígono con Mercurio y los teléfonos no paran de sonar, el Universo envía grandes piezas de información. A esto, añádele ideas que te llegan de fuentes del más allá (intuición). Cuando Venus, el planeta del amor, se encuentra a punto de cambiar de signo como lo está esta noche, es momento de dejar el pasado donde pertenece - atrás.
+Cuando las personas exageran bajo la Luna Nueva en Sagitario, el antídoto es ver y tomar las cosas de manera práctica. Tales te pueden decir todo lo que quieran decir, pero no pueden obligarte a creerlo. El tema de esta noche acentúa a complejas personas en complejas relaciones mientras Venus cuadra al impredecible Urano.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
