@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 06 de enero 2025 al 12 de enero 2025 
-description: Horóscopo semanal cancer 06 de enero 2025 al 12 de enero 2025. Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Cáncer, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
+title: cancer 13 de enero 2025 al 19 de enero 2025 
+description: Horóscopo semanal cancer 13 de enero 2025 al 19 de enero 2025. Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2025-01-06
+ogimg: /images/zodiac/semanal_cancer.png#2025-01-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-01-06'
+ lastmod: '2025-01-13'
 ---
 
 
 
-## Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Cáncer, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
+## Quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que estás metido en una espiral entre la razón y el corazón casi las 24 horas del día.
 
-La zona de confort es un sitio bonito Cáncer, un lugar cómodo en el que probablemente nada ni nadie pueda molestarte, pero recuerda que nada crece ahí, así que, si quieres conseguir algo que realmente merezca la pena empieza a moverte y a buscarlo. El primer paso para todo siempre es duro pero piensa que es sólo eso, un paso, que después todo fluye. Esta semana tienes que dar más de un paso para empezar a ver luz en la oscuridad, para darte cuenta de una vez que el lugar en el que estás clavado te atrapará mucho más. Llega una buena noticia, algo que te hará removerte del todo, algo que esperabas… Y llega porque en realidad tendrás una buena actitud para que las cosas que merecen la pena aparezcan. No desaproveches las oportunidades más Cáncer, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida Cáncer. No le debes ninguna explicación a nadie. Así que, cuando empieces a caminar hacia lo que de verdad te interesa y te gusta, no mires atrás porque recuerda que no debes nada a nadie, si no más bien al revés. Y ten claro que debes rodearte de personas que saquen la magia de ti, y no la locura. No te metas en juegos de niños pequeños, no te dejes llevar por las emociones ahora, que las sensaciones de otros no se cuelen en tu vida. Va a empezar a caminar hacia buen puerto Cáncer, y tú mismo te lo notas, no la cagues por nada ni por nadie.
-Los asuntos de negocio podrían desarrollarse sin problemas y si te enfocas en lo primordial, puedes llegar lejos. Quizá puedas ver cómo tu esfuerzo y determinación generan grandes transformaciones en tus finanzas. Prepárate para dejarte llevar por una serie de eventos y encuentros que podrían ser muy prácticos, pero también extremadamente emocionantes. Mercurio, tu planeta guía, entra a Capricornio y esto también quizá te ayude a saber manejar bien tu dinero y tus negocios.
+Vale, puede que te lleves o que ya te estés llevando decepciones, pero piénsalo bien, son decepciones que no te sorprenden demasiado. Las cosas ya no te afectan como antes, es muy raro que algo te de la sorpresa de tu vida, ya has pasado demasiado pero aún así, por muy duro que parezcas a veces, las cosas duelen. Bueno, lo hecho, hecho está, y quizás en tus manos tengas poco poder para cambiar los fallos que cometen los demás, pero ¡despierta! En tus manos sí está el poder de cambiar lo que tú quieres, para ti, para tu vida. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. Todo pasa, todo cambia y todo llega Cáncer. A veces la opción más difícil y la mejor opción son la misma. Tener el control de uno mismo es fundamental para caminar hacia delante y eso es lo que debes tener controlado ahora, no se trata de lo que tienes o de lo que no tienes, se trata de lo que quieres llegar a tener, con lo que de verdad te quieres llegar a sentir satisfecho. No te dejes arrastrar de nuevo por la mierda.
+El meditativo enfoque en un sector aislado de tu carta continúa, animándote a hacerle frente a cualquier problema personal que te haya estado drenando desde hace algún tiempo. Los días de entre semana podrían ser decisivos al animarte a hacer una elección entre aferrarte a viejos patrones o finalmente dejarlos ir. La Luna Llena se manifiesta en tu sector de ocio y placer, por lo que ten cuidado si te encuentras cayendo en enamoramiento. Asegúrate de conocer a la persona mejor antes de llevar las cosas más lejos.
 
 ## Dinero
 
-El Universo está exigiendo que pases más tiempo desarrollando tus relaciones más cercanas para que puedas beneficiarte personal y financieramente. El hacer más tiempo para aquellos que pudieran ayudarte a avanzar en tus objetivos no solamente es sensato/a, también es necesario para el logro de tus objetivos. Puede que estés en conversaciones para una mejor posición, la cuál llegará a lo grande.
+Esta semana puede traer algunas sensaciones extrañas de tu pasado (o tal vez las vidas pasadas). Podrías sentirte de alguna manera en una caja o forzado/a hacia una conclusión determinada. Los aspectos que afectan a tu sector de empleo significan que necesitas prestar más atención aquí para hacer tu trabajo con mayor sentido lucrativo.

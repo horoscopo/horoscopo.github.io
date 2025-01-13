@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 06 de enero 2025 al 12 de enero 2025 
-description: Horóscopo semanal acuario 06 de enero 2025 al 12 de enero 2025. Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda Acuario, pero sé constante.
+title: acuario 13 de enero 2025 al 19 de enero 2025 
+description: Horóscopo semanal acuario 13 de enero 2025 al 19 de enero 2025. Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2025-01-06
+ogimg: /images/zodiac/semanal_acuario.png#2025-01-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-01-06'
+ lastmod: '2025-01-13'
 ---
 
 
 
-## Te has dado cuenta de que eres poderoso, de que te mereces todo lo bueno. Te has dado cuenta de que haya pasado lo que haya pasado, ha merecido la pena. Y aún queda Acuario, pero sé constante.
+## Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
 
-No puedes esperar a que las cosas pasen Acuario, no puedes esperar a que sean otros los que decidan casi tu futuro… Tanto pensar un día va a acabar contigo, de verdad. De una vez por todas plántale cara a los problema, no los dejes pasar, no pienses que el tiempo curará todo, porque no siempre lo hace, no creas que saliendo a la calle a despejarte las cosas volverán a la normalidad. Si algo no quiere salir de tu cabeza haz que salga como sea. No puedes perder otros tipos de oportunidades por tener siempre lo mismo, algo que ni avanza ni retrocede, algo que a veces parece que está ahí clavado en nuestra memoria sólo por joder. Si te pasas la vida reflexionando y pensando en como solucionar algo pero no haces nada al final lo único que acaba pasando es la vida y, bueno, a otros signos puede que esto ni siquiera les afecte pero tú eres Acuario, esa persona que quiere vivir desde que nació, que quiere disfrutar todo, desde los sentimientos más intensos hasta los viajes más largos, desde las conversaciones más interesantes hasta el amor más pasional. ¡Despierta! Sinceramente, ¿qué haces planteándote esperar? ¿qué haces pensando que las cosas se acabarán poniendo en el lugar que le corresponden? Si no lo haces tú, no lo va a hacer nadie. No dejes pasar ni una sola oportunidad que te haga feliz a ti aunque a los demás no les guste. De verdad. Por tu propio bien. Y toma decisiones YA, AQUÍ y AHORA Acuario. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
-Los asuntos familiares pueden ser tu prioridad, lo cual puede que no sea nada malo. Reunirte con la familia puede invitar al intercambio de opiniones. Si cierta situación está generando malos sentimientos, puede que una conversación íntima sea todo lo que se necesita para resolver las cosas. Por otro lado, un enfoque positivo en tu sector de ocio y placer podría hacer que disfrutes de una sesión de spa o un masaje que te ayude a relajarte después de período atareado. Un poco de descanso te vendría bien.
+Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate. Los pensamientos negativos son como la mierda Acuario, que atraerán más mierda, y antes de que te des cuenta tendrás la mente infectada, de verdad. Empezarás a ver problemas en vez de soluciones, te meterás en un círculo vicioso en el que YA has estado. No puedes permitirlo otra vez. No luches contra cosas o personas, simplemente esquívalas, a veces, aunque intentes hacer que entren en razón es imposible, y el que acaba sufriendo irremediablemente eres tú. No debes permitirte el lujo de tener ningún pensamiento negativo ahora, de verdad, ya has pasado demasiado, sólo céntrate en esquivar lo que te dañe, pero en esquivarlo de verdad. O sea, si de verdad decides que no es lo que quieres, corta por lo sano cuanto antes, y no mires atrás ni por el retrovisor del coche. Lidera tu interior y serás el líder de tu entorno. Lo único que ahora puede frenarte son tus pensamientos, trabájalos, distráete, y rodéate de todo lo bueno que tienes aunque a veces te cueste poner punto y final a lo malo. Tus metas ahora son lo más importante y sólo se consiguen cuando uno realmente no tiene nada que le estorba en su camino.
+Tus interacciones pueden ser lo que te inspira a explorar nuevas ideas. El panorama actual se enfoca menos en el pasado y más en lo que esperas lograr en el futuro. Es un momento para tener esperanzas. La Luna Llena en tu signo el Viernes puede intensificar tus emociones y hacer que respondas de manera instintiva al pedido de alguna persona o en una conversación. Sin embargo, es mejor pensar antes de reaccionar para evitar hacer o decir algo de lo que te puedas llegar a arrepentir.
 
 ## Dinero
 
-El Universo está aumentando ahora tu capacidad de ganar. Esta es una gran noticia para tu estado de ánimo, que puede estar vinculado a la libertad que percibes como la que te otorga el dinero, y una buena noticia para tu ambición, que tiende a estar ligada a la forma en la que percibes tu justa compensación. A medida que tus metas profesionales empiezan a hacerse realidad, el flujo de efectivo también mejora. ¿Qué podría no gustarte de tu vida ahora?
+Podría parecer que tu vida monetaria va hacia atrás en lugar de avanzar hacia delante. Ciertas influencias parecen restringir y limitar lo que viene, pero puede que esto sea sólo una ilusión. Considera tener un poco más de madurez y responsabilidad.  Esto significa que probablemente tengas que determinar de una vez por todas lo que significa el dinero en tu vida. ¿Sientes comodidad con el dinero que ganas, o  necesitas más dinero para ser realmente feliz? Tu próximo paso será determinado por tu respuesta.

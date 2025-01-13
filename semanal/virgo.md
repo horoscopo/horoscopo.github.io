@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: virgo 06 de enero 2025 al 12 de enero 2025 
-description: Horóscopo semanal virgo 06 de enero 2025 al 12 de enero 2025. Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
+title: virgo 13 de enero 2025 al 19 de enero 2025 
+description: Horóscopo semanal virgo 13 de enero 2025 al 19 de enero 2025. Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2025-01-06
+ogimg: /images/zodiac/semanal_virgo.png#2025-01-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-01-06'
+ lastmod: '2025-01-13'
 ---
 
 
 
-## Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
+## Llegan cosas muy buenas a tu vida, y no creas que llegarán por arte de magia, tienes una trayectoria muy grande ya hecha, de esfuerzo, de trabajo… Y al final, parece que se alinearán los astros para darte lo que mereces.
 
-Sí, es cierto que muchos se los merecen, es cierto que a veces te entran ganas de dejarles en su sitio, con tres palabras podrías hacer que cerraran sus bocas para siempre pero, ese no es el caso ahora. Si ya has salido de lo más hondo no vuelvas al agujero otra vez por favor. 
- No tengas odio o rabia por dentro, no dejes que la ira te controle porque mantener cualquier tipo de enfado o de resentimiento sólo te mantiene en un estado tóxico que de verdad no te hace bien.
-La próxima semana puede traer oportunidades para tener reuniones, ya sea organizadas por ti o por alguien más. Y esta puede ser una oportunidad para ponerte al día con las noticias de tal persona, y quizás verse más seguido en el futuro. También es posible que un encuentro inesperado pueda llevarte a una atracción instantánea. Esto podría convertirse en romance o tal vez en amistad, pero si no cuidas la relación podría desaparecer. Con respecto a un plan clave, investigar en detalle y actuar de forma positiva puede ayudarte a lograr mucho.
+Sabes también que has sido cruel con los demás, que has dicho palabras hirientes de las que quizás después, te has arrepentido. 
+ Tienes que acabar de una vez con todo Virgo.
+Información oculta y secretos enterrados podrían salir a la luz durante la próxima semana. La razón es que el actual enfoque en tu sector místico y espiritual podría animarte a desahogarte con respecto a eventos que necesitan ser procesados. Si hay algo en tu conciencia que nunca le has dicho a nadie, este podría ser un buen momento para revelarlo siempre y cuando puedas encontrar a alguien que sea de suficiente confianza. En otra nota, darle rienda suelta a tu imaginación podría hacerte llegar lucrativas y creativas ideas.
 
 ## Dinero
 
-Esta semana se le puede considerar un cese al fuego de todo tipo. Los aspectos en tu casa de vidas pasadas, sueños y karma significan que es extremadamente importante el ser amable y cortés con los demás. Recuerda los modales que te enseñó tu madre. Así como ella dijo, una cucharada de azúcar ayuda a mejorar incluso hasta las noticias financieras más desagradables. Todo mejorará en poco tiempo. Hasta entonces, lucha por tener paciencia.
+Es un tiempo muy ocupado para ti. Tanto está pasando que lo único que tus jefes quieren hacer es promocionarte, darte vino, llevarte a cenar y demás. Puede que te sea difícil encontrar tiempo para ti mismo/a. Esto sólo temporal. Un aspecto armónico te mueve en la posición de autoridad que por destino tienes que ocupar. ¡Que lo disfrutes!

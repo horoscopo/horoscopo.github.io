@@ -1,27 +1,29 @@
 ---
 layout: horoscopos
-title: leo 06 de enero 2025 al 12 de enero 2025 
-description: Horóscopo semanal leo 06 de enero 2025 al 12 de enero 2025. Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
+title: leo 13 de enero 2025 al 19 de enero 2025 
+description: Horóscopo semanal leo 13 de enero 2025 al 19 de enero 2025. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2025-01-06
+ogimg: /images/zodiac/semanal_leo.png#2025-01-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-01-06'
+ lastmod: '2025-01-13'
 ---
 
 
 
-## Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
+## Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón.
 
-Vamos Leo, esta semana es muy importante que empieces de cero algunas cosas en tu vida. Date oportunidades, deja entrar en tu vida personas y situaciones que el destino te está poniendo en bandeja y no corras hacia la otra dirección por miedos y por inseguridades. Aprovecha tu vida Leo, aprovéchala ahora más que nunca. Se vive mejor sin esperara nada de nadie Leo pero el problema es que, aunque la teoría te la sepas, la práctica te falla un poco. Vuelves a confiar cuando pasa un tiempo, y si no a confiar, al menos das otra oportunidad, das el 100% de ti aunque presumas de frío. Sí, quizás seas frío después, pero estás ahí. Siempre. Y eso no es del todo sano para ti porque no dejas tiempo para que los demás se arrepientan de lo que han hecho y tampoco te das tiempo tú para saber realmente qué es lo que quieres. Y vuelves al bucle. Otra vez. Deja de obsesionarte por lo complicado, en realidad, tú eres muy así, las cosas como son, pero de verdad que sabes que no te trae nada bueno, céntrate en ti y en tus proyectos, en tus metas, ahora más que nunca necesitas esa fuerza y esa fe para que las cosas salgan como realmente quieres. Lo demás tiene que ser pasajero, lo demás probablemente entrará y saldrá de tu vida, pero el que se queda eres tú, así que, aprovecha tu talento ante todo, tus ganas de hacer las cosas bien. Tienes que empezar a dar de ti lo que tu recibes de los demás Leo. Así, tal cual.
-Has estado buscando los significados más profundos de la vida y de las relaciones. Cualquier conclusión que saques puede ser liberadora, pero también podría animarte a buscar otras posibilidades dentro de tus vínculos más cercanos. Puede que haya más opciones de las que sepas. Venus, el planeta que rige tus relaciones, entra a Aries esta semana, lo que podría hacerte pensar sobre una conexión en particular que es muy especial para ti. La respuesta podría no ser la que esperas.
+A veces, no es fácil vivir la vida Leo, a veces no es fácil enfrentarte al mundo con una sonrisa cuando en el fondo estás llorando por dentro. Pero la vida sigue, y aún tienes fuerza suficiente dentro de ti como para aguantar lo que te echen. Algún día te olvidarás de las heridas, de la razón por la que llorabas y por qué o quién te llenaste de dolor. Hay que dejar que las cosas se desarrollen a su manera y a su propio ritmo, no trates de que las cosas pasen a tu manera Leo. En realidad ese no es el plan, y, en el fondo, no te beneficia. Lo que importa en el fondo es el último capítulo, no tanto el primero…
+La semana que comienza podría animarte a abordar algunas cuestiones de lleno. El lunes, existe la posibilidad de que discutas con alguna persona con autoridad. Tal vez sientas la tentación de decir exactamente lo que piensas. Pero debido a que el encantador Venus se dirige hacia el nebuloso Neptuno el mismo día, puede que las cosas no sean lo que parecen. Si puedes esperar más o menos un día, es posible que descubras que las conversaciones fluyen mucho más fácilmente y traen resultados más positivos. 
+Las cuestiones de dinero tienen un aspecto prometedor el martes, cuando una deliciosa conexión entre el sol y el animado Júpiter sugiere que recibirás un inesperado dinero caído del cielo. Tal vez sea poco, pero aun así podría hacerte sonreír.
+La última parte de la semana podría allanar el camino para nuevos desarrollos. Cuando el sol se alinea con el potente Plutón el viernes, una decisión podría dar como resultado positivos cambios a tus circunstancias. El fin de semana, puede que te mueras de ganas de experimentar cosas nuevas y que estés a punto de probar algo distinto.
 
 ## Dinero
 
-Puede que estés atrapado/a en una situación de tensión esta semana. Puede que ambos, tu lado masculino y femenino tengan que ser abordados al considerar una nueva forma de ganar, ahorrar o gastar tu dinero en efectivo. Piensa con pragmatismo, mientras que aprecias y disfrutas las cosas buenas de la vida mientras piensas que podrías acostumbrarte a ellas.
+Los planetas en tu sector de comunicación esta semana te hacen más parlanchín/a de lo normal. Tanto tu situación económica, así como tu trabajo pueden depender de tu capacidad para transmitir tu mensaje de una manera concisa y poderosa. Pero ya que un aspecto negativo constriñe tu trabajo día a día, lo mejor es encontrar un equilibrio entre tu necesidad de destacar y tu necesidad de ganar dinero. El trabajo en equipo y el equilibrio van de la mano.
