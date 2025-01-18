@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 17 de enero 2025
-description: Horóscopos del dia de hoy 17 de enero 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 18 de enero 2025
+description: Horóscopos del dia de hoy 18 de enero 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-01-17
+ lastmod: 2025-01-18
 ---
-Las personas andan un poco distraídas y mantienen sus respuestas vagas cuando Mercurio cuadra a Neptuno esta mañana. La buena noticia es que las telarañas se despejan por la tarde. Espera y hazle la pregunta correcta a la persona adecuada en el momento preciso. Durante la noche, muestra esa enorme y linda sonrisa y ve cómo te suceden cosas positivas bajo la Luna en Leo.
+Hoy, presta atención, ya que Saturno, el planeta que suele darle a uno lecciones, sugiere que pensemos seriamente ciertos problemas. Las parejas tienen la intención de preservar el espacio que tanto parecen necesitar bajo la Luna en Acuario de esta noche. Solteros, la atracción tiene mucho que ver con la actitud y el enfoque cuando Júpiter aspecta a Urano.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
