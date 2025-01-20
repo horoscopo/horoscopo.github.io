@@ -1,28 +1,30 @@
 ---
 layout: horoscopos
-title: piscis 13 de enero 2025 al 19 de enero 2025 
-description: Horóscopo semanal piscis 13 de enero 2025 al 19 de enero 2025. La vida es un ciclo Piscis, y tienes que estar preparado para lo que venga. Algunas personas se cruzan en tu camino y cambian toda tu dirección, ahora bien, debes valorar si es eso lo que te interesa ahora. No te quedes con lo malo conocido.
+title: piscis 20 de enero 2025 al 26 de enero 2025 
+description: Horóscopo semanal piscis 20 de enero 2025 al 26 de enero 2025. Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2025-01-13
+ogimg: /images/zodiac/semanal_piscis.png#2025-01-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-01-13'
+ lastmod: '2025-01-20'
 ---
 
 
 
-## La vida es un ciclo Piscis, y tienes que estar preparado para lo que venga. Algunas personas se cruzan en tu camino y cambian toda tu dirección, ahora bien, debes valorar si es eso lo que te interesa ahora. No te quedes con lo malo conocido.
+## Tú mejor que nadie sabe lo que es obsesionarse por arreglar todo, TODO, y sabes que al final te afecta mucho más a ti mientras que el mundo sigue con su propia vida y como si nada. Respira tranquilo, dedícate a ti un poquito, sólo a ti.
 
-Es algo muchas veces inconsciente. Es algo que quizás tu cuerpo quiere esconder porque en el fondo, te encanta parecer que eres una persona fuerte y sí, incluso poco demostrativa, pero sabes que en realidad no es tan así. 
- que quizás te hagan tener un futuro mucho mejor y más satisfactorio.
-Tu sector profesional de carrera, metas y ambiciones recibe un doble impulso con Venus aumentando tu encanto y tacto para ayudarte a sellar acuerdos y conseguir un ascenso o un nuevo proyecto. Una vez que Marte entre a ese mismo sector a mitad de semana, podrías hacer más pública tu competitiva actitud y disponerte a usar tu encanto para llegar a donde quieres estar. La Luna Nueva del miércoles puede serte útil para moverte hacia nuevos círculos sociales y unirte a grupos que apoyen tus intereses. Nuevas y positivas amistades pueden formarse ahora.
+Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo, desde la felicidad más satisfactoria hasta el llanto más amargo. Y además te diría que intentaras controlarlo pero en realidad ahora lo mejor es que lo sueltes todo y te quedes a gusto y paz cuando lo hagas. Si te entran momentos de desánimos mira a tu alrededor y encontrarás a esas personas que te estiman, que te consideran y que te ven como un ejemplo a seguir, en serio. No les defraudes y demuéstrales que eres fuerte y que cuando te da el bajón es simplemente eso, un bajón del que más temprano que tarde te acabas reponiendo. En tus momentos de alegría máxima ándate con ojo y no te lances sin mirar a los dos lados, ponle cabeza a las cosas que llegan, confía en ellas pero hasta cierto punto. Como eres así de imprevisible muchas veces y tus emociones son como una especie de huracán aunque las lleves siempre por dentro, lo mismo estás contento que triste y tomas decisiones precisamente cuando te encuentras en esos estados. Pues no, cuando quieras hacer algo, párate a pensar, frénate unos minutos, unas horas, y cuando eso de “lo quiero todo y lo quiero ya” haya pasado, elige. Todo pasa Piscis, y aunque estás en esa etapa de un cambio a otro, lo bueno llega, sólo un poco de paciencia… Y sonríe un poco más, y no te preocupes por tus subidas y bajadas porque van a pasar pronto. Sólo es una etapa de decisiones. Decisiones que marcarán tu vida ahora.
+La luna en cuarto creciente del lunes en tu sector social podría hacer que te preguntes cuánto debes involucrar a tus amistades en una idea. Puede que quieras reunir recursos y habilidad, pero tal vez también tengas tus reservas. Hablar sobre esto con las personas involucradas puede ayudarte a tranquilizar la mente. 
+Existe una vibra muy positiva en torno a las relaciones que podría encontrarte disfrutando de algunas salidas especiales o, tal vez, de románticas citas. Si estás organizando una celebración u otro importante evento, todo debería salir muy bien. 
+El romance podría subir algunos puestos en tu agenda, ya que un encuentro resulta ser particularmente tentador. De hecho, puede que sientas que conociste a tu alma gemela. Deja que pase un tiempo, ya que podrías no sentir lo mismo cuando conozcas a esta persona. 
+Por último, una de tus viejas amistades podría tener ganas de volver a conectarse contigo. De ser así, acepta la invitación, incluso si sientes la tentación de ignorarla. Verte podría significar mucho para esta persona.
 
 ## Dinero
 
-Este período es acerca de grupos, política y autoempleo. Si has estado buscando la manera de ganar más y crear mayor estabilidad, el Universo te da la suerte y la oportunidad de hacer que esto suceda. Acude a tus amistades y redes sociales para ayudarte a construir tu clientela mientras haces la transición de tu empleo actual. Asegúrate de proteger tus ideas y productos con derechos de autor y marcas registradas para asegurar beneficios futuros.
+Esta semana es sobre la comunicación y tu sector de empleo. Las cosas son propensas a dejar de romperse, lo que hará más fácil tu trabajo, pero el dinero se ve afectado también. ¿Has tenido demasiada timidez como para pedir lo que vales? Busca una abertura para demostrar el valor que aportas a la empresa. A continuación, solicita una reunión y haz valer tu caso, el éxito sigue.

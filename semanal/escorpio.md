@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 13 de enero 2025 al 19 de enero 2025 
-description: Horóscopo semanal escorpio 13 de enero 2025 al 19 de enero 2025. No desaproveches las oportunidades más Escorpio, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida. No le debes ninguna explicación a nadie.
+title: escorpio 20 de enero 2025 al 26 de enero 2025 
+description: Horóscopo semanal escorpio 20 de enero 2025 al 26 de enero 2025. Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2025-01-13
+ogimg: /images/zodiac/semanal_escorpio.png#2025-01-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-01-13'
+ lastmod: '2025-01-20'
 ---
 
 
 
-## No desaproveches las oportunidades más Escorpio, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida. No le debes ninguna explicación a nadie.
+## Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
 
-No puedes estancarte con algo Escorpio, no debes dejar de crecer nunca. Esta semana vas a estar pensando y analizando la situación de tu vida, ¿estás haciendo lo que realmente quieres hacer? No Escorpio, hay cosas que quieres cambiar pero tienes que cambiarlas ya, empezar y terminar. No puedes conformarte con la vida que estás llevando, el tiempo pasa muy deprisa y cuando te quieras dar cuenta quizás ya sea demasiado tarde, o quizás te sea mucho más complicado tomar decisiones. Sigue con tus proyectos y no te amargues cuando no veas resultados inmediatos. Lo bueno siempre tarda en llegar. Lo que tienes que hacer es no desanimarte. Saca tu verdadero yo, no te metas en nada superficial, al fin y al cabo esas cosas te merman mucho, no es lo tuyo Escorpio. No vale ni un segundo de tu tiempo. No te calientes demasiado acordándote de cosas que ya fueron y que ahora no son, que jamás podrán volver a ser, sigues perdiendo tu tiempo como lo hagas así. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto. No eres mediocre Escorpio así que, no quieras llevar esa vida, agarra el amor propio que te sale para buscar mejores oportunidades. No es que seas egoísta, no es que te vuelvas egoísta, es que es algo vital que hagas tu vida.
-Puede que tu mente no pare de pensar, pero esta podría ser la razón por la cual surgen tantas oportunidades. Una podría volverse prioridad cuando el caritativo Júpiter se alinea con Plutón en tu sector de comunicación esta semana. La luna nueva en esta misma zona te alienta a compartir tus planes con las demás personas para que te den el apoyo que necesitas. Sin embargo, el enfoque se desplaza al sector de hogar y familia el Domingo. Es momento de permitirte algunos cuidados personales.
+Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca Escorpio. La gente se cree muchas veces que no sufres, que eres demasiado frío en ocasiones por no mostrar tus verdaderos sentimientos, por no abrirte en canal como hacen otros. Pero la verdad no es esa. Estás cansado de dar, de intentar, de dejar de lado tus derechos porque los demás no se tomen las cosas mal, incluso de arrastrarte. De verdad que estás harto de todo eso. A veces hay que ceder Escorpio pero el problema contigo es que tu das la mano y se toman todo el brazo. Empieza a imponerte un poco. Una cosa es que seas bueno, otra cosa es que te puedan sacar hasta la sangre por esto. No te enfades contigo mismo si no has sabido decir todo lo que piensas, aún tienes posibilidad de remediarlo, de hecho, necesitas remediarlo. No puedes pretender que nada cambie si tú no cambias Escorpio, a veces las decisiones más complicadas son las que al final nos harán libres. Y necesitas sentir eso ahora. Disfruta de la semana y recuerda que eres como eres, que nadie puede hacerte cambiar pero que tú tampoco podrás cambiar a nadie. Conecta con quien conecta contigo.
+Si bien Marte en Escorpión hace que tengas tendencia a cuidar de tu salud, también tienes ganas de poner en orden tus finanzas. Es momento de saldar deudas, organizar planes de pago y ponerte al día con tus objetivos financieros. La gran noticia es que Saturno ingresa a Capricornio y a tu sector de recursos compartidos el 21 de enero. Como resultado de esto, puede que decidas ser más responsable acerca de tus asuntos financieros y tener la determinación de que tu dinero te rinda más, en especial durante los próximos meses.
 
 ## Dinero
 
-Tu situación en casa y emociones internas indican un posible cambio para ti. ¿Has estado pensando en crear más espacio para ti? Un cambio de escenario puede ser justo lo que necesitas para aumentar tu creatividad y obtener el néctar que fluirá hacia un nuevo trabajo o nueva fuente de ingresos. El truco está en no exagerar éste esfuerzo, busca un balance entre el gasto y el ahorro.
+Tienes una situación interesante en tus manos esta semana. Se te está pidiendo prestar más atención a cómo te ves, actúas y te proyectar hacia el mundo. Esto es especialmente importante si estás buscando un nuevo trabajo o simplemente quieres cambiar tu imagen en tu empleo actual.

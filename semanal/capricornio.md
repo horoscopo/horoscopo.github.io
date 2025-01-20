@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 13 de enero 2025 al 19 de enero 2025 
-description: Horóscopo semanal capricornio 13 de enero 2025 al 19 de enero 2025. Semana intensa Capricornio, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
+title: capricornio 20 de enero 2025 al 26 de enero 2025 
+description: Horóscopo semanal capricornio 20 de enero 2025 al 26 de enero 2025. Capricornio, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2025-01-13
+ogimg: /images/zodiac/semanal_capricornio.png#2025-01-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-01-13'
+ lastmod: '2025-01-20'
 ---
 
 
 
-## Semana intensa Capricornio, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
+## Capricornio, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
 
-A veces quieres llegar al fondo de cualquier cosa Capricornio, pero el problema es que también a veces, eso, no te hace ningún bien. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Capricornio. De verdad, a veces es mejor tener paz que tener razón. ¿Por qué no tratas de pasar del mal rollo? ¿Por qué no te alejas de lo que te pone los nervios de punta? Quizás debas dar algunas lecciones y quizás deberías hacerte de rogar un poco. Al menos para que el resto despierte. Muchos no saben lo que se pierden al perder a Capricornio, eh. Esta semana deberías hacerte valer un poco, deberías recordarte todas las lecciones que ya llevas aprendidas y dejar de repetir patrones todo el tiempo. Sé valiente y no te engañes a ti mismo. Cuando haces algo por alguien no esperas que hagan lo mismo por ti porque lo haces de corazón pero tampoco esperas que no muevan ni un dedo. Tú sabes de sobra lo que funciona y lo que no funciona Capricornio así que, por favor, empieza a ser un poco más productivo y deja de perder el tiempo. Ve a por lo que interesa, a por lo que aporta, a por lo que te hace mejor. No vuelvas a dejar tus planes de lado por nada ni por nadie.
-El deseo de gastar podría ser muy fuerte a comienzos de la semana y puede que vayas al centro comercial o hagas compras en línea. De todos modos, hazlo con tranquilidad. Con tu planeta regente, en fase retrógrada, puede que lo mejor sea evitar artículos de gran valor por el momento. Si debes comprar algo, guarda los recibos para que puedas devolverlo, si fuera necesario. También podría aparecer una ganancia imprevista. Probablemente no será una suma demasiado grande, pero podría hacerte sonreír. Además, una atracción romántica brilla de forma prometedora.
+Te está así como dando pereza siempre lo mismo. Siempre teniendo que demostrar cuáles son tus intenciones y sobretodo, demostrárselo a personas que ahora ya ni te van ni te vienen. Capricornio, aunque hayas roto con un pasado que te estaba amargando no lo has hecho indefinidamente, no lo has hecho para siempre, o al menos, eso es lo que parece. Eso de que “estaré ahí para siempre” es muy cierto en tu caso pero no seas idiota Capricornio, porque a veces de bueno das la mano y te toman todo el brazo. Si has roto con el mal rollo, has roto. No dejes que vuelva, no dejes que se acerque, no lo permitas. Que sí, que puedes creer que estás súper curado ya, que tus heridas no sangran, pero te estarías engañando Capricornio. La etapa que llega ahora tienes que disfrutarla, tienes que vivirla intensamente, y probablemente tengas que pasar más tiempo solo/a. Para conocerte a ti mismo/a, para entender qué es lo que quieres, qué es lo que buscas… Conoce Capricornio, conoce a todo el mundo que puedas, y comparte… Y cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
+El manejo de tu tiempo podría ser de suma importancia esta semana, permitiéndote lograr mucho más de lo que normalmente finalizarías. Si encuentras esta forma de trabajar útil, es posible que desees mantener el mismo ritmo en el futuro. La Luna Llena del martes en tu sector de relaciones podría destacar una relación y sentimientos asociados a ella. Si tú y alguien más están lidiando con un problema, es ahora cuando tal podría llegar a un punto crítico. Evita hacer o decir cualquier cosa que pudieras lamentar más adelante.
 
 ## Dinero
 
-Puede que no te sientas tan feliz y despreocupado/a como normalmente lo estás, pero este es un momento de increíble crecimiento a medida que aceptas la responsabilidad de ser completamente fiel a ti mismo/a con todos los que conoces. Suena fácil, aunque es todo lo contrario. Puede que sientas más arraigo y te sientas más terrenal que nunca, sobre todo cuando se trata de ahorrar en comparación con el gasto. Estás haciendo todos los movimientos correctos, por lo que confía en ti mismo/a.
+Tu sector de sexo, muerte, transformación y el dinero de otras personas es radiante ahora. La clave está en equilibrar entre el gasto y la deuda, el ahorro y el derroche. Sin embargo, es un buen momento para tomar ventaja de cualquier propiedad compartida, herencias, o pagos de seguros de cualquier tipo. Guarda por lo menos la mitad de cualquier ganancia inesperada. Todavía puedes divertirte, y tu cuenta bancaria te lo agradecerá.

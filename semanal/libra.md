@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: libra 13 de enero 2025 al 19 de enero 2025 
-description: Horóscopo semanal libra 13 de enero 2025 al 19 de enero 2025. Hay cosas que no quieres que ocurran pero que debes aceptar Libra, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
+title: libra 20 de enero 2025 al 26 de enero 2025 
+description: Horóscopo semanal libra 20 de enero 2025 al 26 de enero 2025. Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2025-01-13
+ogimg: /images/zodiac/semanal_libra.png#2025-01-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-01-13'
+ lastmod: '2025-01-20'
 ---
 
 
 
-## Hay cosas que no quieres que ocurran pero que debes aceptar Libra, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
+## Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía.
 
-No te conformes con poco Libra, no te conformes con cualquier cosa, con cualquier trabajo, con cualquier amor… Estás aquí para hacer las cosas a lo grande, para sentir fuerte, profundo, para lograr esas metas que llevas teniendo en tu mente desde hace tanto… En serio, ponte las pilas, dale caña, echa las horas que tengas que echar pero ve a por todas, en cualquier sentido en tu vida… Nunca hay un momento perfecto para empezar, siempre hay algo que pasa y que descoloca todo, una u otra cosa, pero tienes que aprender a pasar de toda esa basura, tienes que aprender a tener autocontrol y a entender que el mundo sigue girando pase lo que pase y el tiempo también sigue corriendo… Y no hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Libra, abre las puertas y ciao. No tienes que mantener nada, no tienes que obligar a quien quiere irse. Esta semana vas a tener varios momentos así, varios momentos en los que no sabrás si debes luchar o si debes permanecer quieto… Lucha si merece la pena pero no ruegues, no vayas detrás de nadie, lucha por lo que es tuyo sí, pero no entres en el juego cuando traten de manipularte. Tienes cosas muy importantes por hacer, mucho más importantes que estar esperando a alguien o que estar dándole vueltas a la cabeza a algo que sólo te roba tiempo ahora.
-El enfoque de esta semana podría basarse en crear un sano equilibrio entre trabajo y diversión. Puede que te percates de que el Eclipse Lunar agita dentro de ti todo tipo de emociones que requieren de tiempo para ser procesadas. Si puedes aligerar tu horario, podrías darte la oportunidad de estar a solas y pensar las cosas. No es necesario llegar a ninguna conclusión. El solo hecho de darle vueltas a al asunto en turno puede traerte claridad. Además, oportunidades románticas podrían aparecerte. ¿Tendrás la suficientemente confianza como para tomarlas?
+No sabes cómo desviar tus sentimientos Libra, sientes con muchísima pasión muchas cosas pero otras se están apagando poco a poco. Y no entiendes por qué, no entiendes como se avivan llamas con personas que no merecen la pena, y como se te apagan con otras que sí. Vas a tener dificultad para liberarte de algunas cosas Libra… Cuando sientes algo por alguien tu corazón no puede frenar y ahora eso es lo que te está pasando… No eres estúpido por intentar revivir viejos recuerdos y tratar de entender qué fue lo que salió mal o qué es lo que está fallando. La cuestión es que tienes que hablar las cosas, no puedes dejar que se vayan acumulando en tu interior. Si algo no va del todo bien dilo de una vez Libra. A veces te imaginas un futuro donde termina todo bien, donde eres feliz, donde sonríes cada día, el problema es que el futuro se construye con lo que vas haciendo ahora, y si quieres tener ese futuro deberás empezar a cambiar. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay, y en eso no se puede cambiar por mucho que lo intentes. Date el lujo de sentir lo que sientes, aunque esos sentimientos vayan en contra de lo que querrías sentir. Vamos Libra que esta semana emocionalmente hablando vas a tener un jaleo en tu cabeza serio y es muy probable que necesites un buen tiempo para aclararte.
+Puede que te preguntes si debes apegarte a tu rutina de salud o romperla y darte gustos. El día lunes, podías verte teniendo un difícil dilema; cuando puede que lo mejor sea que llegues a un compromiso. Una vez que Venus y Mercurio entren a tu sector de relaciones más adelante en la semana, significa que es momento de saber trabajar en equipo. Ya sea que trabajes con tu pareja o con un grupo, pueden lograr mucho más juntos que a solas. Este fin de semana, espera lo inesperado.
 
 ## Dinero
 
-Tu saldo bancario crece cada vez más y más. ¡Es tiempo de celebrar! Eso sí, no dejes que tu típico exceso drene lo que has ganado con tanto esfuerzo. Mientras tanto, tu carrera está estallando de manera positiva para ti ahora,  y a medida que aumentan las responsabilidades, tu estado mejora y tu trabajo adquiere la forma de comunicación con la que sólo has soñado antes. Prepárate para la llegada, ya te encuentras cerca.
+La actividad en tu sector de la comunicación hace de ti una abeja muy ocupada. Estarás escribiendo correos electrónicos, mensajes de texto y llamando a tus seres queridos, haciendo de ésta una semana muy ocupada. También será más fácil para que ti el poder encontrar un trabajo independiente y hacer tu trabajo fácilmente para que puedas recibir el pago más rápidamente. Podrás lograr progreso siempre y cuando no pises a nadie en el camino, pisa con cuidado.
