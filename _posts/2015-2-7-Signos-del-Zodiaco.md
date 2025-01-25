@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 24 de enero 2025
-description: Horóscopos del dia de hoy 24 de enero 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 25 de enero 2025
+description: Horóscopos del dia de hoy 25 de enero 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-01-24
+ lastmod: 2025-01-25
 ---
-Cuando Mercurio aspecta a Marte, uno es sabio al decir lo que se tiene que decir, ya que causa problemas cuando no lo es. Se te respeta por expresar tu opinión. Y ya que has opinado tanto hoy, relájate y pasa un buen rato esta noche al reírte y hacer más de lo mismo. Las sonrisas surgen en el momento en el que las necesitas.
+Recordar el pasado despierta recuerdos de algo que hay que saber aprovechar. Pista: Podría referirse a algo que cayó en el olvido debido a algo nuevo que lo reemplazó. Tus instintos anteriores dieron en el tino. Esta noche, podría ser amor, pero la oposición Venus-Neptuno lo desvanece en la neblina.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
