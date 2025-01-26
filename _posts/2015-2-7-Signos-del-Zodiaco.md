@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 25 de enero 2025
-description: Horóscopos del dia de hoy 25 de enero 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 26 de enero 2025
+description: Horóscopos del dia de hoy 26 de enero 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-01-25
+ lastmod: 2025-01-26
 ---
-Recordar el pasado despierta recuerdos de algo que hay que saber aprovechar. Pista: Podría referirse a algo que cayó en el olvido debido a algo nuevo que lo reemplazó. Tus instintos anteriores dieron en el tino. Esta noche, podría ser amor, pero la oposición Venus-Neptuno lo desvanece en la neblina.
+Si pudieras hacer algo, todo lo demás caería en su propio lugar. Por desgracia, los elementos esenciales son factores elusivos cuando Mercurio se opone a Neptuno. Esta noche, viaja a una velocidad tranquila cuando la Luna conjunte a Marte. Los solteros podrían hacer conexiones con rapidez, pero no recibirán respuestas honestas igual de rápido.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
