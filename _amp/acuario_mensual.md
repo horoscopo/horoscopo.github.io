@@ -1,18 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Acuario Enero 2025 
+title: Horoscopo Acuario Febrero 2025 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Acuario_mes.png#2024-12-29
+ogimg: /images/mes/Acuario_mes.png#2025-01-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-12-29'
+ lastmod: '2025-01-26'
 ---
 
 
-¡Feliz año nuevo Acuario! La actividad lunar del 1 de enero ilumina tus finanzas y situación económica. Haz una lista de todas las fuentes de ingresos y recursos que ya tienes, y déjate sorprender gratamente por lo que has pasado por alto. El día 13, la luna llena te conecta de forma íntima con mucha gente que quiere escuchar lo que tienes para decir. Algunos quizás pidan favores. Sé popular y profesional, y maneja todo con tranquilidad. El 29 de enero, la luna nueva podría traer apoyo y ayuda de una amistad o persona del vecindario. No necesitarás pedirlos, los recibirás de forma gratuita. 
+El 1 de febrero es el día posterior a una luna Nueva, y el 28 de febrero es el día previo a otra. Los corazones podrían latir más fuerte al comienzo y al final del mes. La luna llena del día 12 se posiciona para traer un nuevo amor o asociación de negocios a tu vida. Una posible pareja podría estar a la vuelta de la esquina. No parpadees. Si crees que ya te has cansado del amor, esconderte no te ayudará. El sol ingresa a Piscis el 20 de febrero. Sé una persona generosa con tu tiempo, pero mantente dentro de límites razonables. 

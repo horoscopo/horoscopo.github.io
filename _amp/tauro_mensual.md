@@ -1,18 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Tauro Enero 2025 
+title: Horoscopo Tauro Febrero 2025 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/mes/Tauro_mes.png#2024-12-29
+ogimg: /images/mes/Tauro_mes.png#2025-01-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-12-29'
+ lastmod: '2025-01-26'
 ---
 
 
-¡Feliz año nuevo Tauro! El 1 de enero, amistades y gente del vecindario están a tu lado durante la luna nueva. A medida que el mes avanza, también hay varias amistades nuevas para hacer, muchas de ellas de lugares lejanos. La luna llena del día 16 podría expandir tu mundo de una forma increíble. El interés más inusual podría prosperar al máximo, y presentarte a una persona emocionante o una posibilidad inimaginable. Ábrete a las posibilidades. El 31 de enero, la segunda luna nueva del mes enriquece tu vida doméstica. Establece un vínculo con un miembro de tu familia y observa todo lo que tienen en común. 
+Vuélvete el centro de atención en tu trabajo cuando la Luna Llena llegue el 12 de febrero. Puede que no haya ningún beneficio evidente o visible, pero detrás de escenas, puede que haya mucho que pudiera beneficiarte más tarde. Permite que tu buen trabajo hable por sí mismo. Alrededor de la Luna Nueva del 28 de febrero, una causa o cuestión caritativa podría provocar que el mundo exterior atraiga tu atención y te lleve a tener una vida social más activa. Haz lo que puedas, inclusive, aunque sólo sea para educarte en el tema. Actúa localmente, pero piensa globalmente. La Luna conjunta a Plutón el 28 de febrero, posiblemente perturbando tus sueños durante la noche. Relájate y prepárate para el periodo retrógrado de Mercurio que comienza al día siguiente.  

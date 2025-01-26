@@ -1,18 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Capricornio Enero 2025 
+title: Horoscopo Capricornio Febrero 2025 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Capricornio_mes.png#2024-12-29
+ogimg: /images/mes/Capricornio_mes.png#2025-01-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-12-29'
+ lastmod: '2025-01-26'
 ---
 
 
-¡Feliz año nuevo Capricornio! La actividad lunar del 1 de enero te permite confrontar lo que sea que te ha estado molestando o reteniendo. Tienes aliados y colaboradores poderosos, algunos que jamás pensaste siquiera que les agradabas. ¡Sé fuerte! Quiere y déjate querer durante la luna llena del día 13. Piensa y siente mucho amor. Un gran cambio positivo podría suceder para mejorar o comenzar una relación. Este no es momento para tener timidez o miedo de los cambios radicales. El 29 de enero trae una luna nueva que podría darle vuelta un asunto de dinero para aumentar tus ingresos o reducir tus gastos. 
+Relájate con tus personas preferidas durante la Luna Llena del 12 de febrero. Sin embargo, mantén un ojo puesto en tus mascotas para evitar cualquier pequeño y tonto contratiempo alrededor de tu hogar. Ese mismo fin de semana podría ser espectacular, pero a la vez seguro y sin problemas. Date un capricho, consiéntete más y vuélvete más saludable durante el periodo de la Luna Llena del 12 de febrero. Duerme más, come mejor y trata de no trabajar demasiado todo el tiempo. Te sentirás y verás muy bien, además de que tendrás mucha más energía. Lidia con cualquier problema de salud inmediatamente y no pierdas tu energía en preocuparte. El Sol entra a Piscis el 20 de febrero. Si es que has sentido cualquier tipo de apatía, puede que entonces ¡regreses de nuevo a la vida!   

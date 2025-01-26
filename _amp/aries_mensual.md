@@ -1,18 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Aries Enero 2025 
+title: Horoscopo Aries Febrero 2025 
 permalink: /horoscopo-mensual/amp/aries/
 normallink: /horoscopo-mensual/aries/
 home: FALSE
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/Aries_mes.png#2024-12-29
+ogimg: /images/mes/Aries_mes.png#2025-01-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2024-12-29'
+ lastmod: '2025-01-26'
 ---
 
 
-¡Feliz año nuevo Aries! Tu vida social se desborda de emoción durante la actividad lunar del 1 de enero. No necesitarás tomar ninguna decisión para pasar un gran rato, excepto quizás sobre qué ropa ponerte. Tal vez quieras rechazar amablemente algunas invitaciones. La luna llena del día 13 podría hacer que sea difícil decidir qué sería lo más divertido y gratificante para hacer. Hazle caso a tu primer impulso y no mires atrás. El 31 de enero, la luna nueva te da tiempo para reflexionar sobre aquellas cosas que más te importan. Descubrirás maneras de volverte una persona más eficiente y empática. 
+La luna llena del 12 de febrero empieza tu mes con un destello de seguridad y autoestima bien merecido. Ten modestia, pero sé transparente. La luna nueva del día 28 es ideal para el amor y el romance. Puede que no conozcas a tu alma gemela, pero podrías visualizar con claridad a esa persona. Disfruta del resplandor romántico del día. El 22 de febrero, Mercurio se torna retrógrado en Aries. Vuelve a examinar algo que comenzaste hace poco. Probablemente puedes mejorarlo. La luna nueva, trae oportunidades para ganar dinero el último día del mes. También podría traerte un valioso regalo, o que te devuelvan un favor que hiciste hace mucho tiempo.
