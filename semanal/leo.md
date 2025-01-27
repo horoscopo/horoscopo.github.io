@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: leo 20 de enero 2025 al 26 de enero 2025 
-description: Horóscopo semanal leo 20 de enero 2025 al 26 de enero 2025. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Leo, no hay casualidades ni coincidencias.
+title: leo 27 de enero 2025 al 02 de febrero 2025 
+description: Horóscopo semanal leo 27 de enero 2025 al 02 de febrero 2025. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2025-01-20
+ogimg: /images/zodiac/semanal_leo.png#2025-01-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-01-20'
+ lastmod: '2025-01-27'
 ---
 
 
 
-## Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Leo, no hay casualidades ni coincidencias.
+## Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos…
 
-Tienes la necesidad de tener tu mente en paz, ponerla en blanco, no pensar NADA, pero como eso es casi imposible, y más para ti, lo que debes hacer es elegir el camino que quieres tomar, enfrentarte a ello y tomar una decisión.
-Justo cuando comenzabas a avanzar, las cosas empiezan a verse un poco inestables. Puede que tengas que reducir tu expectativa de  comenzar el 2025 de una forma dinámica. En vez, podrías encontrarte teniendo que revisar ciertos planes y reconsiderando ciertas decisiones. También es posible que una historia de amor o romance pudiera resultar decepcionante esta semana, haciendo que inclusive te preguntes si es adecuada para ti. Por el momento, evita comportarte demasiado aventureramente y apégate a cosas que sean bastante fáciles de lograr.
+Tienes muchas preguntas que solamente puedes contestarte tú a ti mismo ahora. 
+Hasta ahora todo ha ido más o menos bien, o sea, has ido superando cada traba que la vida te iba poniendo pero de repente te quedas estacando por algo y no sabes qué dirección tomar.
+Si la semana comienza un poco incómoda, no dejes que esto te detenga. Alguien puede negarse a escuchar tus sugerencias, pero podría cambiar de opinión y aceptar tu manera de pensar si eres paciente. Incluso en este panorama, las ideas creativas pueden fluir y los próximos días podrían resultarte útiles para comenzar un nuevo proyecto o empresa comercial. También podrían inspirarte las actividades culturales. Si visitas una exposición o vas a un concierto, puede que obtengas ideas que puedes aplicar al arte u oficio que practicas.
 
 ## Dinero
 
-Ciertos aspectos están expandiendo tus oportunidades en el trabajo y preparando el camino para un aumento de sueldo, promoción, o ambas cosas. Incluso en un día malo, eres bastante afortunado/a. Puede que estos días el dinero esté llegando tan rápida y furiosamente que es posible que necesites un nuevo plan para ahorrar e invertir. Un aspecto armonioso resalta tu sector de efectivo y valores, ¿lo detectas? No te olvides de la gente pobre conforme llegas a la cima.
+Podrías estar considerando la forma de lograr realizar viejas esperanzas y sueños. Las amistades, los contactos sociales, las maniobras políticas y los grupos te ayudan a estar un paso adelante y establecerte como experto en tu campo. A medida que expandes tu influencia en estos reinos, haz todo lo posible para preservar las inversiones y propiedades compartidas. Si es necesario, gasta para mantenerlas o mejorarlas hasta que las puedas vender directamente.

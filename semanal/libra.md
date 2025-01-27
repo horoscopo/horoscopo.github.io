@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: libra 20 de enero 2025 al 26 de enero 2025 
-description: Horóscopo semanal libra 20 de enero 2025 al 26 de enero 2025. Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía.
+title: libra 27 de enero 2025 al 02 de febrero 2025 
+description: Horóscopo semanal libra 27 de enero 2025 al 02 de febrero 2025. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2025-01-20
+ogimg: /images/zodiac/semanal_libra.png#2025-01-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-01-20'
+ lastmod: '2025-01-27'
 ---
 
 
 
-## Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía.
+## En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
 
-No sabes cómo desviar tus sentimientos Libra, sientes con muchísima pasión muchas cosas pero otras se están apagando poco a poco. Y no entiendes por qué, no entiendes como se avivan llamas con personas que no merecen la pena, y como se te apagan con otras que sí. Vas a tener dificultad para liberarte de algunas cosas Libra… Cuando sientes algo por alguien tu corazón no puede frenar y ahora eso es lo que te está pasando… No eres estúpido por intentar revivir viejos recuerdos y tratar de entender qué fue lo que salió mal o qué es lo que está fallando. La cuestión es que tienes que hablar las cosas, no puedes dejar que se vayan acumulando en tu interior. Si algo no va del todo bien dilo de una vez Libra. A veces te imaginas un futuro donde termina todo bien, donde eres feliz, donde sonríes cada día, el problema es que el futuro se construye con lo que vas haciendo ahora, y si quieres tener ese futuro deberás empezar a cambiar. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay, y en eso no se puede cambiar por mucho que lo intentes. Date el lujo de sentir lo que sientes, aunque esos sentimientos vayan en contra de lo que querrías sentir. Vamos Libra que esta semana emocionalmente hablando vas a tener un jaleo en tu cabeza serio y es muy probable que necesites un buen tiempo para aclararte.
-Puede que te preguntes si debes apegarte a tu rutina de salud o romperla y darte gustos. El día lunes, podías verte teniendo un difícil dilema; cuando puede que lo mejor sea que llegues a un compromiso. Una vez que Venus y Mercurio entren a tu sector de relaciones más adelante en la semana, significa que es momento de saber trabajar en equipo. Ya sea que trabajes con tu pareja o con un grupo, pueden lograr mucho más juntos que a solas. Este fin de semana, espera lo inesperado.
+Ha llegado el momento en el que debes preocuparte exclusivamente de ti mismo, es más, nadie te hará más feliz que tú. Tienes que cumplir metas Libra. No tengas miedo de expresar lo que sientes ni tampoco intentes tapar lo que sabes que no debes. No te calles, no dejes que haya malos entendidos por esto. Dentro de poco organizarás un viaje, y será lejos. Eso es lo que más necesitas ahora, motivarte, sentirte vivo otra vez, sentir que todo merece la pena, que empezar de cero no es ir hacia atrás si no tener una nueva oportunidad para hacer las cosas bien. Recuérdate de qué pasta estás hecha y haz lo que tienes en tu mente, competa tus sueños, muévete hacia lo que de verdad te motiva Libra. Hay personas que están cerca de ti que merecen mucho la pena, y tú lo sabes, y tratas de hacer que se queden a toda costa. Está bien Libra, siempre hay que hacer todo lo posible para que salga bien, y gracias a ti, el amor crecerá mucho, pero recuerda que es cosa de dos. Que no está bien que una persona lo tenga que dar todo siempre. Si no hay interés por la otra parte lo mejor será cambiar los planes. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+La mezcla de energías de esta semana conectando con el desinteresado Neptuno podía verte ayudando a los demás incluso si tienes que sacrificar tu tiempo y recursos. Las presentes influencias también podrían mejorar tus perspectivas en relación a profesión y finanzas, sobre todo si tienes disposición a darle forma a tus sueños. Con Marte ahora avanzando en tu sector de estilo de vida, planes y proyectos que podrían haber parecido bloqueados pronto pueden ponerse en marcha. Para aprovechar la semana por delante, ten un plan y mantenlo firme.
 
 ## Dinero
 
-La actividad en tu sector de la comunicación hace de ti una abeja muy ocupada. Estarás escribiendo correos electrónicos, mensajes de texto y llamando a tus seres queridos, haciendo de ésta una semana muy ocupada. También será más fácil para que ti el poder encontrar un trabajo independiente y hacer tu trabajo fácilmente para que puedas recibir el pago más rápidamente. Podrás lograr progreso siempre y cuando no pises a nadie en el camino, pisa con cuidado.
+Puede que creas que algo en el trabajo es demasiado bueno para ser verdad - porque lo es. En lugar de ver esto a través de lentes color de rosa, simplemente sé realista. El mejor uso de esta energía es a través de la imaginación y la creatividad, no el engaño. Aunque los aspectos crean una gran cantidad de energía, prepárate para un viaje lleno de baches.

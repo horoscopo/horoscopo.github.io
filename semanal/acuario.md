@@ -1,27 +1,29 @@
 ---
 layout: horoscopos
-title: acuario 20 de enero 2025 al 26 de enero 2025 
-description: Horóscopo semanal acuario 20 de enero 2025 al 26 de enero 2025. Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+title: acuario 27 de enero 2025 al 02 de febrero 2025 
+description: Horóscopo semanal acuario 27 de enero 2025 al 02 de febrero 2025. Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca Acuario.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2025-01-20
+ogimg: /images/zodiac/semanal_acuario.png#2025-01-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-01-20'
+ lastmod: '2025-01-27'
 ---
 
 
 
-## Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+## Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca Acuario.
 
-Deberían valorarte más Acuario, los demás y tú el primero, deberían saber escucharte cuando estás mal, saber comprender porque te sientes en ocasiones así, tratar de meterse un poco en ti, en tu lugar, y descubrirte. Eso es, deberías descubrirte de verdad, y ahora no podrán decir que tú no te estás dejando… No es que te sientas solo, pero muchas veces sientes que vives en un mundo en el que nadie es capaz, por un momento, de ponerse en tu lugar, en el que nadie es capaz de pensar que quizás tú también tienes tus momentos de bajón, tus momentos de pena o de dudas. Bajo esa fachada se esconden sentimientos complicados que muchas veces ni siquiera tú entiendes. Quizás es conformismo, quizás dependencia del resto, o quizás un cúmulo de circunstancias que llevas acumuladas mucho tiempo. Y los días empiezan a pasar, y ves que avanzas, pero a veces no tan deprisa como esperabas. Y ves que el tiempo pasa, y empiezas a estresarte, y te frenas, y de repente quieres ir más deprisa porque ya perdiste mucho tiempo, y te vuelves a frenar. Para Acuario, para un poco. No puedes fingir que las cosas no te importan ¿vale? Porque además, eso al final duele el doble. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… Ahí es cuando empiezas a frenarte, por muy claro que lo tengas todo. Piensa que caminar entre las piedras también es avanzar, así que, lo que has hecho, lo has hecho bien, ahora averigua si quieres seguir por ese camino.
-Puede que no pares de pensar en los primeros días de la semana cuando las influencias clave te motivan para evaluar cierto asunto en profundidad antes de avanzar. Pero quizá solo baste con intuir que todo saldrá bien. También entras a una fase natural cuando el cosmos te inspira a descansar y darte el lujo del cuidado propio. El enfoque en tu sector doméstico puede ser una oportunidad para pasar tiempo con tus seres queridos, como también para disfrutar un poco de mimos y atención.
+Parece que no todo va tan mal, no ¿Acuario? Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco. Tu cabeza es sabia, a pesar de que se quiera meter en terrenos oscuros a veces, sigue siendo sabia, quizás no sabe lo que quiere con exactitud, aunque va bien encaminada, pero sí está segura de lo que no quiere. Poco a poco la calma mental irá apoderándose de ti, porque tienes ilusión de nuevo, y mucha. Es normal que de vez en cuando te entre algún que otro bajón, es normal que de vez en cuando quieras mirar un poquito hacia atrás, quizás los pensamientos se intenten colar en tu cabeza, pero todo será momentáneo, tú quieres ser feliz y alejar los dramas que tantos disgustos te han creado. Comienza una nueva etapa porque tú quieres que así sea, dejando atrás el daño, el rencor y la rabia acumulada.
+El aspecto social de tu vida sigue siendo bastante intenso y con muchas actividades. De hecho, el comienzo de la semana podría hacer que te preguntes si estás pasando demasiado tiempo entre proyectos comunitarios, reuniones de comité y tus amistades. Si bien es probable que puedas hacer algunos ajustes, si estás disfrutando de la vida, sigue así.
+También sería útil que hagas una lista de las citas clave de esta semana. Debido a que el sociable Venus se dirige al soñador Neptuno, puede que accidentalmente olvides una importante reunión familiar u otro evento.
+El fin de semana podría encontrarte disfrutando del centro comercial en una sesión de “terapia de compras”. Sin embargo, sería bueno que te pongas un límite, ya que podrías sentir la tentación de comprar algunas cosas por impulso. Si bien no hay problema con darse unos pequeños gustos, guarda los recibos de cualquier compra costosa en caso de que te arrepientas.
 
 ## Dinero
 
-Esta semana es como una bolsa mixta de tu “yo”. Por un lado, tienes una energía repentina y expansiva afectando a tu sector de grupos y negocios propios, lo que sugiere que puede que estés pensando en convertir una habilidad en un negocio rentable. Por otro lado, tu sector de deuda y el dinero de otras personas entran en juego. No pidas prestado más de lo que te puedes permitir con el fin de lograr que este negocio entre en marcha.
+Tienes luz verde para cambiar tu forma de verte y actuar. Eso, a su vez, te ayudará a subir la escalera y hacer más dinero. Si has querido cambiar tu guardarropa, look, o forma de ser, esto es apoyado e incluso alentado ahora. Eclipsa a un mentor de confianza o forja tu propio camino. El Universo trae belleza, atracción, y una especie de afirmación hacia tus necesidades. Juntos, estos aumentan tu poder en el trabajo.

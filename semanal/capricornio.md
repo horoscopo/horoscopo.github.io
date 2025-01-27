@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 20 de enero 2025 al 26 de enero 2025 
-description: Horóscopo semanal capricornio 20 de enero 2025 al 26 de enero 2025. Capricornio, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
+title: capricornio 27 de enero 2025 al 02 de febrero 2025 
+description: Horóscopo semanal capricornio 27 de enero 2025 al 02 de febrero 2025. Hay personas que juegan en otra liga Capricornio, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2025-01-20
+ogimg: /images/zodiac/semanal_capricornio.png#2025-01-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-01-20'
+ lastmod: '2025-01-27'
 ---
 
 
 
-## Capricornio, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más.
+## Hay personas que juegan en otra liga Capricornio, y el problema es que es una liga mucho más baja que en la que tú estás, son personas que engañan, personas inseguras y desleales que acostumbran a jugar con sentimientos, con promesas… que son egoístas e injustos… No te dejes arruinar. 
 
-Te está así como dando pereza siempre lo mismo. Siempre teniendo que demostrar cuáles son tus intenciones y sobretodo, demostrárselo a personas que ahora ya ni te van ni te vienen. Capricornio, aunque hayas roto con un pasado que te estaba amargando no lo has hecho indefinidamente, no lo has hecho para siempre, o al menos, eso es lo que parece. Eso de que “estaré ahí para siempre” es muy cierto en tu caso pero no seas idiota Capricornio, porque a veces de bueno das la mano y te toman todo el brazo. Si has roto con el mal rollo, has roto. No dejes que vuelva, no dejes que se acerque, no lo permitas. Que sí, que puedes creer que estás súper curado ya, que tus heridas no sangran, pero te estarías engañando Capricornio. La etapa que llega ahora tienes que disfrutarla, tienes que vivirla intensamente, y probablemente tengas que pasar más tiempo solo/a. Para conocerte a ti mismo/a, para entender qué es lo que quieres, qué es lo que buscas… Conoce Capricornio, conoce a todo el mundo que puedas, y comparte… Y cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
-El manejo de tu tiempo podría ser de suma importancia esta semana, permitiéndote lograr mucho más de lo que normalmente finalizarías. Si encuentras esta forma de trabajar útil, es posible que desees mantener el mismo ritmo en el futuro. La Luna Llena del martes en tu sector de relaciones podría destacar una relación y sentimientos asociados a ella. Si tú y alguien más están lidiando con un problema, es ahora cuando tal podría llegar a un punto crítico. Evita hacer o decir cualquier cosa que pudieras lamentar más adelante.
+A veces parece que no progresas, y te estancas, y te lamentas, y te das por vencido/a… Pero no, lo que pasa es que las cosas van más lentas de lo que queremos. Y todo lo que des hoy te va a repercutir en el futuro, aunque ahora parezca que no funciona del todo. ¿Estás en el lugar correcto Capricornio? Seguro que sí, siempre has sido listo/a como para saber lo que haces… No hace falta que ahora pruebes otras cosas, lo que tienes que hacer es enfocarte en las que tienes, y tratar de hacer todo bien. La constancia es la clave del éxito Capricornio. No te pierdas ahora por otras sendas, de verdad, vas bien encaminado ahora pero échale ganas y sobretodo no te rindas. Y tampoco dejes que la influencia del resto tenga poder sobre ti, ni mucho ni poco, NADA.
+¿Deberías o no gastar en algo? Este podría ser tu dilema al principio de semana, cuando podrías sentir ganas de darte gusto con un par de experiencias o pequeños lujos que mejoren tu estado de ánimo. Estarás en tu elemento una vez que Venus y Mercurio entren a Leo y a tu sector de comunicación. Esta es tu oportunidad para compartir tus planes con aquellos que pudieran ser capaces de ayudarte a llevarlos a cabo. Es, también, una oportunidad para formular soluciones creativas hacia algunos de tus problemas actuales.
 
 ## Dinero
 
-Tu sector de sexo, muerte, transformación y el dinero de otras personas es radiante ahora. La clave está en equilibrar entre el gasto y la deuda, el ahorro y el derroche. Sin embargo, es un buen momento para tomar ventaja de cualquier propiedad compartida, herencias, o pagos de seguros de cualquier tipo. Guarda por lo menos la mitad de cualquier ganancia inesperada. Todavía puedes divertirte, y tu cuenta bancaria te lo agradecerá.
+Puedes darte cuenta de que las oportunidades para ganar y ahorrar dinero se duplican e incluso triplican en las próximas semanas. Mientras que te ocupas recogiendo las mejores oportunidades financiera a tu alrededor, no descuides la familia, los niños, el romance y la creatividad. A pesar de que estés recibiendo más, diviértete y prueba cosas nuevas y asegúrate de cumplir con tu presupuesto. Durante algunas semanas, tendrás la oportunidad de salir de los viejos patrones.

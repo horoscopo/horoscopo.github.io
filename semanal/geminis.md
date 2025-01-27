@@ -1,29 +1,29 @@
 ---
 layout: horoscopos
-title: geminis 20 de enero 2025 al 26 de enero 2025 
-description: Horóscopo semanal geminis 20 de enero 2025 al 26 de enero 2025. Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. 
+title: geminis 27 de enero 2025 al 02 de febrero 2025 
+description: Horóscopo semanal geminis 27 de enero 2025 al 02 de febrero 2025. Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2025-01-20
+ogimg: /images/zodiac/semanal_geminis.png#2025-01-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-01-20'
+ lastmod: '2025-01-27'
 ---
 
 
 
-## Te revienta no poder ignorar, en serio te revienta porque sabes de sobra que es lo que ahora deberías hacer, pasar de todo de verdad, desaparecer por un tiempo. 
+## Lo que parecía imposible de repente se hace más posible que nunca y no sabes si te da más miedo o no. Es complicado. Había tantas cosas que creías zanjadas y que de repente se acercan poco a poco que asusta.
 
-Vas a abrir los ojos y, aunque no des los pasos al momento, las ideas las tendrás claras. 
- La rutina no te hace mal, pero si la monotonía, y te encuentras en el punto de cambiar para renovarte. 
- Cambiar el chip hará que entiendas muchas cosas que hasta ahora te preocupaban. Necesitas mirarte por dentro y ver hasta dónde eres capaz de llegar y sobretodo, hasta donde QUIERES llegar. Quieres ser feliz y harás lo que sea para conseguirlo, lo sabes.
-El enfoque en la creación de redes y en entablar interesantes nuevas conexiones se potencia esta semana, cuando el amigable Venus ingresa a tu sector de comunicación. Agregarle un toque de encanto a tus interacciones puede ayudarte a que no haya problemas y a dar una impresión positiva. Al mismo tiempo, un encuentro podría ser más intenso de lo habitual, tal vez con una atracción que se manifiesta como muy tentadora. Con respecto al hogar, puede que haya avances en relación con la financiación para un proyecto doméstico.
+Te da miedo empezar etapas nuevas, te da miedo dejar a un lado lo que ya has conseguido, te da miedo mandarlo todo a la mierda y también te da miedo darlo todo por algo o por alguien. Y al final, te mantienes como estás, aunque sabes de sobra que como estás no eres plenamente feliz. 
+Date un respiro, toma algún día para pensar y relajarte, mímate un poco y deja que los sentimientos y las emociones vayan saliendo solos. 
+como si no quisieras sentir lo que sientes, como si quisieras sentir lo que no sientes. Es una estupidez porque al final, todo sale.
+A medida que el enfoque cambia hacia tu sector de asociaciones esta semana, las interacciones podrían volverse más frecuentes. Podrías encontrarte teniendo que negociar con los demás con respecto a ideas u oportunidades clave. Con tres planetas ingresando a Capricornio y a este mismo sector (Saturno, el sol y Venus), tus relaciones podrían adquirir un enfoque más relajado y podrías estar muy al tanto de tus lealtades. Este también es el momento de esforzarte para hacer que una relación sea más divertida e interesante.
 
 ## Dinero
 
-Estás justo en el meollo de esta semana con ciertos aspectos en tu sector de hogar, sentimientos internos y expresión personal. La forma en la que otros te perciben está cambiando. Toma control y muéstrales cómo quieres que se te perciba.
+Esta semana se trata de mantener el equilibrio y la cordura. Acude al Universo para obtener información acerca de hacia dónde te diriges - esta semana se encuentra en tu sector de comunicaciones. Tienes que tratar más y hacerte más visible para poder conseguir ese aumento de sueldo, un nuevo trabajo o convencer a alguien para que invierta en tu futuro.
