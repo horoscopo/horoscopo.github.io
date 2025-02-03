@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 27 de enero 2025 al 02 de febrero 2025 
-description: Horóscopo semanal sagitario 27 de enero 2025 al 02 de febrero 2025. La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+title: sagitario 03 de febrero 2025 al 09 de febrero 2025 
+description: Horóscopo semanal sagitario 03 de febrero 2025 al 09 de febrero 2025. No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario Sagitario.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2025-01-27
+ogimg: /images/zodiac/semanal_sagitario.png#2025-02-03
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-01-27'
+ lastmod: '2025-02-03'
 ---
 
 
 
-## La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+## No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario Sagitario.
 
-Se avecinan cambios Sagitario, cambios grandes. Estás en una etapa un tanto selectiva, no te conformas con poco, a veces no te conformas con nada. Y estás en tu derecho. De verdad, ya era hora de que callaras la boca a más de uno que lleva intentando joderte la vida un tiempo. No pasas ni una Sagitario, y no la pasas porque no te da la gana, porque ya has aguantado demasiadas cosas. Porque, en el fondo, pensabas que todo podría cambiar, que, como tú, las personas se dan cuenta de los errores que cometen y dan marcha atrás para intentar solucionarlos. Pero no Sagitario. No todo el mundo es como tú. Así que, si esta semana piensan que eres un estúpido borde que lo piensen, si creen que has cambiado y que pasas de todo que lo crean. No estás para dar explicaciones a nadie, que la gente piense lo que le de la gana. Ves a tu rollo, mantén a cabeza bien alta y si no eres delicado en tus formas que traten de pensar que puede ser por alguna razón. Pero que se quiebren la cabeza. En serio, no necesitas volver a retomar conversaciones una y otra vez para acabar siempre en lo mismo. Deja de obsesionarte por el resto, deja de ponerles siempre primero antes que a ti. Todos tenemos un límite. Y es normal que el tuyo haya llegado ya. Feliz semana Sagitario.
-El Sol y Mercurio en ACuario sin duda le agregan pasión a las relaciones, especialmente a tu vida amorosa, pero también pueden desencadenar riñas verbales y problemas de control. Mientras que Venus en Libra pudiera animarte a ceder, puede que en práctica te resistas a hacerlo. Sin embargo, la Luna Nueva de mediados de semana puede ser tu oportunidad para un nuevo comienzo si tienes apertura a ello. El viernes podrías querer descansar y relajarte a solas con un buen libro o viendo una película.
+Esta semana estás un poco impredecible Sagitario, para ti y para el resto, de repente tendrás momentos en los que parecerás un encanto y otros muchos en los que pagarás tu rabia con la persona que primero se cruce en tu camino pero, las cosas como son, estás intentando controlarte más de la cuenta. Después de haber comprendido qué fue lo que te ha llevado a estar como estás viene la calma, pero es un proceso largo. Está bien que seas duro contigo mismo a veces, pero sobretodo sé duro con las personas que no te dan el trato que deberían darte. Te ablandas demasiado y pasas muchas cosas por alto. Todo duele más de la cuenta pero no puedes permanecer en el lugar que te hace daño por mucho tiempo, por tu bien y por el bien de los que te quieren. Procura no pelear demasiado esta semana, procura no meterte en muchos líos que al final siempre acaban como acaban. Mal. Evita el mal rollo a tu alrededor como sea. Y cambia de nuevo el chip. Tienes tan clara la teoría pero te cuesta tanto trabajo la práctica Sagitario… Planea algún viaje, trata de pasar más tiempo con los tuyos, en reuniones, en fiestas. Deja de estresarte por cosas que aún no han pasado y emociónate por tus proyectos, por los planes que tienes en mente, motívate con algo TUYO de verdad, con algo que tú vas a crear. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Sagitario. Tú solito.
+La confianza prudente puede ayudarte a fortalecer un vínculo en particular. Sin embargo, la situación actual sugiere que es poco probable que demuestres tus sentimientos de más si las cosas no se dan como esperas. De todos modos, disfrutas más las relaciones tranquilas a aquellas que son pesadas o difíciles. Sin embargo, la actividad lunar en este mismo sector puede ser la oportunidad perfecta para que lleves tus negocios o tu relación romántica al siguiente nivel. También hay mejoras en los asuntos de negocios.
 
 ## Dinero
 
-Puede que estés reconsiderando tus patrones de gasto conforme los estados de cuenta de tarjetas de crédito llegan esta semana. Si te sorprende lo mucho que has gastado (¿cuánto costaron esos últimos zapatos que compraste?), ¡culpa a los planetas! La ayuda proveniente de tu sector de hogar ya se encuentra en camino. Comenzar un negocio desde casa puede traer el dinero extra que necesitas a corto plazo. ¡Usa tus habilidades!
+Está subiéndote a grandes olas de cambio en tu vida monetaria. Tienes muchas ideas creativas sobre cómo ganar y ahorrar más, lo cual es genial. Pero también eres un poco inestable a veces, así que tener un plan B, C, y D no estaría de más. Mientras tanto, tu sector de carrera se está encendiendo, pidiéndote que asumas un rol de liderazgo.
