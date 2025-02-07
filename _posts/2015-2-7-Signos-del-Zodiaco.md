@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 06 de febrero 2025
-description: Horóscopos del dia de hoy 06 de febrero 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 07 de febrero 2025
+description: Horóscopos del dia de hoy 07 de febrero 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-02-06
+ lastmod: 2025-02-07
 ---
-Mantente en el lado seguro del exceso cuando la Luna cuadre a Venus hoy. ¡Todo requiere de moderación! Cuando la Luna conjunte a Plutón esta noche, no te sientes a esperar a que las cosas simplemente sucedan. Tú decides tu propio destino, porque cuando sabes lo que necesitas, lo atraes como un imán.
+El trígono entre el Sol y Neptuno de hoy crea grandes expectativas, y bajo esa promesa puedes esperar el éxito. Esta noche, con otro trígono entre la Luna y Mercurio, uno puede comunicar mucho con sólo una mirada. Sin embargo, las cosas no llegan más lejos esta noche debido a la Luna saliéndose de su órbita.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
