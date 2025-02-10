@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 03 de febrero 2025 al 09 de febrero 2025 
-description: Horóscopo semanal sagitario 03 de febrero 2025 al 09 de febrero 2025. No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario Sagitario.
+title: sagitario 10 de febrero 2025 al 16 de febrero 2025 
+description: Horóscopo semanal sagitario 10 de febrero 2025 al 16 de febrero 2025. Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor Sagitario, sin remordimientos.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2025-02-03
+ogimg: /images/zodiac/semanal_sagitario.png#2025-02-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-02-03'
+ lastmod: '2025-02-10'
 ---
 
 
 
-## No caigas en la mierd* de los demás, no des el 100 y recibas sólo el 50. No es fácil empezar algo nuevo pero a veces sí que es necesario Sagitario.
+## Puedes cambiar la historia de tu vida, pero deja de arrepentirte por todo, si haces algo ves a muerte, para bien o para mal es tu decisión y por favor Sagitario, sin remordimientos.
 
-Esta semana estás un poco impredecible Sagitario, para ti y para el resto, de repente tendrás momentos en los que parecerás un encanto y otros muchos en los que pagarás tu rabia con la persona que primero se cruce en tu camino pero, las cosas como son, estás intentando controlarte más de la cuenta. Después de haber comprendido qué fue lo que te ha llevado a estar como estás viene la calma, pero es un proceso largo. Está bien que seas duro contigo mismo a veces, pero sobretodo sé duro con las personas que no te dan el trato que deberían darte. Te ablandas demasiado y pasas muchas cosas por alto. Todo duele más de la cuenta pero no puedes permanecer en el lugar que te hace daño por mucho tiempo, por tu bien y por el bien de los que te quieren. Procura no pelear demasiado esta semana, procura no meterte en muchos líos que al final siempre acaban como acaban. Mal. Evita el mal rollo a tu alrededor como sea. Y cambia de nuevo el chip. Tienes tan clara la teoría pero te cuesta tanto trabajo la práctica Sagitario… Planea algún viaje, trata de pasar más tiempo con los tuyos, en reuniones, en fiestas. Deja de estresarte por cosas que aún no han pasado y emociónate por tus proyectos, por los planes que tienes en mente, motívate con algo TUYO de verdad, con algo que tú vas a crear. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Sagitario. Tú solito.
-La confianza prudente puede ayudarte a fortalecer un vínculo en particular. Sin embargo, la situación actual sugiere que es poco probable que demuestres tus sentimientos de más si las cosas no se dan como esperas. De todos modos, disfrutas más las relaciones tranquilas a aquellas que son pesadas o difíciles. Sin embargo, la actividad lunar en este mismo sector puede ser la oportunidad perfecta para que lleves tus negocios o tu relación romántica al siguiente nivel. También hay mejoras en los asuntos de negocios.
+Debes tener cuidado si no quieres que la caída sea desde muy arriba. No tiene por qué pasar, está claro, pero debes prevenir y no entregarte al 100% en todo lo que haces, porque los golpes duros duelen menos cuando no diste todo de ti, ves con un poquito de ojo esta semana.
+Tal vez sea mejor estar alerta con respecto a la pasión esta semana, ya que una mezcla de energías podría causar que los sentimientos fluyan e incluso saquen chispas. Una gran parte de la semana está influenciada por Plutón, lo que puede significar que poderosas emociones guían tus decisiones. Esto y un vínculo tenso entre Marte y Neptuno es un indicio de que a veces te resulte difícil pensar con racionalidad, y es posible que sea justo en esos momentos cruciales. Por lo tanto, tomarte una pausa para pensar podría salvarte de futuras dificultades.
 
 ## Dinero
 
-Está subiéndote a grandes olas de cambio en tu vida monetaria. Tienes muchas ideas creativas sobre cómo ganar y ahorrar más, lo cual es genial. Pero también eres un poco inestable a veces, así que tener un plan B, C, y D no estaría de más. Mientras tanto, tu sector de carrera se está encendiendo, pidiéndote que asumas un rol de liderazgo.
+Tienes ganas de dejar que tu personalidad real salga a flote. En el trabajo, en tus relaciones personales y en público, quieres dejar todo salga, pero tu carrera (y sobre todo tu salario) puede sufrir si vas demasiado lejos. Ten un poco más de control con el fin de recoger los frutos. Tu individualidad brilla cuando haces un gran trabajo y asumes un rol de autoridad.

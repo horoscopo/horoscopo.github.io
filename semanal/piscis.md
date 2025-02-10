@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 03 de febrero 2025 al 09 de febrero 2025 
-description: Horóscopo semanal piscis 03 de febrero 2025 al 09 de febrero 2025. Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
+title: piscis 10 de febrero 2025 al 16 de febrero 2025 
+description: Horóscopo semanal piscis 10 de febrero 2025 al 16 de febrero 2025. Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2025-02-03
+ogimg: /images/zodiac/semanal_piscis.png#2025-02-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-02-03'
+ lastmod: '2025-02-10'
 ---
 
 
 
-## Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
+## Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
 
-No es que estés cambiando Piscis, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo, prefieres, digamos, no arriesgar. La gente a menudo es muy egoísta, y cree que porque tengas una actitud diferente, eres tú quien está fallando, y no. El problema es que no eres estúpido/a y que si estás cambiando es porque ya has recorrido el mismo camino varias veces y sabes que en el fondo, y en estos momentos ya no te llevará a ningún sitio. A lo largo de tu vida has perdonado cosas que sabes que a ti jamás te perdonarían y por eso, te has sentido impotente muchas veces, porque en el fondo, y en tu interior, eso es fallarte a ti mismo/a, por eso estás cambiando o lo estás intentando hacer a muerte, porque no es algo bueno para ti, ni más ni menos. Los que te quieran y estén a tu lado deben entenderlo, y los que te tachen de egoísta sabes que no están mirando por tu bien si no por lo que les interesa a ellos… Esta semana te vas a sentir más fuerte que nunca, aunque lo hagas solo/a, te vas a sentir libre, vas a sentir que puedes con todo. Te lo has prometido a ti mismo/a…
-Con el actual enfoque en tu sector doméstico y familiar, tal vez quieras dar un paso atrás en tu vida y disfrutar un poco de cuidado personal. Esto puede ser muy bueno para ti, ya que probablemente has tenido unas semanas muy agitadas y necesitas esta oportunidad de relajarte. Además, Mercurio se torna directo a mitad de semana, lo que te permite avanzar con cualquier proyecto que haya estado en segundo plano. Al mismo tiempo, una emocionante oportunidad podría presentarse.
+Y es cierto, en parte, pero a la vez, en tu interior cargas con cosas que de verdad, ya no merecen la pena. 
+ La gente es como es y no debes martirizarte por ello Piscis.
+Las relaciones de todo tipo siguen estando bajo enfoque con un montón de oportunidades para interactuar y socializar. Además, con Mercurio aun girando hacia atrás, es posible que personas del pasado vuelven a aparecer. Esta puede ser una oportunidad para ponerte al día con noticias o incluso curar viejas heridas. Hay aún más noticias con Júpiter, el planeta de la buena fortuna, entrando a tu sector de recursos compartidos para permanecer allí durante los próximos doce meses. Este suertudo aspecto podría hacerte llegar un golpe de suerte o herencia.
 
 ## Dinero
 
-Eres especialmente activo/a cuando se trata de redefinir cómo deseas ser percibido/a por los demás. Esto puede resultar en la posibilidad de modificar tu forma de vestir, hablar o hacerle frente a los demás. Estás transformando la manera en la que otros te ven y en última instancia, te tratan, especialmente en el trabajo. Te están lloviendo tantas ofertas que es posible que tengas tiempo para considerar todas tus opciones. Prepárate para convertirte en la autoridad que estás destinado/a a ser.
+Tienes una semana tensa por delante. Estás atrapado/a y puede que te sientas como vaca dentro del ganado. En situaciones como ésta, siempre es mejor ir con el flujo de las energías predominantes. La lucha en contra sólo empeorará las cosas. Estás siendo empujado/a hacia tu hogar y emociones. Checa tus sentimientos internos. ¿Estás realmente haciendo lo que quieres hacer con tu vida?
