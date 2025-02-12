@@ -1,0 +1,25 @@
+---
+layout: amp
+title: libra hoy gratis 12 de febrero del 2025 
+permalink: /horoscopo-diario-gratis/amp/libra/
+normallink: /horoscopo-diario-gratis/libra/
+home: FALSE
+horoscopo:
+ signo: libra
+ video: -DQpmrrAIeU
+ogimg: /images/libra_char.png
+sitemap:
+ priority: 1
+ changefreq: 'daily'
+---
+
+
+El aprender sobre las cosas que te interesan más es algo que hoy quizás desees explorar. Con la combinación de las energías en juego, tu mente estará muy aguda. En el trabajo deberás aprender ciertas cosas que pueden no interesarte tanto, pero que necesitas para poder realizar tu trabajo. Llenar tu cabeza de conocimiento no interesante puede ser útil, pero aburrido. ¡Tómate el tiempo de buscar un tema que te interese!
+
+## Amor
+
+Hoy es un día perfecto para hacer un intento consciente para cambiar tus pautas y dejar que tu amante y pareja guíe. Aunque tu mente podría correr con interés hacia la próxima conquista, trata de resistirte. Disfruta del momento sin tener expectativas del futuro. Este será el primer paso hacia un cambio permanente.
+
+## Trabajo
+
+La creatividad tiene muchas facetas y estás en la posición perfecta para integrarlas y crear algo casi magistral. Por eso, trata de combinar las tradiciones clásicas con técnicas nuevas e innovadoras. Mientras más imaginativo sea todo, mejor.
