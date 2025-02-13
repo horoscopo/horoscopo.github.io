@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 12 de febrero 2025
-description: Horóscopos del dia de hoy 12 de febrero 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 13 de febrero 2025
+description: Horóscopos del dia de hoy 13 de febrero 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-02-12
+ lastmod: 2025-02-13
 ---
-Este es el momento de empezar de nuevo y esperar lo mejor. ¡Hazlo! Atrévete a tener grandes expectativas y a confiar en el gran poder que tienes para alcanzarlas. El Trígono de Fuego de esta noche entre la Luna y Venus acentúa afecto y buen humor. Parejas, háganse felices el uno al otro.  
+¿Tienes ganas de aventura? ¿Tienes más éxito cuando tomas calculados riesgos? ¿Qué tan bien funcionan las cosas atrevidas y difíciles para ti? Decide hoy. La Luna en Leo de hoy es más social que la reclusa Luna de anoche. Puede que sientas soledad si tu día no goza de suficiente actividad. Esta noche está llena de muchas emociones para ser disfrutadas.  
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
