@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Acuario Febrero 2025
-description: El Horóscopo Febrero de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Acuario Marzo 2025
+description: El Horóscopo Marzo de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/acuario/
 amplink: /horoscopo-mensual/amp/acuario/
 home: FALSE
-keywords: horóscopo febrero, horoscopos en español, horóscopo Acuario febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Acuario, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo marzo, horoscopos en español, horóscopo Acuario marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Acuario, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/acuario_mes.png#2025-01-26
+ogimg: /images/mes/acuario_mes.png#2025-02-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-01-26'
+ lastmod: '2025-02-26'
 ---
 
 

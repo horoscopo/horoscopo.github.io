@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Leo Febrero 2025 
+title: Horoscopo Leo Marzo 2025 
 permalink: /horoscopo-mensual/amp/leo/
 normallink: /horoscopo-mensual/leo/
 home: FALSE
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Leo_mes.png#2025-01-26
+ogimg: /images/mes/Leo_mes.png#2025-02-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-01-26'
+ lastmod: '2025-02-26'
 ---
 
 

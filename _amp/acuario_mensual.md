@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Acuario Febrero 2025 
+title: Horoscopo Acuario Marzo 2025 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Acuario_mes.png#2025-01-26
+ogimg: /images/mes/Acuario_mes.png#2025-02-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-01-26'
+ lastmod: '2025-02-26'
 ---
 
 

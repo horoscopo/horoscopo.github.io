@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Piscis Febrero 2025 
+title: Horoscopo Piscis Marzo 2025 
 permalink: /horoscopo-mensual/amp/piscis/
 normallink: /horoscopo-mensual/piscis/
 home: FALSE
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Piscis_mes.png#2025-01-26
+ogimg: /images/mes/Piscis_mes.png#2025-02-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-01-26'
+ lastmod: '2025-02-26'
 ---
 
 
