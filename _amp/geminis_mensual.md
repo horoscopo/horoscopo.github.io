@@ -7,12 +7,12 @@ home: FALSE
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Géminis_mes.png#2025-02-26
+ogimg: /images/mes/Géminis_mes.png#2025-02-27
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-02-26'
+ lastmod: '2025-02-27'
 ---
 
 
-Venus entra a Libra el 6 de febrero, y el romance se intensifica. La vida se vuelve incluso más romántica con el trígono que Venus forma con Marte al día siguiente. Tu vida social podría ponerse salvaje y alocada con la luna llena 12 de febrero. La gente podría desafiarte y discutir contigo, pero no caigas en la trampa. Hay muchas otras personas que comparten tu visión y deseos. Mercurio se torna directo el día 18, lo que podría llevar a días más tranquilos, pero no de inmediato. Organízate y sé paciente. Puedes confundirte o no tener seguridad sobre lo que es mejor para tu salud y felicidad cotidiana bajo la luna nueva del 28 de febrero. Escucha todos los consejos alentadores y favorecedores, pero no pongas ninguno en acción de inmediato. Además, Venus forma una cuadratura con Plutón ese día. Podrías recibir muchos mensajes contradictorios. Marte se torna estacionario directo al día siguiente, después de haber estado retrógrado desde el 26 de febrero. Reconecta con viejas pasiones y ten más ambición. Días destacados: 5, 14, 24Días desafiantes: 8, 9
+La Luna Llena del 14 de marzo podrían resaltar preocupaciones relacionadas con tu profesión. Toma una decisión para sentir seguridad con respecto a tus habilidades, talentos y posición actual. Si aparece una oportunidad, considérala, pero no te lances de inmediato. El 11 de marzo, el trígono que Venus forma con Neptuno hace que grandes sueños se junten con grandes sentimientos. Mercurio se torna retrógrado al día siguiente para desafiar esos sentimientos. La Luna Nueva del 29 de marzo brillan sobre tu familia y ambiente doméstico. Termina un asunto importante que se ha estado demorando por demasiado tiempo. Prepárate mentalmente para comenzar con el próximo asunto importante. Quizás quieras pensar más en grande que antes. ¡Tú puedes! 

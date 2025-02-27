@@ -9,16 +9,16 @@ keywords: horóscopo marzo, horoscopos en español, horóscopo Capricornio marzo
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/capricornio_mes.png#2025-02-26
+ogimg: /images/mes/capricornio_mes.png#2025-02-27
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-02-26'
+ lastmod: '2025-02-27'
 ---
 
 
- > Capricornio se viene un mes que será ambivalente para tu signo porque se alternarán momentos fáciles de sobrellevar con momentos de agobio. febrero te brindará magia pero te va a pedir atención y esfuerzo a cambio.
+ > Capricornio, marzo te dará la oportunidad de aprovechar cada momento que te brinda la vida, exprimirás cada minuto al máximo y, en cuanto al amor, ha llegado el momento de que elijas entre dos personas que están muy interesadas en ti.
 
 
 
-Relájate con tus personas preferidas durante la Luna Llena del 12 de febrero. Sin embargo, mantén un ojo puesto en tus mascotas para evitar cualquier pequeño y tonto contratiempo alrededor de tu hogar. Ese mismo fin de semana podría ser espectacular, pero a la vez seguro y sin problemas. Date un capricho, consiéntete más y vuélvete más saludable durante el periodo de la Luna Llena del 12 de febrero. Duerme más, come mejor y trata de no trabajar demasiado todo el tiempo. Te sentirás y verás muy bien, además de que tendrás mucha más energía. Lidia con cualquier problema de salud inmediatamente y no pierdas tu energía en preocuparte. El Sol entra a Piscis el 20 de febrero. Si es que has sentido cualquier tipo de apatía, puede que entonces ¡regreses de nuevo a la vida!   
+Mercurio se torna directo en Aries el 3 de marzo. Ahora, nada te detendrá. La Luna Llena del 14 de marzo puede traer una respuesta sencilla a un problema sustancial. Tu encanto personal puede ser más efectivo que cualquier poder del intelecto o la lógica. Conéctate a nivel personal, atraviesa una barrera importante y haz una nueva amistad. Bajo la Luna Nueva del 29 de marzo, tus amistades y vecinos podrían tratar de cuidar de tu persona. Puede que hasta te regalen cosas. Podrían querer sentarse y pasar tiempo contigo en un intento por hacer que disminuyas tu ritmo un poco. No te molestes.
