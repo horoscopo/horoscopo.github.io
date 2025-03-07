@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 06 de marzo 2025
-description: Horóscopos del dia de hoy 06 de marzo 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 07 de marzo 2025
+description: Horóscopos del dia de hoy 07 de marzo 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-03-06
+ lastmod: 2025-03-07
 ---
-Piensa acerca de las promesas rotas y evalúa porqué fallaste en el cumplimiento de tus compromisos. Hoy puedes hacer algo para reparar el daño hecho. Tal persona podría estar dispuesta a perdonar el error. Esta noche, los solteros son candidatos para un nuevo amor cuando Venus forma sextil con Plutón. Por su parte, aquellos en pareja están totalmente fascinados el uno con el otro.
+Cuando la Luna se opone a Venus esta mañana, la tendencia es buscar ayuda lejos cuando ésta se encuentra cerca. La melancolía y la preocupación solamente dificultan el progreso, o en otras palabras, no puedes querer recibir más sin antes pedirlo directamente. Si has estado esperando una dosis de emoción, dale la bienvenida a la Luna en Acuario de esta noche.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
