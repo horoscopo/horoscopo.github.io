@@ -1,28 +1,33 @@
 ---
 layout: horoscopos
-title: escorpio 03 de marzo 2025 al 09 de marzo 2025 
-description: Horóscopo semanal escorpio 03 de marzo 2025 al 09 de marzo 2025. Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
+title: escorpio 10 de marzo 2025 al 16 de marzo 2025 
+description: Horóscopo semanal escorpio 10 de marzo 2025 al 16 de marzo 2025. Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2025-03-03
+ogimg: /images/zodiac/semanal_escorpio.png#2025-03-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-03-03'
+ lastmod: '2025-03-10'
 ---
 
 
 
-## Acaba una temporada y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo
+## Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
 
-Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía. Es muy probable que tengas que corregir algunas cosas de tu persona, está claro, pero de ahí a que quieran hacerte ver que eres el culpable de todo hay un paso muy grande. No te lo creas por nada del mundo. Mientras otros retroceden tú avanzas, mientras otros vuelven a tropezar con la misma piedra una y otra vez, tú la intentas evitar a toda costa, quizás no sepas cual es el final del camino, y quienes estarán ahí para verlo pero no lo estás haciendo mal, y eso, es lo que al final te hará decir que mereció la pena. Estos días te irás quitando de tu vida a mucha gente falsa, y seguramente que discutirás con algunos pero da igual, sólo han estado estorbando en tus planes y sueños. No te han dejado avanzar así que, no te plantees en ningún momento si lo estás haciendo mal porque no. Te quitarás mucho de encima. Gracias a ser como eres nadie volverá a pisotearte Escorpio, gracias a todos los palos que te han dado, ya no dejarás que te den ni uno más.
-Quizá cualquier plan que hayas iniciado hace poco ya esté dando frutos. Debido al poderoso enfoque en tu sector de aventuras, la presente alineación te anima activamente a tomar cualquier nueva oportunidad. Además, debido a que el precavido Saturno y el ferviente Plutón están retrógrados en este sector, podrías tener motivos más profundos para querer que algunos aspectos de tu vida cambien. Tus ideas y creencias podrían cambiar durante las próximas semanas o meses. Quizá te des cuenta de que has organizado tu vida de acuerdo con las expectativas de otras personas y esto te ha jugado en tu contra. Este puede ser el momento de distinguir qué creencias son auténticamente tuyas y cuáles pueden ser de tus padres o del pasado. 
-   En un tono más ligero, el amoroso Venus en tu sector monetario puede hacer que las compras sean pura delicia. Disfrútalas. El fin de semana, escuchar los problemas de una de tus amistades puede ayudarle muchísimo. Es posible que también disfrutes de ir al cine o a un concierto con tus amistades.
+Porque quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que 
+ Pero no, debes escapar de esos pensamientos, enfocarte en otras cosas en las que no debas decidir esto o lo otro, si no que simplemente fluyas sin más, 
+pero otras muchas veces sí, así que, plantéate en cuales puedes hacer algo para cambiar el rumbo y en cuáles lo mejor de todo es dar media vuelta y olvidar, aunque sea complicado…
+La luna llena en tu sector de relaciones el jueves allana el camino para un nuevo comienzo. 
+Sin embargo, el animado Urano ingresa a este sector más adelante el mismo día, y su presencia allí hasta 2026 podría traer consigo una nueva actitud. Tu comprensión de lo que significa actuar con autenticidad y honestidad podría dar un giro de 360 grados. 
+También el mismo día, el poderoso Marte abandona tu signo e ingresa a Acuario y a tu sector de dinero. Se quedará allí durante bastante tiempo, lo que te anima a enfrentarte a cualquier dificultad y a retomar el control. 
+Una influencia más suave podría tener un efecto tranquilizante en tus relaciones a medida que el encantador Venus ingresa a tu sector de relaciones el sábado. Esto puede ser justo lo necesario para reparar una relación de suma importancia. 
+Por último, la actividad solar en Piscis y a tu sector de estilo de vida el domingo podría ser una llamada a optimizar tus rutinas laborales y de salud.
 
 ## Dinero
 
-Los planetas en tu sector de comunicación esta semana te hacen más parlanchín/a de lo normal. Tanto tu situación económica, así como tu trabajo pueden depender de tu capacidad para transmitir tu mensaje de una manera concisa y poderosa. Pero ya que un aspecto negativo constriñe tu trabajo día a día, lo mejor es encontrar un equilibrio entre tu necesidad de destacar y tu necesidad de ganar dinero. El trabajo en equipo y el equilibrio van de la mano.
+Tienes una semana de mucho trabajo por delante con planetas afectando tu sector de carrera y autoridad. Estás asumiendo una posición más poderosa en el trabajo ahora, y posiblemente un título o una nueva posición junto con ello. Celebra tu éxito en lugar de buscar una posición aún mayor. Ciertos aspectos indican un momento de tener más seriedad en el desarrollo de redes de profesionales que te pueden apoyar en los momentos de apuro.

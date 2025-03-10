@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 03 de marzo 2025 al 09 de marzo 2025 
-description: Horóscopo semanal geminis 03 de marzo 2025 al 09 de marzo 2025. Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana Géminis.
+title: geminis 10 de marzo 2025 al 16 de marzo 2025 
+description: Horóscopo semanal geminis 10 de marzo 2025 al 16 de marzo 2025. Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2025-03-03
+ogimg: /images/zodiac/semanal_geminis.png#2025-03-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-03-03'
+ lastmod: '2025-03-10'
 ---
 
 
 
-## Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana Géminis.
+## Nada cambia si no cambias, pero tú, por rabia o desesperación muchas veces intentas corregir, intentar ayudar a los demás, muy a menudo anteponiendo tu felicidad.
 
-No significa que te calles ante lo que es injusto (evidentemente es algo imposible para ti) pero sí que no te tomes las cosas tan en serio como siempre, sino dando la importancia que merecen, y la importancia es poca, pues es poca. Sobre todo para ti, para que no pases después malos ratos ni momentos de agobio que no merecen la pena…
-Un importante enfoque en tu sector hogareño y familiar podría felizmente llevarte a trabajar en manualidades, proyectos de decoración, limpiar el desorden y poner tu hogar en orden. Tener invitados en casa o en otro lugar puede ser muy exitoso, sobre todo si funges como anfitrión. Si estás considerando comprar o vender una propiedad, espera hasta después de que Mercurio se torne directo el Jueves, dándote más oportunidad de éxito. Más tarde, tomar un curso de larga duración sobre un tema favorito podría llamarte la atención.
+Sólo hace falta que tu mente haga click Géminis, y que te des cuenta de lo que es importante y de lo que no. Aprende a dejar pasar, aprende a dejar que lo malo se acabe yendo solo… Sin necesidad de forzar, sin necesidad de pensar demasiado en ello. Igual que llegó, se irá. Acuérdate de otras veces, de cuando pensabas que las cosas eran un desastre, de cuando creías que no podrían ser peor. Y pasaron, y todo volvió a mejorar…
+¿Deberías aceptar una invitación o no? Este podría ser el dilema al que te enfrentes al comienzo de la semana, pero es uno con el que tus amistades pudrían ser capaces de ayudarte. Sin embargo, el enfoque se desplaza una vez que Venus y Mercurio entran a Leo y a un sector más aislado de tu carta. Como resultado, es posible que sientas más inclinación a tomarte algo de tiempo para reflexionar sobre tu vida y tus prioridades. ¡También tomate tiempo para recargar baterías!
 
 ## Dinero
 
-Estás tratando de encontrarle solución a un dilema monetario en curso. Te estás convirtiendo en una figura de autoridad en tu campo. Y ahora te preparas para aprovechar todo lo que has cultivado. El cosmos está afectando a tu sector de dinero y valores, mostrando que el flujo de efectivo debería de aumentar muy pronto con un poco de esfuerzo y decisión.
+Es hora de pensar en cómo pudiste haber tomado la palabra de otras personas en asuntos de dinero o hayas tomado cierto esquema de inversión que es demasiado bueno para ser verdad. Puede ser que alguien te haya estado vendiendo difícilmente algo relacionado con las inversiones. Necesitas más tiempo para considerar el mejor camino para ti. Sé firme pero amable y asegúrate de que tienes el tiempo que necesitas. Tú sabes que es lo mejor para ti.
