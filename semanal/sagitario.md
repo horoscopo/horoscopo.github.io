@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 10 de marzo 2025 al 16 de marzo 2025 
-description: Horóscopo semanal sagitario 10 de marzo 2025 al 16 de marzo 2025. Por muy desconfiado y duro que parezcas ser, al final acabas confiando Sagitario y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
+title: sagitario 17 de marzo 2025 al 23 de marzo 2025 
+description: Horóscopo semanal sagitario 17 de marzo 2025 al 23 de marzo 2025. Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2025-03-10
+ogimg: /images/zodiac/semanal_sagitario.png#2025-03-17
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-03-10'
+ lastmod: '2025-03-17'
 ---
 
 
 
-## Por muy desconfiado y duro que parezcas ser, al final acabas confiando Sagitario y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto…
+## Debes empezar a dejar libre algunos espacios en tu vida para que puedan entrar las cosas buenas, espacios que ahora están ocupados por… ¡Basura!
 
-La vida y el universo tienen una manera divertida de traer en el momento adecuado a las personas, lugares, circunstancias y mensajes exactos. Eso que te crees que es un accidente, NO ES UN ACCIDENTE. Todo pasa por alguna razón Sagitario, no hay casualidades ni coincidencias. Trata de entender que siempre hay un motivo por el que ocurren las cosas, un motivo que a veces cuesta entender al principio pero que al final del todo acabarás por entender, aunque pase un buen tiempo hasta que lo hagas.
-Suceden cosas emocionantes con respecto a tu profesión. Ya sea que sigas una carrera profesional, tengas tu propio negocio, o busques un nuevo trabajo, tienes grandes cosas por delante. Quien arriesga gana, y esta semana, podrías volverte muy audaz y sin duda puedes ganar. Con Venus entrando en fase retrógrada en este mismo sector, ten cuidado cuando firmes un contrato. De hecho, quizá debas esperar a que Venus se vuelva directo el Sabado.
+Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados, porque serán victorias más adelante. Así que, por eso, no te vas a decepcionar al final.
+Hay un fuerte enfoque en tu sector profesional, dándote muchos deseos de desempeñar un papel activo. Mientras que Marte en Virgo te anima a poner tu mejor pie por adelante, puede que no sea tan fácil hacerlo cuando la confusa influencia de Neptuno entre en juego, sobre todo a principios de semana. La claridad comenzará a abrirse paso una vez que Mercurio se torne directo el viernes. El domingo trae consigo una fabulosa oportunidad para actuar audazmente. También te ofrece la oportunidad de elevar cierto negocio o una ambición clave al siguiente nivel.
 
 ## Dinero
 
-Es posible que despegues esta semana - literalmente. Parece que tienes más posibilidades que nunca para ganar dinero, atraer más a través de trabajos secundarios y de interés y obtener dividendos a través de inversiones inteligentes. Si necesitas ayuda en lo que respecta a la planificación financiera, los aspectos pueden ayudarte a atraer a la persona adecuada para tus necesidades. No lo dejes al azar, en todo caso, mereces mucho más.
+Si has estado buscando un nuevo trabajo, es un excelente momento para desempolvar ese currículum y empezar a aplicar. Si has estado inquiriendo una promoción, o simplemente un mejor paquete de beneficios por parte de tu empleador actual, crea un documento que contenga una enumeración de los beneficios que le has proporcionado a la empresa. Luego, pide una reunión o asiste a esa entrevista. Es un buen momento para mostrar tu personalidad.
