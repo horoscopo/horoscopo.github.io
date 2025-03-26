@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Sagitario Marzo 2025 
+title: Horoscopo Sagitario Abril 2025 
 permalink: /horoscopo-mensual/amp/sagitario/
 normallink: /horoscopo-mensual/sagitario/
 home: FALSE
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Sagitario_mes.png#2025-02-27
+ogimg: /images/mes/Sagitario_mes.png#2025-03-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-02-27'
+ lastmod: '2025-03-26'
 ---
 
 

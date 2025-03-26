@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Aries Marzo 2025 
+title: Horoscopo Aries Abril 2025 
 permalink: /horoscopo-mensual/amp/aries/
 normallink: /horoscopo-mensual/aries/
 home: FALSE
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/Aries_mes.png#2025-02-27
+ogimg: /images/mes/Aries_mes.png#2025-03-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-02-27'
+ lastmod: '2025-03-26'
 ---
 
 

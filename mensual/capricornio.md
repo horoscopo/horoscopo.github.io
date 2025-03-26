@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Capricornio Marzo 2025
-description: El Horóscopo Marzo de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Capricornio Abril 2025
+description: El Horóscopo Abril de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/capricornio/
 amplink: /horoscopo-mensual/amp/capricornio/
 home: FALSE
-keywords: horóscopo marzo, horoscopos en español, horóscopo Capricornio marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Capricornio, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo abril, horoscopos en español, horóscopo Capricornio abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Capricornio, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/capricornio_mes.png#2025-02-27
+ogimg: /images/mes/capricornio_mes.png#2025-03-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-02-27'
+ lastmod: '2025-03-26'
 ---
 
 

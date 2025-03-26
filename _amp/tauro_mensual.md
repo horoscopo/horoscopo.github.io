@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Tauro Marzo 2025 
+title: Horoscopo Tauro Abril 2025 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/mes/Tauro_mes.png#2025-02-27
+ogimg: /images/mes/Tauro_mes.png#2025-03-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-02-27'
+ lastmod: '2025-03-26'
 ---
 
 

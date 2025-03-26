@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Géminis Marzo 2025 
+title: Horoscopo Géminis Abril 2025 
 permalink: /horoscopo-mensual/amp/geminis/
 normallink: /horoscopo-mensual/geminis/
 home: FALSE
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Géminis_mes.png#2025-02-27
+ogimg: /images/mes/Géminis_mes.png#2025-03-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-02-27'
+ lastmod: '2025-03-26'
 ---
 
 
