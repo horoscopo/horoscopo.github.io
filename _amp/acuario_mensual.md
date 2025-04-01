@@ -7,12 +7,12 @@ home: FALSE
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Acuario_mes.png#2025-03-26
+ogimg: /images/mes/Acuario_mes.png#2025-04-01
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-03-26'
+ lastmod: '2025-04-01'
 ---
 
 
-No permitas que la luna llena del 14 de marzo te dé una sensación de inseguridad. Mucha gente te respalda, y tienes recursos que están completamente pasados por alto. De hecho, ahora estás en excelente forma. Marte entra a Escorpión el día 9. Siéntete con fuerza y energía, y ten todo preparado antes de tiempo. Dale una mano a tus amistades o familiares. El dinero es un asunto importante durante la luna nueva del 29 de marzo. Fácilmente podrías gastar demasiado. Al mismo tiempo, podrías recibir un generoso e inesperado regalo. No esperes nada, sé amable y mira qué sucede. Los astros están planeando tesoros para ti. 
+Tu vida familiar o doméstica podría conmover tu corazón con la luna llena del 13 de abril. Puede haber buenas noticas en el trabajo que hagan que el tiempo que pasas en casa se vuelva cada vez mejor. Es tan agradable cuando el trabajo y el hogar no están en una competencia feroz. La luna nueva del día 27 podría abrir una puerta para tu profesión o presencia pública que te ponga en la vía rápida hacia el éxito y la popularidad. Disfruta de una explosión de encanto que trae a alguien o algo para ayudarte a dar el próximo gran paso. El 25 de abril, el trígono que Mercurio forma con Urano podría revelar algo poderoso y útil que ha estado oculto por mucho tiempo. 

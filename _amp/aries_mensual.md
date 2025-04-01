@@ -7,12 +7,15 @@ home: FALSE
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/Aries_mes.png#2025-03-26
+ogimg: /images/mes/Aries_mes.png#2025-04-01
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-03-26'
+ lastmod: '2025-04-01'
 ---
 
 
-Diviértete en grande con los tuyos bajo la Luna Nueva de marzo. Si la fiesta o la multitud se vuelven demasiado grandes, escápate con alguien y disfruta de una charla más seria, privada y amena. Con la llegada de la Luna Llena del 14 de marzo podrías sentir que la gente a tu alrededor no te aprecia, pero ese sentimiento pasará. Hacer aquello que más te agrade te ayudará a sentir total satisfacción y felicidad. Nadie más puede hacer las cosas que tú haces, y las personas adecuadas lo notarán. Mercurio entra a Virgo el 30 de marzo, facilitando más que nunca atender cualquier pequeña molestia.
+Escucha a tu cuerpo con más atención alrededor de la luna llena del 13 de abril. Si no te alteras, o haces demasiado y vas demasiado rápido, todo debería estar bien. Aun así, ¿está tu digestión intentando decirte algo? Simplemente escucha. La conjunción entre Marte y Plutón el día 26 podría ser un desafío para todos. Controla tu temperamento, y no permitas que una pequeña discusión explote. Durante la luna nueva del 27 de abril, sé transparente y tendrás suerte extra. Fija tu propia agenda y sé feliz. Tal también complacerá a quienes te quieren. Deja que el mundo se entretenga a sí mismo. Tienes mejores cosas que hacer. 
+
+Días destacados: 2, 10, 23
+Días desafiantes: 22, 26

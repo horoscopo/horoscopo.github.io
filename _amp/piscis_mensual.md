@@ -7,15 +7,12 @@ home: FALSE
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Piscis_mes.png#2025-03-26
+ogimg: /images/mes/Piscis_mes.png#2025-04-01
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-03-26'
+ lastmod: '2025-04-01'
 ---
 
 
-La luna llena del 14 de marzo puede darte la oportunidad de terminar algo que pensaste que nunca llegaría a su fin. Tampoco necesitará de mucho esfuerzo, solo un pequeño empujón en la dirección correcta. Saturno se torna retrógrado el día 17. Relájate y deja de preocuparte. Sé más influyente o importante en tu círculo social con la luna nueva del 29 de marzo. Podrías ser una persona más efectiva detrás de escenas, como un maestro secreto, en vez de ser el líder o experto obvio. Diviértete mirando a la gente disfrutar de forma espontánea lo que tú disfrutas. Por último, ese mismo día, el trígono que el sol forma con Saturno te permite lograr muchas cosas. 
-
-Días destacados: 2, 7, 16
-Días desafiantes: 5, 27
+¿Eres la respuesta a la oración romántica de alguien? La Luna Llena del 13 de abril podría hacerte ver como alguien perfecto ante los ojos de alguien. Sé paciente, permite que esto se dé por sí solo y aprende un par de lecciones valiosas amorosas. La Luna Nueva del 27 de abril te pone a cargo de una situación que en realidad podría pertenecerle a otra persona. Si alguien se acerca para preguntarte o pedirte algo, sabrás cómo responder. Sabrás hacer lo necesario sin agitar a la gente y así recibir más agradecimiento verbal. Un destello de terquedad podría atrasarte el 30 de abril, cuando Mercurio cuadre a Plutón. Todo saldrá bien al final.     

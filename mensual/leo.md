@@ -9,22 +9,16 @@ keywords: horóscopo abril, horoscopos en español, horóscopo Leo abril , horó
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/leo_mes.png#2025-03-26
+ogimg: /images/mes/leo_mes.png#2025-04-01
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-03-26'
+ lastmod: '2025-04-01'
 ---
 
 
- > Leo, este mes una relación dará un giro positivo y esto te permitirá empezar a crear un futuro sólido en tu vida sentimental y profesional. Sin embargo fortalecer esta relación te llevará mucho tiempo, por lo que organízate mejor y no descuides el equilibrio entre tu vida personal y tu vida laboral.
+ > Leo, llega un mes de abril en el que el movimiento será el gran protagonista. Mientras que tu cuenta corriente puede que se vea beneficiada, también te dará por etiquetar a la gente según cómo te caiga.
 
 
 
-Venus forma una cuadratura con Marte el 8 de marzo. El amor y la pasión pueden no estar en la misma página ese día. Ahora una relación podría sufrir sacudones o tropiezos. No te precipites. 
-Alrededor de la luna llena del día 14, podrías conformarte perfectamente con entretenerte por tu cuenta. Sin embargo, puede que amistades y familiares más jóvenes quieran sumarse. Eso está bien, pero no es tu trabajo brindar las aventuras. 
-Venus también ingresa a Escorpión el 9 de marzo. El amor podría coquetear con la idea de correr riesgos. Tu inclinación por la popularidad podría ponerse picante y más seria. 
-Venus forma una oposición con Urano el día 12. No tienes que explorar o experimentar en este momento. Ya sabes lo que quieres. 
-La luna nueva del 29 de marzo es perfecta para ajustar tu dieta o alguna rutina diaria. Incluso un pequeño cambio ahora hará una gran mejora. Siéntete feliz y con poder, sin criticar a los demás. 
-Días destacados: 3, 12, 17
-Días desafiantes: 6, 27
+La vida cotidiana podría ponerse complicada con la luna llena del 13 de abril, pero todas serán cosas pequeñas. Cualquier obstáculo en el camino serán piedritas, no rocas, y desaparecerán por su cuenta. Mercurio se torna estacionario directo el 18 de abril. Pronto aparecerá cualquier cosa perdida. Los malentendidos serán corregidos durante los próximos días. Las comunicaciones ignoradas tendrán respuesta. El trígono que Júpiter forma con Neptuno el día 19 es un aspecto duradero. Esto te hará sentir bien sobre tus sueños y aspiraciones durante un largo tiempo. Durante la luna nueva del 27 de abril, puede que descubras que tienes mucho más en común con la gente de lo que sospechabas. Las personas pueden sentirse seguras contigo y abrirse, y compartir sus verdaderos sentimientos. Al día siguiente, Marte se torna estacionario directo después de haber estado retrógrado desde el 26 de abril. Las pasiones deberían iluminarse para un trabajo gratificante y una profesión más satisfactoria. Días destacados: 12, 17, 22Días desafiantes: 6, 27 </div>

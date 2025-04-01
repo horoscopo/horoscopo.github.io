@@ -7,12 +7,12 @@ home: FALSE
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Géminis_mes.png#2025-03-26
+ogimg: /images/mes/Géminis_mes.png#2025-04-01
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-03-26'
+ lastmod: '2025-04-01'
 ---
 
 
-La Luna Llena del 14 de marzo podrían resaltar preocupaciones relacionadas con tu profesión. Toma una decisión para sentir seguridad con respecto a tus habilidades, talentos y posición actual. Si aparece una oportunidad, considérala, pero no te lances de inmediato. El 11 de marzo, el trígono que Venus forma con Neptuno hace que grandes sueños se junten con grandes sentimientos. Mercurio se torna retrógrado al día siguiente para desafiar esos sentimientos. La Luna Nueva del 29 de marzo brillan sobre tu familia y ambiente doméstico. Termina un asunto importante que se ha estado demorando por demasiado tiempo. Prepárate mentalmente para comenzar con el próximo asunto importante. Quizás quieras pensar más en grande que antes. ¡Tú puedes! 
+Las preocupaciones profesionales son energizadas con la Luna Llena del 13 de abril. Si es el momento para un cambio o ajuste, pues es el momento. Pero si no lo es, eso también está bien. Haz algunas observaciones sobre el presente y formula planes para más tarde. Con la Luna llena del 13 de abril, disfruta de lo que más te agrada y comparte el amor. Tu vida social se calienta con la llegada de la Luna nueva del 27 de abril. Cuando tendrás brillantes y divertidas ideas a las que tu círculo social se adaptará. Diviértete en grande al estar fuera del centro de atención y tal vez escucha el sueño privado que una amistad especial te confíe.

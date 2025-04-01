@@ -7,12 +7,12 @@ home: FALSE
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/Libra_mes.png#2025-03-26
+ogimg: /images/mes/Libra_mes.png#2025-04-01
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-03-26'
+ lastmod: '2025-04-01'
 ---
 
 
-Amistades y vecinos pueden llamar a tu puerta durante la Luna Llena del 14 de marzo. Tales tendrán planes elaborados, y posiblemente caros. Quizás sea difícil decir que no. La Luna Nueva del 29 de marzo podrían abrir tu mundo de par en par. Haz un recorrido por el mundo ahora o en algún momento del año, aunque sea solo en tu mente, y lleva a tus amistades contigo. Viajar de verdad definitivamente también es una posibilidad. O deja que el mundo venga hacia ti. Lo hará. La Luna forma una conjunción con Júpiter el 25 de marzo, cuando Saturno se torna directo en Sagitario. Siéntete con suerte. 
+Quizás sientas algo de aburrimiento cerca de la Luna Llena del 13 de abril. O probablemente solo necesites salir y compartir algo de tiempo con más personas. También existe todo un mundo de diversión social que quizás no hayas notado. Libérate y diviértete un poco. Durante el 23 de abril te resultará más fácil pensar sobre el amor cuando Mercurio entre en sextil con Neptuno. Apela a tu sensibilidad y disponte a ser una persona receptiva. Un asunto de salud podría aclararse con la Luna Nueva del 27 de abril. No esperes un cambio o una mejora rotundos. O quizás simplemente notes que una preocupación que tenías ha desaparecido.
