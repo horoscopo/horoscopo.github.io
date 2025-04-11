@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 10 de abril 2025
-description: Horóscopos del dia de hoy 10 de abril 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 11 de abril 2025
+description: Horóscopos del dia de hoy 11 de abril 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-04-10
+ lastmod: 2025-04-11
 ---
-Celebra un sentido de logro y satisfacción al ponerle los toques finales a un proyecto a corto plazo que se complicó un poco. Ahora puedes abordar el siguiente proyecto en tu lista de tareas pendientes. Los solteros disfrutan de reuniones inesperadas cuando la Luna en Acuario forma trígono con Júpiter. Las sorpresas hacen de esta, una noche feliz.
+Saborea los grandes sentimientos de esta mañana. La comunicación es una prioridad durante el oportuno aspecto de la tarde entre la Luna y Mercurio. Esta noche, los planes pueden cambiar en el último momento con la Luna saliéndose de su órbita. ¿Tal vez algo fue programado con demasiada anticipación? No te preocupes, te saldrá bien al segundo intento.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
