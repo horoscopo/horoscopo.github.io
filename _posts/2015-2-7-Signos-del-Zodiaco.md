@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 13 de abril 2025
-description: Horóscopos del dia de hoy 13 de abril 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 14 de abril 2025
+description: Horóscopos del dia de hoy 14 de abril 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-04-13
+ lastmod: 2025-04-14
 ---
-El Sol oponiéndose a Júpiter durante los próximos cuatro días causa una tendencia a culpar a otras personas con el fin de mejorar nuestra propia autoestima. Ponte de pie, no te tomes las críticas personalmente y todo saldrá muy bien. Esta noche, el destino se encuentra en acción bajo el Eclipse Solar en Piscis; pero puede que no sepas exactamente cómo durante seis meses.
+Mantén tu paz mental en la cara del caos mientras la Luna en Piscis cuadre a Marte el día de hoy. Ten en cuenta que las respuestas pueden ser tanto muy emocionales, como visibles. Esta noche, no le digas a alguien que le amas, o incluso que te gusta, a menos que realmente sea cierto. Las emociones de la gente siguen siendo volátiles.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
