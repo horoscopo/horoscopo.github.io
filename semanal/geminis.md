@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 07 de abril 2025 al 13 de abril 2025 
-description: Horóscopo semanal geminis 07 de abril 2025 al 13 de abril 2025. Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así Géminis, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
+title: geminis 14 de abril 2025 al 20 de abril 2025 
+description: Horóscopo semanal geminis 14 de abril 2025 al 20 de abril 2025. Eres un signo de aire, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2025-04-07
+ogimg: /images/zodiac/semanal_geminis.png#2025-04-14
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-04-07'
+ lastmod: '2025-04-14'
 ---
 
 
 
-## Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así Géminis, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
+## Eres un signo de aire, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
 
-Ya tienes demasiados quebraderos de cabeza como para encima entrar en una etapa de poco orgullo. Nada de eso. 
- La gente cree que estarás siempre ahí, y es que eres muy leal a los tuyos, y es que has dejado pasar errores grandes que te han costado muchos disgustos, errores que en otros momentos los hubieras hecho pagar caros. ¿Qué te pasa Géminis? 
- todo lo que desea.
-Este puede ser un momento para dar y recibir, como también para tomarte tiempo para entender los sentimientos de cierta persona. Puede que tomes más consciencia de cómo se asumieron ciertas rutinas y ciertos patrones en una relación durante un tiempo. Esta influencia podría llevarte a reescribir el libreto y hacer cosas que puedan mejorar la situación. La Luna Llena del domingo te da la oportunidad para comenzar de nuevo o dar un paso adelante en tu relación.
+Tienes que esforzarte Géminis, esforzarte para no cagarla de nuevo. Tienes que esforzarte para no enviar mensajes cuando te dan esos impulsos y arrebatos en los que no te controlas, tienes que esforzarte en no perder los papeles cuando algo no sale, tienes que esforzarte en tratar de vivir en el momento y en pasar de malos rollos. Ya está bien Géminis, hazte valer de una vez. Siempre te tratan de buenas persona, que lo eres sí, pero de ahí a que se aprovechen… No. Esta semana hay un gran cambio que llevas esperando mucho tiempo, céntrate en ello, es muy importante que mantengas tu cabecita ahí y que lo externo te deje de afectar. Y que el resto se gane estar a tu lado si realmente quiere, que las palabras se las lleva el viento y a ti, otra cosa no, pero hay mucha fila detrás que quiere engancharte… Nada tiene que ser ahora suficiente para ti Géminis, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. Si de verdad se preocupan por ti, no dejarán que la vida se interponga en el camino, no importará lo ocupadísimos que estén, el tiempo para las cosas que importan se saca. Así que, esta vez, estate tranquilo Géminis, sin remordimiento de ningún tipo, y espera a que el resto te busque…
+Puede que notes tensión desarrollándose conforme la semana aumenta su ritmo, sobre todo con la actividad Solar en tu sector laboral y de estilo de vida del Domingo. Puede que ciertos acontecimientos te empujen a  hacerle uno o dos cambios clave a tu rutina, planes y metas, y quizás inclusive a tu trabajo. Sin embargo, también te ofrece la oportunidad de un nuevo comienzo, pudiendo enviarte hacia un nuevo y emocionante territorio. Cuando de dieta y salud se trata, puede que sea momento de hacer cambios positivos.
 
 ## Dinero
 
-Es un momento lleno de energía para ti ahora. Los viajes, el aprendizaje y la exploración pueden estar en lo alto de tu agenda. Pero también es hora de equilibrar las necesidades de tu trabajo diario con tu pasión por los viajes. A menos que encuentres la manera de poder hacer que los viajes o el aprendizaje formen parte de tu modelo de negocios, tiene que haber un compromiso. El Universo aligera el golpe.
+Este período es de los aspectos que afectan a las vidas pasadas, karma y las instituciones. De repente puedes ser presa de un deseo de cambiar de trabajo, iniciar una obra de caridad, o desarrollar un nuevo negocio. Hacer una investigación cuando puedas y luego crear un plan de negocios que se ve por lo menos cinco años en el futuro. Es posible hacer que funcione.

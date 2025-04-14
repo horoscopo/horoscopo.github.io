@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 07 de abril 2025 al 13 de abril 2025 
-description: Horóscopo semanal virgo 07 de abril 2025 al 13 de abril 2025. Tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias, tu corazón vale oro, y tú también Virgo. Pero sigue protegiéndote a ti mismo…
+title: virgo 14 de abril 2025 al 20 de abril 2025 
+description: Horóscopo semanal virgo 14 de abril 2025 al 20 de abril 2025. Empieza a hacerte promesas a ti mismo Virgo, empieza a prometerte amor propio, hoy y siempre. 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2025-04-07
+ogimg: /images/zodiac/semanal_virgo.png#2025-04-14
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-04-07'
+ lastmod: '2025-04-14'
 ---
 
 
 
-## Tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias, tu corazón vale oro, y tú también Virgo. Pero sigue protegiéndote a ti mismo…
+## Empieza a hacerte promesas a ti mismo Virgo, empieza a prometerte amor propio, hoy y siempre. 
 
-Si tienes algo que pensar, intenta no hacerlo en el momento, YA, AHORA y AQUÍ. Las preocupaciones cambian de intensidad muy a menudo, y sólo es con el tiempo cuando se ven. Vale, las cosas te estresan pero quizás si en vez de tomar la decisión ahora esperas un poco y la tomas después de dormir 8 horas, todo cambia, ya no es tan dramático como parecía, se suaviza, y mucho… Tómate ese tiempo, hazlo Virgo, porque te darás cuenta de que no todo es tan bueno, y tampoco todo es tan malo… Relax… Parece mentira como te estresas por situaciones que no siempre están en tu mano, pero es verdad es como si tú pudieras hacer todo por ti mismo y no Virgo, por desgracia no todo es así… Sé feliz con lo que tienes mientras trabajas duro por lo que quieres. Nadie va a regalarte nada, y tú, vas en busca de sueños por construir, de muchos sueños, además por buen camino. Un día malo no significará nada, sabes de sobra lo que es mover el culo para trabajar, sabes lo que es ir consiguiendo frutos, día a día… Recuerda lo que mereces, y lucha por ello muerte…
-Con el amoroso Venus y el sol colocando el enfoque en tu sector de responsabilidades, puedes usar tu encanto y diplomacia para ampliar tus objetivos. Puede que te des cuenta de que eres el centro de atención y esto podría ser una oportunidad para mostrar lo que sabes hacer y así influir ciertos eventos. También es posible que debas tomar una decisión que termine de concretar un acuerdo. A medida que el conversador Mercurio se alinea con el dinámico Plutón, puede que debas pensar antes de tomar una decisión.
+No te arrepientas de abrirte Virgo, no te arrepientas de haber dado mucho, o de haber dado poco. En serio, no te arrepientas. Eres como eres, y aunque últimamente te hayas llevado más disgustos que otra cosa mira, no puedes cambiar. Cada momento en el que decides ser real y sensible, o emocional con alguien, estás siendo tú mismo de verdad, estás ganando al fin y al cabo, ganando experiencia, fortaleza, ganando pasión, corazón, bondad, estás siendo tú mismo aprendiendo a quererte tal cual, sin miedo a lo que pueda pasar. Y eso nunca puede ser un error. Esta semana tendrás momentos más débiles Virgo, momentos en los que quizás te sientas incluso un poco mal, y ni siquiera sepas por qué, momentos en los que estalles por cualquier estupidez, estupideces sin mucha lógica ya pero al fin y al cabo que aún te afectan aunque no quieras. No importa lo perdido que puedas estar, va a pasar Virgo, no importa lo que esté pasando por tu vida y por tu corazón ahora, vas a sobrevivir ¿ok? Esta semana quizás sea un poco dura pero te servirá para abrir los ojos Virgo, para darte cuenta de que, o te mueves o caducas. Lo mejor que podrás hacer ahora será cortar con la mierda. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos, y proponte metas de nuevo, y no desistas porque no salgan a la primera. Necesitas un poco de motivación extra.
+La fase retrógrada de Mercurio podría no ser bienvenida durante esta semana, pero podría traer eventos interesantes consigo; como también algunas demoras. Una cita no cumplida o un desvío podría resultar en un encuentro fortuito que cambie tu suerte de alguna manera. Las celebraciones familiares son muy especiales este año, ya que Venus se alinea con Júpiter el 17 de abril. Se desarrolla un escenario progresista que podría motivarte a cambiar de trabajo o de profesión.
 
 ## Dinero
 
-Lo más probable es que seas alguien muy organizado con su dinero. Lo llevas en la sangre. Incluso si tu mantenimiento de registros no es el mejor, es probable que lo lleves todo en tu cabeza. Tienes una oportunidad única, aparentemente de la nada, para llevar tu trabajo a casa de algún modo. Es un buen momento para establecer un negocio basado en tu hogar o incluso hacer de la construcción o la decoración de casas tu nuevo trabajo. ¡Usa tus habilidades para obtener los mejores resultados!
+Examinando tu sector de política, grupos sociales y sueños, es un excelente momento para avanzar en proyectos que sean más cercanos y queridos a tu corazón. Las redes sociales ofrecen la oportunidad de descubrir secretos que pueden hacerte avanzar en tu puesto de trabajo, pero será un acto de equilibrio con la familia y el romance. El dinero viene cuando encuentras el mejor sistema y la mejor manera de cultivar las relaciones personales y profesionales.
