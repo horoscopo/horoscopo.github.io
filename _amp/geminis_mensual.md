@@ -1,18 +1,23 @@
 ---
 layout: amp
-title: Horoscopo Géminis Abril 2025 
+title: Horoscopo Géminis Mayo 2025 
 permalink: /horoscopo-mensual/amp/geminis/
 normallink: /horoscopo-mensual/geminis/
 home: FALSE
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Géminis_mes.png#2025-04-01
+ogimg: /images/mes/Géminis_mes.png#2025-04-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-04-01'
+ lastmod: '2025-04-26'
 ---
 
 
-Las preocupaciones profesionales son energizadas con la Luna Llena del 13 de abril. Si es el momento para un cambio o ajuste, pues es el momento. Pero si no lo es, eso también está bien. Haz algunas observaciones sobre el presente y formula planes para más tarde. Con la Luna llena del 13 de abril, disfruta de lo que más te agrada y comparte el amor. Tu vida social se calienta con la llegada de la Luna nueva del 27 de abril. Cuando tendrás brillantes y divertidas ideas a las que tu círculo social se adaptará. Diviértete en grande al estar fuera del centro de atención y tal vez escucha el sueño privado que una amistad especial te confíe.
+El trígono que el sol forma con Neptuno el 5 de mayo mantiene el amor y los sueños vivos y brillantes. Tu mundo se vuelve más grande de la forma más fundamental durante la luna nueva del día 7. No seas tan local. Expándete y busca la aventura. 
+Marte entra a Piscis el día 15. Tal vez sea incómodo, pero el afecto sincero no será negado. Al día siguiente, Venus se torna directo y Mercurio se torna retrógrado. Organízate, y no esperes que el romance se encienda de repente. El amor verdadero sigue vivo, aunque no sea visible. 
+Tu ambiente doméstico entra en enfoque durante la luna llena del 22 de mayo. Puedes terminar con facilidad una remodelación, reestructuración, o cualquier otra tarea importante que sea grande y agotante. También puedes encontrar personas que te den una mano, si la quieres o necesitas. Siéntete feliz con la forma en que tu espacio se siente y se ve, incluso si es solo después de acomodar tus libros o pertenencias. 
+La conjunción entre el sol y Júpiter el día 25 ablanda tu corazón y muestra lo generoso que puede ser el mundo. 
+Días destacados: 5, 17, 25
+Días desafiantes: 19, 30
