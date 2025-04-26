@@ -1,21 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Aries Abril 2025 
+title: Horoscopo Aries Mayo 2025 
 permalink: /horoscopo-mensual/amp/aries/
 normallink: /horoscopo-mensual/aries/
 home: FALSE
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/Aries_mes.png#2025-04-01
+ogimg: /images/mes/Aries_mes.png#2025-04-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-04-01'
+ lastmod: '2025-04-26'
 ---
 
 
-Escucha a tu cuerpo con más atención alrededor de la luna llena del 13 de abril. Si no te alteras, o haces demasiado y vas demasiado rápido, todo debería estar bien. Aun así, ¿está tu digestión intentando decirte algo? Simplemente escucha. La conjunción entre Marte y Plutón el día 26 podría ser un desafío para todos. Controla tu temperamento, y no permitas que una pequeña discusión explote. Durante la luna nueva del 27 de abril, sé transparente y tendrás suerte extra. Fija tu propia agenda y sé feliz. Tal también complacerá a quienes te quieren. Deja que el mundo se entretenga a sí mismo. Tienes mejores cosas que hacer. 
-
-Días destacados: 2, 10, 23
-Días desafiantes: 22, 26
+Mercurio se torna directo el 3 de mayo. Puede que las personas aparezcan de la nada y quieran socializar. Pero podrás mantenerte en postura. La Luna Llena del 10 de mayo ilumina tu mundo justo cuando pensabas que no podría ser más grande o más brillante. Podrías atraer algunas exóticas personas que casi no conoces, que se verán atraídas instantáneamente por tu gran corazón. No te preocupes. No te invadirán demasiado. La Luna Nueva del 25 de mayo colocavv la atención en tu familia y vida hogareña. Disfruta con tus parientes del entretenimiento, las conversaciones casuales o tal vez de salir de compras. Los mercados de agricultores o las ferias de artesanías también pueden ser divertidas y relajantes. Mantén las cosas sencillas.
