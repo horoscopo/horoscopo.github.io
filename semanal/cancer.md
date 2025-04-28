@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 21 de abril 2025 al 27 de abril 2025 
-description: Horóscopo semanal cancer 21 de abril 2025 al 27 de abril 2025. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Cáncer.
+title: cancer 28 de abril 2025 al 04 de mayo 2025 
+description: Horóscopo semanal cancer 28 de abril 2025 al 04 de mayo 2025. Eleva tu ego Cáncer, créete lo que vales, pisa fuerte y deja huella. No necesitas a nada ni a nadie para ser feliz, te necesitas a ti. Entero. 
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2025-04-21
+ogimg: /images/zodiac/semanal_cancer.png#2025-04-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-04-21'
+ lastmod: '2025-04-28'
 ---
 
 
 
-## Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Cáncer.
+## Eleva tu ego Cáncer, créete lo que vales, pisa fuerte y deja huella. No necesitas a nada ni a nadie para ser feliz, te necesitas a ti. Entero. 
 
-No pienses tanto Cáncer, deja que la vida te vaya sorprendiendo. Últimamente estás como muy nostálgico ¿no? No es que estés deprimido pero sí se te ha pasado por la cabeza eso de que algunos momentos del pasado fueron mejores que en el que estás ahora. No te agobies Cáncer, ni te estreses. Quizás estás pensando demasiado en el futuro, en cómo van a ir las cosas, en si saldrá bien. Has arriesgado mucho para estar donde estás y con quien estás, y ya lo decidiste así que, no puedes pasarte la vida pensando si has hecho bien o no. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro Cáncer, pero no trates de sujetarlo por todos lados cuando su destino es el suelo. Eres firme con las decisiones que tomas, siempre lo has sido pero, probablemente por momentos se te haga cuesta arriba en muchos aspectos. Deja la nostalgia a un lado y esfuérzate en pensar que todo tiene un principio y un fin y que la vida son ciclos que empiezan y que acaban, y que después llega otro ciclo de la misma manera. No tengas miedo a lo que es desconocido para ti, al revés, enfréntalo como algo nuevo que, quien sabe, puede traerte cosas que duren para toda la vida. Ten mucha paciencia en estos días y aprende a tomarte las cosas como lo que son, ni más ni menos, no puedes dar mucha importancia a cosas que no la tienen pero tampoco quitársela a otras muchas que SI la tienen. Y lo sabes. Mantente hábil para descubrir todo. Ya hace un tiempo te planteaste que ser positiv@ sería probablemente el único camino para que las cosas salieran bien y sí, en el fondo sabes que gracias a eso estás aquí, así que, no lo pierdas por nada del mundo, aunque se caiga todo a pedazos, aunque nada tenga sentido, mantente fuerte, eso será lo que necesitas para que tu cabeza no decaiga por pensamientos negativos. Vas a darte cuenta de tantas cosas…
-Mantén tu dinero bajo llave y evita tratos confusos en los días venideros. Poderosas influencias provenientes de Neptuno podrían coincidir con confusión o incluso engaño, así que ten cuidado con transacciones financieras, especialmente con sumas considerables. La Luna Nueva del fin de semana en tu sector de romance podría intensificar sentimientos, animándote a coquetear más de lo habitual. La noche del miércoles podría ser bulliciosa, más evita hacer cualquier cosa que pudieras lamentar más tarde. La semana por delante puede ser divertida siempre y cuando no tengas demasiadas expectativas.
+Estás feliz pero a la vez triste, estás tranquilo pero a la vez nervioso. Se acerca un cambio grande Cáncer, un cambio complicado pero necesario. Últimamente complaces demasiado, y sí, está bien pero el problema es que hay gente que se aprovecha de esto. Tienes que plantarle cara a más de uno y dejar las cosas claras. No te vuelvas a meter otra vez en círculos viciosos, no dejes que en tu cabeza vuelva a entrar el estrés y la ansiedad, de verdad, ahora no… Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. Cáncer, esta semana has de cerrar algunos ciclos de verdad. Una noticia buena hará que te vuelvas a impulsar de nuevo, te dará ese empujón que tanto necesitabas. Las cosas como son, todo el mundo necesita alguna razón para hacer las cosas, para progresar, para cambiar incluso, y tú más. Pues esa razón va a estar muy clara ahora. No mires atrás cuando sabes que no debes hacerlo, no te estreses por cosas que realmente no importan y no te preocupes por lo que en realidad no puedes controlar. Las cosas van a cambiar, tú vas a hacer que cambien, no permitas que nadie trate de desprestigiarte más. Las cosas a partir de ahora se harán a tu manera, guste o no. Lo tienes claro. Y recuerda que la vida siempre se vive mejor con una sonrisa en la cara.
+Por momentos, puede parecer que tú eres quien apoya a tus amigos y en otros que ellos te apoyan a ti y así es como debe ser. Pero esta semana, conforme Júpiter, el planeta que rige tu vida social, se vuelve retrógrado, puede que prefieras embarcarte en una aventura personal. Quizá hay experiencias que no podrías tener si te rodeara una multitud o si incluso estuvieras con otra persona. Podrías obtener grandes resultados si eliges seguir este camino.
 
 ## Dinero
 
-Esta semana se trata de alguien que conoces probablemente dirigiéndote a un mal camino o distrayéndote mucho de tus metas monetarias o laborales dificultando tu balance. No puedes evitar ser irresistible, pero bien puedes utilizar la energía del Universo a mitad de semana. Tu atención debe estar en la eliminación de viejas deudas.
+Tienes la oportunidad de hacer de tu lugar de trabajo un lugar mucho más agradable en el cuál pasar ocho horas o más de cada día. Tu trabajo está sin duda atrayendo el adecuado tipo de aviso, lo que te pone en línea para un mejor paquete de compensación. Este aviso puede ser añadido a tu ventaja. No hay mejor momento para poner la deuda bajo control que ahora.

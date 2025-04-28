@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 21 de abril 2025 al 27 de abril 2025 
-description: Horóscopo semanal sagitario 21 de abril 2025 al 27 de abril 2025. No desaproveches las oportunidades más Sagitario, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida. No le debes ninguna explicación a nadie.
+title: sagitario 28 de abril 2025 al 04 de mayo 2025 
+description: Horóscopo semanal sagitario 28 de abril 2025 al 04 de mayo 2025. No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2025-04-21
+ogimg: /images/zodiac/semanal_sagitario.png#2025-04-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-04-21'
+ lastmod: '2025-04-28'
 ---
 
 
 
-## No desaproveches las oportunidades más Sagitario, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida. No le debes ninguna explicación a nadie.
+## No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
 
-Te crees que eres débil Sagitario, a veces te menosprecias demasiado, más de lo que deberías, te crees que no llegas, que no puedes, te crees que quizás se te está yendo de las manos el tiempo que estás tardando en curarte de viejas heridas, piensas que ya tenía que tener superado mucho, pero no… Todo tiene su tiempo, no quieras comerte el mundo en un minuto porque seguro que lo escupes al minuto siguiente. Vas a tardar en ser “normal” otra vez, porque tienes sentimientos Sagitario, porque las cosas te duelen, porque vas a tardar en recuperarte del todo… Pero eh, que saldrás de cualquier cosas, que tu te pones las pilas y te mentalizas y trepas hasta de lo más profundo. Esta semana dedícate a mimar algunas relaciones que tienes cerca y que, por tener tu mente en otro lugar, estás descuidando. Y quiérete un poco más, y piensa que los bajones son normales, y más cuando estás en un proceso de duelo, de superar algunas cosas y de cambiar otras de forma radical. Nadie sabe estar de un minuto a otro sin parte de su vida anterior Sagitario… Tómate un tiempo Sagitario, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
-Finalmente estás viendo los resultados de todo tu trabajo. Si has estado trabajando con un instructor de vida o maestro para desarrollar tu consciencia espiritual y vivir la vida al máximo, ahora comienzan a verse los frutos de este trabajo. Puedes comenzar a sentir gran confianza en el futuro. 
- En lo que respecta a cuestiones de comunicación o proyectos relacionados con la escritura, la investigación o las conversaciones con personas clave, el progreso parece mucho más lento. Esto puede deberse al determinado Marte retrógrado en tu sector de habla y pensamiento hasta el Jueves. Esta semana, puede que tengas la tentación de apurar el paso forzando que las cosas sucedan de acuerdo a lo planificado. Trata de no hacerlo; podrías interferir con el curso natural de los hechos. El éxito será tuyo cuando todas las cosas estén en su lugar.
+Vale, puede que te lleves o que ya te estés llevando decepciones, pero piénsalo bien, son decepciones que no te sorprenden demasiado. Las cosas ya no te afectan como antes, es muy raro que algo te de la sorpresa de tu vida, ya has pasado demasiado pero aún así, por muy duro que parezcas a veces, las cosas duelen. Bueno, lo hecho, hecho está, y quizás en tus manos tengas poco poder para cambiar los fallos que cometen los demás, pero ¡despierta! En tus manos sí está el poder de cambiar lo que tú quieres, para ti, para tu vida. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez. Todo pasa, todo cambia y todo llega Sagitario. A veces la opción más difícil y la mejor opción son la misma. Tener el control de uno mismo es fundamental para caminar hacia delante y eso es lo que debes tener controlado ahora, no se trata de lo que tienes o de lo que no tienes, se trata de lo que quieres llegar a tener, con lo que de verdad te quieres llegar a sentir satisfecho. No te dejes arrastrar de nuevo por la mierda.
+Cuando el inquisidor Mercurio se sitúa en tu sector de viaje y estudio, las próximas semanas pueden encontrarte con ganas de explorar nuevos lugares e investigar fascinantes ideas. Y debido a que el vital Marte está en tu sector de habla y pensamiento, este patrón también puede aplicarse a tu entorno local y a la enseñanza o escritura. Se siente una especie de intranquilidad en el aire que podría animarte a buscar respuestas y oportunidades en todas partes. 
+La actividad lunar del jueves podría hacer que te preguntes si debes compartir un secreto con alguien. Hazlo solo si tu intuición te dice que es lo correcto. El sol ingreso a Tauro y a tu sector de viajes el fin de semana, lo que podría animarte a reservar esas vacaciones o programa de estudios. Si bien puede que hayas estado pensando en esto, ahora querrás concretarlo. Y si también puedes pasar un tiempo al aire libre, será excelente para ti.
 
 ## Dinero
 
-Es posible que esta semana no desees otra cosa que pensar en cómo pagar la deuda, ahorrar para la jubilación y construir un plan financiero viable. Pero un aspecto en específico exige que pases algún tiempo asumiendo la responsabilidad de creaciones estrategias importantes. Trabaja ahora, para construir lo que se necesita en el futuro. Mientras tanto, otros aspectos iluminan tu sector profesional. Aprovecha el efectivo mientras puedas.
+Tienes todo tipo de geniales destellos llegando a tu cabeza. No descartes nada que parezca una posibilidad remota, porque puede que no lo sea dado el tiempo suficiente y la preparación. La mala noticia es que tu empleo podría sufrir un cambio no deseado. Podrías tener un nuevo jefe, un cambio de responsabilidades, o incluso una reducción de sueldo conforme tu empresa lucha con una economía cambiante.

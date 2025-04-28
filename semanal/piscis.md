@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 21 de abril 2025 al 27 de abril 2025 
-description: Horóscopo semanal piscis 21 de abril 2025 al 27 de abril 2025. Llega una buena semana Piscis, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
+title: piscis 28 de abril 2025 al 04 de mayo 2025 
+description: Horóscopo semanal piscis 28 de abril 2025 al 04 de mayo 2025. Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2025-04-21
+ogimg: /images/zodiac/semanal_piscis.png#2025-04-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-04-21'
+ lastmod: '2025-04-28'
 ---
 
 
 
-## Llega una buena semana Piscis, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
+## Si no estás del todo convencido de algo, da la vuelta y toma otro camino, porque el tiempo es único y no vuelve. Puedes hacer cualquier comienzo donde quieras…
 
-Hay gente que no respeta que puedas crecer Piscis, hay gente que no entiende que a veces tengas que mirar por ti mismo antes que por los demás. Ya has pasado demasiado ¿no crees? No puedes estancarte con nada ni con nadie. Ahora es el momento en el que debes tomar decisiones y quien de verdad quiera estar a tu lado puede seguirte. Ya no quieres estar detrás de nadie anteponiendo siempre sus vidas a la tuya, sus metas a tus objetivos, ya estás cansado de ir detrás del mundo. Es ahora el mundo quien debe, si quiere, ir detrás de ti. Llegan buenos tiempo para los Piscis pero tienes que ser positivo. Todo lo que hagas hoy te repercutirá mañana, cada paso, cada peldaño que subas, cada decisión que tomes. Es importante que tengas todo claro y que cuando te enfoques en algo pelees por ser el mejor. Todo lo que des lo vas a atraer, si tu ambiente es positivo atraerás lo positivo, y ahora debe ser así. Y si surge algún pensamiento negativo trata de esquivarlo como sea, y si no puedes hacerlo, impulsa tu ego y llénate de piropos y de cosas positivas, no puedes dejar que lo negativo domine tu vida, tienes que tomar el control. Crece Piscis, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
-Te encuentras en el centro de atención cuando el Sol se mueve por el sector superior de tu carta astral. Esto indica que este es el momento ideal para que demuestres tus talentos y habilidades. Con la actividad Lunar en este eje, las propuestas de negocios, los contratos o los planes profesionales podrían cambiar. Cuando una puerta se cierra, otra se abre para traer nuevas oportunidades que resultan muy atractivas. Por otra parte, es posible que conectes con una vieja amistad que tiene algo importante para decirte.
+Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate. Los pensamientos negativos son como la mierda Piscis, que atraerán más mierda, y antes de que te des cuenta tendrás la mente infectada, de verdad. Empezarás a ver problemas en vez de soluciones, te meterás en un círculo vicioso en el que YA has estado. No puedes permitirlo otra vez. No luches contra cosas o personas, simplemente esquívalas, a veces, aunque intentes hacer que entren en razón es imposible, y el que acaba sufriendo irremediablemente eres tú. No debes permitirte el lujo de tener ningún pensamiento negativo ahora, de verdad, ya has pasado demasiado, sólo céntrate en esquivar lo que te dañe, pero en esquivarlo de verdad. O sea, si de verdad decides que no es lo que quieres, corta por lo sano cuanto antes, y no mires atrás ni por el retrovisor del coche. Lidera tu interior y serás el líder de tu entorno. Lo único que ahora puede frenarte son tus pensamientos, trabájalos, distráete, y rodéate de todo lo bueno que tienes aunque a veces te cueste poner punto y final a lo malo. Tus metas ahora son lo más importante y sólo se consiguen cuando uno realmente no tiene nada que le estorba en su camino.
+Podrías volverte más rebelde que nunca ahora que el sol está en tu Tauro y Venus conecta con Urano. El deseo de hacer una locura y tomar riesgos puede ser muy fuerte. Sin embargo, hay algo que debes soltar o terminar antes de poder hacer lo que quieras. Cuando hayas terminado, las cosas sucederán mucho más rápidamente. Ten mucho cuidado para no molestar a nadie que esté en un cargo de autoridad el jueves.
 
 ## Dinero
 
-Esta semana hace hincapié en la seguridad, dinero y valores. Un aspecto armonioso te da licencia para gastar en ese viaje que has estado deseando hacer, ese taller de fin de semana que te traerá más dinero en efectivo a largo plazo e incluso esa idea creativa que ha estado deambulando en la parte trasera de tu cerebro. Haz que suceda y estarás feliz por ello.
+Te enfrentas a un período maravilloso y prometedor con el apoyo de tu sector de viajes, educación superior, y metafísica. La suerte sumada a grandes ideas y transformación significa que eres capaz de hacer mucho más dinero en campos como el derecho, la edición, la escritura, y hacerte de renombre en el extranjero también. Piensa cómo podrías llevar tu mensaje a un público más amplio y el dinero te llegará.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 21 de abril 2025 al 27 de abril 2025 
-description: Horóscopo semanal escorpio 21 de abril 2025 al 27 de abril 2025. No te permitas sentir la presencia de nada que tenga ya que ver con el pasado Escorpio, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
+title: escorpio 28 de abril 2025 al 04 de mayo 2025 
+description: Horóscopo semanal escorpio 28 de abril 2025 al 04 de mayo 2025. En serio Escorpio, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2025-04-21
+ogimg: /images/zodiac/semanal_escorpio.png#2025-04-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-04-21'
+ lastmod: '2025-04-28'
 ---
 
 
 
-## No te permitas sentir la presencia de nada que tenga ya que ver con el pasado Escorpio, no te ahogues en recuerdos que ya pasaron, ni siquiera en los buenos recuerdos. No pierdas el tiempo más con eso. 
+## En serio Escorpio, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
 
-Acaba una semana y empieza otra nueva, pero como todo, a ti lo que más te cuesta es salir de esa transición, ese cambio de una fase a otra, es en ese espacio cuando contigo se puede esperar de todo, desde la felicidad más satisfactoria hasta el llanto más amargo. Y además te diría que intentaras controlarlo pero en realidad ahora lo mejor es que lo sueltes todo y te quedes a gusto y paz cuando lo hagas. Si te entran momentos de desánimos mira a tu alrededor y encontrarás a esas personas que te estiman, que te consideran y que te ven como un ejemplo a seguir, en serio. No les defraudes y demuéstrales que eres fuerte y que cuando te da el bajón es simplemente eso, un bajón del que más temprano que tarde te acabas reponiendo. En tus momentos de alegría máxima ándate con ojo y no te lances sin mirar a los dos lados, ponle cabeza a las cosas que llegan, confía en ellas pero hasta cierto punto. Como eres así de imprevisible muchas veces y tus emociones son como una especie de huracán aunque las lleves siempre por dentro, lo mismo estás contento que triste y tomas decisiones precisamente cuando te encuentras en esos estados. Pues no, cuando quieras hacer algo, párate a pensar, frénate unos minutos, unas horas, y cuando eso de “lo quiero todo y lo quiero ya” haya pasado, elige. Todo pasa Escorpio, y aunque estás en esa etapa de un cambio a otro, lo bueno llega, sólo un poco de paciencia… Y sonríe un poco más, y no te preocupes por tus subidas y bajadas porque van a pasar pronto. Sólo es una etapa de decisiones. Decisiones que marcarán tu vida ahora.
-Los aspectos prácticos de ordenar tus finanzas podrían ocupar tu atención desde principios de semana. Al hablar inteligentemente te sería posible obtener un nuevo contrato o acuerdo que sea tan sólido como una roca y que valga la pena. La comunicación e interacción ganan importancia desde mediados de semana, haciendo de este un buen momento para promover bienes, servicios y hacerle un par de ajustes a tu negocio en línea. Adopta una pizca de la actitud de Leo y presume un poco. Evita gastar impulsivamente el Sábado incluso si tus amigos ya tienen algo que codicias y tú todavía no.
+Al final sólo nos arrepentiremos de las oportunidades que no tomamos Escorpio así que, empieza a agarrar todas las que lleguen con fuerza. No pienses demasiado, ya has vivido mucho como para saber lo que te interesa y lo que no así que, no te dejes amedrentar por nada ni por nadie. Puedes con todo lo que te propongas y además hagas lo que hagas lo harás bien. Puedes llegar alto si empiezas a dejar de lado cosas que no son productivas y tomas otros caminos. A veces te aferras demasiado por cariño y tratas de arreglar todo, de tratar de hacer a algunas personas mejores personas, de mantener situaciones que en vez de sumarte te restan todo el tiempo, y lo peor es que todo ese tiempo que gastas podías invertirlo en ti y en avanzar mucho más con tus objetivos en la vida. Hay cosas que no quieres que ocurran pero que debes aceptar Escorpio, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir. Por tu bien. Procura que todo lo que decidas hacer esta semana te haga realmente feliz.
+A medida que el vital Marte sigue su viaje a través de tu signo, podrías sentirte más fuerte y con más valor que hace algún tiempo. Esta semana, se produce un potente enfoque en tu sector de habla y pensamiento. Esto podría coincidir con una idea a la que le ha llegado la hora, que parece especialmente adecuada para tu situación. Ya que esta actividad actúa como una súper cargada luna nueva, esta podría ser tu oportunidad para experimentar un nuevo comienzo. Más adelante, el enfoque cambia a los asuntos del hogar y la familia.
 
 ## Dinero
 
-Es posible que tu imaginación se desate a su más alto nivel. Tantas ideas fluyen de tu cabeza que lo mejor es tener lápiz y papel a la mano para guardarlas todas. Incluso la más pequeña, al parecer, se puede convertir en un producto o servicio que genere efectivo. Tienes la posibilidad de poder consolidar estas ideas en proyectos concretos en el trabajo. ¡Bienvenido el efectivo!
+Con tantos planetas afectando tu sector de dinero esta semana, puede que tengas la tentación de correr y esconderte. Pero a medida que el Universo se centra en tu sector de dinero y valores, se te está pidiendo ser más responsable en la forma en la que ganas dinero. También se te insta a ser mucho más sociable cuando se trata de tu dinero.
