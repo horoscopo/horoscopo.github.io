@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 01 de mayo 2025
-description: Horóscopos del dia de hoy 01 de mayo 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 02 de mayo 2025
+description: Horóscopos del dia de hoy 02 de mayo 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-05-01
+ lastmod: 2025-05-02
 ---
-Te mueves con determinación cuando el Sol forma sextil con Saturno. Ten ingenio y creatividad al abordar las responsabilidades pendientes. Esta noche, incluso las personas de pocas palabras hablan con emoción cuando la Luna forma sextil con Mercurio. Los solteros experimentan una sensación de entendimiento. Alguien muestra interés si se le mira más allá de la sonrisa y a los ojos.
+Alguien tiene que ser franco hoy y probablemente lo será mientras Mercurio forme sextil con Saturno. Es la actitud adecuada. La gente responde positivamente después de ver las cosas bajo una mejor luz. La escena social de esta noche es intensa, incluso hipnótica, bajo la Luna en Escorpión. Parejas, ¿por qué no contarse sus secreto mutuos? Inténtenlo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
