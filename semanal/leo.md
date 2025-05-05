@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: leo 28 de abril 2025 al 04 de mayo 2025 
-description: Horóscopo semanal leo 28 de abril 2025 al 04 de mayo 2025. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Leo.
+title: leo 05 de mayo 2025 al 11 de mayo 2025 
+description: Horóscopo semanal leo 05 de mayo 2025 al 11 de mayo 2025. Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no Leo. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2025-04-28
+ogimg: /images/zodiac/semanal_leo.png#2025-05-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-04-28'
+ lastmod: '2025-05-05'
 ---
 
 
 
-## No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Leo.
+## Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no Leo. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
 
-Es algo muchas veces inconsciente. Es algo que quizás tu cuerpo quiere esconder porque en el fondo, te encanta parecer que eres una persona fuerte y sí, incluso poco demostrativa, pero sabes que en realidad no es tan así. 
- que quizás te hagan tener un futuro mucho mejor y más satisfactorio.
-Puede que este no sea el mejor momento para inscribirte en costosos grupos o clubes, a pesar de que la actividad lunar del miércoles podría animarte a invertir en tu vida social. Es mejor investigar un poco sobre los precios antes de seguir adelante. Además, si alguien te pide dinero prestado, puede que lo prudente sea decir que no por el momento. Por otro lado, el traslado del agradable Venus a tu sector de comunicación el sábado podría hacer que pienses en una reunión. Conectar con viejas amistades podría ser especialmente gratificante.
+Sólo hace falta que tu mente haga click Leo, y que te des cuenta de lo que es importante y de lo que no. Aprende a dejar pasar, aprende a dejar que lo malo se acabe yendo solo… Sin necesidad de forzar, sin necesidad de pensar demasiado en ello. Igual que llegó, se irá. Acuérdate de otras veces, de cuando pensabas que las cosas eran un desastre, de cuando creías que no podrían ser peor. Y pasaron, y todo volvió a mejorar…
+Mientras Mercurio, el planeta del habla y el pensamiento, ingresa lentamente a tu signo, tal vez quieras compartir ideas que han estado dando vueltas en tu cabeza últimamente. Ahora estás en tu elemento, y esta semana podría ser una oportunidad de avanzar para cumplir uno de los deseos que hay en tu corazón. Puede que no suceda de la noche a la mañana, pero paso a paso llegarás al destino. La noche del viernes puede ser perfecta para una cita fogosa, mientras que podrías disfrutar más del fin de semana con un poco de terapia de compras.
 
 ## Dinero
 
-Nunca ha sido tu punto fuerte el sentarte y aceptar, lo cuál se sentirá doble esta semana. Algunos aspectos negativos crearán olas. Trata de llevar las facciones beligerantes en tu red social a la mesa de la paz conforme te haces cargo de los asuntos de deuda o propiedad que poseas con otra persona. El dejar que alguien más se haga cargo de ello no dará los mejores resultados ahora. Sabes perfectamente qué es  lo mejor para los dos.
+Tu sector del hogar está bajo escrutinio. Aunque la energía colocada aquí es bastante favorable y apacible, es posible que desees ver cuánto te estás gastando en tu casa cada mes. Si necesitas un ajuste, éste es el momento de hacerlo, no cuando estás bajo presión. Hay todo tipo de buenas noticias en el frente de trabajo. Una mejor situación está por venir si eres lo suficientemente paciente para dejar que suceda.

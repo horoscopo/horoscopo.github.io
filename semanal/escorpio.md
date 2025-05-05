@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 28 de abril 2025 al 04 de mayo 2025 
-description: Horóscopo semanal escorpio 28 de abril 2025 al 04 de mayo 2025. En serio Escorpio, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
+title: escorpio 05 de mayo 2025 al 11 de mayo 2025 
+description: Horóscopo semanal escorpio 05 de mayo 2025 al 11 de mayo 2025. No te destruyas Escorpio, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2025-04-28
+ogimg: /images/zodiac/semanal_escorpio.png#2025-05-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-04-28'
+ lastmod: '2025-05-05'
 ---
 
 
 
-## En serio Escorpio, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
+## No te destruyas Escorpio, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
 
-Al final sólo nos arrepentiremos de las oportunidades que no tomamos Escorpio así que, empieza a agarrar todas las que lleguen con fuerza. No pienses demasiado, ya has vivido mucho como para saber lo que te interesa y lo que no así que, no te dejes amedrentar por nada ni por nadie. Puedes con todo lo que te propongas y además hagas lo que hagas lo harás bien. Puedes llegar alto si empiezas a dejar de lado cosas que no son productivas y tomas otros caminos. A veces te aferras demasiado por cariño y tratas de arreglar todo, de tratar de hacer a algunas personas mejores personas, de mantener situaciones que en vez de sumarte te restan todo el tiempo, y lo peor es que todo ese tiempo que gastas podías invertirlo en ti y en avanzar mucho más con tus objetivos en la vida. Hay cosas que no quieres que ocurran pero que debes aceptar Escorpio, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir. Por tu bien. Procura que todo lo que decidas hacer esta semana te haga realmente feliz.
-A medida que el vital Marte sigue su viaje a través de tu signo, podrías sentirte más fuerte y con más valor que hace algún tiempo. Esta semana, se produce un potente enfoque en tu sector de habla y pensamiento. Esto podría coincidir con una idea a la que le ha llegado la hora, que parece especialmente adecuada para tu situación. Ya que esta actividad actúa como una súper cargada luna nueva, esta podría ser tu oportunidad para experimentar un nuevo comienzo. Más adelante, el enfoque cambia a los asuntos del hogar y la familia.
+No te preocupes tanto por los demás y empieza a darte un poquito más de valor a ti mismo. A veces quieres arreglar al mundo Escorpio pero no te das cuenta de que es el mundo el que no se quiere arreglar. 
+ Intenta no decir nada negativo durante 24 horas y observa cómo tu vida cambia. Es de quien te rodeas últimamente, ese es el problema. Sacas lo peor de ti en cuestión de segundos y eso no es bueno. Nada bueno.
+Tu intuición quiere decirte algo, así que te conviene prestarle atención. Puedes ahorrar tiempo o incluso dinero en cuanto a un proyecto clave o un negocio. Puede que también te encuentres evaluando el impacto de un nuevo hábito o de una rutina de ejercicio y cómo influye en tu manera de pensar. Hay una gran probabilidad de que sientas más energía o te sientas mejor y esta es una actitud que puedes mantener durante todo el mes.
 
 ## Dinero
 
-Con tantos planetas afectando tu sector de dinero esta semana, puede que tengas la tentación de correr y esconderte. Pero a medida que el Universo se centra en tu sector de dinero y valores, se te está pidiendo ser más responsable en la forma en la que ganas dinero. También se te insta a ser mucho más sociable cuando se trata de tu dinero.
+Esta semana la vida será cualquier cosa menos que aburrida con tu eléctrica personalidad ganándose a algunos, pero dejando a otros preguntándose de qué planeta viniste. Quieres salir a divertirte con amantes, amigos y familiares, pero el Universo quiere que te encargues del cambio en el frente de carrera. Si te está empezando a costar demasiado, piensa en cómo trabajar desde casa tiempo parcial para ahorrarte el dinero gastado en transportación.

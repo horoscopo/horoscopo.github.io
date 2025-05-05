@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 28 de abril 2025 al 04 de mayo 2025 
-description: Horóscopo semanal geminis 28 de abril 2025 al 04 de mayo 2025. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
+title: geminis 05 de mayo 2025 al 11 de mayo 2025 
+description: Horóscopo semanal geminis 05 de mayo 2025 al 11 de mayo 2025. Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies Géminis, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres Géminis, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2025-04-28
+ogimg: /images/zodiac/semanal_geminis.png#2025-05-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-04-28'
+ lastmod: '2025-05-05'
 ---
 
 
 
-## Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
+## Piensa en tus cambios ahora, después de todo llegan las buenas noticias, y no odies Géminis, ni tampoco te sientas mal por las veces que no has sabido elegir bien. La vida es un constante aprendizaje y tú eres Géminis, tienes que tropezar varias veces con la misma piedra para aprender pero ¿y qué? Así eres y punto.
 
-Aunque nadie lo quiera para sí mismo hay que dejar algo claro: el sufrimiento a veces es nuestro mejor maestro. Sí Géminis, si aún sufres es porque no has aprendido esa lección en particular, es porque aún no te has armado de valor para dejar de lado lo que no te hace ningún bien, lo que no te aporta. Cuando por fin lo hagas y te decidas de verdad, el sufrimiento se acabará yendo… Pero si sólo tratas de engañarte la misma lección acabará por venir una y otra vez a tu vida. Acompañada de dolor.
-Puede que esta semana seas tú quien proponga una idea revolucionaria a otra persona y que esta idea cambie su vida de alguna manera. Con la conexión entre el dinámico Júpiter y el creativo Urano, tus procesos mentales pueden ser más rápidos y agudos de lo normal. Puede que también te atraigan ciertas cosas un tanto visionarias. Compartir lo que piensas con una persona importante en tu vida podría ayudarle a comprender una idea o aprovechar una emocionante oportunidad.
+El mundo no te entiende Géminis, ya estás acostumbrado a eso, pero no te frustres, en serio no te frustres. Ha llegado un momento en el que ya no quieres las cosas a medias, o te lo dan todo o mejor que no te den nada. Estás harto de hacerte ilusiones que después no se cumplen, estás harto de depender siempre de la felicidad de los demás, de sus decisiones… Y te has dado cuenta de que vales mucho, de que si el resto no es capaz de valorar lo que podrías llegar a dar no es problema tuyo. Ahora sí sabes lo que vales Géminis, ahora sí sabes lo que mereces. A pesar de que ahora sea todo o nada ni siquiera necesitas eso del resto, ¡qué va! Porque las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz. Quieres “sobrevivir” en el mundo sin necesidad de nadie, sin necesidad de nada que te ate y te corte las alas, sin broncas, sin malos rollos, sin dramas ni peleas. Cuando te metes en bucles así no avanzas y si no avanzas te estancas, y si te estancas dejas de ser feliz. Ya has estado en el fondo mucho tiempo Géminis, ahora que has salido no vuelvas a caer. No eres de hierro no, pero procura serlo esta semana, aunque sea complicado. Descúbrete a ti mismo y descubre tu misión en la vida, y hazlo solo, y en vez de darle vueltas a lo malo, quédate con los buenos momentos, con lo que de verdad no falla.
+Probablemente ya seas el centro de atención, con el animado Júpiter y el alegre sol en tu sector de metas y ambición. Sin embargo, el encantador Venus también ingresa a ese mismo sector el martes. Esto te ayuda a progresar si tienes un poco de encanto y tacto. Incluso los acuerdos más difíciles pueden ser más llevaderos y sencillos si tienes esto en cuenta. Por otro lado, una poderosa conexión entre el prudente Saturno y el incansable Urano podría dar como resultado el buen progreso de una colaboración. Puede que la conclusión no esté demasiado lejos.
 
 ## Dinero
 
-Para ti, esta semana es sobre el hecho de que parte de ti quiere sumergirse en la belleza y la creatividad, pero las fuerzas quieren que pases tiempo al cuidado de cualquier deuda que pueda haberse acumulado. De nada sirve entrar en pánico o reprenderse a sí mismo por un gasto excesivo. A partir de este punto en adelante, haz una promesa para cambiar la forma de hacer negocios en tu vida monetaria, puedes hacerlo.
+Tienes una energía muy favorable en tu sector de profesión esta semana, ayudándote a convertirte en la figura de autoridad en tu propia vida. En lugar de depender de otros para crear tus oportunidades de ganar dinero, las estás haciendo tú mismo/a. Empezar un nuevo negocio podría traerte una gran cantidad de dinero. Se te proporciona el combustible para el fuego que puede traer todo tipo de ideas interesantes desde el Universo de ensueño.
