@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 05 de mayo 2025 al 11 de mayo 2025 
-description: Horóscopo semanal piscis 05 de mayo 2025 al 11 de mayo 2025. Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar Piscis. 
+title: piscis 12 de mayo 2025 al 18 de mayo 2025 
+description: Horóscopo semanal piscis 12 de mayo 2025 al 18 de mayo 2025. No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2025-05-05
+ogimg: /images/zodiac/semanal_piscis.png#2025-05-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-05-05'
+ lastmod: '2025-05-12'
 ---
 
 
 
-## Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar Piscis. 
+## No pierdas la cabeza, mejor dicho, que no te hagan perder la cabeza. La inteligencia antes que la ira. Acuérdate.
 
-Tienes que tener claro que en este mundo no estamos para gustar a todos, o quizás gustas a todos, pero el problema es que hay mucha envidia cerca aunque no siempre seas capaz de verla… 
-Aprende a marcharte Piscis… Sin complicaciones…
-Si no tienes seguridad acerca de lo que sientes por alguien, o viceversa, no hagas nada. La alineación Júpiter/Neptuno de esta semana podría hacerte fantasear y poner a alguien en un pedestal. Al tomarte tiempo para conocer a la persona mejor, te darás cuenta de que tiene defectos como todos los demás. Sin embargo, ¡esos defectos podrían hacer que le aprecies aún más! El movimiento de Saturno a Sagitario puede echar a andar las ruedas del progreso en tu hogar. Puede que sientas disposición a organizarte o iniciar grandes proyectos.
+Quieres empezar a construir tu camino sin estar pendiente de lo que los demás piensen, sin tener que pensar si estarán bien o mal, si puede molestarles o no. 
+ por mirar antes por otros y después que esos no fueran capaces de mirar por ti… Todo eso dolía, y mucho.
+No te abstengas de hacer cualquier cosa que pudiera ampliar tus horizontes. Es natural tener cuidado al aceptar el cambio. Saturno ha estado en tu signo desde hace un tiempo, por lo que puedes sentir un poco más de nervios al adentrarte en nuevo terreno. Esta semana, una oportunidad que es demasiado buena para dejarla pasar podría implicar salirte de tu zona de confort. Si sientes nervios, avanza paso a paso. Por último, la Luna Llena en tu sector monetario podría alentarte a derrochar tu dinero.
 
 ## Dinero
 
-Los aspectos de esta semana podrían arruinar tus esfuerzos comunicativos. Las posibilidades de confundir tus ideas abundan, así que no abras la boca sin pensar primero. La forma en la que actualmente ganas dinero está cambiando. Ir con la corriente te obtendrá los mejores resultados.
+La buena noticia es que tienes actividad en tu sector de rutina diaria de trabajo, lo que puede aportar muchas nuevas oportunidades para expandir tu presencia o hacer que tu trabajo destaque. El Universo tiende a cambiar las cosas, pero a veces las cambia de nuevo con la misma rapidez. Muévete rápido para aprovechar los dones que se te proveen. Mientras tanto, lo mejor es cooperar en el trabajo para que nadie pierda los estribos.
