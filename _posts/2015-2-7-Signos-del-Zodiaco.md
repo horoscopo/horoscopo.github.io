@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 16 de mayo 2025
-description: Horóscopos del dia de hoy 16 de mayo 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 17 de mayo 2025
+description: Horóscopos del dia de hoy 17 de mayo 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-05-16
+ lastmod: 2025-05-17
 ---
-Con su intensa comunicación, el día de hoy es una llamada para deshacerse de una buena parte de lo que le llega a uno con el fin de encontrar lo bueno. Sí, hay cosas buenas. Esta noche, el sextil entre la Luna y Marte aumenta la atracción magnética. Lo positivo es que descubrirás compatibilidad más allá de la química.
+Hoy surgen fragmentos de información apoyados por los hechos. La comunicación constructiva trabaja en cooperación con la acción expansiva cuando Mercurio forma sextil con Júpiter. Esta noche, las acciones de la gente podrían sorprenderte mucho. Escuchar y observar te permiten echarle una mirada al futuro, una que es más emocionante.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
