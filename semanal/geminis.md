@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 12 de mayo 2025 al 18 de mayo 2025 
-description: Horóscopo semanal geminis 12 de mayo 2025 al 18 de mayo 2025. Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
+title: geminis 19 de mayo 2025 al 25 de mayo 2025 
+description: Horóscopo semanal geminis 19 de mayo 2025 al 25 de mayo 2025. En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2025-05-12
+ogimg: /images/zodiac/semanal_geminis.png#2025-05-19
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-05-12'
+ lastmod: '2025-05-19'
 ---
 
 
 
-## Cambia el chip, sal un poco más, arréglate y siéntete bien contigo mismo. Repítete a ti mismo cada mañana lo que vales, ponte metas y objetivos complicados, haz de tu vida una aventura… Que no te de miedo soltar lo que sabes que no te merece.
+## En el fondo, ya no buscas ni esperas a nadie, ya no quieres encontrar nada. Ya es tarde para muchos pero sin embargo es pronto para ti, tienes toda la vida por delante, y con más ganas que nunca de disfrutarla.
 
-No te conformes con poco Géminis, no te conformes con cualquier cosa, con cualquier trabajo, con cualquier amor… Estás aquí para hacer las cosas a lo grande, para sentir fuerte, profundo, para lograr esas metas que llevas teniendo en tu mente desde hace tanto… En serio, ponte las pilas, dale caña, echa las horas que tengas que echar pero ve a por todas, en cualquier sentido en tu vida… Nunca hay un momento perfecto para empezar, siempre hay algo que pasa y que descoloca todo, una u otra cosa, pero tienes que aprender a pasar de toda esa basura, tienes que aprender a tener autocontrol y a entender que el mundo sigue girando pase lo que pase y el tiempo también sigue corriendo… Y no hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Géminis, abre las puertas y ciao. No tienes que mantener nada, no tienes que obligar a quien quiere irse. Esta semana vas a tener varios momentos así, varios momentos en los que no sabrás si debes luchar o si debes permanecer quieto… Lucha si merece la pena pero no ruegues, no vayas detrás de nadie, lucha por lo que es tuyo sí, pero no entres en el juego cuando traten de manipularte. Tienes cosas muy importantes por hacer, mucho más importantes que estar esperando a alguien o que estar dándole vueltas a la cabeza a algo que sólo te roba tiempo ahora.
-El martes, Mercurio se une al sol en Tauro en un sector más recluido de tu carta, lo que podría conectarte con tus deseos. Durante las próximas semanas, también podrías darte cuenta de cuestiones y experiencias que tal vez funcionaron contra ti en el pasado. Esta puede ser tu oportunidad de procesarlas y liberarte de ellas gradualmente. 
-La luna llena en tu sector de estilo de vida del martes podría animarte a deshacerte de cualquier mal hábito. Si has estado pensando en perder peso, este puede ser uno de los mejores momentos para poner manos a la obra.
-El fin de semana podría traer oportunidades para darte algunos gustos y disfrutar de la vida. Si tus días han estado ocupados con distintas tareas y responsabilidades, la idea de relajarte y hacer todo lo que no debes te resulta muy atractiva. Si te estás divirtiendo, ¿por qué no hacerlo?
+A veces te confundes Géminis, y este es uno de esos momentos. No es que no sepas lo que quieres, es que no sabes realmente si es lo que más te conviene, si es en realidad lo que debes hacer. Es algo así como sentirte perdido, tienes en tu cabeza muchas ideas por hacer, muchas situaciones que crear, pero no puedes averiguar cómo hacerlas, cómo sacarlas adelante. Frena un momento, no corras antes de andar. Admite que no todo va tan bien como tú creías, admite que quizás te equivocaste a la hora de tomar algunas decisiones que te han llevado a estar donde estás, encuentra el por qué de eso Géminis. Y cuando lo veas, comprende que debes dejar ir, tómate un momento, respira profundamente y empieza a curarte de verdad. Géminis, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más. Si lo estás viendo venir no dejes que entre, no des oportunidad a lo que sabes de sobra que saldrá mal. Tómate esta semana por y para ti, de verdad que necesitas un descanso, un respiro, salir de esa zona de mala vibra y despejarte. Puedes con todo Géminis, está claro, pero, ¿merece la pena pelear por ello? Piensa fríamente, y no te dejes guiar por la pasión, utiliza esta vez la cabeza.
+El deseo de estudiar, viajar y absorber nuevas experiencias podría llevarte a hacer algunos planes interesantes. Si quieres ver más del mundo, actualizar tu conjunto de habilidades, o conseguir un título, este es el momento para hacerlo. Investiga tus opciones, pero también sé consciente de que oportunidades podrían salirte de la nada. ¡Mantén tus ojos abiertos! Mercurio comienza a avanzar desde el Jueves, por lo que ciertos retrasos deberían pronto desvanecerse. Adopta buenas prácticas de manejo de dinero con tal de ahorrarte ansiedad.
 
 ## Dinero
 
-Estás pensando en cómo hacer que tu lado masculino y femenino se encuentren ésta semana. Uno quiere que avances en tus habilidades de comunicación para que puedas mantenerte a la misma altura de los grandes. No tienes que dejar que los demás te dominen verbalmente. Tu lugar de trabajo es el área en la que debes demostrar la creatividad con la que estás hecho/a.
+Es posible que tengas que pensar seriamente esta semana sobre el dinero de otras personas, o la deuda. La adopción de una actitud responsable es la mejor mientras haces el balance de la deuda, llega a una negociación realista de rentabilidad y apégate a ella. Ciertos aspectos indican que tu familia o niños pueden ser la mayor fuga de tu dinero por ahora. Esfuérzate para mantener el equilibrio a medida que te apegas a tu presupuesto.

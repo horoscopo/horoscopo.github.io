@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: cancer 12 de mayo 2025 al 18 de mayo 2025 
-description: Horóscopo semanal cancer 12 de mayo 2025 al 18 de mayo 2025. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada Cáncer. 
+title: cancer 19 de mayo 2025 al 25 de mayo 2025 
+description: Horóscopo semanal cancer 19 de mayo 2025 al 25 de mayo 2025. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2025-05-12
+ogimg: /images/zodiac/semanal_cancer.png#2025-05-19
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-05-12'
+ lastmod: '2025-05-19'
 ---
 
 
 
-## Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada Cáncer. 
+## No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
 
-Son muchos los que quieren arruinar tu vida Cáncer, los que no pueden soportar cuando subes a una foto a alguna red social, los que rabian cuando te ven feliz. Pero es que ahora, estás conectado a tu vida más que nunca, crees en ti mismo y sabes las posibilidades que tienes en este mundo. Y son muchas. Y esa seguridad tan fuerte es la que hará que consigas todo lo que te propongas pero también te sacará algún enemigo que otro. Pasa Cáncer, tú a lo tuyo, siempre. Todo pasa por alguna razón y lo tienes más que claro pero cuando le toca a uno mismo cuesta el doble aceptarlo pero todo pasa y todo llega Cáncer. Pero ya pasó, y ya lo superaste, o al menos, los aceptaste. Los pocos pensamientos negativos que aún te quedan acabarán por desaparecer, los buenos son los que al final prevalecen. Has tenido falta de confianza por momentos, falta de confianza que te ha ahogado, que no te ha dejado respirar, que te ha ido apagando lentamente aunque tú lucharás hasta el último minuto porque no pasara… Acuérdate de esos malos ratos Cáncer. Y no los repitas. Que la primera vez que algo te pase podrá ser un error, pero si te pasa dos veces es una elección. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Cáncer. Ahora brillas así que, aprovecha. Aprovecha todo.
-A medida que tu vida social es puesta bajo enfoque sentirás una renovada determinación para socializar con personas de ideas afines. Marte entra a Géminis el Lunes para marcar el comienzo de un período en el que vale la pena crear contactos y moverse hacia nuevos círculos. Ampliar tus horizontes sociales podría ser lo mejor para ti si estás en busca de romance o un mejor trabajo. En otra nota, probar tus habilidades con un pasatiempo infantil puede ser muy gratificante y quizás podría convertirse en una nueva fuente de ingresos.
+No sabes cómo desviar tus sentimientos Cáncer, sientes con muchísima pasión muchas cosas pero otras se están apagando poco a poco. Y no entiendes por qué, no entiendes como se avivan llamas con personas que no merecen la pena, y como se te apagan con otras que sí. Vas a tener dificultad para liberarte de algunas cosas Cáncer… Cuando sientes algo por alguien tu corazón no puede frenar y ahora eso es lo que te está pasando… No eres estúpido por intentar revivir viejos recuerdos y tratar de entender qué fue lo que salió mal o qué es lo que está fallando. La cuestión es que tienes que hablar las cosas, no puedes dejar que se vayan acumulando en tu interior. Si algo no va del todo bien dilo de una vez Cáncer. A veces te imaginas un futuro donde termina todo bien, donde eres feliz, donde sonríes cada día, el problema es que el futuro se construye con lo que vas haciendo ahora, y si quieres tener ese futuro deberás empezar a cambiar. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay, y en eso no se puede cambiar por mucho que lo intentes. Date el lujo de sentir lo que sientes, aunque esos sentimientos vayan en contra de lo que querrías sentir. Vamos Cáncer que esta semana emocionalmente hablando vas a tener un jaleo en tu cabeza serio y es muy probable que necesites un buen tiempo para aclararte.
+Puede que ya estés en condiciones de hacer algunos cambios de estilo de vida que tendrían un impacto positivo en ti y en tu familia. Una mezcla animada de energías indica que si das el primer paso ahora, podrías hacer cambios en tu salud y quizá en la de las demás personas. En particular, puede que un vínculo entre el estimulante Marte y el apasionado Plutón te ayude a comenzar de nuevo. Podrías hacer cambios radicales en tu dieta o incluso en tu rutina de ejercicios. Una vez que te hayas decidido, puede que no haya vuelta atrás.
 
 ## Dinero
 
-Puede que por lo general no se te conozca por tu astucia en el dinero, ya que a menudo es sólo un medio para sentirte libre de restricciones. Pero ahora te conectas a tus redes sociales de una manera poderosa y haces que funcionen para ti. Si buscas una nueva posición o un mejor trabajo con buenos beneficios, serás capaz de conectar con nuevos empleadores. Un socio podría necesitar un poco de ayuda extra con un pequeño negocio. A partir de ahí, sólo tienes que demostrar tu valor.
+No hay muchos cambios avecinándose hacia tu sector del dinero durante por los próximos años. Ciertas formas de hacer dinero mueren en favor de otras nuevas, considera cómo quieres vivir en cinco o diez años en el futuro. El poner todo este cambio a trabajar a tu favor, rendirá grandes dividendos para el tiempo que necesites dinero. Recuerda que debes pedir ayuda cuando la necesites.
