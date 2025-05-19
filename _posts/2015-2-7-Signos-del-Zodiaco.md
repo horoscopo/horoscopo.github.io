@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 18 de mayo 2025
-description: Horóscopos del dia de hoy 18 de mayo 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 19 de mayo 2025
+description: Horóscopos del dia de hoy 19 de mayo 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-05-18
+ lastmod: 2025-05-19
 ---
-El oportuno aspecto entre Mercurio y Júpiter te ofrece un único, práctico y optimista estilo. Tener éxito te queda bien, por lo que encuentra tu camino y dirígete hacia él. Las parejas expresan sus sentimientos con gran pasión cuando la Luna aspecta a Marte esta noche. Los solteros disfrutan de simpatía social, nuevos amigos, nuevos intereses amorosos, e incluso nuevas trayectorias bajo la Luna en Acuario.
+Agradar a la gente y las charlas casuales gobiernan el día de hoy bajo la Luna en Libra. Incluso las discusiones se hacen en términos amistosos. Si sientes que la gente se comporta un poco vaga e indecisamente, tienes razón. Esta noche, con Venus a punto de salir de Virgo, sientes que te has preparado para cualquier eventualidad, pero no hay ninguna; a menos que tengas un sentimiento de vacío. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
