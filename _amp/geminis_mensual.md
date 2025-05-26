@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Géminis Mayo 2025 
+title: Horoscopo Géminis Junio 2025 
 permalink: /horoscopo-mensual/amp/geminis/
 normallink: /horoscopo-mensual/geminis/
 home: FALSE
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Géminis_mes.png#2025-04-26
+ogimg: /images/mes/Géminis_mes.png#2025-05-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-04-26'
+ lastmod: '2025-05-26'
 ---
 
 

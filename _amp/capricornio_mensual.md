@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Capricornio Mayo 2025 
+title: Horoscopo Capricornio Junio 2025 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Capricornio_mes.png#2025-04-26
+ogimg: /images/mes/Capricornio_mes.png#2025-05-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-04-26'
+ lastmod: '2025-05-26'
 ---
 
 

@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Acuario Mayo 2025
-description: El Horóscopo Mayo de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Acuario Junio 2025
+description: El Horóscopo Junio de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/acuario/
 amplink: /horoscopo-mensual/amp/acuario/
 home: FALSE
-keywords: horóscopo mayo, horoscopos en español, horóscopo Acuario mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Acuario, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo junio, horoscopos en español, horóscopo Acuario junio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Acuario, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/acuario_mes.png#2025-04-26
+ogimg: /images/mes/acuario_mes.png#2025-05-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-04-26'
+ lastmod: '2025-05-26'
 ---
 
 

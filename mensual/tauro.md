@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Tauro Mayo 2025
-description: El Horóscopo Mayo de Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Tauro Junio 2025
+description: El Horóscopo Junio de Tauro todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/tauro/
 amplink: /horoscopo-mensual/amp/tauro/
 home: FALSE
-keywords: horóscopo mayo, horoscopos en español, horóscopo Tauro mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Tauro, Tarot, Astrologia, Zodíaco, Tauro, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo junio, horoscopos en español, horóscopo Tauro junio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Tauro, Tarot, Astrologia, Zodíaco, Tauro, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/mes/tauro_mes.png#2025-04-26
+ogimg: /images/mes/tauro_mes.png#2025-05-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-04-26'
+ lastmod: '2025-05-26'
 ---
 
 

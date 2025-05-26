@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Tauro Mayo 2025 
+title: Horoscopo Tauro Junio 2025 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/mes/Tauro_mes.png#2025-04-26
+ogimg: /images/mes/Tauro_mes.png#2025-05-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-04-26'
+ lastmod: '2025-05-26'
 ---
 
 

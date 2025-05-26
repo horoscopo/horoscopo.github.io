@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Leo Mayo 2025
-description: El Horóscopo Mayo de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Leo Junio 2025
+description: El Horóscopo Junio de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/leo/
 amplink: /horoscopo-mensual/amp/leo/
 home: FALSE
-keywords: horóscopo mayo, horoscopos en español, horóscopo Leo mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Leo, Tarot, Astrologia, Zodíaco, Leo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo junio, horoscopos en español, horóscopo Leo junio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Leo, Tarot, Astrologia, Zodíaco, Leo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/leo_mes.png#2025-04-26
+ogimg: /images/mes/leo_mes.png#2025-05-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-04-26'
+ lastmod: '2025-05-26'
 ---
 
 

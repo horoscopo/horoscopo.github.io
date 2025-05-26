@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Piscis Mayo 2025 
+title: Horoscopo Piscis Junio 2025 
 permalink: /horoscopo-mensual/amp/piscis/
 normallink: /horoscopo-mensual/piscis/
 home: FALSE
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Piscis_mes.png#2025-04-26
+ogimg: /images/mes/Piscis_mes.png#2025-05-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-04-26'
+ lastmod: '2025-05-26'
 ---
 
 

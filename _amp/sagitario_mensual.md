@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Sagitario Mayo 2025 
+title: Horoscopo Sagitario Junio 2025 
 permalink: /horoscopo-mensual/amp/sagitario/
 normallink: /horoscopo-mensual/sagitario/
 home: FALSE
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Sagitario_mes.png#2025-04-26
+ogimg: /images/mes/Sagitario_mes.png#2025-05-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-04-26'
+ lastmod: '2025-05-26'
 ---
 
 
