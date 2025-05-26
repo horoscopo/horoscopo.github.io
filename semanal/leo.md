@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: leo 19 de mayo 2025 al 25 de mayo 2025 
-description: Horóscopo semanal leo 19 de mayo 2025 al 25 de mayo 2025. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Leo. Tú solito.
+title: leo 26 de mayo 2025 al 01 de junio 2025 
+description: Horóscopo semanal leo 26 de mayo 2025 al 01 de junio 2025. Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2025-05-19
+ogimg: /images/zodiac/semanal_leo.png#2025-05-26
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-05-19'
+ lastmod: '2025-05-26'
 ---
 
 
 
-## Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA Leo. Tú solito.
+## Cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
 
-Acepta las ofertas que creas que debas aceptar y sobre todo, cree en ti, porque solo o acompañado puedes hacer lo que quieras, puedes llegar hasta donde quieras llegar… Empieza a dedicarle todo el tiempo del mundo a lo que te hace feliz, lo necesitas. Las dudas han quedado atrás, ya te lanzas, y más cuando te estás dando cuenta que si sientes que vas a apostar para ganar tienes que hacerlo ya. Esta semana es muy probable que empieces a abrir los ojos ante cosas nuevas, van a ofrecerte demasiado, conocen tu talento, pero debes ser hábil para elegir qué es lo que más te conviene, qué es lo que realmente necesitas y qué es lo que te hará crecer en un futuro. A la mierda lo demás Leo. Deja de pensar en amores, deja de pensar en pelear, en tratar de cambiar al mundo. Tienes que centrarte en ti y en conseguir tus objetivos, eso es lo que realmente te hará feliz ahora. Algo muy importante que debes saber es que cuando hagas lo que deseas, procura mandar muy lejos lo que no deseas, ¿y por qué? Porque al final lo que está podrido acabará por pudrir al resto de cosas. Es decir, si empiezas con buen pie algo pero tienes un lastre de cosas o personas que lo que te hacen es que de nuevo vayas hacia atrás, jamás vas a progresar, nunca. Por eso, aleja primero las cosas que debas alejar y cuando estés libre totalmente de ese tipo de negatividad, lánzate a hacer lo que más te gusta, y dedícate a ello al 100%. Te espera una buena semana pero por favor, deja de pensar en idioteces que no te sacan de nada.
-La semana tiene un comienzo dinámico con la actividad lunar en tu sector de estilo de vida alentando a olvidarte de tu dieta o rutina de ejercicio y disfrutar de la vida. El Sol ingresa a Géminis ese mismo día, aumentando tu vitalidad y animándote a avanzar en proyectos que han estado en un segundo plano. Mantente alerta este fin de semana, cuando no querrás perderte de una posible oportunidad o lucrativa colaboración. Ciertamente es algo a tener en cuenta.
+Fíate de ti mismo Leo, de ti mismo y de tus acciones. De nadie más. Las expectativas no funcionan siempre, es más cuantas más expectativas tienes de algo más duro es el golpe después si no se cumplen como tu querías que se cumplieran. Por muy desconfiado y duro que parezcas ser, al final acabas confiando Leo y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto, has dejado de lado tu personalidad, tu opinión acerca de algo. Eso es lo que duele. Por eso ahora, lo mejor es no dar demasiado. Deja que sea el resto el que te de a ti. Déjate mimar. Deja que los demás te demuestren en vez de ser tú quien siempre demuestre al resto. No siempre tienes que ser tú el que está equivocado, no siempre tienes que ser tu el que vaya detrás del resto, el que tiene que arreglar constantemente todo. Si te sientes más frío ahora no te preocupes, son etapas, también tiene que haber momentos en los que no des todo de ti. Y ese es uno de ellos. Y no es que hayas cambiado, es que has sabido valorarte, has aprendido a no dar el 100% cuando sólo recibes la mitad, o ni siquiera eso. Los demás se hacen fuertes cuando el débil eres tú. Deja de poner en primer lugar los propósitos de los demás y pon los tuyos antes.
+Podrías experimentar un cambio de ritmo esta semana, cuando el reflexivo Mercurio sale de tu sector de relaciones e ingresa a un sector más emocional de tu carta el martes. Podrías estar más en sintonía con tus instintos, que pueden ofrecer una valiosa guía. 
+El martes, la luna nueva en tu sector de relaciones puede darte la oportunidad de hacer cambios clave en un cercano lazo. Si han tenido algunas diferencias, esta influencia podría inspirarte a hacer borrón y cuenta nueva y a avanzar de allí en adelante. También podría darte la posibilidad de llevar un nuevo romance al próximo nivel. Pero también puede que sea útil esperar lo inesperado, ya que ciertos encuentros podrían ser una fuente de información muy valiosa para ti. De hecho, tal vez quieras actuar de inmediato. Sin embargo, el viernes podría ser más complicado, ya que una extraña combinación de energías podría encontrarte en desacuerdo con quien manda.
 
 ## Dinero
 
-Tienes una semana tensa por delante. Estás atrapado/a y puede que te sientas como una vaca siendo empujada a través de un canal de ganado vacuno. En situaciones como ésta, siempre es mejor ir con el flujo de las energías predominantes. El luchar en contra sólo empeorará las cosas. Ahora estás siendo empujado/a hacia tu casa y emociones internas. Consulta contigo mismo/a. ¿Estás realmente haciendo lo que quieras con tu vida?
+Esta semana, estudia tu dinero y valores. Es muy importante el no gastar tu dinero tan pronto como lo ganes y viceversa. Este momento se trata de hacer un cambio concertado para tu futuro financiero a largo plazo. Tu sector de carrera se ve afectado también, lo que significa que necesitas ahorrar para algún momento en el que tu empresa no sea tan estable como lo es ahora.

@@ -1,27 +1,29 @@
 ---
 layout: horoscopos
-title: cancer 19 de mayo 2025 al 25 de mayo 2025 
-description: Horóscopo semanal cancer 19 de mayo 2025 al 25 de mayo 2025. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
+title: cancer 26 de mayo 2025 al 01 de junio 2025 
+description: Horóscopo semanal cancer 26 de mayo 2025 al 01 de junio 2025. Todo acaba cicatrizando, pero tienes que dejar que cicatrice Cáncer. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2025-05-19
+ogimg: /images/zodiac/semanal_cancer.png#2025-05-26
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-05-19'
+ lastmod: '2025-05-26'
 ---
 
 
 
-## No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
+## Todo acaba cicatrizando, pero tienes que dejar que cicatrice Cáncer. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
 
-No sabes cómo desviar tus sentimientos Cáncer, sientes con muchísima pasión muchas cosas pero otras se están apagando poco a poco. Y no entiendes por qué, no entiendes como se avivan llamas con personas que no merecen la pena, y como se te apagan con otras que sí. Vas a tener dificultad para liberarte de algunas cosas Cáncer… Cuando sientes algo por alguien tu corazón no puede frenar y ahora eso es lo que te está pasando… No eres estúpido por intentar revivir viejos recuerdos y tratar de entender qué fue lo que salió mal o qué es lo que está fallando. La cuestión es que tienes que hablar las cosas, no puedes dejar que se vayan acumulando en tu interior. Si algo no va del todo bien dilo de una vez Cáncer. A veces te imaginas un futuro donde termina todo bien, donde eres feliz, donde sonríes cada día, el problema es que el futuro se construye con lo que vas haciendo ahora, y si quieres tener ese futuro deberás empezar a cambiar. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay, y en eso no se puede cambiar por mucho que lo intentes. Date el lujo de sentir lo que sientes, aunque esos sentimientos vayan en contra de lo que querrías sentir. Vamos Cáncer que esta semana emocionalmente hablando vas a tener un jaleo en tu cabeza serio y es muy probable que necesites un buen tiempo para aclararte.
-Puede que ya estés en condiciones de hacer algunos cambios de estilo de vida que tendrían un impacto positivo en ti y en tu familia. Una mezcla animada de energías indica que si das el primer paso ahora, podrías hacer cambios en tu salud y quizá en la de las demás personas. En particular, puede que un vínculo entre el estimulante Marte y el apasionado Plutón te ayude a comenzar de nuevo. Podrías hacer cambios radicales en tu dieta o incluso en tu rutina de ejercicios. Una vez que te hayas decidido, puede que no haya vuelta atrás.
+Te da miedo empezar etapas nuevas, te da miedo dejar a un lado lo que ya has conseguido, te da miedo mandarlo todo a la mierda y también te da miedo darlo todo por algo o por alguien. Y al final, te mantienes como estás, aunque sabes de sobra que como estás no eres plenamente feliz. 
+Date un respiro, toma algún día para pensar y relajarte, mímate un poco y deja que los sentimientos y las emociones vayan saliendo solos. 
+como si no quisieras sentir lo que sientes, como si quisieras sentir lo que no sientes. Es una estupidez porque al final, todo sale.
+Te sientes con energía para entrar en acción con la actividad solar de esta semana. Prepárate para modificar tus planes, ya que todo podría cambiar a último momento. Sin embargo, el plan alternativo podría ser igual de divertido o incluso más. Los planes sociales te mantienen en constante movimiento entre invitados y eventos y también son una buena oportunidad para establecer contactos y conocer gente nueva. Con Mercurio retrógrado en tu signo, es prudente no apurarse a hacer nada hasta después del 8 de mayo.
 
 ## Dinero
 
-No hay muchos cambios avecinándose hacia tu sector del dinero durante por los próximos años. Ciertas formas de hacer dinero mueren en favor de otras nuevas, considera cómo quieres vivir en cinco o diez años en el futuro. El poner todo este cambio a trabajar a tu favor, rendirá grandes dividendos para el tiempo que necesites dinero. Recuerda que debes pedir ayuda cuando la necesites.
+Esta semana puedes estar tratando de encontrar una manera de obtener tu rebanada de pastel y comértela también. Tu mente está trabajando horas extras para sacarte de cualquier obligación financiera que puedas tener, y el Universo te ayuda a llevar esto al siguiente nivel. Asegúrate de volver a revisar todas las cifras antes de firmar cualquier cosa.
