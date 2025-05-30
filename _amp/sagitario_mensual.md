@@ -7,16 +7,15 @@ home: FALSE
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Sagitario_mes.png#2025-05-26
+ogimg: /images/mes/Sagitario_mes.png#2025-05-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-05-26'
+ lastmod: '2025-05-30'
 ---
 
 
-mayode 2025 - Puede que sientas como si todo el mundo estuviera desahogando sus frustraciones contigo en este momento, estimable Sagitario, ya que la temporada de Piscis activa el sector de tu carta astral que rige la comunicación. Estés o no de humor para socializar, las demás personas acudirán a ti en busca de consuelo, consejo y tranquilidad. Aunque tu naturaleza compasiva encontrará placer en apoyar a tus seres queridos, sería un error esforzarte demasiado atendiendo las necesidades emocionales del resto. Por suerte, leer, aprender y ponerse al día con tus acompañantes de bajo mantenimiento puede ayudarte a llenar tu copa, así que asegúrate de dirigir tu energía en consecuencia.
-El 7 de mayo está destinado de ser un día importante para ti, ya que la luna llena en Virgo se manifiesta en tu novena casa solar. Esta energía desencadenará la mística que vive en tu interior mientras el universo conspira para guiarte, elevarte y apoyarte. Momentos después, Saturno entra al signo de los Peces, ayudándote a estructurar mejor tus pensamientos y palabras. Aprovecha este clima cósmico para adoptar una rutina de meditación más consistente. Si lo haces, te será más fácil obtener claridad y mensajes del más allá.
-Un cambio cósmico se produce cuando Mercurio y el sol entran a Aries los días 18 y 20, respectivamente, colocándote en un espacio mental más sensible. Sentirás atracción por las comodidades del hogar y optarás por esconderte de los familiares o amistades que hablaron contigo sin cesar a principios de mes. Esta es perfecta perfectas para poner en marcha nuevos proyectos, así que asegúrate de alimentar tus pasiones y sueños. Mientras tanto, Marte entra en Cáncer el 25 de mayo, trayendo erotismo a tu vida amorosa.
-Días destacados: 2, 20, 21
-Días desafiantes: 3, 16, 23
+El mes de junio comienza con las palabras que quieres oír.
+El 7 de junio comienza el mes de la Cabra de fuego yin, y una energía romántica de relación se vuelve muy palpable. Buey, si ya te encuentras en una relación amorosa, tu pareja ya está lista para hablar sobre cómo fortalecer su vínculo. Aprovechen para tener una conversación profunda y significativa. Pero si estás en busca del amor, puede que conozcas a alguien que te haga perder la cabeza (y hasta prendas de ropa también).
+La luna llena hace su aparición el día 11 y puede que te encuentres de viaje. Buey, puede que viajes hacia un destino exótico o que viajes para ver a tu familia y amistades y tener un poco de diversión de verano. Y aunque no sea tu primer viaje, este trae consigo un poco de emoción extra. Puede que recibas un mensaje espiritual sobre libertad o sobre tu futuro mientras te encuentras viajando.
+La luna nueva hace su aparición el 25 de junio y puede que aproveches para organizar tu hogar. Durante las próximas dos semanas, puede que pruebes distintos sistemas para administrar tu hogar de una manera más efectiva. Tienes una mirada más detallista de lo normal, lo que te ayuda a mantener registro de las cosas que tienes y de las cosas que prefieres regalar. Sin duda tu familia estará muy contenta con esto. A ti siempre te gustó compartir, Buey.

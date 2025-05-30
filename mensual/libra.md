@@ -9,16 +9,18 @@ keywords: horóscopo junio, horoscopos en español, horóscopo Libra junio , hor
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/libra_mes.png#2025-05-26
+ogimg: /images/mes/libra_mes.png#2025-05-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-05-26'
+ lastmod: '2025-05-30'
 ---
 
 
- > Libra, estas semanas podrás disfrutar de algún reconocimiento. Aprovecha para recobrar tu confianza y terminar tareas que tienes pendientes hace mucho tiempo en lugar de dejarte llevar por el momento. Será un buen mes para que te atrevas con alguna actividad que hace tiempo tenías ganas de hacer.
+ > Libra, tus ganas y fuerza no cesan a pesar de que empezaste el año a tope. Este mes estarás más exigente que nunca y no te conformarás con cualquier cosa.
 
 
 
-El Eclipse de Luna Llena del 10 de mayo destaca un asunto financiero u otra preocupación material. El dinero podría parecer hacer posible una mejora en tu hogar o proporcionar un cojín que haga un tema familiar menos estresante. Las emociones y las fantasías alcanzan su punto máximo el 18 de mayo una vez que el Sol entra a Piscis. Alrededor del Eclipse Solar de Luna Nueva el 26 de mayo, los valores tradicionales podrían chocar con un creciente interés por valores más radicales y universales. Bien sabes que probablemente no puedes salvar al mundo, pero tu corazón podría ponerte en esa dirección. Mantén tu vida intacta, pero si puedes hacer más, bueno, pues, ¿por qué no?
+El 3 de junio, el trígono entre el Sol y Júpiter enriquece una situación o relación que ya era agradable. La Luna Llena del 11 de junio atrae a todas tus amistades y vecinos, o por lo menos así parece. Si no estás de humor para ofrecer una fiesta, deja que alguien más lo haga y ve un rato. Además, Júpiter ingresa directamente a Libra ese día. Esto hace que sea ¡hora de festejar! Vuélvete el centro de atención en el trabajo durante la Luna Nueva del 25 de junio. Un avance en tu carrera o un proyecto más grande pueden surgir para ti, o podrías sugerir dicho cambio y tus superiores verán la sabiduría en tu sugerencia. 
+
+Mejores días: 3, 9, 26Peores días: 19, 27

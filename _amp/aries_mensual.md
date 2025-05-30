@@ -7,12 +7,12 @@ home: FALSE
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/Aries_mes.png#2025-05-26
+ogimg: /images/mes/Aries_mes.png#2025-05-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-05-26'
+ lastmod: '2025-05-30'
 ---
 
 
-Mercurio se torna directo el 3 de mayo. Puede que las personas aparezcan de la nada y quieran socializar. Pero podrás mantenerte en postura. La Luna Llena del 10 de mayo ilumina tu mundo justo cuando pensabas que no podría ser más grande o más brillante. Podrías atraer algunas exóticas personas que casi no conoces, que se verán atraídas instantáneamente por tu gran corazón. No te preocupes. No te invadirán demasiado. La Luna Nueva del 25 de mayo colocavv la atención en tu familia y vida hogareña. Disfruta con tus parientes del entretenimiento, las conversaciones casuales o tal vez de salir de compras. Los mercados de agricultores o las ferias de artesanías también pueden ser divertidas y relajantes. Mantén las cosas sencillas.
+La Luna Llena del 11 de junio ilumina tu imagen pública y tus planes profesionales. Sin importar qué tan tentativa o incompleta pueda ser una oferta u oportunidad, puedes percibir qué está pasando realmente y puedes relacionarte bien con las personas involucradas. Usa toda tu intuición, instinto e impulso. Neptuno se vuelve retrógrado en Piscis el 16 de junio. Ahora, los sentimientos y sueños fluyen más profundamente y con más fuerza. La Luna Nueva del 25 de junio te recuerda que debes divertirte de gran manera. Tu felicidad será contagiosa, y las personas querrán seguir tu ejemplo. Haz algo radicalmente distinto y no lo pienses demasiado.

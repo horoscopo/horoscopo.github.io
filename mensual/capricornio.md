@@ -9,19 +9,16 @@ keywords: horóscopo junio, horoscopos en español, horóscopo Capricornio junio
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/capricornio_mes.png#2025-05-26
+ogimg: /images/mes/capricornio_mes.png#2025-05-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-05-26'
+ lastmod: '2025-05-30'
 ---
 
 
- > Capricornio, mayo se presenta como un mes para equilibrar facetas en tu vida que no están en armonía. Ten la garantía de que tus energías fluirán para que concretes tus planes más ambiciosos y todas las puertas parecerán abrirse a tu paso. Será un período muy afortunado en donde te sentirás definitivamente en conexión con tu esencia más creativa. Mantén la paz interior y la comunicación abierta mientras navegas por este período de crecimiento y madurez.
+ > junio será un mes de revelaciones y claridad para Capricornio, guiado por la intuición y la introspección. El amor se vivirá con alegría y conexión, especialmente a través de la amistad y la espontaneidad. En lo laboral, llegarán oportunidades concretas para crecer y tomar decisiones estratégicas. La salud mejorará, pero será clave mantener hábitos que fortalezcan el equilibrio a largo plazo.
 
 
 
-La conjunción entre el sol y Mercurio el 1 de mayo libera tu intuición. Con la luna nueva del día 15, tendrás todas las respuestas para los problemas ajenos. Deja que pregunten primero. Tal vez no te involucres en los asuntos de nadie, pero igual puedes aprender mucho si observas y escuchas. Además, Mercurio se torna directo ese día. Aclara cualquier malentendido. La luna llena del 29 de mayo trae amistades y gente del vecindario a tu lado. Tal vez piensas que no necesitas ayuda, pero todos la necesitan en realidad, de alguna forma u otra. A veces la aceptación es la mejor manera de dar. Sé una persona amable y agradecida. 
-
-Días destacados: 1, 14, 24
-Días desafiantes: 4, 20
+Comienza el mes de forma festiva y creativa bajo la luna llena del 11 de junio. Podrías rodearte de personas con ideas grandiosas sobre qué hacer y a dónde ir. Y eso es genial, pero sigue tus propios deseos. La luna nueva del día 25 podría traer muchas caras nuevas a tu vida social. Mantenlo casual, mira cuáles son tus primeras impresiones, y quizás luego haz una selección. El 30 de junio resalta la buena salud física y mental. Que valorarte y cuidarte sean una prioridad. ¡Lo vales! 
