@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 26 de mayo 2025 al 01 de junio 2025 
-description: Horóscopo semanal sagitario 26 de mayo 2025 al 01 de junio 2025. Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
+title: sagitario 02 de junio 2025 al 08 de junio 2025 
+description: Horóscopo semanal sagitario 02 de junio 2025 al 08 de junio 2025. No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2025-05-26
+ogimg: /images/zodiac/semanal_sagitario.png#2025-06-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-05-26'
+ lastmod: '2025-06-02'
 ---
 
 
 
-## Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
+## No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
 
-Para de pensar tanto en todo, para de sobreanalizar. ¿Te has parado alguna vez en seco y te has preguntado si realmente eres feliz, si realmente quieres que las cosas sigan como están? Hazlo, contigo las terapias de choque funcionan muchas veces. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? Cuando lo averigües ves a por ello. La comodidad está bien Sagitario pero está bien por un tiempo, no toda la vida, si sólo te conformas con lo que tienes al final tu vida nunca será tuya si no de los demás, las decisiones no las tomarás tú, si no todo lo que está a tu alrededor porque, al final, solamente te adaptarás a ello, tal cual, como venga, quizás enfadado y quejándote o quizás dejándote llevar pero al final, los que ganan serán los demás… Vuelve a creer en tus metas, vuelve a creer en ti mismo, vuelve a intentar conseguir lo que siempre has querido.
-¿Por qué dudas de ti? Tal vez porque sientes incertidumbre con respecto a la dirección que estás tomando. Incluso si alguien parece estarte animando a bailar al ritmo de tu propio tambor, no tienes completa seguridad acerca de ello. Los días por venir podrían ser críticos para ti, particularmente si sientes que deberías actuar, pero aún tienes dudas de cómo hacerlo con eficacia. Dar pasos pequeños podría ser la respuesta, así como también hablar de ello con alguien de confianza. Lo que más necesitas es claridad - entonces todo caerá en su lugar.
+Se avecinan cambios Sagitario, cambios grandes. Estás en una etapa un tanto selectiva, no te conformas con poco, a veces no te conformas con nada. Y estás en tu derecho. De verdad, ya era hora de que callaras la boca a más de uno que lleva intentando joderte la vida un tiempo. No pasas ni una Sagitario, y no la pasas porque no te da la gana, porque ya has aguantado demasiadas cosas. Porque, en el fondo, pensabas que todo podría cambiar, que, como tú, las personas se dan cuenta de los errores que cometen y dan marcha atrás para intentar solucionarlos. Pero no Sagitario. No todo el mundo es como tú. Así que, si esta semana piensan que eres un estúpido borde que lo piensen, si creen que has cambiado y que pasas de todo que lo crean. No estás para dar explicaciones a nadie, que la gente piense lo que le de la gana. Ves a tu rollo, mantén a cabeza bien alta y si no eres delicado en tus formas que traten de pensar que puede ser por alguna razón. Pero que se quiebren la cabeza. En serio, no necesitas volver a retomar conversaciones una y otra vez para acabar siempre en lo mismo. Deja de obsesionarte por el resto, deja de ponerles siempre primero antes que a ti. Todos tenemos un límite. Y es normal que el tuyo haya llegado ya. Feliz semana Sagitario.
+Asegúrate de que tus planes sean realistas, sobre todo a principios de semana. Puede que sientas la tentación de prometer más de lo que puedes cumplir. También tienes la oportunidad de deshacerte de un muy pesado equipaje emocional; aunque puede que sea porque una amistad te anime a hacerlo. Puede que tengas que abordar un punto ciego en una relación cercana si es que quieren terminarla cordialmente. La actividad lunar del sábado podría inspirarte a hacer planes de viaje, especialmente si te atraen imágenes de días calurosos.
 
 ## Dinero
 
-Esta semana es sobre la energía que recibes del Universo que afecta a tu vida laboral. Es posible que desees asociarte con alguien que no conoces muy bien con el fin de terminar cierto trabajo, o aliarte con otras personas que quieren salir adelante. No te aproveches ni de los demás o del poder que tengas. Un paso lento pero constante gana la carrera. Formula tu estrategia con prudencia.
+Tienes entusiasmo para moverte esta semana, especialmente con respecto a tu dinero. Esto puede proporcionarte un nuevo impulso para salir y encontrar un nuevo trabajo o pensar cómo iniciar un negocio secundario para aumentar tus ingresos. El Universo quiere que te destaques entre la multitud, así que asegúrate de ser visto y oído como individuo. Ciertos aspectos en tu sector de carrera indican que debes esforzarse para proporcionar una imagen tranquila y confiada.
