@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 01 de junio 2025
-description: Horóscopos del dia de hoy 01 de junio 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 02 de junio 2025
+description: Horóscopos del dia de hoy 02 de junio 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-06-01
+ lastmod: 2025-06-02
 ---
-Hoy es un día para relajarse. Deja de lado las responsabilidades, déjate llevar y disfruta. Algo espontáneo ocurre cuando menos te lo esperas. Por la noche, continúa siendo libre bajo la que está a punto de ser Luna en Acuario, cuando el individualismo es la regla. Actúa acorde. Los solteros experimentan amistad y una sincera comunicación con alguien muy interesante.
+Hoy, la gente tiende a sobreestimar y exagerar de manera desproporcionada cuando la Luna cuadra a Júpiter. Tales creen en lo que dicen en el momento sólo durante ese corto período de tiempo. Esta noche, conoce gente, intercambia ideas y comparte una agradable velada bajo el elocuente trígono entre Mercurio y la Luna en Géminis.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
