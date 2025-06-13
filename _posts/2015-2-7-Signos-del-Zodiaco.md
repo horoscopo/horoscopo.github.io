@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 12 de junio 2025
-description: Horóscopos del dia de hoy 12 de junio 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 13 de junio 2025
+description: Horóscopos del dia de hoy 13 de junio 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-06-12
+ lastmod: 2025-06-13
 ---
-Hoy, toma la ruta escénica, reflexiona y recarga tus pilas mientras la Luna se oponga a Neptuno. Qué bueno que tu cuerpo esté descansado, porque la Luna y Plutón incitan una épica pasión esta noche. Te vuelves el alma del romance. Sin embargo, a los solteros se les aconseja frenar cuando el deseo se vuelva desenfrenado.
+Las personas dicen lo que saben y suponen lo que no cuando Mercurio cuadra a Marte el día de hoy. Añadirle complicados pensamientos hará las cosas aún más difíciles de resolver. Incluso los hechos no son lo que parecen. Esta noche, las ondas eléctricas mentales se convierten en corrientes acuosas sentimentales bajo la Luna en el emocional Piscis. 
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
