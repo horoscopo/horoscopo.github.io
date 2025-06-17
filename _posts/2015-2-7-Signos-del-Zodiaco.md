@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 16 de junio 2025
-description: Horóscopos del dia de hoy 16 de junio 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 17 de junio 2025
+description: Horóscopos del dia de hoy 17 de junio 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-06-16
+ lastmod: 2025-06-17
 ---
-Qué bueno es poder hablar con confianza, hacer uso del buen juicio y actuar acordemente mientras Mercurio aspecta a Júpiter el día de hoy. La noche continúa con una nota positiva. Mientras que los malentendidos son una forma de vida en las telenovelas, en la vida real, pueden ser aclarados bajo el trígono entre la Luna en Escorpión y Neptuno. 
+Mantente alerta a las cosas que necesitan ser cambiadas. El proceso también incluye cambiar la opinión ya sea de uno mismo o de alguien más cuando la Luna en Cáncer se opone a Plutón. Esta noche, tu actitud es elusiva e incluso reclusa, cuando el deseo de cerrarte al mundo existe. En realidad, la tranquilidad es muy placentera.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
