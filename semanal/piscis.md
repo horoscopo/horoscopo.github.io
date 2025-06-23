@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 16 de junio 2025 al 22 de junio 2025 
-description: Horóscopo semanal piscis 16 de junio 2025 al 22 de junio 2025. Sumisión contigo van a encontrar poca ahora Piscis… Muy poca.
+title: piscis 23 de junio 2025 al 29 de junio 2025 
+description: Horóscopo semanal piscis 23 de junio 2025 al 29 de junio 2025. Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana Piscis.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2025-06-16
+ogimg: /images/zodiac/semanal_piscis.png#2025-06-23
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-06-16'
+ lastmod: '2025-06-23'
 ---
 
 
 
-## Sumisión contigo van a encontrar poca ahora Piscis… Muy poca.
+## Se acabó lo que se daba. Vas a sufrir sí, pero es que llegan demasiadas cosas bonitas y buenas como para que cualquier imbécil pueda estropearlas. Feliz semana Piscis.
 
-A veces quieres llegar al fondo de cualquier cosa Piscis, pero el problema es que también a veces, eso, no te hace ningún bien. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Piscis. De verdad, a veces es mejor tener paz que tener razón. ¿Por qué no tratas de pasar del mal rollo? ¿Por qué no te alejas de lo que te pone los nervios de punta? Quizás debas dar algunas lecciones y quizás deberías hacerte de rogar un poco. Al menos para que el resto despierte. Muchos no saben lo que se pierden al perder a Piscis, eh. Esta semana deberías hacerte valer un poco, deberías recordarte todas las lecciones que ya llevas aprendidas y dejar de repetir patrones todo el tiempo. Sé valiente y no te engañes a ti mismo. Cuando haces algo por alguien no esperas que hagan lo mismo por ti porque lo haces de corazón pero tampoco esperas que no muevan ni un dedo. Tú sabes de sobra lo que funciona y lo que no funciona Piscis así que, por favor, empieza a ser un poco más productivo y deja de perder el tiempo. Ve a por lo que interesa, a por lo que aporta, a por lo que te hace mejor. No vuelvas a dejar tus planes de lado por nada ni por nadie.
-Un encuentro con una vieja amistad podría resultar muy agradable, sobre todo si no se han visto en algún tiempo. Es muy probable que ambos hayan cambiado y es posible que se lleven mejor ahora de lo que se llevaban en el pasado. Además, con Júpiter avanzado en tu sector de conversación y pensamiento, la comunicación se vislumbra más prometedora en general. Si has estado esperando noticias sobre algo, podrías escucharlas muy pronto. Si trabajas en medios de comunicación, podrías recibir oportunidades para más proyectos.
+La gente no hará siempre lo que tu quieres, la gente no agradecerá ni te dará lo mismo a ti, pero no, no te decepciones, es tiempo de dar un giro a todo. Sinceramente ¿de qué te saca dar más vueltas de lo debido a cosas que realmente no te hacen bien? Entrena tu mente, entrénala para ver las cosas buenas hasta en lo peor. Lo que parecía que no tenía solución, de repente lo tiene, las excusas que a veces ponías sólo por el miedo a que algo peor pasara ya no están. La felicidad se puede hallar hasta en los momentos más oscuros si somos capaces de usar bien la luz, y de eso, estás más seguro que nunca. Pues adelante Piscis, la luz está en tus manos, solamente tienes que alumbrar lo que de verdad te conviene, ya basta de ir detrás de cosas o personas que lo que intentan hacer es apagarte, eres fuerte, y estás conociendo gente nueva que puede apoyarte en todo. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
+Un encuentro podría estar en tus cartas esta semana o durante las próximas tres semanas. Mercurio retrógrado en tu sector social sugiere que una vieja amistad, viejo interés amoroso o inclusive un ex podría volver a tu vida. Esta puede ser una oportunidad para hablar de lo anteriormente ocurrido u obtener curación con respecto a una difícil ruptura. Podrías percatarte de que ésta vez logran progresar mucho más. Además, Venus entrando a Tauro el viernes también sugiere que un romance del pasado podría volver a encenderse.
 
 ## Dinero
 
-Te enfrentas a una serie de distracciones en tu vida monetaria. Algunos aspectos indican que es posible que estés pasando más tiempo socializando, abrazando a tu media naranja o visitando posibles socios de negocios importantes. Siendo así, gran parte de tu tiempo y atención pueden estar colocados en estos reinos haciendo difícil la concentración en otra cosa. Por suerte, hay un aspecto positivo que te ayuda a sentir una conexión más terrenal y estabiliza tu familia, hijos o pareja romántica. ¡Excelente!
+La atención se centra en las relaciones serias y matrimoniales esta semana. No es el momento de concentrarse en el dinero – por lo menos no al principio. Podrías darte cuenta de que los problemas de dinero surgen mientras que te acercas más a esa persona especial. Es importante asegurarte de que ambos estén en la misma frecuencia en el futuro. Los planetas te ayudan con calma y explican con claridad tu posición en cuestiones de dinero para rápidamente llegar a una solución mutuamente beneficiosa.
