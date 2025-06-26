@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Aries Junio 2025 
+title: Horoscopo Aries Julio 2025 
 permalink: /horoscopo-mensual/amp/aries/
 normallink: /horoscopo-mensual/aries/
 home: FALSE
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/Aries_mes.png#2025-05-30
+ogimg: /images/mes/Aries_mes.png#2025-06-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-05-30'
+ lastmod: '2025-06-26'
 ---
 
 
