@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Libra Junio 2025 
+title: Horoscopo Libra Julio 2025 
 permalink: /horoscopo-mensual/amp/libra/
 normallink: /horoscopo-mensual/libra/
 home: FALSE
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/Libra_mes.png#2025-05-30
+ogimg: /images/mes/Libra_mes.png#2025-06-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-05-30'
+ lastmod: '2025-06-26'
 ---
 
 

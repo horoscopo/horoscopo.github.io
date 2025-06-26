@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Cáncer Junio 2025 
+title: Horoscopo Cáncer Julio 2025 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/Cáncer_mes.png#2025-05-30
+ogimg: /images/mes/Cáncer_mes.png#2025-06-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-05-30'
+ lastmod: '2025-06-26'
 ---
 
 

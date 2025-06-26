@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Escorpio Junio 2025
-description: El Horóscopo Junio de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Escorpio Julio 2025
+description: El Horóscopo Julio de Escorpio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/escorpio/
 amplink: /horoscopo-mensual/amp/escorpio/
 home: FALSE
-keywords: horóscopo junio, horoscopos en español, horóscopo Escorpio junio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Escorpio, Tarot, Astrologia, Zodíaco, Escorpio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo julio, horoscopos en español, horóscopo Escorpio julio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Escorpio, Tarot, Astrologia, Zodíaco, Escorpio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/escorpio_mes.png#2025-05-30
+ogimg: /images/mes/escorpio_mes.png#2025-06-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-05-30'
+ lastmod: '2025-06-26'
 ---
 
 
