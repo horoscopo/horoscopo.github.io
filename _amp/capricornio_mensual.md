@@ -7,12 +7,12 @@ home: FALSE
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Capricornio_mes.png#2025-06-26
+ogimg: /images/mes/Capricornio_mes.png#2025-06-27
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-06-26'
+ lastmod: '2025-06-27'
 ---
 
 
-Comienza el mes de forma festiva y creativa bajo la luna llena del 11 de junio. Podrías rodearte de personas con ideas grandiosas sobre qué hacer y a dónde ir. Y eso es genial, pero sigue tus propios deseos. La luna nueva del día 25 podría traer muchas caras nuevas a tu vida social. Mantenlo casual, mira cuáles son tus primeras impresiones, y quizás luego haz una selección. El 30 de junio resalta la buena salud física y mental. Que valorarte y cuidarte sean una prioridad. ¡Lo vales! 
+¿Está alguien en casa resistiéndose a tus ideas o deseos? Esto podría detenerse después de la Luna Llena del 10 de julio. O quizás has querido volver a diseñar o remodelar una habitación u otro espacio privado. Comienza ahora y obtén la cooperación e inspiración de todos a tu alrededor. La Luna Nueva de 24 de julio es toda tuya. ¡Sal a bailar sobre el escenario de la vida! Eres una persona demasiado disciplinada e inteligente como para exagerar y causar algún problema o molestar a alguien. Si alguien más hace olas, mantendrás el control y hasta tal vez ganes algunos nuevos aliados. Finalmente, el sextil entre la Luna y Saturno del 27 de julio le da un suave final a tu mes.

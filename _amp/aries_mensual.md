@@ -7,12 +7,16 @@ home: FALSE
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/Aries_mes.png#2025-06-26
+ogimg: /images/mes/Aries_mes.png#2025-06-27
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-06-26'
+ lastmod: '2025-06-27'
 ---
 
 
-La Luna Llena del 11 de junio ilumina tu imagen pública y tus planes profesionales. Sin importar qué tan tentativa o incompleta pueda ser una oferta u oportunidad, puedes percibir qué está pasando realmente y puedes relacionarte bien con las personas involucradas. Usa toda tu intuición, instinto e impulso. Neptuno se vuelve retrógrado en Piscis el 16 de junio. Ahora, los sentimientos y sueños fluyen más profundamente y con más fuerza. La Luna Nueva del 25 de junio te recuerda que debes divertirte de gran manera. Tu felicidad será contagiosa, y las personas querrán seguir tu ejemplo. Haz algo radicalmente distinto y no lo pienses demasiado.
+Mercurio retrógrado ingresa a Escorpión el 1 de julio. Tómate las cosas con mucha calma, y sé feliz. La vida en el hogar se vuelve más brillante, feliz y cómoda con la luna llena del día 10. Siéntete a salvo y a gusto en tu propio espacio. Ordena un poco, y vuelve a descubrir el paraíso en el que vives. Mercurio se torna directo también ese día. Los malentendidos triviales e insignificantes no se acabarán de inmediato, pero comenzarán a disminuir. 
+El 12 de julio, Mercurio entra a Sagitario. Siente el espíritu de las festividades, y diviértete más. Mercurio forma una conjunción con Júpiter el día 24, el mismo día que el sol entra a Leo. Todas las sugerencias e ideas que tengas serán apropiadas y agradables para todos. 
+Atraviesa con elegancia todas las reuniones de las festividades durante la luna nueva del 24 de julio. Otras personas brindarán la hospitalidad, así que todo lo que debes hacer es ir y lucir espectacular. Resuelve una gran duda cuando Mercurio forma una cuadratura con Neptuno el día 24. 
+Días destacados: 6, 10, 21
+Días desafiantes: 24, 29

@@ -7,14 +7,12 @@ home: FALSE
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/Libra_mes.png#2025-06-26
+ogimg: /images/mes/Libra_mes.png#2025-06-27
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-06-26'
+ lastmod: '2025-06-27'
 ---
 
 
-El 3 de junio, el trígono entre el Sol y Júpiter enriquece una situación o relación que ya era agradable. La Luna Llena del 11 de junio atrae a todas tus amistades y vecinos, o por lo menos así parece. Si no estás de humor para ofrecer una fiesta, deja que alguien más lo haga y ve un rato. Además, Júpiter ingresa directamente a Libra ese día. Esto hace que sea ¡hora de festejar! Vuélvete el centro de atención en el trabajo durante la Luna Nueva del 25 de junio. Un avance en tu carrera o un proyecto más grande pueden surgir para ti, o podrías sugerir dicho cambio y tus superiores verán la sabiduría en tu sugerencia. 
-
-Mejores días: 3, 9, 26Peores días: 19, 27
+La Luna Llena del 10 de julio podría hacer de ti un maestro o mentor. Sin embargo, puede que tú no lo veas de esa manera, ya que tu mente estará ocupada aprendiendo y compartiendo a medida que enseñas. Un choque de pensamientos u opiniones podría suceder en tu trabajo cuando Mercurio choque con Plutón el 19 de julio. No lleves ningún de esos duros sentimiento a casa contigo. Aprovecha al máximo todo el tiempo que pases en tu hogar alrededor de la Luna Nueva del 24 de julio. Estos dias podrían tener un tono público para ti, y vaya que disfrutarás de poder socializar. Sal a formar parte de todo, pero tu hogar es donde tu corazón se encontrará. 
