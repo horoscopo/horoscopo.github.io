@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: sagitario 30 de junio 2025 al 06 de julio 2025 
-description: Horóscopo semanal sagitario 30 de junio 2025 al 06 de julio 2025. Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Sagitario, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
+title: sagitario 07 de julio 2025 al 13 de julio 2025 
+description: Horóscopo semanal sagitario 07 de julio 2025 al 13 de julio 2025. No quieres pasar más tiempo equivocándote, sobretodo porque en el fondo sabes que lo estás haciendo, y cuando de repente ves todo el tiempo que llevas así te entra todo el bajón, ¿cómo has podido aguantar tanto?
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2025-06-30
+ogimg: /images/zodiac/semanal_sagitario.png#2025-07-07
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-06-30'
+ lastmod: '2025-07-07'
 ---
 
 
 
-## Tienes que ser fuerte para evitar tentaciones que sólo te traerán más problemas. Sabes cuando debes decir “NO” pero parece que te cuesta. En serio Sagitario, más de lo mismo no, si tienes que equivocarte que sea con algo nuevo… 
+## No quieres pasar más tiempo equivocándote, sobretodo porque en el fondo sabes que lo estás haciendo, y cuando de repente ves todo el tiempo que llevas así te entra todo el bajón, ¿cómo has podido aguantar tanto?
 
-Ahora tienes claro que quieres empezar proyectos que hace mucho que estaban en tu cabeza pero que tenías miedo a sacar, ahora no hay persona que pueda frenarte. 
-Estás en ese momento en el que quieres independencia, en el que quieres crecer de una vez como persona. Da igual lo que hagas pero hazlo con ganas y sabiendo que es lo que te gusta.
-Es posible que esta sea una de esas semanas donde no puedes hacer todo lo que quieres, así que es recomendable que te tomes tu tiempo. Algunos de los asuntos principales tienen que ver con señales mixtas o con una persona que se rehúsa a hacerte un favor o darte una mano. Aunque esto parezca ser algo muy frustrante durante los próximos días, es solo temporal. Puede que te des cuenta de que muchas cosas se solucionan solas si puedes esperar hasta la semana que vi
+Últimamente sientes que las decisiones que has tomado no han sido las más acertadas pero todo se puede arreglar. 
+Como si, por momentos, no fueras capaz de encontrar salida a tus preocupaciones, a todo ese estrés mental, a ese círculo en el que te has metido solo.
+El 10 podría ser un buen momento para una fiesta o celebración con la Luna Llena trayendo consigo un ambiente divertido y optimista. Debido a que es probable que todos anden un poco sensibles, ten cuidado con lo que dices o sugieres. Evita hacer cualquier cosa que pudieras llegar a lamentar unos días más tarde. Mercurio forma un formidable aspecto el jueves y viernes que podría resolver un problema familiar o darle un giro positivo a una idea que ha estado presente desde hace algún tiempo. El domingo podría ser un día profundamente romántico.
 
 ## Dinero
 
-Esta semana es acerca de los aspectos afectando tu casa del karma, vidas pasadas, sueños y el sector de amor. Tus sueños podrían estar llenos de ideas de cómo atraer más dinero, así que pon atención a lo que dicen. Al mismo tiempo, tu sector del hogar es todo menos claro. Ponte a pensar si tiene sentido el continuar pagando la misma renta o si deberías mudarte a un nuevo lugar.
+Todavía hay aspectos restrictivos desacelerando tu sector de dinero, lo cual puede ser frustrante a veces. Pero también se te están dando algunas nuevas órdenes. Lo más afectado es tu principal empleo, el cuál está experimentando un gran cambio. Puede que incluso cambies de carrera o la forma en la que ganas efectivo. Cuida tu salud, la cuál podría llegar a deteriorarse como resultado del estrés. Es mejor prevenir que lamentar.
