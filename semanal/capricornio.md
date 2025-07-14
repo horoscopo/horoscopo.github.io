@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 07 de julio 2025 al 13 de julio 2025 
-description: Horóscopo semanal capricornio 07 de julio 2025 al 13 de julio 2025. La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+title: capricornio 14 de julio 2025 al 20 de julio 2025 
+description: Horóscopo semanal capricornio 14 de julio 2025 al 20 de julio 2025. Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2025-07-07
+ogimg: /images/zodiac/semanal_capricornio.png#2025-07-14
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-07-07'
+ lastmod: '2025-07-14'
 ---
 
 
 
-## La ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+## Vas a atraerlo todo… Todo lo que desees. Así que, ten cuidado con lo que quieres, piénsalo bien porque ahora tu vida está en tus manos y en tu mente…
 
-No te mereces poco Capricornio… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas… Cuando alguien se preocupa por ti, se preocupa todo el tiempo, y eso es lo que vale. No es que todo el mundo que te rodea sea malo, es que aún te queda basura por sacar a la calle. No tomes una decisión a la ligera pues sí o sí tendrás que aceptar las consecuencias. Mejor tómate un tiempo para pensar mejor las cosas. A veces pensamos que porque no recibimos una consecuencia inmediata a nuestras acciones tal vez nunca va a llegar, pero estamos completamente equivocados. Las cosas tarde o temprano pasan factura Capricornio, tanto a ti como a los demás, por eso, procura tener los pies en la tierra y no dejarte llevar por esos arrebatos locos que te están dando últimamente. Es como si quisieras controlarte, porque en el fondo sabes como acaba todo, pero a la vez te frustra no plantar cara a más de uno que tienes metido entre ceja y ceja últimamente. Es complicado. No es una mala semana pero si habrá bastantes altibajos. A veces quieres solucionar tus problemas, a la de ya, poner punto y final a todo y empezar de cero, como si fuera tan fácil. La dificultad contigo es que no son causas tontas, no son cosas que de la noche a la mañana y con un simple perdón puedan solucionarse. Arrastras demasiado desde hace mucho tiempo Capricornio. Así que no, de un día para otro no arreglarás mucho, bueno quizás desahogarte un poco pero, ¿de que te vale eso si volverás de nuevo a lo mismo de siempre? ¿No has pensado en evitar ciertas situaciones que te causan daño? ¿No has pensado en alejarte por un tiempo de personas que en vez de reír te hacen llorar? ¿Por qué no lo haces? Tu respuesta muchas veces es la misma: “No voy a rendirme, esto lo soluciono yo como sea”. Y sí, estás en lo cierto porque si fuera por ti ya lo habrías hecho, el problema es que no tienes por qué solucionarle la vida a otros.
-Podrías estar en desacuerdo con una de tus amistades, quien quizá no tome tus problemas en serio. No permitas que esto llegue a entorpecer su relación. Puede que esta persona no sepa por lo que estás atravesando. Al haber un potente enfoque en un intenso sector de tu carta, podrías trabajar en las cosas a nivel profundo, y tal vez no sea fácil explicárselo a los demás. Si lo analizas con alguien que puede entender lo que estás diciendo, esta sanadora conversación podría beneficiarte. 
- Mientras tanto, cuando el animado Júpiter forma una positiva conexión con el potente Plutón, puede que valga la pena unir los recursos con los de otra persona para convertir una idea en realidad. Por último, si has tenido malentendidos con tus amistades, podrían disiparse el fin de semana cuando el reflexivo Mercurio se vuelve directo. El domingo, la encantadora luna llena en tu sector social podría fomentar nuevos comienzos.
+Es probable que realices o cierres un gran proyecto esta semana, que firmes algún tipo de contrato, o que se acabe algún capítulo de tu vida que estabas deseando cerrar. Pero recuerda estar entero cuando esto pase. Nada de dudas porque si no, podría salir todo mal, podría quedarse en nada al final. 
+Tienes contacto con algunas personas aún que no deberías así que, empieza a limpiar un poco a gran parte de tus contactos. No te hacen del todo bien.
+La presencia del conversador Mercurio en tu signo te lleva a analizar más en profundidad las situaciones y circunstancias que te rodean. De hecho, durante la semana puede desconcertarte o confundirte por completo una relación que te fascina y te asusta un poco al mismo tiempo. El jueves, una poderosa mezcla de energías que incluye al sociable Júpiter podría hacer que te encargues de una situación de una buena vez por todas. Puede que esto sea exactamente lo que necesitas para sentirte de forma más positiva.
 
 ## Dinero
 
-Esta semana tienes algunos desafíos por delante a medida que tratas de encontrar el mejor enfoque para el mes que viene. Ciertos aspectos afectan tu sector de deuda, animándote para que empieces a pagar y abstenerte de gastar más. Tu vida familiar y romántica será tu principal factor de motivación ahora.
+Es probable que estés en un estado mental social con cierta actividad en tu sector de expresión personal y apariencia. Es posible que estés pensando en cambiar la forma en la que te presentas ante el mundo. Suponiendo que un comportamiento profesional significa que puedes conseguir un nuevo empleo, si es que quieres, o elevar tu posición en tu empleo actual. El dinero y las comodidades ejecutivas vienen con la nueva oficina.
