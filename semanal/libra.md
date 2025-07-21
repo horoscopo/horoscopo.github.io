@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: libra 14 de julio 2025 al 20 de julio 2025 
-description: Horóscopo semanal libra 14 de julio 2025 al 20 de julio 2025. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro Libra, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
+title: libra 21 de julio 2025 al 27 de julio 2025 
+description: Horóscopo semanal libra 21 de julio 2025 al 27 de julio 2025. Escapa Libra, escapa de todo, por unos días, por unas semanas, el tiempo que necesites. Ahora no es el momento de pelear por nada, ni de discutir, ni siquiera de decidir, ahora es momento para estar en paz, para estar en calma, lejos de lo que sea, lejos de quien sea. 
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2025-07-14
+ogimg: /images/zodiac/semanal_libra.png#2025-07-21
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-07-14'
+ lastmod: '2025-07-21'
 ---
 
 
 
-## Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro Libra, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
+## Escapa Libra, escapa de todo, por unos días, por unas semanas, el tiempo que necesites. Ahora no es el momento de pelear por nada, ni de discutir, ni siquiera de decidir, ahora es momento para estar en paz, para estar en calma, lejos de lo que sea, lejos de quien sea. 
 
-Hay cosas que no se pueden cambiar Libra, y de verdad, no merece estar toda la vida luchando por ello, por intentar abrir los ojos al resto, por tratar de cambiar opiniones para mejor… Y menos cuando al final eres tú el que gasta tiempo para nada. Hay gente que no quiere abrir los ojos Libra, hay gente que le importa una mierd* el mundo. Y está bien, es respetable, pero aléjate de ellos. Porque personas así no aportan nada, porque roban energía, porque no tienen aspiraciones, porque no motivan al resto. Porque no te motivan a ti. Mira por ti ahora, se tu prioridad, se el número uno en todo lo que hagas, y si el resto quiere estar a tu lado está bien, que esté, pero no te desvivas por nadie como lo has hecho hasta ahora. Deja de castigarte por lo que está fuera de tu control, hay cosas que no se pueden cambiar, así que, no inviertas tanto tiempo en eso. Todos tenemos una historia Libra pero recuérdate que hay más de una elección, no hace falta que te quedes siempre con una cosa, no hace falta aferrarte como has hecho hasta ahora. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
-El Sol entra a un sector más tranquilo y alejado de tu carta astral justo cuando comienza esta semana festiva. Esto marca un período del año donde prefieres tomarte tu tiempo para reflexionar sobre tus prioridades. No te niegues esta oportunidad, ya que te rodean influencias que fomentan el cambio progresivo y constructivo. Te conviene pensar cómo se aplica esto a tu vida y cómo podría cambiarla por completo. La semana festiva se ve muy divertida y esto es algo que disfrutas al máximo.
+No puedes poner piezas en lugares que no corresponden Libra, no puedes forzar situaciones ni tratar de encajar algo cuando es imposible que encaje. Todo tiene un por qué, una razón, un lugar y un momento y pasará en el momento que tenga que pasar. Olvida un poco todo Libra, no des tanta importancia a cosas que no la tienen y ya verás como todo se vuelve a colocar en su lugar. No siempre será el lugar que tú esperes pero sí que será en el que deba. Es triste pero cuando más ignoras, más detrás de ti parecen estar y cuando más cuidas y más proteges más se alejan. Pues eso Libra, ignora un poco. Quizás más de uno debería despertar y entender que no estarás siempre ahí. Mantente siempre fuerte Libra, siempre sonriendo, siempre adelante, a pesar de que haya gente que quiera joderte la vida. Y desconfía hasta que las cosas no se demuestren con hechos, desconfía hasta que de verdad se partan el lomo por demostrártelo. Dentro de muy poco comprenderás quién merece la pena y quien no, pero debes darte un tiempo, y empezar a centrarte en ti mismo. No desperdicies el tiempo en cosas que no te dejan nada de provecho Libra, porque no merece la pena, y los pensamientos malos… ¡fuera! Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierda!
+Últimamente, puede que hayas sentido ganas de estar en el asiento de atrás, en especial con tu planeta regente, en un sector más escondido de tu carta. Pero, aun así, puede que sientas mucha compasión hacia los demás y demuestres una gran capacidad para brindar tu apoyo. Probablemente sentirías incomodidad si no te lo pidieran. Si has tenido problemas con otra persona, no te lo tomes a pecho. Puede que esta persona tenga sus propios problemas que enfrentar. Por último, puede que te llamen para ayudar a alguien que necesita un consejo.
 
 ## Dinero
 
-Es un buen momento para utilizar todos tus poderes de concentración y creatividad para pensar en nuevas maneras de traer efectivo. Los aspectos armónicos hacen de esto aún más cierto por ahora. Tus redes sociales tienen un valor incalculable en este momento y pueden proporcionar oportunidades para adquirir conocimiento interno de nuevas oportunidades de empleo en tu campo y las mejores formas de pedir aumentos y promociones. Asegúrate de darles las gracias con una divertida celebración.
+Hay mucho sucediendo en tu sector de trabajo. Sin duda, tu trabajo ha llamado recientemente la atención de tus superiores, y si no, toma algunas medidas fuertes pero sutiles para asegurarte de que lo que haces es tomado en cuenta. Es posible que desees mantener escritos tus logros. Podría ser útil el tener notas la próxima vez que las revisiones de desempeño tomen lugar. Es necesario construir tu caso si lo que quieres es un aumento de sueldo.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 14 de julio 2025 al 20 de julio 2025 
-description: Horóscopo semanal sagitario 14 de julio 2025 al 20 de julio 2025. Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
+title: sagitario 21 de julio 2025 al 27 de julio 2025 
+description: Horóscopo semanal sagitario 21 de julio 2025 al 27 de julio 2025. Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2025-07-14
+ogimg: /images/zodiac/semanal_sagitario.png#2025-07-21
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-07-14'
+ lastmod: '2025-07-21'
 ---
 
 
 
-## Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
+## Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
 
-Te está así como dando pereza siempre lo mismo. Siempre teniendo que demostrar cuáles son tus intenciones y sobretodo, demostrárselo a personas que ahora ya ni te van ni te vienen. Sagitario, aunque hayas roto con un pasado que te estaba amargando no lo has hecho indefinidamente, no lo has hecho para siempre, o al menos, eso es lo que parece. Eso de que “estaré ahí para siempre” es muy cierto en tu caso pero no seas idiota Sagitario, porque a veces de bueno das la mano y te toman todo el brazo. Si has roto con el mal rollo, has roto. No dejes que vuelva, no dejes que se acerque, no lo permitas. Que sí, que puedes creer que estás súper curado ya, que tus heridas no sangran, pero te estarías engañando Sagitario. La etapa que llega ahora tienes que disfrutarla, tienes que vivirla intensamente, y probablemente tengas que pasar más tiempo solo/a. Para conocerte a ti mismo/a, para entender qué es lo que quieres, qué es lo que buscas… Conoce Sagitario, conoce a todo el mundo que puedas, y comparte… Y cuando te busquen, huye, en serio huye, no entres en el trapo, no dejes que te atrapen para tener más de lo mismo.
-La semana que se aproxima tiene algunas cualidades muy sociables, y mientras más te concentres en organizar actividades y conectar con los demás, más divertido puede ser. Sin embargo, puede que notes un poco de resistencia en una persona con autoridad, y esto podría generar una discusión sobre un problema clave. Una actitud tentativa podría abrir el camino para que lleguen a un punto medio que les sirva a ambas partes. En cuanto a dinero, puede que veas una oportunidad para que tu efectivo fluya más.
+A veces quieres llegar al fondo de cualquier cosa Sagitario, pero el problema es que también a veces, eso, no te hace ningún bien. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo Sagitario. De verdad, a veces es mejor tener paz que tener razón. ¿Por qué no tratas de pasar del mal rollo? ¿Por qué no te alejas de lo que te pone los nervios de punta? Quizás debas dar algunas lecciones y quizás deberías hacerte de rogar un poco. Al menos para que el resto despierte. Muchos no saben lo que se pierden al perder a Sagitario, eh. Esta semana deberías hacerte valer un poco, deberías recordarte todas las lecciones que ya llevas aprendidas y dejar de repetir patrones todo el tiempo. Sé valiente y no te engañes a ti mismo. Cuando haces algo por alguien no esperas que hagan lo mismo por ti porque lo haces de corazón pero tampoco esperas que no muevan ni un dedo. Tú sabes de sobra lo que funciona y lo que no funciona Sagitario así que, por favor, empieza a ser un poco más productivo y deja de perder el tiempo. Ve a por lo que interesa, a por lo que aporta, a por lo que te hace mejor. No vuelvas a dejar tus planes de lado por nada ni por nadie.
+Frena cualquier deseo de gastar bajo impulso y en vez considera invertir dinero extra en áreas más rentables, como propiedades o estudio. ¿Escucharás el llamado de la aventura cuando el Sol y Mercurio te animen a aprender de nuevas experiencias? Los viajes, trabajar en el extranjero y la oportunidad de ampliar tu influencia podrían llamarte la atención. En el campo de desarrollo profesional, frena tus impulsos y ve con la corriente durante las próximas semanas conforme una oportunidad laboral podría perder su atractivo.
 
 ## Dinero
 
-Como genio de creación de redes, bien sabes cómo hacerlo. Tus relaciones son importantes no sólo por motivos de negocios, sino también para desahogarte después del trabajo. Con un aspecto armonioso en tu sector social, estás haciendo más amigos e incluso sentando las bases para futuras colaboraciones. Has estado haciendo considerables acuerdos, así que no es mal momento para sacar la cuenta final. Cuidado con gastar excesivamente en tus amistades.
+El Universo está aumentando ahora tu capacidad de ganar. Esta es una gran noticia para tu estado de ánimo, que puede estar vinculado a la libertad que percibes como la que te otorga el dinero, y una buena noticia para tu ambición, que tiende a estar ligada a la forma en la que percibes tu justa compensación. A medida que tus metas profesionales empiezan a hacerse realidad, el flujo de efectivo también mejora. ¿Qué podría no gustarte de tu vida ahora?
