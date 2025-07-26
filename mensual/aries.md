@@ -17,12 +17,8 @@ sitemap:
 ---
 
 
- > Aries, vas a querer cerrar el mes con todos los frentes que tenías abiertos solucionados. Te centrarás mucho en ofrecer todo el cariño que se merecen tus seres queridos y, en estas fechas, eso es algo que se agradece mucho. Las oportunidades aparecen y son interesantes. Cuentas con una energía que te anima a correr riesgos. Para que esto ocurra, confía en tus habilidades y capacidades. No tengas miedo de reclamar lo que es tuyo. Ya es hora de progresar y librarte de lo que te impide que lo hagas. Ponerte en marcha mejorará tu humor y tu entorno te apoyará en todo lo que hagas durante el mes de julio y tu vida empezará a tomar otro color.
+ > Agosto trae a Aries un impulso renovador que favorece los cambios valientes y los nuevos comienzos desde la autenticidad. En el amor, florecen vínculos estables y llegan conexiones profundas para quienes están abiertas a sentir. Profesionalmente, tu liderazgo brillará y abrirá puertas importantes. La clave estará en cuidar tu energía y confiar en tu poder personal para atraer lo que deseas.
 
 
 
-Mercurio retrógrado ingresa a Escorpión el 1 de julio. Tómate las cosas con mucha calma, y sé feliz. La vida en el hogar se vuelve más brillante, feliz y cómoda con la luna llena del día 10. Siéntete a salvo y a gusto en tu propio espacio. Ordena un poco, y vuelve a descubrir el paraíso en el que vives. Mercurio se torna directo también ese día. Los malentendidos triviales e insignificantes no se acabarán de inmediato, pero comenzarán a disminuir. 
-El 12 de julio, Mercurio entra a Sagitario. Siente el espíritu de las festividades, y diviértete más. Mercurio forma una conjunción con Júpiter el día 24, el mismo día que el sol entra a Leo. Todas las sugerencias e ideas que tengas serán apropiadas y agradables para todos. 
-Atraviesa con elegancia todas las reuniones de las festividades durante la luna nueva del 24 de julio. Otras personas brindarán la hospitalidad, así que todo lo que debes hacer es ir y lucir espectacular. Resuelve una gran duda cuando Mercurio forma una cuadratura con Neptuno el día 24. 
-Días destacados: 6, 10, 21
-Días desafiantes: 24, 29
+Durante la Luna Llena del 9 de agosto, tus amistades y tu vida social cobran protagonismo. No permitas que pequeñas inquietudes te distraigan de conectar con tu grupo. Haz grandes planes, pero mantén tus actos modestos por ahora. La Luna Nueva del día 23 trae el poder para dar un paso valiente hacia una nueva rutina de trabajo o de bienestar. Quizás es el momento de empezar ese nuevo hábito saludable o de organizar tu día a día de una forma más eficiente. El amor, por su parte, necesita refrescarse con nuevas actividades y comunicación. El final del mes se sentirá mucho más calmado y bello si te enfocas en los detalles.

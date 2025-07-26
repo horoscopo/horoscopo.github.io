@@ -17,8 +17,8 @@ sitemap:
 ---
 
 
- > Capricornio, la calma llega siempre después de tormenta y eso es lo que te sucederá durante un julio tranquilo y equilibrado. Estarás tan enamoradiza que podrás tener una gran sorpresa amorosa y tu inteligencia será clave para cerrar un ciclo que llevabas tiempo queriendo acabar.
+ > Capricornio, puede que agosto te dé un poco de miedo por todos los cambios que vas a vivir, pero te acostumbrarás y serán para bien. Tus encantos harán que conquistes cuando quieras y donde quieras, mientras que el equilibrio y la serenidad serán la clave para que seas feliz.
 
 
 
-¿Está alguien en casa resistiéndose a tus ideas o deseos? Esto podría detenerse después de la Luna Llena del 10 de julio. O quizás has querido volver a diseñar o remodelar una habitación u otro espacio privado. Comienza ahora y obtén la cooperación e inspiración de todos a tu alrededor. La Luna Nueva de 24 de julio es toda tuya. ¡Sal a bailar sobre el escenario de la vida! Eres una persona demasiado disciplinada e inteligente como para exagerar y causar algún problema o molestar a alguien. Si alguien más hace olas, mantendrás el control y hasta tal vez ganes algunos nuevos aliados. Finalmente, el sextil entre la Luna y Saturno del 27 de julio le da un suave final a tu mes.
+Durante la Luna Llena del 9 de agosto, un asunto financiero llega a un punto culminante. Es un buen momento para revisar tu presupuesto y valorar tus recursos. Puedes lograr que otros cooperen contigo si tus planes son claros. La segunda mitad del mes te invita a expandir tus horizontes. La Luna Nueva del 26 de agosto activa tu deseo de viajar, aprender y explorar nuevas filosofías. Puede que surja la oportunidad de un viaje o de inscribirte en un curso que te interese. Escuchar más música o meditar pueden ayudarte a mantener tu equilibrio mientras te abres a lo nuevo.

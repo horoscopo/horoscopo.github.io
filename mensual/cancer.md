@@ -17,12 +17,11 @@ sitemap:
 ---
 
 
- > Cáncer, este mes todo lo que has planificado empezará a tomar forma. Muchos de tus propósitos pueden cumplirse, pero no te duermas en los laureles. La fuerza que has ido ganando te traerá un mayor impulso. Por fin podrás dejar atrás viejas cargas, sobre todo a partir de la segunda mitad del mes.
+ > Agosto trae a Cáncer una poderosa energía creativa que impulsa nuevos comienzos y decisiones importantes. En el amor, florecen los lazos emocionales, mientras regresos del pasado pueden sorprender. El ámbito profesional se fortalece con justicia y claridad, favoreciendo trámites y acuerdos. Será clave cuidar el equilibrio físico y emocional para cerrar el mes con plenitud y renovación.
 
 
 
-Urano entra a Tauro en julio y permanece aquí durante los próximos siete años, lo que hace que tus relaciones se desarrollen de formas inesperadas. Podría haber segundas oportunidades en el amor, o con algo que quieres con todo tu corazón y que casi habías abandonado. En lugar de tener expectativas con los demás (para bien o para mal), primero aclara qué es lo que quieres. 
-Ve más allá de las fantasías románticas superficiales, de tu necesidad de validación, o del deseo de que tus talentos sean reconocidos. ¿Qué significa el amor para ti? ¿Qué te da satisfacción creativa, personal y sexual? ¿Cómo te sientes con respecto a los niños? El amor no es algo que necesitas o das, el amor eres tú. Hay una cantidad infinita de amor y creatividad dentro de ti. 
-Lo que deseas está cerca de tu hogar, más de lo que crees. Sé transparente, y atraerás a las personas que ven tu infinita profundidad y belleza interior. Lla luna llena en Libra marca un punto crucial en tu habilidad para sentirte a salvo en una situación o relación doméstica. El presente no es el pasado. Reconoce cualquier miedo subconsciente con respecto a las relaciones que necesita sanar. No estás en soledad. Eres una persona querida, y tienes las habilidades, talento, pasión, apoyo y visión para darle vida a un sueño. 
-Días destacados: 10, 14, 20
-Días desafiantes: 1, 6, 21
+Este mes trae una oportunidad para revisar aquello que te impide realizar un sueño. La Luna Llena en Acuario del 9 de agosto te lleva a una búsqueda espiritual, un viaje hacia las cavernas de tu psiquis para entender mejor tus relaciones más íntimas y los recursos que compartes. Es un momento para liberarte de ataduras emocionales y descomponer valores que ya no te sirven. Estás abriendo un agujero hacia tu subconsciente para liberarte. Hacia la segunda mitad del mes, la energía cambia tu enfoque hacia tu entorno y tu manera de comunicar. La Luna Nueva en Virgo del 23 de agosto te prepara para ver tus ideas desde una nueva perspectiva. Es el momento de expresar tu verdad y reconocer tus sentimientos, sin miedo a pedir lo que necesitas. Abandona las expectativas sobre el origen de las cosas y ábrete a recibir. Los sueños pueden volverse realidad, pero primero debes atreverte a soñar.
+
+Días destacados: 4, 22, 29 
+Días desafiantes: 5, 18, 21

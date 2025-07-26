@@ -17,8 +17,13 @@ sitemap:
 ---
 
 
- > Leo, este mes Marte y Venus en tu signo ¡te anuncian unas semanas intensas! Enseñarás a los demás lo mejor de ti, pero también lo peor. Esta temporada podrás ponerte en marcha para llevar a cabo los proyectos que tienes en mente. Gracias a tu carisma te ganarás la confianza de aquellos que pueden ayudarte. Tu seguridad personal te ayudará cuando las tensiones planetarias hagan su efecto, pero ayuda al cosmos poniendo de tu parte.
+ > Leo, muy atenta porque se viene un mes de agosto que será espectacular para tu signo. Y es que te sentirás seductora, tenaz, confiada y muy segura de ti misma. Así que no lo dudes y aprovecha esta energía de los astros para apostar fuerte por tus sueños y dibujar tu mejor sonrisa.
 
 
 
-Un proyecto laboral nuevo podría mantener tu tiempo ocupado alrededor de la Luna Llena del 10 de julio. Ponte de pie, intervén y toma el control. Asume bien la autoridad y delega con estilo. La gente va a querer trabajar contigo. La Luna Nueva del 24 de julio ilumina tu vida hogareña y espacio personal. Piensa más audazmente y disponte a hacer exactamente lo que quieres sin importar lo que piensen los demás. El confort y el gusto personal son subjetivos y tú tienes derecho a expresarte y complacerte. Marte conjunta a Saturno el 24 de julio. Reduce tu velocidad, mantén el control de una situación desafiante y obtén el respeto que te mereces.
+¡Feliz mes de cumpleaños, Leo! Con el Sol brillando en tu signo durante las primeras tres semanas, estás en tu elemento, recargado de energía y confianza. Este es tu momento para brillar y enfocarte en tus metas personales.
+La Luna Llena en Acuario del 9 de agosto pondrá el foco en tus relaciones más importantes, pudiendo traer un momento de claridad o culminación con un socio o pareja. Sin embargo, ten cuidado con las malas comunicaciones a partir de principios de mes, cuando Mercurio comience su retrogradación. Este retroceso te impactará a nivel personal y financiero, por lo que es crucial que revises dos veces tus planes, gastos y comunicaciones.
+Cuando la temporada de Virgo comience el día 22, tu necesidad de una mayor seguridad financiera y emocional será más pronunciada. Este clima cósmico, reforzado por la Luna Nueva en Virgo del 23 de agosto, es perfecto para meditar sobre tus metas financieras y planificar el futuro. Tu gusto por las cosas buenas de la vida podría chocar con tu motivación de ahorro, lo que hace importante que encuentres un equilibrio saludable entre los gastos inteligentes y los gastos indulgentes.
+
+Días destacados: 7, 11, 18
+Días desafiantes: 16, 22, 26

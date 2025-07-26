@@ -15,7 +15,7 @@ sitemap:
 ---
 
 
-Te sentirás con energía (tal vez, demasiada) durante la Luna Llena del 10 de julio. Mantén una vida diaria simple y no te distraigas con interrupciones ni preocupaciones de personas que están mucho más distraídas que tú. Es un periodo de tiempo ajetreado, y muchos podrían descontrolarse. La Luna Nueva del 24 de julio viene cargada de energía y ambición. Podría ser difícil pensar sin sentir distintas emociones. Si evitas la impaciencia o impulsividad, todo puede estar bien. El 28 de julio, la conjunción entre Mercurio y Marte en Cáncer te otorga capacidades y poder adicional para lograr algo difícil que ha estado pendiente.
+Es un mes influyente, Tauro. El Sol en Leo ilumina tu vida familiar, invitándote a conectar con tus raíces. La Luna Llena en Acuario del 9 de agosto trae cambios importantes y una culminación en tu carrera y vida pública. Podrías recibir un reconocimiento o alcanzar una meta importante que te libere de dudas. Cuando el Sol entre en Virgo el día 22, la energía cambia hacia el placer y la creatividad. Este impulso se acentúa con la Luna Nueva en Virgo del 23 de agosto, iluminando tu quinta casa del romance y la creatividad. Es un momento ideal para empezar un nuevo pasatiempo o abrirte al amor. Con Mercurio retrógrado afectando estas áreas, es un tiempo de reevaluar qué te hace feliz antes de lanzarte a lo nuevo. ¡Buena suerte este mes, Tauro!
 
-Mejores días: 4, 10, 21
-Peores días: 13, 30
+Días destacados: 5, 13, 23
+Días difíciles: 2, 22, 30

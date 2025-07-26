@@ -15,7 +15,4 @@ sitemap:
 ---
 
 
-Haz una nueva amistad durante la luna llena del 10 de julio, o haz una conexión más fuerte con alguien que nunca llamó mucho tu atención. Tu círculo de amistades y gente del vecindario cada vez se hace más grande. El sol forma una conjunción con Urano el día 18. ¡Es momento de ser una persona ingeniosa y atrevida! Ponte en el centro de atención en el trabajo o en la vida pública durante la luna nueva del 24 de julio. Ten ambición y suerte, pero no te comportes demasiado audaz. Esto podría tener muchas buenas reacciones en cadena durante las próximas semanas. Si has deseado desempeñar un papel más importante en un grupo social o laboral, podría empezar ahora. 
-
-Días destacados: 2, 7, 29
-Días desafiantes: 22, 26
+Tu vida familiar y tu mundo emocional se iluminan con la Luna Llena del 10 de agosto. Un asunto relacionado con el hogar llega a su punto clave. Ahora no es el momento de esconderte, sino de atender tus bases. Hacia fin de mes, el foco se mueve a tu vida social. La Luna Nueva del 23 de agosto destaca tus amistades y tus metas a largo plazo. Si se te presenta la oportunidad de unirte a un nuevo grupo o proyecto, no la descartes. Tómate tu tiempo y pesa bien las posibilidades. Actúa inteligentemente y con prontitud.

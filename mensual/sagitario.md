@@ -17,8 +17,8 @@ sitemap:
 ---
 
 
- > Sagitario, después de unos meses en los que no te ha dado tiempo ni a pararte a pensar, por fin llega un mes de julio en el que sabrás de verdad lo que quieres, lo que servirá para tomar las riendas de tu vida para encontrar así el equilibrio.
+ > Sagitario, este mes aparecerán nuevas relaciones, encuentros y oportunidades afortunadas que te animarán a hacer pequeños cambios donde se ha asentado el aburrimiento. Aunque aún puedes tener algunas dificultades en tus relaciones por las energías que emanan los astros, favorece los compromisos y haz algunas concesiones. Manteniendo la calma y estando atento a los agravios, tus deseos se cumplirán preservando el equilibrio que tanto necesitas.
 
 
 
-El amor brilla en el aire a tu alrededor bajo la Luna Llena del 10 de julio. Podrías conocer a alguien muy cercano al “demasiado bueno para ser verdad” cuyos encantos necesitarían sólo un día para disminuir a proporciones mortales. Alrededor de la Luna Nueva del 24 de julio, alguien podría inesperadamente salir a tu rescate. Puede que incluso no hayas estado conscientes de que algo iba mal o faltaba. Tu superhéroe del momento también podría estar muy bien disfrazado. Anda y disfruta de que alguien te cuide, para variar. Finalmente, el trígono entre Júpiter y la Luna del 30 de julio termina el mes con dulzura; aunque tal vez después de algunos altibajos emocionales.
+La Luna Llena del 9 de agosto enfoca tu atención en cuidarte mejor. Tienes tus propias prioridades, y puedes buscar más tiempo de calidad a solas para hacer los cambios que sientes que necesitas. Si la gente te molesta, rechaza invitaciones y minimiza el contacto por un tiempo. Prospera durante la primera parte del mes con Mercurio retrógrado. La Luna Nueva del 23 de agosto enriquece ampliamente tus propósitos y recursos personales. Puedes sentir que este es el momento para vivir la vida en grande. Lee, medita, disfruta de tener momentos de tranquilidad, y deja que un avance kármico se revele. 
