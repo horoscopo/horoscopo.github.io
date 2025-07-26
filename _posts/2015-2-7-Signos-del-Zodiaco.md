@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 25 de julio 2025
-description: Horóscopos del dia de hoy 25 de julio 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 26 de julio 2025
+description: Horóscopos del dia de hoy 26 de julio 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-07-25
+ lastmod: 2025-07-26
 ---
-Los sentimientos son susceptibles el día de hoy. Por lo que no agites aún más las cosas cuando la Luna en el feroz Leo aspecte a Urano y a Plutón. Venus se encuentra a punto de cambiar de signo esta noche, cuando las parejas deberían de darse el beneficio de la duda. Solteros, el planeta del amor encontrándose en zona neutral despierta mucha incertidumbre. Este no es buen momento para empezar algo nuevo.
+Cualquiera que sea lo que cierta persona sabe, tiene propensión a guardárselo cuando Mercurio entre a Escorpión el día de hoy. Desde hoy y durante los próximos dos días se requerirá de mucha energía para poder guardar secretos. Esta noche, escucha y espera o las cosas se complicarán. Las relaciones están sujetas a las reglas básicas bajo la conjunción entre Marte y Venus en Virgo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
