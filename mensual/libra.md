@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Libra Julio 2025
-description: El Horóscopo Julio de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Libra Agosto 2025
+description: El Horóscopo Agosto de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/libra/
 amplink: /horoscopo-mensual/amp/libra/
 home: FALSE
-keywords: horóscopo julio, horoscopos en español, horóscopo Libra julio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Libra, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo agosto, horoscopos en español, horóscopo Libra agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Libra, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/libra_mes.png#2025-06-27
+ogimg: /images/mes/libra_mes.png#2025-07-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-06-27'
+ lastmod: '2025-07-26'
 ---
 
 

@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Géminis Julio 2025 
+title: Horoscopo Géminis Agosto 2025 
 permalink: /horoscopo-mensual/amp/geminis/
 normallink: /horoscopo-mensual/geminis/
 home: FALSE
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Géminis_mes.png#2025-06-27
+ogimg: /images/mes/Géminis_mes.png#2025-07-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-06-27'
+ lastmod: '2025-07-26'
 ---
 
 

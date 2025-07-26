@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Virgo Julio 2025 
+title: Horoscopo Virgo Agosto 2025 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Virgo_mes.png#2025-06-27
+ogimg: /images/mes/Virgo_mes.png#2025-07-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-06-27'
+ lastmod: '2025-07-26'
 ---
 
 

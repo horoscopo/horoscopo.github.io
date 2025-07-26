@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Acuario Julio 2025 
+title: Horoscopo Acuario Agosto 2025 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Acuario_mes.png#2025-06-27
+ogimg: /images/mes/Acuario_mes.png#2025-07-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-06-27'
+ lastmod: '2025-07-26'
 ---
 
 
