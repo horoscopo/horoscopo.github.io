@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 21 de julio 2025 al 27 de julio 2025 
-description: Horóscopo semanal virgo 21 de julio 2025 al 27 de julio 2025. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
+title: virgo 28 de julio 2025 al 03 de agosto 2025 
+description: Horóscopo semanal virgo 28 de julio 2025 al 03 de agosto 2025. Estás pasando un momento un poco extraño, estás cerrando algunos ciclos y por otro lado estás abriendo otros pero no estás seguro del todo. De nada. El corazón te dice unas cosas, la cabeza otras, y en medio estás tú, dejándote guiar a veces por una cosa pero sin desatender a la otra. 
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2025-07-21
+ogimg: /images/zodiac/semanal_virgo.png#2025-07-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-07-21'
+ lastmod: '2025-07-28'
 ---
 
 
 
-## Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… 
+## Estás pasando un momento un poco extraño, estás cerrando algunos ciclos y por otro lado estás abriendo otros pero no estás seguro del todo. De nada. El corazón te dice unas cosas, la cabeza otras, y en medio estás tú, dejándote guiar a veces por una cosa pero sin desatender a la otra. 
 
-A veces sientes como si no avanzaras Virgo, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente. Las cosas de palacio van despacio ¿ok? Así que no desesperes. Estás en una de esas etapas en las que lo quieres todo ya, aquí y ahora, que lo malo pase pronto y que lo bueno se quede en tu vida por mucho tiempo pero date eso, TIEMPO. Esta semana tendrás momentos de mucho estrés emocional, hay cosas que no están solucionadas del todo pero todo llega, y antes de lo que esperabas… Deja de preocuparte por los fallos que ya se cometieron y empieza a darle importancia a las oportunidades que puedes dejar escapar si no reaccionas a tiempo y si no reaccionas bien. Prueba Virgo, prueba todo lo que puedas y más, no hace falta querer tener una vida perfecta, lo suyo es tener una vida FELIZ. El hecho de que puedas dejar muchas cosas atrás no es malo, porque otras muchas llegan, pero no fuerces la situación ni esperes que todo cambie de un día para otro. Tienes que trabajártelo, tienes que ir paso a paso y pensar que no tienes una buena o mala vida, si no sólo una vida, y que está en ti hacerla buena o mala. Ánimo Virgo, feliz semana.
-Las probabilidades de una transformación interna son altas. Puede que tengas ganas de explorar problemas que han sido un lastre. Y seguro te irá bien, ya que, al identificar y trabajar con emociones intensas, las cosas pueden comenzar a solucionarse y entonces serás capaz de olvidarte de este asunto. A partir del viernes, puede que también busques opciones más ligeras y divertidas, como unos días de descanso o un pequeño viaje a un lugar que te parezca inspirador. También te atrae la idea de disfrutar una nueva experiencia.
+Tienes que improvisar más Virgo, tienes que dejar a un lado lo políticamente correcto porque aunque tú hagas las cosas bien y como deben hacerse, después, cualquier imbécil te jode a ti la vida por hacer las cosas a su manera. Mira Virgo, en serio, cambia el rumbo, aunque sea un poquito, tienes que aprender a dar media vuelta cuando de verdad quieras hacerlo, y no tener que aguantar estupideces de nada ni de nadie. Tienes que aprender a ver quien realmente se subiría al barco contigo si te marchas hacia otro lado y quien te apoyaría para que lo hicieras. Tienes que darte cuenta de tantas cosas… Así que, empieza a testar a algunos, empieza a ponerles un poco al límite. Estás en ese punto en el que todo te da un poco igual, en el que vives los días porque tienes que vivirlos, así como mecanizado, robotizado Virgo… Y tú no eres así… Quizás estás mirando hacia donde no debes mirar… Si quieres caminar hacia delante no puedes quedarte con lo que “tienes seguro”, porque en el fondo no es tan seguro ni tan estable como tu piensas pero qué pasa, que hasta que no se rompa en mil pedazos no cambiarás el chip? Pues no Virgo, en serio, ves cambiándolo ya, antes de que ocurra lo peor. Fluye esta semana y deja que la vida te de sorpresas… Y agarra esas sorpresas. No tienes nada que perder. Feliz semana Virgo.
+Es posible que tu mente esté cautivada con todo tipo de aventuras y oportunidades. A pesar de ello, trata de no dejarte llevar demasiado por la emoción. Con Marte en Aries y en tu sector de viajes y exploración, puede que no sea fácil apegarte a un plan o idea debido a que el aburrimiento podría invadirte con bastante rapidez. Sin embargo, si vas a llegar a alguna parte en lo absoluto, tendrás que tomar una decisión y apegarte a ella. Tal vez no tendrás tanta tentación a abandonar el barco si involucras a otros en tus planes.
 
 ## Dinero
 
-Esta semana se obtiene un agradable descanso. Gente con la que pudiste haber perdido contacto está de vuelta en la escena. Una o más de estas personas más podría traer excelentes oportunidades comerciales. No tienes que entrarle a todos y cada uno de ellos, pero sin duda escucha las ideas que tengan. Debido a que hay grandes aspectos en tu carta ahora, tu influencia sobre los grupos sociales es cada vez mayor. Las esperanzas, los sueños y el dinero no están muy lejos. Deja que todos vengan hacia ti.
+Te encuentras en un momento de aumento de actividad social, lo que puede ayudar a cualquier empresa de negocios puesta en marcha recientemente. Con cierto enfoque en grupos, política y negocios personales, estás a punto de hacer un gran cambio en tu vida; uno que puede acabar afectando la forma en la que vives. Es más fácil comunicarse con grupos acerca de tus ideas y de influir en la opinión pública a tu favor.

@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: piscis 21 de julio 2025 al 27 de julio 2025 
-description: Horóscopo semanal piscis 21 de julio 2025 al 27 de julio 2025. Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
+title: piscis 28 de julio 2025 al 03 de agosto 2025 
+description: Horóscopo semanal piscis 28 de julio 2025 al 03 de agosto 2025. Empieza a hacerte promesas a ti mismo Piscis, empieza a prometerte amor propio, hoy y siempre. 
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2025-07-21
+ogimg: /images/zodiac/semanal_piscis.png#2025-07-28
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-07-21'
+ lastmod: '2025-07-28'
 ---
 
 
 
-## Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
+## Empieza a hacerte promesas a ti mismo Piscis, empieza a prometerte amor propio, hoy y siempre. 
 
-Lo más complicado es siempre el principio, de todo, una vez que te has subido al “barco” no vuelvas a tirarte al agua, ¿me explico? 
-Y si aún tienes dudas sobre algo, tómate tu tiempo para decidir, a solas, sin que nadie pueda darle más vueltas a tu cabeza…
-La actual alineación podría coincidir con ideas para crear una oficina o iniciar un negocio hogareño que puedas operar desde la mesa de tu hogar. El actual enfoque en Virgo te anima a pensar en el futuro, crear un plan de negocios y descifrar el costo que involucraría hacerlo. Puede que también quieras expandirte mediante la compra de una propiedad más grande, incrementar el número de habitaciones que tienes, o inclusive extender tu familia. Sin embargo, trate de evitar tomar decisiones importantes alrededor de la Luna Nueva del 24.
+Estás bien aquí, estás bien allí, y en cuanto las cosas se complican un poquito, por poco que sea, huyes. Está bien que vivas de esas manera, buscando en realidad cualquier lugar que te de felicidad, cualquier momento sea cual sea y donde sea. Pero 
+ un poquito de ella.
+Con algunos aspectos súper positivos esta semana, podrían aparecer nuevas opciones profesionales como por arte de magia. Si estás buscando un nuevo trabajo, piensa en el pasado y en las habilidades y capacidades que pusiste en práctica en tus años y trabajos anteriores. Incluso si debes mejorarlas, puede que veas que son exactamente lo que una persona en particular está buscando y que te abren las puertas a un nuevo trabajo o a un contrato. Por otro lado, sé paciente con tus finanzas. Trata de ahorrar para que puedas tener efectivo de reserva para ocasiones inesperadas.
 
 ## Dinero
 
-Esta semana tienes una gran cantidad de impulso para atraer más lana. Es posible que solo se trate de que tu ambición esté llegando a la superficie conforme los demás te ven como la persona exitosa en la que estás en proceso de convertirte. Podría haber cierta tensión con colegas o conocidos sociales. Sólo asegúrate de que no apostar la granja.
+Lo tuyo es el poder ahora. Los demás acuden a ti en busca de respuestas y tú se las proporcionas - por un precio. Cierta tensión puede surgir entre tu tiempo de descanso y tu imagen. Cierta actividad en tu sector de viajes y educación superior indica que piensas en qué parte te vendría bien reforzar tus habilidades. Clases de fin de semana podrían permitirte cobrar más.
