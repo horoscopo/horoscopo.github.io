@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 30 de julio 2025
-description: Horóscopos del dia de hoy 30 de julio 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 31 de julio 2025
+description: Horóscopos del dia de hoy 31 de julio 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-07-30
+ lastmod: 2025-07-31
 ---
-Podría haber obstáculos hoy. En el lado positivo, puedes hacerles frente justo a la cara y alcanzar el éxito conforme el Sol cuadra al suertudo Júpiter. Esta noche, utiliza el momento oportuno ofrecido por el oportuno trígono entre la Luna y el poderoso Marte. Tienes un poco de suerte de tu lado.
+Prepárate para tener profundos pensamientos y que tu mente sea activada místicamente cuando Mercurio en Piscis conjunte a Neptuno. Esta noche, la Luna conectando con Marte intensifica una dulce urgencia de emociones, pero con Venus a 29 grados, uno espera que sea la otra persona quien dé el primer paso... sin embargo, no lo da. Es en momentos como éste cuando las atracciones no llegan a ninguna parte, de manera temporal.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
