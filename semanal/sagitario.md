@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 28 de julio 2025 al 03 de agosto 2025 
-description: Horóscopo semanal sagitario 28 de julio 2025 al 03 de agosto 2025. Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
+title: sagitario 04 de agosto 2025 al 10 de agosto 2025 
+description: Horóscopo semanal sagitario 04 de agosto 2025 al 10 de agosto 2025. Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así Sagitario, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2025-07-28
+ogimg: /images/zodiac/semanal_sagitario.png#2025-08-04
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-07-28'
+ lastmod: '2025-08-04'
 ---
 
 
 
-## Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar. 
+## Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así Sagitario, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
 
-Y aunque por dentro te tiemblen las piernas sabes lo que está bien y lo que está mal, sabes lo que te hace daño hoy y lo que te hará daño mañana.
-Puede parecer que debes elegir entre tu pareja y tu familia, lo que podría sacar a la luz tu lado diplomático y de mucho tacto. La forma en que manejes esto podría hacer que la semana sea mucho más placentera. Debido a que Mercurio y Saturno se vuelven retrógrados esta semana, podrían producirse demoras con respecto a finanzas compartidas y asuntos de comunicación. Ten cuidado al firmar cualquier documento importante. Si compras artículos de gran valor, guarda los recibos y documentos en caso de que necesites devolver algo.
+Eres demasiado honesto con el resto Sagitario y a pesar de que a veces quieras esconder tus sentimientos, no puedes, y en el fondo llevas siempre el corazón en la manga… Es difícil comprenderte Sagitario, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones… Es complicado para ti encontrar a alguien que de verdad comprenda que sólo es miedo al dolor, que tú lo que quieres es amor, amor de esos de película, romance puro, dulce, fiel y sincero… Que quizás con un abrazo se solucionaría tanto, con una palabra bonita, con un “te quiero” o “estoy aquí”… Pero no lo pides… Ni tampoco quieres. Siempre fuiste de los que prefieren esperar a que al resto les salgan los detalles. Y es complicado, complicado porque has estado más destrozado de lo que has sido querido. No confías fácilmente, siempre estás alerta, esperando esa “puñalada”, esperando esa traición… Tienes que cambiar el chip Sagitario, tienes que tratar de fiarte en quien de verdad te está demostrando confianza. No renuncies a las cosas bonitas, no renuncies a empezar un nuevo camino, a dejarte querer, no renuncies a ser temerario de vez en cuando, no renuncies a encontrar sensaciones nuevas porque a veces parezca que hay más seguridad en tu soledad. Es complicado encontrar algo cuando no sabes bien qué es lo que buscas… Mira en tu interior y no desesperes, llevará su tiempo, pero lo vas a encontrar. Observa las señales.
+Con Mercurio iniciando su retrogradación el día 5, es un buen momento para revisar tus planes de viaje y tus creencias más profundas. La comunicación puede tener retrasos. Hacia el fin de semana, la Luna Llena del sábado 9 ilumina tu sector de la comunicación, trayendo a su clímax una conversación importante o un proyecto local. Aclarar un problema ahora tiene consecuencias positivas.
 
 ## Dinero
 
-Puede que esta semana sea una de las más ocupadas. El Universo está cambiando tus relaciones de formas nuevas y emocionantes, y afectando a tu sector de emociones internas y vida familiar. Es posible que desees esconderte o meterte por debajo de las sábanas, pero en tu interior algo requiere de tu atención inmediata. Préstale atención.
+El dinero es como el agua para la mayoría de los signos, pero tú prefieres usarlo para mantener tu alto nivel de actividad en este mundo. Esto puede significar que gastas dinero en actividades de ocio, como deportes y vacaciones, o para mantener tu cuerpo sano y hermoso. Esta semana, tu enfoque está en pagar tu deuda y atraer a nuevos seguidores para un proyecto personal. Piensa en ahorrar un 20 por ciento de lo que ganas.
