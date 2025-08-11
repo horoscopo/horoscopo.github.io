@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 04 de agosto 2025 al 10 de agosto 2025 
-description: Horóscopo semanal sagitario 04 de agosto 2025 al 10 de agosto 2025. Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así Sagitario, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
+title: sagitario 11 de agosto 2025 al 17 de agosto 2025 
+description: Horóscopo semanal sagitario 11 de agosto 2025 al 17 de agosto 2025. Fuera las preocupaciones. Tira del carro Sagitario, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2025-08-04
+ogimg: /images/zodiac/semanal_sagitario.png#2025-08-11
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-08-04'
+ lastmod: '2025-08-11'
 ---
 
 
 
-## Deja a un lado tus preocupaciones y tus miedos, deja a un lado la inseguridad, la ira y esos episodios de celos que a veces te pueden volver loco… Tu no eres así Sagitario, nunca lo has sido pero hay situaciones y personas que sacan lo peor de ti.
+## Fuera las preocupaciones. Tira del carro Sagitario, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
 
-Eres demasiado honesto con el resto Sagitario y a pesar de que a veces quieras esconder tus sentimientos, no puedes, y en el fondo llevas siempre el corazón en la manga… Es difícil comprenderte Sagitario, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones… Es complicado para ti encontrar a alguien que de verdad comprenda que sólo es miedo al dolor, que tú lo que quieres es amor, amor de esos de película, romance puro, dulce, fiel y sincero… Que quizás con un abrazo se solucionaría tanto, con una palabra bonita, con un “te quiero” o “estoy aquí”… Pero no lo pides… Ni tampoco quieres. Siempre fuiste de los que prefieren esperar a que al resto les salgan los detalles. Y es complicado, complicado porque has estado más destrozado de lo que has sido querido. No confías fácilmente, siempre estás alerta, esperando esa “puñalada”, esperando esa traición… Tienes que cambiar el chip Sagitario, tienes que tratar de fiarte en quien de verdad te está demostrando confianza. No renuncies a las cosas bonitas, no renuncies a empezar un nuevo camino, a dejarte querer, no renuncies a ser temerario de vez en cuando, no renuncies a encontrar sensaciones nuevas porque a veces parezca que hay más seguridad en tu soledad. Es complicado encontrar algo cuando no sabes bien qué es lo que buscas… Mira en tu interior y no desesperes, llevará su tiempo, pero lo vas a encontrar. Observa las señales.
-Con Mercurio iniciando su retrogradación el día 5, es un buen momento para revisar tus planes de viaje y tus creencias más profundas. La comunicación puede tener retrasos. Hacia el fin de semana, la Luna Llena del sábado 9 ilumina tu sector de la comunicación, trayendo a su clímax una conversación importante o un proyecto local. Aclarar un problema ahora tiene consecuencias positivas.
+Se avecinan cambios Sagitario, cambios grandes. Estás en una etapa un tanto selectiva, no te conformas con poco, a veces no te conformas con nada. Y estás en tu derecho. De verdad, ya era hora de que callaras la boca a más de uno que lleva intentando joderte la vida un tiempo. No pasas ni una Sagitario, y no la pasas porque no te da la gana, porque ya has aguantado demasiadas cosas. Porque, en el fondo, pensabas que todo podría cambiar, que, como tú, las personas se dan cuenta de los errores que cometen y dan marcha atrás para intentar solucionarlos. Pero no Sagitario. No todo el mundo es como tú. Así que, si esta semana piensan que eres un estúpido borde que lo piensen, si creen que has cambiado y que pasas de todo que lo crean. No estás para dar explicaciones a nadie, que la gente piense lo que le de la gana. Ves a tu rollo, mantén a cabeza bien alta y si no eres delicado en tus formas que traten de pensar que puede ser por alguna razón. Pero que se quiebren la cabeza. En serio, no necesitas volver a retomar conversaciones una y otra vez para acabar siempre en lo mismo. Deja de obsesionarte por el resto, deja de ponerles siempre primero antes que a ti. Todos tenemos un límite. Y es normal que el tuyo haya llegado ya. Feliz semana Sagitario.
+Con Mercurio arrancando directo el lunes 11, se aclaran las comunicaciones y los malentendidos de las semanas pasadas. Las salidas sociales y expediciones culturales te traen placer y te animan a explorar talentos que pudieran haber estado dormidos. Puede que te topes con que tienes una habilidad que pudiera beneficiar a otros. Las cuestiones de estilo de vida se vuelven más importantes, con nuevas oportunidades laborales apareciendo. Es un buen momento para avanzar con claridad en tus decisiones.
 
 ## Dinero
 
-El dinero es como el agua para la mayoría de los signos, pero tú prefieres usarlo para mantener tu alto nivel de actividad en este mundo. Esto puede significar que gastas dinero en actividades de ocio, como deportes y vacaciones, o para mantener tu cuerpo sano y hermoso. Esta semana, tu enfoque está en pagar tu deuda y atraer a nuevos seguidores para un proyecto personal. Piensa en ahorrar un 20 por ciento de lo que ganas.
+Esta semana estás llegando a un público mucho más grande con tu trabajo, lo que conduce a más dinero a la larga. Es posible que estés reconectando con la gente de tu pasado y consiguiendo presentaciones con nuevos fans. No importa lo que hagas para ganarte la vida, estás siendo empujado/a al escenario para entregar un mensaje único. Los aspectos te dan el apoyo y la fuerza que necesitas de estrechas relaciones. Gozas de un periodo en el que es muy poco probable que hagas errores, disfruta de este personal y financieramente.
