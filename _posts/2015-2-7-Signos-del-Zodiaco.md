@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 12 de agosto 2025
-description: Horóscopos del dia de hoy 12 de agosto 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 13 de agosto 2025
+description: Horóscopos del dia de hoy 13 de agosto 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-08-12
+ lastmod: 2025-08-13
 ---
-Préstale mucha atención a todo lo que está sucediendo. Lo que no es fácil de hacer con las distracciones de hoy. Tendrías sabiduría en tomar nota sobre lo que sientes que es importante. Esta noche, los sentimientos son lastimados fácilmente cuando la Luna cuadra a Plutón. Comportarte cálida, cariñosa, sabia y gentilmente; además de tener real sinceridad. La dulzura artificial no está permitida. 
+Puedes hacer elecciones lucrativas y afortunadas esta mañana. Y esta tarde, no te apegues a la costumbre y la tradición - prueba nuevos enfoques en tu toma de decisiones. El tiempo se siente como si estuviera limitado cuando la Luna en el ardiente Leo conjunte al igual de efusivo Marte; aunque por supuesto, no sea verdad. Los solteros hacen amistades velozmente, probablemente demasiado rápido.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
