@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 11 de agosto 2025 al 17 de agosto 2025 
-description: Horóscopo semanal capricornio 11 de agosto 2025 al 17 de agosto 2025. Eres un signo de tierra, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
+title: capricornio 18 de agosto 2025 al 24 de agosto 2025 
+description: Horóscopo semanal capricornio 18 de agosto 2025 al 24 de agosto 2025. Semana de reflexión Capricornio, pero no pares por nadie, reflexiona mientras sales por ahí y te lo pasas bien, y nada de lamentaciones, nada de remordimientos… La vida es tuya Capricornio. 
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2025-08-11
+ogimg: /images/zodiac/semanal_capricornio.png#2025-08-18
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-08-11'
+ lastmod: '2025-08-18'
 ---
 
 
 
-## Eres un signo de tierra, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo.
+## Semana de reflexión Capricornio, pero no pares por nadie, reflexiona mientras sales por ahí y te lo pasas bien, y nada de lamentaciones, nada de remordimientos… La vida es tuya Capricornio. 
 
-No te conformes con poco Capricornio, no te conformes con cualquier cosa, con cualquier trabajo, con cualquier amor… Estás aquí para hacer las cosas a lo grande, para sentir fuerte, profundo, para lograr esas metas que llevas teniendo en tu mente desde hace tanto… En serio, ponte las pilas, dale caña, echa las horas que tengas que echar pero ve a por todas, en cualquier sentido en tu vida… Nunca hay un momento perfecto para empezar, siempre hay algo que pasa y que descoloca todo, una u otra cosa, pero tienes que aprender a pasar de toda esa basura, tienes que aprender a tener autocontrol y a entender que el mundo sigue girando pase lo que pase y el tiempo también sigue corriendo… Y no hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche Capricornio, abre las puertas y ciao. No tienes que mantener nada, no tienes que obligar a quien quiere irse. Esta semana vas a tener varios momentos así, varios momentos en los que no sabrás si debes luchar o si debes permanecer quieto… Lucha si merece la pena pero no ruegues, no vayas detrás de nadie, lucha por lo que es tuyo sí, pero no entres en el juego cuando traten de manipularte. Tienes cosas muy importantes por hacer, mucho más importantes que estar esperando a alguien o que estar dándole vueltas a la cabeza a algo que sólo te roba tiempo ahora.
-Si estás tratando de aumentar tu confianza, el efecto negativo de una celosa amistad podría no estarte ayudando. Con Mercurio arrancando directo el lunes 11, es una buena llamada a hablar sobre el asunto con claridad. Si esperas hasta que llegue el fin de semana, es posible que puedan resolverlo de una manera que les permita apreciar y disfrutar mutuamente de sus cualidades tan únicas. Evita tener esta discusión con tensión, ya que ahora el resultado puede ser mucho más agradable.
+Tienes que esforzarte Capricornio, esforzarte para no cagarla de nuevo. Tienes que esforzarte para no enviar mensajes cuando te dan esos impulsos y arrebatos en los que no te controlas, tienes que esforzarte en no perder los papeles cuando algo no sale, tienes que esforzarte en tratar de vivir en el momento y en pasar de malos rollos. Ya está bien Capricornio, hazte valer de una vez. Siempre te tratan de buenas persona, que lo eres sí, pero de ahí a que se aprovechen… No. Esta semana hay un gran cambio que llevas esperando mucho tiempo, céntrate en ello, es muy importante que mantengas tu cabecita ahí y que lo externo te deje de afectar. Y que el resto se gane estar a tu lado si realmente quiere, que las palabras se las lleva el viento y a ti, otra cosa no, pero hay mucha fila detrás que quiere engancharte… Nada tiene que ser ahora suficiente para ti Capricornio, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. Si de verdad se preocupan por ti, no dejarán que la vida se interponga en el camino, no importará lo ocupadísimos que estén, el tiempo para las cosas que importan se saca. Así que, esta vez, estate tranquilo Capricornio, sin remordimiento de ningún tipo, y espera a que el resto te busque…
+Intenta liberar un poco tu agenda esta semana. Con el Sol entrando en Virgo, tu sector de viajes y expansión, la energía te invita a mirar más allá. La Luna Nueva en Virgo del sábado 23 puede traerte la oportunidad de planificar un viaje, inscribirte en un curso o tomar una decisión sobre tu futuro. El enfoque en un sector más elevado de tu carta astral te sugiere que es hora de reflexionar sobre tus creencias. Notar ciertos patrones te puede ayudar a revitalizarte.
 
 ## Dinero
 
-Para ti, esta semana va a traer un montón de responsabilidades para tu vida laboral, y un montón de recompensas también. Busca oportunidades que impliquen compartir tu creatividad. Las recompensas financieras vienen cuando te atreves a tomarlas y demuestras que eres todo lo que ellos esperaban y más. No tomes las críticas personalmente. Cada desafío a superar los cambios te ayuda a la larga.
+Tienes una extraña habilidad para predecir el futuro cuando se trata de dinero. Sabes cuando las cosas van a ir bien y cuando no. Puede que ahora tus poderes psíquicos sean más fuertes que de costumbre. Como tal, es una buena idea que guardes algo de dinero extra para la diversión que deseas tener en unas vacaciones con tu familia, amigos o a solas. Visualiza los beneficios conforme ahorras regularmente.
