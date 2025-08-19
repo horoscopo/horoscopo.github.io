@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 18 de agosto 2025
-description: Horóscopos del dia de hoy 18 de agosto 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 19 de agosto 2025
+description: Horóscopos del dia de hoy 19 de agosto 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-08-18
+ lastmod: 2025-08-19
 ---
-Adopta un enfoque prudente el día de hoy. Con Mercurio a punto de cambiar de signo, puede que no seas capaz de cumplir con todos tus compromisos y promesas sin importar lo mucho que desees hacerlo. Las parejas sienten energía, frescura e ímpetu. Los solteros podrían caer rápidamente en un apasionado enamoramiento (o lujuria) bajo la Luna en Aries de esta noche.
+Es difícil sentarse por demasiado tiempo en un solo lugar con la Luna en el ansioso Sagitario cuadrando a Júpiter. En lugar de dar vueltas por todos lados, sigue avanzando y lograrás algo. Esta noche, las sorpresas son muy divertidas. Haz algo fuera de lo común. Si no tienes pareja, podrías renovar una vieja amistad en un nuevo escenario.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
