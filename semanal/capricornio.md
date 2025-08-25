@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 18 de agosto 2025 al 24 de agosto 2025 
-description: Horóscopo semanal capricornio 18 de agosto 2025 al 24 de agosto 2025. Semana de reflexión Capricornio, pero no pares por nadie, reflexiona mientras sales por ahí y te lo pasas bien, y nada de lamentaciones, nada de remordimientos… La vida es tuya Capricornio. 
+title: capricornio 25 de agosto 2025 al 31 de agosto 2025 
+description: Horóscopo semanal capricornio 25 de agosto 2025 al 31 de agosto 2025. Recuerda que ha empezado la época de los Capricornio… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2025-08-18
+ogimg: /images/zodiac/semanal_capricornio.png#2025-08-25
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-08-18'
+ lastmod: '2025-08-25'
 ---
 
 
 
-## Semana de reflexión Capricornio, pero no pares por nadie, reflexiona mientras sales por ahí y te lo pasas bien, y nada de lamentaciones, nada de remordimientos… La vida es tuya Capricornio. 
+## Recuerda que ha empezado la época de los Capricornio… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
 
-Tienes que esforzarte Capricornio, esforzarte para no cagarla de nuevo. Tienes que esforzarte para no enviar mensajes cuando te dan esos impulsos y arrebatos en los que no te controlas, tienes que esforzarte en no perder los papeles cuando algo no sale, tienes que esforzarte en tratar de vivir en el momento y en pasar de malos rollos. Ya está bien Capricornio, hazte valer de una vez. Siempre te tratan de buenas persona, que lo eres sí, pero de ahí a que se aprovechen… No. Esta semana hay un gran cambio que llevas esperando mucho tiempo, céntrate en ello, es muy importante que mantengas tu cabecita ahí y que lo externo te deje de afectar. Y que el resto se gane estar a tu lado si realmente quiere, que las palabras se las lleva el viento y a ti, otra cosa no, pero hay mucha fila detrás que quiere engancharte… Nada tiene que ser ahora suficiente para ti Capricornio, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. Si de verdad se preocupan por ti, no dejarán que la vida se interponga en el camino, no importará lo ocupadísimos que estén, el tiempo para las cosas que importan se saca. Así que, esta vez, estate tranquilo Capricornio, sin remordimiento de ningún tipo, y espera a que el resto te busque…
-Intenta liberar un poco tu agenda esta semana. Con el Sol entrando en Virgo, tu sector de viajes y expansión, la energía te invita a mirar más allá. La Luna Nueva en Virgo del sábado 23 puede traerte la oportunidad de planificar un viaje, inscribirte en un curso o tomar una decisión sobre tu futuro. El enfoque en un sector más elevado de tu carta astral te sugiere que es hora de reflexionar sobre tus creencias. Notar ciertos patrones te puede ayudar a revitalizarte.
+No arriesgues, no apuestes si no es victoria segura, es un consejo. Si tienes algo claro ve a por ello a muerte pero si dudas no pelees ni luches, al menos por ahora. Has perdido muchas fuerzas en otros asuntos y lo que menos te conviene es seguir perdiéndola en cosas en las que no sabes si vas a ganar. Ha llegado el momento en el que debes hacerte valorar más. El pasado te ha creado esa inseguridad que a veces tienes a la hora de tomar decisiones, y sí, antes quizá pensabas todo demasiado pero ahora estás en modo “lo tiro todo por la ventana”. Cuidado Capricornio, cuidado porque los cambios no pueden ser radicales, no tienes la fuerza necesaria ahora para andar arriesgando tontamente y sólo porque en el momento te apetezca. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
+La Luna Nueva del 23 en Virgo despertó tu deseo de expandir tus horizontes. Si escuchas que alguien necesita ayuda, puede que seas la primera persona en ponerte en contacto. La energía de la semana te impulsa a planificar un viaje, inscribirte en un curso o compartir tu sabiduría. Sin embargo, antes de comprometerte, asegúrate de no estarlo haciendo en vano. Hay muchas razones por las que las cosas podrían no ser lo que parecen. Muestra tu usual generosidad, pero sí debes saber dónde trazar la línea.
 
 ## Dinero
 
-Tienes una extraña habilidad para predecir el futuro cuando se trata de dinero. Sabes cuando las cosas van a ir bien y cuando no. Puede que ahora tus poderes psíquicos sean más fuertes que de costumbre. Como tal, es una buena idea que guardes algo de dinero extra para la diversión que deseas tener en unas vacaciones con tu familia, amigos o a solas. Visualiza los beneficios conforme ahorras regularmente.
+Esta semana el Universo afecta tu sector de dinero. Ha llegado el momento de reevaluar la forma en la que ganas dinero en la actualidad. ¿Odias tu trabajo? ¿Te gustaría encontrar un trabajo más significativo? Esta semana te da la oportunidad de descubrir una nueva manera de hacer de tu trabajo ideal una realidad.
