@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: Horoscopo Capricornio Agosto 2025
-description: El Horóscopo Agosto de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Capricornio Septiembre 2025
+description: El Horóscopo Septiembre de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/capricornio/
 amplink: /horoscopo-mensual/amp/capricornio/
 home: FALSE
-keywords: horóscopo agosto, horoscopos en español, horóscopo Capricornio agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Capricornio, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo septiembre, horoscopos en español, horóscopo Capricornio septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Capricornio, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/capricornio_mes.png#2025-07-26
+ogimg: /images/mes/capricornio_mes.png#2025-08-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-07-26'
+ lastmod: '2025-08-26'
 ---
 
 
- > Capricornio, puede que agosto te dé un poco de miedo por todos los cambios que vas a vivir, pero te acostumbrarás y serán para bien. Tus encantos harán que conquistes cuando quieras y donde quieras, mientras que el equilibrio y la serenidad serán la clave para que seas feliz.
+ > Capricornio, aprovecha estas semanas para pasar un tiempo a solas contigo mismo y escuchar tu voz interior. Solo de esta manera conseguirás la claridad necesaria para planificar los próximos pasos que vas a to Después de esta pausa viene un momento feliz para ti y podrás realizar con éxito todas las tareas que tengas en mente.
 
 
 
-Durante la Luna Llena del 9 de agosto, un asunto financiero llega a un punto culminante. Es un buen momento para revisar tu presupuesto y valorar tus recursos. Puedes lograr que otros cooperen contigo si tus planes son claros. La segunda mitad del mes te invita a expandir tus horizontes. La Luna Nueva del 26 de agosto activa tu deseo de viajar, aprender y explorar nuevas filosofías. Puede que surja la oportunidad de un viaje o de inscribirte en un curso que te interese. Escuchar más música o meditar pueden ayudarte a mantener tu equilibrio mientras te abres a lo nuevo.
+Para el Eclipse Lunar Total del 7 de Septiembre, llega un momento de claridad mental. Una idea o conversación importante llega a su fin. Una nueva idea, genial y atrevida, podría aparecer en cualquier momento. Durante el Eclipse Solar del 21 de Septiembre, disfruta de todos tus sueños de expansión. Este eclipse activa tu casa de viajes y estudios. Sé extravagante y no pidas disculpas. Busca paz y tranquilidad. El 22, el Sol entra en Libra, activando tu carrera. Déjate cautivar por la belleza que te rodea, que en general pasa desapercibida.
