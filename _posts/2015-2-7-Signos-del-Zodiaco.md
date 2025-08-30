@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 29 de agosto 2025
-description: Horóscopos del dia de hoy 29 de agosto 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 30 de agosto 2025
+description: Horóscopos del dia de hoy 30 de agosto 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-08-29
+ lastmod: 2025-08-30
 ---
-No es ni aquí ni allá, tal vez, pero argumentar no te lleva a ninguna parte durante la Luna saliéndose de su órbita el día de hoy. ¿Será que este molesto día llegará a su fin? Pues sí, lo hará. La de esta noche es una sensata y controlada Luna en Capricornio. Si no tienes pareja, disfruta de no tener que toparte con historias de ficción. Lo que ves es lo que hay. 
+Tienes encanto gracias a tu ingenio y porque estás al tanto, además de que dejarás a todos con la duda bajo la Luna Nueva en Géminis. Algunas personas podrían salir de su concha bajo la Luna en Cáncer de esta noche mientras que otras inhibidas podrían estar preparándose para hacerlo. Puede que seas tú quien tenga que dar el primer paso.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
