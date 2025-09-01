@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 25 de agosto 2025 al 31 de agosto 2025 
-description: Horóscopo semanal geminis 25 de agosto 2025 al 31 de agosto 2025. Llega una semana bonita Géminis, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención Géminis, y seguramente la persona que menos te esperabas…
+title: geminis 01 de septiembre 2025 al 07 de septiembre 2025 
+description: Horóscopo semanal geminis 01 de septiembre 2025 al 07 de septiembre 2025. Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2025-08-25
+ogimg: /images/zodiac/semanal_geminis.png#2025-09-01
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-08-25'
+ lastmod: '2025-09-01'
 ---
 
 
 
-## Llega una semana bonita Géminis, una semana buena, y te darás cuenta de que llamas de sobre manera la atención, te darás cuenta de que hay personas que llevan detrás de ti toda la vida y de que, quizás, deberías darles una oportunidad. Van a despertar tu atención Géminis, y seguramente la persona que menos te esperabas…
+## Tienes que dejar de tomar decisiones en base a los demás, y sobretodo, cuando estás a punto de saltar, cuando estás a punto de verdad, de empezar tu camino.
 
-La meta es dura Géminis, pero lo conseguirás. Estás en un proceso de adaptación, estás peleando fuertemente para que las cosas salgan como tú quieres. No hay Géminis que no lo de todo cuando realmente desea algo… y así estás tú ahora, peleando como el que más. Pero a veces también sientes que nadas a contracorriente, y al final, te acaba arrastrando. Los mejores comienzos, normally, vienen después que los peores finales así que piensa que el estrés que has podido pasar últimamente no será en vano… Si las cosas cuestan, es por algo, pero tú lo tienes claro, vas a por todo a muerte, a fuego, y ya no te importará quien se cruce en tu camino o quien quiera estar a tu lado, porque los de verdad están estarán…No hay más… Tu carácter será más poderoso que nunca pero debes creértelo, ahora mucho más. Rodéate de personas que te hagan crecer, no de personas que te estanquen o intenten hundirte, es obvio que sabes de sobra quienes son pero a veces, el problema es que intentas cambiar a los demás, aunque sólo sea por orgullo, pero no, debes aprender simplemente a alejarte, a veces, sin ni siquiera despedirte Géminis. Porque un mínimo acercamiento a lo que te hace mal puede suponer muchos pasos atrás… Cuesta dejar a un lado cosas en las que tenías mucha fé, pero a veces, si no las dejas jamás verás los miles de caminos que se te abrirán a los lados. No hace falta que digas todo lo que piensas o que hagas todo lo que crees que debes hacer, en ocasiones, dar media vuelta y dejar todo es lo mejor… Te va a costar la salud si no lo haces, y tu propia vida Géminis… No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
-Esta semana, con un poderoso enfoque en tu sector del hogar y la familia gracias a la reciente Luna Nueva, puede traer oportunidades para mejorar tu vida doméstica. Este es el momento para poner en marcha esos planes de redecorar, mudarte o simplemente pasar tiempo de calidad en casa. Con Mercurio y Marte directos, tienes la claridad y la energía para actuar, aunque necesites paciencia, ya que las cosas podrían no suceder con la rapidez que pretendías.
+Por fin llega lo que tanto estabas esperando Géminis, una brisa de aire fresco que transforme tu vida, por fin llega algo que te motiva de verdad, algo que parece cambiar, otra vez, el rumbo de tu vida. Y te gusta, te hace sentir vivo Géminis. Esta semana vas a tener momentos muy emocionantes, quizás no todos sean de tu gusto pero sí la mayoría. Hacía tiempo que esperabas que algo así. Te estabas volviendo loco con tus pensamientos, a veces te enfrascas en ellos, te bloqueas, no sabes cómo salir adelante, cómo frenarlos de una vez, cómo cambiar… A pesar de que sea lo que más deseas en el mundo. Esta semana todo dará un giro de 180 grados. Vas a encontrar muchas cosas de ti mismo que hasta tú desconocías, vas a pasar de todo ese rollo del odio para después hacer las paces, de toda esa mala vibra que parecía que te perseguía y no quería soltarte. Estás muy harto de lo mismo. Vas a vivir nuevas experiencias y vas a darte cuenta de la mierda que tenías antes a tu lado, de cómo te influían las cosas tan negativas, de cómo te anclabas… Vas a ver que lo que estabas aguantando estaba muy lejos de la realidad que tú tenías en tu cabeza. Ahora ves las cosas más claras, y no vas a desaprovechar nada de lo que llega… Disfruta tu semana Géminis, disfrútala al máximo.
+Un encuentro podría alegrar tu semana. Si bien esto podría ser el comienzo de una relación, el evento más importante es el Eclipse Lunar Total en Piscis del domingo 7. Este eclipse ilumina la cima de tu carta, tu sector profesional. Un gran proyecto puede llegar a su fin, puedes recibir un reconocimiento importante o darte cuenta de que un ciclo en tu carrera ha terminado. Si logras ser paciente, todo saldrá bien al final.
 
 ## Dinero
 
-Estás mejorando tu vida financiera haciendo grandes avances en tu carrera. Estás cambiando la forma en que haces tu trabajo y haciendo planes para el futuro. Si deseas avanzar con rapidez en este ámbito, date como voluntario/a para representar más a tu organización. Al dar discursos y presentaciones, vences el miedo a hablar en público y avanzas en tu propia causa. Tu ambición no puede ser igualada. Crea heno mientras el Sol brilla.
+Esta semana te trae poca ventaja. Tu personalidad nunca es sutil sino voluptuosa y podría inclusive estar a cargo en este momento, lo cuál no les parece a todos. Si vas a una entrevista o quieres impresionar a un cliente nuevo, tu acto súper poderoso puede no ser tu mejor apuesta. En cambio, sería mejor que jugaras la carta del misterio. El atraerlos a ti podría traerte mejores resultados financieros.

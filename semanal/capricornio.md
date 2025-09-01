@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 25 de agosto 2025 al 31 de agosto 2025 
-description: Horóscopo semanal capricornio 25 de agosto 2025 al 31 de agosto 2025. Recuerda que ha empezado la época de los Capricornio… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
+title: capricornio 01 de septiembre 2025 al 07 de septiembre 2025 
+description: Horóscopo semanal capricornio 01 de septiembre 2025 al 07 de septiembre 2025. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2025-08-25
+ogimg: /images/zodiac/semanal_capricornio.png#2025-09-01
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-08-25'
+ lastmod: '2025-09-01'
 ---
 
 
 
-## Recuerda que ha empezado la época de los Capricornio… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
+## No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
 
-No arriesgues, no apuestes si no es victoria segura, es un consejo. Si tienes algo claro ve a por ello a muerte pero si dudas no pelees ni luches, al menos por ahora. Has perdido muchas fuerzas en otros asuntos y lo que menos te conviene es seguir perdiéndola en cosas en las que no sabes si vas a ganar. Ha llegado el momento en el que debes hacerte valorar más. El pasado te ha creado esa inseguridad que a veces tienes a la hora de tomar decisiones, y sí, antes quizá pensabas todo demasiado pero ahora estás en modo “lo tiro todo por la ventana”. Cuidado Capricornio, cuidado porque los cambios no pueden ser radicales, no tienes la fuerza necesaria ahora para andar arriesgando tontamente y sólo porque en el momento te apetezca. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
-La Luna Nueva del 23 en Virgo despertó tu deseo de expandir tus horizontes. Si escuchas que alguien necesita ayuda, puede que seas la primera persona en ponerte en contacto. La energía de la semana te impulsa a planificar un viaje, inscribirte en un curso o compartir tu sabiduría. Sin embargo, antes de comprometerte, asegúrate de no estarlo haciendo en vano. Hay muchas razones por las que las cosas podrían no ser lo que parecen. Muestra tu usual generosidad, pero sí debes saber dónde trazar la línea.
+Céntrate en tus metas Capricornio, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
+Tus sueños podrían ser muy vívidos, especialmente hacia el final de la semana, gracias al Eclipse Lunar Total en Piscis del domingo 7. Este eclipse ocurre en tu sector de la comunicación. Tal vez valga la pena prestar atención a lo que se revela, ya que podría tener valiosos consejos para ti. Una conversación, un contrato o una idea importante llegan a un punto de culminación. Las posibilidades románticas abundan el viernes y sábado. Podrías disfrutar de la cita perfecta. Esta combinación de energías también es excelente para una ocasión divertida, como una fiesta o celebración familiar.
 
 ## Dinero
 
-Esta semana el Universo afecta tu sector de dinero. Ha llegado el momento de reevaluar la forma en la que ganas dinero en la actualidad. ¿Odias tu trabajo? ¿Te gustaría encontrar un trabajo más significativo? Esta semana te da la oportunidad de descubrir una nueva manera de hacer de tu trabajo ideal una realidad.
+Te enfrentas a un periodo en el que tendrás que frenar el gasto para poder pagar una deuda vieja. Algo con lo que pensaste que habías lidiado en el pasado, de hecho, puede que no haya sido pagado. Puede que los intereses hayan aumentado, por lo que es imperativo que pongas manos a la obra con un plan de pago con el que puedas vivir con el fin de hacerle frente al problema por última vez. Vas a descansar más fácilmente si lo haces.
