@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 01 de septiembre 2025 al 07 de septiembre 2025 
-description: Horóscopo semanal capricornio 01 de septiembre 2025 al 07 de septiembre 2025. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
+title: capricornio 08 de septiembre 2025 al 14 de septiembre 2025 
+description: Horóscopo semanal capricornio 08 de septiembre 2025 al 14 de septiembre 2025. El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho Capricornio. Más que nunca…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2025-09-01
+ogimg: /images/zodiac/semanal_capricornio.png#2025-09-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-09-01'
+ lastmod: '2025-09-08'
 ---
 
 
 
-## No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
+## El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho Capricornio. Más que nunca…
 
-Céntrate en tus metas Capricornio, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
-Tus sueños podrían ser muy vívidos, especialmente hacia el final de la semana, gracias al Eclipse Lunar Total en Piscis del domingo 7. Este eclipse ocurre en tu sector de la comunicación. Tal vez valga la pena prestar atención a lo que se revela, ya que podría tener valiosos consejos para ti. Una conversación, un contrato o una idea importante llegan a un punto de culminación. Las posibilidades románticas abundan el viernes y sábado. Podrías disfrutar de la cita perfecta. Esta combinación de energías también es excelente para una ocasión divertida, como una fiesta o celebración familiar.
+Es mejor reflexionar que lamentar Capricornio. Siempre. 
+Sí, quizás aún cargas a tu espalda demasiadas cosas que sabes que no te pertenecen del todo pero, eres así Capricornio, y en eso no cambiarás nunca. A pesar de todo, te has acostumbrado a llevarlas y a pesar de todo, ahora no te tira para abajo nadie.
+Un agradable vínculo al comienzo de la semana sugiere que una película o novela podría inspirarte a soñar a lo grande. El Eclipse Lunar del pasado día 7 en tu sector de la comunicación trajo una revelación o una conversación importante a su fin. Esta semana, una indicación para que liberes espacio en tu mente y tengas más lugar para pensar es clave para integrar lo que aprendiste.
 
 ## Dinero
 
-Te enfrentas a un periodo en el que tendrás que frenar el gasto para poder pagar una deuda vieja. Algo con lo que pensaste que habías lidiado en el pasado, de hecho, puede que no haya sido pagado. Puede que los intereses hayan aumentado, por lo que es imperativo que pongas manos a la obra con un plan de pago con el que puedas vivir con el fin de hacerle frente al problema por última vez. Vas a descansar más fácilmente si lo haces.
+Es una semana que requiere de mucha más búsqueda. Los aspectos son maravillosos para manifestar más dinero y aplicarlos a tus sueños, pero también puede oscurecer o nublar tu visión, a tu perjuicio. Incluso aunque pienses que no tienes tiempo para supervisar tu dinero, haz tiempo. Otros no son propensos a tener tus mejores intereses en el corazón. No es que haya malicia – simplemente no es su problema.
