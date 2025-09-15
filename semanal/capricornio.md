@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 08 de septiembre 2025 al 14 de septiembre 2025 
-description: Horóscopo semanal capricornio 08 de septiembre 2025 al 14 de septiembre 2025. El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho Capricornio. Más que nunca…
+title: capricornio 15 de septiembre 2025 al 21 de septiembre 2025 
+description: Horóscopo semanal capricornio 15 de septiembre 2025 al 21 de septiembre 2025. Esta semana vas a abrir los ojos Capricornio, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2025-09-08
+ogimg: /images/zodiac/semanal_capricornio.png#2025-09-15
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-09-08'
+ lastmod: '2025-09-15'
 ---
 
 
 
-## El mundo está acostumbrado a saber llevarte y eso implica que perdonas rápido. Esta vez tienes que hacerte valer mucho Capricornio. Más que nunca…
+## Esta semana vas a abrir los ojos Capricornio, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
 
-Es mejor reflexionar que lamentar Capricornio. Siempre. 
-Sí, quizás aún cargas a tu espalda demasiadas cosas que sabes que no te pertenecen del todo pero, eres así Capricornio, y en eso no cambiarás nunca. A pesar de todo, te has acostumbrado a llevarlas y a pesar de todo, ahora no te tira para abajo nadie.
-Un agradable vínculo al comienzo de la semana sugiere que una película o novela podría inspirarte a soñar a lo grande. El Eclipse Lunar del pasado día 7 en tu sector de la comunicación trajo una revelación o una conversación importante a su fin. Esta semana, una indicación para que liberes espacio en tu mente y tengas más lugar para pensar es clave para integrar lo que aprendiste.
+Capricornio, que estés triste de vez en cuando no es malo, que saques lo que tienes dentro desde hace mucho tiempo tampoco… Esta semana llegan momentos así, pero no hay que darle mayor importancia. La tristeza no viene a castigarte ni tampoco es una señal de que no estás evolucionando o de que te estás alejando de la luz o de la paz… No has hecho nada malo Capricornio. La tristeza se tiene que curar sola, abre bien los ojos y deja que te muestre el camino si lo has olvidado, deja que te haga sentir otra vez lo que vales, lo que debes hacer, deja que te ilumine, deja que te recuerde los errores que cometiste para que no vuelvan a darse. Y verás cómo agradecerás después haber estado triste, haber estado por momentos solo, haber recordado tantas cosas…
+Si bien la semana comienza con un enfoque en tu sector de expansión, lo que podría animarte a adoptar una compasiva actitud, la influencia del Eclipse Solar en Virgo del domingo 21 puede cambiar rápidamente tu perspectiva. Es posible que tu expresividad aumente en general, con un fuerte deseo de aprender o planificar un viaje. Aun así, la vida puede volverse más interesante el fin de semana, y esto podría coincidir con una instantánea atracción o la posibilidad de tomar una decisión clave. Si te sientes rebelde, trata de pensar antes de tomar cualquier decisión impulsiva.
 
 ## Dinero
 
-Es una semana que requiere de mucha más búsqueda. Los aspectos son maravillosos para manifestar más dinero y aplicarlos a tus sueños, pero también puede oscurecer o nublar tu visión, a tu perjuicio. Incluso aunque pienses que no tienes tiempo para supervisar tu dinero, haz tiempo. Otros no son propensos a tener tus mejores intereses en el corazón. No es que haya malicia – simplemente no es su problema.
+Este período se trata de las nuevas oportunidades que le llegan a tu vida laboral. El cielo es el límite en términos de lo que puedes esperar, pero el Universo no lo hará por ti. Debes estar a la búsqueda de maneras de aumentar tus ingresos, ya sea mediante la adición de un negocio secundario o aceptar trabajos independientes. Utiliza tu educación y tus viajes para salir con ideas para productos o servicios que vender.

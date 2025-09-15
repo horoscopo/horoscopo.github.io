@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: virgo 08 de septiembre 2025 al 14 de septiembre 2025 
-description: Horóscopo semanal virgo 08 de septiembre 2025 al 14 de septiembre 2025. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+title: virgo 15 de septiembre 2025 al 21 de septiembre 2025 
+description: Horóscopo semanal virgo 15 de septiembre 2025 al 21 de septiembre 2025. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2025-09-08
+ogimg: /images/zodiac/semanal_virgo.png#2025-09-15
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-09-08'
+ lastmod: '2025-09-15'
 ---
 
 
 
-## No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+## Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
 
-Empieza a hacerte promesas a ti mismo Virgo, empieza a prometerte amor propio, hoy y siempre. Has dejado abandonadas algunas cosas últimamente, has dejado de lado tu estilo, tu manera de vivir, tus ganas, tu fuerza, tu pasión… Lo has dejado de lado para entrar en conflictos internos y externos con otras personas… Prométete quererte cada día, y anteponerte siempre al resto por favor, prométete ir donde tu corazón te lleve, donde lata con más fuerza sin tener que pensar constantemente en el daño colateral que puedes causar, prométete no ceder cuando sabes que no debes… Hay sentimientos que no se pueden controlar, pero la tensión y la impulsividad sí. Así que, deja de enredarte en historias que no van contigo. Si hay que dejar las cosas claras que se dejen claras de una vez por todas. Saca los jueguecitos de tu vida, saca las estupideces, saca la basura Virgo. Y saca lo que tienes dentro y lo que llevas cargando un tiempo. Hay cosas que simplemente no están hechas para ti, por mucho empeño que le pongas, hay cosas que por más que intentes solucionar no se van a dar, pero tienes que hacerte una pregunta, ¿cuánto tiempo estás dispuesto a aguantar donde estás? Deja que el tiempo cure… Y recuerda, tu amor propio antes que nada y mucho más ahora.
-No pongas demasiada carga en ti esta semana. El Eclipse Lunar del pasado día 7 en tu signo opuesto, Piscis, pudo sacar ciertas emociones a la superficie en tus relaciones. A pesar de que pudiera haber algunos berrinches, también habrá un montón de risas. Este es buen momento para pasar tiempo con tu pareja o socio y recordar el pasado para poder sanar y avanzar.
+Quita importancia a las cosas Virgo, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente… Pon la mente en blanco como sea si no quieres empezar a dejar de dormir esta semana. Hay cosas que no están en tu mano, hay cosas que llegan y se van solas, sin que podamos hacer nada, pero sin embargo, la vida sigue y hay otras muchas en las que si puedes hacer mucho. Pues céntrate en esas Virgo. En las que verdaderamente están ahí, en tu mano. Tienes que tener un plan B para engañar a tu mente, sal un poco más y cuando no te apetezca mucho, oblígate, hazte el favor de relacionarte con tus amigos, de sacar tus sentimientos, lo que pasa por tu cabeza. Los nervios sólo te acabarán consumiendo por dentro. Deja fluir, deja correr, deja pasar las cosas y no vuelvas a abrir las puertas de tu vida a la gente que te hace daño. Si te rodeas de buenas personas, lo positivo empezará a aparecer en tu vida, pero si por tu alrededor la energía mala se palpa, no esperes nada bueno. Deja que las cosas se marchen de tu vida si así tiene que ser, y márchate tú si eso es lo que sabes que debes hacer… Aférrate a ti mismo, sólo a ti… Por una vez manda a la mierda y céntrate en lo que de verdad te hará feliz.
+Con el Sol en tu signo, la influencia de esta etapa se centra en ti. El Eclipse Solar en Virgo del domingo 21 es el evento más importante del año para ti, marcando tu nuevo comienzo personal. Hay momentos de la semana en que puede que te resulte difícil comprender los motivos de los demás, pero este eclipse te anima a pedir explicaciones y a definir lo que quieres. Puede que no estés completamente de acuerdo con un familiar, pero puedes llegar a un compromiso.
 
 ## Dinero
 
-Esta semana te está pidiendo el centrarte más en tu carrera. Sueles ser bastante tradicional y conservador/a por naturaleza, pero ahora es posible que te hayas olvidado de tales cualidades, aunque sólo un rato. Si dejas que los demás sepan cuáles son tus metas, incluyendo la posición y el sueldo que quisieras, podrías ser sorprendido/a con lo dispuestos que tus patrones estarían para cumplirlo. Sólo sé extremadamente claro/a.
+Esta semana se trata no sólo de mejorar tu estilo personal (a pesar de que podría utilizar algo de ayuda también), sino también de la forma en que te expresas. Tiene ideas creativas acerca de cómo hacer esto, y sobre los medios para convencer a los demás de que tienes la razón. Después de todo, no todo el mundo va a estar de acuerdo con todos los cambios. Mientras tanto, ciertos aspectos aportan ideas únicas que nadie más tiene. Tu poder adquisitivo aumenta.
