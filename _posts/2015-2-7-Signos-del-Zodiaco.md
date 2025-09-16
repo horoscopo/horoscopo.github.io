@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 15 de septiembre 2025
-description: Horóscopos del dia de hoy 15 de septiembre 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 16 de septiembre 2025
+description: Horóscopos del dia de hoy 16 de septiembre 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-09-15
+ lastmod: 2025-09-16
 ---
-No es raro encontrar la vida llena de propósitos más específicos y la motivación para descubrir maneras de lograrlos cuando Mercurio transita en Capricornio. Las parejas encuentran increíble lo que puede hacer el poder transformador del amor. Los solteros se percatan de que la química con alguien es algo especial conforme sienten cómo se sobrecalienta el aire.
+Piensa acerca de las promesas rotas y evalúa porqué fallaste en el cumplimiento de tus compromisos. Hoy puedes hacer algo para reparar el daño hecho. Tal persona podría estar dispuesta a perdonar el error. Esta noche, los solteros son candidatos para un nuevo amor cuando Venus forma sextil con Plutón. Por su parte, aquellos en pareja están totalmente fascinados el uno con el otro.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
