@@ -1,27 +1,29 @@
 ---
 layout: horoscopos
-title: libra 15 de septiembre 2025 al 21 de septiembre 2025 
-description: Horóscopo semanal libra 15 de septiembre 2025 al 21 de septiembre 2025. Hay cosas que ya no funcionan Libra, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
+title: libra 22 de septiembre 2025 al 28 de septiembre 2025 
+description: Horóscopo semanal libra 22 de septiembre 2025 al 28 de septiembre 2025. No es que estés cambiando Libra, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2025-09-15
+ogimg: /images/zodiac/semanal_libra.png#2025-09-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-09-15'
+ lastmod: '2025-09-22'
 ---
 
 
 
-## Hay cosas que ya no funcionan Libra, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
+## No es que estés cambiando Libra, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
 
-No significa que te calles ante lo que es injusto (evidentemente es algo imposible para ti) pero sí que no te tomes las cosas tan en serio como siempre, sino dando la importancia que merecen, y la importancia es poca, pues es poca. Sobre todo para ti, para que no pases después malos ratos ni momentos de agobio que no merecen la pena…
-Este sigue siendo un tiempo de aprendizaje y oportunidad para ti. Tu deseo de dar un paso adelante puede intensificarse. Te encuentras en una posición donde puedes usar tu experiencia para explorar territorio nuevo. El Eclipse Solar en Virgo del domingo 21 puede intensificar tu deseo de ir hacia una nueva dirección espiritual. Si sientes que un plan de sanación o introspección ya está listo para ponerlo en marcha, es hora de que des un salto de fe.
+Te da miedo empezar etapas nuevas, te da miedo dejar a un lado lo que ya has conseguido, te da miedo mandarlo todo a la mierda y también te da miedo darlo todo por algo o por alguien. Y al final, te mantienes como estás, aunque sabes de sobra que como estás no eres plenamente feliz. 
+Date un respiro, toma algún día para pensar y relajarte, mímate un poco y deja que los sentimientos y las emociones vayan saliendo solos. 
+como si no quisieras sentir lo que sientes, como si quisieras sentir lo que no sientes. Es una estupidez porque al final, todo sale.
+¡Feliz temporada de cumpleaños, Libra! El Sol entra en tu signo el lunes 22, envolviéndote con energía y vitalidad. Podrías conocer a alguien que no teme decir exactamente lo que siente. ¿Te molestará? La presente mezcla de energías indica que esto podría parecerte algo nuevo y distinto. De hecho, podría incluso ser el desencadenante de una decisión que cambie todo, impulsada por el reciente eclipse del día 21. Mientras tanto, si deseas darte el gusto de comer lo que quieras este fin de semana, ¡adelante!
 
 ## Dinero
 
-Este período es acerca de cómo adoptar un amplio plan de pago de deuda para lograr que esa parte de tu vida sea resuelva por última vez. Es posible que en el pasado hayas sentido agobio por la cantidad que debías en tarjetas de crédito, crédito hipotecario, o préstamos de familiares y amigos. Sin embargo, ahora tienes la ventaja y el impulso para nivelarte. Desvía el diez por ciento de tu ingreso hacia esta área.
+Este período se trata de tus relaciones. Puede que un montón de gente nueva entre a tu vida, lo que podría ser ideal para socializar y conocer a otras personas en tu campo. Las relaciones viejas y rancias que parecen no traerte nada pueden estar desapareciendo, cambiando dramáticamente, o desapareciendo por completo. No te aferres a lo que ya no te sirve más.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 15 de septiembre 2025 al 21 de septiembre 2025 
-description: Horóscopo semanal leo 15 de septiembre 2025 al 21 de septiembre 2025. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
+title: leo 22 de septiembre 2025 al 28 de septiembre 2025 
+description: Horóscopo semanal leo 22 de septiembre 2025 al 28 de septiembre 2025. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2025-09-15
+ogimg: /images/zodiac/semanal_leo.png#2025-09-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-09-15'
+ lastmod: '2025-09-22'
 ---
 
 
 
-## Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
+## Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
 
-Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía. Es muy probable que tengas que corregir algunas cosas de tu persona, está claro, pero de ahí a que quieran hacerte ver que eres el culpable de todo hay un paso muy grande. No te lo creas por nada del mundo. Mientras otros retroceden tú avanzas, mientras otros vuelven a tropezar con la misma piedra una y otra vez, tú la intentas evitar a toda costa, quizás no sepas cual es el final del camino, y quienes estarán ahí para verlo pero no lo estás haciendo mal, y eso, es lo que al final te hará decir que mereció la pena. Estos días te irás quitando de tu vida a mucha gente falsa, y seguramente que discutirás con algunos pero da igual, sólo han estado estorbando en tus planes y sueños. No te han dejado avanzar así que, no te plantees en ningún momento si lo estás haciendo mal porque no. Te quitarás mucho de encima. Gracias a ser como eres nadie volverá a pisotearte Leo, gracias a todos los palos que te han dado, ya no dejarás que te den ni uno más.
-A medida que el Sol transita Virgo, tu sector de las finanzas, las próximas semanas te traen la oportunidad de explorar maneras de mejorar tus ingresos. El Eclipse Solar en Virgo del domingo 21 es una poderosa oportunidad para un nuevo comienzo financiero. Este podría ser el mejor momento para hacer una investigación sobre tus recursos y así realizar los cambios necesarios. El sábado se muestra prometedor en más de un sentido.
+A veces amas demasiado Leo, a veces das mucho de ti, tanto que te quedas sin nada para ti mismo. Y cuando regalas todo de ti es porque probablemente quieres que los demás se sientan completos, enteros. Es cierto que te encanta ayudar Leo, sabes que estás siempre para quien te necesita, te falta el tiempo, pero el problema también es que te olvidas de ti. Sacas una fuerza inquebrantable mientras levantas a los demás y eso te hace sentir bien, pero tú te quedas sin fuerzas después. Leo, tienes que replantearte muchas cosas, tienes que replantearte por qué tienes tanto que dar pero después te da miedo salir de tu mundo y expresar lo que sientes, por qué te da miedo apostar por algo o alguien que merece la pena, por qué te cuesta dar esos pasos personales todo el tiempo. Leo, no ocultes más lágrimas, no te sientas solo aunque estés rodeado de personas, no te preguntes más cuando será tu turno, tu turno para encontrar el amor verdadero, para encontrar tu camino, para cambiar de trabajo, para lo que sea… Olvídate de todo eso y cambia, de dentro a afuera, y no te lamentes, y no te encabrones. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas… Sólo mira a los ojos Leo, y siente… Feliz semana…
+Es posible que necesites tomar una decisión con respecto a tus planes. Si te ofrecen una oportunidad, la alineación actual te invita a analizar los detalles. El Sol entra en Libra el lunes 22, activando tu sector de la comunicación, por lo que un poco de encanto puede hacer maravillas. Aprovecha la energía del reciente eclipse del día 21 para poner en marcha un nuevo plan financiero y comunicarlo con claridad.
 
 ## Dinero
 
-El Universo está proporcionando una gran cantidad de energía no conformista a tu área de romance, los niños y la diversión esta semana. Prefieres estar al aire libre, divirtiéndote con la familia y haciendo niñerías, pero esto simplemente no funcionará ahora. Lo que se necesita es un mayor enfoque en cómo vas a proteger el futuro de tu familia y cómo puedes asegurarte de que nunca tendrán que sufrir innecesariamente. Después de eso, eres libre de descansar y relajarte.
+Te estás preparando para hacer algunos cambios importantes en la forma en la que haces negocios. Tal vez estés pensando en mudarte a otra casa o trabajo. Una energía madura y  sensible entra a tu sector del trabajo. Mientras más puedas aprender a aceptar las responsabilidades y demostrar que los demás pueden contar contigo, más recompensa económica vendrá. No te alejes de lo que podría hacerte avanzar potencialmente.

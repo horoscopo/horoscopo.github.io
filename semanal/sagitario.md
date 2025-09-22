@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 15 de septiembre 2025 al 21 de septiembre 2025 
-description: Horóscopo semanal sagitario 15 de septiembre 2025 al 21 de septiembre 2025. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
+title: sagitario 22 de septiembre 2025 al 28 de septiembre 2025 
+description: Horóscopo semanal sagitario 22 de septiembre 2025 al 28 de septiembre 2025. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2025-09-15
+ogimg: /images/zodiac/semanal_sagitario.png#2025-09-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-09-15'
+ lastmod: '2025-09-22'
 ---
 
 
 
-## Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
+## En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
 
-Siempre has tenido un fuerte instinto de supervivencia Sagitario, y ese es el instinto que debes sacar ahora. Remonta de nuevo, remonta como siempre haces Sagitario y deja un poco de preocuparte por tonterías. Hay cosas que no tienen solución y la verdad que mejor que no la tengan. Estás un poco reticente a compartir nada con nadie pero a menudo es importante que saques lo que sientes y que no te quedes atrapado en otros momentos que ya han pasado. No te agobies por nada, deja el mal humor de lado y vuelve a brillar como siempre has hecho. Necesitas centrarte en algo que te motive de verdad, busca el camino, métete de lleno en él y aplica la constancia. Si no hay algo que guíe tus pasos siempre estarás perdido, como en el limbo, sin saber muy bien qué hacer o hacia dónde dirigirte, sin tener claro nada. Es cierto que quizás tengas muchas dudas ahora mismo pero empieza a tomar decisiones de verdad que te acerquen más a lo que quieres conseguir. No tengas miedo de probar y tampoco tengas miedo de fallar. Cada persona necesita su tiempo de adaptación pero no te resistas ni digas que no por no cagarla, por no sufrir. Ya tienes un caparazón duro que puede resistirlo todo así que, inténtalo una vez más.
-Esta puede ser una excelente semana para conectar con gente de tu ámbito profesional. Si no ves las horas de comenzar a promover un proyecto, un plan de mercadotecnia puede ayudarte. El Eclipse Solar en Virgo del domingo 21 ilumina tu sector de la carrera y la vida pública, ofreciéndote un nuevo y poderoso comienzo. Poner en marcha un plan ahora puede ser muy positivo.
+No puedes esperar a que las cosas pasen Sagitario, no puedes esperar a que sean otros los que decidan casi tu futuro… Tanto pensar un día va a acabar contigo, de verdad. De una vez por todas plántale cara a los problema, no los dejes pasar, no pienses que el tiempo curará todo, porque no siempre lo hace, no creas que saliendo a la calle a despejarte las cosas volverán a la normalidad. Si algo no quiere salir de tu cabeza haz que salga como sea. No puedes perder otros tipos de oportunidades por tener siempre lo mismo, algo que ni avanza ni retrocede, algo que a veces parece que está ahí clavado en nuestra memoria sólo por joder. Si te pasas la vida reflexionando y pensando en como solucionar algo pero no haces nada al final lo único que acaba pasando es la vida y, bueno, a otros signos puede que esto ni siquiera les afecte pero tú eres Sagitario, esa persona que quiere vivir desde que nació, que quiere disfrutar todo, desde los sentimientos más intensos hasta los viajes más largos, desde las conversaciones más interesantes hasta el amor más pasional. ¡Despierta! Sinceramente, ¿qué haces planteándote esperar? ¿qué haces pensando que las cosas se acabarán poniendo en el lugar que le corresponden? Si no lo haces tú, no lo va a hacer nadie. No dejes pasar ni una sola oportunidad que te haga feliz a ti aunque a los demás no les guste. De verdad. Por tu propio bien. Y toma decisiones YA, AQUÍ y AHORA Sagitario. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
+Puede que decidas usar esta semana para explorar tus metas. El Sol entra en Libra el lunes 22, activando tu sector social. Descubrirás que las fiestas y los eventos sociales brindan una manera de conocer personas que están en tu misma sintonía y que, tal vez, puedan ayudarte a lograr tus planes más importantes, especialmente los que iniciaste con el eclipse del día 21. Mientras tanto, una tranquila alineación planetaria puede ser una llamada a relajarte por completo.
 
 ## Dinero
 
-Tienes la oportunidad de aumentar dramáticamente tus habilidades para ganar dinero esta semana si tienes el suficiente cuidado. La advertencia se debe a una confrontación relacionada con tus asuntos monetarios. Tienes un montón de posibilidades para atraer a más, pero también hay una atención a la deuda. Esta lucha no tiene por qué ser fea. En lugar de perder la paciencia y cortar todas las tarjetas de crédito en un ataque de resentimiento, busca un equilibrio entre lo que viene con lo que sale.
+Esta semana estás preparando el escenario para un nuevo capítulo. Ha llegado el momento de parecer más profesional, por lo que salir a comprar ropa de oficina no es una mala idea. Te percatarás de que tu actitud cambia y que eres capaz de atraer el tipo de ofertas que realmente deseas. El Universo está alertando nuevas formas de pagar la deuda o solicitar financiación si necesitas una extensión de crédito.

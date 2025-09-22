@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 15 de septiembre 2025 al 21 de septiembre 2025 
-description: Horóscopo semanal escorpio 15 de septiembre 2025 al 21 de septiembre 2025. No dejes todo por nada, ni por nadie. Déjalo por ti. Que te caes, está bien, ya has aprendido a levantarte muchas veces…
+title: escorpio 22 de septiembre 2025 al 28 de septiembre 2025 
+description: Horóscopo semanal escorpio 22 de septiembre 2025 al 28 de septiembre 2025. Crece Escorpio, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2025-09-15
+ogimg: /images/zodiac/semanal_escorpio.png#2025-09-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-09-15'
+ lastmod: '2025-09-22'
 ---
 
 
 
-## No dejes todo por nada, ni por nadie. Déjalo por ti. Que te caes, está bien, ya has aprendido a levantarte muchas veces…
+## Crece Escorpio, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
 
-Está bien que la gente que te acompaña en la vida, comparta tus metas, tus logros, y también tus decepciones y bajones. Está bien que estén a tu lado en las buenas y en las malas. Pero ellos NO son tu felicidad Escorpio, y no debes depender de nadie porque, si algún días te abandonan, te quedarás vacía/o por dentro.
-Puede que no estés de acuerdo con alguien en tu círculo social, lo que le dará un nervioso comienzo a tu semana. Podría ser debido a que uno de ustedes se está centrando en los detalles, mientras que el otro está analizando el panorama completo. Si logran unir ambos extremos, es posible que logren mucho más. El Eclipse Solar en Virgo del domingo 21 en tu sector de amistades y exploración podría darle un nuevo significado a un proyecto grupal, adquiriendo un propósito muy diferente al que originalmente pretendía.
+Aunque haya más de un momento en el que la nostalgia pueda invadirte, evita gastar esfuerzos en cosas que no merecen la pena, en cosas que no van a sacarte de nada y centra la fuerza en salir adelante con todo, no te estanques ni dejes que otros lo intenten. 
+Hay cosas que es mejor despedir cuanto antes. Reflexiona antes de lanzarte de nuevo, piensa un poquito en lo que más te conviene y no te dejes llevar por la rabia del momento.
+Un generoso gesto podría hacer una gran diferencia al comienzo de la semana. Pero prepárate para un cambio el lunes 22, cuando el Sol ingresa a Libra y a tu sector de introspección y descanso. Este sería un buen momento para eliminar concienzudamente el exceso de objetos y de cargas emocionales. Si no lo has hecho durante algún tiempo, podría resultarte muy liberador. Te sentirás mucho mejor después de haber liberado tu espacio. Mientras tanto, el reciente eclipse del día 21 podría animarte a considerar algunas grandes ideas para tus proyectos a futuro.
 
 ## Dinero
 
-Esta semana se te está pidiendo asumir una mayor responsabilidad en tus relaciones personales o profesionales. No les des una atención a medias. De verdad intenta hacerles sentir su valor. Entre semana se destaca la labor de día tras día. Puede que el dinero sea temporalmente inestable, pero estás recibiendo muy buenas ideas sobre cómo hacer más. ¡Anótalas!
+Es crucial no aceptar la palabra de todos por ahora, sino más bien descubrir por ti cuál podría ser el mejor plan para tu dinero. Los vehículos de inversión pueden ser confusos, por lo que cuenta con la ayuda de un asesor financiero calificado que pueda ayudarte a solucionar las ecuaciones numéricas y lograr que todo se haga. Mientras tanto, el Universo añade un poco de emoción.
