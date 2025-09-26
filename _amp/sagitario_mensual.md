@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Sagitario Septiembre 2025 
+title: Horoscopo Sagitario Octubre 2025 
 permalink: /horoscopo-mensual/amp/sagitario/
 normallink: /horoscopo-mensual/sagitario/
 home: FALSE
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Sagitario_mes.png#2025-08-26
+ogimg: /images/mes/Sagitario_mes.png#2025-09-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-08-26'
+ lastmod: '2025-09-26'
 ---
 
 

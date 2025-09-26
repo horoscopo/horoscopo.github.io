@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Acuario Septiembre 2025 
+title: Horoscopo Acuario Octubre 2025 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Acuario_mes.png#2025-08-26
+ogimg: /images/mes/Acuario_mes.png#2025-09-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-08-26'
+ lastmod: '2025-09-26'
 ---
 
 

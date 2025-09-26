@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Escorpio Septiembre 2025 
+title: Horoscopo Escorpio Octubre 2025 
 permalink: /horoscopo-mensual/amp/escorpio/
 normallink: /horoscopo-mensual/escorpio/
 home: FALSE
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Escorpio_mes.png#2025-08-26
+ogimg: /images/mes/Escorpio_mes.png#2025-09-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-08-26'
+ lastmod: '2025-09-26'
 ---
 
 

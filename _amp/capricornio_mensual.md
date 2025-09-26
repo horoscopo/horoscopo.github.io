@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Capricornio Septiembre 2025 
+title: Horoscopo Capricornio Octubre 2025 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Capricornio_mes.png#2025-08-26
+ogimg: /images/mes/Capricornio_mes.png#2025-09-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-08-26'
+ lastmod: '2025-09-26'
 ---
 
 

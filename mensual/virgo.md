@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Virgo Septiembre 2025
-description: El Horóscopo Septiembre de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Virgo Octubre 2025
+description: El Horóscopo Octubre de Virgo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/virgo/
 amplink: /horoscopo-mensual/amp/virgo/
 home: FALSE
-keywords: horóscopo septiembre, horoscopos en español, horóscopo Virgo septiembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Virgo, Tarot, Astrologia, Zodíaco, Virgo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo octubre, horoscopos en español, horóscopo Virgo octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Virgo, Tarot, Astrologia, Zodíaco, Virgo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/virgo_mes.png#2025-08-26
+ogimg: /images/mes/virgo_mes.png#2025-09-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-08-26'
+ lastmod: '2025-09-26'
 ---
 
 
