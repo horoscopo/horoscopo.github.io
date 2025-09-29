@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 22 de septiembre 2025 al 28 de septiembre 2025 
-description: Horóscopo semanal leo 22 de septiembre 2025 al 28 de septiembre 2025. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
+title: leo 29 de septiembre 2025 al 05 de octubre 2025 
+description: Horóscopo semanal leo 29 de septiembre 2025 al 05 de octubre 2025. La guerra que tienes dentro está deseando encontrar un poco de paz Leo, de verdad, ya no puede aguantar tanto. ¿Qué pasa con tus metas, con tus objetivos? Primero debes ponerte a ti mismo ahora. ¿No te acuerdas de cuantas cosas has rechazado por amor? ¿o de cuanto has dejado de lado?
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2025-09-22
+ogimg: /images/zodiac/semanal_leo.png#2025-09-29
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-09-22'
+ lastmod: '2025-09-29'
 ---
 
 
 
-## Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
+## La guerra que tienes dentro está deseando encontrar un poco de paz Leo, de verdad, ya no puede aguantar tanto. ¿Qué pasa con tus metas, con tus objetivos? Primero debes ponerte a ti mismo ahora. ¿No te acuerdas de cuantas cosas has rechazado por amor? ¿o de cuanto has dejado de lado?
 
-A veces amas demasiado Leo, a veces das mucho de ti, tanto que te quedas sin nada para ti mismo. Y cuando regalas todo de ti es porque probablemente quieres que los demás se sientan completos, enteros. Es cierto que te encanta ayudar Leo, sabes que estás siempre para quien te necesita, te falta el tiempo, pero el problema también es que te olvidas de ti. Sacas una fuerza inquebrantable mientras levantas a los demás y eso te hace sentir bien, pero tú te quedas sin fuerzas después. Leo, tienes que replantearte muchas cosas, tienes que replantearte por qué tienes tanto que dar pero después te da miedo salir de tu mundo y expresar lo que sientes, por qué te da miedo apostar por algo o alguien que merece la pena, por qué te cuesta dar esos pasos personales todo el tiempo. Leo, no ocultes más lágrimas, no te sientas solo aunque estés rodeado de personas, no te preguntes más cuando será tu turno, tu turno para encontrar el amor verdadero, para encontrar tu camino, para cambiar de trabajo, para lo que sea… Olvídate de todo eso y cambia, de dentro a afuera, y no te lamentes, y no te encabrones. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas… Sólo mira a los ojos Leo, y siente… Feliz semana…
-Es posible que necesites tomar una decisión con respecto a tus planes. Si te ofrecen una oportunidad, la alineación actual te invita a analizar los detalles. El Sol entra en Libra el lunes 22, activando tu sector de la comunicación, por lo que un poco de encanto puede hacer maravillas. Aprovecha la energía del reciente eclipse del día 21 para poner en marcha un nuevo plan financiero y comunicarlo con claridad.
+No te arrepientas de abrirte Leo, no te arrepientes de haber dado mucho, o de haber dado poco. En serio, no te arrepientas. Eres como eres, y aunque últimamente te hayas llevado más disgustos que otra cosa mira, no puedes cambiar. Cada momento en el que decides ser real y sensible, o emocional con alguien, estás siendo tú mismo de verdad, estás ganando al fin y al cabo, ganando experiencia, fortaleza, ganando pasión, corazón, bondad, estás siendo tú mismo aprendiendo a quererte tal cual, sin miedo a lo que pueda pasar. Y eso nunca puede ser un error. Esta semana tendrás momentos más débiles Leo, momentos en los que quizás te sientas incluso un poco mal, y ni siquiera sepas por qué, momentos en los que estalles por cualquier estupidez, estupideces sin mucha lógica ya pero al fin y al cabo que aún te afectan aunque no quieras. No importa lo perdido que puedas estar, va a pasar Leo, no importa lo que esté pasando por tu vida y por tu corazón ahora, vas a sobrevivir ¿ok? Esta semana quizás sea un poco dura pero te servirá para abrir los ojos Leo, para darte cuenta de que, o te mueves o caducas. Lo mejor que podrás hacer ahora será cortar con la mierda. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos, y proponte metas de nuevo, y no desistas porque no salgan a la primera. Necesitas un poco de motivación extra.
+Estás en una fase en la que te beneficiará relajarte. Con el Sol en Libra, tu sector de la comunicación está muy activo. Deberías dedicarte a meditar sobre tu progreso y metas. También es una oportunidad para dejar de lado situaciones que drenan tu energía. Si haces esto ahora, harás el mejor uso posible de tu período de recuperación. La colaboración y el trabajo en equipo se ven favorecidos.
 
 ## Dinero
 
-Te estás preparando para hacer algunos cambios importantes en la forma en la que haces negocios. Tal vez estés pensando en mudarte a otra casa o trabajo. Una energía madura y  sensible entra a tu sector del trabajo. Mientras más puedas aprender a aceptar las responsabilidades y demostrar que los demás pueden contar contigo, más recompensa económica vendrá. No te alejes de lo que podría hacerte avanzar potencialmente.
+Si has estado buscando maneras de tener más apertura acerca de tus actividades monetarias, el cosmos te provee soluciones de todo tipo. Tendrás apoyo a la hora de comunicar tus necesidades y deseos relacionados con dinero. Si ha pasado mucho tiempo desde la última vez que recibiste un aumento de sueldo, habla con tu jefe acerca de las razones por las cuales te lo mereces. Alguien como tú no malgasta las horas de trabajo, eres un valioso contribuyente.

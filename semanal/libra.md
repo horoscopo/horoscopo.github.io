@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: libra 22 de septiembre 2025 al 28 de septiembre 2025 
-description: Horóscopo semanal libra 22 de septiembre 2025 al 28 de septiembre 2025. No es que estés cambiando Libra, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
+title: libra 29 de septiembre 2025 al 05 de octubre 2025 
+description: Horóscopo semanal libra 29 de septiembre 2025 al 05 de octubre 2025. Tienes la semana agitada Libra. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2025-09-22
+ogimg: /images/zodiac/semanal_libra.png#2025-09-29
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-09-22'
+ lastmod: '2025-09-29'
 ---
 
 
 
-## No es que estés cambiando Libra, es que hay cosas que ya no vas a tolerar, hay cosas que ya se van a quedar a un lado de tu vida, porque no te hacían bien. Simple y sencillo. Antes hubieras puesto la mano en el fuego tantas veces… Hoy te cuesta confiar del todo
+## Tienes la semana agitada Libra. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
 
-Te da miedo empezar etapas nuevas, te da miedo dejar a un lado lo que ya has conseguido, te da miedo mandarlo todo a la mierda y también te da miedo darlo todo por algo o por alguien. Y al final, te mantienes como estás, aunque sabes de sobra que como estás no eres plenamente feliz. 
-Date un respiro, toma algún día para pensar y relajarte, mímate un poco y deja que los sentimientos y las emociones vayan saliendo solos. 
-como si no quisieras sentir lo que sientes, como si quisieras sentir lo que no sientes. Es una estupidez porque al final, todo sale.
-¡Feliz temporada de cumpleaños, Libra! El Sol entra en tu signo el lunes 22, envolviéndote con energía y vitalidad. Podrías conocer a alguien que no teme decir exactamente lo que siente. ¿Te molestará? La presente mezcla de energías indica que esto podría parecerte algo nuevo y distinto. De hecho, podría incluso ser el desencadenante de una decisión que cambie todo, impulsada por el reciente eclipse del día 21. Mientras tanto, si deseas darte el gusto de comer lo que quieras este fin de semana, ¡adelante!
+Has estado esforzándote mucho por hacer las cosas bien, por tratar de arreglarlo todo, por conseguir tus metas y tus objetivos así que, esta semana te mereces hacer todo lo que hagas por y para ti Libra.
+Con el Sol en tu signo, este es un excelente momento para hacer planes y brillar. Podrías tener mucha emoción y anticipación en tu deseo de visitar países que nunca has visto o en tomar una ruta más aventurera. Posibilidades románticas también podrían revelársete cuando salgas de tu zona de confort. Tu vida social se vuelve más viva, animándote a ponerte en contacto con amigos y salir a socializar.
 
 ## Dinero
 
-Este período se trata de tus relaciones. Puede que un montón de gente nueva entre a tu vida, lo que podría ser ideal para socializar y conocer a otras personas en tu campo. Las relaciones viejas y rancias que parecen no traerte nada pueden estar desapareciendo, cambiando dramáticamente, o desapareciendo por completo. No te aferres a lo que ya no te sirve más.
+Recibes un impulso de energía positiva del Universo esta semana. Esto combina tus energías masculinas y femeninas de una manera pacífica, armoniosa y te permite participar en actividades divertidas que involucran tanto a amantes, como a familiares. Sin embargo, otro aspecto te afecta en el área que gobierna los valores y las ganancias. Ambos tienen que ser revisados para que puedas ganar dinero en serio.

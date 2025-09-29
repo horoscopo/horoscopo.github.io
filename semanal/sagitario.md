@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 22 de septiembre 2025 al 28 de septiembre 2025 
-description: Horóscopo semanal sagitario 22 de septiembre 2025 al 28 de septiembre 2025. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
+title: sagitario 29 de septiembre 2025 al 05 de octubre 2025 
+description: Horóscopo semanal sagitario 29 de septiembre 2025 al 05 de octubre 2025. Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2025-09-22
+ogimg: /images/zodiac/semanal_sagitario.png#2025-09-29
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-09-22'
+ lastmod: '2025-09-29'
 ---
 
 
 
-## En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo.
+## Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
 
-No puedes esperar a que las cosas pasen Sagitario, no puedes esperar a que sean otros los que decidan casi tu futuro… Tanto pensar un día va a acabar contigo, de verdad. De una vez por todas plántale cara a los problema, no los dejes pasar, no pienses que el tiempo curará todo, porque no siempre lo hace, no creas que saliendo a la calle a despejarte las cosas volverán a la normalidad. Si algo no quiere salir de tu cabeza haz que salga como sea. No puedes perder otros tipos de oportunidades por tener siempre lo mismo, algo que ni avanza ni retrocede, algo que a veces parece que está ahí clavado en nuestra memoria sólo por joder. Si te pasas la vida reflexionando y pensando en como solucionar algo pero no haces nada al final lo único que acaba pasando es la vida y, bueno, a otros signos puede que esto ni siquiera les afecte pero tú eres Sagitario, esa persona que quiere vivir desde que nació, que quiere disfrutar todo, desde los sentimientos más intensos hasta los viajes más largos, desde las conversaciones más interesantes hasta el amor más pasional. ¡Despierta! Sinceramente, ¿qué haces planteándote esperar? ¿qué haces pensando que las cosas se acabarán poniendo en el lugar que le corresponden? Si no lo haces tú, no lo va a hacer nadie. No dejes pasar ni una sola oportunidad que te haga feliz a ti aunque a los demás no les guste. De verdad. Por tu propio bien. Y toma decisiones YA, AQUÍ y AHORA Sagitario. Y libérate de una vez de mierda. Hoy puede ser un gran día para empezarlo todo, de una vez, todo eso que llevas tiempo queriendo hacer.
-Puede que decidas usar esta semana para explorar tus metas. El Sol entra en Libra el lunes 22, activando tu sector social. Descubrirás que las fiestas y los eventos sociales brindan una manera de conocer personas que están en tu misma sintonía y que, tal vez, puedan ayudarte a lograr tus planes más importantes, especialmente los que iniciaste con el eclipse del día 21. Mientras tanto, una tranquila alineación planetaria puede ser una llamada a relajarte por completo.
+Son muchos los que quieren arruinar tu vida Sagitario, los que no pueden soportar cuando subes a una foto a alguna red social, los que rabian cuando te ven feliz. Pero es que ahora, estás conectado a tu vida más que nunca, crees en ti mismo y sabes las posibilidades que tienes en este mundo. Y son muchas. Y esa seguridad tan fuerte es la que hará que consigas todo lo que te propongas pero también te sacará algún enemigo que otro. Pasa Sagitario, tú a lo tuyo, siempre. Todo pasa por alguna razón y lo tienes más que claro pero cuando le toca a uno mismo cuesta el doble aceptarlo pero todo pasa y todo llega Sagitario. Pero ya pasó, y ya lo superaste, o al menos, los aceptaste. Los pocos pensamientos negativos que aún te quedan acabarán por desaparecer, los buenos son los que al final prevalecen. Has tenido falta de confianza por momentos, falta de confianza que te ha ahogado, que no te ha dejado respirar, que te ha ido apagando lentamente aunque tú lucharás hasta el último minuto porque no pasara… Acuérdate de esos malos ratos Sagitario. Y no los repitas. Que la primera vez que algo te pase podrá ser un error, pero si te pasa dos veces es una elección. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Sagitario. Ahora brillas así que, aprovecha. Aprovecha todo.
+Esta puede ser una excelente semana para las finanzas, el trabajo y el progreso laboral si juegas bien tus cartas. Con el Sol en Libra, tu sector social está muy activo. Tienes la confianza para conseguir los acuerdos que querías y sientes la seguridad de que todo se dará a tu favor, siempre y cuando sepas lo que quieres. Con una actitud honesta y madura puedes obtener grandes cosas. Puede también que las influencias artísticas y musicales sean fuertes ahora. Asistir a un evento cultural podría hacerte sentir muy vivaz.
 
 ## Dinero
 
-Esta semana estás preparando el escenario para un nuevo capítulo. Ha llegado el momento de parecer más profesional, por lo que salir a comprar ropa de oficina no es una mala idea. Te percatarás de que tu actitud cambia y que eres capaz de atraer el tipo de ofertas que realmente deseas. El Universo está alertando nuevas formas de pagar la deuda o solicitar financiación si necesitas una extensión de crédito.
+Esta semana estás entrando a un torbellino social en grande. Estás saliendo de tu caparazón poco a poco y con cada vez más confianza en la manera de comunicar tus ideas. Esto es bueno para atraer a la gente significativa en tu vida y positivo para la promoción de tus sueños. Asegúrate de estar al corriente con el pago de tu deuda. Podría haber problemas si hay algo que permanece oculto.
