@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 29 de septiembre 2025 al 05 de octubre 2025 
-description: Horóscopo semanal sagitario 29 de septiembre 2025 al 05 de octubre 2025. Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
+title: sagitario 06 de octubre 2025 al 12 de octubre 2025 
+description: Horóscopo semanal sagitario 06 de octubre 2025 al 12 de octubre 2025. Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2025-09-29
+ogimg: /images/zodiac/semanal_sagitario.png#2025-10-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-09-29'
+ lastmod: '2025-10-06'
 ---
 
 
 
-## Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
+## Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
 
-Son muchos los que quieren arruinar tu vida Sagitario, los que no pueden soportar cuando subes a una foto a alguna red social, los que rabian cuando te ven feliz. Pero es que ahora, estás conectado a tu vida más que nunca, crees en ti mismo y sabes las posibilidades que tienes en este mundo. Y son muchas. Y esa seguridad tan fuerte es la que hará que consigas todo lo que te propongas pero también te sacará algún enemigo que otro. Pasa Sagitario, tú a lo tuyo, siempre. Todo pasa por alguna razón y lo tienes más que claro pero cuando le toca a uno mismo cuesta el doble aceptarlo pero todo pasa y todo llega Sagitario. Pero ya pasó, y ya lo superaste, o al menos, los aceptaste. Los pocos pensamientos negativos que aún te quedan acabarán por desaparecer, los buenos son los que al final prevalecen. Has tenido falta de confianza por momentos, falta de confianza que te ha ahogado, que no te ha dejado respirar, que te ha ido apagando lentamente aunque tú lucharás hasta el último minuto porque no pasara… Acuérdate de esos malos ratos Sagitario. Y no los repitas. Que la primera vez que algo te pase podrá ser un error, pero si te pasa dos veces es una elección. Recuérdate lo que llevas aprendido y lo que llevas ganado, y piensa que aunque des un paso hacia atrás después darás tres hacia delante. Así funciona tu vida Sagitario. Ahora brillas así que, aprovecha. Aprovecha todo.
-Esta puede ser una excelente semana para las finanzas, el trabajo y el progreso laboral si juegas bien tus cartas. Con el Sol en Libra, tu sector social está muy activo. Tienes la confianza para conseguir los acuerdos que querías y sientes la seguridad de que todo se dará a tu favor, siempre y cuando sepas lo que quieres. Con una actitud honesta y madura puedes obtener grandes cosas. Puede también que las influencias artísticas y musicales sean fuertes ahora. Asistir a un evento cultural podría hacerte sentir muy vivaz.
+Fíate de ti mismo Sagitario, de ti mismo y de tus acciones. De nadie más. Las expectativas no funcionan siempre, es más cuantas más expectativas tienes de algo más duro es el golpe después si no se cumplen como tu querías que se cumplieran. Por muy desconfiado y duro que parezcas ser, al final acabas confiando Sagitario y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto, has dejado de lado tu personalidad, tu opinión acerca de algo. Eso es lo que duele. Por eso ahora, lo mejor es no dar demasiado. Deja que sea el resto el que te de a ti. Déjate mimar. Deja que los demás te demuestren en vez de ser tú quien siempre demuestre al resto. No siempre tienes que ser tú el que está equivocado, no siempre tienes que ser tu el que vaya detrás del resto, el que tiene que arreglar constantemente todo. Si te sientes más frío ahora no te preocupes, son etapas, también tiene que haber momentos en los que no des todo de ti. Y ese es uno de ellos. Y no es que hayas cambiado, es que has sabido valorarte, has aprendido a no dar el 100% cuando sólo recibes la mitad, o ni siquiera eso. Los demás se hacen fuertes cuando el débil eres tú. Deja de poner en primer lugar los propósitos de los demás y pon los tuyos antes.
+La Luna Llena en Aries del martes 7 ilumina tu sector de la creatividad, el romance y la autoexpresión. Puede que debas tomar una decisión en un asunto del corazón. Si bien es probable que quieras seguir adelante, vale la pena asegurarse de tener toda la información necesaria antes de dar el paso. Existe un fuerte sentido de propósito en tu carta y tu vida que podría animarte a perseverar sin importar qué suceda.
 
 ## Dinero
 
-Esta semana estás entrando a un torbellino social en grande. Estás saliendo de tu caparazón poco a poco y con cada vez más confianza en la manera de comunicar tus ideas. Esto es bueno para atraer a la gente significativa en tu vida y positivo para la promoción de tus sueños. Asegúrate de estar al corriente con el pago de tu deuda. Podría haber problemas si hay algo que permanece oculto.
+Recibes ayuda con tu vida emocional ahora. El Universo afecta la manera en la que procesas y expresas emociones, sobre todo cuando se trata de la forma en la que enseñas y aprendes nuevas habilidades. ¡Ahora recibes una gran cantidad de apoyo para el uso de redes sociales para estar en contacto con nuevas formas de compartir tus habilidades y ganar dinero en el proceso!
