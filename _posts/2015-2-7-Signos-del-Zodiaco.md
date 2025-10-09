@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 08 de octubre 2025
-description: Horóscopos del dia de hoy 08 de octubre 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 09 de octubre 2025
+description: Horóscopos del dia de hoy 09 de octubre 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-10-08
+ lastmod: 2025-10-09
 ---
-Prepárate para tener que pensar rápidamente, porque siempre existe la posibilidad de que haya cambios dramáticos o noticias importantes cuando Mercurio cuadra a Urano como lo hace hoy. No puedes operar en piloto automático. El mismo ritmo continúa por la noche cuando las emociones son más intensas y no pueden ser manipuladas bajo la Luna en Escorpión.
+El mundo de los negocios nos enseña que las emociones se deben de dejar en casa - una tarea que se hace más fácil cuando la Luna forma sextil con Saturno el día de hoy.  Esta noche, los solteros podrían caer en un ligero enamoramiento que dure un solo minuto mientras Venus conjunta a Plutón bajo la Luna saliéndose de su curso. Por lo menos no va a alterar la dinámica de la vida para siempre, ¿cierto?
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
