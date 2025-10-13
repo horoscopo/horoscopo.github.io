@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 06 de octubre 2025 al 12 de octubre 2025 
-description: Horóscopo semanal capricornio 06 de octubre 2025 al 12 de octubre 2025. Tienes un potencial enorme para hacer cualquier cosa que quieras hacer y sobretodo, para hacerla grande, que haga ruido sabes, pero debes concentrarte en ello. A veces, para ser feliz hay que aprender a ignorar muchas cosas y a mucha gente…
+title: capricornio 13 de octubre 2025 al 19 de octubre 2025 
+description: Horóscopo semanal capricornio 13 de octubre 2025 al 19 de octubre 2025. Quita importancia a las cosas Capricornio, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2025-10-06
+ogimg: /images/zodiac/semanal_capricornio.png#2025-10-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-10-06'
+ lastmod: '2025-10-13'
 ---
 
 
 
-## Tienes un potencial enorme para hacer cualquier cosa que quieras hacer y sobretodo, para hacerla grande, que haga ruido sabes, pero debes concentrarte en ello. A veces, para ser feliz hay que aprender a ignorar muchas cosas y a mucha gente…
+## Quita importancia a las cosas Capricornio, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente…
 
-Esta semana te apetece hacer cosas nuevas, has dejado la idea de tener que estar siempre pendiente de los demás, de tener incluso que buscar soluciones para la vida de todo el mundo menos para la tuya. 
- A veces, te aferras a momentos de felicidad pasajera Capricornio, pero sin embargo, esos momentos no son productivos ni significativos para ti. Y al final, se quedaban en momentos superficiales que después restaban mucho más de lo que sumaban.
-El comienzo de la semana podría traerte una revelación. La Luna Llena en Aries del martes 7 ilumina tu sector del hogar y la familia. Puede que valga la pena escribir sobre tus emociones porque podrían tener valiosos consejos para ti. Esto podría animarte a organizarte mejor en casa. Si tienes demasiadas actividades, dejar de lado algunas te dará algo de tiempo. Las posibilidades románticas abundan el viernes y sábado. Podrías disfrutar de la cita perfecta. Esta combinación de energías también es excelente para una ocasión divertida, como una fiesta o celebración familiar.
+Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados, porque serán victorias más adelante. Así que, por eso, no te vas a decepcionar al final.
+Alguien podría ser una fuerza a tener en cuenta como catalizador para un cambio positivo en tu vida profesional, ya que el Sol en Libra ilumina tu sector de la carrera. Aquellos con los que tienes una estrecha conexión podrían inspirarte a empezar a trabajar en un proyecto o plan. En cuanto a romance, pensamientos de un enlace apasionado podrían hacerte sentir tentación. La energía aumenta tus posibilidades de éxito, especialmente si tienes un negocio o ganas de invertir. Sin embargo, asegúrate de obtener buenos consejos antes de empezar.
 
 ## Dinero
 
-El Universo está pidiendo que te impongas en el sector de deuda, haciendo arreglos de pago, enviando cheques y destruyendo viejas tarjetas de crédito. Mientras tanto, hay mensajes importantes en tus sueños y flashes psíquicos. Conforme muestras tu formidable ambición, no te olvides de la justicia kármica. Trata a los demás en la forma en la que te gustaría ser tratado/a en la misma posición.
+Cierta actividad en tu carta ahora afecta a tu sector de grupos, política y trabajo por cuenta propia. Es un buen momento para buscar entre tus contactos a alguien que pueda ser capaz de ayudarte a desarrollar una nueva idea de un producto que genere dinero. Tú tienes el “know-how”, pero otra persona tiene el dinero o las conexiones para llevarlo al siguiente nivel.
