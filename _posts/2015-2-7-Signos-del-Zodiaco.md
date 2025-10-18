@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 17 de octubre 2025
-description: Horóscopos del dia de hoy 17 de octubre 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 18 de octubre 2025
+description: Horóscopos del dia de hoy 18 de octubre 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-10-17
+ lastmod: 2025-10-18
 ---
-Dirige e influye con asertividad, ya que recibes ayuda del Sol y Plutón. El trígono entre Marte y Saturno señala un curso definido de acción. Si es que buscas romance, espera un mejor momento al de esta noche. Las conversaciones podrían terminar incluso antes de haber comenzado con Mercurio a punto de cambiar de signo.
+Te mueves con determinación cuando el Sol forma sextil con Saturno. Ten ingenio y creatividad al abordar las responsabilidades pendientes. Esta noche, incluso las personas de pocas palabras hablan con emoción cuando la Luna forma sextil con Mercurio. Los solteros experimentan una sensación de entendimiento. Alguien muestra interés si se le mira más allá de la sonrisa y a los ojos.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
