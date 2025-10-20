@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 13 de octubre 2025 al 19 de octubre 2025 
-description: Horóscopo semanal acuario 13 de octubre 2025 al 19 de octubre 2025. Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Acuario.
+title: acuario 20 de octubre 2025 al 26 de octubre 2025 
+description: Horóscopo semanal acuario 20 de octubre 2025 al 26 de octubre 2025. Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. 
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2025-10-13
+ogimg: /images/zodiac/semanal_acuario.png#2025-10-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-10-13'
+ lastmod: '2025-10-20'
 ---
 
 
 
-## Hay cosas que no necesitas, por mucho que se empeñen en estar ahí, por mucho que quieran pegarse a ti y no soltarte. En serio, hay cosas que es mejor que te quites de encima cuanto antes Acuario.
+## Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro. 
 
-¿Cuál es la diferencia ahora? Pues que el tiempo en darte cuenta de que estabas haciendo el tonto, se acorta. Vamos, que puedes caer y volver atrás cuando no deberías pero te das cuenta en seguida. 
- lo que pasa es que lo que sí debes aprender es a no tener que caer ni una vez más, aunque parezca que las cosas no te afectan, te afectan… ¿Por qué no cerrar las puertas que debes cerrar definitivamente y abrir las que te están esperando? Probablemente ganes mucho más… Piénsalo… Y actúa Acuario.
-Hay un enfoque en tu sector de viajes y expansión, por lo que las próximas semanas podrían ser una oportunidad para que tus planes de estudio o un viaje se vean impecables. La energía de la semana, tras la Luna Llena en tu sector de comunicación, podría hacer surgir un problema, así que da un paso atrás y resístete al impulso de involucrarte si puedes. Todo debería acomodarse y entonces sabrás qué hacer con más facilidad.
+En la vida estamos acostumbrados a arrepentirnos de muchas cosas que en su día hicimos mal pero que también ahora podemos arreglar, empezando por cambiar nuestra actitud. Si no tiene solución no hay que preocuparse más, es algo con lo que te tocará vivir, para bien o para mal, el resto de tu vida, es algo que no cambiará. Pero lo que aún tiene solución, sea la que sea, ¿por qué no solucionarlo? Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. Aguantarse toda la vida algo dentro no es bueno, hay que sacar lo que uno siente, las discusiones a menudo son buenas, siempre que sean respetando al otro, el hecho de decir qué es lo que cambiarías, qué es lo que te pareció mal, qué es lo que te hubiera gustado decir hace mucho tiempo… Todas esas cosas limpian a uno por dentro, el rencor, la rabia, las ganas de decir y no poder, el poder decir pero después no hacer, todo eso, cuando no se saca fuera se acumula, y ¿por qué no sacarlo ahora? ¿Por qué no decir todas esas palabras que no se dijeron? ¿Por qué no dejar limpia tu alma? Hubo un tiempo en el que te funcionó eso de querer decir tanto y saber que es mejor no decir nada… Pero ahora quizás es el momento de que las cosas cambien Acuario…
+Hay un enfoque en tu sector de viajes y expansión. La Luna Nueva en Libra del martes 21 podría hacer surgir un nuevo plan de viaje o estudios, así que da un paso atrás y resístete al impulso de involucrarte si no estás seguro. Todo debería acomodarse en unos días y entonces sabrás qué hacer con más facilidad. Programar y delegar tareas te permitirá disfrutar de esta temporada.
 
 ## Dinero
 
-Esta semana estás pensando en cómo poner en marcha tu creatividad. Ciertos aspectos afectan tu sector de comunicación e ideas, así como también las relaciones. El Universo exige que cada vez tengas más madurez en tu pensamiento y en la manera de expresar tus ideas. Al mismo tiempo, hay una especie de ensueño de confusión acerca de con quién trabajar y cuándo. Cuando asumes nueva seriedad, el dinero te sigue inevitablemente.
+Eres un genio, por supuesto. Lo que pasa es que los demás no se han percatado de ello. Puede que te atraigan todas las cosas que son únicas e individuales, especialmente en lo que respecta a tu dinero. Y puesto que la actividad está en tu sector de grupos y política, realmente es el momento de correr la voz sobre lo que actualmente estás haciendo para ganar dinero, así como las cosas que quieres hacer en el futuro.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 13 de octubre 2025 al 19 de octubre 2025 
-description: Horóscopo semanal geminis 13 de octubre 2025 al 19 de octubre 2025. No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
+title: geminis 20 de octubre 2025 al 26 de octubre 2025 
+description: Horóscopo semanal geminis 20 de octubre 2025 al 26 de octubre 2025. Primero saca toda la mierda y después, deja entra todo lo que te hace feliz, pero no mezcles Géminis, ¡NO MEZCLES!
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2025-10-13
+ogimg: /images/zodiac/semanal_geminis.png#2025-10-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-10-13'
+ lastmod: '2025-10-20'
 ---
 
 
 
-## No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
+## Primero saca toda la mierda y después, deja entra todo lo que te hace feliz, pero no mezcles Géminis, ¡NO MEZCLES!
 
-A veces te preguntas por qué la vida es tan difícil, por qué se te hace cuesta arriba todo a veces… Es necesario Géminis, porque los conflictos, te empujan a ver más de lo que realmente verías si no hubiera pasado nada.
-El bichito del amor podría seguir entusiasmándote con el Sol en Libra poniendo de relieve las oportunidades de citas y creatividad. Puede que sientas la necesidad de tomar una decisión el viernes. De ser así, considera dejar las cosas como están por el momento, ya que el panorama podría cambiar en las próximas semanas. Con energía en tu sector hogareño, puede que estés a punto de tener una reunión festiva. La energía de la semana sugiere que un nuevo proyecto creativo podría llamar tu atención.
+Necesitas tener un objetivo en la vida Géminis, pelear por lo que quieres, tener ambición y no estancarte. Si no, te acabas marchitando… Y a veces te encuentras quieto, parado, sin saber hacia qué dirección moverte, sin saber si es bueno mandar todo a la mierda y empezar desde cero otra vez más o quedarte como estás. Esta semana llega un proceso duro pero que al final te habrá merecido la pena. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas. Como si a mitad del camino te empezaran a flaquear las piernas y te quedaras sin fuerzas. Nada Géminis, no puede flaquearte nada ahora. Cualquier proceso de cambio tiene un tiempo y ahí es donde estás ahora. Acoplándote a las nuevas situaciones. Todo ese estrés pasará, y los momentos duros empezarán a suavizarse, como siempre ha pasado… No le temas a eso porque todo se coloca en su lugar. Disfruta del momento que estás viviendo, saca la parte positiva de todo, aunque a veces parezca que no la hay, y déjate llevar un poco, sin pensar tanto, que no es tan negro todo…
+Podrías sentir presión al comienzo de la semana. La Luna Nueva en Libra del martes 21 ilumina tu sector de la creatividad y el romance, y podría encontrarte abordando un proyecto abrumador. Si bien el enfoque y la concentración pueden ser buenos, podría ser de gran ayuda delegar. Si te enfrentas a obstáculos, trata de relajarte. Con el Sol entrando en Escorpio el jueves, tu lado más práctico querrá explorar nuevas rutinas de trabajo. El fin de semana, es posible que tus esfuerzos impresionen a alguien importante.
 
 ## Dinero
 
-Para ti, esta semana es sobre viajes, educación superior y metafísica, así como la política, los grupos sociales, esperanzas y sueños. Es un buen momento para combinar estas áreas mediante la participación en talleres, seminarios y clases en línea que te desafíen y te permitan cobrar más por una nueva habilidad o servicio. Conecta primero con tu jefe para saber cuáles son las habilidades que deberías de obtener para mejorar.
+Este período es acerca de cómo lidiar con todas las ofertas y oportunidades que te lleguen, sobre todo en lo que respecta a tu carrera. La suerte y la expansión se combinan muy bien con súbita inspiración y cambio. Dado que esto afecta a tu sector profesional, también saca a relucir la idea de figuras de autoridad. ¿Estás chocando con alguien más arriba de ti en el trabajo?, ¿o será que te preparas para ponerte los zapatos de autoridad en tu vida?
