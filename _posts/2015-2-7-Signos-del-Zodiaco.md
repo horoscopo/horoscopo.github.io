@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 21 de octubre 2025
-description: Horóscopos del dia de hoy 21 de octubre 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 22 de octubre 2025
+description: Horóscopos del dia de hoy 22 de octubre 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-10-21
+ lastmod: 2025-10-22
 ---
-Toma las cosas con calma bajo la Luna en Piscis de hoy. Mercurio a punto de salir de Escorpión desata una intensidad que no debería ser manifestada en un lugar público. Esta noche, la conjunción entre la Luna y Neptuno calma las aguas. Solteros, prepárense para escuchar  historias descabelladas. Si alguien termina escapándose, puede que resulte ser algo bueno.
+Cuando la Luna en Géminis forma trígono con Mercurio y los teléfonos no paran de sonar, el Universo envía grandes piezas de información. A esto, añádele ideas que te llegan de fuentes del más allá (intuición). Cuando Venus, el planeta del amor, se encuentra a punto de cambiar de signo como lo está esta noche, es momento de dejar el pasado donde pertenece - atrás.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
