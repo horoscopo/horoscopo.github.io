@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Aries Octubre 2025
-description: El Horóscopo Octubre de Aries todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Aries Noviembre 2025
+description: El Horóscopo Noviembre de Aries todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/aries/
 amplink: /horoscopo-mensual/amp/aries/
 home: FALSE
-keywords: horóscopo octubre, horoscopos en español, horóscopo Aries octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Aries, Tarot, Astrologia, Zodíaco, Aries, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo noviembre, horoscopos en español, horóscopo Aries noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Aries, Tarot, Astrologia, Zodíaco, Aries, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/aries_mes.png#2025-09-26
+ogimg: /images/mes/aries_mes.png#2025-10-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-09-26'
+ lastmod: '2025-10-26'
 ---
 
 
