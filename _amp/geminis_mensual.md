@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Géminis Octubre 2025 
+title: Horoscopo Géminis Noviembre 2025 
 permalink: /horoscopo-mensual/amp/geminis/
 normallink: /horoscopo-mensual/geminis/
 home: FALSE
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Géminis_mes.png#2025-09-26
+ogimg: /images/mes/Géminis_mes.png#2025-10-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-09-26'
+ lastmod: '2025-10-26'
 ---
 
 

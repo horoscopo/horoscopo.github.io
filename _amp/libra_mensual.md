@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Libra Octubre 2025 
+title: Horoscopo Libra Noviembre 2025 
 permalink: /horoscopo-mensual/amp/libra/
 normallink: /horoscopo-mensual/libra/
 home: FALSE
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/Libra_mes.png#2025-09-26
+ogimg: /images/mes/Libra_mes.png#2025-10-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-09-26'
+ lastmod: '2025-10-26'
 ---
 
 

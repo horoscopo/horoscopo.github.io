@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Géminis Octubre 2025
-description: El Horóscopo Octubre de Géminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Géminis Noviembre 2025
+description: El Horóscopo Noviembre de Géminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/geminis/
 amplink: /horoscopo-mensual/amp/geminis/
 home: FALSE
-keywords: horóscopo octubre, horoscopos en español, horóscopo Géminis octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Géminis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo noviembre, horoscopos en español, horóscopo Géminis noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Géminis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/geminis_mes.png#2025-09-26
+ogimg: /images/mes/geminis_mes.png#2025-10-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-09-26'
+ lastmod: '2025-10-26'
 ---
 
 
