@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 20 de octubre 2025 al 26 de octubre 2025 
-description: Horóscopo semanal capricornio 20 de octubre 2025 al 26 de octubre 2025. Estás renaciendo Capricornio, renaciendo de las cenizas… Y ya era hora…
+title: capricornio 27 de octubre 2025 al 02 de noviembre 2025 
+description: Horóscopo semanal capricornio 27 de octubre 2025 al 02 de noviembre 2025. Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2025-10-20
+ogimg: /images/zodiac/semanal_capricornio.png#2025-10-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-10-20'
+ lastmod: '2025-10-27'
 ---
 
 
 
-## Estás renaciendo Capricornio, renaciendo de las cenizas… Y ya era hora…
+## Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
 
-No sabes muy bien qué hacer con tus sentimientos, si guardarlos en un cajón y esperar a que se tranquilicen o si sacarlos y dejan que fluyan como locos.
-La idea de ganar dinero y gastar dinero puede rondar bastante por tu mente. Con la Luna Nueva en Libra del martes 21, el enérgico Marte y el luminoso Sol en tu sector de la carrera, puede que te animes a hacer un análisis y hacer lo que sea necesario para mejorar tu situación profesional. Algo que quizás quieras evitar de todas formas, es tomar decisiones impulsivas. Aun así, una investigación cuidadosa podría producir alguna ganancia.
+Eres demasiado honesto con el resto Capricornio y a pesar de que a veces quieras esconder tus sentimientos, no puedes, y en el fondo llevas siempre el corazón en la manga… Es difícil comprenderte Capricornio, y es difícil porque eres como un lobo solitario, estás acostumbrado a pasar tiempo solo, a no abrirte a los demás, a cerrarte en ti mismo, en tus penas, en tus desilusiones, en tus decepciones… Es complicado para ti encontrar a alguien que de verdad comprenda que sólo es miedo al dolor, que tú lo que quieres es amor, amor de esos de película, romance puro, dulce, fiel y sincero… Que quizás con un abrazo se solucionaría tanto, con una palabra bonita, con un “te quiero” o “estoy aquí”… Pero no lo pides… Ni tampoco quieres. Siempre fuiste de los que prefieren esperar a que al resto les salgan los detalles. Y es complicado, complicado porque has estado más destrozado de lo que has sido querido. No confías fácilmente, siempre estás alerta, esperando esa “puñalada”, esperando esa traición… Tienes que cambiar el chip Capricornio, tienes que tratar de fiarte en quien de verdad te está demostrando confianza. No renuncies a las cosas bonitas, no renuncies a empezar un nuevo camino, a dejarte querer, no renuncies a ser temerario de vez en cuando, no renuncies a encontrar sensaciones nuevas porque a veces parezca que hay más seguridad en tu soledad. Es complicado encontrar algo cuando no sabes bien qué es lo que buscas… Mira en tu interior y no desesperes, llevará su tiempo, pero lo vas a encontrar. Observa las señales.
+El continuo enfoque en tu sector social podría acelerar el desarrollo de una nueva amistad o proyecto grupal. Durante los días por venir podrías encontrarte tomando una decisión sobre si deberías acercarte o no a un grupo de personas. Tu sector profesional estará bajo enfoque a partir del viernes, animándote a hacer un análisis y considerar cómo podrías mejorar tu estatus. Ten cuidado este fin de semana, ya que la energía podría resultar agotadora. Aprovecha esta oportunidad para mimarte.
 
 ## Dinero
 
-Amas profundizar en lo espiritual y lo metafísico. Incluso podrías elegir esto como una carrera profesional y desarrollar tus habilidades. Ahora, tus habilidades espirituales o psíquicas podrían recibir un repentino impulso. Dado a que la actividad astral afecta tu sector de estudios, viajes y metafísica; podrías hacer un recorrido por los sitios espirituales de todo el mundo o compartir tu conocimiento a través de la enseñanza.
+Te encanta fraccionar tu vida, con el dinero en un lado y el trabajo en el otro. Pero ahora algunos de tus compartimentos posiblemente tengan que ser combinados un poco con el fin de tener todo listo. Puede ser que estés pensando en volverte cada vez más responsables con tus finanzas en general. También estás combatiendo el hecho de que la caja que guarda el dinero en efectivo está un poco más seca que de costumbre. Cultiva otros recursos financieros adicionales a través de cambios o un trabajo extra de tiempo parcial.

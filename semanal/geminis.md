@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 20 de octubre 2025 al 26 de octubre 2025 
-description: Horóscopo semanal geminis 20 de octubre 2025 al 26 de octubre 2025. Primero saca toda la mierda y después, deja entra todo lo que te hace feliz, pero no mezcles Géminis, ¡NO MEZCLES!
+title: geminis 27 de octubre 2025 al 02 de noviembre 2025 
+description: Horóscopo semanal geminis 27 de octubre 2025 al 02 de noviembre 2025. Vete a tu cerebro, y borra Géminis, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño Géminis. Deja salir para que pueda entrar lo demás.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2025-10-20
+ogimg: /images/zodiac/semanal_geminis.png#2025-10-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-10-20'
+ lastmod: '2025-10-27'
 ---
 
 
 
-## Primero saca toda la mierda y después, deja entra todo lo que te hace feliz, pero no mezcles Géminis, ¡NO MEZCLES!
+## Vete a tu cerebro, y borra Géminis, borra memoria que ocupa un espacio innecesario. Y pensarás ¿cómo se hace eso? Pues eso se hace recargando ese espacio de momentos positivos de aquí en adelante, de risas, de detalles bonitos, de alegría, de cariño, de mucho cariño Géminis. Deja salir para que pueda entrar lo demás.
 
-Necesitas tener un objetivo en la vida Géminis, pelear por lo que quieres, tener ambición y no estancarte. Si no, te acabas marchitando… Y a veces te encuentras quieto, parado, sin saber hacia qué dirección moverte, sin saber si es bueno mandar todo a la mierda y empezar desde cero otra vez más o quedarte como estás. Esta semana llega un proceso duro pero que al final te habrá merecido la pena. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas. Como si a mitad del camino te empezaran a flaquear las piernas y te quedaras sin fuerzas. Nada Géminis, no puede flaquearte nada ahora. Cualquier proceso de cambio tiene un tiempo y ahí es donde estás ahora. Acoplándote a las nuevas situaciones. Todo ese estrés pasará, y los momentos duros empezarán a suavizarse, como siempre ha pasado… No le temas a eso porque todo se coloca en su lugar. Disfruta del momento que estás viviendo, saca la parte positiva de todo, aunque a veces parezca que no la hay, y déjate llevar un poco, sin pensar tanto, que no es tan negro todo…
-Podrías sentir presión al comienzo de la semana. La Luna Nueva en Libra del martes 21 ilumina tu sector de la creatividad y el romance, y podría encontrarte abordando un proyecto abrumador. Si bien el enfoque y la concentración pueden ser buenos, podría ser de gran ayuda delegar. Si te enfrentas a obstáculos, trata de relajarte. Con el Sol entrando en Escorpio el jueves, tu lado más práctico querrá explorar nuevas rutinas de trabajo. El fin de semana, es posible que tus esfuerzos impresionen a alguien importante.
+Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca Géminis. La gente se cree muchas veces que no sufres, que eres demasiado frío en ocasiones por no mostrar tus verdaderos sentimientos, por no abrirte en canal como hacen otros. Pero la verdad no es esa. Estás cansado de dar, de intentar, de dejar de lado tus derechos porque los demás no se tomen las cosas mal, incluso de arrastrarte. De verdad que estás harto de todo eso. A veces hay que ceder Géminis pero el problema contigo es que tu das la mano y se toman todo el brazo. Empieza a imponerte un poco. Una cosa es que seas bueno, otra cosa es que te puedan sacar hasta la sangre por esto. No te enfades contigo mismo si no has sabido decir todo lo que piensas, aún tienes posibilidad de remediarlo, de hecho, necesitas remediarlo. No puedes pretender que nada cambie si tú no cambias Géminis, a veces las decisiones más complicadas son las que al final nos harán libres. Y necesitas sentir eso ahora. Disfruta de la semana y recuerda que eres como eres, que nadie puede hacerte cambiar pero que tú tampoco podrás cambiar a nadie. Conecta con quien conecta contigo.
+Esta semana estarás enfocándote en tu trabajo y tu salud, con el Sol en Escorpio activando esta área. También tendrás la oportunidad de cerrar ofertas lucrativas y ganar un poco de dinero en el proceso. Las actividades de compraventa parecen ir bien, sobre todo desde el jueves, una vez que la comunicación se vuelve más clara y directa. Cualquier retraso que has experimentado debería comenzar a desaparecer.
 
 ## Dinero
 
-Este período es acerca de cómo lidiar con todas las ofertas y oportunidades que te lleguen, sobre todo en lo que respecta a tu carrera. La suerte y la expansión se combinan muy bien con súbita inspiración y cambio. Dado que esto afecta a tu sector profesional, también saca a relucir la idea de figuras de autoridad. ¿Estás chocando con alguien más arriba de ti en el trabajo?, ¿o será que te preparas para ponerte los zapatos de autoridad en tu vida?
+Te enfrentas a algunos retos cuando se trata de tu vida hogareña y emociones internas. Es posible que te preocupe el ser capaz de pagar por tu estilo de vida o incluso mantener tu casa. Pero con un Universo armonioso, serás capaz de refinanciar, recaudar fondos adicionales, o pedir un préstamo si es necesario. Es un momento afortunado, así que no dejes que la timidez te detenga.

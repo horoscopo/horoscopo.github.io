@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 20 de octubre 2025 al 26 de octubre 2025 
-description: Horóscopo semanal piscis 20 de octubre 2025 al 26 de octubre 2025. Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
+title: piscis 27 de octubre 2025 al 02 de noviembre 2025 
+description: Horóscopo semanal piscis 27 de octubre 2025 al 02 de noviembre 2025. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2025-10-20
+ogimg: /images/zodiac/semanal_piscis.png#2025-10-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-10-20'
+ lastmod: '2025-10-27'
 ---
 
 
 
-## Hay mucho perro suelto, es cierto, pero no estás aquí para dar lecciones de vida a nadie. Lo mejor es que dejes que hagan lo que quieran. La vida al final siempre la devuelve. Ten paciencia y no te metas en camisas de once varas.
+## Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio.
 
-Disfruta de la vida Piscis, de verdad. A veces hay que dejar atrás lo que pertenece a atrás de una vez, y sí, por qué no, volver a dar oportunidades, volver a confiar. Es muy triste que te hayan fallado, es cierto, pero el castigo más grande es haberte hecho desconfiado con el mundo, desconfiado con todos. Hay que cambiar eso como sea, hay que cambiarlo porque hay gente buena que lo que quiere es dar, que te valora, que te quiere. Sé amable con la gente que está a tu alrededor y perdona y sigue a tu corazón. Al final del todo, si no lo haces, te vas a arrepentir muchísimo, a veces esas situaciones no vuelven Piscis. Hay algunos problemillas que te rodean pero van a solucionarse pronto, aunque deberás tener una buena actitud para liquidarlos definitivamente. Te espera una etapa nueva pero tienes que dejar lo absurdo a un lado, tienes que dejar todo eso que te produce estrés aparcado y pensar que el 99% de cosas que pueden estresarte hoy te importarán una mierda en unas semanas. Quédate con lo positivo y sigue adelante con tu vida. Todo cambiará a mejor. La paz interior es la nueva meta, así que, ¡céntrate! Feliz semana Piscis.
-La Luna Nueva en Libra del martes 21 podría llevar tu atención a las finanzas compartidas, deudas o asuntos íntimos. Es un buen momento para un nuevo comienzo en estas áreas. Debido a que tu mundo social está tan ocupado, puede que disfrutes recibir a personas en tu hogar. Con el Sol entrando en Escorpio el jueves, tu deseo de viajar o expandirte se activa. Este fin de semana podría encontrarte ayudando a otra persona cuando lo mejor sería tomar un largo descanso. No significa que no debas ayudar, solo que tal vez tengas que poner algunos límites.
+Hay gente que no respeta que puedas crecer Piscis, hay gente que no entiende que a veces tengas que mirar por ti mismo antes que por los demás. Ya has pasado demasiado ¿no crees? No puedes estancarte con nada ni con nadie. Ahora es el momento en el que debes tomar decisiones y quien de verdad quiera estar a tu lado puede seguirte. Ya no quieres estar detrás de nadie anteponiendo siempre sus vidas a la tuya, sus metas a tus objetivos, ya estás cansado de ir detrás del mundo. Es ahora el mundo quien debe, si quiere, ir detrás de ti. Llegan buenos tiempo para los Piscis pero tienes que ser positivo. Todo lo que hagas hoy te repercutirá mañana, cada paso, cada peldaño que subas, cada decisión que tomes. Es importante que tengas todo claro y que cuando te enfoques en algo pelees por ser el mejor. Todo lo que des lo vas a atraer, si tu ambiente es positivo atraerás lo positivo, y ahora debe ser así. Y si surge algún pensamiento negativo trata de esquivarlo como sea, y si no puedes hacerlo, impulsa tu ego y llénate de piropos y de cosas positivas, no puedes dejar que lo negativo domine tu vida, tienes que tomar el control. Crece Piscis, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
+Debido al actual enfoque del Sol en Escorpio en tu sector de viajes y expansión, tienes la oportunidad de reorganizar tus planes para poder lograr mucho y divertirte aún más. Deberías evitar tener días que sean completamente carentes de relajación. De hecho, el jueves podría poner un evento en tu camino que te ayude a darte cuenta de la inutilidad de tener una actitud obsesiva hacia la rutina. Considera darte un día de spa, ver una película o hacer cualquier otra cosa que te haga sentir muy bien.
 
 ## Dinero
 
-Ahora tienes el apoyo total del Universo para hacer dinero a través de cualquier cosa que implique el amor, las relaciones, la familia, los niños, y actividades divertidas. Son tus relaciones personales o profesionales las que te podrían ofrecer las mejores ideas para productos o servicios que les puedas ofrecer a tus clientes. Tienes más de una oportunidad para hacer que suceda.
+Tienes una gran cantidad de energía para conseguir un gran apoyo esta semana. Si has estado pensando en iniciar tu propio negocio, esta es una época maravillosa para darle vida a tus ideas. El énfasis está en la estructura, así que asegúrate de que la tuya sea muy fuerte. Si no sabes cuáles son los primeros pasos, consulta la información disponible para pequeñas empresas. Y si buscas en tus relaciones más cercanas, podrás ver que siempre tuvieron todas las respuestas.
