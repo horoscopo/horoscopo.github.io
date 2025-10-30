@@ -7,14 +7,12 @@ home: FALSE
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Escorpio_mes.png#2025-10-26
+ogimg: /images/mes/Escorpio_mes.png#2025-10-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-10-26'
+ lastmod: '2025-10-30'
 ---
 
 
-Septiembre trae un tiempo cósmico poderoso, Escorpio. El Eclipse Lunar Total en Piscis del 7 de Septiembre aterriza en tu quinta casa de la creatividad y el romance. Una revelación repentina e impactante relacionada con el amor, un hobby o tus pasiones podría impulsarte hacia un camino completamente nuevo. El Eclipse Solar en Virgo del 21 de Septiembre te insta a hacer una pausa antes de lanzarte a un nuevo círculo social. Toma la iniciativa para hacer realidad tu visión cuando el Sol entre en Libra el 22 de Septiembre. Comparte tu mensaje desde un lugar de empoderamiento. Un valiente nuevo comienzo en tus amistades y grupos llega con el eclipse del 21. Te das cuenta del impacto positivo que podrían crear tus brillantes ideas. Adopta soluciones creativas y una buena dosis de paciencia.
-Días destacados: 5, 15, 23
-Días desafiantes: 3, 9, 26
+¡Feliz temporada de cumpleaños, Escorpio! Con el Sol en tu signo, mira por debajo de la superficie de las cosas. La Luna Llena en tu signo opuesto, Tauro, el 5 de Noviembre, ilumina tus relaciones. La opinión de una pareja o socio podría de repente cobrar sentido. Tu mundo en general podría cobrar más sentido. Todos querrán amarte bajo la Luna Nueva en tu propio signo el 20 de Noviembre. Una sonrisa de tu parte tendrá el efecto de un abrazo. Este es tu nuevo comienzo personal del año. Puede que un nuevo fan llegue entonces para quedarse contigo durante mucho tiempo. Por último, la energía de fin de mes te da un día para disfrutar de sueños de amor y un futuro brillante.

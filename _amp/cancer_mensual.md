@@ -7,18 +7,15 @@ home: FALSE
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/Cáncer_mes.png#2025-10-26
+ogimg: /images/mes/Cáncer_mes.png#2025-10-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-10-26'
+ lastmod: '2025-10-30'
 ---
 
 
-Envía un poco de amor a tu niño interior este mes, querido Cáncer, porque la estación de Virgo ilumina tu tercera casa solar de la comunicación. Estas vibraciones son perfectas para dedicarte a actividades de aprendizaje o para apuntarte por fin a esas clases que siempre soñaste seguir. Las segundas oportunidades pueden ayudarte a encontrar tu nuevo comienzo, así que no temas seguir tus instintos creativos.
-Las oportunidades para expandir tu visión pueden presentarse durante el Eclipse Lunar Total en Piscis el día 7, aunque querrás tomar medidas para mostrar tus talentos. Será importante que mantengas un equilibrio saludable entre tus sueños y la realidad.
-Cuidado con la tensión en tus comunicaciones durante el Eclipse Solar en Virgo del 21 de Septiembre, y trata de no atacar si te sientes herido. Este eclipse marca un nuevo y poderoso comienzo en tu forma de pensar y comunicarte.
-Una energía más hogareña te invade cuando el Sol entra en Libra el día 22. Los problemas del mundo real podrían perturbar tu alegría. Evita entregarte a cualquier terapia de compras; sería fácil agotar tus recursos.
-Considera volver a viejos proyectos para darles un nuevo enfoque y claridad.
-Días destacados: 10, 8, 24
-Días difíciles: 9, 12, 14 
+Cuídate bien y no te dejes llevar demasiado durante la Luna Llena en Tauro del 5 de Noviembre, que ilumina tu sector de amistades. Siempre hay más cosas para hacer que tiempo para hacerlas. Tómatelo con calma y enfócate. Una conversación con un amigo puede ser importante. Piensa mucho y en profundidad sobre algo que te importa. No te apresures en hablar sin pensar, en especial sobre amor. 
+Para la Luna Nueva en Escorpio del día 20, verás aspectos de ti reflejados en tus pasiones y romances. Sé una persona más generosa creativamente. Te sorprenderá la cantidad de afecto que vuelve a ti. Ahora sal más y sé más ambicioso con lo que te da alegría. Los instintos y las primeras impresiones podrían ser más útiles hacia fin de mes.
+Días destacados: 9, 14, 19
+Días desafiantes: 16, 26

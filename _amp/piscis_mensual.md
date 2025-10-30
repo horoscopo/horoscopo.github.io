@@ -7,14 +7,12 @@ home: FALSE
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Piscis_mes.png#2025-10-26
+ogimg: /images/mes/Piscis_mes.png#2025-10-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-10-26'
+ lastmod: '2025-10-30'
 ---
 
 
-El romance podría alcanzar su punto máximo cerca del 7 de Septiembre, cuando el Eclipse Lunar Total ocurra en tu propio signo, Piscis. Este es un evento de gran revelación personal y emocional. Lo que suceda ahora podría estar hecho para durar. El Eclipse Solar en Virgo del día 21 presenta oportunidades tentadoras en tus relaciones de pareja. Relájate un poco con esa manía de controlar todo y con cuidado déjate llevar. Evita cualquier reacción impulsiva. Hay más energía para trabajar en conjunto. Un proyecto o relación estancada debería avanzar pronto. Hacia el final de mes, la energía se vuelve más privada y profunda. Reserva algo de tiempo libre extra para tus ensueños personales. Prepárate para estar a toda máquina.
-Días destacados: 5, 23, 28
-Días desafiantes: 3, 16
+Un asunto de comunicación podría aclararse en los días cercanos a la Luna Llena en Tauro del 5 de Noviembre. Un detalle que fue pasado por alto podría surgir o tal vez alguien verá las cosas desde tu punto de vista con mayor facilidad. Disfruta de ésta buena suerte. La Luna Nueva en Escorpio del 20 de Noviembre es expansiva. ¿Tienes interés en tomar un nuevo seminario o planificar un viaje? Es posible que una idea te motive. Ya sea que el tema sea filantrópico, espiritual o académico, es posible que ahora tu mente se sienta intrigada. De alguna manera, tu mundo se hará más grande y más brillante.

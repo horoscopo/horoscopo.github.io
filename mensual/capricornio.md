@@ -9,16 +9,18 @@ keywords: horóscopo noviembre, horoscopos en español, horóscopo Capricornio n
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/capricornio_mes.png#2025-10-26
+ogimg: /images/mes/capricornio_mes.png#2025-10-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-10-26'
+ lastmod: '2025-10-30'
 ---
 
 
- > Capricornio, aprovecha estas semanas para pasar un tiempo a solas contigo mismo y escuchar tu voz interior. Solo de esta manera conseguirás la claridad necesaria para planificar los próximos pasos que vas a to Después de esta pausa viene un momento feliz para ti y podrás realizar con éxito todas las tareas que tengas en mente.
+ > Noviembre conecta a Capricornio con su mundo interior y su poderosa intuición, clave para tomar decisiones alineadas. En el amor, florecen vínculos profundos y empáticos, tanto en relaciones actuales como en nuevas conexiones significativas. El ámbito laboral trae reconocimiento y satisfacción por logros previos. La salud emocional mejora al soltar miedos y abrirte a sanar desde la expresión y el apoyo genuino.
 
 
 
-Para el Eclipse Lunar Total del 7 de Septiembre, llega un momento de claridad mental. Una idea o conversación importante llega a su fin. Una nueva idea, genial y atrevida, podría aparecer en cualquier momento. Durante el Eclipse Solar del 21 de Septiembre, disfruta de todos tus sueños de expansión. Este eclipse activa tu casa de viajes y estudios. Sé extravagante y no pidas disculpas. Busca paz y tranquilidad. El 22, el Sol entra en Libra, activando tu carrera. Déjate cautivar por la belleza que te rodea, que en general pasa desapercibida.
+La Luna Llena en Tauro del 5 de Noviembre te relaja para ser y hacer lo que sea más satisfactorio en tu vida amorosa y creativa. Prepárate para los admiradores. Aun así, será divertido. Siente la fuerza y valentía de ser quien eres. Esto también puede atraer a nuevas parejas. La Luna Nueva en Escorpio del 20 de Noviembre te da el poder de abrirte paso a través de la niebla en tu círculo social y resolver una situación complicada. Tendrás cuidado y, al mismo tiempo, serás valiente acerca de tomar una decisión. Confía en tu juicio.
+Mejores días: 3, 13, 20
+Peores días: 8, 27

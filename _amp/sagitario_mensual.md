@@ -7,17 +7,16 @@ home: FALSE
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Sagitario_mes.png#2025-10-26
+ogimg: /images/mes/Sagitario_mes.png#2025-10-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-10-26'
+ lastmod: '2025-10-30'
 ---
 
 
-Una energía metódica dictará tus movimientos este mes, querido Sagitario, ya que el sol de Virgo activa tu casa de la carrera. El Eclipse Lunar Total en Piscis del 7 de Septiembre ilumina tu sector del hogar y la familia, trayendo una importante culminación emocional o un cierre necesario en tu vida doméstica.
-Mientras tanto, la comunicación fluye mejor y tu carisma aumenta, brindándote la oportunidad de dejar atrás cualquier problema social o de negocios. Sentirás que crece la confianza con tus socios. El Eclipse Solar en Virgo del 21 de Septiembre marca un nuevo y poderoso comienzo en tu vida profesional.
-El veintidós marca el equinoccio, a medida que el Sol migra a Libra y al sector de tu carta que rige la comunidad y las amistades. Si te has desviado del camino, estas vibraciones pueden ayudarte a retomar el ritmo. También te invadirá una energía compasiva, por lo que es un buen momento para actuar de forma altruista.
-Tus palabras tendrán fuerza. Ten en cuenta mantener un mensaje positivo y de apoyo, y considera la posibilidad de emprender un nuevo proyecto para mantener tu mente felizmente ocupada. Sin embargo, querrás estar en guardia por si hay mal humor o tensión en las relaciones hacia final de mes.
-Días destacados: 8, 15, 24
-Días difíciles: 1, 23, 26
+El mes comienza con una invitación a cuidarte, Sagitario, ya que el Sol en Escorpio calienta tu casa de la introspección y el cierre de ciclos. Es hora de ponerte en primer lugar. La Luna Llena en Tauro del 5 de Noviembre te pide armonizar tu mente y cuerpo, enfocándote en tu salud y rutinas. Cuando te ocupas de ti mismo, es más fácil ayudar a los demás.
+La comunicación sobre temas profundos se facilita. El Sol entra en tu signo, Sagitario, el 22 de Noviembre, iluminando tu primera casa del yo y la manifestación. ¡Comienza tu temporada! La Luna Nueva en Escorpio del día 20 te traerá revelaciones esclarecedoras, pidiéndote que te deshagas de viejas versiones de ti mismo para entrar en tu poder. Una mentalidad fresca te permitirá atraer la positividad y experimentar una perspectiva brillante. Con Venus entrando a tu signo a final de mes, ansías más amor. Cuida tus conexiones y experimentarás nuevos niveles de intimidad.
+¡Buena suerte este mes, Sagitario!
+Días destacados: 5, 14, 23
+Días desafiantes: 10, 24, 30

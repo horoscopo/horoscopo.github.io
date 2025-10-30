@@ -9,18 +9,16 @@ keywords: horóscopo noviembre, horoscopos en español, horóscopo Escorpio novi
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/escorpio_mes.png#2025-10-26
+ogimg: /images/mes/escorpio_mes.png#2025-10-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-10-26'
+ lastmod: '2025-10-30'
 ---
 
 
- > Septiembre será revelador para Escorpio, con cierres necesarios que abren paso a una nueva etapa más alineada con su esencia. En el amor, florecen vínculos tiernos y auténticos. En lo laboral, deberá superar bloqueos internos con confianza y enfoque. La salud mejora al sanar emociones profundas. Es un mes de introspección y decisiones firmes que marcarán un punto de inflexión.
+ > Escorpio, la influencia de la Luna Llena del mes pasado te hará reconocer tus sentimientos y los de los demás. Tendrás que tomar algunas decisiones complicadas, pero la energía de tu temporada te ayudará a tomar el camino correcto. No permitas que las emociones de nadie se vean perturbadas y no te involucres en peleas innecesarias con las personas a tu alrededor estas semanas.
 
 
 
-Septiembre trae un tiempo cósmico poderoso, Escorpio. El Eclipse Lunar Total en Piscis del 7 de Septiembre aterriza en tu quinta casa de la creatividad y el romance. Una revelación repentina e impactante relacionada con el amor, un hobby o tus pasiones podría impulsarte hacia un camino completamente nuevo. El Eclipse Solar en Virgo del 21 de Septiembre te insta a hacer una pausa antes de lanzarte a un nuevo círculo social. Toma la iniciativa para hacer realidad tu visión cuando el Sol entre en Libra el 22 de Septiembre. Comparte tu mensaje desde un lugar de empoderamiento. Un valiente nuevo comienzo en tus amistades y grupos llega con el eclipse del 21. Te das cuenta del impacto positivo que podrían crear tus brillantes ideas. Adopta soluciones creativas y una buena dosis de paciencia.
-Días destacados: 5, 15, 23
-Días desafiantes: 3, 9, 26
+¡Feliz temporada de cumpleaños, Escorpio! Con el Sol en tu signo, mira por debajo de la superficie de las cosas. La Luna Llena en tu signo opuesto, Tauro, el 5 de Noviembre, ilumina tus relaciones. La opinión de una pareja o socio podría de repente cobrar sentido. Tu mundo en general podría cobrar más sentido. Todos querrán amarte bajo la Luna Nueva en tu propio signo el 20 de Noviembre. Una sonrisa de tu parte tendrá el efecto de un abrazo. Este es tu nuevo comienzo personal del año. Puede que un nuevo fan llegue entonces para quedarse contigo durante mucho tiempo. Por último, la energía de fin de mes te da un día para disfrutar de sueños de amor y un futuro brillante.
