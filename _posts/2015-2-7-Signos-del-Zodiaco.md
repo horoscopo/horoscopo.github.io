@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 05 de noviembre 2025
-description: Horóscopos del dia de hoy 05 de noviembre 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 06 de noviembre 2025
+description: Horóscopos del dia de hoy 06 de noviembre 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-11-05
+ lastmod: 2025-11-06
 ---
-Haz viejas preguntas de nuevas y sorprendentes maneras cuando Mercurio y Urano hagan que el elemento sorpresa trabaje a tu favor. Si algunos cambios van a ser hechos, eres tú quien debe hacerlos bajo el sextil entre la Luna y Plutón de esta noche. Los solteros podrían vislumbrar la luz del amor o al menos una oportunidad. 
+Mercurio está a punto de cambiar de signo, y si estás en una encrucijada en una decisión, debes esperar hasta que te llegue una nueva señal para tomarla. Piensa, mira hacia delante, mira hacia atrás, y encuentra una nueva inclinación después de toda esa reflexión. Esta noche, Venus en Piscis da inicio a varias semanas de tranquilos pensamientos sobre las relaciones.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
