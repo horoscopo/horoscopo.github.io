@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 03 de noviembre 2025 al 09 de noviembre 2025 
-description: Horóscopo semanal geminis 03 de noviembre 2025 al 09 de noviembre 2025. Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo Géminis, se llama dignidad. 
+title: geminis 10 de noviembre 2025 al 16 de noviembre 2025 
+description: Horóscopo semanal geminis 10 de noviembre 2025 al 16 de noviembre 2025. Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no Géminis. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2025-11-03
+ogimg: /images/zodiac/semanal_geminis.png#2025-11-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-11-03'
+ lastmod: '2025-11-10'
 ---
 
 
 
-## Muchos podrán tratarte de orgulloso (como siempre hacen), es su arma más fácil de atacarte cuando no haces lo que dicen, pero ya no es orgullo Géminis, se llama dignidad. 
+## Al mundo le gusta la rutina, los demás pueden pasar perfectamente por situaciones iguales toda su vida, una y otra vez. Tú no Géminis. No quieres pasar por lo mismo, no quieres perdones falsos, no quieres estar cerca de gente que sólo habla pero que no hace nada…
 
-Céntrate en tus metas Géminis, pero hazlo de una vez. De verdad, ahora nada ni NADIE puede distraerte de ello. Puedes ser feliz, puedes ir de aquí para allá, pero si no consigues tus propias metas al final siempre pasará algo. No tendrás lo que más deseas en la vida, realizarte, pero tú contigo mismo, nada que ver con los demás. A menudo el precio por encontrarse a uno mismo es perder a los demás, a los que no te hacen bien, y tú , ahora necesitas ver tu camino de nuevo claro, sin interferencias de otros… Busca tu felicidad hasta debajo de las piedras, motívate día tras día, proponte un objetivo, ves a por él, no te distraigas, no dejes que te distraigan, cuida de los tuyos, los que están cerca, así, los que están lejos se acercarán solitos, hazte valer, no pongas precio a tus actos, no lo hagas porque lograras esto o lo otro, hazlo porque el camino es interesante y la recompensa mucho mayor, pero disfruta cada momento como si fuera el último, nadie va a hacer que seas feliz, solamente está en tus manos… Métetelo en la cabeza y cambia la actitud sin esperar nada de nadie, solamente de ti.
-Podrías estar buscando una gran dosis de aventura. Al mismo tiempo, las responsabilidades pueden mantenerte en constante movimiento mientras trabajas para alcanzar una meta personal. Una animada alineación en Escorpio el jueves podría coincidir con la chance de hacer un viaje. La Luna Llena en Tauro del miércoles 5 ilumina tu sector de introspección y finales. Hablar sobre ello puede ayudarte a adoptar una nueva perspectiva que facilite encontrar una solución. El fin de semana puede ser perfecto para el romance. Si no estás en pareja, podrías encontrarte con alguien que te haga perder la cabeza.
+No eres frágil Géminis, no dejes que el resto piense eso de ti, no lo pienses tú de ti mismo/a. Esta semana rompe con todo, rompe con eso que lleva ahogando todo este tiempo, rompe con patrones que estabas siguiendo como un robot, sin saber ni siquiera si era eso lo que de verdad buscabas. Toma decisiones de una vez. ¿Estás a gusto con la vida que estás viviendo? No del todo Géminis, y lo sabes. Pero no te conformes, no pienses que es lo único que hay porque hay muchísimo más ahí fuera. Tienes tanto potencial que estás desaprovechando… Cuando tienes episodios de bajón es porque en realidad sabes que lo que estás haciendo hoy no te va a llevar a ningún sitio el día de mañana, y eso es lo que te frustra Géminis, saber que el futuro que tienes ahora es muy incierto, saber que, a pesar de que puedas estar medio bien ahora, no estás plantando nada para recoger después. Haz lo que de verdad te hace feliz Géminis, no tengas miedo porque con miedo no vas a ninguna parte. Es triste tener que vivir una vida que sabes de sobra que no está hecha para ti. Cambia el entorno, cambia el plan y no dependas de nada ni de nadie… Si no cambias la dinámica de tu vida te vas a acabar asfixiando Géminis, y sabes lo complicado que es salir de ahí después…
+¿Podría el amor estar en el aire? Tal vez. Cualquier cosa es posible con Venus danzando en tu sector de relaciones (Sagitario) a partir del fin de semana. Y si has estado fuera de la escena de las citas desde hace algún tiempo, esta puede ser una oportunidad para volver a ella y disfrutar de salir a conocer gente nueva. El énfasis está en conexiones alegres y divertidas. A partir del viernes, Marte en tu sector hogareño (Virgo) te anima a ponerle fin a cualquier asunto pendiente en casa.
 
 ## Dinero
 
-Esta semana se trata de aspectos que afectan tus áreas de romance, niños, familia y diversión. Mientras que puedes tener la tentación de no ir al trabajo para darte una corta escapada, ¡tratar de resistirte! Es mejor aplicar tu energía a resolver un problema que es común en tu área. Ganar más dinero va a ser fácil cuando lo hagas.
+Esta semana, cierta actividad en tu sector de empleo restringirá tu vida laboral un poco y te pedirá que seas más responsable con lo que haces con tu dinero. El tratar de ser todo para todo el mundo no va a funcionar ahora. En lugar de eso, especializa tus habilidades y cobra por ello en consecuencia.  Acude a comunicarte con tus más allegados en busca de pistas sobre la manera de proceder.

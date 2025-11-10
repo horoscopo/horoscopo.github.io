@@ -1,29 +1,28 @@
 ---
 layout: horoscopos
-title: cancer 03 de noviembre 2025 al 09 de noviembre 2025 
-description: Horóscopo semanal cancer 03 de noviembre 2025 al 09 de noviembre 2025. El mundo puede esperar Cáncer, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+title: cancer 10 de noviembre 2025 al 16 de noviembre 2025 
+description: Horóscopo semanal cancer 10 de noviembre 2025 al 16 de noviembre 2025. No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2025-11-03
+ogimg: /images/zodiac/semanal_cancer.png#2025-11-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-11-03'
+ lastmod: '2025-11-10'
 ---
 
 
 
-## El mundo puede esperar Cáncer, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+## No te dejes engatusar, no te dejes embaucar, conoces las intenciones de los demás, conoces de qué pie cojea cada uno. Esta semana tienes un conflicto fuerte entre el corazón y la cabeza, no te dejes llevar por las emociones del momento y espera a que te demuestren un poquito más.
 
-Vas a abrir los ojos y, aunque no des los pasos al momento, las ideas las tendrás claras. 
- La rutina no te hace mal, pero si la monotonía, y te encuentras en el punto de cambiar para renovarte. 
- Cambiar el chip hará que entiendas muchas cosas que hasta ahora te preocupaban. Necesitas mirarte por dentro y ver hasta dónde eres capaz de llegar y sobretodo, hasta donde QUIERES llegar. Quieres ser feliz y harás lo que sea para conseguirlo, lo sabes.
-Puede que prefieras guardarte lo que sientes, particularmente en los primeros días de la semana. La Luna Llena en Tauro del miércoles 5 ilumina tu sector de amistades. De hecho, cuando el vivaz Mercurio se alinea con Júpiter, compartir tus ideas con amigos podría tener una conclusión positiva. Por otro lado, con el Sol y el amoroso Venus en tu sector de romance (Escorpio), la idea de tomarte un descanso es muy atractiva. Sin duda es algo que vale la pena considerar.
+Eres demasiado válido/a para hacer las cosas por ti mismo/a, así que no caigas en lo que otros digan que es mejor o peor para ti. Mucha gente de tu alrededor no lo hace por tu bien, lo hace por SU bien. 
+ sin embargo, cuando te centres en las posibilidades, más posibilidades llegarán.
+Romances sin preocupaciones y opciones divertidas de citas pueden aparecer esta semana a medida que el Sol en Escorpio, el planeta que rige tu sector de creatividad y romance, te impulsa a que entres en acción. Decides actuar y llamar a alguien que te gusta y concretar una cita. O bien decides aceptar una invitación previa y ver qué sucede. La energía te alienta a redecorar tu espacio o volverlo más cómodo y agradable. Cualquier actividad que te ayude a relajarte es perfecta.
 
 ## Dinero
 
-Tienes una calidad de ideas y de ensueño que es muy atractiva para los demás en este momento. Sin embargo, ten cuidado con parecer como que saliste de un cuento de hadas o con parecer excesivamente intelectual. Puede que tu mensaje no sea entendido por las cabezas de algunas personas que necesites a bordo en tus planes personales y económicos. Al mismo tiempo, un aspecto de apoyo muestra que eres maestro/a por naturaleza. Considera cómo puedes compartir tus conocimientos con los demás por algo extra de dinero.
+Hay cierta limitación en tu carrera esta semana. No sólo porque puede que el trabajo que hagas se evapore (sólo un poco), pero también se te podría llamar a asumir una mayor parte de la carga. El Universo está pidiendo que te vuelvas más responsable y con autoridad en esta área. Tus relaciones pueden necesitar un mayor desarrollo antes de que puedan ofrecerte lo que quieres y necesitas de ellas económicamente.

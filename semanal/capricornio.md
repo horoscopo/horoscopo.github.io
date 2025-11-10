@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 03 de noviembre 2025 al 09 de noviembre 2025 
-description: Horóscopo semanal capricornio 03 de noviembre 2025 al 09 de noviembre 2025. Estás en una etapa súper confusa Capricornio, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
+title: capricornio 10 de noviembre 2025 al 16 de noviembre 2025 
+description: Horóscopo semanal capricornio 10 de noviembre 2025 al 16 de noviembre 2025. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada Capricornio. 
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2025-11-03
+ogimg: /images/zodiac/semanal_capricornio.png#2025-11-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-11-03'
+ lastmod: '2025-11-10'
 ---
 
 
 
-## Estás en una etapa súper confusa Capricornio, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
+## Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada Capricornio. 
 
-Para alcanzar la felicidad, TÚ FELICIDAD, 
-y ese es tu trabajo ahora. Dejar de pensar, o al menos, intentar engañar a tu mente y a tu cabeza para que piense lo menos posible…
-Los viajes y emprendimientos educativos podrían resultarte muy atractivos. Es un buen momento para dejar que tu curiosidad te lleve a nuevas e interesantes aventuras. La Luna Llena en Tauro del miércoles 5 ilumina tu sector de creatividad y romance. Las palabras de una de tus sabias amistades pueden ser de utilidad en este momento, lo que te inspira de muchas maneras.
+Si te retienen o si no te animan a hacer lo que de verdad quieres hay algo que falla. Sea quien sea Capricornio. 
+ Y quizás también deberías meditar acerca de qué es lo que más te conviene. El tiempo es el único que al final te regenera y te vuelve a dar esa vida y esa luz que siempre cargas.
+¿Buscas vender tu casa o mudarte a un nuevo lugar? La energía de la semana puede coincidir con tus deseos de entrar en acción después de un largo tiempo de deliberación. Es probable que hayas pensado mucho en estas ideas, así que cualquier decisión que tomes será un riesgo calculado. Te puede entusiasmar la posibilidad de comenzar nuevas actividades como resultado de tu decisión.
 
 ## Dinero
 
-Es una gran semana para pensar y planificar. El Universo indica un tiempo de gran actividad mental. Es un momento de gran oportunidad, a partir de los pasos que tendrás que tomar para realizar tus sueños financieros a darte crédito por cosas que ya has logrado. Cierta actividad en tu sector de aprendizaje te llama para que tomes una clase de algo que te inspire.
+A veces puedes ser un conformista, y esta semana, es posible que tengas que hacer todo lo necesario para mantener esto fuera de tu vida. Una nueva energía entra a tu casa de valores y dinero en efectivo, lo que facilita una especie de pausa para ti. En este momento de tranquilidad, estás pensando en lo que eres y en lo que estás dispuesto/a a hacer por dinero y cuánto tiempo libre necesitas para mantenerte sano/a y productivo/a.

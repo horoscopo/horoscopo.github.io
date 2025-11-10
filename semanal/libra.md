@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: libra 03 de noviembre 2025 al 09 de noviembre 2025 
-description: Horóscopo semanal libra 03 de noviembre 2025 al 09 de noviembre 2025. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
+title: libra 10 de noviembre 2025 al 16 de noviembre 2025 
+description: Horóscopo semanal libra 10 de noviembre 2025 al 16 de noviembre 2025. Tienes que empezar a dejar que el resto luche por tu Libra, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2025-11-03
+ogimg: /images/zodiac/semanal_libra.png#2025-11-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-11-03'
+ lastmod: '2025-11-10'
 ---
 
 
 
-## Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
+## Tienes que empezar a dejar que el resto luche por tu Libra, tienes que darte el valor que te mereces y apartarte un poco, ver las situaciones desde fuera y sobretodo los pasos que dan los demás para estar a tu lado.
 
-A veces dejar ir las cosas es mucho más complicado de lo que piensas Libra. No vas a encontrar el momento definitivo nunca, no vas a cerrar la puerta de golpe y creer que ya lo tienes superado. Así nada termina bien. Quieres tener seguridad Libra, y te aferras deprisa a las cosas pero si miras a tu alrededor sabes que hay piezas que no encajan en el puzzle, que a veces incluso todo parece un teatro, que estás dejando pasar algo en lo que no crees. Pero no querrás dejar ir tan fácilmente, piensas que si lo mantienes todavía lo tienes, que si lo mantienes, todavía existe. Y claro que existe pero no como antes y no como quieres Libra. Si hay cosas que fallan repara la grietas o trata de hacerlo, pero no pienses que se podrán reparar solas. Si tienes que plantar cara y dejar sobre la mesa cuáles son tus intenciones y lo que esperas, hazlo. Está bien que creas que muchas cosas van perfectamente pero Libra, sabes de sobra que no van tan perfectamente, que hay que arreglar mucho. En serio Libra, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo? No te ates tanto, no te creas que el mundo es como tú lo ves en un momento dado. Libra, la realidad no es la que tú quieres pintar ahora. Hay promesas rotas y futuros que no se van a dar, pero cuando te des cuenta no te pongas triste, mírate al espejo y sonríe, sonríe por ser quien eres. Y si tienes que llorar que sea por ti mismo, y de emoción, por darte cuenta de todo, por ser valiente.
-Un deseo en particular podría ser tan fuerte que se apodere de tu mente, sobre todo a principios de semana. La Luna Llena en Tauro del miércoles 5 ilumina tu sector de finanzas compartidas e intimidad, y podría hacer que te preguntes sobre los motivos de ciertos miembros de tu familia. Una charla de corazón a corazón podría ser mejor a quedarte con innecesarias sospechas. A partir del domingo, Venus en Escorpio puede ser útil para las negociaciones y el romanticismo profundo.
+Necesitas amor Libra, necesitas cariño de verdad, sentirte querido al 100% porque en el fondo eso, es lo que te hace más feliz. Y no es solamente amor de pareja no, es el hecho de sentirte valorado por los que te importan, es sentirte cuidado, mimado y protegido. Es normal que hayas tenido altibajos enormes, tienes mucho peso que cargas a tu espalda y por eso lo que menos quieres es que por las inseguridades de otras personas, tu vida se acabe saturando de verdad. Busca ese amor en quien pueda y quiera dártelo, sin complicar más tu existencia. Necesitas tus momentos de desconexión con el mundo pero te arrimas a algunas personas que en vez de darte paz cuando más la necesitas te la siguen preparando. Respira hondo y no hagas un drama por ello, simplemente aléjate un poco, deja que la mierda se quede con la mierda pero sal de ahí cuanto antes. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece. Tarde o temprano sabrán que perder a Libra es perder algo grande e irremplazable. Y no te enfades ni te piques, todo menos eso, todo menos entrar en juegos de los que al final te cuesta mucho salir.
+Si bien es bueno tener honestidad con los demás, puede que la primera parte de la semana necesite un cuidadoso manejo. Pueden intercambiarse opiniones intensas en los próximos días. Con el Sol en Escorpio activando tu sector financiero, puede que sientas la tentación de prometer más de lo que puedas entregar, lo que podría someterte a una presión innecesaria.
 
 ## Dinero
 
-Los asuntos laborales y las figuras de autoridad se ponen de relieve esta semana. Si deseas el mismo tipo de respeto, dinero en efectivo y disfrutar de la admiración de tus ídolos, tendrás que invertir tiempo y trabajar para llamar su atención con tus ideas. Mientras tanto, cuida tu forma de vestir y expresarte en el mundo. Mientras que ciertas personas te perciben de una manera, sientes tentación a tomar un nuevo camino para mantenerles adivinando.
+Este es el momento de centrarte en cómo puedes hacer más cosas como parte de un equipo que como un individuo. Hay tanto sucediendo en tu sector de relaciones que simplemente eres capaz de atraer a ciertos socios de una empresa de nuevos negocios cuyas habilidades se complementen perfectamente con las tuyas. Al mismo tiempo, tus redes sociales, la influencia política y el acceso a tus esperanzas y sueños se amplían. Te manifiestas a un alto nivel ahora. Pide lo que quieras.
