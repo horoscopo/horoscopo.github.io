@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 10 de noviembre 2025 al 16 de noviembre 2025 
-description: Horóscopo semanal sagitario 10 de noviembre 2025 al 16 de noviembre 2025. Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+title: sagitario 17 de noviembre 2025 al 23 de noviembre 2025 
+description: Horóscopo semanal sagitario 17 de noviembre 2025 al 23 de noviembre 2025. Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2025-11-10
+ogimg: /images/zodiac/semanal_sagitario.png#2025-11-17
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-11-10'
+ lastmod: '2025-11-17'
 ---
 
 
 
-## Tienes tanto potencial en tu cabeza que duele ver como lo desaprovechas. Y te duele a ti también porque lo sabes. Porque sabes que quizás estás en el sitio equivocado…
+## Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
 
-Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar, no serás capaz de verlo ahora pero sí en un tiempo.
-Tus relaciones parecen estar bajo un importante enfoque en este momento. Sin embargo, tienes que tener mucho cuidado al interactuar con los demás conforme Mercurio se torna retrógrado el sábado (15 de noviembre). Esta puede ser una oportunidad para conectar con viejos amigos y disfrutar de una reunión, pero también existe la posibilidad de que haya malos entendidos. Sólo sé consciente de esto a medida que avanzas con tu rutina diaria. Además, Venus entrando a tu signo alegra tu vida social considerablemente, con tu vida romántica viéndose muy prometedora.
+Tienes la necesidad de tener tu mente en paz, ponerla en blanco, no pensar NADA, pero como eso es casi imposible, y más para ti, lo que debes hacer es elegir el camino que quieres tomar, enfrentarte a ello y tomar una decisión.
+La Luna Nueva en Escorpio del jueves 20 podría llevarte a tomar una decisión que tenga consecuencias. Puede que no necesariamente sea una cuestión importante, pero podría ser la semilla inicial de algo en tu interior, por lo que piensa cuidadosamente antes de elegir. Este fin de semana, el Sol entra en tu signo, Sagitario, el sábado 22. ¡Comienza tu temporada! Puede que te veas desprenderte de aquello que te frenaba. Por otro lado, si una relación se vislumbra seductora este fin de semana, puede que sólo sea una ilusión.
 
 ## Dinero
 
-Estás listo/a para un gran avance gracias al apoyo de los aspectos que rigen la familia y el romance. Tu gasto ha disminuido lenta pero constantemente, y ahora es el momento de divertirse un poco. Puede que tus amigos y conocidos deseen participar en la acción, pero asegúrate de que sepan que tienen que pagar cada quién lo suyo. De esta manera te ahorrarás conflictos en la relación.
+Estás acostumbrado/a a las cosas buenas de la vida y anhelas días llenos de placeres sensuales. Esta semana, tu familia, amigos y pareja romántica están contigo en búsqueda de todo eso. Los aspectos te animan a hacer valer tus necesidades y mostrar que el mantenimiento de una comunicación clara y concisa personal y profesionalmente por igual mantiene la fluidez, la entrada y salida del dinero. Saca ahorros de donde puedas.
