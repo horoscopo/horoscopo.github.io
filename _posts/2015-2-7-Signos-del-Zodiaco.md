@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 18 de noviembre 2025
-description: Horóscopos del dia de hoy 18 de noviembre 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 19 de noviembre 2025
+description: Horóscopos del dia de hoy 19 de noviembre 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-11-18
+ lastmod: 2025-11-19
 ---
-Se te alerta no juzgar demasiado rápido bajo la energía lunar de hoy. Bien podrías cambiar de opinión antes de que termine la jornada de trabajo - o incluso antes. El romance está en el aire, pero no se puede planificar nada por adelantado debido a la Luna en Virgo de esta noche saliéndose de su órbita.
+¡Presta más atención! No dejes de enfocarte como lo hace un rayo láser cuando la cuadratura entre Mercurio y Urano provoca que personas persuasivas y bastantes obvias traten de conducirte a hacer errores de juicio. Más tarde, ama la energía y la vitalidad proveniente de la Luna en Aries conjuntando a Marte durante lo que podría ser una noche brillante.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
