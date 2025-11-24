@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 17 de noviembre 2025 al 23 de noviembre 2025 
-description: Horóscopo semanal leo 17 de noviembre 2025 al 23 de noviembre 2025. Perdona Leo, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
+title: leo 24 de noviembre 2025 al 30 de noviembre 2025 
+description: Horóscopo semanal leo 24 de noviembre 2025 al 30 de noviembre 2025. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2025-11-17
+ogimg: /images/zodiac/semanal_leo.png#2025-11-24
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-11-17'
+ lastmod: '2025-11-24'
 ---
 
 
 
-## Perdona Leo, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
+## No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
 
-En serio, Leo, por muy mal que vayan las cosas has demostrado al mundo que con tu ejemplo que se puede vencer cualquier obstáculo poniendo ganas, entusiasmo y pasión. A pesar de que eres siempre alguien bastante reservado para tus cosas más profundas (quizás a veces parece que hablas demasiado pero a la hora de la verdad de lo tuyo, de lo profundo, no sueles abrir el pico), la gente que te conoce sabe de sobra que te has caído y levantado muchas veces en estas últimas semanas queriendo antes que cualquier otra cosa tener el control sobre ti mismo. Eres Leo por lo tanto es normal que no todo lo que quieras se de en el momento, la constancia y el trabajo diario es lo que a ti, te hace cumplir tus objetivos y tus metas, la constancia es al final la que te da todo lo que buscas. Las cosas que llegan rápidamente se acaban yendo de la misma manera así que, sigue con lo que tienes fijado en la mente y no desistas porque cualquiera quiera llegar y cambiar tus planes. No te dejes llevar por nadie ahora, puede ser una semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Lo has pasado mal Leo, así que, plantéate si te merece la pena volver a mirar atrás de nuevo, creo que no. Lo peor ya está casi superado, no estabas del todo bien con tu vida y por eso decidiste cambiar y aunque los cambios no se den todavía no importa porque están en tu cabeza y poco a poco lo estarán en tus hechos. No te agobies, verás como cada día que pasa es una victoria hacia lo que quieres, sólo preocúpate de vivir esos días lo mejor que puedas ahora…
-Tus relaciones familiares podrían tomar un nuevo giro en los próximos días, en particular con la Luna Nueva en Escorpio del jueves 20 sacando uno o dos temas a la luz en tu hogar. Una situación doméstica podría llegar a un punto crucial. Además, ciertos hechos podrían ser engañosos y ciertas cosas podrían no ser lo que parecen ser. Por lo tanto, si vas a tener una charla de corazón a corazón, no bases decisiones importantes en lo que se dice. Harías mejor al esperar unos días antes de evaluar lo que quieres hacer.
+Quita importancia a las cosas Leo, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente… Pon la mente en blanco como sea si no quieres empezar a dejar de dormir esta semana. Hay cosas que no están en tu mano, hay cosas que llegan y se van solas, sin que podamos hacer nada, pero sin embargo, la vida sigue y hay otras muchas en las que si puedes hacer mucho. Pues céntrate en esas Leo. En las que verdaderamente están ahí, en tu mano. Tienes que tener un plan B para engañar a tu mente, sal un poco más y cuando no te apetezca mucho, oblígate, hazte el favor de relacionarte con tus amigos, de sacar tus sentimientos, lo que pasa por tu cabeza. Los nervios sólo te acabarán consumiendo por dentro. Deja fluir, deja correr, deja pasar las cosas y no vuelvas a abrir las puertas de tu vida a la gente que te hace daño. Si te rodeas de buenas personas, lo positivo empezará a aparecer en tu vida, pero si por tu alrededor la energía mala se palpa, no esperes nada bueno. Deja que las cosas se marchen de tu vida si así tiene que ser, y márchate tú si eso es lo que sabes que debes hacer… Aférrate a ti mismo, sólo a ti… Por una vez manda a la mierda y céntrate en lo que de verdad te hará feliz.
+Puede que las emociones sean bastante intensas durante la semana, al punto de que podrían estallar. Con el Sol (tu regente) en Sagitario, tu sector de romance y diversión, si no le has dicho a nadie cómo te sientes y mueres por hacerlo, trata de controlar tus ansias. La persona en cuestión podría sentirse abrumada. ¿Ya tienes compromiso con alguien? A tu amor le encantaría un regalo especial que podría ser más que suficiente para mostrar cuánto te importa ahora, y siempre.
 
 ## Dinero
 
-Piensa en cómo ahorrar e invertir tu dinero duramente ganado, así como la manera de ganar más dinero en general. Pasa unos cuantos minutos de cada día estudiando el intercambio de divisas y otros vehículos de inversión que te hagan ganar financieramente. No es que no hayas estado pensando en esto, por supuesto. Es posible que tengas más dinero atado en tu casa del que creíste.
+No eres el ser más paciente de la faz del planeta, pero tu suerte es grande y está a cargo por ahora, así que no te preocupes. Los aspectos están avivando el aprendizaje, incrementando tus oportunidades para incorporar nuevas habilidades. Pueden surgir oportunidades repentinas para divertirte con amigos, familiares y parejas románticas. El dinero se hizo para gastarse, ¿cierto?
