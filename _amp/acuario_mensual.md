@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Acuario Noviembre 2025 
+title: Horoscopo Acuario Diciembre 2025 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Acuario_mes.png#2025-10-30
+ogimg: /images/mes/Acuario_mes.png#2025-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-10-30'
+ lastmod: '2025-11-26'
 ---
 
 

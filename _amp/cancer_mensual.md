@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Cáncer Noviembre 2025 
+title: Horoscopo Cáncer Diciembre 2025 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/Cáncer_mes.png#2025-10-30
+ogimg: /images/mes/Cáncer_mes.png#2025-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-10-30'
+ lastmod: '2025-11-26'
 ---
 
 

@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Géminis Noviembre 2025
-description: El Horóscopo Noviembre de Géminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Géminis Diciembre 2025
+description: El Horóscopo Diciembre de Géminis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/geminis/
 amplink: /horoscopo-mensual/amp/geminis/
 home: FALSE
-keywords: horóscopo noviembre, horoscopos en español, horóscopo Géminis noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Géminis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo diciembre, horoscopos en español, horóscopo Géminis diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Géminis, Tarot, Astrologia, Zodíaco, Géminis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/geminis_mes.png#2025-10-30
+ogimg: /images/mes/geminis_mes.png#2025-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-10-30'
+ lastmod: '2025-11-26'
 ---
 
 

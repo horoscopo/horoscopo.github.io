@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Escorpio Noviembre 2025 
+title: Horoscopo Escorpio Diciembre 2025 
 permalink: /horoscopo-mensual/amp/escorpio/
 normallink: /horoscopo-mensual/escorpio/
 home: FALSE
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Escorpio_mes.png#2025-10-30
+ogimg: /images/mes/Escorpio_mes.png#2025-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-10-30'
+ lastmod: '2025-11-26'
 ---
 
 

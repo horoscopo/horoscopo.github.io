@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Tauro Noviembre 2025 
+title: Horoscopo Tauro Diciembre 2025 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/mes/Tauro_mes.png#2025-10-30
+ogimg: /images/mes/Tauro_mes.png#2025-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-10-30'
+ lastmod: '2025-11-26'
 ---
 
 
