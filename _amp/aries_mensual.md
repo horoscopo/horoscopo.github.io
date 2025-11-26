@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Aries Noviembre 2025 
+title: Horoscopo Aries Diciembre 2025 
 permalink: /horoscopo-mensual/amp/aries/
 normallink: /horoscopo-mensual/aries/
 home: FALSE
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/Aries_mes.png#2025-10-30
+ogimg: /images/mes/Aries_mes.png#2025-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-10-30'
+ lastmod: '2025-11-26'
 ---
 
 
