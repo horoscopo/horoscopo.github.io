@@ -9,16 +9,21 @@ keywords: horóscopo diciembre, horoscopos en español, horóscopo Tauro diciemb
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/mes/tauro_mes.png#2025-11-26
+ogimg: /images/mes/tauro_mes.png#2025-11-27
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-11-26'
+ lastmod: '2025-11-27'
 ---
 
 
- > Tauro, la palabra amor estará presente en todo momento durante el mes de Noviembre. Te van a surgir admiradores por todas partes, quizás demasiados y podrás elegir a tu gusto. Tu capacidad de seducción hará que seas el centro de atención en todo momento.
+ > Tauro, diciembre pondrá las cartas sobre la mesa y es que ha llegado el momento de que decidas por dónde vas a querer ir en tu vida. Tu corazón se irá reconstruyendo poco a poco y así recuperarás las ganas de disfrutar de las festividades.
 
 
 
-Tu bienestar resplandece bajo la Luna Llena en tu propio signo, Tauro, el 5 de Noviembre. Si has estado bajo estrés, esas nubes se están alejando. Adopta una vida más activa. Puede que no estés pensando conscientemente en ti primero, pero a tu cuerpo le gustaría que así fuese. El tema de la Luna Nueva en Escorpio del 20 de Noviembre es amor y relaciones, al ocurrir en tu signo opuesto. Es posible que a veces desees esconderte, pero no te molestes en hacerlo. El amor te está buscando y es más persistente que tú. La energía de fin de mes trae consigo aún más oportunidades románticas.
+Tu vida interior será activa a medida que el Sol continúe su viaje a través de Sagitario, iluminando tu sector de transformación y recursos compartidos. Este es un tiempo para saldar deudas emocionales y financieras antes de que termine el año. La introspección te ayudará a asegurar que el 2026 sea un éxito.
+La Luna Llena en Géminis del 4 de diciembre ilumina tu sector de valores y dinero, marcando un momento clave para revisar tus finanzas post-compras navideñas o cerrar un negocio. 
+La Luna Nueva de Sagitario del 20 de diciembre marca la ocasión perfecta para sembrar intenciones sobre intimidad y confianza, adentrándose en el espíritu de renovación. Ahora también podría ser un buen momento para gestionar inversiones a largo plazo.
+Te sentirás más aventurero cuando el Sol entre en Capricornio el día 21, marcando el comienzo del invierno y una época de expansión mental. Date el espacio necesario para aprender algo nuevo o planear un viaje. Aprovecha estas energías para cerrar el ciclo con una visión optimista del futuro.
+Días destacados: 5, 21, 24
+Días desafiantes: 11, 20, 21

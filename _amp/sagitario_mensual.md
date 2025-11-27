@@ -7,16 +7,16 @@ home: FALSE
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Sagitario_mes.png#2025-11-26
+ogimg: /images/mes/Sagitario_mes.png#2025-11-27
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-11-26'
+ lastmod: '2025-11-27'
 ---
 
 
-El mes comienza con una invitación a cuidarte, Sagitario, ya que el Sol en Escorpio calienta tu casa de la introspección y el cierre de ciclos. Es hora de ponerte en primer lugar. La Luna Llena en Tauro del 5 de Noviembre te pide armonizar tu mente y cuerpo, enfocándote en tu salud y rutinas. Cuando te ocupas de ti mismo, es más fácil ayudar a los demás.
-La comunicación sobre temas profundos se facilita. El Sol entra en tu signo, Sagitario, el 22 de Noviembre, iluminando tu primera casa del yo y la manifestación. ¡Comienza tu temporada! La Luna Nueva en Escorpio del día 20 te traerá revelaciones esclarecedoras, pidiéndote que te deshagas de viejas versiones de ti mismo para entrar en tu poder. Una mentalidad fresca te permitirá atraer la positividad y experimentar una perspectiva brillante. Con Venus entrando a tu signo a final de mes, ansías más amor. Cuida tus conexiones y experimentarás nuevos niveles de intimidad.
+¡Feliz cumpleaños, Sagitario! El mes comienza con una invitación a celebrarte a ti mismo, ya que el Sol en tu signo ilumina tu primera casa de identidad y vitalidad. Es hora de ponerte en primer lugar. Sin embargo, la Luna Llena del 4 de diciembre en tu signo opuesto, Géminis, pone el foco en tus relaciones y socios, pidiéndote armonizar tus deseos con los de los demás.
+Mercurio te ayudará a racionalizar tu vida diaria a mediados de mes. Cuando establezcas listas de tareas y objetivos para las fiestas, asegúrate de no crear expectativas poco realistas. El Sol entra en Capricornio el 21 de diciembre, iluminando tu sector de recursos y valores. Tienes el poder de construir bases sólidas para el próximo año. La Luna Nueva en tu signo el día 20 te traerá la oportunidad perfecta para sembrar las intenciones de tu nuevo año personal. Te estás deshaciendo de viejas versiones de ti mismo y entrando en tu poder para cerrar el ciclo con gratitud.
 ¡Buena suerte este mes, Sagitario!
-Días destacados: 5, 14, 23
-Días desafiantes: 10, 24, 30
+Días destacados: 7, 15, 24
+Días difíciles: 17, 21, 28

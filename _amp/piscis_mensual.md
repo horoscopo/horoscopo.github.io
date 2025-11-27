@@ -7,12 +7,15 @@ home: FALSE
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Piscis_mes.png#2025-11-26
+ogimg: /images/mes/Piscis_mes.png#2025-11-27
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-11-26'
+ lastmod: '2025-11-27'
 ---
 
 
-Un asunto de comunicación podría aclararse en los días cercanos a la Luna Llena en Tauro del 5 de Noviembre. Un detalle que fue pasado por alto podría surgir o tal vez alguien verá las cosas desde tu punto de vista con mayor facilidad. Disfruta de ésta buena suerte. La Luna Nueva en Escorpio del 20 de Noviembre es expansiva. ¿Tienes interés en tomar un nuevo seminario o planificar un viaje? Es posible que una idea te motive. Ya sea que el tema sea filantrópico, espiritual o académico, es posible que ahora tu mente se sienta intrigada. De alguna manera, tu mundo se hará más grande y más brillante.
+Prepárate para un mes ajetreado, estimable Piscis, mientras el Sol en Sagitario transita por el sector de tu carta astral que rige la carrera y la imagen pública. Este clima cósmico aumentará tu visibilidad a medida que la temporada de festividades continúa, aunque no debes presionarte para aceptar todas las responsabilidades. Te volverás una persona más conectada con tus grupos cuando el Sol ingrese a Capricornio el 21 de diciembre. Esta ubicación planetaria te pide que hagas un balance de tus amistades y así comenzar el nuevo año con el apoyo de tu comunidad.
+La Luna Llena en Géminis el día 4 está lista para activar tu sector del hogar y la familia. Estas vibras son perfectas para pasar tiempo de calidad con tus seres queridos o decorar tu casa para las fiestas. Las pasiones fluirán libremente. La Luna Nueva en Sagitario del día 20 marca un nuevo comienzo profesional, ideal para plantar las semillas de tus metas para el 2026. Es un momento excelente para visualizar tu éxito futuro.
+Días destacados: 1, 12, 26
+Días desafiantes: 8, 25, 29

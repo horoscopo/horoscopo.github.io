@@ -9,18 +9,20 @@ keywords: horóscopo diciembre, horoscopos en español, horóscopo Capricornio d
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/capricornio_mes.png#2025-11-26
+ogimg: /images/mes/capricornio_mes.png#2025-11-27
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-11-26'
+ lastmod: '2025-11-27'
 ---
 
 
- > Noviembre conecta a Capricornio con su mundo interior y su poderosa intuición, clave para tomar decisiones alineadas. En el amor, florecen vínculos profundos y empáticos, tanto en relaciones actuales como en nuevas conexiones significativas. El ámbito laboral trae reconocimiento y satisfacción por logros previos. La salud emocional mejora al soltar miedos y abrirte a sanar desde la expresión y el apoyo genuino.
+ > Capricornio, vas a finalizar el año de manera muy movida exprimiendo todos los momentos al máximo. Con respecto al corazón, si quieres ser feliz, es hora de que realices una limpieza interior y empieces una nueva etapa con tu temporada de cumpleaños acercándose.
 
 
 
-La Luna Llena en Tauro del 5 de Noviembre te relaja para ser y hacer lo que sea más satisfactorio en tu vida amorosa y creativa. Prepárate para los admiradores. Aun así, será divertido. Siente la fuerza y valentía de ser quien eres. Esto también puede atraer a nuevas parejas. La Luna Nueva en Escorpio del 20 de Noviembre te da el poder de abrirte paso a través de la niebla en tu círculo social y resolver una situación complicada. Tendrás cuidado y, al mismo tiempo, serás valiente acerca de tomar una decisión. Confía en tu juicio.
-Mejores días: 3, 13, 20
-Peores días: 8, 27
+Se te considera uno de los signos más trabajadores, estimable Capricornio, y diciembre comienza con el Sol en tu sector de descanso y cierre (casa 12). Es probable que sientas la necesidad de retirarte un poco y recargar baterías antes de tu cumpleaños. Es un tiempo excelente para la reflexión y para soltar lo que ya no te sirve del año que termina.
+La Luna Llena en Géminis el 4 de diciembre en el sector de tu carta astral que rige el trabajo y la salud te pide que encuentres un equilibrio. Es posible que comiences a sentirte con poca energía si no has estado cuidándote adecuadamente, por lo que es importante que priorices tu bienestar físico en medio del ajetreo festivo.
+Una energía renovada fluye mientras tu temporada comienza el día 21, dando inicio al solsticio de invierno y a tu retorno solar. ¡Felicidades! Analizarás tus límites y te sentirás empoderado para establecer nuevas metas personales. La Luna Nueva del 20 de diciembre en tu sector espiritual es un momento místico para pedir deseos al universo antes de que el Sol entre en tu signo.
+Días destacados: 10, 15, 23
+Días desafiantes: 8, 9, 24
