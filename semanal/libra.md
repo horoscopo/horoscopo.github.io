@@ -1,27 +1,29 @@
 ---
 layout: horoscopos
-title: libra 01 de diciembre 2025 al 07 de diciembre 2025 
-description: Horóscopo semanal libra 01 de diciembre 2025 al 07 de diciembre 2025. Cada día que pasa te das más cuenta de que mereces cosas buenas Libra, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+title: libra 08 de diciembre 2025 al 14 de diciembre 2025 
+description: Horóscopo semanal libra 08 de diciembre 2025 al 14 de diciembre 2025. Tienes un potencial enorme para hacer cualquier cosa que quieras hacer y sobretodo, para hacerla grande, que haga ruido sabes, pero debes concentrarte en ello. A veces, para ser feliz hay que aprender a ignorar muchas cosas y a mucha gente…
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2025-12-01
+ogimg: /images/zodiac/semanal_libra.png#2025-12-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-12-01'
+ lastmod: '2025-12-08'
 ---
 
 
 
-## Cada día que pasa te das más cuenta de que mereces cosas buenas Libra, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+## Tienes un potencial enorme para hacer cualquier cosa que quieras hacer y sobretodo, para hacerla grande, que haga ruido sabes, pero debes concentrarte en ello. A veces, para ser feliz hay que aprender a ignorar muchas cosas y a mucha gente…
 
-Algo que te haga sentir vivo/a ya. Te has metido en una espiral de rutina un poco complicada y poco a poco esa energía que tenías va siendo consumida. Con lo que tú has sido… Con lo que tú eres…
-Los sentimientos podían intensificarse, por lo que puede que tengas que tener más cuidado durante ciertas charlas. Podría ser fácil decir algo erróneo a causa de que sientas estrés. Trata de pensar antes de hablar. Sin embargo, el Sol en Sagitario puede tener el efecto opuesto, animándote a conectar con otros, sobre todo si necesitan ayuda.
+Además, que últimamente te han dado muchos chutes de alegría algunas personas alegres y positivas que hacía mucho que no encontrabas en tu vida así que, ¿para qué volver a las que amargan? Por favor… 
+ y el hecho de que las personas que creías que querías y te querían te den la mitad que otras te decepciona mucho. Y vuelves a la carga.
+La semana que comienza podría encontrarte con una actitud menos idealista y más con los pies en la tierra, particularmente en lo que respecta a tu carrera, las cuestiones de dinero y la seguridad. Mientras Venus, tu regente, sigue avanzando, podrías enfocarte todavía más en una meta o un plan que tienes ganas de completar. Pero una conexión planetaria el martes sugiere que podrías tener un apego demasiado fuerte hacia este objetivo. Salirte de la rutina puede hacer lo alcances más fácilmente. 
+Espera lo inesperado cuando el Sol en Sagitario entra en sintonía con tus ideales a mitad de semana. Si estás buscando algo nuevo y diferente, podría aparecer como un interesante encuentro que te brinde una nueva perspectiva de vida. Con la energía de aire y fuego actual, es posible que sientas una mayor conexión con tus ideas.
 
 ## Dinero
 
-Estás tratando de expresarte más en lo que se refiere a trabajo y dinero ahora. Es el momento perfecto para hablar acerca de tus prioridades y que se te escuche en lo que se refiere a dinero en efectivo. No dejes que alguien más en el trabajo o en una relación estrecha sea demasiado dominante con sus ideas sobre el dinero. Juntos, pueden mover montañas – a solas, no tanto.
+Actualmente los aspectos afectan tu sector de dinero y valores. Pero la gran novedad está en tu sector de negocio propio y de grupos. Es hora de correr la voz sobre lo que haces para poder atraer a más clientes, ganar más dinero, e incluso empezar la cuenta de jubilación que has estado planeando.

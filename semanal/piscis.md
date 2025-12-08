@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 01 de diciembre 2025 al 07 de diciembre 2025 
-description: Horóscopo semanal piscis 01 de diciembre 2025 al 07 de diciembre 2025. Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
+title: piscis 08 de diciembre 2025 al 14 de diciembre 2025 
+description: Horóscopo semanal piscis 08 de diciembre 2025 al 14 de diciembre 2025. La vida es un ciclo Piscis, y tienes que estar preparado para lo que venga. Algunas personas se cruzan en tu camino y cambian toda tu dirección, ahora bien, debes valorar si es eso lo que te interesa ahora. No te quedes con lo malo conocido.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2025-12-01
+ogimg: /images/zodiac/semanal_piscis.png#2025-12-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-12-01'
+ lastmod: '2025-12-08'
 ---
 
 
 
-## Los cambios no son malos y aunque haya cicatrices que aún no están cerradas hay que seguir mirando al frente, hay que seguir caminando y hay que abrir sendas nuevas. No te estanques con nada ahora. Si no va, no va.
+## La vida es un ciclo Piscis, y tienes que estar preparado para lo que venga. Algunas personas se cruzan en tu camino y cambian toda tu dirección, ahora bien, debes valorar si es eso lo que te interesa ahora. No te quedes con lo malo conocido.
 
-Tienes una sensación algo extraña, como si entendieras, por fin, que estás fuera de onda, que no te encuentras en el lugar donde de verdad quieres o mereces estar. Pero esto es solamente una elección Piscis, y ahora puedes elegir lo que quieras.
-Un problema que había quedado en el olvido podría salir a la luz a la mitad de semana. Puede que este problema resurja en un sueño o quizá en una angustia generalizada que quieres tratar de entender. Puede que te ayude tomarte tiempo y liberar un poco de tiempo en tu agenda. Si lo haces, podrás conectar mejor con este asunto, entender de dónde viene y tratar de buscar una solución. Puede que te sientas mucho mejor al fin de cuentas.
+Sólo hace falta que tu mente haga click Piscis, y que te des cuenta de lo que es importante y de lo que no. Aprende a dejar pasar, aprende a dejar que lo malo se acabe yendo solo… Sin necesidad de forzar, sin necesidad de pensar demasiado en ello. Igual que llegó, se irá. Acuérdate de otras veces, de cuando pensabas que las cosas eran un desastre, de cuando creías que no podrían ser peor. Y pasaron, y todo volvió a mejorar…
+El comienzo de la semana podría ser bastante intenso. Las conexiones con Neptuno, tu regente, te animan a conectar espiritualmente. Puede que sientas fuertes deseos de estar en compañía, lo que es genial si el sentimiento es mutuo. Si percibes resistencia, relájate y deja que las cosas se desarrollen de forma natural. El Cuarto Menguante del jueves puede ser la ocasión perfecta para cerrar ciclos pendientes. El viernes es excelente para una cita tranquila con un nuevo amante o con tu pareja romántica.
 
 ## Dinero
 
-Esta semana es acerca de tus relaciones y te hace mucho más comunicativo/a sobre lo que necesitas. Te estableces ahora así con el fin de hacer que tus objetivos sean fuertes y claros. Estás cambiando las personas con las que pasas tiempo, y tales te están cambiando de una buena manera. Ganarás más dinero si tomas sus consejos en lugar de luchar contra ellos.
+Esta semana tienes la oportunidad de mejorar recientes problemas financieros y de obtener inspiración y buenas ideas. Este es un momento estimulante para la mente, y puedes darte cuenta que realmente estás en tu elemento ahora. A medida que restringes tu gasto en la vida familiar, los viajes, la lectura, la enseñanza y la metafísica se abren. En algún lugar hay un cheque con tu nombre escrito en él.

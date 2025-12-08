@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: leo 01 de diciembre 2025 al 07 de diciembre 2025 
-description: Horóscopo semanal leo 01 de diciembre 2025 al 07 de diciembre 2025. No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
+title: leo 08 de diciembre 2025 al 14 de diciembre 2025 
+description: Horóscopo semanal leo 08 de diciembre 2025 al 14 de diciembre 2025. Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2025-12-01
+ogimg: /images/zodiac/semanal_leo.png#2025-12-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-12-01'
+ lastmod: '2025-12-08'
 ---
 
 
 
-## No eres estúpido por ser humano, por tener sentimientos, por intentar arreglar las cosas, por querer empezar de cero y bien pero no puedes controlar tus emociones, lo que hay es lo que hay…
+## Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
 
-Quita importancia a las cosas Leo, como sea… De verdad, pensar demasiado es inútil y tu además puedes estresarte mucho más que otros signos por esto. Rizas el rizo, y así constantemente… Pon la mente en blanco como sea si no quieres empezar a dejar de dormir esta semana. Hay cosas que no están en tu mano, hay cosas que llegan y se van solas, sin que podamos hacer nada, pero sin embargo, la vida sigue y hay otras muchas en las que si puedes hacer mucho. Pues céntrate en esas Leo. En las que verdaderamente están ahí, en tu mano. Tienes que tener un plan B para engañar a tu mente, sal un poco más y cuando no te apetezca mucho, oblígate, hazte el favor de relacionarte con tus amigos, de sacar tus sentimientos, lo que pasa por tu cabeza. Los nervios sólo te acabarán consumiendo por dentro. Deja fluir, deja correr, deja pasar las cosas y no vuelvas a abrir las puertas de tu vida a la gente que te hace daño. Si te rodeas de buenas personas, lo positivo empezará a aparecer en tu vida, pero si por tu alrededor la energía mala se palpa, no esperes nada bueno. Deja que las cosas se marchen de tu vida si así tiene que ser, y márchate tú si eso es lo que sabes que debes hacer… Aférrate a ti mismo, sólo a ti… Por una vez manda a la mierda y céntrate en lo que de verdad te hará feliz.
-Puede que las emociones sean bastante intensas durante la semana, al punto de que podrían estallar. Si no le has dicho a nadie cómo te sientes y mueres por hacerlo, trata de controlar tus ansias. La persona en cuestión podría sentirse abrumada si le cuentas todo de golpe. ¿Ya tienes compromiso con alguien? A tu amor le encantaría un regalo especial que podría ser más que suficiente para mostrar cuánto te importa ahora, y siempre.
+Al final sólo nos arrepentiremos de las oportunidades que no tomamos Leo así que, empieza a agarrar todas las que lleguen con fuerza. No pienses demasiado, ya has vivido mucho como para saber lo que te interesa y lo que no así que, no te dejes amedrentar por nada ni por nadie. Puedes con todo lo que te propongas y además hagas lo que hagas lo harás bien. Puedes llegar alto si empiezas a dejar de lado cosas que no son productivas y tomas otros caminos. A veces te aferras demasiado por cariño y tratas de arreglar todo, de tratar de hacer a algunas personas mejores personas, de mantener situaciones que en vez de sumarte te restan todo el tiempo, y lo peor es que todo ese tiempo que gastas podías invertirlo en ti y en avanzar mucho más con tus objetivos en la vida. Hay cosas que no quieres que ocurran pero que debes aceptar Leo, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir. Por tu bien. Procura que todo lo que decidas hacer esta semana te haga realmente feliz.
+Un encuentro o evento social podría tener un profundo efecto en tu vida, y puede ser un momento crucial. Debido a esto, puedes tomar una decisión clave o quizás decidas seguir un nuevo camino que podría resultar especialmente fructífero. Más tarde, mientras el Sol transita por el afín Sagitario, entrarás a una fase en la que será de ayuda tomarte un tiempo para disfrutar. Durante las próximas semanas, expandir tus horizontes puede ser particularmente gratificante.
 
 ## Dinero
 
-No eres el ser más paciente de la faz del planeta, pero tu suerte es grande y está a cargo por ahora, así que no te preocupes. Los aspectos están avivando el aprendizaje, incrementando tus oportunidades para incorporar nuevas habilidades. Pueden surgir oportunidades repentinas para divertirte con amigos, familiares y parejas románticas. El dinero se hizo para gastarse, ¿cierto?
+Puede que tengas la tentación de contar tu historia en más de una forma. Podrías percatarte de que tu escritorio está lleno de intentos de otras personas en busca de trabajo, buscando contribuciones para sus asociaciones, o que sólo quieren ponerse al día. Pero también estás de un humor soñador, y fácilmente podrías pensar en una estupenda idea para la próxima gran novela. Tu creatividad está zumbando a toda máquina.

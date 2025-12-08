@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 01 de diciembre 2025 al 07 de diciembre 2025 
-description: Horóscopo semanal capricornio 01 de diciembre 2025 al 07 de diciembre 2025. Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
+title: capricornio 08 de diciembre 2025 al 14 de diciembre 2025 
+description: Horóscopo semanal capricornio 08 de diciembre 2025 al 14 de diciembre 2025. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2025-12-01
+ogimg: /images/zodiac/semanal_capricornio.png#2025-12-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-12-01'
+ lastmod: '2025-12-08'
 ---
 
 
 
-## Habrá momentos en los que el mundo parezca que se te cae a pedazos, pero todo eso que tienes ahora pendiente, todo ese dolor, todas esas cosas que te persiguen darán un giro de 180 grados.
+## No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
 
-El mundo no te entiende Capricornio, ya estás acostumbrado a eso, pero no te frustres, en serio no te frustres. Ha llegado un momento en el que ya no quieres las cosas a medias, o te lo dan todo o mejor que no te den nada. Estás harto de hacerte ilusiones que después no se cumplen, estás harto de depender siempre de la felicidad de los demás, de sus decisiones… Y te has dado cuenta de que vales mucho, de que si el resto no es capaz de valorar lo que podrías llegar a dar no es problema tuyo. Ahora sí sabes lo que vales Capricornio, ahora sí sabes lo que mereces. A pesar de que ahora sea todo o nada ni siquiera necesitas eso del resto, ¡qué va! Porque las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz. Quieres “sobrevivir” en el mundo sin necesidad de nadie, sin necesidad de nada que te ate y te corte las alas, sin broncas, sin malos rollos, sin dramas ni peleas. Cuando te metes en bucles así no avanzas y si no avanzas te estancas, y si te estancas dejas de ser feliz. Ya has estado en el fondo mucho tiempo Capricornio, ahora que has salido no vuelvas a caer. No eres de hierro no, pero procura serlo esta semana, aunque sea complicado. Descúbrete a ti mismo y descubre tu misión en la vida, y hazlo solo, y en vez de darle vueltas a lo malo, quédate con los buenos momentos, con lo que de verdad no falla.
-Es posible que motives a otras personas para que se unan a tu búsqueda de paz interior o un retiro espiritual. De hecho, hacer estas actividades sin compañía no es tan divertido como hacerlas con amigos o tu pareja. El Sol en Sagitario activa tu sector de descanso y cierre, dándote ganas de ponerte en espíritu reflexivo.
+No eres la misma persona que eras hace tres años, un año o unos meses atrás, estás en constante cambio, las experiencias te han hecho ser mucho más duro, mucho más fuerte, y sí, te han hecho ver que todo tiene un principio pero que nada dura eternamente. Si necesitas consejo, habla contigo mismo, recuérdate experiencias, aunque muchas sean dolorosas, nadie mejor que tú sabe por lo que has pasado, nadie mejor que tú sabe lo que no quiere volver a repetir. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo. No está bien conformarse Capricornio, no está bien pensar que lo que tienes es porque lo mereces, porque no es así, lo que tienes es porque aún no has buscado o encontrado lo que de verdad deseas, pero si no eres tú quien intenta encontrarlo, nadie lo hará por ti. Pasarán los años, ¿y de verdad te quieres ver en la misma situación dentro de por ejemplo dos años? No, porque tú tienes sueños, tienes proyectos, pero sólo te falta ese empujón, esa “seguridad” que parece que tienes pero que también te falta. Rompe con todo Capricornio, mírate y observa lo que ves, observa lo que vales, puedes llegar a conseguir tanto… Sólo te falta tomar esa decisión que quizás asusta tanto pero que es la decisión que hará que tu destino cambie…
+Tal vez tengas ganas de experimentar con una dieta nueva y fresca de comidas orgánicas y productos cultivados en casa. El actual enfoque en tu sector de estilo de vida, con el Sol acercándose a tu signo, podría ser el catalizador para dejar la comida rápida y elegir algo más sabroso y saludable. Lo mismo aplica a otras actividades, también. Comenzar yoga o cualquier otra rutina de relajación podría ser más aconsejable que mirar televisión. De hecho, un nuevo comienzo más saludable podría estar en tu menú.
 
 ## Dinero
 
-¡Vas con todo esta semana! Esto proporciona una gran explosión de energía destinada a mejorar tu publicidad para atraer a nuevos compradores o esfuerzos de ganar dinero, como iniciar un nuevo negocio. Si estás buscando una nueva posición, primero pregunta sobre el salario para que no te decepciones después de haber hecho la entrevista. Un aspecto inarmónico podría significar que la familia y el romance se ponen en segundo plano durante un tiempo.
+Esta semana se trata de aspectos afortunados que afectan tu sector del karma, las vidas pasadas y los sueños, así como el sector del hogar. Tus sueños pueden ser muy vivos y llenos de ideas sobre cómo traer más dinero, así que presta mucha atención a lo que dicen. Mientras tanto, el sector del hogar no está nada claro. Pon un poco de pensamiento en cuanto a si tiene sentido seguir pagando la misma renta o sería mejor trasladarse a un lugar más barato.
