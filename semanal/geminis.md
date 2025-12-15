@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: geminis 08 de diciembre 2025 al 14 de diciembre 2025 
-description: Horóscopo semanal geminis 08 de diciembre 2025 al 14 de diciembre 2025. Llega una buena semana Géminis, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
+title: geminis 15 de diciembre 2025 al 21 de diciembre 2025 
+description: Horóscopo semanal geminis 15 de diciembre 2025 al 21 de diciembre 2025. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2025-12-08
+ogimg: /images/zodiac/semanal_geminis.png#2025-12-15
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-12-08'
+ lastmod: '2025-12-15'
 ---
 
 
 
-## Llega una buena semana Géminis, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará. 
+## Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
 
-Esta semana va a estar cargada de altibajos Géminis, va a ser una semana muy movidita. Y cuando estés arriba estarás mucho tiempo pero el problema es cuando estás abajo… Paciencia y sangre fría. Vas a tomar decisiones adecuadas pero al fin y al cabo los cambios te trastocan mucho. Tus expectativas son muy altas siempre y como te falle algo, aunque sea por poco, te amarga la existencia. Pero como siempre Géminis, hay cosas que no están en tu mano. En realidad hay cosas que aún no has perdonado del todo, hay algo que por dentro te agita, algo que no te deja dormir como quisieras. Pero deja de investigar de una vez, deja de gastar tu tiempo en encontrar errores de los demás. Si no te gusta algo, ¡a la mierda! Sin contemplaciones. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón. La cabeza Géminis, la cabeza es la que vale ahora y la que te acabará por salvar. Que no te empujen al límite Géminis, no te enredes en mierdas del resto, de verdad. Los cambios no son malos y estos ni siquiera van a ser tan complicados como tú piensas…
-Puede que las amistades se vuelvan muy demandantes esta semana, y puede que debas ponerte firme para evitar que se aprovechen de ti. Se empieza a ver una dinámica que podría coincidir con problemas de control y algunos malentendidos. Si bien puede ser fácil solucionar estos problemas con tus amistades más cercanas, puede que debas recurrir a otras tácticas con aquellas personas que no conoces tan bien. Establecer límites claros y saber cuáles son tus sentimientos puede ser un buen comienzo.
+Por qué no admites de una vez lo decepcionado que estás con algunas personas, por qué no lo dices y lo expresas Géminis, por qué te lo callas y te lo llevas callando tanto tiempo? No te das cuenta de que sufres en silencio, no te das cuenta de que acumulas y por eso a veces no avanzas? No eres sensible ni débil por hacerlo, eres real Géminis, y si las cosas te duelen no puedes hacer como si no pasara nada, no puedes dejarlo a un lado y seguir como si nada. Tú no funcionas así Géminis. Has perfeccionado esa sonrisa falsa, has perfeccionado eso de aguantar por fuera como si estuviera entero cuando por dentro estabas roto en mil pedazos, has aprendido a engañar a los demás. Está bien que no quieras preocupar a algunas personas, pero no todo va tan bien como te gustaría Géminis, y mira, tampoco te lo vas a comer todo vale? No ignores tus sentimientos, no trates de aplastarlos para que no se interpongan en tu camino, no intentes de forzar y de mantener fuera de tu vida lo que aún está dentro, la tentación siempre estará ahí hasta que no cortes realmente con el problema… No te sientas imbécil por llorar, por preocuparte demasiado aún, todo tiene un proceso… Y ese proceso llega a su fin… Feliz semana…
+Definitivamente deberías considerar tomarte un descanso y hacer algo que te guste. Y si crees que tu tiempo está demasiado ocupado para el romance, es posible que tengas que reconsiderar esa opinión. El muy optimista aspecto de la Luna Nueva en tu sector de relaciones el sábado podría deslumbrarte con un encuentro especial. ¿Llegará a algo? ¡Eso depende de ti! Sin embargo, debido a que Mercurio, tu regente, está muy activo esta semana, sería mejor no precipitarte a nada. Toma cada día como venga y ver cómo se desarrolla la relación.
 
 ## Dinero
 
-Puede que te encuentres considerando tu siguiente paso en este momento. Esto se debe a que algunos de tus aspectos en el sector financiero pueden estar frenando lo que se avecina. ¡No entres en pánico! Cuando el Universo cierra una ventana en un área, otra ventana se abre en otra parte. Usa tu imaginación para idear nuevas formas de ganar dinero, sobre todo en lo que respecta a tu vida laboral diaria. Es posible que incluso movimientos inusuales traigan más dinero en efectivo.
+Es necesario que esta semana recuerdes lo que aportas a la mesa. Tu panorama de deuda está a punto de ponerse de color de rosa, porque es posible establecer con cuidado y de manera realista los planes de pago con los bancos y los acreedores. Pero puede que no puedas conseguir todo el apoyo que requieres de tus redes sociales. En lugar de venderte a un precio muy caro, recuerda lo que tienes que dar. Es mejor el saber lo que vales, aunque no sea evidente ahora.

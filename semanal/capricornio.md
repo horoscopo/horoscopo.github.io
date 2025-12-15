@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 08 de diciembre 2025 al 14 de diciembre 2025 
-description: Horóscopo semanal capricornio 08 de diciembre 2025 al 14 de diciembre 2025. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+title: capricornio 15 de diciembre 2025 al 21 de diciembre 2025 
+description: Horóscopo semanal capricornio 15 de diciembre 2025 al 21 de diciembre 2025. Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2025-12-08
+ogimg: /images/zodiac/semanal_capricornio.png#2025-12-15
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-12-08'
+ lastmod: '2025-12-15'
 ---
 
 
 
-## No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+## Los cambios radicales a veces son buenos. Cierra puertas y ventanas a lo viejo, cierra todo lo que haga falta, y si no sabes cual es el camino prueba, pero no te quedes con las ganas ahora…
 
-No eres la misma persona que eras hace tres años, un año o unos meses atrás, estás en constante cambio, las experiencias te han hecho ser mucho más duro, mucho más fuerte, y sí, te han hecho ver que todo tiene un principio pero que nada dura eternamente. Si necesitas consejo, habla contigo mismo, recuérdate experiencias, aunque muchas sean dolorosas, nadie mejor que tú sabe por lo que has pasado, nadie mejor que tú sabe lo que no quiere volver a repetir. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo. No está bien conformarse Capricornio, no está bien pensar que lo que tienes es porque lo mereces, porque no es así, lo que tienes es porque aún no has buscado o encontrado lo que de verdad deseas, pero si no eres tú quien intenta encontrarlo, nadie lo hará por ti. Pasarán los años, ¿y de verdad te quieres ver en la misma situación dentro de por ejemplo dos años? No, porque tú tienes sueños, tienes proyectos, pero sólo te falta ese empujón, esa “seguridad” que parece que tienes pero que también te falta. Rompe con todo Capricornio, mírate y observa lo que ves, observa lo que vales, puedes llegar a conseguir tanto… Sólo te falta tomar esa decisión que quizás asusta tanto pero que es la decisión que hará que tu destino cambie…
-Tal vez tengas ganas de experimentar con una dieta nueva y fresca de comidas orgánicas y productos cultivados en casa. El actual enfoque en tu sector de estilo de vida, con el Sol acercándose a tu signo, podría ser el catalizador para dejar la comida rápida y elegir algo más sabroso y saludable. Lo mismo aplica a otras actividades, también. Comenzar yoga o cualquier otra rutina de relajación podría ser más aconsejable que mirar televisión. De hecho, un nuevo comienzo más saludable podría estar en tu menú.
+Tu mente lo está analizando absolutamente todo Capricornio, conversaciones del pasado, cosas que se dijeron, palabras que nunca se debieron decir… Como no dejes a un lado todos esos pensamientos que ya están en el pasado, acabarás viviendo en el pasado, otra vez Capricornio… No… Vas a arruinar todo antes de que ocurra, vas a estar en otro lugar cuando debes estar aquí, en el presente, vas a perderte oportunidades esta semana por eso. Cambia como sea. Y agarra todo lo que venga con mucha fuerza. No pienses si lo que estas haciendo está mal o bien, no pienses en el daño que quizás puedas hacer a algunos o en la alegría que les darás a otros. Piensa en ti un poquito. Todo el mundo jamás estará contento con las decisiones que tomes, por eso mismo, deja de pensar un poco en los demás y dirígete hacia donde de verdad te sientas bien. Fuera las expectativas Capricornio, fuera el creer que va a ocurrir algo, si tiene que ser será, pero no te comas la cabeza y no le des más vueltas a todo. La ansiedad podrá contigo en algún momento de esta semana Capricornio, pero ya has pasado por eso, no dejes que se apodere de tu mente, la ansiedad te hace empujar a personas fuera de tu vida cuando en realidad quieres que se queden, y de la misma manera te hace volverte loco por otras que lo que deberían hacer es marcharse, y de una vez.
+Estarás en tu elemento esta semana, disfrutando de la oportunidad de dejar que tu, burbujeante personalidad sea mostrada. Y si te resulta difícil entender la posición que alguien está adoptando, tendrás un montón de amigos en quiénes confiar que serán capaces de ofrecerte consejos. Debido a que el Sol ingresa a tu signo el domingo 21, marcando el inicio de tu temporada, es mejor que mantengas un buen ritmo de vida al balancear tus responsabilidades profesionales y prepararte para tu nuevo año solar. De hecho, meditar a diario podría serte muy útil.
 
 ## Dinero
 
-Esta semana se trata de aspectos afortunados que afectan tu sector del karma, las vidas pasadas y los sueños, así como el sector del hogar. Tus sueños pueden ser muy vivos y llenos de ideas sobre cómo traer más dinero, así que presta mucha atención a lo que dicen. Mientras tanto, el sector del hogar no está nada claro. Pon un poco de pensamiento en cuanto a si tiene sentido seguir pagando la misma renta o sería mejor trasladarse a un lugar más barato.
+Te enfrentas a un momento interesante. Por un lado, las redes sociales son cada vez más grandes y más solidarias. Por otro lado, alguien no está siendo totalmente honesto sobre lo que quiere sacar de tu amistad. En lugar de terminar la relación o tomarlo como algo personal, atribúyeselo a tu irresistible forma de vivir la vida. Tal quiere estar cerca de ti porque eres una persona exitosa y puede ser capaz de ayudarte a alcanzar tus sueños.

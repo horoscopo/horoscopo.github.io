@@ -1,29 +1,27 @@
 ---
 layout: horoscopos
-title: libra 08 de diciembre 2025 al 14 de diciembre 2025 
-description: Horóscopo semanal libra 08 de diciembre 2025 al 14 de diciembre 2025. Tienes un potencial enorme para hacer cualquier cosa que quieras hacer y sobretodo, para hacerla grande, que haga ruido sabes, pero debes concentrarte en ello. A veces, para ser feliz hay que aprender a ignorar muchas cosas y a mucha gente…
+title: libra 15 de diciembre 2025 al 21 de diciembre 2025 
+description: Horóscopo semanal libra 15 de diciembre 2025 al 21 de diciembre 2025. Retírate del mundo artificial Libra, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2025-12-08
+ogimg: /images/zodiac/semanal_libra.png#2025-12-15
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-12-08'
+ lastmod: '2025-12-15'
 ---
 
 
 
-## Tienes un potencial enorme para hacer cualquier cosa que quieras hacer y sobretodo, para hacerla grande, que haga ruido sabes, pero debes concentrarte en ello. A veces, para ser feliz hay que aprender a ignorar muchas cosas y a mucha gente…
+## Retírate del mundo artificial Libra, del mundo de falsos y de hipócritas, al menos por un tiempo, y céntrate en ti y en los que son nobles y sinceros. 
 
-Además, que últimamente te han dado muchos chutes de alegría algunas personas alegres y positivas que hacía mucho que no encontrabas en tu vida así que, ¿para qué volver a las que amargan? Por favor… 
- y el hecho de que las personas que creías que querías y te querían te den la mitad que otras te decepciona mucho. Y vuelves a la carga.
-La semana que comienza podría encontrarte con una actitud menos idealista y más con los pies en la tierra, particularmente en lo que respecta a tu carrera, las cuestiones de dinero y la seguridad. Mientras Venus, tu regente, sigue avanzando, podrías enfocarte todavía más en una meta o un plan que tienes ganas de completar. Pero una conexión planetaria el martes sugiere que podrías tener un apego demasiado fuerte hacia este objetivo. Salirte de la rutina puede hacer lo alcances más fácilmente. 
-Espera lo inesperado cuando el Sol en Sagitario entra en sintonía con tus ideales a mitad de semana. Si estás buscando algo nuevo y diferente, podría aparecer como un interesante encuentro que te brinde una nueva perspectiva de vida. Con la energía de aire y fuego actual, es posible que sientas una mayor conexión con tus ideas.
+Cada día que pasa te das más cuenta de que mereces cosas buenas Libra, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento. Tú eres tu vida y tú eres tu centro ahora mismo. Nada de comeduras de cabeza por situaciones ajenas a ti o por terceras personas, nada de eso de verdad. Tienes demasiado encima como para dedicar más tiempo a otras cosas que no seas tú mismo/a. Esta semana vas a estar pletórico, empezando porque te has dado cuenta de lo que realmente es importante. Huye de las broncas, no te enfrentes a nadie, si los demás quieren llevar un ritmo de vida caótico que lo lleven, no es problema tuyo pero escapa cuanto antes y que no te salpique. Eres como eres y nadie podrá cambiarte por mucho que se empeñen. Un alma libre, pura, buena pero no imbécil… Empieza a escribir una historia nueva si el cuerpo te lo pide. Lo has hecho toda tu vida. No te puede temblar más el pulso con nada. Empieza el cambio. Sólo debes de dar el primer paso, y después otro y otro… A ver si así, el resto reacciona. Sobretodo cuando sepan que no estarás ahí para aguantar nada que te haga daño… ¡Con la escuela que tienes tú ya! Feliz semana Libra.
+El panorama actual revela que podrías tener una larga lista de tareas por hacer, pero si esto incluye cumplir con las necesidades de otras personas y relegar las tuyas, algo debe cambiar. Si bien el enfoque continuo en tu sector social podría hacer que te inclines a ayudar, el cosmos también te anima a seguir adelante y hacer lo que tengas que hacer. No puedes complacer a todos. Por otro lado, un empujoncito intuitivo de la Luna Nueva del sábado en tu sector de comunicación podría darte información sobre cómo lograr un avance positivo con respecto a una meta clave.
 
 ## Dinero
 
-Actualmente los aspectos afectan tu sector de dinero y valores. Pero la gran novedad está en tu sector de negocio propio y de grupos. Es hora de correr la voz sobre lo que haces para poder atraer a más clientes, ganar más dinero, e incluso empezar la cuenta de jubilación que has estado planeando.
+Se te está dando un empujón de buena suerte desatando un torrente de mensajes positivos por parte de empleadores, potenciales clientes y clientes. Todos quieren un pedazo de tu tiempo, lo que puede ser agotador, aunque también son buenas noticias. Mientras tanto, ¿has considerado entrar en negocio con un pariente, padre o hermano? Quizá sea el momento de pensar un poco en esto.
