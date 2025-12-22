@@ -1,32 +1,27 @@
 ---
 layout: horoscopos
-title: piscis 15 de diciembre 2025 al 21 de diciembre 2025 
-description: Horóscopo semanal piscis 15 de diciembre 2025 al 21 de diciembre 2025. Las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz.
+title: piscis 22 de diciembre 2025 al 28 de diciembre 2025 
+description: Horóscopo semanal piscis 22 de diciembre 2025 al 28 de diciembre 2025. Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud Piscis, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2025-12-15
+ogimg: /images/zodiac/semanal_piscis.png#2025-12-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-12-15'
+ lastmod: '2025-12-22'
 ---
 
 
 
-## Las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz.
+## Esta semana notarás que casi sin esfuerzo empiezas a atraer lo que quieres a ti. Es por tu actitud Piscis, aprovéchalo. Luces bella/o por dentro y por fuera, luces fuerte, positiva/o, intensa/o…
 
-Tienes que aprender a ver que si quieres volar de verdad no puedes estar cerca de esos que te arrancan las plumas poco a poco para acabar arrancándote las alas más tarde, 
- a personas de las que “piensas” que dependes…
-Si has estado soñando con tomar un nuevo camino y disfrutar de nuevas aventuras, esta semana puede ser el comienzo de una muy interesante fase.
-La Luna Nueva en tu sector de carrera y reputación el sábado 20 puede ser la entrada a nuevas energías. La Luna Nueva trae consigo la oportunidad de deshacerte de restrictivas creencias y adoptar aquellas que son más empoderadoras y que te permiten vivir a tu máximo potencial. 
-También, Neptuno tu regente sigue influyendo en tu signo, lo que te anima a actuar de manera intuitiva en torno al trabajo y las cuestiones de salud.
-El movimiento de los astros hacia tu sector social el fin de semana podría ser perfecto para reavivar el romance y disfrutar de algunas especiales veladas con tu ser querido. 
-Por último, el ingreso del Sol a Capricornio el domingo, tu sector social, puede ser la oportunidad perfecta para demostrar más tus especiales talentos en grupo.
+Sí, la vida te ha dado muchos palos pero quieres seguir adelante, quieres probar cosas diferentes, quieres disfrutar sin tener que pensar si lo que haces está bien o mal para el resto, si es políticamente correcto…
+Tu signo es un signo romántico, por lo que esta semana es la fresa del postre, y esta Navidad no será la excepción. Con la Luna transitando por tu signo los días 24 y 25, un nuevo romance podría encenderse en llamas de un minuto a otro. Además, los vínculos duraderos podrían tener un brillo extra gracias a las energías vitales de estas fiestas. Es hora de que te relajes y te dejes llevar por la pasión. Además, la entrada del Sol en Capricornio iluminando tu zona social podría inspirarte a que renueves tus conexiones.
 
 ## Dinero
 
-Hay algunas restricciones y limitaciones en tu capacidad para aprender y enseñar, así que también los viajes. Aunque es posible que te estés mordiendo las uñas para poner las cosas en marcha, no hay caso en luchar contra esta influencia. La buena noticia es que también hay aspectos favorables. Son tus amigos, contactos sociales, conocidos y colegas los que apoyarán tus esfuerzos en el trabajo y en tu vida monetaria. Ellos proporcionarán una muy bienvenida distracción hasta que las cosas se abran o mejoren.
+Ciertos aspectos indican una época de restricción y limitación a la hora de expresarse. Puede que te sientas incapaz de compartir todas las fascinantes partes de tu personalidad ahora, pero el Universo te está pidiendo que tomes medidas drásticas temporalmente para lograr algo. El hacerse el payaso de la fiesta o el que complace a todos ya no servirá. Sólo una actitud confidente y profesional te dará el dinero que deseas. Profesión es la razón para seguir adelante.

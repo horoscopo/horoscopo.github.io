@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 15 de diciembre 2025 al 21 de diciembre 2025 
-description: Horóscopo semanal sagitario 15 de diciembre 2025 al 21 de diciembre 2025. Vienen emociones fuertes Sagitario, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
+title: sagitario 22 de diciembre 2025 al 28 de diciembre 2025 
+description: Horóscopo semanal sagitario 22 de diciembre 2025 al 28 de diciembre 2025. Tienes la semana agitada Sagitario. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2025-12-15
+ogimg: /images/zodiac/semanal_sagitario.png#2025-12-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-12-15'
+ lastmod: '2025-12-22'
 ---
 
 
 
-## Vienen emociones fuertes Sagitario, emociones que necesitas y sobretodo una ilusión, una ilusión que esperabas demasiado…
+## Tienes la semana agitada Sagitario. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
 
-Sólo tú puedes salvar tu vida Sagitario. Deja de depender del mundo que te rodea, sé fuerte, créete de una vez que hagas lo que hagas puedes hacerlo solo, y que solo también puedes llegar a cualquier meta que te propongas. No es que tengas miedo, pero a veces, te falta ese empujón, esa mano que te agarre y que te diga “salta, que yo salto contigo”. Olvida eso, tú solito puedes darte el empujón, y tú solito puedes saltar, sin necesidad de nadie. Mentalmente eres un poco frágil a pesar de que tu aspecto es súper fuerte, eres sensible sí, y sin querer te atas a las personas más de lo que te gustaría. Está bien tratar de compartir, es bonito, los momentos buenos, los momentos malos… Pero eso no va a sanar a tu alma. Sólo tú puedes reiniciar tu vida y convertirla en lo que quieras, sólo tú puedes transformar tus sueños y tu destino. Si hay algo que quieres hacer, lánzate a hacerlo, da el primer paso. Y piensa que el amor es algo poderoso sí, pero no tan poderoso como tú Sagitario. Necesitas tomar las riendas otra vez, necesitas ser el protagonista de tu historia, saber que nadie es más importante en tu propia vida que tú. Así que, deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
-Comenzarás a sentir una sensación más ligera, más feliz y más entusiasmo con respecto a tu futuro con la Luna Nueva en tu signo el sábado 20. En las próximas semanas tendrás una excelente oportunidad para explorar el tipo de ideas que realmente te fascinan. ¡Planes de viaje también podrían estar en tus cartas! La entrada del Sol a Capricornio el domingo, activando tu sector de recursos y dinero, podría verte progresar. Y si tienes suficiente pasión por tus ideas, las próximas cuatro semanas podrían verte dar un gran salto.
+Tu cabeza quiere un cambio Sagitario, y tu corazón también, y te lo está pidiendo a gritos pero sigues siendo testarudo cuando quieres, y muchas veces aunque a tu alrededor haya una vibra negativa casi imposible de aguantar, tú te la echas a la espalda y la aguantas como el que más. Pero mira Sagitario, no se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo. A veces, parece que no quieres salir de tu estado de confort, de esa zona en la que de confort en el fondo hay poco. Y no quieres salir por miedo a encontrarte cosas peores pero Sagitario por favor, si lo que hay no te llena o no te realiza como persona algo tendrás que hacer ¿no? Esta semana vas a tener sensaciones muy diferentes, sentimientos con un pasado que no es tan pasado. Tienes que acordarte de muchas cosas, acordarte de que eras feliz antes de tener lo que tienes ahora, de que debes seguir creciendo, de que has de liberarte de algunas expectativas muy grandes que tenías y que después han resultado ser falsedad y mentira… Arréglate y déjate de perezas, sal, disfruta, respira aires nuevos y cambia el chip.
+Ten cuidado al tratar con las autoridades, sobre todo al comienzo de la semana. La tensión de las fiestas podría alentarte a responder mal o a revelarte por completo. Puede ser que lo mejor sea tener cuidado si quieres evitarte problemas. Aparte de esto, la presencia de la Navidad y el Sol en tu sector de valores es el momento perfecto para estimular tus sentidos. Si has sentido agotamiento debido a un estilo de vida demasiado agitado, date un chapuzón en la tina con una copa de champán y relájate.
 
 ## Dinero
 
-Por lo general te gusta hacer las cosas a tu manera, pero también sabes trabajar bien en equipo. Con un aspecto favorable afectando tu sector de relaciones serias y matrimoniales, puede que se trate de cosas personales ahora, o puede ser el momento para una fusión muy seria. Los planetas traen un equilibrio perfecto entre la acción y la creatividad. No es un mal momento para lanzar un nuevo negocio, así que si lo estabas pensando, ¡hazlo!
+Hay una nueva y emocionante energía en tu sector de relaciones. Si has tenido demasiada pasividad, el Universo te da un impulso para establecer límites. Si has tenido demasiada agresividad, te suaviza un poco. Esto es bueno para el dinero también, ya que todos cuentan con los otros para comprar y vender los bienes y servicios que proveen los demás. Comprométete y es posible que tengas más negocio del que necesitas tener.

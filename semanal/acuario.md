@@ -1,28 +1,27 @@
 ---
 layout: horoscopos
-title: acuario 15 de diciembre 2025 al 21 de diciembre 2025 
-description: Horóscopo semanal acuario 15 de diciembre 2025 al 21 de diciembre 2025. Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
+title: acuario 22 de diciembre 2025 al 28 de diciembre 2025 
+description: Horóscopo semanal acuario 22 de diciembre 2025 al 28 de diciembre 2025. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2025-12-15
+ogimg: /images/zodiac/semanal_acuario.png#2025-12-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-12-15'
+ lastmod: '2025-12-22'
 ---
 
 
 
-## Tienes muchas contradicciones, tienes un pasado que cargas a tu espalda y que a menudo pesa más de la cuenta, pero todo pasa, y todo llega.
+## Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
 
-Sabes también que has sido cruel con los demás, que has dicho palabras hirientes de las que quizás después, te has arrepentido. 
- Tienes que acabar de una vez con todo Acuario.
-Con planetas activando tu sector de finales y el inconsciente, y el Sol ingresando en Capricornio (tu casa 12) este domingo, podría resultarte difícil sentir la motivación que sueles sentir. Si lo vinculas con tu regente Urano, podrías decidir quedarte donde estás y no alejarte de tu zona de confort. Sin embargo, puede que otras influencias te inspiren a que hagas exactamente eso. La curiosidad podría ser lo que finalmente te alienta a dar un paso adelante a costa de cualquier cosa. Por otra parte, el deseo podría abrir camino a una intensa conversación.
+Estás activo Acuario, con ganas de hacer cosas nuevas, de conocer, de reír, de disfrutar y sobretodo con ganas de vivir el presente más que nunca. Te mereces más de lo que tienes, sí, mucho más aún…
+La semana por delante se vislumbra muy prometedora para colaborar en un proyecto a largo plazo. Y a pesar de que los resultados podrían ser lentos en llegar, el éxito puede ser tuyo si perseveras. Mientras tanto, tus pensamientos podrían avanzar hacia objetivos más materialistas y profesionales con el Sol en Capricornio. La celebración de Navidad del jueves podría traerte drama en el frente doméstico, el cuál sería prudente ignorar; especialmente si tienes asuntos más importantes qué atender.
 
 ## Dinero
 
-Esta semana puede presentar algunos temas de interés para ti, preferirías estar gastando dinero en el hogar y la familia. La tensión significa que es posible que la belleza y el confort tengan que verse retrasados temporalmente para que puedas obtener un plan financiero más conservador en su lugar. Tus confidentes más cercanos tienen tus mejores intereses en el corazón. Confía en tus instintos cuando se trata de ahorrar e invertir dinero. Juntos pueden hacer que grandes cosas sucedan.
+La actividad en tu sector de grupos y política te insta a dejar de esconderte detrás de e-mails y textos para hacer negocios. El teléfono está bien a veces, pero si quieres que te recuerden, lo mejor es presentarte en persona. Los encuentros con nuevos clientes en un entorno social pueden conducir a rápidas ventas, mientras que con colegas existentes pueden cimentar el trabajo en equipo. Puedes sentir que estás detrás de la curva de alguna manera, pero estás exactamente donde tienes que estar.
