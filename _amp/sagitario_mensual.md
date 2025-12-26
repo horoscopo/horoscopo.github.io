@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Sagitario Diciembre 2025 
+title: Horoscopo Sagitario Enero 2026 
 permalink: /horoscopo-mensual/amp/sagitario/
 normallink: /horoscopo-mensual/sagitario/
 home: FALSE
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Sagitario_mes.png#2025-11-27
+ogimg: /images/mes/Sagitario_mes.png#2025-12-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-11-27'
+ lastmod: '2025-12-26'
 ---
 
 

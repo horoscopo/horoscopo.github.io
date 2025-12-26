@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Sagitario Diciembre 2025
-description: El Horóscopo Diciembre de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Sagitario Enero 2026
+description: El Horóscopo Enero de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/sagitario/
 amplink: /horoscopo-mensual/amp/sagitario/
 home: FALSE
-keywords: horóscopo diciembre, horoscopos en español, horóscopo Sagitario diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Sagitario, Tarot, Astrologia, Zodíaco, Sagitario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo enero, horoscopos en español, horóscopo Sagitario enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Sagitario, Tarot, Astrologia, Zodíaco, Sagitario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/sagitario_mes.png#2025-11-27
+ogimg: /images/mes/sagitario_mes.png#2025-12-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-11-27'
+ lastmod: '2025-12-26'
 ---
 
 

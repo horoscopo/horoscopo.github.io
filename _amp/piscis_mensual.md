@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Piscis Diciembre 2025 
+title: Horoscopo Piscis Enero 2026 
 permalink: /horoscopo-mensual/amp/piscis/
 normallink: /horoscopo-mensual/piscis/
 home: FALSE
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Piscis_mes.png#2025-11-27
+ogimg: /images/mes/Piscis_mes.png#2025-12-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-11-27'
+ lastmod: '2025-12-26'
 ---
 
 

@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Acuario Diciembre 2025
-description: El Horóscopo Diciembre de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Acuario Enero 2026
+description: El Horóscopo Enero de Acuario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/acuario/
 amplink: /horoscopo-mensual/amp/acuario/
 home: FALSE
-keywords: horóscopo diciembre, horoscopos en español, horóscopo Acuario diciembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Acuario, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo enero, horoscopos en español, horóscopo Acuario enero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Acuario, Tarot, Astrologia, Zodíaco, Acuario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/acuario_mes.png#2025-11-27
+ogimg: /images/mes/acuario_mes.png#2025-12-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-11-27'
+ lastmod: '2025-12-26'
 ---
 
 

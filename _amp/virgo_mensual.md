@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Virgo Diciembre 2025 
+title: Horoscopo Virgo Enero 2026 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Virgo_mes.png#2025-11-27
+ogimg: /images/mes/Virgo_mes.png#2025-12-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-11-27'
+ lastmod: '2025-12-26'
 ---
 
 
