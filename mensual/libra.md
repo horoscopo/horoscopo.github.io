@@ -9,20 +9,16 @@ keywords: horóscopo enero, horoscopos en español, horóscopo Libra enero , hor
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/libra_mes.png#2025-12-26
+ogimg: /images/mes/libra_mes.png#2025-12-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-12-26'
+ lastmod: '2025-12-28'
 ---
 
 
- > Libra, durante diciembre vas a empezar a hacer balance de cómo ha ido tu año y, por lo general, te sentirás bastante orgullosa. Esto te servirá para calibrar y ver dónde mejorar. Te sentirás ambiciosa y con ganas de seguir creciendo como persona.
+ > Enero será un mes de enfoque en el hogar y la familia para Libra, ideal para reconectar con tu base y redefinir prioridades para el 2026. En el amor, buscarás estabilidad y conexiones sinceras que te aporten paz. El trabajo requerirá creatividad. La salud pedirá descanso profundo tras las fiestas y momentos de silencio para recargar cuerpo y mente.
 
 
 
-Te encantará pasar la temporada de festividades comunicándote y conectando, estimable Libra, ya que el Sol en Sagitario transita por tu tercera casa de la mente y los hermanos. Las reuniones sociales te brindarán una sensación de alegría, así que no dudes en enviar esas tarjetas de navidad o mensajes de fin de año. Sin embargo, debes tener en cuenta no sobrecargar tu agenda mental.
-Saca a relucir toda tu curiosidad durante la Luna Llena en Géminis el 4 de diciembre, que activa tu sector de expansión, viajes y filosofía de vida. Hacer planes de viaje para el futuro puede ayudarte a desconectar. Expresarte a través de gestos amables te recuerda todo lo bueno de este mundo.
-Tendrás más ganas de refugiarte en tu nido una vez que la temporada de Capricornio comience el día 21, activando tu cuarta casa solar del hogar. Estas vibras están relacionadas con la familia y la tradición. Tómate un momento para considerar cómo te gustaría mejorar tu entorno doméstico durante la Luna Nueva del 20 de diciembre, y prepárate para un cierre de año íntimo y acogedor.
-Días destacados: 6, 15, 17
-Días desafiantes: 1, 9, 29
+¡Feliz 2026! La Luna Llena en Cáncer del 3 de enero emana su brillo directamente sobre tu sector profesional y de imagen pública. Puede que estés recibiendo reconocimiento o cerrando un ciclo laboral importante. Decide cuánta popularidad es importante para ti, más sele fiel a tu personalidad. Tu situación creativa y romántica se ve impulsada por la Luna Nueva en Acuario del 18 de enero. Es el momento perfecto para iniciar un proyecto artístico o abrir tu corazón a un nuevo romance. No esperar nada y mostrar generosidad te atraerá más. Al final del mes, el Sol en Acuario te llena de vitalidad y ganas de disfrutar la vida.

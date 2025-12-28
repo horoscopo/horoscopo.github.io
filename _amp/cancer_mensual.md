@@ -7,16 +7,12 @@ home: FALSE
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/Cáncer_mes.png#2025-12-26
+ogimg: /images/mes/Cáncer_mes.png#2025-12-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-12-26'
+ lastmod: '2025-12-28'
 ---
 
 
-Con la Luna Llena del 4 de diciembre iluminando tu sector del inconsciente y los finales, deja que las próximas festividades hagan su magia para sanar viejas heridas. Si hay algo específico que hayas estado deseando soltar, este es el momento. Los malentendidos pueden perdurar, pero los apuros o complicaciones comienzan a perder su influencia a medida que te acercas al cierre de año.
-
-A mediados de mes, busca conectar con tus sueños más profundos. Haz que suceda si puedes. Piensa (y actúa) de una forma bella y brillante para preparar el terreno del 2026.
-
-La Luna Nueva del 20 de diciembre en tu sector de la salud y el trabajo te permite reorganizar tus rutinas antes de las fiestas. Remarca físicamente lo que necesitas para estar bien. Disfruta de pasar tiempo con alguien que quiere darte ánimos; le alegrará el día y te ayudará a cerrar el ciclo con amor.
+¡Feliz Año Nuevo! Tu mundo emocional se expande con rapidez el 3 de enero cuando llega la Luna Llena en tu propio signo, Cáncer. Es un momento de culminación personal y gran sensibilidad. Conecta con tus verdaderos deseos para este año. Disfruta de la variedad y también haz tu aporte personal. Durante la Luna Nueva en Acuario del 18 de enero, podrías brillar en temas de finanzas compartidas o intimidad. Tal vez decidas saldar una deuda o comprometerte más profundamente en una relación. El Sol en Capricornio ilumina tu sector de pareja hasta el 19, creando una situación ideal para fortalecer vínculos o encontrar equilibrio con un socio. Sé una persona agradecida por este nuevo comienzo.

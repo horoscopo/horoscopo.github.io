@@ -9,20 +9,18 @@ keywords: horóscopo enero, horoscopos en español, horóscopo Leo enero , horó
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/leo_mes.png#2025-12-26
+ogimg: /images/mes/leo_mes.png#2025-12-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-12-26'
+ lastmod: '2025-12-28'
 ---
 
 
- > Leo, parece que ha llegado la hora de que diciembre sea el mes en el que empieces a creértelo más, así que, sal ahí con la cabeza bien alta porque verás oportunidades donde los demás no ven nada y, además, podrás con todo lo que te venga en estas fiestas.
+ > Enero será introspectivo y productivo para Leo, invitándola a revisar qué desea realmente en su día a día para este 2026. En el amor, el diálogo sincero será clave. El trabajo exige claridad y estrategia, ideal para resolver temas complejos tras las fiestas. La salud mejora con hábitos positivos iniciados ahora. Una pausa consciente le permitirá retomar su rumbo con más fuerza.
 
 
 
-Muchos caminos se abrirán para ti este mes, estimable Leo, a medida que el Sol en Sagitario transite por tu quinta casa de la creatividad, el romance y la diversión. Este clima cósmico te hará sentir como si estuvieras en la cima del mundo, ideal para disfrutar las festividades. Una feroz ambición y un deseo de avanzar en tus objetivos creativos te impulsarán.
-La Luna Llena en Géminis del 4 de diciembre ilumina tu sector social y de amistades. Buenas vibras fluirán a tu alrededor, siendo un momento perfecto para reuniones con amigos y celebrar los logros del año. Este clima cósmico también desencadenará una gran cantidad de alegría en tu corazón.
-La temporada de Capricornio y el solsticio de invierno comienzan el día 21, activando tu sector de salud y rutinas. Este período astrológico te alienta a que te organices, lo que te permitirá disfrutar de los frutos de tu labor mientras reflexionas sobre el 2026. Tómate un momento para apreciar lo vivido durante la Luna Nueva en Sagitario del 20 de diciembre, que te invita a iniciar un proyecto creativo o romántico con el que recibir el año nuevo.
-Días destacados: 12, 20, 21
-Días desafiantes: 3, 5, 9
+¡Feliz Año Nuevo! ¿Hay una nueva rutina o mascota en tu vida para este 2026? Si no, la Luna Llena en Cáncer del 3 de enero podría hacer que la idea de descanso y retiro suene tentadora. Es un momento para sanar y prepararte. Eleva tus estándares en tus relaciones cuando el Sol entre en Acuario, tu signo opuesto, el 19 de enero. La Luna Nueva en Acuario del 18 de enero marca un nuevo comienzo en tus asociaciones y pareja. Un comportamiento maduro y responsable no es mucho pedir. Te lo mereces. Podría haber un tira y afloja de autoridad, pero sé razonable y disponte a escuchar para empezar el año en armonía.
+Días destacados: 10, 18, 23
+Días desafiantes: 14, 29

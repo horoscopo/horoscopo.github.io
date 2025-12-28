@@ -7,16 +7,17 @@ home: FALSE
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Sagitario_mes.png#2025-12-26
+ogimg: /images/mes/Sagitario_mes.png#2025-12-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-12-26'
+ lastmod: '2025-12-28'
 ---
 
 
-¡Feliz cumpleaños, Sagitario! El mes comienza con una invitación a celebrarte a ti mismo, ya que el Sol en tu signo ilumina tu primera casa de identidad y vitalidad. Es hora de ponerte en primer lugar. Sin embargo, la Luna Llena del 4 de diciembre en tu signo opuesto, Géminis, pone el foco en tus relaciones y socios, pidiéndote armonizar tus deseos con los de los demás.
-Mercurio te ayudará a racionalizar tu vida diaria a mediados de mes. Cuando establezcas listas de tareas y objetivos para las fiestas, asegúrate de no crear expectativas poco realistas. El Sol entra en Capricornio el 21 de diciembre, iluminando tu sector de recursos y valores. Tienes el poder de construir bases sólidas para el próximo año. La Luna Nueva en tu signo el día 20 te traerá la oportunidad perfecta para sembrar las intenciones de tu nuevo año personal. Te estás deshaciendo de viejas versiones de ti mismo y entrando en tu poder para cerrar el ciclo con gratitud.
-¡Buena suerte este mes, Sagitario!
-Días destacados: 7, 15, 24
-Días difíciles: 17, 21, 28
+¡Feliz 2026, Sagitario! Este mes encuentras el equilibrio, ya que el Sol en Capricornio trae energía a tu segunda casa, la de los recursos y valores. La vida se siente más estable a medida que armonizas tu presupuesto y te cuidas con ternura. Mercurio entra en Acuario más adelante, encendiendo tu sector de la comunicación. Las conversaciones con los seres queridos toman un giro innovador, inspirándote a compartir tus ideas con audacia.
+La implementación de nuevos rituales de autocuidado te da un impulso de vitalidad muy necesario tras las fiestas. Una nueva sensación de abundancia se precipita al ponerte en primer lugar. Las emociones más gratificantes se sienten en los momentos de soledad y relajación, especialmente con la Luna Llena en Cáncer del 3 de enero iluminando tu sector de intimidad.
+Fortalecer tus redes y abrir tu mente a nuevas ideas son las principales prioridades cuando el Sol entre en Acuario el 19 de enero. Con tu tercera casa de la comunicación activada, te sientes conectado con tu entorno. Si has estado interesado en aprender algo nuevo, ¡este es el mejor momento para hacerlo! La Luna Nueva en Acuario del 18 de enero es perfecta para establecer intenciones sobre cómo quieres expresarte este año.
+Te estás amando a ti mismo y a los demás en este nuevo ciclo. Buena suerte este mes, Sagitario.
+Días destacados: 7, 25, 28
+Días desafiantes: 15, 18, 31

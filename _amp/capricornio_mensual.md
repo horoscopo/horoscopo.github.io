@@ -7,16 +7,12 @@ home: FALSE
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Capricornio_mes.png#2025-12-26
+ogimg: /images/mes/Capricornio_mes.png#2025-12-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-12-26'
+ lastmod: '2025-12-28'
 ---
 
 
-Se te considera uno de los signos más trabajadores, estimable Capricornio, y diciembre comienza con el Sol en tu sector de descanso y cierre (casa 12). Es probable que sientas la necesidad de retirarte un poco y recargar baterías antes de tu cumpleaños. Es un tiempo excelente para la reflexión y para soltar lo que ya no te sirve del año que termina.
-La Luna Llena en Géminis el 4 de diciembre en el sector de tu carta astral que rige el trabajo y la salud te pide que encuentres un equilibrio. Es posible que comiences a sentirte con poca energía si no has estado cuidándote adecuadamente, por lo que es importante que priorices tu bienestar físico en medio del ajetreo festivo.
-Una energía renovada fluye mientras tu temporada comienza el día 21, dando inicio al solsticio de invierno y a tu retorno solar. ¡Felicidades! Analizarás tus límites y te sentirás empoderado para establecer nuevas metas personales. La Luna Nueva del 20 de diciembre en tu sector espiritual es un momento místico para pedir deseos al universo antes de que el Sol entre en tu signo.
-Días destacados: 10, 15, 23
-Días desafiantes: 8, 9, 24
+¡Feliz cumpleaños Capricornio! El mes tiene un buen comienzo con el Sol en tu signo, dándote energía y vitalidad. La Luna Llena en Cáncer del 3 de enero ilumina tu sector de pareja y socios, trayendo un momento culminante en una relación importante. Prepárate y no pierdas tu equilibrio emocional. La Luna Nueva en Acuario del 18 de enero podría traer un nuevo comienzo en tus finanzas y recursos. Es el momento ideal para establecer tus metas económicas para el 2026. Siente confianza en relación a tus propios talentos y habilidades para generar abundancia. Tu vida material recibe una inyección de energía y frescura. Conoce el valor de lo que tienes y de lo que eres.

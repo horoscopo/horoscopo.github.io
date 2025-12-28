@@ -9,20 +9,16 @@ keywords: horóscopo enero, horoscopos en español, horóscopo Escorpio enero , 
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/escorpio_mes.png#2025-12-26
+ogimg: /images/mes/escorpio_mes.png#2025-12-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-12-26'
+ lastmod: '2025-12-28'
 ---
 
 
- > Escorpio, a medida que el mes de diciembre avance, irás dejando atrás todos los lastres que te impedían ser tú misma. Esto implica que te olvidarás de situaciones que no te hacían nada bien, preparándote para un renacimiento en el nuevo año.
+ > Escorpio, este mes de enero necesitarás enfocarte en tu comunicación y entorno cercano para empezar bien el 2026. No te presiones demasiado por saberlo todo. La gente que te quiere ya sabe lo que vales. Mejor tómate un descanso en casa o una escapada mental. Esto te ahorrará dolores de cabeza y podrás recargar las pilas para el año.
 
 
 
-La temporada de festividades trae un enfoque en tus finanzas y valores, estimable Escorpio, con el Sol en Sagitario transitando por tu segunda casa solar. Es posible que quieras evaluar tus gastos y recursos para terminar el año con estabilidad. La energía en este momento te pondrá en un estado de ánimo práctico.
-Te sentirás con ánimos de profundizar en tus vínculos durante la Luna Llena en Géminis del día 4, lo que activa el sector de tu carta astral que rige la intimidad y los recursos compartidos (la octava casa). Utiliza esta energía para cerrar ciclos emocionales o financieros pendientes. Las estrellas también te piden que le des a tu cuerpo un poco más de cariño.
-Sentirás un cambio cuando el Sol ingrese a Capricornio el 21 de diciembre, marcando el inicio oficial del invierno e iluminando tu sector de comunicación. Esta ubicación solar te permitirá sentirte más social y tener una mayor conexión con tu entorno cercano justo a tiempo para las fiestas. La Luna Nueva en Sagitario del día 20 es perfecta para establecer nuevas metas financieras para el año entrante.
-Días destacados: 6, 23, 27
-Días desafiantes: 3, 5, 9
+La primera semana del año podría estar repleta de mensajes y conexiones. La Luna Llena en Cáncer del 3 de enero ilumina tu sector de expansión, viajes y filosofía de vida. Te muestra lo lejos que has llegado y te invita a soñar en grande para este 2026. Además, un ser querido te admirará y deseará aún más. La Luna Nueva en Acuario del 18 de enero enciende tu sector del hogar y la familia. Es el momento perfecto para iniciar una renovación en casa o sanar vínculos familiares. Sé paciente, prepárate y permite que las cosas se desarrollen en tu espacio íntimo. El confort entra a tu mundo bajo esta Luna Nueva. Siente tu gran fortuna.
