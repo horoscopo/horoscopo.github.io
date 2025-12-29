@@ -1,27 +1,28 @@
 ---
 layout: horoscopos
-title: escorpio 22 de diciembre 2025 al 28 de diciembre 2025 
-description: Horóscopo semanal escorpio 22 de diciembre 2025 al 28 de diciembre 2025. Crece Escorpio, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
+title: escorpio 29 de diciembre 2025 al 04 de enero 2026 
+description: Horóscopo semanal escorpio 29 de diciembre 2025 al 04 de enero 2026. Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2025-12-22
+ogimg: /images/zodiac/semanal_escorpio.png#2025-12-29
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-12-22'
+ lastmod: '2025-12-29'
 ---
 
 
 
-## Crece Escorpio, tienes que crecer, que elevarte, que volar hacia el destino que deseas, y si hay que dejar cosas atrás se dejan, al fin y al cabo todo son experiencias, y en tu caso, si no vas hacia lo que de verdad deseas, dejas de ser feliz… ¡Vuela!
+## Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
 
-No te mereces poco Escorpio… Tienes que dejar de hacerte tantas preguntas porque si te preguntas tantas cosas es porque algo no va bien del todo o al menos no tan bien como tú esperabas… Cuando alguien se preocupa por ti, se preocupa todo el tiempo, y eso es lo que vale. No es que todo el mundo que te rodea sea malo, es que aún te queda basura por sacar a la calle. No tomes una decisión a la ligera pues sí o sí tendrás que aceptar las consecuencias. Mejor tómate un tiempo para pensar mejor las cosas. A veces pensamos que porque no recibimos una consecuencia inmediata a nuestras acciones tal vez nunca va a llegar, pero estamos completamente equivocados. Las cosas tarde o temprano pasan factura Escorpio, tanto a ti como a los demás, por eso, procura tener los pies en la tierra y no dejarte llevar por esos arrebatos locos que te están dando últimamente. Es como si quisieras controlarte, porque en el fondo sabes como acaba todo, pero a la vez te frustra no plantar cara a más de uno que tienes metido entre ceja y ceja últimamente. Es complicado. No es una mala semana pero si habrá bastantes altibajos. A veces quieres solucionar tus problemas, a la de ya, poner punto y final a todo y empezar de cero, como si fuera tan fácil. La dificultad contigo es que no son causas tontas, no son cosas que de la noche a la mañana y con un simple perdón puedan solucionarse. Arrastras demasiado desde hace mucho tiempo Escorpio. Así que no, de un día para otro no arreglarás mucho, bueno quizás desahogarte un poco pero, ¿de que te vale eso si volverás de nuevo a lo mismo de siempre? ¿No has pensado en evitar ciertas situaciones que te causan daño? ¿No has pensado en alejarte por un tiempo de personas que en vez de reír te hacen llorar? ¿Por qué no lo haces? Tu respuesta muchas veces es la misma: “No voy a rendirme, esto lo soluciono yo como sea”. Y sí, estás en lo cierto porque si fuera por ti ya lo habrías hecho, el problema es que no tienes por qué solucionarle la vida a otros.
-Ten cuidado en referente a asuntos monetarios desde principios de semana, ya que puede que surjan errores. Si estás considerando comprar un artículo de alto precio, espera unos pocos días mientras analizas tus razones para realmente quererlo. Puede que hasta seas capaz de ahorrarte algo de efectivo. Tus planes de viaje se vislumbran prometedores también, sobre todo una vez que el ajetreo navideño termine el viernes. La posibilidad de un descanso podría hacerte mucho bien. Más tarde, una intuitiva idea podría ayudarte a mejorar tus ingresos y elevarlos de nivel.
+Deja de creer que sabes lo que necesitan. En serio, a veces tener tanta empatía puede ser un problema. Siempre estás haciendo un esfuerzo por adaptarte a lo que los demás necesitan y como siempre también, te acabas olvidando de ti misma/o. 
+ No lo has pasado del todo bien pero empiezas a renacer Escorpio. No quieres mal rollo ni tampoco a personas que te causan una ansiedad ni un estrés terrible a tu lado.
+Tus finanzas reciben un impulso a principios de semana. Es posible que obtengas una ganancia inesperada o aumento de la nada. Un lucrativo negocio o contrato también podría surgirte, y tendrás deseos de aceptarlo. Hay más buenas noticias con la Luna Llena en Cáncer (signo de agua compatible) el día 3, que mejora tus posibilidades de encontrar una conexión espiritual o un viaje especial. No hay necesidad de esforzarte demasiado - la persona correcta va a llegar mientras te encuentres en actividades que disfrutas y felizmente te adentres en hacer lo que más amas.
 
 ## Dinero
 
-El dinero puede ser un punto de fricción para ti. Por un lado, deseas la seguridad que el dinero puede proporcionarte. Por otro lado, quieres sentirte en control, y el dinero es raramente controlable. La buena noticia es que hay un montón de energía positiva concentrada en tu sector de dinero. Con acción y un poco de suerte, debería ser fácil ganar dinero en este momento.
+Puede que te encuentres considerando todos los ángulos. Considera cómo buscar las verdades más profundas en tu vida. En este momento, regresar a la escuela, aprender un idioma o ir a un viaje educativo podría ser justo lo que necesitas para regresar a tu ritmo, especialmente con la Luna Llena activando tu zona de estudios superiores. Conéctate con los sueños que has tenido durante mucho tiempo y que no se hayan realizado. El dinero llega cuando te permites hacer lo que quieres hacer y lo que te gusta.

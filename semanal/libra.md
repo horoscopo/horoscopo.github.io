@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: libra 22 de diciembre 2025 al 28 de diciembre 2025 
-description: Horóscopo semanal libra 22 de diciembre 2025 al 28 de diciembre 2025. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
+title: libra 29 de diciembre 2025 al 04 de enero 2026 
+description: Horóscopo semanal libra 29 de diciembre 2025 al 04 de enero 2026. Tu presente y tu futuro valen muchísimo la pena Libra. La vida siempre se acaba equilibrando Libra. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2025-12-22
+ogimg: /images/zodiac/semanal_libra.png#2025-12-29
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-12-22'
+ lastmod: '2025-12-29'
 ---
 
 
 
-## No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco…
+## Tu presente y tu futuro valen muchísimo la pena Libra. La vida siempre se acaba equilibrando Libra. No más dramas, ahora no te convienen, ni te interesan, ni tampoco son plato de buen gusto. 
 
-Mira Libra, tú ahora tienes que ser tu prioridad, y el resto también debería tratarte como eso. No puedes conformarte siempre con estar en segundo lugar, no puedes conformarte con lo que tienes o con lo que parece que la vida te da. Tú eliges tu vida sí, y tú también cometes errores al escoger caminos que al final no estaban hechos para ti. Pero de eso se trata ¿no? De aprender, lo más rápido que puedas, y de desechar cuando algo no funciona. Hazte valer Libra, hazte valer con las personas que te rodeas, tienen que hacer un esfuerzo por tenerte contento, por tenerte feliz… No te mereces menos. No puedes ser siempre la persona que ayuda al resto mientras recibes una cuarta parte, o a veces incluso nada de vuelta; no puedes ser quien espera los mensajes de regreso, quien espera que las promesas se cumplan… En serio, siempre estás haciendo todo lo posible para que las personas que están cerca de ti se sientan cómodas a tu lado, pero no siempre recibes lo mismo del resto. Si no hay un interés real empieza a mandar a la mierda, empieza a alejarte, espera cerca de ti a quien de verdad está dispuesto a comprometerse con sus palabras, con sus promesas y con sus hechos… No te conformes con los segundos lugares de nada. Ahora y siempre mereces ser una prioridad.
-La presencia del Sol en Capricornio en tu sector doméstico e iluminando la Navidad puede llevarte a realizar cambios que vienes postergando. Es posible que enfrentarte a estos cambios te parezca una experiencia positiva. Lo que antes parecía abrumador podría parecer muy sencillo ahora y puede que lo resuelvas de inmediato. Más adelante, con la llegada del fin de año, tus esfuerzos para alcanzar una meta podrían no rendir frutos de inmediato, pero lo harán con el tiempo.
+Te van a echar de menos Libra, y te van a echar de menos porque te vas a ir alejando, poco a poco, despacio, sin hacer demasiado ruido, sin peleas ni dramas… Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso. No te sientas mal por nada, que se sienta mal el resto. Perderán a una persona excepcional. Te duele sí, pero tu coraje también puede con eso. Has estado frente a gente, justo delante, y parece que no importabas nada y sin embargo, cuando te empieces a alejar te buscarán de nuevo… Pero eso es un tira y afloja que no te conviene, alargar situaciones incómodas, avanzar dos pasos pero volver a retroceder tres… Eso es una mierda… Esta semana necesitas mucho silencio Libra, sí, mucho, aprender a poner la mente en blanco, aprender a marcharte de los sitios donde no estás a gusto, de los lugares que te están restando todo el tiempo, del dolor… Necesitas meditar, conectar con tu mente, que no te controle a ti y se vuelva loca por un arrebato. Cuando vuelvas a soltar esas cadenas que te atrapan te echarán de menos, mucho, se darán cuenta de lo que de verdad perdieron, de lo que ya no es recuperable, de lo que se ha marchado a buscar algo mejor… Empieza a construir, quizás vuelvas, pero quizás no. Feliz semana.
+Con Venus, tu planeta regente, transitando en una posición clave, puedes aprender mucho de tus sueños y encontrar el éxito si escuchas a tu intuición. La semana por delante, en particular el miércoles 31, podría traer una reflexión o revelación que te ayuda a avanzar con un proyecto personal emocionante. También, la Luna Llena en Cáncer del sábado 3 impacta tu eje de carrera y hogar, trayendo una oportunidad para equilibrar tu vida pública y privada. Este también es un buen momento para conectar con alguien que sientes que podría convertirse en una amistad cercana.
 
 ## Dinero
 
-Te sientes con suerte esta semana. Puesto que la energía es tan expansiva, atraerás oportunidades de ganar más, siempre y cuando mantengas los ojos abiertos. Mientras tanto, un aspecto armonioso afecta tu trabajo. ¡Ponte bien los guantes! Es hora de mostrarles de lo que estás hecho/a y atraer un salario acorde a tus capacidades.
+Esta semana es acerca de los aspectos que afectan a tu sector de deuda y el dinero de otros. Tu carrera está afectando a este sector también. Sin embargo, puede que se te ponga a prueba en el sector de amistades u otros grupos. Tales son simplemente inestables y pueden ser de apoyo un día, pero no al siguiente. Es mejor ir en solitario hasta que puedas encontrar gente en quién puedas confiar.
