@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 30 de diciembre 2025
-description: Horóscopos del dia de hoy 30 de diciembre 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 31 de diciembre 2025
+description: Horóscopos del dia de hoy 31 de diciembre 2025 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2025-12-30
+ lastmod: 2025-12-31
 ---
-¡Ha llegado la hora de enfocarte! De esa manera no perderás interés cuando la Luna en Aries forme trígono con el Sol. A diferencia de ayer por la noche, esta noche brilla  al traer la promesa de calidez. No sería inusual conseguir todo lo que tu pequeño corazón desea o añora mientras Venus conjunte a Júpiter.
+Captura oportunidades de oro cuando el Sol forme sextil con Júpiter. De hecho, también aprovecha el día con confianza y sin esfuerzo. Esta noche, será casi imposible notar ciertas similitudes cuando la Luna forme conjunción con Neptuno, el planeta de las ideas escalofriantes. Podría haber un valioso recordatorio sobre las lecciones aprendidas acerca de la paciencia.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
