@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: aries 29 de diciembre 2025 al 04 de enero 2026 
-description: Horóscopo semanal aries 29 de diciembre 2025 al 04 de enero 2026. Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles Aries, ¡NO MEZCLES!
+title: aries 05 de enero 2026 al 11 de enero 2026 
+description: Horóscopo semanal aries 05 de enero 2026 al 11 de enero 2026. No te canses de intentar todo con esa fuerza, pero recuerda que con tu regente retrógrado, el descanso mental es estratégico, no una debilidad.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2025-12-29
+ogimg: /images/zodiac/semanal_aries.png#2026-01-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-12-29'
+ lastmod: '2026-01-05'
 ---
 
 
 
-## Primero saca toda la mierda y después, deja entrar todo lo que te hace feliz, pero no mezcles Aries, ¡NO MEZCLES!
+## No te canses de intentar todo con esa fuerza, pero recuerda que con tu regente retrógrado, el descanso mental es estratégico, no una debilidad.
 
-La gente no hará siempre lo que tu quieres, la gente no agradecerá ni te dará lo mismo a ti, pero no, no te decepciones, es tiempo de dar un giro a todo. Sinceramente ¿de qué te saca dar más vueltas de lo debido a cosas que realmente no te hacen bien? Entrena tu mente, entrénala para ver las cosas buenas hasta en lo peor. Lo que parecía que no tenía solución, de repente lo tiene, las excusas que a veces ponías sólo por el miedo a que algo peor pasara ya no están. La felicidad se puede hallar hasta en los momentos más oscuros si somos capaces de usar bien la luz, y de eso, estás más seguro que nunca. Pues adelante Aries, la luz está en tus manos, solamente tienes que alumbrar lo que de verdad te conviene, ya basta de ir detrás de cosas o personas que lo que intentan hacer es apagarte, eres fuerte, y estás conociendo gente nueva que puede apoyarte en todo. Era lo que necesitabas, dar un pequeño cambio a tu vida, poner importancia a lo que la tiene, quitarle importancia a lo que ya no la tiene. No revuelvas una herida que está cicatrizada. ¿Para qué? Para nada…
-Podrías experimentar un poco de conflicto con respecto a un objetivo o plan y esto podría dificultar que progreses tanto como te gustaría durante los próximos días, debido a que tu regente Marte se encuentra Retrógrado. Ten paciencia. Si a ti y a otra persona les resulta difícil llegar a un acuerdo, ponerte en sus zapatos podría ayudarte a entender sus pensamientos y sentimientos. No tienes que estar de acuerdo, pero un consenso quizás te ayude a sacarle el mayor provecho a una situación incómoda. Ciertas ideas clave durante la Luna Llena del día 3 también podrían cambiar tu perspectiva con respecto a un asunto familiar o del hogar.
+El Sol en Capricornio ilumina tu sector profesional, dándote visibilidad, pero con tu regente, Marte, retrógrado en tu zona del hogar y la familia (Cáncer), puedes sentir una tensión entre las demandas externas y las necesidades domésticas. Venus comienza a retroceder esta semana, lo que sugiere que no es el momento de forzar nuevas conexiones sociales, sino de reevaluar quiénes son tus verdaderos aliados. 
+La fase de Luna Menguante te invita a soltar viejos rencores familiares antes de avanzar. Ve con calma en cuanto a proyectos de remodelación o mudanzas, ya que podrían surgir retrasos. El ingreso de Mercurio en una zona más objetiva te ayudará a racionalizar tus emociones hacia el fin de semana. Tienes muchas preguntas sobre tu trayectoria, pero la respuesta requiere paciencia interna ahora.
 
 ## Dinero
 
-Este período es sobre profesión y figuras de autoridad, con el Sol iluminando tu casa 10 en Capricornio. Es posible que hayas seguido los pasos de alguien durante mucho tiempo sólo para darte cuenta de que ahora tienes el mismo o un mayor nivel de experiencia que él o ella. Es hora de que asumas un nuevo rol en tu vida y aceptes el salario que va con ello. Cuando lo hagas, te convertirás en todo lo que has admirado desde siempre.
+Puede parecer que tu situación monetaria se estanca debido a la retrogradación de Venus (planeta del dinero), pero es una ilusión temporal para que revises tus presupuestos de inicio de año. Eleva tu nivel de madurez y responsabilidad; este tránsito te pide que reestructures tus gastos post-festividades. ¿Sientes comodidad con tu gestión actual? Tu próximo paso será determinado por tu capacidad de ahorro y no tanto por el gasto impulsivo.

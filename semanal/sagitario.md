@@ -1,28 +1,26 @@
 ---
 layout: horoscopos
-title: sagitario 29 de diciembre 2025 al 04 de enero 2026 
-description: Horóscopo semanal sagitario 29 de diciembre 2025 al 04 de enero 2026. No más paciencia Sagitario. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
+title: sagitario 05 de enero 2026 al 11 de enero 2026 
+description: Horóscopo semanal sagitario 05 de enero 2026 al 11 de enero 2026. No caigas en la impulsividad verbal; el silencio y la reflexión son tus mejores aliados financieros y sociales esta semana.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2025-12-29
+ogimg: /images/zodiac/semanal_sagitario.png#2026-01-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2025-12-29'
+ lastmod: '2026-01-05'
 ---
 
 
 
-## No más paciencia Sagitario. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso.
+## No caigas en la impulsividad verbal; el silencio y la reflexión son tus mejores aliados financieros y sociales esta semana.
 
-Está bien hacerse ilusiones Sagitario, pero hazte ilusiones que sean reales por favor. Pon los pies en la tierra y vive y disfruta un poco del presente, a veces parece que te olvidas de donde estás y te vas a momentos que todavía no han llegado, lo peor es que no siempre son momentos buenos si no que tu mente se pone en lo peor. Esta semana tendrás días buenos y malos, tendrás días en los que estés muy arriba y otros muchos en los que querrás que nadie se acerque a ti. Tendrás que tomar decisiones que te lleven a cosas positivas Sagitario, cosas en realidad de provecho. Te llegan dudas, sobretodo en el amor, no confías del todo en que las cosas cambien pero debes poner en una balanza los momentos positivos y los negativos de todo y en base a eso decidir qué es lo que más te interesa. Es normal que desconfíes, tienes tus razones, pero tampoco puedes vivir así toda la vida, de eso nada Sagitario. Controla tu carácter y en vez de enfadarte con el mundo busca soluciones porque si te enfadas pero te quedas donde siempre has estado no valdrá para nada. Enfádate con razón, con motivos, y después haz algo al respecto. Hay algunas cosas en la vida que simplemente no tienen sentido, pero tendrás que tener fe de que han pasado por alguna razón… No te agobies demasiado.
-La presencia del Sol en Capricornio en tu sector de valores puede echar luz sobre hábitos financieros que hayan dejado de ser útiles. Con la energía de fin de año, los próximos días podrían ayudarte a reflexionar e investigar tus opciones, para poder encontrar soluciones que se adapten a tus necesidades. 
-El conversador Mercurio sugiere que sigas hablando durante las fiestas. Las nuevas perspectivas pueden ayudarte a pensar de otra manera y considerar ideas que, de otro modo, nunca hubieras conocido. La Luna Llena en Cáncer del sábado 3 ilumina tu área de transformación y recursos compartidos. Las próximas semanas pueden darte la oportunidad de colaborar en un plan o proyecto, y de llevar una importante relación a otro nivel.
+Puede que este no sea el mejor momento para gastos impulsivos a pesar de que el inicio de año te motive. Venus comienza a retrogradar en tu zona de comunicación y entorno cercano; cuidado con malentendidos con hermanos o vecinos. Lo mejor sería investigar más antes de hablar de más. Además, Marte retrógrado en tu sector de transformación te pide que revises tus apegos emocionales profundos. Esta semana preocúpate de hacer las cosas bien y con calma. Hay mucha responsabilidad en cómo gestionas tus palabras ahora. Vas a sentirte bien si decides escuchar más y hablar menos. No te pongas nervioso si los planes se retrasan; es tiempo de revisión, no de carrera. Feliz semana Sagitario.
 
 ## Dinero
 
-Esta semana tienes luz verde por parte del Universo para expandir tu búsqueda de empleo, especialmente con el Sol transitando tu sector de recursos y dinero en Capricornio. Esto se aplica si estás en busca de trabajo o incluso pensando en cambiar de trabajo si lo que has estado haciendo ahora no tiene ningún significado real para ti. También es el momento de considerar pedir un préstamo.
+Este período se trata de encontrar el equilibrio en tus finanzas personales. El Sol en tu sector del dinero ilumina tu economía, pero te pide prudencia y estructura. Revisa tus gastos hormiga y suscripciones. Es probable que recibas claridad sobre cómo administrar mejor tus recursos para el resto del año si te sientas a hacer cuentas ahora.
