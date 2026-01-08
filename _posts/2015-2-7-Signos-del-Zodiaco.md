@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 07 de enero 2026
-description: Horóscopos del dia de hoy 07 de enero 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 08 de enero 2026
+description: Horóscopos del dia de hoy 08 de enero 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-01-07
+ lastmod: 2026-01-08
 ---
-Trata de avanzar durante los próximos diez días, grandes sorpresas te esperan cuando Júpiter aspecta a Urano. Las cosas se desarrollan a tu favor cuando el Sol forma sextil con Plutón, momento en el que es aconsejable invertir en tu futuro. Esta noche, podría haber gran pasión para ambos, parejas y solteros, mientras la Luna también aspecte a Plutón.
+Mira hacia futuro mientras Marte en Piscis conjunta a Neptuno. El futuro se desenrolla ante tus ojos. De verdad es posible comenzar de nuevo y construir una nueva vida basada en resoluciones. La energía lunar de esta noche se trata de esperar y necesitar de un pequeño empujón para revelar algo importante (si no fue revelado anoche).
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
