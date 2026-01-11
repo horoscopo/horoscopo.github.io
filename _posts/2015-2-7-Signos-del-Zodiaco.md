@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 10 de enero 2026
-description: Horóscopos del dia de hoy 10 de enero 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 11 de enero 2026
+description: Horóscopos del dia de hoy 11 de enero 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-01-10
+ lastmod: 2026-01-11
 ---
-¡Quieres algo y lo vas a obtener! Hoy, porque estás buscando oportunidades en el lugar adecuado, las vas a encontrar. Tu verdadera misión es hacer el esfuerzo. Muestra lo que puedes hacer para lograr que algo funcione. Esta noche, la gente juega a lo seguro bajo la Luna en el conservador Tauro. 
+Se te aconseja hablar lentamente y con claridad. Aunque las palabras son habladas amablemente cuando la Luna aspecta a Venus, también pueden ser fácilmente malinterpretadas. Puede que tengas control sobre cierta situación bajo la Luna en Capricornio de esta noche - claro, hasta que ésta se salga de su órbita.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
