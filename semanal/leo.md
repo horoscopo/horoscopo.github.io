@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: leo 05 de enero 2026 al 11 de enero 2026 
-description: Horóscopo semanal leo 05 de enero 2026 al 11 de enero 2026. Piensas demasiado en el futuro; utiliza esta semana para organizar tu presente y cuidar tu cuerpo, es tu templo.
+title: leo 12 de enero 2026 al 18 de enero 2026 
+description: Horóscopo semanal leo 12 de enero 2026 al 18 de enero 2026. Escucha a tu corazón pero usa tu cabeza para organizar tu día a día; la disciplina ahora te dará libertad después.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2026-01-05
+ogimg: /images/zodiac/semanal_leo.png#2026-01-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-01-05'
+ lastmod: '2026-01-12'
 ---
 
 
 
-## Piensas demasiado en el futuro; utiliza esta semana para organizar tu presente y cuidar tu cuerpo, es tu templo.
+## Escucha a tu corazón pero usa tu cabeza para organizar tu día a día; la disciplina ahora te dará libertad después.
 
-Puede que te embarques en una misión de introspección personal en los próximos días. Con Marte retrógrado en tu sector del inconsciente (casa 12), es posible que sientas la necesidad de descansar más de lo habitual y procesar emociones antiguas. No es momento de forzar la maquinaria externa, sino de ajustar la interna. El Sol en tu sector de rutinas y salud te pide que organices tu día a día para el 2026. Quizá tu entusiasmo deba dirigirse a mejorar tus hábitos. Acaba una temporada y empieza la limpieza; la Luna Menguante te ayuda a eliminar lo que sobra en tu agenda. Si te sientes con baja energía, no te culpes, es el cosmos pidiéndote recargar baterías antes de tu próxima gran etapa.
+Esta semana tiene muchas opciones en cuanto a revisión de rutinas y salud, ya que el Sol transita tu casa 6. Puede que debas destinar un tiempo a solas para la reflexión sobre tus hábitos diarios antes de la Luna Nueva del domingo en tu sector de pareja. Podrías descubrir que el miércoles es un día muy productivo para organizar tu agenda. El sábado podría traer lo mejor de ambos mundos: descanso y preparación para el nuevo ciclo relacional. No te bajonees si sientes que el trabajo es pesado; estás construyendo resistencia. Roma no se hizo en un día.
 
 ## Dinero
 
-Esta semana revisa tus rutinas laborales. Venus comienza a retrogradar en tu sector de asociaciones, lo que podría traer de vuelta antiguos clientes o discusiones pendientes sobre contratos. Considera reevaluar cómo te presentas profesionalmente, pero espera unas semanas para cambios de look radicales. Es crucial dar una buena impresión mediante la consistencia y el orden en tus tareas diarias.
+Hay todo tipo de energías conectadas con los asuntos de trabajo diario. Lo que estaba allí ayer podría no estar allí mañana, así que es mejor conservar tus recursos y ser flexible. Los expertos sugieren que tengas dinero guardado, y con Venus retrógrado, es un buen consejo revisar tus gastos hormiga. Te servirá para calmarte un poco cuando tu vida laboral se vuelva un poco inestable durante la próxima semana.

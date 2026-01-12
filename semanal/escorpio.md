@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: escorpio 05 de enero 2026 al 11 de enero 2026 
-description: Horóscopo semanal escorpio 05 de enero 2026 al 11 de enero 2026. Estás a tope de energía mental, pero úsala para planificar estratégicamente, no para entrar en conflictos ideológicos.
+title: escorpio 12 de enero 2026 al 18 de enero 2026 
+description: Horóscopo semanal escorpio 12 de enero 2026 al 18 de enero 2026. Las malas decisiones muy a menudo te enseñan más que las buenas; úsalas para construir tu futuro.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2026-01-05
+ogimg: /images/zodiac/semanal_escorpio.png#2026-01-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-01-05'
+ lastmod: '2026-01-12'
 ---
 
 
 
-## Estás a tope de energía mental, pero úsala para planificar estratégicamente, no para entrar en conflictos ideológicos.
+## Las malas decisiones muy a menudo te enseñan más que las buenas; úsalas para construir tu futuro.
 
-Al inicio de la semana, el Sol en tu zona de comunicación te da claridad mental, pero Marte (tu corregente) retrógrado en tu zona de creencias y viajes puede traer retrasos en planes de expansión. Esta es tu oportunidad de revisar tus filosofías de vida y estudios. Con la Luna Menguante, es ideal para soltar viejas ideas limitantes. Nadie se cura por herir a otro Escorpio. Tienes muchas contradicciones ahora, pero usa esta energía introspectiva para sanar. No fuerces las cosas en el extranjero o en temas legales. Tienes que canalizar tu intensidad hacia el aprendizaje y la revisión de tus estrategias a largo plazo.
+Los problemas relacionados con la comunicación y asuntos cercanos podrían captar tu atención durante esta semana con el Sol en tu casa 3. Sin embargo, no te apresures a tomar cualquier decisión grande. Con la Luna Menguante, es mejor reflexionar y preparar el terreno. Por otro lado, la Luna Nueva del domingo en tu sector de hogar y familia pondrá en marcha un nuevo ciclo doméstico. Llevabas un ritmo un poco alocado Escorpio, todo mezclado con dudas. Te encuentras un poco agotado por todo. Relájate Escorpio, que no te entre la locura. Ni todo es tan malo ni todo es tan bueno. Cuídate un poquito más Escorpio, quiérete un poquito más, y pon la mente en blanco todo lo que puedas para recibir el nuevo ciclo.
 
 ## Dinero
 
-Para ti, esta semana es sobre la reevaluación de tus recursos en el hogar. Venus retrogradando en tu sector doméstico te pide que revises gastos familiares o decoración. Ciertos aspectos sugieren que es mejor ahorrar para reparaciones futuras que gastar en lujos ahora. Es bueno saber que tienes un plan de respaldo, revisa tus seguros y fondos de emergencia.
+El Universo está iluminando tu sector de comunicación y ventas. Lo que esto significa es que tienes mucho trabajo mental que hacer para ganar dinero, y que no es el mejor momento para gastar en exceso sin pensar. Estudia e imita las formas de los comunicadores exitosos en la medida de tu capacidad para mejorar tus ingresos.

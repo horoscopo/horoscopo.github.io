@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: libra 05 de enero 2026 al 11 de enero 2026 
-description: Horóscopo semanal libra 05 de enero 2026 al 11 de enero 2026. Deja que el tiempo ponga a cada uno en su lugar; tu regente te pide pausa y amor propio antes de darte a los demás.
+title: libra 12 de enero 2026 al 18 de enero 2026 
+description: Horóscopo semanal libra 12 de enero 2026 al 18 de enero 2026. Debes empezar a dejar libre algunos espacios en tu hogar y corazón para que puedan entrar las cosas buenas.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2026-01-05
+ogimg: /images/zodiac/semanal_libra.png#2026-01-12
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-01-05'
+ lastmod: '2026-01-12'
 ---
 
 
 
-## Deja que el tiempo ponga a cada uno en su lugar; tu regente te pide pausa y amor propio antes de darte a los demás.
+## Debes empezar a dejar libre algunos espacios en tu hogar y corazón para que puedan entrar las cosas buenas.
 
-En el tema de objetivos y ambiciones personales, la fase retrógrada de Venus (tu planeta regente) es el evento principal. Esto sugiere que podrías sentirte un poco desconectado de tu propia imagen o de lo que realmente valoras. Sin embargo, esto trae consigo la oportunidad que necesitas para repensar tus verdaderos deseos. En cuanto a romance, es posible que reaparezcan personas del pasado. ¡Analiza si vale la pena! Marte retrógrado en tu zona profesional te pide paciencia con los jefes o metas a largo plazo. Estás en una encrucijada Libra, reevaluando qué te hace feliz realmente. Aprovecha la Luna Menguante para soltar expectativas sociales y conectar con tu núcleo familiar.
+¿En qué es lo que más quieres invertir emocionalmente? Sea lo que sea, la Luna Nueva del domingo en Acuario te animará a moverte hacia la dirección de tu propia felicidad y creatividad. Podrías tener más recursos internos de los que crees, pero primero debes soltar cargas familiares con el Sol en Capricornio (tu casa 4). Si te preocupa lo que podrías acabar perdiendo, es el momento de soltar el pasado. La vida y el universo tienen una manera divertida de traer lo que necesitas cuando dejas espacio.
 
 ## Dinero
 
-Es posible que debas revisar tu presupuesto doméstico o gastos relacionados con la familia. La reevaluación de oportunidades indica un buen momento para planificar mejoras en el hogar pero quizás esperar para ejecutarlas. Puedes tomar medidas para hacer que tu presupuesto sea más eficiente. Hacer un plan concreto para pagar tu deuda aumenta tu tranquilidad en este inicio de año.
+Esta semana tienes aspectos afectando a tu sector de hogar y familia. Alguien de tu entorno cercano puede tratar de comunicarse contigo para resolver un tema de propiedad o dinero doméstico. ¡Te sorprenderá lo que puedes solucionar hablando! La comunicación es crucial ahora, especialmente en lo que se refiere a gastos del hogar antes de invertir en placeres.
