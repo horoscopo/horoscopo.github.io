@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: acuario 12 de enero 2026 al 18 de enero 2026 
-description: Horóscopo semanal acuario 12 de enero 2026 al 18 de enero 2026. Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras; la Luna Nueva del domingo es tu momento.
+title: acuario 19 de enero 2026 al 25 de enero 2026 
+description: Horóscopo semanal acuario 19 de enero 2026 al 25 de enero 2026. Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras; la Luna Nueva del domingo es tu momento.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2026-01-12
+ogimg: /images/zodiac/semanal_acuario.png#2026-01-19
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-01-12'
+ lastmod: '2026-01-19'
 ---
 
 

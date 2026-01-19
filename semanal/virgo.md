@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: virgo 12 de enero 2026 al 18 de enero 2026 
-description: Horóscopo semanal virgo 12 de enero 2026 al 18 de enero 2026. En serio, no puedes rebajar tus sueños, pero sí puedes ajustar la realidad para alcanzarlos paso a paso.
+title: virgo 19 de enero 2026 al 25 de enero 2026 
+description: Horóscopo semanal virgo 19 de enero 2026 al 25 de enero 2026. En serio, no puedes rebajar tus sueños, pero sí puedes ajustar la realidad para alcanzarlos paso a paso.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2026-01-12
+ogimg: /images/zodiac/semanal_virgo.png#2026-01-19
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-01-12'
+ lastmod: '2026-01-19'
 ---
 
 

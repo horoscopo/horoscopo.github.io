@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: escorpio 12 de enero 2026 al 18 de enero 2026 
-description: Horóscopo semanal escorpio 12 de enero 2026 al 18 de enero 2026. Las malas decisiones muy a menudo te enseñan más que las buenas; úsalas para construir tu futuro.
+title: escorpio 19 de enero 2026 al 25 de enero 2026 
+description: Horóscopo semanal escorpio 19 de enero 2026 al 25 de enero 2026. Las malas decisiones muy a menudo te enseñan más que las buenas; úsalas para construir tu futuro.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2026-01-12
+ogimg: /images/zodiac/semanal_escorpio.png#2026-01-19
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-01-12'
+ lastmod: '2026-01-19'
 ---
 
 

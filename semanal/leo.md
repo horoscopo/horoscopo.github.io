@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: leo 12 de enero 2026 al 18 de enero 2026 
-description: Horóscopo semanal leo 12 de enero 2026 al 18 de enero 2026. Escucha a tu corazón pero usa tu cabeza para organizar tu día a día; la disciplina ahora te dará libertad después.
+title: leo 19 de enero 2026 al 25 de enero 2026 
+description: Horóscopo semanal leo 19 de enero 2026 al 25 de enero 2026. Escucha a tu corazón pero usa tu cabeza para organizar tu día a día; la disciplina ahora te dará libertad después.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2026-01-12
+ogimg: /images/zodiac/semanal_leo.png#2026-01-19
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-01-12'
+ lastmod: '2026-01-19'
 ---
 
 

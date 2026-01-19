@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: cancer 12 de enero 2026 al 18 de enero 2026 
-description: Horóscopo semanal cancer 12 de enero 2026 al 18 de enero 2026. Deja que duela Cáncer, pero usa la energía de Marte retrógrado para entender el dolor y transformarlo en fuerza.
+title: cancer 19 de enero 2026 al 25 de enero 2026 
+description: Horóscopo semanal cancer 19 de enero 2026 al 25 de enero 2026. Deja que duela Cáncer, pero usa la energía de Marte retrógrado para entender el dolor y transformarlo en fuerza.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2026-01-12
+ogimg: /images/zodiac/semanal_cancer.png#2026-01-19
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-01-12'
+ lastmod: '2026-01-19'
 ---
 
 

@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: piscis 12 de enero 2026 al 18 de enero 2026 
-description: Horóscopo semanal piscis 12 de enero 2026 al 18 de enero 2026. La ansiedad te hace empujar a personas fuera de tu vida; usa esta semana para discernir quiénes realmente deben quedarse.
+title: piscis 19 de enero 2026 al 25 de enero 2026 
+description: Horóscopo semanal piscis 19 de enero 2026 al 25 de enero 2026. La ansiedad te hace empujar a personas fuera de tu vida; usa esta semana para discernir quiénes realmente deben quedarse.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2026-01-12
+ogimg: /images/zodiac/semanal_piscis.png#2026-01-19
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-01-12'
+ lastmod: '2026-01-19'
 ---
 
 

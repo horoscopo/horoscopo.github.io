@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: tauro 12 de enero 2026 al 18 de enero 2026 
-description: Horóscopo semanal tauro 12 de enero 2026 al 18 de enero 2026. Tienes que enfrentarte a tus heridas de frente; la Luna Nueva del domingo te da la oportunidad de plantar una semilla de éxito profesional.
+title: tauro 19 de enero 2026 al 25 de enero 2026 
+description: Horóscopo semanal tauro 19 de enero 2026 al 25 de enero 2026. Tienes que enfrentarte a tus heridas de frente; la Luna Nueva del domingo te da la oportunidad de plantar una semilla de éxito profesional.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2026-01-12
+ogimg: /images/zodiac/semanal_tauro.png#2026-01-19
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-01-12'
+ lastmod: '2026-01-19'
 ---
 
 

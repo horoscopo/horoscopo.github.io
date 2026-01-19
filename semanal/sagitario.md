@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: sagitario 12 de enero 2026 al 18 de enero 2026 
-description: Horóscopo semanal sagitario 12 de enero 2026 al 18 de enero 2026. Algunas personas deberían tener más cuidado con sus palabras, pero tú debes tener más cuidado con tu dinero esta semana.
+title: sagitario 19 de enero 2026 al 25 de enero 2026 
+description: Horóscopo semanal sagitario 19 de enero 2026 al 25 de enero 2026. Algunas personas deberían tener más cuidado con sus palabras, pero tú debes tener más cuidado con tu dinero esta semana.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2026-01-12
+ogimg: /images/zodiac/semanal_sagitario.png#2026-01-19
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-01-12'
+ lastmod: '2026-01-19'
 ---
 
 

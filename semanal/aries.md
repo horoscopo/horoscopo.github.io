@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: aries 12 de enero 2026 al 18 de enero 2026 
-description: Horóscopo semanal aries 12 de enero 2026 al 18 de enero 2026. No te canses de intentar todo con esa fuerza, pero recuerda que con tu regente retrógrado, el descanso mental es estratégico, no una debilidad.
+title: aries 19 de enero 2026 al 25 de enero 2026 
+description: Horóscopo semanal aries 19 de enero 2026 al 25 de enero 2026. No te canses de intentar todo con esa fuerza, pero recuerda que con tu regente retrógrado, el descanso mental es estratégico, no una debilidad.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2026-01-12
+ogimg: /images/zodiac/semanal_aries.png#2026-01-19
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-01-12'
+ lastmod: '2026-01-19'
 ---
 
 
