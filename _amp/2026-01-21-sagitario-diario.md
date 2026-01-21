@@ -1,0 +1,25 @@
+---
+layout: amp
+title: sagitario hoy gratis 21 de enero del 2026 
+permalink: /horoscopo-diario-gratis/amp/sagitario/
+normallink: /horoscopo-diario-gratis/sagitario/
+home: FALSE
+horoscopo:
+ signo: sagitario
+ video: -DQpmrrAIeU
+ogimg: /images/sagitario_char.png
+sitemap:
+ priority: 1
+ changefreq: 'daily'
+---
+
+
+Hay un frenesí de ritmo rápido en el día que podría hacer que te sientas en un estado de ligero abandonamiento. Es posible que desees tomarte las cosas con más lentitud, pero la energía del día no admite dudas ni demoras. Este es un buen momento para salir y ser social. Haz contactos importantes y trata de realizar múltiples tareas. Mantén tu sentido del humor y tu forma de ser flexible.
+
+## Amor
+
+Puede que sientas ganas de hablar a medida que imágenes de amor toman el control de tu mente. Puedes tener el impulso de escribir sobre ello en una revista, o incluso en un foro más público. No es sólo el corazón acelerado y la sensación de náuseas, es la manera en que te sientes cuando estás con esa persona.
+
+## Trabajo
+
+Dejaste que te guíe una mera suposición y hoy, de algún modo, padecerás las consecuencias. La única manera de rectificarte es siendo honesto/a contigo mismo/a y también con los que te rodean para poder así lidiar con esta difícil situación.
