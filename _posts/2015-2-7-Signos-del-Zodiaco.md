@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 21 de enero 2026
-description: Horóscopos del dia de hoy 21 de enero 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 22 de enero 2026
+description: Horóscopos del dia de hoy 22 de enero 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-01-21
+ lastmod: 2026-01-22
 ---
-Un momento de miedo proveniente de la Luna cuadrando a Plutón te aconseja analizar lo mucho que estás tratando de ocultar el hecho de que tu opinión ha cambiado o de que (¡oh, no!) te equivocaste acerca de algo. Por la noche, disfruta de hacer nuevas amistades con una sutil pizca de emoción proveniente de la Luna en Aries.
+Es un nuevo día en el que presumes lo que tienes y lo haces de una manera más brillante y más audaz. Si hay algo que todos debemos hacer hoy es encargarnos de situaciones sin resolver con Mercurio a punto de cambiar de signo. Esta noche, la tensión entra eléctricamente a la escena cuando la Luna cuadra a Marte.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
