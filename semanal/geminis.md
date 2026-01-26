@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: geminis 19 de enero 2026 al 25 de enero 2026 
-description: Horóscopo semanal geminis 19 de enero 2026 al 25 de enero 2026. Tómate un tiempo Géminis, aíslate para pensar, porque la claridad que buscas llegará con la Luna Nueva del fin de semana.
+title: geminis 26 de enero 2026 al 01 de febrero 2026 
+description: Horóscopo semanal geminis 26 de enero 2026 al 01 de febrero 2026. Llega una buenísima semana Géminis para expandir tu mente, pero debes trabajar duro en filtrar qué ideas son viables.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2026-01-19
+ogimg: /images/zodiac/semanal_geminis.png#2026-01-26
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-01-19'
+ lastmod: '2026-01-26'
 ---
 
 
 
-## Tómate un tiempo Géminis, aíslate para pensar, porque la claridad que buscas llegará con la Luna Nueva del fin de semana.
+## Llega una buenísima semana Géminis para expandir tu mente, pero debes trabajar duro en filtrar qué ideas son viables.
 
-La semana previa a la Luna Nueva en tu sector de expansión (Acuario) trae un aire de anticipación mental. Puede que sientas que tu curiosidad comienza a aumentar y que quieres explorar nuevos horizontes. Las próximas semanas pueden ser una oportunidad para iniciar proyectos de viaje o estudio, pero ahora es momento de cerrar ciclos mentales y emocionales profundos con el Sol en tu casa 8. No te bajonees porque un día no hayas conseguido todo; estás en fase de preparación. Roma no se hizo en un día. Y sal un poco más, que hay gente que te echa de menos. La Luna Nueva del domingo te abrirá puertas mentales que ahora parecen cerradas.
+La Luna Nueva en Acuario del lunes en tu sector de expansión y creencias podría colocarte bajo una nueva perspectiva, atrayendo la atención hacia planes de viaje o estudio. Si quieres ver el mundo de otra manera, este es el momento. Sin embargo, prepárate para revisar algunos valores con Venus retrógrado. Puede que no sea grave, pero trata de darte un margen para reflexionar. Además, con el Sol entrando en Acuario, tu energía mental se dispara. Es mejor reflexionar que lamentar Géminis. Sí, quizás aún cargas dudas, pero eres así Géminis, curioso y adaptable.
 
 ## Dinero
 
-La actividad en tu sector de recursos compartidos (Capricornio) hace de ti una abeja muy ocupada resolviendo temas de deudas o impuestos. Estarás organizando papeles y comunicándote con bancos o socios. También será más fácil para ti entender dónde se te va el dinero. Podrás lograr progreso siempre y cuando seas meticuloso y no dejes cabos sueltos antes del domingo.
+Esta semana es sobre la visión a futuro. La Luna Nueva te invita a pensar en inversiones a largo plazo o en educación que aumente tus ingresos. ¿Deberías de estar de acuerdo con lo tradicional o buscar algo innovador? El enfoque innovador es mejor por ahora, pero revisa los detalles.

@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: acuario 19 de enero 2026 al 25 de enero 2026 
-description: Horóscopo semanal acuario 19 de enero 2026 al 25 de enero 2026. Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras; la Luna Nueva del domingo es tu momento.
+title: acuario 26 de enero 2026 al 01 de febrero 2026 
+description: Horóscopo semanal acuario 26 de enero 2026 al 01 de febrero 2026. Eres mejor persona cuando eres auténtico; la Luna Nueva en tu signo te da permiso para brillar.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2026-01-19
+ogimg: /images/zodiac/semanal_acuario.png#2026-01-26
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-01-19'
+ lastmod: '2026-01-26'
 ---
 
 
 
-## Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras; la Luna Nueva del domingo es tu momento.
+## Eres mejor persona cuando eres auténtico; la Luna Nueva en tu signo te da permiso para brillar.
 
-Tu sector de subconsciente y finales está bajo gran enfoque esta semana con el Sol en Capricornio. Este es definitivamente el momento de analizar y considerar qué quieres dejar atrás antes de tu cumpleaños. La Luna Nueva del domingo es EN TU SIGNO, Acuario. Es tu año nuevo personal lunar, la oportunidad perfecta para empezar de nuevo y reinventarte. Pero sería prudente que no te precipitaras a nada hasta el domingo. Mientras tanto, investiga tus opciones y descansa. Es mejor reflexionar que lamentar Acuario. Siempre.
+¡Es tu momento, Acuario! La Luna Nueva del lunes es EN TU SIGNO. Es tu año nuevo personal lunar, una oportunidad para reinventarte y establecer tus intenciones para los próximos seis meses. El Sol también entra en tu signo el lunes, dándote vitalidad y presencia. Durante los últimos meses, es posible que hayas estado bajo mucha presión o en las sombras, pero ahora sales a la luz. Esta Luna Nueva es la válvula de escape que te permite ser tú mismo. Eres hábil para descubrir las cosas y ahora te descubres a ti. Es el momento del cambio Acuario, es el momento de que todo lo bueno que deseas llegue, tu actitud lo determina, así que, ¡a por todas!
 
 ## Dinero
 
-Es un momento de incubación para ti ahora. Los planes financieros se están gestando en secreto. Pero también es hora de equilibrar las necesidades de tu descanso con tu ambición. A menos que encuentres la manera de poder hacer que tus sueños formen parte de tu plan de negocios, tiene que haber un compromiso interno. El Universo te prepara para un renacer, también en lo económico.
+Este período se trata de encontrar ese perfecto equilibrio entre quién eres y lo que ganas. El amor y la creatividad se unen a la acción para afectar tu imagen personal y cómo esta atrae recursos. Es probable que recibas elogios o atención que se traduzca en oportunidades futuras.

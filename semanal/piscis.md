@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: piscis 19 de enero 2026 al 25 de enero 2026 
-description: Horóscopo semanal piscis 19 de enero 2026 al 25 de enero 2026. La ansiedad te hace empujar a personas fuera de tu vida; usa esta semana para discernir quiénes realmente deben quedarse.
+title: piscis 26 de enero 2026 al 01 de febrero 2026 
+description: Horóscopo semanal piscis 26 de enero 2026 al 01 de febrero 2026. La ansiedad te hace empujar, pero esta semana el silencio te traerá las respuestas que buscas.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2026-01-19
+ogimg: /images/zodiac/semanal_piscis.png#2026-01-26
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-01-19'
+ lastmod: '2026-01-26'
 ---
 
 
 
-## La ansiedad te hace empujar a personas fuera de tu vida; usa esta semana para discernir quiénes realmente deben quedarse.
+## La ansiedad te hace empujar, pero esta semana el silencio te traerá las respuestas que buscas.
 
-Esta semana podría ser una revelación sobre tus amistades y grupos. El Sol ilumina tu sector social, pero la Luna Menguante te pide que cierres ciclos con personas que ya no vibran contigo. Esto podría tener algo que ver con una relación grupal a la que le vendría bien un cambio. Si te das más libertad, quizá tengas más independencia sin perder la conexión. Debido a que el enfoque en tu sector social es fuerte, tienes la oportunidad de evaluar tus vínculos. La Luna Nueva del domingo activará tu sector del subconsciente, invitándote a un periodo de retiro y sueños lúcidos.
+La Luna Nueva en Acuario del lunes ilumina tu sector del subconsciente y el cierre, invitándote a un periodo de retiro y descanso antes de tu cumpleaños. Un encuentro espiritual o un sueño lúcido podría darle un positivo impulso a tu semana. Alguien podría ofrecerte una guía oculta. Si el flujo de tu energía ha disminuido, es normal; el Sol entra en tu casa 12 el lunes, pidiéndote recargar baterías. Hace mucho tiempo que no te das un buen capricho de soledad Piscis. Asuntos pendientes Piscis, asuntos emocionales que debes empezar a solucionar ya antes de que empiece tu temporada. Ten el valor de salir de todo lo que te hace daño internamente.
 
 ## Dinero
 
-Esta semana tu sector de redes y proyectos futuros indica un tiempo de revisión de metas a largo plazo. Tus esfuerzos para ganar dinero se verán beneficiados si revisas tus colaboraciones. Busca pistas en el pasado. Tu carrera necesita que reconectes con antiguos aliados o retomes viejos proyectos creativos que ahora sí podrían funcionar.
+Con tanta actividad en tu sector de lo oculto, puede que estés revisando tus finanzas de manera privada. El gasto está bajo control si escuchas a tu intuición. Tienes un intercambio armonioso de energía entre tu mundo interior y tus recursos; asegúrate de que tus gastos reflejen tus verdaderos valores espirituales.

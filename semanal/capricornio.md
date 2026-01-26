@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: capricornio 19 de enero 2026 al 25 de enero 2026 
-description: Horóscopo semanal capricornio 19 de enero 2026 al 25 de enero 2026. Toma unos minutos cada mañana para entender que eres tu mejor inversión.
+title: capricornio 26 de enero 2026 al 01 de febrero 2026 
+description: Horóscopo semanal capricornio 26 de enero 2026 al 01 de febrero 2026. Algunas personas deberían tener más cuidado con sus gastos, pero tú estás listo para construir riqueza.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2026-01-19
+ogimg: /images/zodiac/semanal_capricornio.png#2026-01-26
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-01-19'
+ lastmod: '2026-01-26'
 ---
 
 
 
-## Toma unos minutos cada mañana para entender que eres tu mejor inversión.
+## Algunas personas deberían tener más cuidado con sus gastos, pero tú estás listo para construir riqueza.
 
-¡Es tu temporada, Capricornio! El Sol sigue en tu signo, dándote vitalidad y presencia. Puede que otras personas te parezcan inspiradoras, pero tú eres el protagonista. Sin embargo, tú tienes planes propios en los que debes enfocarte, por lo que deberías establecer el límite si una persona parece no cooperar. Una vez que hayas completado tu lista de asuntos pendientes con la Luna Menguante, te sentirás mucho mejor para recibir la Luna Nueva en tu sector de valores el domingo. Capricornio, no ocultes más lágrimas, no te sientas solo aunque estés rodeado de personas. Sólo mira a los ojos Capricornio, y siente… Feliz semana…
+Si bien puede que tengas muchas ocupaciones, la Luna Nueva en Acuario del lunes en tu sector de valores y dinero te invita a establecer nuevas metas financieras para el año. Podrías descubrir que se presentan oportunidades para aumentar tus ingresos. El Sol deja tu signo y entra en Acuario el lunes, cambiando el foco de tu identidad a tus recursos. Quizás deberías dejar de planear todo ahora Capricornio y confiar en tu capacidad de generar. Luchar por lo que importa está bien Capricornio, y ahora importa tu seguridad material. No te agobies, estás construyendo bases sólidas.
 
 ## Dinero
 
-Los planetas en tu sector de identidad esta semana te hacen más visible de lo normal. Tanto tu situación económica, así como tu trabajo pueden depender de tu capacidad para transmitir tu marca personal. Pero ya que la Luna Nueva del domingo activará tu zona de dinero, lo mejor es preparar el terreno ahora para sembrar intenciones de abundancia el fin de semana. El trabajo en ti mismo y el equilibrio van de la mano.
+Puede que creas que una nueva fuente de ingresos es posible - porque lo es. En lugar de ver esto a través de lentes de miedo, sé realista y ambicioso. El mejor uso de esta energía de Luna Nueva es plantar la semilla de la abundancia. Aunque Venus esté retrógrado, es buen momento para revisar y planificar tus finanzas.

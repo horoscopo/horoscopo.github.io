@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: escorpio 19 de enero 2026 al 25 de enero 2026 
-description: Horóscopo semanal escorpio 19 de enero 2026 al 25 de enero 2026. Las malas decisiones muy a menudo te enseñan más que las buenas; úsalas para construir tu futuro.
+title: escorpio 26 de enero 2026 al 01 de febrero 2026 
+description: Horóscopo semanal escorpio 26 de enero 2026 al 01 de febrero 2026. Tienes un buen escudo protector, pero esta semana úsalo para proteger tu nido y a los tuyos.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2026-01-19
+ogimg: /images/zodiac/semanal_escorpio.png#2026-01-26
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-01-19'
+ lastmod: '2026-01-26'
 ---
 
 
 
-## Las malas decisiones muy a menudo te enseñan más que las buenas; úsalas para construir tu futuro.
+## Tienes un buen escudo protector, pero esta semana úsalo para proteger tu nido y a los tuyos.
 
-Los problemas relacionados con la comunicación y asuntos cercanos podrían captar tu atención durante esta semana con el Sol en tu casa 3. Sin embargo, no te apresures a tomar cualquier decisión grande. Con la Luna Menguante, es mejor reflexionar y preparar el terreno. Por otro lado, la Luna Nueva del domingo en tu sector de hogar y familia pondrá en marcha un nuevo ciclo doméstico. Llevabas un ritmo un poco alocado Escorpio, todo mezclado con dudas. Te encuentras un poco agotado por todo. Relájate Escorpio, que no te entre la locura. Ni todo es tan malo ni todo es tan bueno. Cuídate un poquito más Escorpio, quiérete un poquito más, y pon la mente en blanco todo lo que puedas para recibir el nuevo ciclo.
+La idea de tomarte un descanso y centrarte en tu base podría sonar increíble con la Luna Nueva en Acuario en tu sector del hogar y la familia. Es una oportunidad de hacer que uno de tus deseos domésticos se haga realidad o iniciar una mudanza/remodelación (planifícalo bien). Un problema familiar podría aparecer, pero tienes la energía para resolverlo de raíz. Nadie se cura por herir a otro Escorpio. Tienes que canalizar tu intensidad hacia construir un refugio seguro. Con el Sol entrando en Acuario, tu atención se vuelca hacia tus raíces.
 
 ## Dinero
 
-El Universo está iluminando tu sector de comunicación y ventas. Lo que esto significa es que tienes mucho trabajo mental que hacer para ganar dinero, y que no es el mejor momento para gastar en exceso sin pensar. Estudia e imita las formas de los comunicadores exitosos en la medida de tu capacidad para mejorar tus ingresos.
+Estás fomentando la confianza en ti mismo/a para invertir en tu hogar. Tu interés se despierta en términos de mejorar tu espacio vital. Dado que los aspectos son favorables para cimentar seguridad, estás operando desde una posición de fuerza. Lucha no sólo por disfrutar de tu vida a través del gasto, sino también para invertir en tu estabilidad.
