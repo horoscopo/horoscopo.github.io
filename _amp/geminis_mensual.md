@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Géminis Enero 2026 
+title: Horoscopo Géminis Febrero 2026 
 permalink: /horoscopo-mensual/amp/geminis/
 normallink: /horoscopo-mensual/geminis/
 home: FALSE
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Géminis_mes.png#2025-12-28
+ogimg: /images/mes/Géminis_mes.png#2026-01-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-12-28'
+ lastmod: '2026-01-26'
 ---
 
 

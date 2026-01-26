@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Tauro Enero 2026 
+title: Horoscopo Tauro Febrero 2026 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/mes/Tauro_mes.png#2025-12-28
+ogimg: /images/mes/Tauro_mes.png#2026-01-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-12-28'
+ lastmod: '2026-01-26'
 ---
 
 

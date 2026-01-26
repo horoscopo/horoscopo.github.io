@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Aries Enero 2026 
+title: Horoscopo Aries Febrero 2026 
 permalink: /horoscopo-mensual/amp/aries/
 normallink: /horoscopo-mensual/aries/
 home: FALSE
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/Aries_mes.png#2025-12-28
+ogimg: /images/mes/Aries_mes.png#2026-01-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2025-12-28'
+ lastmod: '2026-01-26'
 ---
 
 
