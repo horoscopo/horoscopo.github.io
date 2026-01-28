@@ -1,0 +1,28 @@
+---
+layout: horoscopos
+title: aries hoy gratis 28 de enero del 2026 
+description: Horóscopo del dia de hoy para aries. Horoscopo de hoy 28 de enero del 2026. Las predicciones de amor, trabajo, vida personal gratis.
+permalink: /horoscopo-diario-gratis/aries/
+amplink: /horoscopo-diario-gratis/amp/aries/
+home: FALSE
+redirect_from: /p/aries.html
+keywords: aries,horoscopo,horoscopo aries enero 2026,horoscopo aries hoy,tarot aries enero 2026,horoscopo aries,tarot aries hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy aries,horoscopo diario del tarot, Horoscopo de hoy aries 28 de enero del 2026,horóscopo del día,signos zodiacales 2026, el horoscopo de hoy
+horoscopo:
+ signo: aries
+ video: -DQpmrrAIeU
+ogimg: /images/aries_char.png
+sitemap:
+ priority: 1
+ changefreq: 'daily'
+---
+
+
+En las próximas tres semanas, las cosas podrían tornarse más emotivas y sensibles, gracias al cambio planetario que tiene lugar hoy. La energía celestial en juego tiende a hacer que la gente reaccione por nada. En tu caso, este cambio en general trae una mayor atención hacia el aspecto profesional y el modo en que te desenvuelves en la sociedad.
+
+## Amor
+
+Tu pareja puede distraerte hoy, pero es algo temporal. Sorpréndele con un detalle especial para que vuelva a centrar su atención en ti y sólo en ti. Su reacción podría ser mucho más emocionante de lo que anticipaste y ambos deberían disfrutar lo que siga.
+
+## Trabajo
+
+Trata de no dejarte absorber por los dramas de otras personas. Tu trabajo será un torbellino de confusión, y si haces demasiadas preguntas, te enredarás en una difícil situación de la que te costará mucho salir. Mantén una prudente distancia.
