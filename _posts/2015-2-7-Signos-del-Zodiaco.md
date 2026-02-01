@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 31 de enero 2026
-description: Horóscopos del dia de hoy 31 de enero 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 01 de febrero 2026
+description: Horóscopos del dia de hoy 01 de febrero 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-01-31
+ lastmod: 2026-02-01
 ---
-Esta mañana, anota las cosas mientras una cuadratura fija entre la Luna y Mercurio jueguen trucos con tu mente. Deja que tu imaginación vuele cuando la Luna forme trígono con Neptuno por la tarde. Más tarde, tienes poder de persuasión con el sextil de esta noche entre la Luna y Plutón. ¿Hay alguna pregunta en tu mente que requiera de respuesta?
+Celebra un sentido de logro y satisfacción al ponerle los toques finales a un proyecto a corto plazo que se complicó un poco. Ahora puedes abordar el siguiente proyecto en tu lista de tareas pendientes. Los solteros disfrutan de reuniones inesperadas cuando la Luna en Acuario forma trígono con Júpiter. Las sorpresas hacen de esta, una noche feliz.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
