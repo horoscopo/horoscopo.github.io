@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: tauro 26 de enero 2026 al 01 de febrero 2026 
-description: Horóscopo semanal tauro 26 de enero 2026 al 01 de febrero 2026. Has desenterrado viejos sueños profesionales; úsalos para construir tu futuro, no para lamentarte por el tiempo perdido.
+title: tauro 02 de febrero 2026 al 08 de febrero 2026 
+description: Horóscopo semanal tauro 02 de febrero 2026 al 08 de febrero 2026. Has desenterrado viejos sueños profesionales; úsalos para construir tu futuro, no para lamentarte por el tiempo perdido.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2026-01-26
+ogimg: /images/zodiac/semanal_tauro.png#2026-02-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-01-26'
+ lastmod: '2026-02-02'
 ---
 
 

@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: capricornio 26 de enero 2026 al 01 de febrero 2026 
-description: Horóscopo semanal capricornio 26 de enero 2026 al 01 de febrero 2026. Algunas personas deberían tener más cuidado con sus gastos, pero tú estás listo para construir riqueza.
+title: capricornio 02 de febrero 2026 al 08 de febrero 2026 
+description: Horóscopo semanal capricornio 02 de febrero 2026 al 08 de febrero 2026. Algunas personas deberían tener más cuidado con sus gastos, pero tú estás listo para construir riqueza.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2026-01-26
+ogimg: /images/zodiac/semanal_capricornio.png#2026-02-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-01-26'
+ lastmod: '2026-02-02'
 ---
 
 

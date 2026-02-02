@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: piscis 26 de enero 2026 al 01 de febrero 2026 
-description: Horóscopo semanal piscis 26 de enero 2026 al 01 de febrero 2026. La ansiedad te hace empujar, pero esta semana el silencio te traerá las respuestas que buscas.
+title: piscis 02 de febrero 2026 al 08 de febrero 2026 
+description: Horóscopo semanal piscis 02 de febrero 2026 al 08 de febrero 2026. La ansiedad te hace empujar, pero esta semana el silencio te traerá las respuestas que buscas.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2026-01-26
+ogimg: /images/zodiac/semanal_piscis.png#2026-02-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-01-26'
+ lastmod: '2026-02-02'
 ---
 
 

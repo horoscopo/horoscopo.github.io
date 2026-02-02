@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: libra 26 de enero 2026 al 01 de febrero 2026 
-description: Horóscopo semanal libra 26 de enero 2026 al 01 de febrero 2026. No hay tiempo que perder; la Luna Nueva te invita a celebrar quien eres y lo que amas.
+title: libra 02 de febrero 2026 al 08 de febrero 2026 
+description: Horóscopo semanal libra 02 de febrero 2026 al 08 de febrero 2026. No hay tiempo que perder; la Luna Nueva te invita a celebrar quien eres y lo que amas.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2026-01-26
+ogimg: /images/zodiac/semanal_libra.png#2026-02-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-01-26'
+ lastmod: '2026-02-02'
 ---
 
 

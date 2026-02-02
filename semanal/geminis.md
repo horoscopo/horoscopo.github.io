@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: geminis 26 de enero 2026 al 01 de febrero 2026 
-description: Horóscopo semanal geminis 26 de enero 2026 al 01 de febrero 2026. Llega una buenísima semana Géminis para expandir tu mente, pero debes trabajar duro en filtrar qué ideas son viables.
+title: geminis 02 de febrero 2026 al 08 de febrero 2026 
+description: Horóscopo semanal geminis 02 de febrero 2026 al 08 de febrero 2026. Llega una buenísima semana Géminis para expandir tu mente, pero debes trabajar duro en filtrar qué ideas son viables.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2026-01-26
+ogimg: /images/zodiac/semanal_geminis.png#2026-02-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-01-26'
+ lastmod: '2026-02-02'
 ---
 
 

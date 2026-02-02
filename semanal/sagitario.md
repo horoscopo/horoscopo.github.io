@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: sagitario 26 de enero 2026 al 01 de febrero 2026 
-description: Horóscopo semanal sagitario 26 de enero 2026 al 01 de febrero 2026. No es tu sitio quedarte callado; la Luna Nueva te da la voz para expresar tu verdad.
+title: sagitario 02 de febrero 2026 al 08 de febrero 2026 
+description: Horóscopo semanal sagitario 02 de febrero 2026 al 08 de febrero 2026. No es tu sitio quedarte callado; la Luna Nueva te da la voz para expresar tu verdad.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2026-01-26
+ogimg: /images/zodiac/semanal_sagitario.png#2026-02-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-01-26'
+ lastmod: '2026-02-02'
 ---
 
 

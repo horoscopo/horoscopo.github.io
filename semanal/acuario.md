@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: acuario 26 de enero 2026 al 01 de febrero 2026 
-description: Horóscopo semanal acuario 26 de enero 2026 al 01 de febrero 2026. Eres mejor persona cuando eres auténtico; la Luna Nueva en tu signo te da permiso para brillar.
+title: acuario 02 de febrero 2026 al 08 de febrero 2026 
+description: Horóscopo semanal acuario 02 de febrero 2026 al 08 de febrero 2026. Eres mejor persona cuando eres auténtico; la Luna Nueva en tu signo te da permiso para brillar.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2026-01-26
+ogimg: /images/zodiac/semanal_acuario.png#2026-02-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-01-26'
+ lastmod: '2026-02-02'
 ---
 
 

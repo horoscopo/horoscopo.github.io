@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: leo 26 de enero 2026 al 01 de febrero 2026 
-description: Horóscopo semanal leo 26 de enero 2026 al 01 de febrero 2026. Deja que duela Leo si es necesario para sanar, pero abre tu corazón a la nueva energía que trae la Luna Nueva en tus relaciones.
+title: leo 02 de febrero 2026 al 08 de febrero 2026 
+description: Horóscopo semanal leo 02 de febrero 2026 al 08 de febrero 2026. Deja que duela Leo si es necesario para sanar, pero abre tu corazón a la nueva energía que trae la Luna Nueva en tus relaciones.
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2026-01-26
+ogimg: /images/zodiac/semanal_leo.png#2026-02-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-01-26'
+ lastmod: '2026-02-02'
 ---
 
 
