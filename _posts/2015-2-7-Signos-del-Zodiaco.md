@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 03 de febrero 2026
-description: Horóscopos del dia de hoy 03 de febrero 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 04 de febrero 2026
+description: Horóscopos del dia de hoy 04 de febrero 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-02-03
+ lastmod: 2026-02-04
 ---
-Mantente alerta a un persuasor oculto con un mensaje misterioso mientras la Luna aspecte a Plutón esta mañana. Primera pista: ¡Su mensaje no es el correcto bajo las circunstancias adecuadas tampoco! ¿Qué tanto puede ser tomado en serio bajo la Luna en Leo de esta noche? Probablemente no mucho.
+Decide cuáles son tus nuevos objetivos, ya que cuando te propones algo, sueles obtenerlo. ¿Qué es lo que te llega tanto al corazón que no podrías abandonarlo? El romance es cariñoso y afectivo mientras Venus forma trígono con Plutón hoy.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
