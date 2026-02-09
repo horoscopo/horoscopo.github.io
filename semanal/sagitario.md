@@ -1,26 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 02 de febrero 2026 al 08 de febrero 2026 
-description: Horóscopo semanal sagitario 02 de febrero 2026 al 08 de febrero 2026. No es tu sitio quedarte callado; la Luna Nueva te da la voz para expresar tu verdad.
+title: sagitario 09 de febrero 2026 al 15 de febrero 2026 
+description: Horóscopo semanal sagitario 09 de febrero 2026 al 15 de febrero 2026. Hay cosas que ya no funcionan sagitario, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2026-02-02
+ogimg: /images/zodiac/semanal_sagitario.png#2026-02-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-02-02'
+ lastmod: '2026-02-09'
 ---
 
 
 
-## No es tu sitio quedarte callado; la Luna Nueva te da la voz para expresar tu verdad.
+## Hay cosas que ya no funcionan sagitario, y lo sabes más que de sobra… Ahora eres tú quien debe darse valor y empezar la semana con fuerza.
 
-Si tienes la oportunidad de aprender algo nuevo o hacer un viaje corto, tómala. La Luna Nueva en Acuario del lunes activa tu sector de comunicación y aprendizaje, insinuando que podrías iniciar un curso o un proyecto de escritura. El Sol entra en Acuario el lunes, llenando tu agenda de actividad mental y social. A partir del domingo, te beneficiarás si organizas tus ideas. Llevabas un ritmo un poco alocado Sagitario, pero esta energía de aire te ayuda a conectar puntos. Relájate Sagitario, que no te entre la locura por querer saberlo todo ya. Con la mente despejada, tomarás el rumbo de tu vida comunicativa.
+Si estás viendo tu vida de manera más intensa, esto puede ser porque el Sol y Marte activan tu sector de la comunicación. Tu atención podría virar hacia asuntos financieros y a cómo hacer que tu dinero trabaje más para ti. También podrías estar consciente de corrientes más profundas que te animen a trabajar sobre cuestiones que han estado en segundo plano durante algún tiempo. Analizarlas con la persona adecuada podría ayudarte a hacer un dramático cambio en tu vida. Y es cierto, en parte, pero a la vez, en tu interior cargas con cosas que de verdad, ya no merecen la pena. 
+ La gente es como es y no debes martirizarte por ello sagitario.
 
 ## Dinero
 
-Para ti, esta semana se trata de tomar ventaja de las circunstancias que se presenten en tu entorno cercano. Tienes suerte con las ventas, el marketing o la enseñanza. Estas oportunidades afectarán positivamente tu vida en el futuro, así que asegúrate de poner tu mayor esfuerzo en comunicar tus ideas.
+Hay cierta actividad en tu sector de dinero de otras personas esta semana, lo que indica un tiempo de enfoque en la propiedad compartida, las herencias y las viejas deudas. Puesto que esto afecta a la política, los grupos y afecta la forma en la que te comunicas, tendrás que ser más social cuando se trata de tu vida monetaria. Esto se manifestará en gastar dinero para pasar buenos ratos y cimentar tu unión especial con esta gente.

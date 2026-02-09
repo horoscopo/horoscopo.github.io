@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: capricornio 02 de febrero 2026 al 08 de febrero 2026 
-description: Horóscopo semanal capricornio 02 de febrero 2026 al 08 de febrero 2026. Algunas personas deberían tener más cuidado con sus gastos, pero tú estás listo para construir riqueza.
+title: capricornio 09 de febrero 2026 al 15 de febrero 2026 
+description: Horóscopo semanal capricornio 09 de febrero 2026 al 15 de febrero 2026. Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2026-02-02
+ogimg: /images/zodiac/semanal_capricornio.png#2026-02-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-02-02'
+ lastmod: '2026-02-09'
 ---
 
 
 
-## Algunas personas deberían tener más cuidado con sus gastos, pero tú estás listo para construir riqueza.
+## Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía.
 
-Si bien puede que tengas muchas ocupaciones, la Luna Nueva en Acuario del lunes en tu sector de valores y dinero te invita a establecer nuevas metas financieras para el año. Podrías descubrir que se presentan oportunidades para aumentar tus ingresos. El Sol deja tu signo y entra en Acuario el lunes, cambiando el foco de tu identidad a tus recursos. Quizás deberías dejar de planear todo ahora Capricornio y confiar en tu capacidad de generar. Luchar por lo que importa está bien Capricornio, y ahora importa tu seguridad material. No te agobies, estás construyendo bases sólidas.
+Con la temporada de festividades a toda marcha, sientes mucha inquietud como para poder concentrarte en lo importante. Los viajes y las oportunidades para probar otro tipo de diversiones te atraen más. Y con la probabilidad de disfrutar una vida social más activa, tus tareas diarias pueden parecerte un poco aburridas. Sin embargo, una conversación o una idea te impulsará a entrar en acción nuevamente y te motivará para progresar. Te crees que eres débil capricornio, a veces te menosprecias demasiado, más de lo que deberías, te crees que no llegas, que no puedes, te crees que quizás se te está yendo de las manos el tiempo que estás tardando en curarte de viejas heridas, piensas que ya tenía que tener superado mucho, pero no… Todo tiene su tiempo, no quieras comerte el mundo en un minuto porque seguro que lo escupes al minuto siguiente. Vas a tardar en ser “normal” otra vez, porque tienes sentimientos capricornio, porque las cosas te duelen, porque vas a tardar en recuperarte del todo… Pero eh, que saldrás de cualquier cosas, que tu te pones las pilas y te mentalizas y trepas hasta de lo más profundo. Esta semana dedícate a mimar algunas relaciones que tienes cerca y que, por tener tu mente en otro lugar, estás descuidando. Y quiérete un poco más, y piensa que los bajones son normales, y más cuando estás en un proceso de duelo, de superar algunas cosas y de cambiar otras de forma radical. Nadie sabe estar de un minuto a otro sin parte de su vida anterior capricornio… Tómate un tiempo capricornio, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
 
 ## Dinero
 
-Puede que creas que una nueva fuente de ingresos es posible - porque lo es. En lugar de ver esto a través de lentes de miedo, sé realista y ambicioso. El mejor uso de esta energía de Luna Nueva es plantar la semilla de la abundancia. Aunque Venus esté retrógrado, es buen momento para revisar y planificar tus finanzas.
+Es necesario el llegar a tener mucha más apertura y comunicación en el trabajo. Otros pueden estar contando contigo para obtener información que necesitan para realizar sus diversas funciones, así que asegúrate de no descuidar los e-mails o mensajes. El Universo te da aún más razones para hablar desde el corazón sobre lo que necesitas, tanto en el trabajo como en tu vida personal.
