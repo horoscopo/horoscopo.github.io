@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 13 de febrero 2026
-description: Horóscopos del dia de hoy 13 de febrero 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 16 de febrero 2026
+description: Horóscopos del dia de hoy 16 de febrero 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-02-13
+ lastmod: 2026-02-16
 ---
-Los comentarios precipitados traen dolorosos arrepentimientos cuando Mercurio se encuentra a punto de cambiar de signo como lo está hoy. Si debes decir algo, trata de evitar la angustia y encuentra una manera apacible de expresarte. Esta noche surgen interesante, intrigantes, memorables, e incluso olvidables personalidades con una astuta capacidad intuitiva cuando la Luna aspecta a Neptuno. ¡Sorpresa! Lo que sientes, está en lo correcto.
+Marte en Libra crea una nueva línea de tiempo con la que es prudente mantener el equilibrio y evitar dispersar tu atención en toda dirección. Es un buen tránsito para el trabajo en equipo que es entusiasta. Mercurio les da un ligero matiz a los acentos cuando los opuestos se atraen. Aquellos que conoces no son aburridos, ¡y tú tampoco lo eres!
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
