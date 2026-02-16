@@ -1,27 +1,29 @@
 ---
 layout: horoscopos
-title: geminis 09 de febrero 2026 al 15 de febrero 2026 
-description: Horóscopo semanal geminis 09 de febrero 2026 al 15 de febrero 2026. No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
+title: geminis 16 de febrero 2026 al 22 de febrero 2026 
+description: Horóscopo semanal geminis 16 de febrero 2026 al 22 de febrero 2026. Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2026-02-09
+ogimg: /images/zodiac/semanal_geminis.png#2026-02-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-02-09'
+ lastmod: '2026-02-16'
 ---
 
 
 
-## No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
+## Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
 
-Cálidos y tiernos sentimientos animan tu vida esta semana, alentándote a conectar con amistades o familiares que no has visto o sobre quienes no has tenido noticias en algún tiempo. Un enfoque muy animado trae oportunidades de conectar con tus vecinos o de apoyar a organizaciones de caridad o de otro tipo en tu vecindario. Aunque el animado Mercurio da indicios de que podrías encontrarte con algunas demoras, tener una perspectiva optimista puede hacer toda la diferencia. Sin embargo, no derroches el dinero, ya que el estimulante Júpiter en tu sector de dinero puede animarte a comprar. No pienses tanto por favor géminis, claro que saldrá bien, claro que deberías arriesgar por tus metas, claro que es lo que quieres. Eres géminis por favor, a pesar de que por tu cabeza puedan pasar un sinfín de locuras, y de las buenas, sabes lo que haces, sabes que si te paras a pensar más de dos días seguidos algo es que hay que hacer algo para cambiarlo, para bien o para mal. O sea, ves a por todas. 
- cultivar para luego recoger una buena cosecha y no dejarte abatir ni decaer por ninguna situación que se cruce en el camino.
+Esta semana, podría haber momentos en que te resulte difícil estar de acuerdo con un familiar en torno a un asunto de suma importancia. No dejes que esto te afecte. Si usas tu tacto y diplomacia, tal vez puedas sacar lo mejor de una complicada situación. 
+El sol crea una conexión con el afortunado Júpiter el miércoles, lo que podría hacer que este sea un animado y positivo día. Podrías recibir un inesperado obsequio o una pequeña cantidad de dinero, lo que definitivamente mejoraría tu estado de ánimo.
+El mejor día para atender los asuntos familiares podría ser el viernes, cuando una discusión clave podría llevar a una firme decisión. Deberías sentirte mejor luego de resolver esto. 
+Tus amistades o pareja podrían parecer poco fiables el domingo; tal vez cancelen un evento a último momento. Si este es el caso, usa esta oportunidad para hacer algo que en verdad disfrutes. Te hará sentir mucho mejor. Has estado esforzándote mucho por hacer las cosas bien, por tratar de arreglarlo todo, por conseguir tus metas y tus objetivos así que, esta semana te mereces hacer todo lo que hagas por y para ti géminis.
 
 ## Dinero
 
-Tienes una extraña habilidad para predecir el futuro cuando se trata de dinero. Sabes cuando las cosas van a ir bien y cuando no. Puede que ahora tus poderes psíquicos sean más fuertes que de costumbre. Como tal, es una buena idea que guardes algo de dinero extra para la diversión que deseas tener en unas vacaciones con tu familia, amigos o a solas. Visualiza los beneficios conforme ahorras regularmente.
+Tu situación en el hogar y las emociones internas indican un posible cambio para ti ahora mismo. ¿Has estado pensando en la creación de más espacio para ti mismo/a? Un cambio de escenario puede ser justo lo que necesitas para aumentar tu creatividad y obtener que los jugos que fluyan hacia un nuevo trabajo o fuente de ingresos. El truco estará en no irse por la borda con este esfuerzo. Busca un balance entre el gasto y el ahorro.

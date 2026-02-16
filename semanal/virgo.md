@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: virgo 09 de febrero 2026 al 15 de febrero 2026 
-description: Horóscopo semanal virgo 09 de febrero 2026 al 15 de febrero 2026. No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
+title: virgo 16 de febrero 2026 al 22 de febrero 2026 
+description: Horóscopo semanal virgo 16 de febrero 2026 al 22 de febrero 2026. Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2026-02-09
+ogimg: /images/zodiac/semanal_virgo.png#2026-02-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-02-09'
+ lastmod: '2026-02-16'
 ---
 
 
 
-## No hay cosa que más te joda que morderte la lengua cuando sabes que no debes pero a veces, por no crear más polémica lo haces.
+## Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
 
-Puede que una oportunidad asociada con tu profesión o ambición aparezca en las cartas esta semana. Con la Luna Menguante alentándote, quizá te convenga aprovecharla. Este es el momento indicado para hacerlo, ya que no tienes ningún apuro. Con Venus moviéndose hacia tu sector de relaciones y actualmente en movimiento directo, las cosas podrían cambiar en las próximas semanas. Si te mueves paso a paso, podrás navegar estas semanas con habilidad y confianza. Estás feliz pero a la vez triste, estás tranquilo pero a la vez nervioso. Se acerca un cambio grande virgo, un cambio complicado pero necesario. Últimamente complaces demasiado, y sí, está bien pero el problema es que hay gente que se aprovecha de esto. Tienes que plantarle cara a más de uno y dejar las cosas claras. No te vuelvas a meter otra vez en círculos viciosos, no dejes que en tu cabeza vuelva a entrar el estrés y la ansiedad, de verdad, ahora no… Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. virgo, esta semana has de cerrar algunos ciclos de verdad. Una noticia buena hará que te vuelvas a impulsar de nuevo, te dará ese empujón que tanto necesitabas. Las cosas como son, todo el mundo necesita alguna razón para hacer las cosas, para progresar, para cambiar incluso, y tú más. Pues esa razón va a estar muy clara ahora. No mires atrás cuando sabes que no debes hacerlo, no te estreses por cosas que realmente no importan y no te preocupes por lo que en realidad no puedes controlar. Las cosas van a cambiar, tú vas a hacer que cambien, no permitas que nadie trate de desprestigiarte más. Las cosas a partir de ahora se harán a tu manera, guste o no. Lo tienes claro. Y recuerda que la vida siempre se vive mejor con una sonrisa en la cara.
+El año comienza con un toque muy social para ti y se extiende durante todo el mes. Con el amoroso Venus, tu planeta regente, transitando tu sector de relaciones, puede ser una excelente oportunidad para que te muevas en círculos nuevos y explores otras opciones para conocer personas y disfrutar la vida. ¿A solas? Puede que tengas más opciones de citas ahora, por lo que vale la pena formar parte de grupos o clubes que reflejen tus intereses y pasiones. Por último, deberías analizar en profundidad una decisión sobre tu futuro. No más paciencia virgo. Ni tampoco más pasadas por alto, ni tampoco más aguante innecesario, ni tampoco más perdón como si el perdón se regalara. Nada de eso. Has llegado a un límite y se acabó lo que se daba, al menos hasta que de verdad encuentres una razón para darlo de nuevo. No es justo que tengas que aceptar daños, que tengas que aceptar desprecios o que tengas que seguir como si nada. ¡Venga ya! En la vida hacemos cosas, y sí, ojalá que algunas de ellas no hubieran sucedido nunca, sobretodo esas que retumban en tu cabeza una y otra vez. Pero todas ellas te hacen ser quien eres virgo, y al final el conjunto es tu forma de ser. Si pudieras regresar para cambiar algo ya no serías tu, así que, vive, comete errores, ten recuerdos inolvidables, pero nunca dudes de quien eres, de donde estás y lo más importante, hacia donde vas. Nunca es tarde para empezar de cero, nunca es tarde para dejar de aguantar lo que sabes que no te hace bien. Así que, a partir de ahora deja de tener paciencia con lo que no te suma y empieza a respetarte un poco y a tener amor propio. Lo primero es eso. Feliz semana virgo.
 
 ## Dinero
 
-Examinando tu sector de política, grupos sociales y sueños, es un excelente momento para avanzar en proyectos que sean más cercanos y queridos a tu corazón. Las redes sociales ofrecen la oportunidad de descubrir secretos que pueden hacerte avanzar en tu puesto de trabajo, pero será un acto de equilibrio con la familia y el romance. El dinero viene cuando encuentras el mejor sistema y la mejor manera de cultivar las relaciones personales y profesionales.
+Es posible  que esta semana necesites obtener una segunda opinión sobre tus planes acerca de dinero. Tienes un montón de ideas creativas acerca de cómo maximizar tu dinero, pero la verdad también podría ser empañada o se ve mejor de lo que realmente es. Asegúrate de checar doble y triplemente todo antes de firmar. Tu vida social es cálida y amorosa. Solo trata de no gastar de más en las noches de farra.

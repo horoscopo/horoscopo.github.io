@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: capricornio 09 de febrero 2026 al 15 de febrero 2026 
-description: Horóscopo semanal capricornio 09 de febrero 2026 al 15 de febrero 2026. Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía.
+title: capricornio 16 de febrero 2026 al 22 de febrero 2026 
+description: Horóscopo semanal capricornio 16 de febrero 2026 al 22 de febrero 2026. No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2026-02-09
+ogimg: /images/zodiac/semanal_capricornio.png#2026-02-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-02-09'
+ lastmod: '2026-02-16'
 ---
 
 
 
-## Apréndete a querer un poquito más y sobre todo aprende a valorar que a veces, el sentirse solo, es la única manera para desintoxicarnos, la mejor manera de vernos hacia dentro, de saber que lo estamos haciendo bien aunque nadie más sea capaz de verlo todavía.
+## No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
 
-Con la temporada de festividades a toda marcha, sientes mucha inquietud como para poder concentrarte en lo importante. Los viajes y las oportunidades para probar otro tipo de diversiones te atraen más. Y con la probabilidad de disfrutar una vida social más activa, tus tareas diarias pueden parecerte un poco aburridas. Sin embargo, una conversación o una idea te impulsará a entrar en acción nuevamente y te motivará para progresar. Te crees que eres débil capricornio, a veces te menosprecias demasiado, más de lo que deberías, te crees que no llegas, que no puedes, te crees que quizás se te está yendo de las manos el tiempo que estás tardando en curarte de viejas heridas, piensas que ya tenía que tener superado mucho, pero no… Todo tiene su tiempo, no quieras comerte el mundo en un minuto porque seguro que lo escupes al minuto siguiente. Vas a tardar en ser “normal” otra vez, porque tienes sentimientos capricornio, porque las cosas te duelen, porque vas a tardar en recuperarte del todo… Pero eh, que saldrás de cualquier cosas, que tu te pones las pilas y te mentalizas y trepas hasta de lo más profundo. Esta semana dedícate a mimar algunas relaciones que tienes cerca y que, por tener tu mente en otro lugar, estás descuidando. Y quiérete un poco más, y piensa que los bajones son normales, y más cuando estás en un proceso de duelo, de superar algunas cosas y de cambiar otras de forma radical. Nadie sabe estar de un minuto a otro sin parte de su vida anterior capricornio… Tómate un tiempo capricornio, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
+Si has estado esperando algún tipo de avance, esta semana podría iniciar tal proceso. Puede que sea inspiración, alguien que conozcas que te ponga a pensar, o quizás distingas una oportunidad que parezca demasiado buena para ser verdad. Aquello que surja sin duda valdrá la pena ser investigado. Mantente alerta a coincidencias o sincronicidades que parezcan apuntarte hacia una dirección en particular. El cosmos podría estarte pidiendo dar un salto de fe con el fin de ampliar tus horizontes. Se avecinan cosas nuevas capricornio, algo que te va a remover enterito/a de arriba a abajo, pero antes vas a tener que desprenderte emocionalmente de algunas cosas pendientes. Esta semana vas a estar a tope, no vas a parar ni un solo momento, hay mucho por hacer. Pero por otro lado, igual que vas a tener sorpresas positivas, también hay una que quizás no lo sea tanto pero bueno, como ya no esperas nada de nadie ni nada de nada, tampoco será una gran decepción. Te vuelven a buscar capricornio, otra vez sí. Y aunque no puedas verlo, por detrás se están manejando los hilos. Pero tú pasa, es más, mejor que ni lo veas, a ti ya no te importa lo que pertenece al pasado pero sí que te jode que aún se esté dando vueltas a algo cuando debió de quedar todo clarísimo. En fin capricornio, que nadie te robe esta sonrisa esta semana. Trabaja duro, haz las cosas como siempre las haces, a lo grande, bien hechas. Sal con los tuyos y sigue tan positivo como siempre. Y quédate con esas sorpresas que van a darte la vida, que van a alegrarte la existencia, que van a darte chutes de energía bestiales. Esas son las que merecen la pena. El apego emocional se marchará… Primero, porque quieres que se marche…
 
 ## Dinero
 
-Es necesario el llegar a tener mucha más apertura y comunicación en el trabajo. Otros pueden estar contando contigo para obtener información que necesitan para realizar sus diversas funciones, así que asegúrate de no descuidar los e-mails o mensajes. El Universo te da aún más razones para hablar desde el corazón sobre lo que necesitas, tanto en el trabajo como en tu vida personal.
+Esta semana tienes la base sobre la cual construir una seguridad adicional. La actividad en tu sector de  deuda hace que sea más fácil pagar las tarjetas y líneas de crédito. Eres capaz de ganar más dinero ahora y asignarlo como mejor te parezca.
