@@ -1,0 +1,25 @@
+---
+layout: amp
+title: aries hoy gratis 17 de febrero del 2026 
+permalink: /horoscopo-diario-gratis/amp/aries/
+normallink: /horoscopo-diario-gratis/aries/
+home: FALSE
+horoscopo:
+ signo: aries
+ video: -DQpmrrAIeU
+ogimg: /images/aries_char.png
+sitemap:
+ priority: 1
+ changefreq: 'daily'
+---
+
+
+A veces no te gusta tomar decisiones ya que puedes ver todas las caras de la situación. Pero ahora mismo deberías tener claridad por una meta que es importante para ti. La energía astral en juego te ayudará a juntar confianza. No dudes en poner en movimiento los cambios necesarios. Te sentirás bien si tomas una postura firme y te concentras claramente en tus metas. ¡Ahora nada puede detenerte!
+
+## Amor
+
+Hoy es un día ideal para socializar. De hecho, alguien se ha fijado en ti desde lejos. No te sorprendas si una persona desconocida se te acerca hoy. Usa tu intuición; esto puede ser el comienzo de algo muy interesante. ¡Tu racha de aburrimiento está a punto de cesar!
+
+## Trabajo
+
+Da la impresión de que ninguna de las opciones que te presentan son suficientemente buenas. Los demás se entusiasman con las ideas aparentemente novedosas que se les ocurren, pero a ti lo que ves no te impresiona para nada. No te preocupes. No hay ninguna ley que estipule que tengas que estar de acuerdo con todos.
