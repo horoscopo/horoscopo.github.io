@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 22 de febrero 2026
-description: Horóscopos del dia de hoy 22 de febrero 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 23 de febrero 2026
+description: Horóscopos del dia de hoy 23 de febrero 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-02-22
+ lastmod: 2026-02-23
 ---
-Junto con un sentido de propósito viene el control cuando la Luna aspecta a Saturno. Conforme la asertividad mejora, también lo harán tu eficiencia y productividad en los próximos cuatro días. Esta noche, cuando los solteros salen a divertirse y conectan con alguien pero se topan con limitaciones o tienen problemas para comprometerse, no hagas suposiciones acerca de los sentimientos - incluso los tuyos propios.
+Esta es tu ventana de oportunidad para comenzar algo nuevo. Nadie opera de manera más eficiente que tú cuando tienes objetivos en mente. Esta noche, enciende velas para el romance y disfruta de la dulzura y el amor bajo el trígono entre Venus en Leo y la Luna en Sagitario.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
