@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: Horoscopo Piscis Febrero 2026
-description: El Horóscopo Febrero de Piscis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Piscis Marzo 2026
+description: El Horóscopo Marzo de Piscis todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/piscis/
 amplink: /horoscopo-mensual/amp/piscis/
 home: FALSE
-keywords: horóscopo febrero, horoscopos en español, horóscopo Piscis febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Piscis, Tarot, Astrologia, Zodíaco, Piscis, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo marzo, horoscopos en español, horóscopo Piscis marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Piscis, Tarot, Astrologia, Zodíaco, Piscis, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/piscis_mes.png#2026-01-26
+ogimg: /images/mes/piscis_mes.png#2026-02-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-01-26'
+ lastmod: '2026-02-28'
 ---
 
 
- > Piscis, vas a tener que confiar mucho en ti durante enero para iniciar el 2026, pues tendrás que tomar decisiones realmente importantes sobre tus grupos y amistades. Deberás manejar la pasión con cautela, pero lo mejor es que crecerás como persona y conectarás con tu visión de futuro.
+ > Piscis, marzo te trae una energía de renovación profunda. No temas a los finales que trae el eclipse, son espacios que se abren para un amor más auténtico. Tu humor y carisma serán tu mejor arma de conquista. El universo te susurra: 'Confía en tu magia, tú eres el flujo y el océano'. ¡Brilla con luz propia!
+Días destacados: 10, 18, 21
+Días desafiantes: 3, 4, 20
 
 
 
-¡Bienvenido al 2026! La Luna Llena en Cáncer del 3 de enero ilumina tu sector de creatividad y romance. Puede importarte mucho expresarte y divertirte. Ponte jovial y más alegre con tus amistades y personas del vecindario. La Luna Nueva en Acuario del día 18 te invita a un momento de introspección y descanso antes de tu temporada. Jugar juegos de fantasía y soñar con el futuro podría ser muy divertido y sanador. El Sol entra a Acuario el 19, activando tu casa 12 del subconsciente. El invierno comienza de la forma más mística. Disfruta de tus momentos de soledad para recargar energías. Termina un proyecto pendiente y siente la victoria de cerrar ciclos para abrir otros nuevos.
-Días destacados: 4, 23, 27
-Días desafiantes: 8, 25
+¡Es tu temporada de magia y revelaciones, dulce Piscis! El Sol y Mercurio transitan por tu signo, dándote el protagonismo absoluto, aunque la retrogradación de Mercurio hasta el 20 de marzo te pide revisar tus planes personales antes de lanzarlos al mundo. El evento clave es el Eclipse Lunar en Virgo el 3 de marzo en tu sector de parejas, trayendo verdades a la luz o cierres necesarios en vínculos importantes. Júpiter, tu regente, arranca directo en Cáncer el día 10, bendiciendo tu creatividad, romances y alegría de vivir. La Luna Nueva en tu signo el 18 es tu momento cósmico para renacer. El 20, con el Equinoccio y Mercurio directo, la energía se mueve hacia la materialización de tus sueños.

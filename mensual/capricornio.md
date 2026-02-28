@@ -1,24 +1,26 @@
 ---
 layout: horoscopos
-title: Horoscopo Capricornio Febrero 2026
-description: El Horóscopo Febrero de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Capricornio Marzo 2026
+description: El Horóscopo Marzo de Capricornio todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/capricornio/
 amplink: /horoscopo-mensual/amp/capricornio/
 home: FALSE
-keywords: horóscopo febrero, horoscopos en español, horóscopo Capricornio febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Capricornio, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo marzo, horoscopos en español, horóscopo Capricornio marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Capricornio, Tarot, Astrologia, Zodíaco, Capricornio, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/capricornio_mes.png#2026-01-26
+ogimg: /images/mes/capricornio_mes.png#2026-02-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-01-26'
+ lastmod: '2026-02-28'
 ---
 
 
- > Capricornio, este mes de enero es tu temporada, prometiendo un viaje emocionante y lleno de enfoque personal para el 2026. En el amor, la Luna Llena en tu signo opuesto traerá claridad a tus relaciones. Mantén una mente abierta y prepárate para celebrar tu nuevo año solar. La sinceridad fortalecerá las conexiones existentes. Por otro lado, la resiliencia y la creatividad serán tus mejores aliadas mientras defines tus metas económicas.
+ > Capricornio, este mes tus posibilidades de éxito radican en tu capacidad de conectar con tus emociones. El eclipse te despertará a nuevas oportunidades; no las dejes pasar por miedo al cambio. Tu magnetismo personal vuelve a brillar a finales de mes. Recuerda: 'Construyo mi futuro sobre la paz de mi presente'.
+Días destacados: 10, 20, 21
+Días desafiantes: 3, 8, 22
 
 
 
-¡Feliz cumpleaños Capricornio! El mes tiene un buen comienzo con el Sol en tu signo, dándote energía y vitalidad. La Luna Llena en Cáncer del 3 de enero ilumina tu sector de pareja y socios, trayendo un momento culminante en una relación importante. Prepárate y no pierdas tu equilibrio emocional. La Luna Nueva en Acuario del 18 de enero podría traer un nuevo comienzo en tus finanzas y recursos. Es el momento ideal para establecer tus metas económicas para el 2026. Siente confianza en relación a tus propios talentos y habilidades para generar abundancia. Tu vida material recibe una inyección de energía y frescura. Conoce el valor de lo que tienes y de lo que eres.
+Bienvenido a un mes de bases sólidas y visión expandida, Capricornio. El Eclipse Lunar en Virgo del 3 de marzo expande tu conciencia y te pide soltar dogmas que limitan tu crecimiento. Tu regente, Saturno, se encuentra con Venus en Aries el día 8, trayendo compromisos serios o definiciones importantes relacionadas con tu hogar y familia. Júpiter directo en Cáncer desde el 10 mejora notablemente tus relaciones y sociedades, trayendo armonía donde hubo tensión. Con el Sol entrando en Aries el 20, tu foco se vuelve hacia la seguridad emocional y tus raíces. Mercurio directo el 20 despeja malentendidos y te permite comunicar tus planes con total claridad.

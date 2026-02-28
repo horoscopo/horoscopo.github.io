@@ -1,18 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Cáncer Febrero 2026 
+title: Horoscopo Cáncer Marzo 2026 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/Cáncer_mes.png#2026-01-26
+ogimg: /images/mes/Cáncer_mes.png#2026-02-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-01-26'
+ lastmod: '2026-02-28'
 ---
 
 
-¡Feliz Año Nuevo! Tu mundo emocional se expande con rapidez el 3 de enero cuando llega la Luna Llena en tu propio signo, Cáncer. Es un momento de culminación personal y gran sensibilidad. Conecta con tus verdaderos deseos para este año. Disfruta de la variedad y también haz tu aporte personal. Durante la Luna Nueva en Acuario del 18 de enero, podrías brillar en temas de finanzas compartidas o intimidad. Tal vez decidas saldar una deuda o comprometerte más profundamente en una relación. El Sol en Capricornio ilumina tu sector de pareja hasta el 19, creando una situación ideal para fortalecer vínculos o encontrar equilibrio con un socio. Sé una persona agradecida por este nuevo comienzo.
+¡Prepárate para una expansión sin precedentes, Cáncer! El Eclipse Lunar en Virgo del 3 de marzo ilumina tus comunicaciones y entorno cercano, trayendo verdades necesarias a la superficie. Con Júpiter arrancando directo en tu signo el 10 de marzo, se abre un portal de abundancia y suerte que has estado esperando. Marte en tu signo te da la energía guerrera para luchar por tus sueños, especialmente el día 21 con su trino a Júpiter. La Luna Nueva en Piscis del 18 es el momento ideal para proyectar viajes o estudios superiores. Al entrar el Sol en Aries el 20, tu carrera se activa; muestra tu liderazgo con la madurez que te caracteriza. Tu intuición será tu mejor brújula este mes.

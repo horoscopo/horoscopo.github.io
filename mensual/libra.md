@@ -1,24 +1,26 @@
 ---
 layout: horoscopos
-title: Horoscopo Libra Febrero 2026
-description: El Horóscopo Febrero de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Libra Marzo 2026
+description: El Horóscopo Marzo de Libra todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/libra/
 amplink: /horoscopo-mensual/amp/libra/
 home: FALSE
-keywords: horóscopo febrero, horoscopos en español, horóscopo Libra febrero , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Libra, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo marzo, horoscopos en español, horóscopo Libra marzo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Libra, Tarot, Astrologia, Zodíaco, Libra, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/libra_mes.png#2026-01-26
+ogimg: /images/mes/libra_mes.png#2026-02-28
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-01-26'
+ lastmod: '2026-02-28'
 ---
 
 
- > Enero será un mes de enfoque en el hogar y la familia para Libra, ideal para reconectar con tu base y redefinir prioridades para el 2026. En el amor, buscarás estabilidad y conexiones sinceras que te aporten paz. El trabajo requerirá creatividad. La salud pedirá descanso profundo tras las fiestas y momentos de silencio para recargar cuerpo y mente.
+ > Libra, este mes la plenitud llega a través de la autenticidad en tus vínculos. No temas decir 'no' para decirte 'sí' a ti misma. Con Venus en Aries, tu pasión se enciende; úsala para defender tus deseos. Recuerda que el equilibrio no es estático, sino un baile constante. ¡Confía en tu madurez!
+Días destacados: 10, 20, 21
+Días desafiantes: 3, 5, 8
 
 
 
-¡Feliz 2026! La Luna Llena en Cáncer del 3 de enero emana su brillo directamente sobre tu sector profesional y de imagen pública. Puede que estés recibiendo reconocimiento o cerrando un ciclo laboral importante. Decide cuánta popularidad es importante para ti, más sele fiel a tu personalidad. Tu situación creativa y romántica se ve impulsada por la Luna Nueva en Acuario del 18 de enero. Es el momento perfecto para iniciar un proyecto artístico o abrir tu corazón a un nuevo romance. No esperar nada y mostrar generosidad te atraerá más. Al final del mes, el Sol en Acuario te llena de vitalidad y ganas de disfrutar la vida.
+Marzo te invita a un balance profundo entre tu mundo interno y tus relaciones, Libra. El Eclipse Lunar en Virgo del 3 de marzo pide una limpieza espiritual y el cierre de capítulos del pasado que aún pesan. Venus, tu regente, entra en Aries el día 3, enfocando tu energía en los vínculos de pareja, pero su encuentro con Saturno el día 8 exige límites claros y honestidad brutal. Júpiter directo en Cáncer desde el 10 impulsa tu éxito profesional y reconocimiento. El Equinoccio del 20 marca el inicio de la temporada Aries, activando tu zona de espejos y sociedades. Es el momento de renegociar acuerdos para que tu libertad personal no se vea comprometida.
