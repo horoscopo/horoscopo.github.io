@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: capricornio 16 de febrero 2026 al 22 de febrero 2026 
-description: Horóscopo semanal capricornio 16 de febrero 2026 al 22 de febrero 2026. No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
+title: capricornio 02 de marzo 2026 al 08 de marzo 2026 
+description: Horóscopo semanal capricornio 02 de marzo 2026 al 08 de marzo 2026. Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2026-02-16
+ogimg: /images/zodiac/semanal_capricornio.png#2026-03-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-02-16'
+ lastmod: '2026-03-02'
 ---
 
 
 
-## No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día.
+## Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
 
-Si has estado esperando algún tipo de avance, esta semana podría iniciar tal proceso. Puede que sea inspiración, alguien que conozcas que te ponga a pensar, o quizás distingas una oportunidad que parezca demasiado buena para ser verdad. Aquello que surja sin duda valdrá la pena ser investigado. Mantente alerta a coincidencias o sincronicidades que parezcan apuntarte hacia una dirección en particular. El cosmos podría estarte pidiendo dar un salto de fe con el fin de ampliar tus horizontes. Se avecinan cosas nuevas capricornio, algo que te va a remover enterito/a de arriba a abajo, pero antes vas a tener que desprenderte emocionalmente de algunas cosas pendientes. Esta semana vas a estar a tope, no vas a parar ni un solo momento, hay mucho por hacer. Pero por otro lado, igual que vas a tener sorpresas positivas, también hay una que quizás no lo sea tanto pero bueno, como ya no esperas nada de nadie ni nada de nada, tampoco será una gran decepción. Te vuelven a buscar capricornio, otra vez sí. Y aunque no puedas verlo, por detrás se están manejando los hilos. Pero tú pasa, es más, mejor que ni lo veas, a ti ya no te importa lo que pertenece al pasado pero sí que te jode que aún se esté dando vueltas a algo cuando debió de quedar todo clarísimo. En fin capricornio, que nadie te robe esta sonrisa esta semana. Trabaja duro, haz las cosas como siempre las haces, a lo grande, bien hechas. Sal con los tuyos y sigue tan positivo como siempre. Y quédate con esas sorpresas que van a darte la vida, que van a alegrarte la existencia, que van a darte chutes de energía bestiales. Esas son las que merecen la pena. El apego emocional se marchará… Primero, porque quieres que se marche…
+Si tienes que comprar artículos para tu hogar, no aceptes la primera oferta que encuentres. Las influencias actuales sugieren que podrías encontrar uno mejor en otro lugar - de hecho, uno que realmente podría satisfacerte. Por otro lado, una tendencia a disfrutar de algunos gustos podría hacer que gastes más en actividades de ocio de lo que es necesario. Sin embargo, si estás invirtiendo tu dinero en efectivo en un proyecto creativo o un romance que florece, puede que sientas que es dinero bien gastado. En la vida estamos acostumbrados a arrepentirnos de muchas cosas que en su día hicimos mal pero que también ahora podemos arreglar, empezando por cambiar nuestra actitud. Si no tiene solución no hay que preocuparse más, es algo con lo que te tocará vivir, para bien o para mal, el resto de tu vida, es algo que no cambiará. Pero lo que aún tiene solución, sea la que sea, ¿por qué no solucionarlo? Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. Aguantarse toda la vida algo dentro no es bueno, hay que sacar lo que uno siente, las discusiones a menudo son buenas, siempre que sean respetando al otro, el hecho de decir qué es lo que cambiarías, qué es lo que te pareció mal, qué es lo que te hubiera gustado decir hace mucho tiempo… Todas esas cosas limpian a uno por dentro, el rencor, la rabia, las ganas de decir y no poder, el poder decir pero después no hacer, todo eso, cuando no se saca fuera se acumula, y ¿por qué no sacarlo ahora? ¿Por qué no decir todas esas palabras que no se dijeron? ¿Por qué no dejar limpia tu alma? Hubo un tiempo en el que te funcionó eso de querer decir tanto y saber que es mejor no decir nada… Pero ahora quizás es el momento de que las cosas cambien capricornio…
 
 ## Dinero
 
-Esta semana tienes la base sobre la cual construir una seguridad adicional. La actividad en tu sector de  deuda hace que sea más fácil pagar las tarjetas y líneas de crédito. Eres capaz de ganar más dinero ahora y asignarlo como mejor te parezca.
+Puede que la forma en la que te comunicas y tus palabras tengan que ser revisadas y se verificadas con exactitud. Las ideas pueden ser maravillosos puntos de partida para futuros proyectos, pero existe la posibilidad de que el mensaje te llegue envuelto en el proceso. Utilizar esta energía creativa para aprender un nuevo idioma (lo que sin duda te ayudará en tu trabajo) o continuar tu educación puede marcar la diferencia.

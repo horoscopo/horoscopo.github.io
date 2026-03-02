@@ -1,27 +1,26 @@
 ---
 layout: horoscopos
-title: cancer 16 de febrero 2026 al 22 de febrero 2026 
-description: Horóscopo semanal cancer 16 de febrero 2026 al 22 de febrero 2026. Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
+title: cancer 02 de marzo 2026 al 08 de marzo 2026 
+description: Horóscopo semanal cancer 02 de marzo 2026 al 08 de marzo 2026. Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2026-02-16
+ogimg: /images/zodiac/semanal_cancer.png#2026-03-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-02-16'
+ lastmod: '2026-03-02'
 ---
 
 
 
-## Es posible que esta semana te encuentres un poco más débil por momentos, pero sabrás recuperarte a base de repetirte quien eres, lo que ya has pasado y lo que deseas conseguir con todas tus fuerzas.
+## Recuerda que viniste a este mundo a dejar huella. Y recuerda también que tu eres el que pisa fuerte y no quien es pisado.
 
-La idea de ir hacia adelante con algo muy importante para ti podría pasar a otro nivel esta semana. Cuando el dinámico Marte se alinea con el poderoso Plutón en los próximos días, y debido a que ambos conectan con el expansivo Júpiter, puede que tu cabeza se llene de pensamientos sobre cómo puedes beneficiarte y que esto intensifique tu deseo. Sin embargo, con tanto en juego, puede que lo mejor sea hacer tu investigación. Cuando el animado Júpiter está retrógrado, es el momento perfecto para hacer una evaluación y buscar los detalles. De hecho, este podría ser el paso más valioso de todos. 
- El encantador Venus en un signo de agua afín para brindarte el factor de atracción y mejorar tu capacidad de conectarte y hacer valiosas amistades. Por último, la luna nueva del martes podría tentarte a darte algunos gustos para tranquilizar cualquier inquieta emoción. Es posible que el ejercicio sea la mejor manera de canalizar esos sentimientos. No significa que te calles ante lo que es injusto (evidentemente es algo imposible para ti) pero sí que no te tomes las cosas tan en serio como siempre, sino dando la importancia que merecen, y la importancia es poca, pues es poca. Sobre todo para ti, para que no pases después malos ratos ni momentos de agobio que no merecen la pena…
+Aunque sea tentador malgastar tu dinero, no es lo que más te conviene hacer. Trata de alinearte con la Luna Llena del martes al comprometerte con un nuevo comienzo. Esta es tu oportunidad para crear un presupuesto que te permita disfrutar de la vida y ahorrar dinero también. Considera la posibilidad de adoptar un préstamo de consolidación de deudas si es que lo necesitas. Más adelante en la semana, puede que sientas motivación a conectar con personas de las que no has escuchado en algún tiempo y sea buen momento para una reunión. Fíate de ti mismo cáncer, de ti mismo y de tus acciones. De nadie más. Las expectativas no funcionan siempre, es más cuantas más expectativas tienes de algo más duro es el golpe después si no se cumplen como tu querías que se cumplieran. Por muy desconfiado y duro que parezcas ser, al final acabas confiando cáncer y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto, has dejado de lado tu personalidad, tu opinión acerca de algo. Eso es lo que duele. Por eso ahora, lo mejor es no dar demasiado. Deja que sea el resto el que te de a ti. Déjate mimar. Deja que los demás te demuestren en vez de ser tú quien siempre demuestre al resto. No siempre tienes que ser tú el que está equivocado, no siempre tienes que ser tu el que vaya detrás del resto, el que tiene que arreglar constantemente todo. Si te sientes más frío ahora no te preocupes, son etapas, también tiene que haber momentos en los que no des todo de ti. Y ese es uno de ellos. Y no es que hayas cambiado, es que has sabido valorarte, has aprendido a no dar el 100% cuando sólo recibes la mitad, o ni siquiera eso. Los demás se hacen fuertes cuando el débil eres tú. Deja de poner en primer lugar los propósitos de los demás y pon los tuyos antes.
 
 ## Dinero
 
-Si has estado buscando maneras de ganar más dinero, es posible que mirar hacia el pasado traiga los mejores resultados esta semana. Esto se debe en parte a tu casa del dinero y valores. Explora antiguos puestos de trabajo, empresarios y habilidades para atraer más dinero en efectivo. Podrías ser capaz de usar tales para conectar con conocidos de una época anterior de tu vida que podrían ayudarte a crear una cartera de inversiones para proteger tu futuro.
+Esta semana te encuentras atrapado/a en el medio. Podrías estar sintiendo como si estuvieras siendo arreado/a (tal vez en contra de tu voluntad) hacia una determinada persona o situación. Tu sector de profesión es el área que necesita más atención ahora. Trabaja en un plan de cinco años para avanzar en tu posición y compensación.

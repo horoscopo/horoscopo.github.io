@@ -1,29 +1,26 @@
 ---
 layout: horoscopos
-title: geminis 16 de febrero 2026 al 22 de febrero 2026 
-description: Horóscopo semanal geminis 16 de febrero 2026 al 22 de febrero 2026. Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
+title: geminis 02 de marzo 2026 al 08 de marzo 2026 
+description: Horóscopo semanal geminis 02 de marzo 2026 al 08 de marzo 2026. Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2026-02-16
+ogimg: /images/zodiac/semanal_geminis.png#2026-03-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-02-16'
+ lastmod: '2026-03-02'
 ---
 
 
 
-## Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
+## Aguantas, tratas de pensar que todo puede cambiar pero no te das cuenta de que si no empiezas por cambiarlo tú nada dará ningún giro.
 
-Esta semana, podría haber momentos en que te resulte difícil estar de acuerdo con un familiar en torno a un asunto de suma importancia. No dejes que esto te afecte. Si usas tu tacto y diplomacia, tal vez puedas sacar lo mejor de una complicada situación. 
-El sol crea una conexión con el afortunado Júpiter el miércoles, lo que podría hacer que este sea un animado y positivo día. Podrías recibir un inesperado obsequio o una pequeña cantidad de dinero, lo que definitivamente mejoraría tu estado de ánimo.
-El mejor día para atender los asuntos familiares podría ser el viernes, cuando una discusión clave podría llevar a una firme decisión. Deberías sentirte mejor luego de resolver esto. 
-Tus amistades o pareja podrían parecer poco fiables el domingo; tal vez cancelen un evento a último momento. Si este es el caso, usa esta oportunidad para hacer algo que en verdad disfrutes. Te hará sentir mucho mejor. Has estado esforzándote mucho por hacer las cosas bien, por tratar de arreglarlo todo, por conseguir tus metas y tus objetivos así que, esta semana te mereces hacer todo lo que hagas por y para ti géminis.
+Si escuchas cualquier chisme a principios de la semana, lo mejor sería adoptar un punto de vista imparcial en lugar de creer lo que oigas o tomar partido. De esa manera puedes mantenerte al margen de cualquier problema. El énfasis cambia cuando tu sector doméstico es puesto bajo enfoque, lo que podría animarte a disfrutar de estar en casa y tal vez tomarte algo de tiempo para recargar baterías. A lo largo del fin de semana, una conversación podría resultar muy productiva y podría ser parte de la razón por la que te sientas tan optimista. A veces las cosas tienen que ser a tu manera o a ninguna géminis, está claro, pero no esta semana. Trata de acercar opiniones con la gente que de verdad te importa. Estos días tienes que experimentar a toda costa. Déjate de tonterías y haz lo que siempre has querido hacer, lleva a cabo tus ideas y tus deseos de una vez, haz cosas que nunca has hecho pero que estás deseando probar, vive una vida de la que nunca tengas nada que lamentar, que nunca te deje con las ganas de nada géminis. En serio, no puedes rebajar tus sueños para adaptarlos a la realidad en la que vives, a las situaciones o a las personas de las que te rodeas. Tus metas son altas y si tienes que cambiar el camino para llegar a tu destino tendrás que cambiarlo pero no te pongas nervioso cuando el resto no entienda tus ambiciones, cuando no comprendan lo lejos que quieres volar. No todo el mundo lo entiende pero no por eso debes quedarte donde estás. No es tarde para hacer las cosas bien, no es tarde para tomar decisiones, no es tarde para cambiar el camino hacia otro lugar. Pero hazlo antes de que sea tarde. Hazlo ahora que estás a tope.
 
 ## Dinero
 
-Tu situación en el hogar y las emociones internas indican un posible cambio para ti ahora mismo. ¿Has estado pensando en la creación de más espacio para ti mismo/a? Un cambio de escenario puede ser justo lo que necesitas para aumentar tu creatividad y obtener que los jugos que fluyan hacia un nuevo trabajo o fuente de ingresos. El truco estará en no irse por la borda con este esfuerzo. Busca un balance entre el gasto y el ahorro.
+Esta semana es acerca de los asuntos de carrera y figuras de autoridad, indicando  ser el tiempo de ponerse en contacto con tu ambición y los objetivos de trabajo. Es como un gran impulso por parte del Universo enviándote  en la dirección correcta. Esto puede significar una mayor responsabilidad y otras reuniones, así que trata de ir con la corriente y aceptar tu nuevo papel. Tu intuición está funcionando a un nivel muy alto ahora. Intégrate con tu forma habitual de hacer negocios para producir los mejores resultados.
