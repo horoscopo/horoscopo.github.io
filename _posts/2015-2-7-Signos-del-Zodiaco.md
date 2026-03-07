@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 06 de marzo 2026
-description: Horóscopos del dia de hoy 06 de marzo 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 07 de marzo 2026
+description: Horóscopos del dia de hoy 07 de marzo 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-03-06
+ lastmod: 2026-03-07
 ---
-Ves miles de cosas a tu alrededor bajo la repentina iluminación del Eclipse Lunar de hoy. A medida que el Sol conjunta a Mercurio, todos se quieren poner a trabajar para producir algo inmediatamente. Tu agenda es lo primero. Esta noche, la Luna en Libra estimula el deseo de compartir y mientras más te acercas a alguien, más sentimientos reprimidos salen a la superficie.
+Hoy, comunícate con confianza mientras la Luna forme trígono con Júpiter. Pero debido a la influencia de Neptuno, visualiza y luego revisa tus palabras si es necesario. Esta noche, algunas personas piensan que argumentar alivia el estrés cuando la Luna aspecta a los tensos Marte y Plutón. Si no tienes pareja, podrías dejarte llevar por tus ciegos instintos en vez de tu destino o algo que realmente hubieras elegido.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
