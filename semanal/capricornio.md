@@ -1,26 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 02 de marzo 2026 al 08 de marzo 2026 
-description: Horóscopo semanal capricornio 02 de marzo 2026 al 08 de marzo 2026. Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+title: capricornio 09 de marzo 2026 al 15 de marzo 2026 
+description: Horóscopo semanal capricornio 09 de marzo 2026 al 15 de marzo 2026. Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2026-03-02
+ogimg: /images/zodiac/semanal_capricornio.png#2026-03-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-03-02'
+ lastmod: '2026-03-09'
 ---
 
 
 
-## Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+## Perder nunca te ha gustado y romper o dejar atrás a cosas o a personas al fin y al cabo es perder para ti, no salió bien y es una decepción. Pero no, a veces también es ganar…
 
-Si tienes que comprar artículos para tu hogar, no aceptes la primera oferta que encuentres. Las influencias actuales sugieren que podrías encontrar uno mejor en otro lugar - de hecho, uno que realmente podría satisfacerte. Por otro lado, una tendencia a disfrutar de algunos gustos podría hacer que gastes más en actividades de ocio de lo que es necesario. Sin embargo, si estás invirtiendo tu dinero en efectivo en un proyecto creativo o un romance que florece, puede que sientas que es dinero bien gastado. En la vida estamos acostumbrados a arrepentirnos de muchas cosas que en su día hicimos mal pero que también ahora podemos arreglar, empezando por cambiar nuestra actitud. Si no tiene solución no hay que preocuparse más, es algo con lo que te tocará vivir, para bien o para mal, el resto de tu vida, es algo que no cambiará. Pero lo que aún tiene solución, sea la que sea, ¿por qué no solucionarlo? Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. Aguantarse toda la vida algo dentro no es bueno, hay que sacar lo que uno siente, las discusiones a menudo son buenas, siempre que sean respetando al otro, el hecho de decir qué es lo que cambiarías, qué es lo que te pareció mal, qué es lo que te hubiera gustado decir hace mucho tiempo… Todas esas cosas limpian a uno por dentro, el rencor, la rabia, las ganas de decir y no poder, el poder decir pero después no hacer, todo eso, cuando no se saca fuera se acumula, y ¿por qué no sacarlo ahora? ¿Por qué no decir todas esas palabras que no se dijeron? ¿Por qué no dejar limpia tu alma? Hubo un tiempo en el que te funcionó eso de querer decir tanto y saber que es mejor no decir nada… Pero ahora quizás es el momento de que las cosas cambien capricornio…
+El lunes, una encantadora mezcla de energías podría encontrarte llevándote muy bien con los demás. Esto podría hacer que cierres un acuerdo, hagas nuevas amistades o te ofrezcan una fabulosa oportunidad. Sin embargo, sería útil no perder la concentración. Con el soñador Neptuno involucrado, los malentendidos son una posibilidad. Puede que los asuntos monetarios necesiten especial atención este fin de semana, particularmente en lo que respecta a desacuerdos sobre cómo debería gastarse el dinero. La energía del sábado te anima a salir e implementar un nuevo plan. A veces, dar estos pasos solos nos hacen mucho más fuertes en la vida… Además 
+ nada es para siempre, ni siquiera los problemas ni las preocupaciones…
 
 ## Dinero
 
-Puede que la forma en la que te comunicas y tus palabras tengan que ser revisadas y se verificadas con exactitud. Las ideas pueden ser maravillosos puntos de partida para futuros proyectos, pero existe la posibilidad de que el mensaje te llegue envuelto en el proceso. Utilizar esta energía creativa para aprender un nuevo idioma (lo que sin duda te ayudará en tu trabajo) o continuar tu educación puede marcar la diferencia.
+Te enfrentas a un momento emocionante ahora. Con tantas oportunidades adicionales de ganar dinero y aumentar tu salario, puede ser tentador gastar más también. Tu sector de empleo es la clave. ¿Por qué no aprovechar las ventajas de un programa de ahorro que se te ofrezca a través del trabajo? En algunos casos, tu compañía igualará la misma cantidad que decidas ahorrar. No está mal.
