@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 08 de marzo 2026
-description: Horóscopos del dia de hoy 08 de marzo 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 09 de marzo 2026
+description: Horóscopos del dia de hoy 09 de marzo 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-03-08
+ lastmod: 2026-03-09
 ---
-Hoy, Mercurio y Marte se sumergen en las profundas aguas emocionales de Plutón. Esta conexión requiere de compensación de presión para superar la fiebre de impaciencia. Esta noche, los pensamientos están influenciados por los sentimientos. La Luna Nueva en Cáncer cierra temporalmente la comunicación abierta. Pero teniendo en cuenta la influencia de Plutón anteriormente mencionada, puede que sea algo bueno.
+Escucha a tus corazonadas esta mañana. El trígono entre la Luna y Neptuno desencadena una gran intuición. De la misma manera - la suerte está contigo esta tarde cuando la Luna forma un oportuno aspecto con Júpiter. Sin embargo, esta noche, la gente promete más de lo que posiblemente puede cumplir mientras la Luna se opone a Plutón.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
