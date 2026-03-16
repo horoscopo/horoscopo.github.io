@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: leo 09 de marzo 2026 al 15 de marzo 2026 
-description: Horóscopo semanal leo 09 de marzo 2026 al 15 de marzo 2026. Hay cosas que no quieres que ocurran pero que debes aceptar leo, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
+title: leo 16 de marzo 2026 al 22 de marzo 2026 
+description: Horóscopo semanal leo 16 de marzo 2026 al 22 de marzo 2026. En serio leo, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2026-03-09
+ogimg: /images/zodiac/semanal_leo.png#2026-03-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-03-09'
+ lastmod: '2026-03-16'
 ---
 
 
 
-## Hay cosas que no quieres que ocurran pero que debes aceptar leo, cosas de las que no te gustaría enterarte pero que debes saber, y algunas personas de las que crees que no puedes desprenderte pero que tienes que dejar ir.
+## En serio leo, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
 
-Las cosas se vislumbran optimistas en tu sector de relaciones a principios de la semana con la Luna en cuarto menguante allanando el camino para un nuevo comienzo. Esta podría ser tu oportunidad para llevar un negocio o relación romántica al siguiente nivel o formar una asociación o colaboración. Al mismo tiempo, tu vida social brilla con Marte en tu sector de la transformación desde el martes. Por otro lado, las cuestiones financieras y empresariales pueden progresar más fácilmente si empleas un poco de tacto. No te precipites a nada este fin de semana. No te conformes con poco leo, no te conformes con cualquier cosa, con cualquier trabajo, con cualquier amor… Estás aquí para hacer las cosas a lo grande, para sentir fuerte, profundo, para lograr esas metas que llevas teniendo en tu mente desde hace tanto… En serio, ponte las pilas, dale caña, echa las horas que tengas que echar pero ve a por todas, en cualquier sentido en tu vida… Nunca hay un momento perfecto para empezar, siempre hay algo que pasa y que descoloca todo, una u otra cosa, pero tienes que aprender a pasar de toda esa basura, tienes que aprender a tener autocontrol y a entender que el mundo sigue girando pase lo que pase y el tiempo también sigue corriendo… Y no hay tiempo que perder. Lo que no puedas retener en tu vida deja que se marche leo, abre las puertas y ciao. No tienes que mantener nada, no tienes que obligar a quien quiere irse. Esta semana vas a tener varios momentos así, varios momentos en los que no sabrás si debes luchar o si debes permanecer quieto… Lucha si merece la pena pero no ruegues, no vayas detrás de nadie, lucha por lo que es tuyo sí, pero no entres en el juego cuando traten de manipularte. Tienes cosas muy importantes por hacer, mucho más importantes que estar esperando a alguien o que estar dándole vueltas a la cabeza a algo que sólo te roba tiempo ahora.
+Tus instintos pueden motivarte para que tomes las decisiones correctas. Con un posible choque entre lo que sientes y lo que piensas al comienzo de la semana, puede que sientas que tienes dos caminos distintos frente a ti. Súmale un revuelo de emociones causado por la Luna Nueva y podría parecerte casi imposible saber cuáles serán tus próximos pasos. Si esperas a que todo se calme y se tranquilice, podrías llegar a escuchar la voz de tu intuición de manera fuerte y clara. Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate. Los pensamientos negativos son como la mierda leo, que atraerán más mierda, y antes de que te des cuenta tendrás la mente infectada, de verdad. Empezarás a ver problemas en vez de soluciones, te meterás en un círculo vicioso en el que YA has estado. No puedes permitirlo otra vez. No luches contra cosas o personas, simplemente esquívalas, a veces, aunque intentes hacer que entren en razón es imposible, y el que acaba sufriendo irremediablemente eres tú. No debes permitirte el lujo de tener ningún pensamiento negativo ahora, de verdad, ya has pasado demasiado, sólo céntrate en esquivar lo que te dañe, pero en esquivarlo de verdad. O sea, si de verdad decides que no es lo que quieres, corta por lo sano cuanto antes, y no mires atrás ni por el retrovisor del coche. Lidera tu interior y serás el líder de tu entorno. Lo único que ahora puede frenarte son tus pensamientos, trabájalos, distráete, y rodéate de todo lo bueno que tienes aunque a veces te cueste poner punto y final a lo malo. Tus metas ahora son lo más importante y sólo se consiguen cuando uno realmente no tiene nada que le estorba en su camino.
 
 ## Dinero
 
-Es una semana ideal para pensar en iniciar un nuevo negocio. Tu trabajo está cambiando, al igual que tu imagen de dinero. El ir con la corriente significa que debes aceptar lo que está sucediendo ahora en lugar de tratar de resistirte a ello. Tus relaciones no sólo son importantes sino también un sueño perfecto para este momento de tu vida.
+Esta semana se trata de las configuraciones celestes creando mucha tensión para ti. Se inicia en tu sector de expresión personal y autoestima, lo que indica la necesidad de abordar la forma en la que uno se proyecte al mundo. Puedes ser quien quieras ser ahora.

@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 09 de marzo 2026 al 15 de marzo 2026 
-description: Horóscopo semanal escorpio 09 de marzo 2026 al 15 de marzo 2026. Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
+title: escorpio 16 de marzo 2026 al 22 de marzo 2026 
+description: Horóscopo semanal escorpio 16 de marzo 2026 al 22 de marzo 2026. Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2026-03-09
+ogimg: /images/zodiac/semanal_escorpio.png#2026-03-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-03-09'
+ lastmod: '2026-03-16'
 ---
 
 
 
-## Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
+## Viene una época en que lo mejor es dejar las cosas como están y dejar quererte por los demás… Los necesitarás, por muy fuerte que creas que puedes llegar a ser…
 
-Las oportunidades románticas se abren con Marte en Piscis animándote a volver al juego de las citas. Sin embargo, es posible que tengas competencia, así que trata de evitar mostrar tus celos. Alguien podría tener el ojo puesto en la misma persona que tú - ¡o incluso en ti! Si detectas vibras nerviosas, lo mejor sería dar marcha atrás y dejar pasar esta semana antes de hacer otro intento. Mientras tanto, el movimiento de Venus a Aries alude a la posibilidad de una cita amorosa con un colega o alguien que conozcas en tu gimnasio. Está bien que luches por lo que quieres pero a veces te pasa que por lo único que luchas es por no perder lo que tienes. Y eso es muy distinto. 
- A veces nada es mucho mejor que algo, a veces nada es mejor que todo y sobretodo que “eso” que tampoco es que vaya genial o que merezca muchísimo la pena.
+El Sol ocupando tu signo te otorga una mayor vitalidad y energía. Aun así, a menos que sientas mucho interés o pasión por algo, puede que te resulte difícil ponerlo en marcha. Esta semana, trabaja en esos proyectos e ideas que significan mucho para ti. Esto no quiere decir que debas olvidarte de tus responsabilidades, debes de hacer todo lo posible por cumplirlas. Pero cuando tengas tiempo, trabajar en tus proyectos favoritos puede ser profundamente gratificante, no sólo ahora sino también en el futuro. Es algo muchas veces inconsciente. Es algo que quizás tu cuerpo quiere esconder porque en el fondo, te encanta parecer que eres una persona fuerte y sí, incluso poco demostrativa, pero sabes que en realidad no es tan así. 
+ que quizás te hagan tener un futuro mucho mejor y más satisfactorio.
 
 ## Dinero
 
-Para ti, esta semana se trata de tomar ventaja de las oportunidades que se te acerquen. Todo lo que escribes y dices es más magnético de lo habitual. Tienes la capacidad de encantar como si fueras un ángel caído del cielo. Mientras tanto, un afortunado aspecto afecta al sector de tu carta que rige las relaciones. Estás conociendo a muchas personas que en realidad quieren ayudarte a avanzar y llegar a un mejor puesto. El expresar tu gratitud podría convertirse en un trabajo de tiempo completo.
+Tus pensamientos e ideas pueden tornarse a la familia y la diversión por ahora, pero el Universo te está empujando a pensar en instituciones grandes como una forma de ganar dinero. Si tu dinero está en un banco pequeño o local, puede ser momento de darles a los bancos grandes una oportunidad. Mejores tarifas y opciones de ahorro significan más dinero para ti y tu clan.
