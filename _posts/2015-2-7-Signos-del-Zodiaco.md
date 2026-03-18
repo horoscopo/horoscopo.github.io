@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 17 de marzo 2026
-description: Horóscopos del dia de hoy 17 de marzo 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 18 de marzo 2026
+description: Horóscopos del dia de hoy 18 de marzo 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-03-17
+ lastmod: 2026-03-18
 ---
-Cada vez que nos enfrentamos a un problema y lo resolvemos crecemos como persona. Hoy es un buen día para poner a prueba esa teoría. Esta noche, las inquietas vibras estimulan la expectativa de que surgirá una (o incluso más) sorpresas cuando la Luna aspecta a Mercurio, Urano y Plutón.
+Espera lo inesperado cuando la Luna, Venus y Urano aceleren y combinen sorprendentes - y posiblemente suertudos - eventos. La gente podría haber parecido perder la sutileza al tener brutal honestidad bajo la Luna en Sagitario de esta noche. A veces, el tacto es la mejor política. Solteros, las citas casuales dejan mucho qué decir.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
