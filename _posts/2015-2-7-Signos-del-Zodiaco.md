@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 20 de marzo 2026
-description: Horóscopos del dia de hoy 20 de marzo 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 21 de marzo 2026
+description: Horóscopos del dia de hoy 21 de marzo 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-03-20
+ lastmod: 2026-03-21
 ---
-Expresa lo que estás sintiendo y haz lo que quieres hacer con intensidad de propósito cuando el Sol forma sextil con Marte y te dé una transfusión de valor el día de hoy. Los corazones bailan felizmente cuando la Luna en Sagitario forma sextil con Venus en Acuario. El deseo de los solteros de amor podría ser reemplazado por enamoramiento real.   
+Es un poco más fácil impresionar a otros con tu experiencia ahora que Marte está en Capricornio. Seguro que no puedes esperar a empezar a cosechar las recompensas de varias semanas de trabajo. El romance es una apuesta segura cuando la Luna en Virgo forma trígono con Marte esta noche. Parejas, saboreen los momentos tranquilos que pasan juntos.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
