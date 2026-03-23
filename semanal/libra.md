@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: libra 16 de marzo 2026 al 22 de marzo 2026 
-description: Horóscopo semanal libra 16 de marzo 2026 al 22 de marzo 2026. Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
+title: libra 23 de marzo 2026 al 29 de marzo 2026 
+description: Horóscopo semanal libra 23 de marzo 2026 al 29 de marzo 2026. No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2026-03-16
+ogimg: /images/zodiac/semanal_libra.png#2026-03-23
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-03-16'
+ lastmod: '2026-03-23'
 ---
 
 
 
-## Controla el estrés, no tener claro el camino tampoco es malo, lo importante es saber cual es el fin de las cosas, el recorrido que tomes para lograrlo no importa, la vida te pondrá los medios, tú, aprovéchalos.
+## No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
 
-Tu curiosidad es despertada, tentándote a considerar salir a citas si es que has estado fuera de la escena amorosa por un tiempo. Estás en tu elemento esta semana y tienes ganas de disfrutar de los placeres de la vida. Aun así, es posible que desees aligerar tu horario alrededor de la época de la Luna Nueva en Piscis. Con tus sentimientos pudiendo ser profundos, te serviría quitar el pie del acelerador e ir con la corriente. Más tarde, tus oportunidades sociales se ven especialmente alentadoras, con la posibilidad de un encantador encuentro. No puedes poner piezas en lugares que no corresponden libra, no puedes forzar situaciones ni tratar de encajar algo cuando es imposible que encaje. Todo tiene un por qué, una razón, un lugar y un momento y pasará en el momento que tenga que pasar. Olvida un poco todo libra, no des tanta importancia a cosas que no la tienen y ya verás como todo se vuelve a colocar en su lugar. No siempre será el lugar que tú esperes pero sí que será en el que deba. Es triste pero cuando más ignoras, más detrás de ti parecen estar y cuando más cuidas y más proteges más se alejan. Pues eso libra, ignora un poco. Quizás más de uno debería despertar y entender que no estarás siempre ahí. Mantente siempre fuerte libra, siempre sonriendo, siempre adelante, a pesar de que haya gente que quiera joderte la vida. Y desconfía hasta que las cosas no se demuestren con hechos, desconfía hasta que de verdad se partan el lomo por demostrártelo. Dentro de muy poco comprenderás quién merece la pena y quien no, pero debes darte un tiempo, y empezar a centrarte en ti mismo. No desperdicies el tiempo en cosas que no te dejan nada de provecho libra, porque no merece la pena, y los pensamientos malos… ¡fuera! Tienes un buen escudo protector que puedes utilizar contra quienes quieran hacerte daño pero lo mejor de todo ahora, es ni siquiera meterte ahí, simplemente dejar que el resto pelee si quieren tenerte cerca, si no, ¡a la mierda!
+Tu sector de romance y creatividad podría ser especialmente intenso en este momento y permanecer así durante algún tiempo. Podrías descubrir que estás poniendo mucha energía en las actividades de esta área. Otros aspectos de tu carta te animan a liberar cualquier cosa que dificulte tu vida. Este es el caso, en particular, del fase lunar del jueves. Deshacerte de lo que ya no te sirve puede darte la energía que necesitas para abordar esos significativos planes. Hay cosas que no deben hacer daño libra, pero te hieren, hay cosas que deberían curarte pero te enferman. Algo no va bien del todo, y lo sabes. Cualquier persona que te lastime a propósito no te quiere, cualquier situación en la que no te encuentres bien y te de más quebraderos de cabeza que otra cosa no te conviene. Hay mucho en la vida que perseguir, muchísimos sueños, muchísimas metas… No puedes olvidarte de ti mismo libra, ahora no. Esta semana tienes que tomar un decisión muy importante que probablemente cambie todo el rumbo de tu vida, está semana quizás elijas un futuro muy distinto al que creías y tienes que estar preparado para aceptarlo. Lo nuevo no es malo libra, lo nuevo quizás de un poco de miedo pero cuando lo que tienes no te llena al 100% hay que probar, hay que arriesgar para ganar. No puedes tener claras tantas cosas para que a la mínima de cambio te hagan un lavado de cerebro y acabes por tirar a la basura todas esas ideas tan válidas. No puedes estar de bajón cuando tú eres el primero que no busca estar en ese estado, cuando tú eres quien da todo lo que haga falta por hacer las cosas bien. Semana intensa libra, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
 
 ## Dinero
 
-Ha pasado algo de tiempo desde que sentiste que se te paga lo que vales, pero eso puede cambiar pronto. Tú eres la estrella actual en tu trabajo, mostrando tus talentos y habilidades al máximo. Otros pueden ver en ti lo que quieren ver, casi como si fueras una pantalla de proyección de tamaño natural. Tienes todo el poder para pedir más dinero o construir un buen caso para tu eventual promoción.
+Tu mente podría verse llena de ideas, pensamientos y palabras acerca de la libertad y su significado. Pero antes de escribirle a tu jefe esa carta de renuncia, considera las formas en la que puedes esforzarte para añadir belleza y creatividad a tu lugar de trabajo. El hacer sugerencias positivas puede dar resultados sorprendentes y ponerte a cargo de un nuevo y  emocionante proyecto. Esto no sólo puede traer más dinero, sino también mejorar tu confianza.

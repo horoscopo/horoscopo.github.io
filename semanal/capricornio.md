@@ -1,26 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 16 de marzo 2026 al 22 de marzo 2026 
-description: Horóscopo semanal capricornio 16 de marzo 2026 al 22 de marzo 2026. Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar capricornio.
+title: capricornio 23 de marzo 2026 al 29 de marzo 2026 
+description: Horóscopo semanal capricornio 23 de marzo 2026 al 29 de marzo 2026. No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2026-03-16
+ogimg: /images/zodiac/semanal_capricornio.png#2026-03-23
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-03-16'
+ lastmod: '2026-03-23'
 ---
 
 
 
-## Ya no te crees ni una palabra, sólo quieres hechos, todo suena bien sí, pero ya no te dejas engañar. Ya no quieres hablar porque no quieres desperdiciar tiempo. Has construido una pared que nadie puede atravesar capricornio.
+## No te canses de intentar todo con esa fuerza, no eres como el resto, pero también necesitas un descanso mental. Ese sentimiento de vacío por dentro que te invade a menudo tiene las horas contadas…
 
-Puede que un encuentro esta semana cambie tu vida de manera inesperada. Es posible que esta persona tenga intenciones románticas contigo, o puede que simplemente termines encontrándote a alguien mientras te encargas de tus quehaceres diarios. Pero no hay dudas de que esta persona podría tener un fuerte impacto en ti, especialmente por sus ideas o su visión de la vida. Puede que tal persona cambie tu manera de ver las cosas, tanto que quizá te motive a ser valiente y enfrentarte a un desafío que te hará muy bien. Tienes que esforzarte capricornio, esforzarte para no cagarla de nuevo. Tienes que esforzarte para no enviar mensajes cuando te dan esos impulsos y arrebatos en los que no te controlas, tienes que esforzarte en no perder los papeles cuando algo no sale, tienes que esforzarte en tratar de vivir en el momento y en pasar de malos rollos. Ya está bien capricornio, hazte valer de una vez. Siempre te tratan de buenas persona, que lo eres sí, pero de ahí a que se aprovechen… No. Esta semana hay un gran cambio que llevas esperando mucho tiempo, céntrate en ello, es muy importante que mantengas tu cabecita ahí y que lo externo te deje de afectar. Y que el resto se gane estar a tu lado si realmente quiere, que las palabras se las lleva el viento y a ti, otra cosa no, pero hay mucha fila detrás que quiere engancharte… Nada tiene que ser ahora suficiente para ti capricornio, endurécete un poquito con tu entorno, de qué te sirven que digan que te valoran si después no hacen nada al respecto. Pues de eso, de nada. El esfuerzo no es hacer promesas, es cumplir promesas, así que, que se lo trabajen. Si de verdad se preocupan por ti, no dejarán que la vida se interponga en el camino, no importará lo ocupadísimos que estén, el tiempo para las cosas que importan se saca. Así que, esta vez, estate tranquilo capricornio, sin remordimiento de ningún tipo, y espera a que el resto te busque…
+Una conexión entre el fogoso Marte y el precavido Saturno en tu sector del hogar podría inspirarte a organizarte al comienzo de la semana. Si tu sector de hogar y la familia no han estado tan bien como te gustaría, podrías sentir el impulso de resolver el problema. Dividirlo en partes más pequeñas puede ser una forma sencilla de abordar la cuestión y, al mismo tiempo, te permite hacer otras cosas. Si puedes delegar algunas tareas, hazlo. 
+Podría haber un conflicto con una pareja, un familiar o incluso una amistad que tiene ansias por pasar un tiempo contigo. Puede que debas llegar a un compromiso en este aspecto. Por otro lado, debido a que Mercurio está ahora directo en tu sector de las comunicaciones, podría haber una reunión o celebración. Si estás pensando en organizarla en tu casa, esta sería otra razón para ordenar todo. Si te decides a hacerlo, el evento puede ser muy exitoso. No puedes ser sumiso capricornio, al final, tus necesidades siempre acaban saliendo a la luz porque no puedes limitarte ni encasillarte con nada. No puedes pasarte la vida sabiendo qué es lo que debes hacer pero sin hacerlo, no puedes pasarte la vida queriendo hacer algo y que al final ese algo sólo se quede en tu cabeza, en tus pensamientos. Tienes que romper con eso. Esta semana céntrate en cumplir cada una de tus metas, trata de hacer lo que te pida el cuerpo sin necesidad de quejarte, piensa en qué es lo que está en tu mano, en qué es lo que tú puedes hacer, y hazlo. No hagas de tu tiempo tiempo perdido, con nada, con nadie… Si no vas a por todo, mejor no vayas. Es uno de tus lemas, pero a veces te olvidas de aplicártelo a ti, y sí, empiezas algo y por unas cosas u otras, no lo acabas. Piensa que así es como te frustras y piensa que es el motivo por el cual te pones de muy mala hostia un día sí y otro también. Eres un signo de tierra, y si no haces lo que piensas al final te acabas decepcionando a ti mismo, y mucho, porque no eres feliz del todo y lo peor de eso es que sabes cómo ser feliz pero no lo llevas a cabo. No te compliques y al lío capricornio. Ponte en marcha de una vez esta semana, y no pienses en lo que perdiste o en lo que ganaste, piensa en lo que llegará si de verdad te pones las pilas.
 
 ## Dinero
 
-Puede que tenga que haber algunos gastos relacionados con tu hogar esta semana. Podrías necesitar hacer algunos ajustes a tu presupuesto a medida que descubres que las reparaciones cuestan más o que alguien ha hecho una oferta más alta en una propiedad de inversión que la que tú hiciste. En lugar de abrumarte o enojarte, recuerda que un aspecto armonioso te ayudará a pagar las deudas existentes, aclarar cualquier cabo suelto en tu vida financiera y a sentirte más a gusto.
+Esta semana tienes una situación única en tus manos con respecto a tu deuda y el dinero de otras personas. Aunque parte de ti quiere progresar en el frente de pago de deuda, otra parte puede contenerte de hacer mucho. Una cosa es segura – tener una actitud proactiva y la aceptación de todas tus responsabilidades te obtendrá los mejores resultados a largo plazo.

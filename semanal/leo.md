@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: leo 16 de marzo 2026 al 22 de marzo 2026 
-description: Horóscopo semanal leo 16 de marzo 2026 al 22 de marzo 2026. En serio leo, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
+title: leo 23 de marzo 2026 al 29 de marzo 2026 
+description: Horóscopo semanal leo 23 de marzo 2026 al 29 de marzo 2026. Semana intensa leo, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2026-03-16
+ogimg: /images/zodiac/semanal_leo.png#2026-03-23
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-03-16'
+ lastmod: '2026-03-23'
 ---
 
 
 
-## En serio leo, deberías felicitarte por tantas desgracias de mierda de las que has salido, por cómo has sabido sobrevivir. Y mírate, aquí estás, ¿qué necesidad tienes de depender de algo?
+## Semana intensa leo, semana en la que no puedes perder la cabeza, por tu bien, por tu futuro…
 
-Tus instintos pueden motivarte para que tomes las decisiones correctas. Con un posible choque entre lo que sientes y lo que piensas al comienzo de la semana, puede que sientas que tienes dos caminos distintos frente a ti. Súmale un revuelo de emociones causado por la Luna Nueva y podría parecerte casi imposible saber cuáles serán tus próximos pasos. Si esperas a que todo se calme y se tranquilice, podrías llegar a escuchar la voz de tu intuición de manera fuerte y clara. Piensas demasiado. Y está bien, de verdad, pero a veces, y lo sabes, por dar muchas vueltas empiezas a crear problemas que ni siquiera estaban. Relájate. Los pensamientos negativos son como la mierda leo, que atraerán más mierda, y antes de que te des cuenta tendrás la mente infectada, de verdad. Empezarás a ver problemas en vez de soluciones, te meterás en un círculo vicioso en el que YA has estado. No puedes permitirlo otra vez. No luches contra cosas o personas, simplemente esquívalas, a veces, aunque intentes hacer que entren en razón es imposible, y el que acaba sufriendo irremediablemente eres tú. No debes permitirte el lujo de tener ningún pensamiento negativo ahora, de verdad, ya has pasado demasiado, sólo céntrate en esquivar lo que te dañe, pero en esquivarlo de verdad. O sea, si de verdad decides que no es lo que quieres, corta por lo sano cuanto antes, y no mires atrás ni por el retrovisor del coche. Lidera tu interior y serás el líder de tu entorno. Lo único que ahora puede frenarte son tus pensamientos, trabájalos, distráete, y rodéate de todo lo bueno que tienes aunque a veces te cueste poner punto y final a lo malo. Tus metas ahora son lo más importante y sólo se consiguen cuando uno realmente no tiene nada que le estorba en su camino.
+El Sol en Aries indica que tomarte tiempo para resolver problemas emocionales y liberar cualquier carga emocional podría serte muy útil. Aprovecha esta oportunidad para sumergirte profundamente y descubrir dónde realmente reside el problema. De esta manera saldrás de ello con más energía y alegría de vivir. Mantente alerta a conflictos que pudieran surgir el viernes. Evita expresarte demasiado contundentemente, ya que puede que llegues a lamentar tu actitud más tarde. Aun así, puede que se te haga difícil contenerte una vez que Marte continúa en Piscis el sábado. No te arrepientas de abrirte leo, no te arrepientas de haber dado mucho, o de haber dado poco. En serio, no te arrepientas. Eres como eres, y aunque últimamente te hayas llevado más disgustos que otra cosa mira, no puedes cambiar. Cada momento en el que decides ser real y sensible, o emocional con alguien, estás siendo tú mismo de verdad, estás ganando al fin y al cabo, ganando experiencia, fortaleza, ganando pasión, corazón, bondad, estás siendo tú mismo aprendiendo a quererte tal cual, sin miedo a lo que pueda pasar. Y eso nunca puede ser un error. Esta semana tendrás momentos más débiles leo, momentos en los que quizás te sientas incluso un poco mal, y ni siquiera sepas por qué, momentos en los que estalles por cualquier estupidez, estupideces sin mucha lógica ya pero al fin y al cabo que aún te afectan aunque no quieras. No importa lo perdido que puedas estar, va a pasar leo, no importa lo que esté pasando por tu vida y por tu corazón ahora, vas a sobrevivir ¿ok? Esta semana quizás sea un poco dura pero te servirá para abrir los ojos leo, para darte cuenta de que, o te mueves o caducas. Lo mejor que podrás hacer ahora será cortar con la mierda. Querer ser feliz pero estar rodeado de gentuza no ayuda así que, mándalo todo bien lejos, y proponte metas de nuevo, y no desistas porque no salgan a la primera. Necesitas un poco de motivación extra.
 
 ## Dinero
 
-Esta semana se trata de las configuraciones celestes creando mucha tensión para ti. Se inicia en tu sector de expresión personal y autoestima, lo que indica la necesidad de abordar la forma en la que uno se proyecte al mundo. Puedes ser quien quieras ser ahora.
+Le estás dando nueva vida a algo por lo que perdiste interés hace mucho tiempo, gran parte de tu energía se está moviendo en esta dirección. De hecho, puedes hasta disfrutar de un golpe de suerte que lo haga suceder esta vez y de verdad. Asegúrate de que tu flujo de efectivo se mantenga estable al gastarlo proporcionalmente. Podrías estar viendo tu situación financiera a través de lentes de color de rosa.
