@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Leo Marzo 2026 
+title: Horoscopo Leo Abril 2026 
 permalink: /horoscopo-mensual/amp/leo/
 normallink: /horoscopo-mensual/leo/
 home: FALSE
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Leo_mes.png#2026-02-28
+ogimg: /images/mes/Leo_mes.png#2026-03-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-02-28'
+ lastmod: '2026-03-26'
 ---
 
 

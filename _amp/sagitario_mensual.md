@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Sagitario Marzo 2026 
+title: Horoscopo Sagitario Abril 2026 
 permalink: /horoscopo-mensual/amp/sagitario/
 normallink: /horoscopo-mensual/sagitario/
 home: FALSE
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Sagitario_mes.png#2026-02-28
+ogimg: /images/mes/Sagitario_mes.png#2026-03-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-02-28'
+ lastmod: '2026-03-26'
 ---
 
 

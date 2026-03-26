@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Escorpio Marzo 2026 
+title: Horoscopo Escorpio Abril 2026 
 permalink: /horoscopo-mensual/amp/escorpio/
 normallink: /horoscopo-mensual/escorpio/
 home: FALSE
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Escorpio_mes.png#2026-02-28
+ogimg: /images/mes/Escorpio_mes.png#2026-03-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-02-28'
+ lastmod: '2026-03-26'
 ---
 
 

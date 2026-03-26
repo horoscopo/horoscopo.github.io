@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Acuario Marzo 2026 
+title: Horoscopo Acuario Abril 2026 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Acuario_mes.png#2026-02-28
+ogimg: /images/mes/Acuario_mes.png#2026-03-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-02-28'
+ lastmod: '2026-03-26'
 ---
 
 

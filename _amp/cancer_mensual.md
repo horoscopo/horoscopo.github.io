@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Cáncer Marzo 2026 
+title: Horoscopo Cáncer Abril 2026 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/Cáncer_mes.png#2026-02-28
+ogimg: /images/mes/Cáncer_mes.png#2026-03-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-02-28'
+ lastmod: '2026-03-26'
 ---
 
 
