@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 27 de marzo 2026
-description: Horóscopos del dia de hoy 27 de marzo 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 28 de marzo 2026
+description: Horóscopos del dia de hoy 28 de marzo 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-03-27
+ lastmod: 2026-03-28
 ---
-La cuadratura Sol-Plutón recomienda desechar lo no esencial durante los próximos cuatro días. Visualiza proyectos antes de intentarlos bajo el actual aspecto entre Mercurio y Saturno. Esta noche, extrañas sensaciones son reveladas cuando Marte se opone a Neptuno. Ciertos eventos parecen ser una coincidencia, pero no lo son. Solteros, los fuegos artificiales iniciales podrían terminar en un fiasco.  
+Todo puede ser ordenado y comprensible el día de hoy. Y tú puedes ser perfección pura bajo la Luna en Virgo. Hay una gran cantidad de emociones expresadas cuando la Luna se opone a Neptuno esta noche. Lástima que nadie entienda lo que realmente las motiva. Para los solteros, no es una buena noche para comenzar un romance.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
