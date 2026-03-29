@@ -7,12 +7,15 @@ home: FALSE
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/mes/Tauro_mes.png#2026-03-26
+ogimg: /images/mes/Tauro_mes.png#2026-03-29
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-03-26'
+ lastmod: '2026-03-29'
 ---
 
 
-Tu vida social y tus sueños más profundos estarán bajo la lupa este mes, querido Tauro. Mientras el Sol transita por Piscis, la retrogradación de Mercurio en este mismo signo hasta el 20 de marzo te pide revisar tus conexiones y evitar malentendidos con amigos. Tu regente, Venus, entra en Aries el día 3, invitándote a una fase de introspección y sanación privada. El Eclipse Lunar en Virgo del 3 de marzo marca un momento culminante en tu creatividad o romance; es tiempo de ser honesto con lo que dicta tu corazón. Júpiter arranca directo en Cáncer el día 10, facilitando tus comunicaciones y proyectos locales. Cuando el Sol entre en Aries el 20, sentirás la necesidad de recargar energías para tu próxima renovación.
+Júpiter forma una cuadratura con el sol el 5 de abril, y puede que tengas algunas dudas de más. Simplemente habla con honestidad y siéntete bien sobre cómo las cosas están saliendo. Disfruta de tus personas preferidas y placeres locales durante la luna nueva del día 17. Ahora puede haber muchas tentaciones exóticas, pero seguirán estando ahí más tarde. La luna llena del 1 de abril te permite enfocarte en jugadas profesionales o interacciones sociales. Es una época complicada, pero tienes los instintos y la intuición para atravesarla. No te promociones demasiado, pero no rechaces una sugerencia prometedora u oferta de progreso o responsabilidad. 
+
+Días destacados: 10, 22, 25
+Días desafiantes: 7, 20

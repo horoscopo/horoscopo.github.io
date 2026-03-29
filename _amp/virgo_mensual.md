@@ -7,12 +7,12 @@ home: FALSE
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Virgo_mes.png#2026-03-26
+ogimg: /images/mes/Virgo_mes.png#2026-03-29
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-03-26'
+ lastmod: '2026-03-29'
 ---
 
 
-Eres la protagonista de uno de los eventos más potentes del año: el Eclipse Lunar en tu signo el 3 de marzo. Este es un portal de cierre y renacimiento donde dejas atrás una versión de ti que ya no te sirve. Tu regente, Mercurio, transita retrógrado por Piscis hasta el 20, poniendo a prueba la paciencia en tus relaciones y sociedades. Júpiter directo en Cáncer desde el 10 favorece tus proyectos grupales y te conecta con personas influyentes. La Luna Nueva en Piscis del 18 es perfecta para sembrar nuevas intenciones en tus vínculos. Con el Sol entrando en Aries el 20 y Mercurio directo, la claridad vuelve y te sentirás lista para tomar las riendas de tus recursos compartidos.
+Venus transita por Aries durante gran parte del mes. Métete de lleno en el espíritu de renovación. La luna llena del día 1 podría causarte un fuerte deseo de irte lejos, muy lejos. Sin embargo, no te irás, porque tienes demasiada gente y cosas a tu alrededor que adoras. Y tantas cosas están sucediendo en este momento. La luna nueva del 17 de abril enciende tu deseo de estar con amistades y gente del vecindario. ¡Piensa en una reunión especial! Los preparativos pueden transformarse en tiempo de calidad y diversión para estar reunidos. Además, alguien inesperado podría aparecer. Venus entra en Géminis el día 24. Comparte tu espíritu alegre con toda la comunidad.

@@ -7,12 +7,12 @@ home: FALSE
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/Aries_mes.png#2026-03-26
+ogimg: /images/mes/Aries_mes.png#2026-03-29
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-03-26'
+ lastmod: '2026-03-29'
 ---
 
 
-¡Marzo es tu mes de renacimiento oficial, Aries! Aunque el tránsito retrógrado de Mercurio por Piscis puede haber traído algo de neblina mental y sueños intensos, puedes dar un suspiro de alivio cuando este planeta arranque directo el 20 de marzo, coincidiendo con el Equinoccio. Sin embargo, la intensidad comienza temprano: el 3 de marzo, el Eclipse Lunar en Virgo activa tu sector de salud y rutinas, pidiéndote una limpieza profunda de hábitos. El día 8, Venus y Saturno se encuentran en tu signo, exigiéndote madurez y compromiso con tus verdaderos deseos. Aprovecha el trino de tu regente Marte con Júpiter el día 21 para actuar con la confianza de quien sabe que el universo está de su lado. ¡Es hora de liderar tu propia transformación!
+La Luna Llena del 1 de abril acerca tu corazón a tu hogar y familia. Pero claro, ahora también es cuando tu trabajo se podría poner más demandante o cuando alguna función o rol social también te reclame. No te pongas demasiado sentimental y todo saldrá bien. Lidera en el trabajo con la Luna Nueva del 17 de abril. Quizás no suceda en un instante, pero esto podría afectar tu profesión y posición social a lo largo del año. Toma responsabilidades de las formas más modestas y generosas. El trígono que la Luna forma con Marte el 30 de abril facilita el progreso.
