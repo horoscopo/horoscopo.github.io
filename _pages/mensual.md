@@ -1,7 +1,7 @@
 ---
 layout: horoscopo_mensual
 title: Hóroscopos Abril de 2026 : ¡No ignores esto!
-description: 🌙 Abril de nuevos comienzos. Luna Nueva en Aries el 17 y Urano en Géminis el 25. ¡Aprovecha la energía de renovación!
+description: Abril de nuevos comienzos. Luna Nueva en Aries el 17 y Urano en Géminis el 25. ¡Aprovecha la energía de renovación!
 permalink: /horoscopo-mensual/
 ogimg: /images/mensual.png
 sitemap:
