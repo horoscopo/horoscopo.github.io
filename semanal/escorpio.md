@@ -1,26 +1,27 @@
 ---
 layout: horoscopos
-title: escorpio 23 de marzo 2026 al 29 de marzo 2026 
-description: Horóscopo semanal escorpio 23 de marzo 2026 al 29 de marzo 2026. Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
+title: escorpio 30 de marzo 2026 al 05 de abril 2026 
+description: Horóscopo semanal escorpio 30 de marzo 2026 al 05 de abril 2026. A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad escorpio, ahora estás que lo partes.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2026-03-23
+ogimg: /images/zodiac/semanal_escorpio.png#2026-03-30
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-03-23'
+ lastmod: '2026-03-30'
 ---
 
 
 
-## Todo acabará bien, todo acabará como debe, necesitas dejar a tu mente liberada de todo para encontrar la felicidad, en tus aficiones, en tus ambiciones, por ti mismo o con alguien más, donde quieras y como quieras… Que no te hagan olvidarte de ti.
+## A veces te preocupas demasiado por los demás y dejas tu vida de lado, y cuando te dan la patada, sigues dejando tu vida de lado pero encima jodido/a. No caigas en el mismo error. De verdad escorpio, ahora estás que lo partes.
 
-Marte continúa en Piscis y conecta con el expansivo Júpiter, por lo que podrías recibir gran impulso al conectar con amigos que compartan tus intereses. Si tienes la oportunidad de colaborar en un proyecto que te apasiona, este es el momento perfecto para hacerlo. Alternativamente, unirte a un grupo o club también podría resultar fascinante y liberador. El Sol entrando a Aries y a tu sector creativo te anima a explorar tus habilidades, y, además, podría motivarte a iniciar una relación romántica. El mundo gira y gira y si, a veces te sientes fuera de él. Muchas veces de hecho pero no es que estés triste y nostálgico, que va, ya estás acostumbrad@ a sentirte fuera de lugar en muchas ocasiones. Ese no es el punto. El punto es que, aunque todo esto te este pasando, por dentro tienes unas ganas enormes de superarte y de hacer las cosas mucho mejor que hasta ahora. Muy a menudo te pones un nivel altísimo de todo, de proyectos, de calidad de vida, de trabajo, y debes tener cuidado porque al final pasa factura. Sabes que en la vida caminas sol@ aunque te acompañen los demás. No quieres depender de nadie a pesar de que en el fondo sí lo haces y aunque no sea de tu agrado, también te sientes bien dejándote llevar un poco, buscando ese amor que a veces parece que te falta pero que nunca reconocerás, dejarte llevar no está tan mal del todo, siempre que de verdad y para no caer de nuevo, te quieras a ti mism@ mucho más que al resto.
+Al comienzo de la semana, puede que sea útil reducir los gastos, ya que las demoras podrían provocar un problema de flujo de efectivo. Puede que esto no sea tu culpa, sino un problema con un proceso de pago o una cuestión similar. Puede que lo mejor sea tener a mano un poco de efectivo para el repuesto. Al mismo tiempo, podrías sentir el impulso de deshacerte de aquellos artículos que, en realidad, no necesitas. Es posible que esto entre en conflicto con el deseo de disfrutar de la vida. 
+Cuando el sol y el conversador Mercurio forman un conflictivo ángulo con el precavido Mercurio en los próximos días, una parte de ti podría querer experimentar nuevas aventuras. En este caso, puede que debas llegar a un compromiso. Cuando se trata de cuestiones de bienestar y de cuidar de tu persona, la determinación de ahorrar podría ser igual de sólida. La presencia del encantador Venus en el relajante Tauro sugiere que invertir en tu persona y disfrutar de algunas sesiones de cuidado podría ser beneficioso para ti. A veces te confundes escorpio, y este es uno de esos momentos. No es que no sepas lo que quieres, es que no sabes realmente si es lo que más te conviene, si es en realidad lo que debes hacer. Es algo así como sentirte perdido, tienes en tu cabeza muchas ideas por hacer, muchas situaciones que crear, pero no puedes averiguar cómo hacerlas, cómo sacarlas adelante. Frena un momento, no corras antes de andar. Admite que no todo va tan bien como tú creías, admite que quizás te equivocaste a la hora de tomar algunas decisiones que te han llevado a estar donde estás, encuentra el por qué de eso escorpio. Y cuando lo veas, comprende que debes dejar ir, tómate un momento, respira profundamente y empieza a curarte de verdad. escorpio, eres una persona súper luchadora pero ya has pasado demasiado y todo eso son experiencias, no pases ni una más. Si lo estás viendo venir no dejes que entre, no des oportunidad a lo que sabes de sobra que saldrá mal. Tómate esta semana por y para ti, de verdad que necesitas un descanso, un respiro, salir de esa zona de mala vibra y despejarte. Puedes con todo escorpio, está claro, pero, ¿merece la pena pelear por ello? Piensa fríamente, y no te dejes guiar por la pasión, utiliza esta vez la cabeza.
 
 ## Dinero
 
-Aspectos en tu sector de política, grupos sociales, esperanzas y sueños exigen que asumas responsabilidad por lo que quieres lograr en tu vida personal y profesional. El ser invisible ya no te va a funcionar más. Con quien te juntas te va a definir en el mundo del trabajo. Asegúrate de no sólo comunicar lo que eres ahora, profesionalmente y financieramente, sino también quién quieres ser en el futuro.
+Tu vida laboral puede ser más difícil de lo normal esta semana, pero estás aprendiendo habilidades importantes que te podrán arriba en la cadena alimenticia. Mientras tanto, tu carrera está pasando por un montón de cambios. Toma un paso a la vez para una mayor recompensa.
