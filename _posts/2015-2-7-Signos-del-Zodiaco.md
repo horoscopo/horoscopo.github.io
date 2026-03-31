@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 30 de marzo 2026
-description: Horóscopos del dia de hoy 30 de marzo 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 31 de marzo 2026
+description: Horóscopos del dia de hoy 31 de marzo 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-03-30
+ lastmod: 2026-03-31
 ---
-Aunque la susceptibilidad traída por Marte y Plutón sigue vigente, la Luna y Venus suavizan tu mundo un poco y las ofrendas de paz son bienvenidas. Parejas, tomen un viaje rápido por el carril de la memoria cuando la Luna forme trígono con Saturno esta noche. Mientras que es agradable, el viaje es breve debido a que la Luna se sale de su órbita.
+La vida se desarrolla suave y gratificantemente durante el sextil entre la Luna y Venus. Una corriente subterránea de tensión sale a la superficie cuando lo que se supone que debes hacer entra en conflicto con lo que quieres hacer. Siéntete feliz mientras la Luna forme sextil con Júpiter esta noche. Los solteros gozan de popularidad. Las parejas gozan de una ocasión con ambiente romántico (es como una simulada escapada romántica).
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
