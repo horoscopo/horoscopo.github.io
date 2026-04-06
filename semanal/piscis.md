@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: piscis 30 de marzo 2026 al 05 de abril 2026 
-description: Horóscopo semanal piscis 30 de marzo 2026 al 05 de abril 2026. No te destruyas piscis, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
+title: piscis 06 de abril 2026 al 12 de abril 2026 
+description: Horóscopo semanal piscis 06 de abril 2026 al 12 de abril 2026. No te destruyas piscis, no te destruyas por otros, ahora es tiempo de centrarte en ti, y si te centras en otros, que sean los que te hacen feliz de verdad. Esos besos y esos mimos, y esas caricias hay que darlas sí, pero a quien se las merezca.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2026-03-30
+ogimg: /images/zodiac/semanal_piscis.png#2026-04-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-03-30'
+ lastmod: '2026-04-06'
 ---
 
 

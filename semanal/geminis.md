@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: geminis 30 de marzo 2026 al 05 de abril 2026 
-description: Horóscopo semanal geminis 30 de marzo 2026 al 05 de abril 2026. Da la bienvenida a tu nueva vida géminis, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
+title: geminis 06 de abril 2026 al 12 de abril 2026 
+description: Horóscopo semanal geminis 06 de abril 2026 al 12 de abril 2026. Da la bienvenida a tu nueva vida géminis, da la bienvenida a el periodo que te llega. Te desprendes de lo viejo para tomar nuevos caminos. Disfruta al máximo el tiempo que se queden y deja la puerta abierta para cuando quieran irse de nuevo… Llegarán más…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2026-03-30
+ogimg: /images/zodiac/semanal_geminis.png#2026-04-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-03-30'
+ lastmod: '2026-04-06'
 ---
 
 

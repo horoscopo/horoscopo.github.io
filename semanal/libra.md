@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: libra 30 de marzo 2026 al 05 de abril 2026 
-description: Horóscopo semanal libra 30 de marzo 2026 al 05 de abril 2026. Sumisión contigo van a encontrar poca ahora libra… Muy poca.
+title: libra 06 de abril 2026 al 12 de abril 2026 
+description: Horóscopo semanal libra 06 de abril 2026 al 12 de abril 2026. Sumisión contigo van a encontrar poca ahora libra… Muy poca.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2026-03-30
+ogimg: /images/zodiac/semanal_libra.png#2026-04-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-03-30'
+ lastmod: '2026-04-06'
 ---
 
 

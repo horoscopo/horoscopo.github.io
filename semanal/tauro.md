@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: tauro 30 de marzo 2026 al 05 de abril 2026 
-description: Horóscopo semanal tauro 30 de marzo 2026 al 05 de abril 2026. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro tauro, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
+title: tauro 06 de abril 2026 al 12 de abril 2026 
+description: Horóscopo semanal tauro 06 de abril 2026 al 12 de abril 2026. Deja que el tiempo ponga a cada uno en su lugar y si el castillo se cae, se construye otro tauro, pero no trates de sujetarlo por todos lados cuando su destino es el suelo.
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2026-03-30
+ogimg: /images/zodiac/semanal_tauro.png#2026-04-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-03-30'
+ lastmod: '2026-04-06'
 ---
 
 

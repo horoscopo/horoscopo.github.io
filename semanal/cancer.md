@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: cancer 30 de marzo 2026 al 05 de abril 2026 
-description: Horóscopo semanal cancer 30 de marzo 2026 al 05 de abril 2026. Cada día que pasa te das más cuenta de que mereces cosas buenas cáncer, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
+title: cancer 06 de abril 2026 al 12 de abril 2026 
+description: Horóscopo semanal cancer 06 de abril 2026 al 12 de abril 2026. Cada día que pasa te das más cuenta de que mereces cosas buenas cáncer, de que puedes conseguirlas, de que debes conseguirlas. Repítetelo cada día, cada momento.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2026-03-30
+ogimg: /images/zodiac/semanal_cancer.png#2026-04-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-03-30'
+ lastmod: '2026-04-06'
 ---
 
 

@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: acuario 30 de marzo 2026 al 05 de abril 2026 
-description: Horóscopo semanal acuario 30 de marzo 2026 al 05 de abril 2026. Recuerda que ha empezado la época de los aries… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
+title: acuario 06 de abril 2026 al 12 de abril 2026 
+description: Horóscopo semanal acuario 06 de abril 2026 al 12 de abril 2026. Recuerda que ha empezado la época de los aries… Tienes mucho a tu favor, no lo desaproveches… Y si hay que dejar algo de golpe para empezar otra cosa, se hace… No pasa nada, la vida ahora es pa ti entera.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2026-03-30
+ogimg: /images/zodiac/semanal_acuario.png#2026-04-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-03-30'
+ lastmod: '2026-04-06'
 ---
 
 

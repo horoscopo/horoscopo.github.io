@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: aries 30 de marzo 2026 al 05 de abril 2026 
-description: Horóscopo semanal aries 30 de marzo 2026 al 05 de abril 2026. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
+title: aries 06 de abril 2026 al 12 de abril 2026 
+description: Horóscopo semanal aries 06 de abril 2026 al 12 de abril 2026. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2026-03-30
+ogimg: /images/zodiac/semanal_aries.png#2026-04-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-03-30'
+ lastmod: '2026-04-06'
 ---
 
 
