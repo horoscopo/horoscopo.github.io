@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 08 de abril 2026
-description: Horóscopos del dia de hoy 08 de abril 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 09 de abril 2026
+description: Horóscopos del dia de hoy 09 de abril 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-04-08
+ lastmod: 2026-04-09
 ---
-Las personas andan un poco distraídas y mantienen sus respuestas vagas cuando Mercurio cuadra a Neptuno esta mañana. La buena noticia es que las telarañas se despejan por la tarde. Espera y hazle la pregunta correcta a la persona adecuada en el momento preciso. Durante la noche, muestra esa enorme y linda sonrisa y ve cómo te suceden cosas positivas bajo la Luna en Leo.
+Una mente cansada se despierta refrescada después de la dosis masiva de preocupación de ayer. El día de hoy, Mercurio en Sagitario te prepara para la aventura y te ayuda a planear el futuro. Por la noche, la Luna en Aries agita el amable fuego de este signo, creando una atmósfera más amable y amistosa. Disfruta. Para los solteros, podría ser el comienzo de algo nuevo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
