@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: leo 06 de abril 2026 al 12 de abril 2026 
-description: Horóscopo semanal leo 06 de abril 2026 al 12 de abril 2026. Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA leo. Tú solito.
+title: leo 13 de abril 2026 al 19 de abril 2026 
+description: Horóscopo semanal leo 13 de abril 2026 al 19 de abril 2026. Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2026-04-06
+ogimg: /images/zodiac/semanal_leo.png#2026-04-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-04-06'
+ lastmod: '2026-04-13'
 ---
 
 
 
-## Necesitas sentir que mereces la pena, que estás aquí para hacer algo grande. CRÉETELO. MERECES LA PENA leo. Tú solito.
+## Esta semana será un antes y un después en muchas de las cosas que hagas, y es que, ahora te mereces que pasen cosas buenas por tu vida, cosas muy buenas…
 
-Todo se está acomodando de tal manera para que te ganes una buena reputación o mejores tu posición si te dispones a moverte por los canales adecuados. Si te enfocas en lograr tus objetivos y alcanzar el éxito, serás el centro de atención dentro de poco, si es que ya no lo eres. Debido a la entrada de Venus a un sector más alejado de tu carta astral, es posible que reevalúes tu relación intrapersonal además de tu propósito y misión en la vida. Ha llegado el momento en el que debes preocuparte exclusivamente de ti mismo, es más, nadie te hará más feliz que tú. Tienes que cumplir metas leo. No tengas miedo de expresar lo que sientes ni tampoco intentes tapar lo que sabes que no debes. No te calles, no dejes que haya malos entendidos por esto. Dentro de poco organizarás un viaje, y será lejos. Eso es lo que más necesitas ahora, motivarte, sentirte vivo otra vez, sentir que todo merece la pena, que empezar de cero no es ir hacia atrás si no tener una nueva oportunidad para hacer las cosas bien. Recuérdate de qué pasta estás hecha y haz lo que tienes en tu mente, competa tus sueños, muévete hacia lo que de verdad te motiva leo. Hay personas que están cerca de ti que merecen mucho la pena, y tú lo sabes, y tratas de hacer que se queden a toda costa. Está bien leo, siempre hay que hacer todo lo posible para que salga bien, y gracias a ti, el amor crecerá mucho, pero recuerda que es cosa de dos. Que no está bien que una persona lo tenga que dar todo siempre. Si no hay interés por la otra parte lo mejor será cambiar los planes. No mendigues atención o amor, las cosas tienen que fluir solas. Deja que vuelvan… Porque todo lo que al final estuvo cerca de ti acaba volviendo.
+Puede que necesites examinar un proyecto que ya hayas completado o revisar los detalles de un plan, y podrías ver que las cosas funcionan mucho mejor si haces esto. Con esto, con la potente conjunción del Sol con Quirón a mitad de semana, tal vez necesites tener cuidado en general para evitar contratiempos. Quizás también quieras verte y sentirte más saludable, en especial si quieres impresionar a cierta persona. Pero no hagas demasiadas cosas demasiado pronto. Tomarte tu tiempo puede asegurarte los beneficios de tus esfuerzos. No eres la misma persona que eras hace tres años, un año o unos meses atrás, estás en constante cambio, las experiencias te han hecho ser mucho más duro, mucho más fuerte, y sí, te han hecho ver que todo tiene un principio pero que nada dura eternamente. Si necesitas consejo, habla contigo mismo, recuérdate experiencias, aunque muchas sean dolorosas, nadie mejor que tú sabe por lo que has pasado, nadie mejor que tú sabe lo que no quiere volver a repetir. Escucha a tu corazón pero sin olvidar que la cabeza está ahí por algo, sin olvidar que los “peros” que te dice te los dice porque no quiere volver a pasar por lo mismo. No está bien conformarse leo, no está bien pensar que lo que tienes es porque lo mereces, porque no es así, lo que tienes es porque aún no has buscado o encontrado lo que de verdad deseas, pero si no eres tú quien intenta encontrarlo, nadie lo hará por ti. Pasarán los años, ¿y de verdad te quieres ver en la misma situación dentro de por ejemplo dos años? No, porque tú tienes sueños, tienes proyectos, pero sólo te falta ese empujón, esa “seguridad” que parece que tienes pero que también te falta. Rompe con todo leo, mírate y observa lo que ves, observa lo que vales, puedes llegar a conseguir tanto… Sólo te falta tomar esa decisión que quizás asusta tanto pero que es la decisión que hará que tu destino cambie…
 
 ## Dinero
 
-Para ti, ésta semana es acerca de los aspectos que te dan una conexión con la tierra para evitar que tu cabeza se eleve demasiado sobre tu situación económica actual. Tu sector del trabajo se activa, por lo que podrías traer más trabajo a tu charola y así tener más responsabilidades. Al mismo tiempo, el gastar disminuirá  para que puedas pagar tus deudas. Mantén el rumbo. Vas en la dirección correcta.
+Esta semana es como una bolsa mixta de tu “yo”. Por un lado, tienes una energía repentina y expansiva afectando a tu sector de grupos y negocios propios, lo que sugiere que puede que estés pensando en convertir una habilidad en un negocio rentable. Por otro lado, tu sector de deuda y el dinero de otras personas entran en juego. No pidas prestado más de lo que te puedes permitir con el fin de lograr que este negocio entre en marcha.
