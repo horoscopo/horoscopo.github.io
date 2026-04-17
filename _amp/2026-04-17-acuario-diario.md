@@ -1,0 +1,25 @@
+---
+layout: amp
+title: acuario hoy gratis 17 de abril del 2026 
+permalink: /horoscopo-diario-gratis/amp/acuario/
+normallink: /horoscopo-diario-gratis/acuario/
+home: FALSE
+horoscopo:
+ signo: acuario
+ video: -DQpmrrAIeU
+ogimg: /images/acuario_char.png
+sitemap:
+ priority: 1
+ changefreq: 'daily'
+---
+
+
+Amar a alguien no es garantía de que algún día esa persona no se vaya. Debes dar tu amor con libertad y sin cadenas. Si te acercas a la gente siempre pidiendo garantías o protección, les harás sentir que no confías en ellos. Como consecuencia, no van a confiar en ti. Es un círculo vicioso. La única salida es dar tu corazón sin condiciones.
+
+## Amor
+
+¡Vaya! Tu brutal honestidad no será bienvenida bajo esta configuración estelar y tu pareja será quien primero te dé la espalda si no la controlas. Así que si quieres mantener una vida sexual saludable... por favor, piensa antes de hablar.
+
+## Trabajo
+
+En este momento estás en una posición muy buena para llevar a cabo grandes cambios. Si das un paso atrás y tratas de observar las tendencias y corrientes a tu alrededor, te resultará muy claro que tienes muchas más oportunidades de lo que tú crees. Lo que ayer era imposible hoy es muy pero muy posible.
