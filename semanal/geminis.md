@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: geminis 13 de abril 2026 al 19 de abril 2026 
-description: Horóscopo semanal geminis 13 de abril 2026 al 19 de abril 2026. Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece.
+title: geminis 20 de abril 2026 al 26 de abril 2026 
+description: Horóscopo semanal geminis 20 de abril 2026 al 26 de abril 2026. Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2026-04-13
+ogimg: /images/zodiac/semanal_geminis.png#2026-04-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-04-13'
+ lastmod: '2026-04-20'
 ---
 
 
 
-## Quien no esté contigo en las malas no estará contigo en las buenas, lo tienes más que claro, pero deja que pase el tiempo, deja que cada cosa se coloque en el lugar que le pertenece.
+## Por dentro estás deseando girar hacia el otro lado, dar un giro de 180 grados, poder agarrar otras cosas y soltar lo que te hace daño como si nada, pero por dentro, todavía hay resistencia. Resistencia hacia algo que ya no va.
 
-Tu vida social sigue activa, con un enfoque en este sector que coincide con una reunión o, tal vez, con la búsqueda de alguien de quien no has sabido hace bastante tiempo. Si te encontrarás con alguien con quien has tenido un problema, puede que sea posible sanar las heridas del pasado, pero necesitarás mucha sensibilidad para lograrlo. El Domingo, el Sol ingresa a un sector más alejado de tu carta, lo que indica que es momento de relajarte y recargar baterías. Estás activo géminis, con ganas de hacer cosas nuevas, de conocer, de reír, de disfrutar y sobretodo con ganas de vivir el presente más que nunca. Te mereces más de lo que tienes, sí, mucho más aún…
+Júpiter comienza a avanzar en tu sector financiero desde el lunes. Si has estado sufrido retrasos, deberías notar una mayor actividad pronto. Sin embargo, esta semana mantente alerta a oportunidades que podrían permitirte mejorar tu ingreso o tu estatus. El pasado juega un papel importante en tu presente, por lo que un antiguo jefe podría tener un consejo, un nuevo proyecto para ti o darte el nombre de un contacto que puede serte de ayuda. Además, salir a conocer gente podrían traerte nuevos asociados y también útil información. Necesitas tener un objetivo en la vida géminis, pelear por lo que quieres, tener ambición y no estancarte. Si no, te acabas marchitando… Y a veces te encuentras quieto, parado, sin saber hacia qué dirección moverte, sin saber si es bueno mandar todo a la mierda y empezar desde cero otra vez más o quedarte como estás. Esta semana llega un proceso duro pero que al final te habrá merecido la pena. Quisiste dar un giro a tu vida y al final tomaste decisiones un poco duras pero al fin y al cabo, con la fe de que todo cambiaría a mejor. El problema es que a menudo te asaltan otra vez las dudas. Como si a mitad del camino te empezaran a flaquear las piernas y te quedaras sin fuerzas. Nada géminis, no puede flaquearte nada ahora. Cualquier proceso de cambio tiene un tiempo y ahí es donde estás ahora. Acoplándote a las nuevas situaciones. Todo ese estrés pasará, y los momentos duros empezarán a suavizarse, como siempre ha pasado… No le temas a eso porque todo se coloca en su lugar. Disfruta del momento que estás viviendo, saca la parte positiva de todo, aunque a veces parezca que no la hay, y déjate llevar un poco, sin pensar tanto, que no es tan negro todo…
 
 ## Dinero
 
-El Universo está proporcionando las condiciones para destellos repentinos de intuición y genio. Este no es el momento de sentarte en tus laureles. En cambio, se te insta a orientar tu atención hacia tu hogar y tus emociones para encontrar las ideas más rentables y mejores maneras de hacer dinero ahora. Los negocios basados desde el hogar prosperan. Las ideas que salen del corazón pueden convertirse en industrias caseras sin muchos problemas.
+No hay muchos cambios avecinándose hacia tu sector del dinero durante por los próximos años. Ciertas formas de hacer dinero mueren en favor de otras nuevas, considera cómo quieres vivir en cinco o diez años en el futuro. El poner todo este cambio a trabajar a tu favor, rendirá grandes dividendos para el tiempo que necesites dinero. Recuerda que debes pedir ayuda cuando la necesites.

@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: cancer 13 de abril 2026 al 19 de abril 2026 
-description: Horóscopo semanal cancer 13 de abril 2026 al 19 de abril 2026. Perdona cáncer, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
+title: cancer 20 de abril 2026 al 26 de abril 2026 
+description: Horóscopo semanal cancer 20 de abril 2026 al 26 de abril 2026. Llega una buena semana cáncer, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2026-04-13
+ogimg: /images/zodiac/semanal_cancer.png#2026-04-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-04-13'
+ lastmod: '2026-04-20'
 ---
 
 
 
-## Perdona cáncer, perdona a toda la gentuza que se ha cruzado en tu vida y olvida. Por ti, para intentar ser un poco más feliz, para que esos pensamientos no ocupen más tiempo en tu cabeza en balde.
+## Llega una buena semana cáncer, tienes estilo, tienes ganas, tienes fuerza y tienes ilusión. Que nada ni nadie te la apague. Todo lo que hagas estará bien siempre y cuando lo hagas por y para ti. Deja que tus verdaderas cualidades brillen, encuentra el camino, y el éxito llegará.
 
-Tu relación con cierta persona puede hacerse más profunda, pero no parece ser de modo romántico. El panorama actual indica un encuentro de mentes que puede fortalecer el vínculo entre ustedes o al menos fomentar el respeto mutuo. Esta persona puede ser la influencia necesaria para que elijas un camino a seguir, pero no te dejes guiar solo por sus palabras. Piensa en si es conveniente antes de comprometerte. Despeja un poco tu calendario alrededor de la Luna Nueva del Viernes. A veces, no es fácil vivir la vida cáncer, a veces no es fácil enfrentarte al mundo con una sonrisa cuando en el fondo estás llorando por dentro. Pero la vida sigue, y aún tienes fuerza suficiente dentro de ti como para aguantar lo que te echen. Algún día te olvidarás de las heridas, de la razón por la que llorabas y por qué o quién te llenaste de dolor. Hay que dejar que las cosas se desarrollen a su manera y a su propio ritmo, no trates de que las cosas pasen a tu manera cáncer. En realidad ese no es el plan, y, en el fondo, no te beneficia. Lo que importa en el fondo es el último capítulo, no tanto el primero…
+Tu sector de bienes compartidos, intimidad y transformación adquiere un tono positivo con Venus uniéndose al Sol en este sector. Sin embargo, ten cuidado, ya que poderosos deseos podrían llevarte a gastar de más o sentir lujuria hacia alguien de un momento a otro. Piensa en las consecuencias antes de hacer cualquier cosa que pudieras lamentar más adelante. El cuarto creciente del viernes podría significar que ciertos problemas emocionales que pensabas que se habían terminado podrían no estarlo. Este es el momento para realmente liberarte de ellos. Esta semana va a estar cargada de altibajos cáncer, va a ser una semana muy movidita. Y cuando estés arriba estarás mucho tiempo pero el problema es cuando estás abajo… Paciencia y sangre fría. Vas a tomar decisiones adecuadas pero al fin y al cabo los cambios te trastocan mucho. Tus expectativas son muy altas siempre y como te falle algo, aunque sea por poco, te amarga la existencia. Pero como siempre cáncer, hay cosas que no están en tu mano. En realidad hay cosas que aún no has perdonado del todo, hay algo que por dentro te agita, algo que no te deja dormir como quisieras. Pero deja de investigar de una vez, deja de gastar tu tiempo en encontrar errores de los demás. Si no te gusta algo, ¡a la mierda! Sin contemplaciones. Esta semana tienes que ser bastante firme con las decisiones que tomes, y no plantearte dar segundas o terceras oportunidades. Y sí, ser egoísta, mirar por ti y por los tuyos y dejar de hacer caso al corazón. La cabeza cáncer, la cabeza es la que vale ahora y la que te acabará por salvar. Que no te empujen al límite cáncer, no te enredes en mierdas del resto, de verdad. Los cambios no son malos y estos ni siquiera van a ser tan complicados como tú piensas…
 
 ## Dinero
 
-Eres una fuente inagotable de expresión personal. Tu individualidad, en particular, es importante ahora. Los aspectos apoyan esta posición, afectando a las actividades familiares, el romance, los niños y la diversión. La forma en la que llevas esto, para bien o para mal, puede marcar la diferencia entre el recibir aceptación o no. ¡Empieza con tu mejor pie! Mientras tanto, piensa en lo que tienes que dejar ir. ¿Realmente necesitas esas botas que has tenido desde 1992?
+Puede que te encuentres en plena acción, llamando a compañías de tarjetas de crédito, pagando saldos y destruyendo viejas tarjetas de crédito. ¡Buen trabajo! Esta misma ráfaga de energía te ayudará a establecer un curso financiero nuevo en este momento de tu vida. Sin embargo, tu lugar de trabajo podría necesitar un cambio. Sin embargo, es demasiado pronto para renunciar, así que trata de verle la mejor cara.

@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: capricornio 13 de abril 2026 al 19 de abril 2026 
-description: Horóscopo semanal capricornio 13 de abril 2026 al 19 de abril 2026. Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+title: capricornio 20 de abril 2026 al 26 de abril 2026 
+description: Horóscopo semanal capricornio 20 de abril 2026 al 26 de abril 2026. Siempre te adelantas a los malos tiempos, de hecho es como si los vieras venir, e intentas retirarte de ese camino… Así que, que ahora no vengan a contarte cuentos, y mucho menos a hacerte creer que eres tú el que estabas equivocado.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2026-04-13
+ogimg: /images/zodiac/semanal_capricornio.png#2026-04-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-04-13'
+ lastmod: '2026-04-20'
 ---
 
 
 
-## Deshazte del innecesario desorden mental que deja que pensamientos y opiniones del resto entren en tu mente, deshazte de viejas costumbre, las que tratan de mantener esa mentalidad negativa y céntrate en tus nuevos caminos.
+## Siempre te adelantas a los malos tiempos, de hecho es como si los vieras venir, e intentas retirarte de ese camino… Así que, que ahora no vengan a contarte cuentos, y mucho menos a hacerte creer que eres tú el que estabas equivocado.
 
-Lo que tus amistades digan podría terminar contando mucho esta semana, razón por la que no deberías prestar demasiada atención. Si escuchas con cuidado, te darás cuenta de que sus opiniones cambian tan rápido como el clima. Por ejemplo, si te etiquetan de oportunista por detectar una oportunidad y por querer aprovecharla, deberías de hacerlo de todos modos. Hay una buena probabilidad de que para cuando llegue el fin de semana deseen haber seguido tu consejo. Apégate a tus ideas sin importar lo que digan. Tu cabeza quiere un cambio capricornio, y tu corazón también, y te lo está pidiendo a gritos pero sigues siendo testarudo cuando quieres, y muchas veces aunque a tu alrededor haya una vibra negativa casi imposible de aguantar, tú te la echas a la espalda y la aguantas como el que más. Pero mira capricornio, no se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo. A veces, parece que no quieres salir de tu estado de confort, de esa zona en la que de confort en el fondo hay poco. Y no quieres salir por miedo a encontrarte cosas peores pero capricornio por favor, si lo que hay no te llena o no te realiza como persona algo tendrás que hacer ¿no? Esta semana vas a tener sensaciones muy diferentes, sentimientos con un pasado que no es tan pasado. Tienes que acordarte de muchas cosas, acordarte de que eras feliz antes de tener lo que tienes ahora, de que debes seguir creciendo, de que has de liberarte de algunas expectativas muy grandes que tenías y que después han resultado ser falsedad y mentira… Arréglate y déjate de perezas, sal, disfruta, respira aires nuevos y cambia el chip.
+Los asuntos de hogar y familia cobran importancia cuando el sol en Tauro te lleva a mirar más en profundidad problemas asociados. De hecho, el cuarto creciente del viernes podría poner en el centro de atención el motivo exacto por el cual estás teniendo dificultades y lo que puedes hacer al respecto. El truco está en no exagerar sino mantener la calma. También aparece una temática espiritual para animarte a buscar bajo la superficie. Si haces esto puedes llegar a una valiosa reflexión. Por último, el actual enfoque en tu sector de intimidad podría llevarte a tener una conversación de corazón a corazón. Para de pensar tanto en todo, para de sobreanalizar. ¿Te has parado alguna vez en seco y te has preguntado si realmente eres feliz, si realmente quieres que las cosas sigan como están? Hazlo, contigo las terapias de choque funcionan muchas veces. Dejas pasar el tiempo, porque quizás es lo único seguro que tienes, pero mientras pasa, ¿estás siendo feliz? Plantéatelo cada mañana, fija objetivos, ¿qué esperas de la vida? ¿qué quieres hacer hoy? Cuando lo averigües ves a por ello. La comodidad está bien capricornio pero está bien por un tiempo, no toda la vida, si sólo te conformas con lo que tienes al final tu vida nunca será tuya si no de los demás, las decisiones no las tomarás tú, si no todo lo que está a tu alrededor porque, al final, solamente te adaptarás a ello, tal cual, como venga, quizás enfadado y quejándote o quizás dejándote llevar pero al final, los que ganan serán los demás… Vuelve a creer en tus metas, vuelve a creer en ti mismo, vuelve a intentar conseguir lo que siempre has querido.
 
 ## Dinero
 
-Tienes energía en tu sector de trabajo. Esto hace que sea más fácil el sobrellevar largos días si has sentido cansancio, o el poder realizar presentaciones, reuniones o papeleo. Mide tu energía durante todo el día para no quedarte sin nada antes del almuerzo. Puede que no tengas el poder de cambiar por completo tu situación todavía, pero definitivamente puedes mejorarla mucho más del estado en el que ha estado últimamente. Persevera.
+Con un aspecto armonioso ahora, puede que tengas la tentación de celebrar antes de tiempo. Pero con toda la energía que hay en el aire ahora, lo mejor es encontrar una manera de sacarle provecho primero. La actividad astral afectará los viajes, el aprendizaje y la espiritualidad, indicando el momento de buscar formas de ampliar tu mercado. Si ofreces un producto o servicio que podría ser vendido en el extranjero, haz que suceda ahora. Consulta a un especialista en ventas si necesitas ayuda.
