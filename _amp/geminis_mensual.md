@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Géminis Abril 2026 
+title: Horoscopo Géminis Mayo 2026 
 permalink: /horoscopo-mensual/amp/geminis/
 normallink: /horoscopo-mensual/geminis/
 home: FALSE
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Géminis_mes.png#2026-03-29
+ogimg: /images/mes/Géminis_mes.png#2026-04-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-03-29'
+ lastmod: '2026-04-26'
 ---
 
 

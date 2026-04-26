@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Cáncer Abril 2026
-description: El Horóscopo Abril de Cáncer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Cáncer Mayo 2026
+description: El Horóscopo Mayo de Cáncer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/cancer/
 amplink: /horoscopo-mensual/amp/cancer/
 home: FALSE
-keywords: horóscopo abril, horoscopos en español, horóscopo Cáncer abril , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Cáncer, Tarot, Astrologia, Zodíaco, Cáncer, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo mayo, horoscopos en español, horóscopo Cáncer mayo , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Cáncer, Tarot, Astrologia, Zodíaco, Cáncer, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/cancer_mes.png#2026-03-29
+ogimg: /images/mes/cancer_mes.png#2026-04-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-03-29'
+ lastmod: '2026-04-26'
 ---
 
 

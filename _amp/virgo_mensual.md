@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Virgo Abril 2026 
+title: Horoscopo Virgo Mayo 2026 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Virgo_mes.png#2026-03-29
+ogimg: /images/mes/Virgo_mes.png#2026-04-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-03-29'
+ lastmod: '2026-04-26'
 ---
 
 
