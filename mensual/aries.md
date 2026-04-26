@@ -17,8 +17,8 @@ sitemap:
 ---
 
 
- > Aries, si quieres mejorar tu vida sentimental deja de perder el tiempo con personas con las que no fluyes. Venus en tu signo aumenta tu magnetismo y no te será difícil atraer a los demás, pero debes elegir correctamente. Si notas cambios en el ambiente laboral no te agobies y dale una oportunidad a lo nuevo.
+ > mayo marca para aries un ciclo de transformación profunda y cierre de viejas etapas. Las emociones se intensifican y se limpian, abriendo paso a vínculos amorosos más plenos y sinceros. En el trabajo, un cambio inesperado traerá más libertad a largo plazo. La salud requiere descanso y silencio para renovar energías. Confiar en el proceso será clave para avanzar hacia tu nueva versión.
 
 
 
-La Luna Llena del 1 de abril acerca tu corazón a tu hogar y familia. Pero claro, ahora también es cuando tu trabajo se podría poner más demandante o cuando alguna función o rol social también te reclame. No te pongas demasiado sentimental y todo saldrá bien. Lidera en el trabajo con la Luna Nueva del 17 de abril. Quizás no suceda en un instante, pero esto podría afectar tu profesión y posición social a lo largo del año. Toma responsabilidades de las formas más modestas y generosas. El trígono que la Luna forma con Marte el 30 de abril facilita el progreso.
+Mantente alerta a un golpe de suerte en torno a la Luna Llena del 1 de mayo. No te preocupes. Espera grandes cosas, incluso amor. Puede que no te ganes la lotería, pero es posible que al menos te escapes de la gripe que todo el mundo timayo Durante la Luna Nueva del 16 de mayo, alguien podría querer que te ocupes de algo que es más que un favor menor. Responde prácticamente y haz lo que puedas si piensas que es apropiado, o simpáticamente reúsate si piensas que es irrazonable o está más allá de tus capacidades. No sientas arrepentimiento al respecto. El 29 y 30 de mayo son los principales días para informarte y mostrar tu inteligencia.

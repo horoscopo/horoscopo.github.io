@@ -17,8 +17,8 @@ sitemap:
 ---
 
 
- > Abril trae luz renovada a piscis, que recupera inspiración y claridad tras un periodo de duda. En el amor, reina el equilibrio y la conexión consciente, ya sea en pareja o desde la plenitud individual. El trabajo se enfoca en el aprendizaje y la preparación para nuevos pasos. La salud emocional requiere introspección y descanso. La paciencia será clave para un crecimiento auténtico.
+ > mayo impulsa a piscis a tomar el control con firmeza, marcando su propio rumbo sin distracciones externas. En el amor, florecen gestos afectivos y nuevas ilusiones. El trabajo exige madurez, límites claros y apertura a un cambio de rumbo. La salud mental necesita atención: busca descanso y apoyo emocional. Es un mes de renovación profunda, ideal para sanar, empezar de nuevo y recuperar la esperanza.
 
 
 
-La Luna forma sextil con Saturno el 3 de abril, facilitando tu trato con cualquier persona difícil que se atraviese en tu camino. Haz tus planes para el futuro con renovado coraje y confianza. La Luna Nueva del 17 de abril te toca en un lugar profundo y privado. Entonces, podrías recibir cierta información que te enseñe una lección importante y te permita hacerle frente a la gente con mayor comodidad; especialmente en público. Más tarde, permite que la Luna Llena del día 1 ilumine tu vida amorosa y tal vez te traiga una nueva, cariñosa y amable persona. Puede que tal no se vuelva tu amante de inmediato, pero a veces, el amor te encuentra antes de que tú lo encuentres.
+Los sentimientos podrían volverse intensos alrededor de la Luna Llena del 1 de mayo, y cosas buenas podrían surgir de ello. Si alguien de repente se acerca a ti con un problema, trata de calmarle como sólo tú sabes. La Luna Nueva del 16 de mayo llena tu vida de romance y maravillas. Puede que pienses que no estás de humor o no tienes interés, pero eso no es cierto. Eres alguien que siempre está listo para responder a una muestra de afecto o aprecio. Date la oportunidad de ver si piensas que es de verdad. La Luna Llena de Sagitario el 31 de mayo, momento oportuno para considerar mejorar o modificar ciertos asuntos hogareños.

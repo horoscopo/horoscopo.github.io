@@ -15,10 +15,4 @@ sitemap:
 ---
 
 
-Es tu momento de brillar, acuario. Como Mercurio termina su fase de sombra el 9 de abril a través de tu casa de las finanzas, podrías encontrarte de un humor más resolutivo.
-Por suerte, estas vibras empiezan a despejarse cuando el planeta de la comunicación entra en Aries el 15 de abril. Mientras tanto, permíteles a tus seres queridos que te apoyen y te animen y que celebren la preciada amistad que les brindas.
-Comenzarás a sentirte más optimista y con más lucidez a mediados de mes, lo que actúa como una bocanada de aire cósmico fresco. Este es un excelente momento para jugar con nuevas perspectivas e ideas, en especial si tu camino se ha sentido un poco aburrido últimamente.
-El deseo de darle estructura a tu metas te encontrará cuando el sol se une a tu regente Saturno en Aries, lo que te inspira a tomar las riendas de tu vida. Además, tu otro regente, Urano, entra en Géminis el día 25, marcando un cambio generacional en tu forma de expresarte y comunicarte.
-El 19 marca el comienzo de la temporada de Tauro, lo que cambia tu enfoque hacia el hogar y las raíces. Usa esta energía para analizar tus metas personales, en especial cuando la luna nueva en Aries se manifiesta el 17 de abril. Este es un excelente momento para establecer intenciones para los próximos meses.
-Días destacados: 6, 8, 28
-Días desafiantes: 5, 7, 14
+Tanto amistades como gente del vecindario se destacan, de las mejores maneras posibles, durante la luna llena del 1 de mayo. La generosidad proveniente de lejos puede compartirse contigo y tus mejores amistades. Puede que no sea un buen momento para fiestas, pero pronto podría serlo. Sal de tu caparazón bajo la luna nueva del 16 de mayo. Si te has estado ocupando de un proyecto específico, ahora puedes ampliar tu rango y tener una perspectiva más completa sin sacrificar tu concentración. Harás que el éxito parezca fácil. El 31 de mayo, la Luna Llena de Sagitario expone emociones escondidas y te permite hablar abiertamente sobre ellas.Días destacados: 13, 16, 22

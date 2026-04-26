@@ -17,9 +17,8 @@ sitemap:
 ---
 
 
- > Escorpio en abril llegó la hora de que te dediques mucho más tiempo a ti misma, de que te cuides y también de que compartas con personas que no te resten energía.
-Entrarás este mes en un proceso importante de renovación emocional y necesitarás airear aquellos sentimientos que puedan estar limitando tu libre expresión.
+ > mayo lleva a escorpio hacia una profunda revisión emocional y personal, invitándola a soltar lo que ya no suma y a conectar con su verdad más íntima.
 
 
 
-El 1 de abril, la luna llena quiere que estés saludable y feliz en todas las pequeñas cosas que haces día a día. Aprecia algo pequeño, ya sea una planta que florece en tu casa o una nueva taza para el café, y date cuenta de que, en realidad, que sea pequeño no significa que sea insignificante. La luna nueva del día 17 te promete un tiempo de descanso en privado muy enriquecedor. Úsalo con discreción, a solas o con algunas personas cercanas especiales, y adopta perspectivas que pueden mejorar el resto de tu año. El 30 de abril, finalizas el mes con una sensación cargada de afecto. Puede que no aparezca tu alma gemela, pero es una posibilidad.
+Mantén tus emociones bajo control durante el fin de semana de Luna Llena del 1 de mayo. Varias viejas amistades podrían traerte historias y recuerdos que despierten algunos sentimientos incómodos. Escucha, aprende, y puede que hasta encuentres un nuevo amor. Sorpréndete tanto a ti - como a otros - durante la Luna Nueva del 16 de mayo. Ellos también estarán esforzándose de más para sorprenderte. Mantener las situaciones divertidas hará que los sentimientos no se vean afectados. A veces, un viejo truco puede aún funcionar. La última semana del mes es más tranquila y muy productiva, con más diversión del tipo casual. A partir del 29 de mayo, el progreso podría llegar en pequeños pasos, pero será constante.

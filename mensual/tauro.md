@@ -17,11 +17,12 @@ sitemap:
 ---
 
 
- > Tauro, este mes empieza tu temporada pero tendrás que esperar un poco. Hasta entonces, la presencia de Saturno en Piscis te conecta lentamente hacia tu evolución mientras que van apareciendo propuestas interesantes para ti. Toma el tiempo que necesitas para pensar qué quieres hacer.
+ > mayo llena a tauro de logros, energía renovada en el amor y una inspiración que impulsa un nuevo comienzo con claridad.
 
 
 
-Júpiter forma una cuadratura con el sol el 5 de abril, y puede que tengas algunas dudas de más. Simplemente habla con honestidad y siéntete bien sobre cómo las cosas están saliendo. Disfruta de tus personas preferidas y placeres locales durante la luna nueva del día 17. Ahora puede haber muchas tentaciones exóticas, pero seguirán estando ahí más tarde. La luna llena del 1 de abril te permite enfocarte en jugadas profesionales o interacciones sociales. Es una época complicada, pero tienes los instintos y la intuición para atravesarla. No te promociones demasiado, pero no rechaces una sugerencia prometedora u oferta de progreso o responsabilidad. 
-
-Días destacados: 10, 22, 25
-Días desafiantes: 7, 20
+La luna nueva del 16 de mayo puede ser un momento glorioso y afortunado. Espera recibir invitaciones a fiestas en todas partes. Tal vez quieras organizar una fiesta por tu cuenta. Da un paso al frente, y sé sociable a lo grande. Marte entra a Tauro el día 18. No te apresures en arreglar todo de una vez. 
+Mercurio entra a Géminis el día 17. Enfócate con facilidad en las preparaciones y agendas para las festividades. Que aumente tu espíritu festivo, y diviértete más durante la temporada. El sol entra a Géminis el 20 de mayo. La lista de tareas más larga no será un obstáculo para ti. 
+Incluso si te rodeas de gente durante la luna llena del día 31, serás capaz de identificar los lugares donde puedes hacer una gran diferencia para alguien especial. Tus habilidades sociales y de observación se agudizan ahora. Al igual que tu instinto e intuición. Úsalos todos. 
+Días destacados: 6, 12, 21
+Días desafiantes: 20, 27
