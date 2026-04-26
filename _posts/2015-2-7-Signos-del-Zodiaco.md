@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 25 de abril 2026
-description: Horóscopos del dia de hoy 25 de abril 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 26 de abril 2026
+description: Horóscopos del dia de hoy 26 de abril 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-04-25
+ lastmod: 2026-04-26
 ---
-Los esfuerzos dan frutos en el futuro cuando Marte forma sextil con Saturno hoy. Sólo tener intenciones no se traducirá en un producto final. Ponte a trabajar y hazle frente a esas extrañas responsabilidades en tu lista de tareas pendientes. Has trabajado duro y lograste mucho antes, por lo que relájate y respira la espontaneidad que hay en el aire bajo la Luna en Acuario de esta noche.
+Espera cambios de planes cuando la Luna conecte con el sorpresivo Urano y un tono escandaloso sea la nueva norma de forma temporal. Esta noche, la Luna en Libra insinúa una idea de lo que (eventualmente) vendrá a la luz de una relación con futuro. Por su parte, las parejas se ponen de acuerdo en un tema en el que anteriormente no lo estaban.    
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
