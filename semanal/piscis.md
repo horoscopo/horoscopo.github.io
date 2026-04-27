@@ -1,27 +1,26 @@
 ---
 layout: horoscopos
-title: piscis 20 de abril 2026 al 26 de abril 2026 
-description: Horóscopo semanal piscis 20 de abril 2026 al 26 de abril 2026. Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida piscis, vuelve a brillar.
+title: piscis 27 de abril 2026 al 03 de mayo 2026 
+description: Horóscopo semanal piscis 27 de abril 2026 al 03 de mayo 2026. Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza piscis. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2026-04-20
+ogimg: /images/zodiac/semanal_piscis.png#2026-04-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-04-20'
+ lastmod: '2026-04-27'
 ---
 
 
 
-## Eres mejor persona cuando te esfuerzas por comportarte como alguien a quien realmente admiras. Vuelve a agarrar las riendas de tu vida piscis, vuelve a brillar.
+## Nada puedes hacer por lo que ya pasó, por esa alegría perdida… Pero hay muchas cosas que sí puedes hacer por lo que aún está por venir. Y viene con fuerza piscis. Con mucha fuerza… Es hora del cambio, del cambio de mente, de recibir lo que te pertenece.
 
-El Sol en Tauro te invita a empezar a trabajar en ideas y proyectos que tienen un significado personal para ti. Es una oportunidad para expresar tu individualidad y obtener apoyo para los planes que no puedas manejar a solas. Además, colaborar con buenos amigos puede ser divertido, especialmente si están en la misma frecuencia que tú. Si recibes una intuitiva corazonada para invitar a salir a alguien o llamarle a un amigo el fin de semana, presta atención, ¡podría convenirte! Aunque creas que tus asuntos están cerrados del todo no es así, y en el fondo lo sabes, por eso por fuera querrías hacer muchas cosas ya, en el momento, pero sin embargo por dentro sabes que con calma y con cabeza fría las decisiones se toman mucho mejor. 
- En la vida, valora lo que pierdes, pero mucho más lo que ganas. Debes aprender a desprenderte de lo que no te hace bien, debes aprender a echar de tu vida o a alejarte de lo que te causa más de un problema.
+Puede que tengas una visión poco realista sobre cierta persona o situación, sobre todo a principios de la semana, cuando podrías sentir tentación a poner a alguien en un pedestal. Pero para cuando llegue el viernes podrías llegar a pensar de manera muy diferente debido a una frustrante mezcla de energías sacando lo peor ya sea de ti o esa persona. Es posible que ni siquiera una conversación sea suficiente para mejorar la situación entre ustedes, pero puede que sean capaz de llegar a alguna parte si utilizas los hechos como vehículo. Bueno piscis, ya lo sabes más que de sobra, en tu vida siempre ha habido gente de todo tipo pero las envidias y el odio han estado a la orden del día. Sí, levantas ese tipo de sentimiento en los demás, y no es malo, simplemente es así.
 
 ## Dinero
 
-La actividad en tu sector de dinero y valores de esta semana indica que algo del pasado tiene que ser aclarado y ajustado antes de poder avanzar de nuevo. Añade a esto los ingredientes para un futuro monetario interesante. Eres capaz de aportar más a la mesa cuando le prestas más atención a tu sector de deuda o el dinero de otros.
+Puede que creas que algo en el trabajo es demasiado bueno para ser verdad - porque lo es. En lugar de ver esto a través de lentes color de rosa, simplemente sé realista. El mejor uso de esta energía es a través de la imaginación y la creatividad, no el engaño. Aunque los aspectos crean una gran cantidad de energía, prepárate para un viaje lleno de baches.
