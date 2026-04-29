@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 28 de abril 2026
-description: Horóscopos del dia de hoy 28 de abril 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 29 de abril 2026
+description: Horóscopos del dia de hoy 29 de abril 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-04-28
+ lastmod: 2026-04-29
 ---
-El día de hoy, disfruta de pasar tiempo en compañía de amigos y familiares. Estás dentro de una zona de confort. Por cierto, estar en esa zona significa no tener que pensar en lo que vas a decir o lo que vas a hacer. Esta energía continúa a lo largo de la noche. Es un buen momento para pulir tus habilidades sociales.
+Es posible que el tiempo esté tomando una decisión por ti, en el buen sentido, cuando la Luna en Tauro aspecta tanto a Júpiter como a Saturno. A medida que la Luna se opone a Marte esta noche, si uno mira cuidadosamente, señales y símbolos acerca de la personalidad de alguien están por todas partes.  
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
