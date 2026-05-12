@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: geminis 27 de abril 2026 al 03 de mayo 2026 
-description: Horóscopo semanal geminis 27 de abril 2026 al 03 de mayo 2026. Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina.
+title: geminis 11 de mayo 2026 al 17 de mayo 2026 
+description: Horóscopo semanal geminis 11 de mayo 2026 al 17 de mayo 2026. Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro géminis.
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2026-04-27
+ogimg: /images/zodiac/semanal_geminis.png#2026-05-11
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-04-27'
+ lastmod: '2026-05-11'
 ---
 
 
 
-## Esta semana viene un poco movidita, es cierto. Es una semana de transición y de cambios. Acabas de soltar una cosa y vas a tomar otra con rapidez y algo muy importante se avecina.
+## Cada palo que te has llevado ha sido una experiencia, eres quien eres ahora por todas esas decepciones, por todas esas alegrías, por esos errores que has cometido, por esas malas y buenas decisiones… Ahora eres de hierro géminis.
 
-Si sientes una punzada de pánico en cuanto a dinero u otra cuestión, lo más probable es que sea porque tu seguridad se ve amenazada de alguna manera. Lo que no debes hacer es actuar de forma irracional en el calor del momento. Haz lo que tengas que hacer y posteriormente busca consejo - sólo asegúrate de que la fuente sea confiable. En momentos se pudiera sentir como si estuvieras navegando a través de un nebuloso río. Si mantienes la calma, eventualmente encontrarás la claridad que buscas. No sueles dar la llave de tu corazón a nadie géminis, pero si hay personas que la tienen, y de hecho esas personas son las únicas que pueden desbloquearlo, que pueden ver el fondo de lo que hay, tu esencia, tu alma. Pero esta semana vas a cambiar la cerradura, porque te apetece, porque ahora quieres estar seguro de a quien se la quieres dar, porque quieres empezar de cero muchas cosas. Y no cambiará tu esencia géminis, porque la esencia es la misma, lo que cambiará será el poder que vas a tener, el poder que van a tener otros sobre ti. Esta semana preocúpate de hacer las cosas bien. Hay mucha responsabilidad y mucho en juego. Vas a sentirte bien por las decisiones que vas a tomar, vas a sentir que vuelves a tomar el timón de tu vida como antes. No te preocupes porque algo no salga, te esperan cosas mejores. No te pongas nervioso cuando te digan que no puedes, que no tienes el valor suficiente o la capacidad para hacerlo. Puedes con todo, y a aunque tengas que ir en contra de todo, si has tomado la decisión, que sea hasta el final. Vas a tener que volverte invisible para algunas personas si de verdad quieres ir hacia delante. Feliz semana géminis.
+La Luna Nueva en Tauro del sábado te invita a la introspección antes de que Mercurio entre en tu signo el domingo. Este tránsito te brindará la claridad mental que necesitas para tus nuevos proyectos. Valdría la pena pasar tiempo pensando en cuales son las cosas que quieres lograr en los próximos meses y escribirlas. Puede que te sorprendas de cuántas se vuelven realidad como resultado. Además, un nuevo romance también podría florecer. Llevabas un ritmo un poco alocado géminis, todo mezclado con dudas existenciales, un futuro incierto y si, altibajos constantes. Te encuentras un poco agotado por todo, sin tener aún muy claro por dónde tirar y qué camino elegir. Vives al día, el instante, el momento, mañana ya veremos y eso está muy bien pero cuando te da un momento de bajón, te hundes, y mucho. En realidad ¿es lo que quieres? Te das cuenta de que no puedes seguir así, que necesitas asentarte, “centrar” la cabeza, pero en un momento determinado todo lo que piensas se va de tu cabeza. “¿Qué debo hacer con mi vida? ¿estoy eligiendo bien las opciones? ¿debería marcharme sin rumbo fijo a cualquier otro sitio y empezar de 0?” Relájate géminis, que no te entre la locura. Ni todo es tan malo ni todo es tan bueno. Eres demasiado nervioso y te estresas rápidamente pero eso no tiene que llevarte a hacer ninguna locura. Al revés, siéntate y, por unos minutos, aunque sean sólo 5, piensa en lo bueno que tienes, aunque lo malo pueda ser muy muy malo, y dedícate de pleno a cuidarlo. Y si tienes que relajarte más, hazlo, y si tienes que buscar alternativas a esos bucles mentales que parecen no tener fin, pues hazlo también. Con la mente despejada y, sobretodo haciendo una lista de lo que te conviene y no te conviene, tomarás el rumbo de tu vida. Y ahora cuídate más que nunca y sobretodo pon mil ojos a tu alrededor porque sabes que hay envidiosos que tienen asuntos pendientes contigo y aprovecharán cualquier momento para hacer daño, de una forma o de otra, y sobretodo, aprovecharán los momentos en los que estés bajo de ánimos para atacar y debilitarte aún más. Cuídate un poquito más géminis, quiérete un poquito más, y pon la mente en blanco todo lo que puedas…
 
 ## Dinero
 
-Esta semana trae un positivo suspiro de alivio entre la comunicación y las ideas, y la individualidad y el cambio repentino. Ciertos aspectos afectan a la familia, el romance y la creatividad mientras que amplificas tus esfuerzos para llevar tu producto o servicio a una audiencia global. Tienes confianza en tus capacidades, lo cual es genial. ¡Tienes mucho poder para lograr lo que quieres!
+Esta semana estás llegando a un público mucho más grande con tu trabajo, lo que conduce a más dinero a la larga. Es posible que estés reconectando con la gente de tu pasado y consiguiendo presentaciones con nuevos fans. No importa lo que hagas para ganarte la vida, estás siendo empujado/a al escenario para entregar un mensaje único. Los aspectos te dan el apoyo y la fuerza que necesitas de estrechas relaciones. Gozas de un periodo en el que es muy poco probable que hagas errores, disfruta de este personal y financieramente.
