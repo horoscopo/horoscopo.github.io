@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: acuario 11 de mayo 2026 al 17 de mayo 2026 
-description: Horóscopo semanal acuario 11 de mayo 2026 al 17 de mayo 2026. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar acuario porque no eres así.
+title: acuario 18 de mayo 2026 al 24 de mayo 2026 
+description: Horóscopo semanal acuario 18 de mayo 2026 al 24 de mayo 2026. No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2026-05-11
+ogimg: /images/zodiac/semanal_acuario.png#2026-05-18
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-05-11'
+ lastmod: '2026-05-18'
 ---
 
 
 
-## Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar acuario porque no eres así.
+## No pienses más de la cuenta, ¿qué no te valoran? No saben lo que se pierden, porque tu de buenas, das hasta tu alma si hace falta…
 
-Tener una intensa determinación para resolver un problema y poner en movimiento cierto proyecto dará sus frutos esta semana. Pero es posible que tanto familiares o tal vez tu pareja tengan diferentes opiniones sobre lo que debes hacer. Si es que quieres seguir adelante con ello, es posible que tengas que ceder o bien optar por una charla de corazón a corazón y esperar que entiendan. De hecho, si una idea es profundamente significativa para ti, ¿por qué deberías de restarle importancia? Puede que tengas que explicarle a tal que, si no le gusta, que así sea. Deberían valorarte más acuario, los demás y tú el primero, deberían saber escucharte cuando estás mal, saber comprender porque te sientes en ocasiones así, tratar de meterse un poco en ti, en tu lugar, y descubrirte. Eso es, deberías descubrirte de verdad, y ahora no podrán decir que tú no te estás dejando… No es que te sientas solo, pero muchas veces sientes que vives en un mundo en el que nadie es capaz, por un momento, de ponerse en tu lugar, en el que nadie es capaz de pensar que quizás tú también tienes tus momentos de bajón, tus momentos de pena o de dudas. Bajo esa fachada se esconden sentimientos complicados que muchas veces ni siquiera tú entiendes. Quizás es conformismo, quizás dependencia del resto, o quizás un cúmulo de circunstancias que llevas acumuladas mucho tiempo. Y los días empiezan a pasar, y ves que avanzas, pero a veces no tan deprisa como esperabas. Y ves que el tiempo pasa, y empiezas a estresarte, y te frenas, y de repente quieres ir más deprisa porque ya perdiste mucho tiempo, y te vuelves a frenar. Para acuario, para un poco. No puedes fingir que las cosas no te importan ¿vale? Porque además, eso al final duele el doble. Centra tu cabeza, busca cuáles son las prioridades de tu vida, y por favor, cuando las tengas, camina en línea recta a por ellas, sin desviarte lo más mínimo, porque si lo haces es cuando empiezas a dudar sobre todo, cuando alguien interfiere en tus decisiones, cuando te manipulan y al final caes, cuando quieren que cambies de opinión… Ahí es cuando empiezas a frenarte, por muy claro que lo tengas todo. Piensa que caminar entre las piedras también es avanzar, así que, lo que has hecho, lo has hecho bien, ahora averigua si quieres seguir por ese camino.
+Es posible que estés de ánimo para redecorar y en general lograr que tu hogar se vea de lujo. Con Venus entrando a tu sector hogareño y familiar, esta es la perfecta oportunidad para embellecer tu entorno y hacerlo más acogedor. Sin embargo, con Marte regresando a Escorpión y a tu sector de viaje y aventura el viernes, puede que tengas que hacerle frente a un problema que pensabas se había terminado. No es el caso. Pero esta es tu segunda oportunidad para ponerlo a dormir. Te crees que eres débil acuario, a veces te menosprecias demasiado, más de lo que deberías, te crees que no llegas, que no puedes, te crees que quizás se te está yendo de las manos el tiempo que estás tardando en curarte de viejas heridas, piensas que ya tenía que tener superado mucho, pero no… Todo tiene su tiempo, no quieras comerte el mundo en un minuto porque seguro que lo escupes al minuto siguiente. Vas a tardar en ser “normal” otra vez, porque tienes sentimientos acuario, porque las cosas te duelen, porque vas a tardar en recuperarte del todo… Pero eh, que saldrás de cualquier cosas, que tu te pones las pilas y te mentalizas y trepas hasta de lo más profundo. Esta semana dedícate a mimar algunas relaciones que tienes cerca y que, por tener tu mente en otro lugar, estás descuidando. Y quiérete un poco más, y piensa que los bajones son normales, y más cuando estás en un proceso de duelo, de superar algunas cosas y de cambiar otras de forma radical. Nadie sabe estar de un minuto a otro sin parte de su vida anterior acuario… Tómate un tiempo acuario, aíslate del mundo con los tuyos, con los que te hacen sonreír, apaga el teléfono o utilízalo lo justo. Lo que menos necesitas ahora es recordar momentos, lugares, situaciones, sino crearlos.
 
 ## Dinero
 
-Esta semana estás en el meollo de las cosas con ciertos aspectos afectando tu sector de dinero y valores. Se te está forzando hacia cierta área de tu vida que ha sido desatendida durante demasiado tiempo. Pon un poco más de tu pensamiento y acción en cómo ganar dinero y cuánto quieres ganar en el futuro.
+Los planetas en tu sector de comunicación esta semana te hacen más parlanchín/a de lo normal. Tanto tu situación económica, así como tu trabajo pueden depender de tu capacidad para transmitir tu mensaje de una manera concisa y poderosa. Pero ya que un aspecto negativo constriñe tu trabajo día a día, lo mejor es encontrar un equilibrio entre tu necesidad de destacar y tu necesidad de ganar dinero. El trabajo en equipo y el equilibrio van de la mano.

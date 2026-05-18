@@ -1,26 +1,27 @@
 ---
 layout: horoscopos
-title: capricornio 11 de mayo 2026 al 17 de mayo 2026 
-description: Horóscopo semanal capricornio 11 de mayo 2026 al 17 de mayo 2026. Esta semana vas a abrir los ojos capricornio, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
+title: capricornio 18 de mayo 2026 al 24 de mayo 2026 
+description: Horóscopo semanal capricornio 18 de mayo 2026 al 24 de mayo 2026. Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2026-05-11
+ogimg: /images/zodiac/semanal_capricornio.png#2026-05-18
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-05-11'
+ lastmod: '2026-05-18'
 ---
 
 
 
-## Esta semana vas a abrir los ojos capricornio, a pesar de que tus sentimientos estén totalmente descontrolados y no sepas si amas u odias… Vas a darte cuenta de lo que de verdad sientes, de lo que quieres cerca, de lo que no quieres volver a ver…
+## Te vas a ir alejando porque te quieres a ti mismo. Hay cosas que no merecen la pena, hay decisiones que quizás deberían haber sido tomadas mucho antes pero al final, hasta que no lo vemos claro, no damos el paso.
 
-Esta semana, la Luna, el astro que rige tu sector de relaciones, se prepara para la Luna Nueva del sábado, y puede que esto te ponga sensible y te haga ver las influencias que te rodean. Si has estado ignorando ciertos problemas, esta puede ser tu oportunidad para que abras los ojos y hagas algo al respecto. No sucederá del día a la noche, pero de a poco notarás un patrón o entenderás cosas que serán útiles en distintas maneras. Busca pasar la misma cantidad tiempo en familia de la que pasas trabajando. Siempre has tenido un fuerte instinto de supervivencia capricornio, y ese es el instinto que debes sacar ahora. Remonta de nuevo, remonta como siempre haces capricornio y deja un poco de preocuparte por tonterías. Hay cosas que no tienen solución y la verdad que mejor que no la tengan. Estás un poco reticente a compartir nada con nadie pero a menudo es importante que saques lo que sientes y que no te quedes atrapado en otros momentos que ya han pasado. No te agobies por nada, deja el mal humor de lado y vuelve a brillar como siempre has hecho. Necesitas centrarte en algo que te motive de verdad, busca el camino, métete de lleno en él y aplica la constancia. Si no hay algo que guíe tus pasos siempre estarás perdido, como en el limbo, sin saber muy bien qué hacer o hacia dónde dirigirte, sin tener claro nada. Es cierto que quizás tengas muchas dudas ahora mismo pero empieza a tomar decisiones de verdad que te acerquen más a lo que quieres conseguir. No tengas miedo de probar y tampoco tengas miedo de fallar. Cada persona necesita su tiempo de adaptación pero no te resistas ni digas que no por no cagarla, por no sufrir. Ya tienes un caparazón duro que puede resistirlo todo así que, inténtalo una vez más.
+Ahora que hay cuatro planetas en tu sector espiritual, es el momento del año en que el cosmos te anima a relajarte y tomarte un tiempo para ti. Puedes descubrir que estás más en contacto con tus sentimientos, en especial con los que han estado burbujeando en la profundidad durante algún tiempo. Tus sueños también podrían ser importantes e incluso pueden aportar valiosos consejos. El fin de semana podría encontrarte evaluando tus creencias y, tal vez, considerando recurrir a un consejero de vida para que te ayude a vivir a tu máximo potencial. ¿Cuál es la diferencia ahora? Pues que el tiempo en darte cuenta de que estabas haciendo el tonto, se acorta. Vamos, que puedes caer y volver atrás cuando no deberías pero te das cuenta en seguida. 
+ lo que pasa es que lo que sí debes aprender es a no tener que caer ni una vez más, aunque parezca que las cosas no te afectan, te afectan… ¿Por qué no cerrar las puertas que debes cerrar definitivamente y abrir las que te están esperando? Probablemente ganes mucho más… Piénsalo… Y actúa capricornio.
 
 ## Dinero
 
-Es necesario que esta semana recuerdes lo que aportas a la mesa. Tu panorama de deuda está a punto de ponerse de color de rosa, porque es posible establecer con cuidado y de manera realista los planes de pago con los bancos y los acreedores. Pero puede que no puedas conseguir todo el apoyo que requieres de tus redes sociales. En lugar de venderte a un precio muy caro, recuerda lo que tienes que dar. Es mejor el saber lo que vales, aunque no sea evidente ahora.
+Tienes una gran cantidad de aspectos astrológicos afectándote esta semana, muchos de los cuales afectan tu trabajo y dinero. En primer lugar, tus relaciones podrían ser menos que estables. Puede que tengas que contar con alguien más para ese préstamo que habías esperado. Los aspectos en tu sector de grandes instituciones como bancos e impuestos indican que debes tener cuidado con lo que dices y cómo lo dices.

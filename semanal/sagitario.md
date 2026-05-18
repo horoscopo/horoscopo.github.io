@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: sagitario 11 de mayo 2026 al 17 de mayo 2026 
-description: Horóscopo semanal sagitario 11 de mayo 2026 al 17 de mayo 2026. Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
+title: sagitario 18 de mayo 2026 al 24 de mayo 2026 
+description: Horóscopo semanal sagitario 18 de mayo 2026 al 24 de mayo 2026. Tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias, tu corazón vale oro, y tú también sagitario. Pero sigue protegiéndote a ti mismo…
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2026-05-11
+ogimg: /images/zodiac/semanal_sagitario.png#2026-05-18
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-05-11'
+ lastmod: '2026-05-18'
 ---
 
 
 
-## Las malas decisiones muy a menudo, te llevan a situaciones maravillosas.
+## Tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias, tu corazón vale oro, y tú también sagitario. Pero sigue protegiéndote a ti mismo…
 
-Pensamientos sobre viajes y destinos exóticos podrían alimentar tu deseo de hacer planes de vacaciones o de darte una escapada para tomarte un breve descanso si es que necesitas un cambio de ritmo. Y tal parece que no te faltarán oportunidades románticas, especialmente con Venus y Marte aumentando la probabilidad de atracciones instantáneas y alegres citas. En otra nota, la Luna Nueva del sábado en tu sector de salud podría ser uno de los mejores momentos para poner en marcha la siguiente etapa de un plan de negocios. Estás feliz pero a la vez triste, estás tranquilo pero a la vez nervioso. Se acerca un cambio grande sagitario, un cambio complicado pero necesario. Últimamente complaces demasiado, y sí, está bien pero el problema es que hay gente que se aprovecha de esto. Tienes que plantarle cara a más de uno y dejar las cosas claras. No te vuelvas a meter otra vez en círculos viciosos, no dejes que en tu cabeza vuelva a entrar el estrés y la ansiedad, de verdad, ahora no… Debes calmar a tu alma, debes dejar de pensar en el futuro y centrarte en el presente. sagitario, esta semana has de cerrar algunos ciclos de verdad. Una noticia buena hará que te vuelvas a impulsar de nuevo, te dará ese empujón que tanto necesitabas. Las cosas como son, todo el mundo necesita alguna razón para hacer las cosas, para progresar, para cambiar incluso, y tú más. Pues esa razón va a estar muy clara ahora. No mires atrás cuando sabes que no debes hacerlo, no te estreses por cosas que realmente no importan y no te preocupes por lo que en realidad no puedes controlar. Las cosas van a cambiar, tú vas a hacer que cambien, no permitas que nadie trate de desprestigiarte más. Las cosas a partir de ahora se harán a tu manera, guste o no. Lo tienes claro. Y recuerda que la vida siempre se vive mejor con una sonrisa en la cara.
+Adoptar una actitud tranquila al lidiar con otras personas puede ayudarte a actuar con más fluidez esta semana. Podrías sentir una tendencia a querer controlar las acciones, y puede que a algunas personas les resulte difícil manejar esto, ya que prefieren decidir por sí solas. Si puedes darle a los demás un margen para que lleguen a sus propias conclusiones, puede que sus conocimientos te resulten muy útiles. También tendrás más posibilidades de atraer su apoyo. Se avecinan cosas nuevas sagitario, algo que te va a remover enterito/a de arriba a abajo, pero antes vas a tener que desprenderte emocionalmente de algunas cosas pendientes. Esta semana vas a estar a tope, no vas a parar ni un solo momento, hay mucho por hacer. Pero por otro lado, igual que vas a tener sorpresas positivas, también hay una que quizás no lo sea tanto pero bueno, como ya no esperas nada de nadie ni nada de nada, tampoco será una gran decepción. Te vuelven a buscar sagitario, otra vez sí. Y aunque no puedas verlo, por detrás se están manejando los hilos. Pero tú pasa, es más, mejor que ni lo veas, a ti ya no te importa lo que pertenece al pasado pero sí que te jode que aún se esté dando vueltas a algo cuando debió de quedar todo clarísimo. En fin sagitario, que nadie te robe esta sonrisa esta semana. Trabaja duro, haz las cosas como siempre las haces, a lo grande, bien hechas. Sal con los tuyos y sigue tan positivo como siempre. Y quédate con esas sorpresas que van a darte la vida, que van a alegrarte la existencia, que van a darte chutes de energía bestiales. Esas son las que merecen la pena. El apego emocional se marchará… Primero, porque quieres que se marche…
 
 ## Dinero
 
-Este período es acerca de los aspectos que afectan a tu sector del matrimonio y las relaciones serias. Asegúrate de que tu calendario y contactos estén actualizados. Con el fin de hacer más dinero, tendrás que contactar a estas personas regularmente. Planea almuerzos, cenas y horas felices para establecer redes de contacto. Tu cuenta bancaria, como tu ego, te lo agradecerán más tarde.
+Esta semana puede que sientas frustración en tu objetivo de salir adelante económicamente. Hay atención no deseada sobre tu situación de deuda. Podrías caer fácilmente en la  depresión si no tienes cuidado. La buena noticia es que tienes la suficiente energía para perseverar y pagar lo que debes. Es posible que desees gastarlo todo en tu familia y diversión. Resiste la tentación, sólo por esta semana.
