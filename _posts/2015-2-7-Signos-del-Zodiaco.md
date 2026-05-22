@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 21 de mayo 2026
-description: Horóscopos del dia de hoy 21 de mayo 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 22 de mayo 2026
+description: Horóscopos del dia de hoy 22 de mayo 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-05-21
+ lastmod: 2026-05-22
 ---
-A partir del día de hoy, la vida se trata sobre verdad y justicia con Mercurio en Sagitario hasta principios de diciembre. Esta noche, la cuadratura entre Venus y Plutón podría convertirse en un arriesgado afrodisíaco debido a sus fuertes poderes de atracción. ¡Cuidado! En muchos sentidos, es un momento de déjà vu. No es un caso de no saber, ya has pasado por esa experiencia.
+Expresa tu opinión. Las vibras provenientes de la conjunción entre el Sol en Escorpión y Mercurio son oportunas si necesitas respaldar algo que es importante para ti. La vida va un poco más allá de lo que crees querer y es más sobre lo que está destinado a ser cuando la Luna forma trígono con Venus esta noche.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
