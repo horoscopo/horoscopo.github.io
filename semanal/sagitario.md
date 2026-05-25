@@ -1,26 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 18 de mayo 2026 al 24 de mayo 2026 
-description: Horóscopo semanal sagitario 18 de mayo 2026 al 24 de mayo 2026. Tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias, tu corazón vale oro, y tú también sagitario. Pero sigue protegiéndote a ti mismo…
+title: sagitario 25 de mayo 2026 al 31 de mayo 2026 
+description: Horóscopo semanal sagitario 25 de mayo 2026 al 31 de mayo 2026. Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2026-05-18
+ogimg: /images/zodiac/semanal_sagitario.png#2026-05-25
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-05-18'
+ lastmod: '2026-05-25'
 ---
 
 
 
-## Tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias, tu corazón vale oro, y tú también sagitario. Pero sigue protegiéndote a ti mismo…
+## Te has llevado tantas decepciones este tiempo atrás por creer a todas horas que las cosas saldrían como tú querías que te has propuesto directamente no planear, dejar que la gente que se quiera acercar a ti se acerque, no presionar, ya vendrán solitos, no preparar con demasiado tiempo los planes, hacer lo que te apetezca hacer en cada momento.
 
-Adoptar una actitud tranquila al lidiar con otras personas puede ayudarte a actuar con más fluidez esta semana. Podrías sentir una tendencia a querer controlar las acciones, y puede que a algunas personas les resulte difícil manejar esto, ya que prefieren decidir por sí solas. Si puedes darle a los demás un margen para que lleguen a sus propias conclusiones, puede que sus conocimientos te resulten muy útiles. También tendrás más posibilidades de atraer su apoyo. Se avecinan cosas nuevas sagitario, algo que te va a remover enterito/a de arriba a abajo, pero antes vas a tener que desprenderte emocionalmente de algunas cosas pendientes. Esta semana vas a estar a tope, no vas a parar ni un solo momento, hay mucho por hacer. Pero por otro lado, igual que vas a tener sorpresas positivas, también hay una que quizás no lo sea tanto pero bueno, como ya no esperas nada de nadie ni nada de nada, tampoco será una gran decepción. Te vuelven a buscar sagitario, otra vez sí. Y aunque no puedas verlo, por detrás se están manejando los hilos. Pero tú pasa, es más, mejor que ni lo veas, a ti ya no te importa lo que pertenece al pasado pero sí que te jode que aún se esté dando vueltas a algo cuando debió de quedar todo clarísimo. En fin sagitario, que nadie te robe esta sonrisa esta semana. Trabaja duro, haz las cosas como siempre las haces, a lo grande, bien hechas. Sal con los tuyos y sigue tan positivo como siempre. Y quédate con esas sorpresas que van a darte la vida, que van a alegrarte la existencia, que van a darte chutes de energía bestiales. Esas son las que merecen la pena. El apego emocional se marchará… Primero, porque quieres que se marche…
+Una invitación sorpresa podría llevarte a explorar nuevas opciones para pasar el tiempo y, si incluyen un poco de peligro y emoción, el entusiasmo será aún mayor. Con la Luna Llena en tu signo el domingo podrías ver que una relación que parecía haberse estancado ahora comienza a verse más animada. Podrías tener mucha química con otra persona, pero en esta etapa tal vez sea mejor tomarte las cosas con calma. Finalmente, podrías tener antojos de comida reconfortante, así que no te pases. No dejes que nadie defina quien eres, no dejes que nadie te de un empujón ahora porque en realidad, no lo necesitas, simplemente tienes que mentalizarte de lo que puedes llegar a conseguir tú, por ti mismo, independientemente de si te quieren ayudar o no. 
+ sino que aprovechan tus estados bajos de ánimo para que te vuelvas aún más loco, para que te desequilibres mucho más.
 
 ## Dinero
 
-Esta semana puede que sientas frustración en tu objetivo de salir adelante económicamente. Hay atención no deseada sobre tu situación de deuda. Podrías caer fácilmente en la  depresión si no tienes cuidado. La buena noticia es que tienes la suficiente energía para perseverar y pagar lo que debes. Es posible que desees gastarlo todo en tu familia y diversión. Resiste la tentación, sólo por esta semana.
+Es una semana llena de retos para ti. Tus sueños pueden ser algo más que una fuente de inspiración. Sus imágenes e ideas te ayudarán a determinar el negocio que sería bueno y la forma de avanzar en esa área. También es necesario reforzar tus ahorros. El cambio se aproxima y querrás prepararte para ello.

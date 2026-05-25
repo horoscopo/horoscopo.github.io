@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: escorpio 18 de mayo 2026 al 24 de mayo 2026 
-description: Horóscopo semanal escorpio 18 de mayo 2026 al 24 de mayo 2026. Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
+title: escorpio 25 de mayo 2026 al 31 de mayo 2026 
+description: Horóscopo semanal escorpio 25 de mayo 2026 al 31 de mayo 2026. Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2026-05-18
+ogimg: /images/zodiac/semanal_escorpio.png#2026-05-25
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-05-18'
+ lastmod: '2026-05-25'
 ---
 
 
 
-## Si no encuentras algo que te motive o algo que te haga seguir adelante debes cambiar el guión, debes salir de donde estás porque estás en el lugar equivocado…
+## Mantén una actitud positiva, tienes que dejar de concentrarte en lo que podría salir mal y empezar a centrarte en lo que puede salir bien. Dentro de poco no te parará ni un tren pero cuídate a ti mismo un poco más…
 
-Aunque es posible que desees explorar nuevas oportunidades, ciertas responsabilidades podrían estarte frenando. Este es el dilema en el que podrías encontrarte al inicio de la semana, cuando podrías perderte de una oportunidad que parece ser demasiado buena para dejarla pasar debido a otras responsabilidades. Sin embargo, Mercurio entrando a Acuario el sábado podría seguir poniendo nuevas opciones en tu camino, incluso aunque no sean tan atractivas como la original. Esta semana podría revivir un amor secreto. Te estás dando cuenta de quien sí y quien no escorpio. Y además bien rapidito. Ya no te apetece pasar ni una más por alto, ya no te apetece tener que sonreír si no te apetece sonreír. Es cierto que te adaptas a todo escorpio pero ahora sí te vas a alejar de lo que no te hace ni put* gracia y aquí se incluyen momentos, personas y situaciones. Esta semana estás a tope escorpio, no te apetece anclarte en ningún sitio, no te apetece sentarte a ver la vida pasar. Nada de eso, quieres sol, quieres que el aire te de en la cara y salir a pasar el rato con amigos, socializarte y divertirte sin tener que pensar en nada más. Amplía tu mente escorpio, amplía tu mente y tómate una temporada sabática, aunque sean unos días o unas semanas. Haz lo que tengas que hacer pero hazlo con calma, y apaga el teléfono por favor. Si en realidad quieres tomarte un tiempo por y para ti no puedes estar ahí todo el día enganchado a todo. Esta semana tienes que cargar pilas, y debes cargarlas pasando tiempo con las personas que quieres y dejando un poco a un lado algunas obligaciones y responsabilidades. No está mal de vez en cuando descansar del mundo que te rodea, aunque sea un poquito. Desaparece y resístete a la tentación de atacar escorpio, da igual tener la última palabra en algunos casos. A veces es mejor tener paz.
+Cálidos y tiernos sentimientos son despertados esta semana, animándote a ponerte en contacto tanto con amigos como familiares que no has visto o de quienes no has escuchado en un tiempo. Es también una oportunidad para reunirte con vecinos o apoyar eventos de caridad en tu localidad. Aunque podrías toparte con algunos retrasos, una actitud optimista puede hacer toda la diferencia. En otra nota, la presencia de Mercurio en Géminis podría llevarte a planificar a futuro con respecto a algunos cambios que te gustaría hacer en casa. El mundo no te entiende escorpio, ya estás acostumbrado a eso, pero no te frustres, en serio no te frustres. Ha llegado un momento en el que ya no quieres las cosas a medias, o te lo dan todo o mejor que no te den nada. Estás harto de hacerte ilusiones que después no se cumplen, estás harto de depender siempre de la felicidad de los demás, de sus decisiones… Y te has dado cuenta de que vales mucho, de que si el resto no es capaz de valorar lo que podrías llegar a dar no es problema tuyo. Ahora sí sabes lo que vales escorpio, ahora sí sabes lo que mereces. A pesar de que ahora sea todo o nada ni siquiera necesitas eso del resto, ¡qué va! Porque las cosas están cambiando, ahora eres tú quien necesita tiempo, quien necesita libertad para poder entender qué es lo que necesitas, qué es lo que quieres, qué es lo que de verdad te hará feliz. Quieres “sobrevivir” en el mundo sin necesidad de nadie, sin necesidad de nada que te ate y te corte las alas, sin broncas, sin malos rollos, sin dramas ni peleas. Cuando te metes en bucles así no avanzas y si no avanzas te estancas, y si te estancas dejas de ser feliz. Ya has estado en el fondo mucho tiempo escorpio, ahora que has salido no vuelvas a caer. No eres de hierro no, pero procura serlo esta semana, aunque sea complicado. Descúbrete a ti mismo y descubre tu misión en la vida, y hazlo solo, y en vez de darle vueltas a lo malo, quédate con los buenos momentos, con lo que de verdad no falla.
 
 ## Dinero
 
-Puede que estés pensando en cómo nivelar tus lados masculino y femenino esta semana. Uno quiere que avances en tus habilidades de comunicación para que puedas codearte con los grandes. No tienes que dejar que los demás verbalmente caminen sobre ti, ni tu tienes que dominar. Tu lugar de trabajo es donde puedes mostrar de lo que estás hecho/a para usar tu creatividad y habilidad para tratar con la gente.
+Para ti, esta semana es sobre la energía acumulada en el sector del hogar, lo que te ha llevado a pensar en términos completamente diferentes. Más vida en esta zona significa que puede que tengas que recibir a más clientes en tu oficina o hacer muchos nuevos negocios desde ese espacio. Del mismo modo, tu creatividad está en alza. Si sientes esa inclinación, un negocio desde casa como decoración o construcción podría ser de gran beneficio.
