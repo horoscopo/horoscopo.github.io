@@ -17,12 +17,8 @@ sitemap:
 ---
 
 
- > sagitario, para ti el mes de mayo será uno de esos que no se olvidan y es que tu plenitud creativa y las ganas de vivir harán que nada ni nadie te impida ser feliz. Tu atractivo se verá incrementado durante la noche y serás irresistible para muchas personas.
+ > Sagitario, celebra tus logros al inicio del mes. Las oportunidades que trae Júpiter en Leo ampliarán tus horizontes de formas que ni siquiera imaginas todavía.
 
 
 
-Los temas relacionados con la seguridad entrarán en juego para ti este mes, querido sagitario, ya que la estación de Géminis desplaza tu atención hacia los asuntos financieros y el reino material. Empezarás a concentrarte más en la calidad de vida que deseas y en las decisiones presupuestarias que debes tomar para hacer realidad tus sueños. Por suerte, Mercurio interviene para aportar claridad a tus finanzas el 17 de mayo, cuando el planeta mensajero debute en el signo de los Gemelos. Mientras tanto, Plutón retrograda en Acuario el 6 de mayo, pidiéndote que profundices en tu espiritualidad.
-La luna nueva de Tauro llega el 16 de mayo. Utiliza la energía en juego para establecer tus intenciones en torno a la prosperidad y el crecimiento, comprendiendo que podrías necesitar invertir menos dinero en salir y más en tu cuenta bancaria durante los próximos seis meses. Desafortunadamente, podría costarle establecer límites para usted mismo cuando los almuerzos de fin de semana y las cenas fuera son opciones, por lo que es importante que se sienta cómodo con la idea de sugerir alternativas a su círculo de amigos.
-El Sol migra a Géminis el 20 de mayo, marcando el comienzo oficial del verano mientras activa su tercera casa solar. Tu curiosidad alcanzará su punto álgido durante las próximas semanas, especialmente cuando Mercurio entra a Géminis el 17. Tome medidas adicionales para apoyar su salud mental durante este tiempo, y no tenga miedo de expresar sus emociones antes de que tengan la oportunidad de burbujear.
-Días destacados: 2, 4, 9
-Días desafiantes: 7, 8, 11
+El mes inicia con una Luna Llena en tu signo el 1 de junio, un momento de culminación personal. La Luna Nueva del 14 en Géminis abre la puerta a nuevas asociaciones o compromisos románticos. Tu regente Júpiter entra en Leo el 30 de junio, iniciando un período de expansión mental, viajes y nuevas filosofías de vida. Ten paciencia el 29 con Mercurio retrógrado, que podría traer trámites burocráticos del pasado.

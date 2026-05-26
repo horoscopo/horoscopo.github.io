@@ -15,8 +15,4 @@ sitemap:
 ---
 
 
-La luna nueva del 16 de mayo puede ser un momento glorioso y afortunado. Espera recibir invitaciones a fiestas en todas partes. Tal vez quieras organizar una fiesta por tu cuenta. Da un paso al frente, y sé sociable a lo grande. Marte entra a Tauro el día 18. No te apresures en arreglar todo de una vez. 
-Mercurio entra a Géminis el día 17. Enfócate con facilidad en las preparaciones y agendas para las festividades. Que aumente tu espíritu festivo, y diviértete más durante la temporada. El sol entra a Géminis el 20 de mayo. La lista de tareas más larga no será un obstáculo para ti. 
-Incluso si te rodeas de gente durante la luna llena del día 31, serás capaz de identificar los lugares donde puedes hacer una gran diferencia para alguien especial. Tus habilidades sociales y de observación se agudizan ahora. Al igual que tu instinto e intuición. Úsalos todos. 
-Días destacados: 6, 12, 21
-Días desafiantes: 20, 27
+Tu regente Venus entra en Leo el 13 de junio, centrando tu atención en el hogar y la familia. La Luna Nueva del 14 es perfecta para revisar tus finanzas y buscar nuevas fuentes de ingresos. El 19 de junio, Quirón entra en tu signo, iniciando un proceso de sanación personal profunda. Con la Luna Llena en Capricornio el 29 de junio, verás los frutos de un esfuerzo intelectual o un viaje largo. Júpiter en Leo desde el 30 promete expansión en tu vida privada.

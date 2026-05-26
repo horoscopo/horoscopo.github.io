@@ -15,9 +15,4 @@ sitemap:
 ---
 
 
-Sal y socializa durante la luna nueva del 16 de mayo. Ninguna reunión es demasiado grande. Puede que no recuerdes el nombre de todos, pero todos te recordarán y querrán verte de nuevo. Tendrás cosas qué decir, y hay mucha gente que quiere escucharlo todo. 
-Marte entra en Tauro el 18. Presta atención a las finanzas y evita cualquier complicación o confusión innecesaria. 
-Resuelve un problema doméstico o renueva el ambiente de tu hogar con la luna llena del 31 de mayo. Detecta el cambio que quieres hacer, o experimenta jugando y ve las mejoras instantáneas. 
-
-Días destacados: 3, 13, 19
-Días desafiantes: 15, 25
+La Luna Nueva del 14 de junio en Géminis te ayuda a organizar tu trabajo y salud. El evento clave es la Luna Llena en tu signo el 29 de junio, un momento de gran poder personal y claridad sobre quién eres. Júpiter entrando en Leo el 30 favorece tus finanzas compartidas y herencias. Mercurio retrograda el 29 en tu zona de pareja, así que evita discusiones innecesarias con tu socio o compañero.

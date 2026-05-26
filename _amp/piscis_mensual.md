@@ -15,4 +15,4 @@ sitemap:
 ---
 
 
-Los sentimientos podrían volverse intensos alrededor de la Luna Llena del 1 de mayo, y cosas buenas podrían surgir de ello. Si alguien de repente se acerca a ti con un problema, trata de calmarle como sólo tú sabes. La Luna Nueva del 16 de mayo llena tu vida de romance y maravillas. Puede que pienses que no estás de humor o no tienes interés, pero eso no es cierto. Eres alguien que siempre está listo para responder a una muestra de afecto o aprecio. Date la oportunidad de ver si piensas que es de verdad. La Luna Llena de Sagitario el 31 de mayo, momento oportuno para considerar mejorar o modificar ciertos asuntos hogareños.
+La Luna Nueva en Géminis del 14 de junio pone el foco en tu hogar y raíces. Con Venus en Leo desde el 13 y Júpiter entrando en ese signo el 30, tu vida laboral y rutinas de salud recibirán una inyección de optimismo y mejora. La Luna Llena en Capricornio el 29 culmina un proyecto grupal o un sueño compartido. Ten cuidado con Mercurio retrógrado desde el 29 en tu zona de creatividad, podrías tener bloqueos temporales.

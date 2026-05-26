@@ -17,8 +17,8 @@ sitemap:
 ---
 
 
- > acuario, estas semanas podrás disfrutar de algún reconocimiento. Aprovecha para recobrar tu confianza y terminar tareas que tienes pendientes hace mucho tiempo en lugar de dejarte llevar por el momento. Será un buen mes para que te atrevas con alguna actividad que hace tiempo tenías ganas de hacer.
+ > Acuario, abre tu corazón a los demás. La llegada de Júpiter a tu zona de pareja marca el inicio de un año donde las relaciones serán tu mayor fuente de crecimiento.
 
 
 
-Tanto amistades como gente del vecindario se destacan, de las mejores maneras posibles, durante la luna llena del 1 de mayo. La generosidad proveniente de lejos puede compartirse contigo y tus mejores amistades. Puede que no sea un buen momento para fiestas, pero pronto podría serlo. Sal de tu caparazón bajo la luna nueva del 16 de mayo. Si te has estado ocupando de un proyecto específico, ahora puedes ampliar tu rango y tener una perspectiva más completa sin sacrificar tu concentración. Harás que el éxito parezca fácil. El 31 de mayo, la Luna Llena de Sagitario expone emociones escondidas y te permite hablar abiertamente sobre ellas.Días destacados: 13, 16, 22
+Junio trae diversión con la Luna Nueva en Géminis del 14, activando tu zona del romance y los hijos. El ingreso de Júpiter en Leo el 30 de junio es vital para tus relaciones, trayendo expansión y suerte en el área de la pareja. La Luna Llena del 29 te pide retiro y descanso. Mercurio retrograda ese mismo día en tu sector de salud, sugiriendo que revises hábitos del pasado.

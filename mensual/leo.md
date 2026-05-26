@@ -17,14 +17,8 @@ sitemap:
 ---
 
 
- > leo, la palabra novedad estará muy presente en un mes de mayo cargado de situaciones a las que no te habías enfrentado antes. Vas a tener que adaptarte rápido y sacarás lo mejor de ti para hacerlo. Cuando esté acabando el mes estarás muy orgullosa de ti y tu satisfacción se verá reflejada en todo lo que haces.
+ > Leo, prepárate para un ciclo de abundancia. La entrada de Júpiter marca el inicio de un año de grandes oportunidades; mantén el corazón abierto y la generosidad por bandera.
 
 
 
-Te sientes expresivo al comenzar el mes, leo, con el sol de Tauro destacando tu tercera casa de la comunicación y la conciencia. La capacidad de procesar pensamientos con compasión fluye y te abre a conexiones más profundas con los demás. Tu mundo interior recibe un impulso de energía cuando el ingenioso Mercurio entra en Tauro el 2 de mayo, inspirándote a escuchar a tu corazón y confiar en tu intuición.
-Las ideas y mensajes inspiradores llegan durante la luna nueva de Tauro el día 16, activando tu creatividad. Comparte tu mente brillante con los demás a través de la escritura, la narración de cuentos o los intercambios significativos. Podrías fijarte un poderoso objetivo centrado en la comunicación. Tu capacidad para dar y recibir amor crece cuando Venus entra en Cáncer al día siguiente, y tienen lugar conversaciones sanadoras.
-Las emociones se intensifican cuando el Sol en Géminis ilumina tu undécima casa el 20 de mayo. Tomar la iniciativa para comprender y abrazar tus sentimientos es fortalecedor. Tu atención se desplaza hacia tu mundo interior para que puedas ver hacia dónde está tratando de guiarte tu hermosa intuición. Convierte tu espacio vital en un confortable oasis donde puedas buscar en tu alma. Cuando Marte entre en Tauro el 18, asegúrate de comunicarte desde el corazón con gracia y paciencia.
-Los cambios en tu carrera tienen lugar durante el luna llena de Sagitario del 31 de mayo. Este eclipse te permite abrazar tu poder y habilidades personales al tiempo que liberas el miedo. Eres influyente y popular, así que asegúrate de que tu mensaje sea claro. Cuando una puerta se cierra, otra se abre.
-Estás conectado y sigues a tu corazón. Buena suerte este mes, Leo
-Días destacados: 4, 13, 23
-Días desafiantes: 5, 18, 26
+Junio es un mes estelar para ti. Venus entra en Leo el 13 de junio, realzando tu magnetismo y belleza. El gran evento es el ingreso de Júpiter en tu signo el 30 de junio, un tránsito de expansión y suerte que ocurre cada 12 años. La Luna Nueva en Géminis del 14 favorece tus redes sociales y proyectos grupales. La Luna Llena en Capricornio el 29 te pide atender tu salud y rutinas diarias.

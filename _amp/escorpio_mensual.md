@@ -15,4 +15,4 @@ sitemap:
 ---
 
 
-Mantén tus emociones bajo control durante el fin de semana de Luna Llena del 1 de mayo. Varias viejas amistades podrían traerte historias y recuerdos que despierten algunos sentimientos incómodos. Escucha, aprende, y puede que hasta encuentres un nuevo amor. Sorpréndete tanto a ti - como a otros - durante la Luna Nueva del 16 de mayo. Ellos también estarán esforzándose de más para sorprenderte. Mantener las situaciones divertidas hará que los sentimientos no se vean afectados. A veces, un viejo truco puede aún funcionar. La última semana del mes es más tranquila y muy productiva, con más diversión del tipo casual. A partir del 29 de mayo, el progreso podría llegar en pequeños pasos, pero será constante.
+Junio comienza con una Luna Llena en Sagitario (1 de junio) que cierra un capítulo financiero. La Luna Nueva del 14 en Géminis te invita a profundizar en tus vínculos y recursos compartidos. Marte, tu regente, entra en Géminis el 28, acelerando tus procesos internos. La Luna Llena en Capricornio el 29 trae claridad en tu comunicación. El gran cambio de Júpiter a Leo el 30 de junio promete un año de gran éxito y visibilidad profesional.

@@ -17,8 +17,8 @@ sitemap:
 ---
 
 
- > cáncer, con Saturno ya bien instalado en tu signo contrario, notarás sus restricciones en mayo. Esto, pese a parecer un inconveniente, te ayudará a encontrar diferentes soluciones a las que estás acostumbrado. Aunque te gusta tenerlo todo bajo control, este mes podrás indagar en lo que significa seguir tu intuición, y te sorprenderás de lo que consigues simplemente dejándote llevar un poco. A partir del 22 tu regente empieza a retrogradar, así que será el momento para que reflexiones sobre lo que estás aprendiendo.
+ > Cáncer, confía en tu intuición más que nunca. El solsticio es tu momento de brillar, pero no olvides que para recibir lo nuevo, primero debes soltar lo que ya no vibra contigo.
 
 
 
-Creativas y constructivas ideas surgen de casi toda persona con la que hablas bajo la Luna Llena del 1 de mayo, cuando también puedes divertirte mucho. Compórtate entusiastamente y deja que tu niño interior salga a jugar un poco más. Más tarde, la Luna Nueva del 16 de mayo podría inspirar en ti grandes intenciones y nobles planes. Elige tu favorito y el que sea más cordial y sorpréndete con qué tan posible realmente puede llegar a ser. Es un buen momento para tener sueños grandes que no tienes que compartir con nadie. El amor podría volverse emocionante cuando Venus entre a tu signo el 18 de mayo. Tu pareja o un interés amoroso podrían tratar de sorprenderte, pero lo verás venir.
+Mercurio entra en tu signo el 1 de junio, dándote voz, pero cuidado con su retrogradación el día 29. El Sol entra en Cáncer el 21, marcando el inicio de tu temporada y el solsticio. La Luna Nueva en Géminis del 14 te pide descanso y cierre de ciclos. Con Venus en Leo desde el 13 y Júpiter uniéndose el 30, tus finanzas empezarán a ver un crecimiento notable y merecido.

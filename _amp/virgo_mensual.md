@@ -15,13 +15,4 @@ sitemap:
 ---
 
 
-El mes de mayo llega como una ola de revelación empoderadora, virgo. Mercurio entra en Tauro el 2 de mayo, y tu segunda casa de los recursos y la autoestima recupera velocidad. Estás creando estabilidad a nivel financiero, emocional y energético.
-El día 4, Plutón en Acuario se sitúa retrógrado en tu octava casa de la transformación y la intimidad, arrastrándote hacia capas profundas y tácitas de autoexploración. Si has superado dinámicas poco saludables o miedos que han dictado en silencio tus elecciones, es hora de desenredar los hilos.
-Mercurio entra en Géminis el 17 de mayo, activando tu undécima casa de la amistad y el progreso. Las personas que te rodean reflejan tu evolución, o revelan dónde has estado aferrándote a versiones anticuadas de ti mismo. La Luna Llena en Escorpio del día 1 profundiza en esto, iluminando tu quinta casa de la pasión y la inspiración. 
-Venus entra en Virgo el 18 de mayo en tu décima casa de la carrera, restaurando la confianza. Llega el merecido reconocimiento
-Después, el día veinte, el Sol entra en el curioso Géminis, atrayéndote hacia tu interior. Con el Sol en tu duodécima casa, la del descanso y la espiritualidad, es hora de un hermoso restablecimiento.
-Urano sale de su sombra el 21 de mayo, agudizando tu enfoque en el legado que estás aquí para construir. El peso de la responsabilidad se hace más evidente, pero también tu inquebrantable tenacidad. Este es el momento de sentar las bases para el futuro que siempre has imaginado.
-El 31 de mayo, la luna llena de Sagitario te ofrece la oportunidad de esculpir el camino a seguir con la intención y la claridad que reflejan la verdadera profundidad de tu potencial.
-¡Buena suerte este mes, Virgo!
-Días destacados: 1, 12, 22
-Días desafiantes: 8, 16, 28
+Tu regente Mercurio entra en Cáncer el día 1, favoreciendo tus amistades, aunque su retrogradación el 29 pide cautela en grupos. La Luna Nueva en Géminis del 14 ilumina tu carrera y estatus profesional, ideal para metas laborales. Con la Luna Llena en Capricornio el 29, un proyecto creativo o una historia romántica llegará a su clímax. Júpiter en Leo desde el 30 activa tu zona del subconsciente, invitándote a una búsqueda espiritual profunda.

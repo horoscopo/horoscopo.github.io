@@ -15,4 +15,4 @@ sitemap:
 ---
 
 
-La Luna Llena del 1 de mayo resalta la importancia de tener buena salud. Te verás muy bien sin importar cómo te sientas. Felicítate por todos tus buenos hábitos y difunde tu buena vibra. Alguien que es importante para ti te va a escuchar. La Luna Nueva del 16 de mayo te traerá buenos momentos de tranquilidad. Busca privacidad si eso es lo que quieres o compártelos con ese alguien especial. Si es que prefieres descansar, hazlo. Aquello que elijas hacer será muy gratificante. El 18 de mayo podría ser un día rico en romance con Venus entrando en Cáncer. Es posible que sientas un poco de duda al respecto al principio, pero eso puede cambiar.
+Tu regente Venus entra en Leo el 13 de junio, activando tu vida social y tus deseos de compartir con amigos. La Luna Nueva en Géminis del 14 es perfecta para planear viajes o estudios superiores. La Luna Llena en Capricornio el 29 de junio trae un cierre o culminación en asuntos relacionados con tu hogar o base emocional. El ingreso de Júpiter en Leo el 30 expandirá tu círculo de influencias y tus sueños a largo plazo.
