@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Aries Mayo 2026 
+title: Horoscopo Aries Junio 2026 
 permalink: /horoscopo-mensual/amp/aries/
 normallink: /horoscopo-mensual/aries/
 home: FALSE
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/Aries_mes.png#2026-04-26
+ogimg: /images/mes/Aries_mes.png#2026-05-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-04-26'
+ lastmod: '2026-05-26'
 ---
 
 

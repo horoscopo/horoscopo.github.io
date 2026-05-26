@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Libra Mayo 2026 
+title: Horoscopo Libra Junio 2026 
 permalink: /horoscopo-mensual/amp/libra/
 normallink: /horoscopo-mensual/libra/
 home: FALSE
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/Libra_mes.png#2026-04-26
+ogimg: /images/mes/Libra_mes.png#2026-05-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-04-26'
+ lastmod: '2026-05-26'
 ---
 
 
