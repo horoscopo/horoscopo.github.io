@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: acuario 25 de mayo 2026 al 31 de mayo 2026 
-description: Horóscopo semanal acuario 25 de mayo 2026 al 31 de mayo 2026. Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca acuario.
+title: acuario 01 de junio 2026 al 07 de junio 2026 
+description: Horóscopo semanal acuario 01 de junio 2026 al 07 de junio 2026. No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo acuario.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2026-05-25
+ogimg: /images/zodiac/semanal_acuario.png#2026-06-01
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-05-25'
+ lastmod: '2026-06-01'
 ---
 
 
 
-## Algunas personas deberían tener más cuidado con sus palabras, deberían medir de verdad lo que dicen y lo que no, porque una vez que se han dicho, sólo puedes perdonarles, pero no, no se olvidan nunca acuario.
+## No hace falta que sigas y que sigas cuando estás perdiendo más de lo que ganas, no vuelvas a hacerlo. Céntrate en perdonar y en vivir tranquilo acuario.
 
-Puede que una relación clave experimente un nuevo comienzo, especialmente con la Luna Llena del domingo en Sagitario alentándote o alentando a la otra persona a dar el primer paso. Ya se trate de un nuevo romance o de una relación a largo plazo, la mezcla actual de energías genera un cambio de marcha, el cual podría profundizar la relación o presentar un desafío que ambos disfruten. Por otro lado, puede que debas llegar a un punto medio con respecto a un asunto familiar, pero esto podría implicar hacer un mayor sacrificio. En serio, acuario, por muy mal que vayan las cosas has demostrado al mundo que con tu ejemplo que se puede vencer cualquier obstáculo poniendo ganas, entusiasmo y pasión. A pesar de que eres siempre alguien bastante reservado para tus cosas más profundas (quizás a veces parece que hablas demasiado pero a la hora de la verdad de lo tuyo, de lo profundo, no sueles abrir el pico), la gente que te conoce sabe de sobra que te has caído y levantado muchas veces en estas últimas semanas queriendo antes que cualquier otra cosa tener el control sobre ti mismo. Eres acuario por lo tanto es normal que no todo lo que quieras se de en el momento, la constancia y el trabajo diario es lo que a ti, te hace cumplir tus objetivos y tus metas, la constancia es al final la que te da todo lo que buscas. Las cosas que llegan rápidamente se acaban yendo de la misma manera así que, sigue con lo que tienes fijado en la mente y no desistas porque cualquiera quiera llegar y cambiar tus planes. No te dejes llevar por nadie ahora, puede ser una semana con grandes noticias pero tienes que trabajarlo y sobretodo mantener esa actitud de querer ir a por todas. Lo has pasado mal acuario, así que, plantéate si te merece la pena volver a mirar atrás de nuevo, creo que no. Lo peor ya está casi superado, no estabas del todo bien con tu vida y por eso decidiste cambiar y aunque los cambios no se den todavía no importa porque están en tu cabeza y poco a poco lo estarán en tus hechos. No te agobies, verás como cada día que pasa es una victoria hacia lo que quieres, sólo preocúpate de vivir esos días lo mejor que puedas ahora…
+Con un mayor enfoque en un sector más aislado de tu carta, has estado disfrutando de un respiro. Sentirás un renacer con el Sol en Géminis. Ahora es el momento de canalizar tu energía en proyectos y planes que has estado incubando durante las últimas semanas. Y con tu regente Urano influyendo en tus decisiones, tendrás menos propensión a retrasos y frustraciones inesperadas. Sin embargo, ten cuidado el sábado, ya que la fase lunar podría alentarte a expresar sentimientos de una forma un poco demasiado honesta. La zona de confort es un sitio bonito acuario, un lugar cómodo en el que probablemente nada ni nadie pueda molestarte, pero recuerda que nada crece ahí, así que, si quieres conseguir algo que realmente merezca la pena empieza a moverte y a buscarlo. El primer paso para todo siempre es duro pero piensa que es sólo eso, un paso, que después todo fluye. Esta semana tienes que dar más de un paso para empezar a ver luz en la oscuridad, para darte cuenta de una vez que el lugar en el que estás clavado te atrapará mucho más. Llega una buena noticia, algo que te hará removerte del todo, algo que esperabas… Y llega porque en realidad tendrás una buena actitud para que las cosas que merecen la pena aparezcan. No desaproveches las oportunidades más acuario, ni tampoco tengas miedo de defender o de explicar tus decisiones a nadie, es tu vida acuario. No le debes ninguna explicación a nadie. Así que, cuando empieces a caminar hacia lo que de verdad te interesa y te gusta, no mires atrás porque recuerda que no debes nada a nadie, si no más bien al revés. Y ten claro que debes rodearte de personas que saquen la magia de ti, y no la locura. No te metas en juegos de niños pequeños, no te dejes llevar por las emociones ahora, que las sensaciones de otros no se cuelen en tu vida. Va a empezar a caminar hacia buen puerto acuario, y tú mismo te lo notas, no la cagues por nada ni por nadie.
 
 ## Dinero
 
-Ahora estás en un período de redefinición de lo que eres y cómo te proyectas al mundo. El Universo te está pidiendo que prestes mucha atención a tu carrera. Si no es la que deseas tener, este es el momento de cambiarlo. No vas a conseguir mucho más apoyo del que ya tienes.
+Destaca esta semana la necesidad de actualizar tu conjunto de habilidades. El fomentar tu educación no sólo te hace sentir más confianza en lo que puedes hacer, pero también recibe a otros en el hábito de percibirte como un/a experto/a en tu campo. Es posible que necesites incorporar conocimientos de vidas pasadas. No tienes que saber por qué eres bueno/a en algo, simplemente lo eres.
