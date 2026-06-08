@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: sagitario 01 de junio 2026 al 07 de junio 2026 
-description: Horóscopo semanal sagitario 01 de junio 2026 al 07 de junio 2026. Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+title: sagitario 08 de junio 2026 al 14 de junio 2026 
+description: Horóscopo semanal sagitario 08 de junio 2026 al 14 de junio 2026. Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2026-06-01
+ogimg: /images/zodiac/semanal_sagitario.png#2026-06-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-06-01'
+ lastmod: '2026-06-08'
 ---
 
 
 
-## Ten paciencia con los demás y contigo mism@, trata de no alterarte por cualquier cosa, da prioridad a lo que es importante, nada de moverte por impulsos.
+## Nunca es tarde para hacer las cosas que uno quiere. Nunca es tarde para agarrar el teléfono, para decir te quiero, para mandar a la mierd*, para sacar de una vez todo lo que tienes dentro.
 
-Algo que hace tiempo deseas podría volverse realidad esta semana. O quizá tengas la oportunidad de poner en marcha un plan o una idea de negocios que podría ser muy lucrativa. De todas maneras, te conviene mantener los pies en la tierra y no dejarte llevar por las expectativas. Con la presencia del amoroso Venus en tu sector de horizontes lejanos y el Sol transitando por Géminis, puede que tengas ganas de buscar opciones de viaje o de algo que te ayude a despejar tu mente. No desperdicies ni un solo día de tu vida sagitario porque los días buenos te darán felicidad, y mucha, los días malos sólo te darán experiencia, y esos días en los que te quieres morir te darán lecciones. En serio sagitario, quédate en los días buenos, y trata de mantenerlos el mayor tiempo posible. Esta semana vas a brillar con más fuerza que nunca, has decidido salir de todos y cada uno de los malos rollos que últimamente te rodeaban, y eso al final tendrá su beneficio. A la gente le gusta el/la sagitario de siempre, y todos los ojos se fijan en ti cuando estás bien. Empieza a dejar de pensar todo el tiempo, da pequeños pasos pero no te frenes, no te estanques en lo que fue porque ya forma parte del pasado y ten fe en tu futuro, ten fe en que puedes conseguir lo que sea cuando estás bien, porque atraes lo positivo, atraes las cosas buenas. Haz balance, es un buen momento para que dejes de hablar de problemas y empieces a hablar de todo lo que llega, empieza a hacer del resto de tu vida lo mejor de tu vida sagitario. Y ten paciencia, mucha paciencia porque te llevará un tiempo aceptar que no hay que buscar respuestas a todo porque cuando encuentras la respuesta la vida te ha cambiado la pregunta. Todo tiene que ponerse a tu favor ahora, debe ponerse a tu favor. Feliz semana y feliz vida.
+Tal vez te estás presionando demasiado, lo que podría ser un obstáculo para conseguir algo que debería ser fácil. Date un par de días de gracia y puede que descubras que no es tan complicado como pensabas. La noticia clave de esta semana es que el afortunado tu regente Júpiter se une a Venus el martes 9. Durante este periodo de tiempo, tu energía podría ser más alta que de costumbre. También puedes tener más oportunidades para progresar en el trabajo. En la vida estamos acostumbrados a arrepentirnos de muchas cosas que en su día hicimos mal pero que también ahora podemos arreglar, empezando por cambiar nuestra actitud. Si no tiene solución no hay que preocuparse más, es algo con lo que te tocará vivir, para bien o para mal, el resto de tu vida, es algo que no cambiará. Pero lo que aún tiene solución, sea la que sea, ¿por qué no solucionarlo? Muchas veces te encantaría cerrar episodios que, aunque parezcan cerrados no lo están del todo, llama a esa persona con la que hace tiempo que no hablas, a esa otra con la que perdiste contacto, a esa otra que fue especial, y sí, por qué no, soluciona cosas que quedaron pendientes. Aguantarse toda la vida algo dentro no es bueno, hay que sacar lo que uno siente, las discusiones a menudo son buenas, siempre que sean respetando al otro, el hecho de decir qué es lo que cambiarías, qué es lo que te pareció mal, qué es lo que te hubiera gustado decir hace mucho tiempo… Todas esas cosas limpian a uno por dentro, el rencor, la rabia, las ganas de decir y no poder, el poder decir pero después no hacer, todo eso, cuando no se saca fuera se acumula, y ¿por qué no sacarlo ahora? ¿Por qué no decir todas esas palabras que no se dijeron? ¿Por qué no dejar limpia tu alma? Hubo un tiempo en el que te funcionó eso de querer decir tanto y saber que es mejor no decir nada… Pero ahora quizás es el momento de que las cosas cambien sagitario…
 
 ## Dinero
 
-Puedes tener la tentación de ir a por un trabajo que no pensabas que podrías conseguir hace una semana. Estás ganando seguridad, no sólo acerca de tus habilidades innatas, sino también acerca de cómo te expones al mundo con tu discurso, gestos y forma de vestir. Ciertos aspectos indican un tiempo de resolución de problemas a nivel familiar o con tu pareja romántica. Dos o tres mentes piensan mejor que una cuando se trata de la construcción de tu nueva imagen.
+Puede que la forma en la que te comunicas y tus palabras tengan que ser revisadas y se verificadas con exactitud. Las ideas pueden ser maravillosos puntos de partida para futuros proyectos, pero existe la posibilidad de que el mensaje te llegue envuelto en el proceso. Utilizar esta energía creativa para aprender un nuevo idioma (lo que sin duda te ayudará en tu trabajo) o continuar tu educación puede marcar la diferencia.

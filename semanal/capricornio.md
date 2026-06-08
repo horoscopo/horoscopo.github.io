@@ -1,26 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 01 de junio 2026 al 07 de junio 2026 
-description: Horóscopo semanal capricornio 01 de junio 2026 al 07 de junio 2026. Tienes que plantarte capricornio, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
+title: capricornio 08 de junio 2026 al 14 de junio 2026 
+description: Horóscopo semanal capricornio 08 de junio 2026 al 14 de junio 2026. Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento capricornio. Hay personas a las que TÚ debes dar ese escarmiento.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2026-06-01
+ogimg: /images/zodiac/semanal_capricornio.png#2026-06-08
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-06-01'
+ lastmod: '2026-06-08'
 ---
 
 
 
-## Tienes que plantarte capricornio, plantarte en el lugar donde eres más feliz. A veces, por miedo siempre andas buscando otras cosas, siempre quieres probar y probar y no quedarte con nada pero ahora es el momento en el que debes tomar decisiones y al menos disfrutar de las sensaciones que la vida te da sin tener que salir corriendo. Se llama estabilidad.
+## Demuéstrales que también sabes ser rebelde, que no te da miedo caminar solo, que no necesitas a nadie. Hay gente que se merece un escarmiento capricornio. Hay personas a las que TÚ debes dar ese escarmiento.
 
-La semana por delante puede ser excelente para los negocios siempre y cuando tengas disposición a investigar los hechos y no asumir absolutamente nada. Con Venus conectando con Saturno y Neptuno, tener un enfoque realista es esencial si es que vas a sacarle el mayor provecho a ciertas discusiones u ofertas. Es posible que tengas que andarte con cuidado en relación a un conflicto con tu pareja o un miembro de tu familia. Las cosas podrían estallar el viernes, por lo que acude al tacto y la diplomacia para mantener las cosas en calma. Y de repente cambias capricornio, y nadie lo entiende. Pues sí, de vez en cuando hasta tu cuerpo te pide dar un giro que, aunque no sea del todo radical si te permita cerrar algunos asuntos pendientes que parecía que no iban a llegar nunca. Hay personas que no lo entienden, que piensan cómo es posible que llevaras un camino tan inestable en tu vida y de repente la enderezaras para tomar otro rumbo diferente… Pues sí, no eres imbécil, y sabes que si algo no te conviene, no te conviene, y aunque te des cuenta tarde, lo importante es que sabes corregirlo. La cuestión es que los que estaban a tu alrededor y creían conocerte se echan las manos a la cabeza y piensan cómo puede ser que de repente hagas todo lo contrario a lo que parecía que ibas a hacer. Pues es sencillo, porque todo tiene un límite, y por mucha paciencia que capricornio pueda tener, lo siento, también tiene amor propio, que a veces no saca, que a veces parece que está escondido, pero lo tiene, aunque a muchos les joda y les fastidie sus planes. Ya te han hecho daño, y estuviste solo, y te sentiste más inseguro que nunca, y el mundo parecía romperse en dos, y ahí nada importaba pero ahora, ahora es todo diferente. Ahora sólo darás tu mejor cara, la buena, la dialogante, la amable, a quien se lo merece. Porque antes lo entregabas todo aunque nadie te lo pidiese, y te quedaste muchas veces sin nada, pero te daba igual, porque eras leal a tu palabra capricornio, pero ahora ya sólo quieres ser leal a ti mismo. Sigue así, de verdad, no hay que cambiar por nadie, sólo hay que cambiar por uno mismo, para ser mejor persona, y lo estás haciendo muy bien…
+Romance, creatividad y actividades de recreación parecen ser el enfoque principal. Pero esta semana, un aspecto muy especial podría empujarte a poner en marcha una idea que ya no puedes postergar más. Esta podría ser una oportunidad creativa que impulse tu negocio o tu trabajo a un nuevo nivel, por lo que podría ser una oportunidad muy importante para ti. Y con una Cuarto Menguante en Piscis alentándote, este podría ser uno de los mejores momentos para entrar en acción. A partir del Martes, tu salud y bienestar podrían volverse una prioridad. Porque quieres luchar contra muchas cosas, contra tu impulsividad y contra tus ganas, pero no puedes, así que 
+ Pero no, debes escapar de esos pensamientos, enfocarte en otras cosas en las que no debas decidir esto o lo otro, si no que simplemente fluyas sin más, 
+pero otras muchas veces sí, así que, plantéate en cuales puedes hacer algo para cambiar el rumbo y en cuáles lo mejor de todo es dar media vuelta y olvidar, aunque sea complicado…
 
 ## Dinero
 
-Es una semana emocionante. Las invitaciones sociales y profesionales son la norma actual, por lo que acostúmbrate a hacer malabares con más de una al día. No esperes que tus sentimientos estén en silencio. Puedes tener problemas al tratar de equilibrar el trabajo y el hogar, o simplemente te encuentras harto/a de la misma vieja rutina. No es suficiente con simplemente ganar dinero ahora. Tienes que experimentar lo que éste puede hacer por ti en términos de tiempo.
+Esta semana estás pensando en cómo poner en marcha tu creatividad. Ciertos aspectos afectan tu sector de comunicación e ideas, así como también las relaciones. El Universo exige que cada vez tengas más madurez en tu pensamiento y en la manera de expresar tus ideas. Al mismo tiempo, hay una especie de ensueño de confusión acerca de con quién trabajar y cuándo. Cuando asumes nueva seriedad, el dinero te sigue inevitablemente.
