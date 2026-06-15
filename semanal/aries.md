@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: aries 08 de junio 2026 al 14 de junio 2026 
-description: Horóscopo semanal aries 08 de junio 2026 al 14 de junio 2026. Fuera las preocupaciones. Tira del carro aries, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
+title: aries 15 de junio 2026 al 21 de junio 2026 
+description: Horóscopo semanal aries 15 de junio 2026 al 21 de junio 2026. Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
 permalink: /horoscopo-semanal-gratis/aries/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos aries la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, aries, horoscopo gratis, semanal
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_aries.png#2026-06-08
+ogimg: /images/zodiac/semanal_aries.png#2026-06-15
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-06-08'
+ lastmod: '2026-06-15'
 ---
 
 
 
-## Fuera las preocupaciones. Tira del carro aries, pero del carro que te lleva a ti, y si interesas al resto tranquilo, que estarán ahí para ayudarte.
+## Has desenterrado recuerdos reprimidos y te odias por ello, pero también te odias por pensar en cómo dejaste pasar tanto, en por qué toleraste, en por qué no reaccionaste antes, en el tiempo que perdiste. Y lo odias con todas tus fuerzas…
 
-El deseo de empezar un negocio desde casa podría entusiasmarte esta semana y no aguantarás las ganas de comenzar. Pero sería prudente que primero evalúaras los detalles y te asegures de que vas por el camino correcto. Por más fabulosa que parezca una oportunidad, podría haber obstáculos que no previste y que debes tener en cuenta. Venus entra en Cáncer el lunes 8, por lo que podrías resolver cierta cuestión financiera de manera ordenada. Por fin vas a finalizar ciclos aries, ¡por fin! Por favor, échale ganas a todo lo que vayas a terminar, y cuando lo hagas, mantén la cabeza bien alta, arribita, para que todos vean lo que eres capaz de conseguir. Y empieza nuevas metas, nuevos proyectos. Es cuestión de ponerse aries, de verdad. Ahora todo va a ser mucho más fácil que antes, te espera una buena semana porque vas a quitarte lastres de encima, vas a motivarte a ti mismo sin esa put* carga que pesaba tanto. Vas a volver a brillar. Eres aries joder, un mal día no es una mala vida y aunque estos días atrás hayas tenido más de un bajón emocional todo eso ahora se disipa. Se acabó. No olvides que tienes una belleza increíble, por dentro y por fuera, no olvides que aunque tu alrededor haya sido una mierda tú sigues brillando. Y lo estás haciendo bien aries. Dentro de poco volverás a tu lugar, ese del que nunca debías haberte alejado. Un lugar en lo alto, un lugar que elijas, un lugar donde se te admire, donde se vea tu esencia… Puedes conseguir absolutamente todo, métetelo en tu cabeza, ¿ok? Y que no vuelva a salir por nada del mundo. Feliz semana aries, y ¡a empezar de nuevo! El estrés o la ansiedad no tienen hueco en tu vida en estos momentos. No pueden robarte más vida…
+Ten cuidado con lo que prometes o con lo que te comprometes esta semana, porque el Luna Nueva en Géminis el lunes 15 en tu sector de palabras y pensamientos podría impedirte avanzar. Puede que el cosmos tenga planes para ti distintos de los que tú tenías, por lo que quizá no te quede más opción que dejarte llevar. Si una puerta se cierra, ten en cuenta que otra puerta se abrirá en cuanto menos lo esperes. aries, que estés triste de vez en cuando no es malo, que saques lo que tienes dentro desde hace mucho tiempo tampoco… Esta semana llegan momentos así, pero no hay que darle mayor importancia. La tristeza no viene a castigarte ni tampoco es una señal de que no estás evolucionando o de que te estás alejando de la luz o de la paz… No has hecho nada malo aries. La tristeza se tiene que curar sola, abre bien los ojos y deja que te muestre el camino si lo has olvidado, deja que te haga sentir otra vez lo que vales, lo que debes hacer, deja que te ilumine, deja que te recuerde los errores que cometiste para que no vuelvan a darse. Y verás cómo agradecerás después haber estado triste, haber estado por momentos solo, haber recordado tantas cosas…
 
 ## Dinero
 
-Tienes un tema interesante en tus manos esta semana. Se te insta a ponerte en contacto con tus necesidades como inversionista y fijar tus metas en consecuencia. Por supuesto, la mayoría de la gente te dice que hagas más dinero, pero eso no te hace justicia. ¿Quieres ayudar a la gente menos afortunada que tú? Si es así, las inversiones socialmente responsables son la mejor opción para ti. Piensa en ello.
+Es una semana muy ocupada para ti conforme los aspectos afectan tu vida hogareña y sentimientos internos. Podrías estar pensando trabajar desde casa o simplemente usar tu dinero para mejorar la apariencia de tu hogar. Ciertamente hay una gran cantidad de energía que poner en un proyecto como este en estos momentos.
