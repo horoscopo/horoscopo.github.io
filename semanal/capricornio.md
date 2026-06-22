@@ -1,28 +1,28 @@
 ---
 layout: horoscopos
-title: capricornio 15 de junio 2026 al 21 de junio 2026 
-description: Horóscopo semanal capricornio 15 de junio 2026 al 21 de junio 2026. Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco.
+title: capricornio 22 de junio 2026 al 28 de junio 2026 
+description: Horóscopo semanal capricornio 22 de junio 2026 al 28 de junio 2026. Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2026-06-15
+ogimg: /images/zodiac/semanal_capricornio.png#2026-06-22
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-06-15'
+ lastmod: '2026-06-22'
 ---
 
 
 
-## Después de rachas de estar casi a punto de tocar fondo llega lo bueno. Y si aún no lo ves, espera un poco.
+## Eres fuerte y capaz de empezar desde cero aunque estés roto por dentro. Vas a tomar una decisión muy importante, vas a dejar cosas atrás para poder avanzar.
 
-Cuando el jovial Júpiter en tu signo conecta con el potente Plutón en tu sector de mente y comunicación, puede que tus pensamientos todavía giren en torno a un proyecto importante para ti. Sin embargo, esta puede ser una etapa de búsqueda y consolidación. Si te aseguras de que la base sea sólida, tienes el éxito prácticamente garantizado. No subestimes los detalles. Podrían ser fundamentales para el resultado. 
-  Al mismo tiempo, debido a que el práctico Saturno y el poderoso Plutón están retrógrados en tu sector de habla y pensamiento, podrías pasar por un proceso que te ayude a cambiar tu forma de pensar. Si bien hay muchas técnicas para hacerlo, confía en tus instintos y encontrarás la adecuada para ti. El fin de semana, el Sol entra en Cáncer el domingo 21 en tu sector de romance, lo que sugiere que un encuentro podría animarte a conocer mejor a una persona. Tómate tu tiempo. ¡No hay apuro! No pienses tanto por favor capricornio, claro que saldrá bien, claro que deberías arriesgar por tus metas, claro que es lo que quieres. Eres capricornio por favor, a pesar de que por tu cabeza puedan pasar un sinfín de locuras, y de las buenas, sabes lo que haces, sabes que si te paras a pensar más de dos días seguidos algo es que hay que hacer algo para cambiarlo, para bien o para mal. O sea, ves a por todas. 
- cultivar para luego recoger una buena cosecha y no dejarte abatir ni decaer por ninguna situación que se cruce en el camino.
+Analiza cuidadosamente la posibilidad de hacer un nuevo comienzo esta semana. Si bien esta puede ser una excelente oportunidad para entrar a nuevos círculos, te ayudaría investigar un poco antes de involucrarte demasiado. Esto se aplica a nuevas relaciones románticas también. Hay una gran cantidad de oportunidades apareciendo en el frente laboral, aunque lo más seguro es que coseches sus beneficios a la larga. La semana se vislumbra sensual, un poco intensa y divertida. Te da miedo empezar etapas nuevas, te da miedo dejar a un lado lo que ya has conseguido, te da miedo mandarlo todo a la mierda y también te da miedo darlo todo por algo o por alguien. Y al final, te mantienes como estás, aunque sabes de sobra que como estás no eres plenamente feliz. 
+Date un respiro, toma algún día para pensar y relajarte, mímate un poco y deja que los sentimientos y las emociones vayan saliendo solos. 
+como si no quisieras sentir lo que sientes, como si quisieras sentir lo que no sientes. Es una estupidez porque al final, todo sale.
 
 ## Dinero
 
-Esta semana tienes un poco de ventaja. Tu personalidad, nunca conocida por la sutileza, puede ser muy fuerte en este momento y puede que no sea del todo bueno para algunas personas. Si vas a una entrevista o quieres impresionar a un cliente nuevo, el acto irresistible no puede ser tu mejor apuesta. En lugar de eso, envuélvelos en un poco de misterio. El hacer que ellos vengan a ti puede producir mejores resultados financieros.
+Para  ti, ésta semana se trata de tomar ventaja de las circunstancias que se presenten en tu vida laboral. Tienes suerte, así que puedes encontrar la oportunidad de impresionar a alguien que tiene el poder de tomar decisiones financieras. Estas oportunidades afectarán positivamente tu vida en el futuro, así que asegúrate de poner tu mayor esfuerzo. Podrías aprender importantes lecciones de vida personal y financiera, incorporarlas en tu vida cotidiana te hará más fuerte.
