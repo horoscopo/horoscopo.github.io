@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Escorpio Junio 2026 
+title: Horoscopo Escorpio Julio 2026 
 permalink: /horoscopo-mensual/amp/escorpio/
 normallink: /horoscopo-mensual/escorpio/
 home: FALSE
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Escorpio_mes.png#2026-05-26
+ogimg: /images/mes/Escorpio_mes.png#2026-06-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-05-26'
+ lastmod: '2026-06-26'
 ---
 
 
