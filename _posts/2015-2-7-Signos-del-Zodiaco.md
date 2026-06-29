@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 28 de junio 2026
-description: Horóscopos del dia de hoy 28 de junio 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 29 de junio 2026
+description: Horóscopos del dia de hoy 29 de junio 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-06-28
+ lastmod: 2026-06-29
 ---
-Cuando la Luna se opone a Venus esta mañana, la tendencia es buscar ayuda lejos cuando ésta se encuentra cerca. La melancolía y la preocupación solamente dificultan el progreso, o en otras palabras, no puedes querer recibir más sin antes pedirlo directamente. Si has estado esperando una dosis de emoción, dale la bienvenida a la Luna en Acuario de esta noche.
+Hoy, los teléfonos se mantienen sonando al recibir una gran cantidad de información. La buena noticia es que a causa de la honestidad y sinceridad de alguien, podrías enterarte de algo que necesitas saber. Esta noche, el trígono entre Plutón y la Luna en Tauro crea una combinación cósmica de pasión, calor y el deseo de relaciones comprometidas.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
