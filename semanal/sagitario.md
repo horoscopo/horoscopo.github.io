@@ -1,27 +1,27 @@
 ---
 layout: horoscopos
-title: sagitario 22 de junio 2026 al 28 de junio 2026 
-description: Horóscopo semanal sagitario 22 de junio 2026 al 28 de junio 2026. Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+title: sagitario 29 de junio 2026 al 05 de julio 2026 
+description: Horóscopo semanal sagitario 29 de junio 2026 al 05 de julio 2026. Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2026-06-22
+ogimg: /images/zodiac/semanal_sagitario.png#2026-06-29
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-06-22'
+ lastmod: '2026-06-29'
 ---
 
 
 
-## Toma unos minutos cada mañana para entender que te debes a ti mismo todo ese amor que das tan libremente a otras personas.
+## Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
 
-La presencia del Sol en tu sector profesional te invita a hacer un análisis, sobre todo si te has estado absteniendo de hacerlo. Puede que se te empuje a tomar una decisión más adelante en la semana y puede que necesites tener la información correcta a la mano. Sin embargo, es posible que te percates de que tus pensamientos comienzan a cobrar sentido una vez que Mercurio entra a tu sector de metas y ambiciones el sábado. Todo debería caer en su lugar si puedes esperar hasta entonces o incluso la próxima semana. Lo más complicado es siempre el principio, de todo, una vez que te has subido al “barco” no vuelvas a tirarte al agua, ¿me explico? 
-Y si aún tienes dudas sobre algo, tómate tu tiempo para decidir, a solas, sin que nadie pueda darle más vueltas a tu cabeza…
+Tal vez pienses que sabes lo que quieres pero ¿es así? La mezcla de energías de esta semana podría provocar un conflicto entre tu cabeza y tu corazón, lo que traerá confusión. A esto se suma el deseo de reconocimiento o la necesidad de dar una audaz impresión. Podrías sentir que debes ir en distintas direcciones al mismo tiempo. 
+Cuando el sol conecta con el animado Mercurio el martes y el escurridizo Neptuno el miércoles, quizás no todo es lo que parece. Puede que no te resulte sencillo desarrollar un plan de acción porque tus pensamientos podrían cambiar de un momento a otro. Tal vez lo mejor sea relajarte e ir con la corriente. Sin importar qué tan grande sea el impulso de controlar o manipular una situación, dejar pasar el asunto puede producir resultados mucho más beneficiosos. Y debido a que el el jovial Júpiter, tu planeta regente, entra en el signo de Leo este martes, tu vida social podría compensar cualquier decepción. Es muy importante que eches la vista atrás sagitario, que mires al pasado, que te des cuenta de lo que ya pasaste una vez y de lo que no quieres que se vuelva a repetir nunca mas. Valora lo que tienes ahora, y si el resto no lo hace contigo de la misma manera algo falla así que, ¡fuera! No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día. Esta semana toca reflexionar, toca poner en una balanza lo bueno y lo malo, toca comprender de verdad si estás haciendo lo que te gusta y lo que te hace feliz y sobretodo si estás con las personas que merecen la pena. Sólo tenemos una vida y, o cambias el chip y aprendes a aprovecharla o cuando mires atrás te lamentarás por todo el tiempo que has estado perdiendo. Sólo tenemos esas dos opciones.
 
 ## Dinero
 
-Estás pensando en hacer algunos cambios en tu forma de trabajar y cómo exponerle tus ideas al mundo. Un aspecto favorable indica que podrías fácilmente llevarte tu trabajo a casa, comenzar un nuevo negocio en tu hogar, o comenzar a trabajar en hacerle mejoras a tu hogar; como por ejemplo construcción o decoración. El único problema radica en el hecho de que a tu ego le puede resultar difícil adaptarse a los cambios.
+Esta semana trae un gran suspiro de alivio a medida que eres capaz de ser más productivo/a. Podrías estar considerando  mover tu oficina o base de operaciones, la cuál vendría con menos distracciones con las que has estado trabajando recientemente. Mientras tanto, prepárate para el cambio en el frente de la deuda. Los planetas tienen sorpresas con cambios en tasas de interés y plazos. Lee las clausulas con cuidado.
