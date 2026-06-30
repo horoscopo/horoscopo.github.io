@@ -7,12 +7,12 @@ home: FALSE
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Virgo_mes.png#2026-06-26
+ogimg: /images/mes/Virgo_mes.png#2026-06-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-06-26'
+ lastmod: '2026-06-30'
 ---
 
 
-Tu regente Mercurio entra en Cáncer el día 1, favoreciendo tus amistades, aunque su retrogradación el 29 pide cautela en grupos. La Luna Nueva en Géminis del 14 ilumina tu carrera y estatus profesional, ideal para metas laborales. Con la Luna Llena en Capricornio el 29, un proyecto creativo o una historia romántica llegará a su clímax. Júpiter en Leo desde el 30 activa tu zona del subconsciente, invitándote a una búsqueda espiritual profunda.
+El 3 de julio, la sextil entre Venus y Urano hace que el amor se vuelva salvaje y loco, si quieres tener una relación más aventurera. La vida social tararea alegremente durante la Luna Llena del 29 de julio. Puede que sea difícil elegir entre todos los eventos y las invitaciones que te lleguen. Las personas quieren ser adorables y entretenidas. Disfruta de los muchos buenos sentimientos. Decide comer más sabiamente y tratar bien a tu persona bajo la Luna Nueva del 14 de julio. Ponte el objetivo de reducir el estrés de tu vida y siente la virtud de hacerlo. Si no cuidas mejor de tu persona, ¿quién lo hará?

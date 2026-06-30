@@ -9,16 +9,21 @@ keywords: horóscopo julio, horoscopos en español, horóscopo Piscis julio , ho
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/piscis_mes.png#2026-06-26
+ogimg: /images/mes/piscis_mes.png#2026-06-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-06-26'
+ lastmod: '2026-06-30'
 ---
 
 
- > Piscis, la magia está en los detalles de tu vida diaria. Organiza tu hogar para que sea tu refugio mientras te preparas para un período de gran actividad laboral.
+ > piscis, puede que julio te dé un poco de miedo por todos los cambios que vas a vivir, pero te acostumbrarás y serán para bien.  Tus encantos harán que conquistes cuando quieras y donde quieras, mientras que el equilibrio y la serenidad serán la clave para que seas feliz.
 
 
 
-La Luna Nueva en Géminis del 14 de junio pone el foco en tu hogar y raíces. Con Venus en Leo desde el 13 y Júpiter entrando en ese signo el 30, tu vida laboral y rutinas de salud recibirán una inyección de optimismo y mejora. La Luna Llena en Capricornio el 29 culmina un proyecto grupal o un sueño compartido. Ten cuidado con Mercurio retrógrado desde el 29 en tu zona de creatividad, podrías tener bloqueos temporales.
+Incluso si te quedas en casa el 12 de julio, la luna nueva y eclipse solar pondrán el mundo ante ti. Ocupa tu agenda todo lo que quieras, pero reserva un poco de tiempo privado de calidad para disfrutar de todas las actividades que te rodean. 
+
+El sol ingresa a Leo el día 22, con la luna en Sagitario. Mantén las pasiones salvajes bajo control, pero no niegues los deseos verdaderos. La luna llena y el eclipse lunar en Leo el 27 de julio te separan de tus colegas y aliados. Puede que estén más ruidosos o explícitos, pero tú sabes lo que es importante. Y todavía tienen muchas cosas en común. 
+
+Días destacados: 5, 8, 24
+Días desafiantes: 25, 26

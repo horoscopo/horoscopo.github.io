@@ -7,12 +7,12 @@ home: FALSE
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/Libra_mes.png#2026-06-26
+ogimg: /images/mes/Libra_mes.png#2026-06-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-06-26'
+ lastmod: '2026-06-30'
 ---
 
 
-Tu regente Venus entra en Leo el 13 de junio, activando tu vida social y tus deseos de compartir con amigos. La Luna Nueva en Géminis del 14 es perfecta para planear viajes o estudios superiores. La Luna Llena en Capricornio el 29 de junio trae un cierre o culminación en asuntos relacionados con tu hogar o base emocional. El ingreso de Júpiter en Leo el 30 expandirá tu círculo de influencias y tus sueños a largo plazo.
+Si cierto problema se ha resistido a tus mejores esfuerzos, la Luna Nueva del 14 de julio podría darte lo que necesitas para lograr un gran avance. Podría ser tan simple como la persona adecuada regresando de vacaciones y contestando todas tus preguntas. Obtén las respuestas que necesitas y el progreso que deseas sin ningún esfuerzo adicional de tu parte. La Luna Llena del 29 de julio hace tu mundo mucho más grande y más brillante. Descubre un nuevo y exótico gusto o un placer que te lleve a lugares sin costarte mucho. Mercurio comienza a moverse directamente el 24 de julio. Prepárate para retomar un tema que se comenzó a debilitar desde mediados de julio y termínalo.

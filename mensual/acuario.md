@@ -9,16 +9,20 @@ keywords: horóscopo julio, horoscopos en español, horóscopo Acuario julio , h
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/acuario_mes.png#2026-06-26
+ogimg: /images/mes/acuario_mes.png#2026-06-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-06-26'
+ lastmod: '2026-06-30'
 ---
 
 
- > Acuario, abre tu corazón a los demás. La llegada de Júpiter a tu zona de pareja marca el inicio de un año donde las relaciones serán tu mayor fuente de crecimiento.
+ > acuario, este mes puedes lograr lo que te propongas, pero ten cuidado de dejarte llevar por lo que no es importante. La luna en Libra pondrá un punto y aparte en una situación de tu vida familiar o en tu hogar. Aunque no veas los frutos de tu trabajo de forma inmediata no te desanimes. Toma impulso de nuevo y materializa lo que quieres.
 
 
 
-Junio trae diversión con la Luna Nueva en Géminis del 14, activando tu zona del romance y los hijos. El ingreso de Júpiter en Leo el 30 de junio es vital para tus relaciones, trayendo expansión y suerte en el área de la pareja. La Luna Llena del 29 te pide retiro y descanso. Mercurio retrograda ese mismo día en tu sector de salud, sugiriendo que revises hábitos del pasado.
+julio de 2026 - Las estrellas te piden que creas en ti mismo y en tus ideas creativas al comenzar el mes, querido acuario, ya que Júpiter y el Nodo Norte unen sus fuerzas el 1 de julio. Este clima cósmico te permite asumir papeles más grandes que la vida, aunque tendrás que proceder con confianza si vas a llenar zapatos grandes. Tómate un momento para reflexionar sobre lo que realmente quieres durante la luna llena de Acuario del día 29, trabajando entre bastidores mientras elaboras tu estrategia.
+Notarás un cambio en tus relaciones una vez que Venus transite por Leo el 5 de julio, trayendo una energía transformadora a la mesa. Esta colocación planetaria es perfecta para establecer vínculos profundos con las personas que amas, aunque tendrás que sentirte cómodo bajando la guardia para abrazar la intimidad emocional. Desafortunadamente, una dura oposición a Plutón ese día podría hacer que te sientas un poco abrumado, pero no te sientas presionado a dejarlo salir todo de una vez.
+Podrías sentirte un poco lento o con la cabeza nublada una vez que Saturno entre en su movimiento retrógrado el día veintiséis, tras la luna nueva de Cáncer. El 22 de julio marca el comienzo del verano y de la estación de Leo, aportando una energía armoniosa perfecta para abrir tu corazón al amor en todas sus formas. Sin embargo, deberías considerar quitarle presión a tu vida amorosa por el momento, encontrando consuelo en la compañía que mantienes abrazando la ligereza, la risa y la gracia.
+Días destacados: 4, 9, 18
+Días difíciles: 7, 15, 30

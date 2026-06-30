@@ -9,16 +9,16 @@ keywords: horóscopo julio, horoscopos en español, horóscopo Escorpio julio , 
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/escorpio_mes.png#2026-06-26
+ogimg: /images/mes/escorpio_mes.png#2026-06-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-06-26'
+ lastmod: '2026-06-30'
 ---
 
 
- > Escorpio, no temas a la intensidad de tus transformaciones. El éxito que buscas en tu carrera empezará a materializarse con la llegada de Júpiter a tu zona del éxito.
+ > escorpio, este mes puedes encontrarte o conocer a una persona que has estado esperando hace mucho tiempo. Las buenas conexiones del Sol con Urano y Júpiter te abren nuevas oportunidades de cambio, pero es importante que controles tus finanzas y evites gastos innecesarios para que puedas disfrutar de la siguiente etapa sin más preocupaciones.
 
 
 
-Junio comienza con una Luna Llena en Sagitario (1 de junio) que cierra un capítulo financiero. La Luna Nueva del 14 en Géminis te invita a profundizar en tus vínculos y recursos compartidos. Marte, tu regente, entra en Géminis el 28, acelerando tus procesos internos. La Luna Llena en Capricornio el 29 trae claridad en tu comunicación. El gran cambio de Júpiter a Leo el 30 de junio promete un año de gran éxito y visibilidad profesional.
+Graciosamente toma el control de una situación difícil conforme el Sol forme sextil con Saturno el 4 de julio. Tendrás tanto brillantes como divertidas ideas sobre cómo pasar tiempo con tus amigos conforme la Luna Llena del 29 de julio se manifieste. Tu corazón podría querer hacer algo grande y aventurero, pero puede que sea mejor que te quedes más cerca de casa. Tener todo lo relacionado a tu hogar en orden adquiere una importancia casi exagerada bajo la Luna Nueva del 14 de julio. Puede que sea algo pequeño, pero no negociable, como tu taza de café colocada justo en el lugar adecuado. O reorganizar tus muebles de lugar. Tú bien sabes qué es lo que quieres.
