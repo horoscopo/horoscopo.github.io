@@ -1,27 +1,26 @@
 ---
 layout: horoscopos
-title: sagitario 29 de junio 2026 al 05 de julio 2026 
-description: Horóscopo semanal sagitario 29 de junio 2026 al 05 de julio 2026. Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
+title: sagitario 06 de julio 2026 al 12 de julio 2026 
+description: Horóscopo semanal sagitario 06 de julio 2026 al 12 de julio 2026. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2026-06-29
+ogimg: /images/zodiac/semanal_sagitario.png#2026-07-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-06-29'
+ lastmod: '2026-07-06'
 ---
 
 
 
-## Tardas en derrumbarte pero el día que no haces, te hundes demasiado. Deberías sacar tus sentimientos más, desahogarte, sobretodo para no acumular tanto y no sentirte mal después.
+## Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez.
 
-Tal vez pienses que sabes lo que quieres pero ¿es así? La mezcla de energías de esta semana podría provocar un conflicto entre tu cabeza y tu corazón, lo que traerá confusión. A esto se suma el deseo de reconocimiento o la necesidad de dar una audaz impresión. Podrías sentir que debes ir en distintas direcciones al mismo tiempo. 
-Cuando el sol conecta con el animado Mercurio el martes y el escurridizo Neptuno el miércoles, quizás no todo es lo que parece. Puede que no te resulte sencillo desarrollar un plan de acción porque tus pensamientos podrían cambiar de un momento a otro. Tal vez lo mejor sea relajarte e ir con la corriente. Sin importar qué tan grande sea el impulso de controlar o manipular una situación, dejar pasar el asunto puede producir resultados mucho más beneficiosos. Y debido a que el el jovial Júpiter, tu planeta regente, entra en el signo de Leo este martes, tu vida social podría compensar cualquier decepción. Es muy importante que eches la vista atrás sagitario, que mires al pasado, que te des cuenta de lo que ya pasaste una vez y de lo que no quieres que se vuelva a repetir nunca mas. Valora lo que tienes ahora, y si el resto no lo hace contigo de la misma manera algo falla así que, ¡fuera! No busques culpables de nada de lo que pasó, cierra puertas y deja que lo nuevo entre en tu vida sin poner trabas, perdona y trata de olvidar lo que te hizo daño un día. Esta semana toca reflexionar, toca poner en una balanza lo bueno y lo malo, toca comprender de verdad si estás haciendo lo que te gusta y lo que te hace feliz y sobretodo si estás con las personas que merecen la pena. Sólo tenemos una vida y, o cambias el chip y aprendes a aprovecharla o cuando mires atrás te lamentarás por todo el tiempo que has estado perdiendo. Sólo tenemos esas dos opciones.
+Un deseo en particular podría ser tan fuerte que se apodere de tu mente y sentidos, sobre todo a principios de semana, cuando podrías preguntarte qué fue lo que te golpeó; algo que valdría la pena analizar más profundamente. Puede que hasta termines recibiendo más de lo que esperabas. El actual enfoque en tu sector hogareño podría hacer que te preguntes sobre los motivos de ciertos miembros de tu familia. Una charla de corazón a corazón podría ser mejor a quedarte con innecesarias sospechas. A partir del domingo, Venus en Libra puede ser útil para las negociaciones y el romanticismo. Fíate de ti mismo sagitario, de ti mismo y de tus acciones. De nadie más. Las expectativas no funcionan siempre, es más cuantas más expectativas tienes de algo más duro es el golpe después si no se cumplen como tu querías que se cumplieran. Por muy desconfiado y duro que parezcas ser, al final acabas confiando sagitario y después vienen las caídas. El problema no es que te caigas, el problema es que has cambiado tus principios por tratar de dar oportunidades al resto, has dejado de lado tu personalidad, tu opinión acerca de algo. Eso es lo que duele. Por eso ahora, lo mejor es no dar demasiado. Deja que sea el resto el que te de a ti. Déjate mimar. Deja que los demás te demuestren en vez de ser tú quien siempre demuestre al resto. No siempre tienes que ser tú el que está equivocado, no siempre tienes que ser tu el que vaya detrás del resto, el que tiene que arreglar constantemente todo. Si te sientes más frío ahora no te preocupes, son etapas, también tiene que haber momentos en los que no des todo de ti. Y ese es uno de ellos. Y no es que hayas cambiado, es que has sabido valorarte, has aprendido a no dar el 100% cuando sólo recibes la mitad, o ni siquiera eso. Los demás se hacen fuertes cuando el débil eres tú. Deja de poner en primer lugar los propósitos de los demás y pon los tuyos antes.
 
 ## Dinero
 
-Esta semana trae un gran suspiro de alivio a medida que eres capaz de ser más productivo/a. Podrías estar considerando  mover tu oficina o base de operaciones, la cuál vendría con menos distracciones con las que has estado trabajando recientemente. Mientras tanto, prepárate para el cambio en el frente de la deuda. Los planetas tienen sorpresas con cambios en tasas de interés y plazos. Lee las clausulas con cuidado.
+Un aspecto positivo le trae suerte a tu sector de educación, idiomas y espiritualidad. Últimamente has tenido tus ojos puestos en el horizonte, preguntándote cómo hacer que tus productos y servicios le lleguen a una audiencia internacional más amplia. Al considerar las medidas necesarias para ello, no descartes las ideas que parezcan locas. Puede que encuentres apoyo hasta en los lugares más extraños.

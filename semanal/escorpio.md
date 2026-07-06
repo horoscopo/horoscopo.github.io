@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: escorpio 29 de junio 2026 al 05 de julio 2026 
-description: Horóscopo semanal escorpio 29 de junio 2026 al 05 de julio 2026. Tienes la semana agitada escorpio. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
+title: escorpio 06 de julio 2026 al 12 de julio 2026 
+description: Horóscopo semanal escorpio 06 de julio 2026 al 12 de julio 2026. Tienes estilazo y personalidad propia pero no viene mal de vez en cuando hacerte algún arreglo para potenciarlo más aún. Esta semana vas a reinventarte escorpio, estás increíble, con una energía capaz de mover montañas, con un don de palabra capaz de hacer los mejores acuerdos del mundo.
 permalink: /horoscopo-semanal-gratis/escorpio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos escorpio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, escorpio, horoscopo gratis, semanal
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_escorpio.png#2026-06-29
+ogimg: /images/zodiac/semanal_escorpio.png#2026-07-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-06-29'
+ lastmod: '2026-07-06'
 ---
 
 
 
-## Tienes la semana agitada escorpio. Estás un poco cansado de la actitud de algunas personas que están cerca de ti y vas a ponerte firme.
+## Tienes estilazo y personalidad propia pero no viene mal de vez en cuando hacerte algún arreglo para potenciarlo más aún. Esta semana vas a reinventarte escorpio, estás increíble, con una energía capaz de mover montañas, con un don de palabra capaz de hacer los mejores acuerdos del mundo.
 
-La semana que se aproxima puede darte la oportunidad de que empieces un pasatiempo que disfrutas mucho. Los pequeños comienzos podrían resultar en un negocio y un futuro rentable si juegas bien tus cartas. El deseo de ser una persona más creativa y explorar tu potencial en esta área podría prepararte para grandes cosas si esto es algo que realmente te apasiona. La entrada de Venus a tu sector de hogar y familia sugiere que tienes grandes posibilidades de tener invitados en tu casa. Eres hábil para descubrir las cosas aunque a veces solamente te ciegas por tus impulsos, por tus ganas de tenerlo. Esta semana abre bien los ojos a las proposiciones, no todo lo que brilla es oro, demuestra que estás por delante de todo eso, demuestra que ya no te sorprenderás por cualquier cosa, necesitas pruebas y sobre todo garantías de que va a salir bien. No vuelvas a pensar de nuevo por qué decidiste esto cuando debías haber hecho lo otro, porque todo pasa por alguna razón y sí, las malas decisiones muy a menudo, te llevan a situaciones maravillosas. Cuando algo está apagado, está apagado, tratar de encenderlo a veces es algo imposible y si se apagó, fue por alguna razón. Las cosas rotas pueden arreglarse pero a veces, es mejor comprar algo nuevo, cambiar de rumbo, cambia de “producto”, quizás lo que creías tener ya no merece la pena. Necesitas un objetivo que perseguir, algo donde poner todas tus fuerzas y gastar toda tu energía. Es el momento del cambio escorpio, es el momento de que todo lo bueno que deseas llegue, tu actitud lo determina, así que, ¡a por todas!
+Si has tomado cualquier decisión hace poco, que no te sorprenda tener dudas al respecto ahora. Con el interactivo Mercurio retrógrado entrando en Géminis el martes 7, podrían entrar en juego otros factores que te alienten a pensarlo nuevamente. Esto podría no ser malo si te permite explorar nuevas opciones, ya que podrían ser mejores a largo plazo. Por otra parte, el enfoque podría cambiar hacia los negocios y los asuntos financieros, así como a otros cambios clave en tu vida. No arriesgues, no apuestes si no es victoria segura, es un consejo. Si tienes algo claro ve a por ello a muerte pero si dudas no pelees ni luches, al menos por ahora. Has perdido muchas fuerzas en otros asuntos y lo que menos te conviene es seguir perdiéndola en cosas en las que no sabes si vas a ganar. Ha llegado el momento en el que debes hacerte valorar más. El pasado te ha creado esa inseguridad que a veces tienes a la hora de tomar decisiones, y sí, antes quizá pensabas todo demasiado pero ahora estás en modo “lo tiro todo por la ventana”. Cuidado escorpio, cuidado porque los cambios no pueden ser radicales, no tienes la fuerza necesaria ahora para andar arriesgando tontamente y sólo porque en el momento te apetezca. Tómate tu tiempo y cuando decidas dar un paso, hazlo con seguridad plena, como casi siempre lo has hecho. Y tranquilo, que todo llega a su tiempo…
 
 ## Dinero
 
-Actualmente los aspectos afectan tu sector de dinero y valores. Pero la gran novedad está en tu sector de negocio propio y de grupos. Es hora de correr la voz sobre lo que haces para poder atraer a más clientes, ganar más dinero, e incluso empezar la cuenta de jubilación que has estado planeando.
+Tienes una energía increíblemente psíquica ahora. Podrías darte cuenta de que podrías hacer algo de dinero a través de la intuición pura. El estar en el lugar correcto en el momento adecuado para obtener información sobre una oportunidad nueva y excitante, el tener cierto latido sobre lo que pasará en la bolsa, o soñar con una nueva idea de negocio; todos califican. Tu creatividad se encuentra a gran altura. Sólo asegúrate de que las deudas que tienes pendientes sean atendidas primero.

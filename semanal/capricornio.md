@@ -1,26 +1,26 @@
 ---
 layout: horoscopos
-title: capricornio 29 de junio 2026 al 05 de julio 2026 
-description: Horóscopo semanal capricornio 29 de junio 2026 al 05 de julio 2026. No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
+title: capricornio 06 de julio 2026 al 12 de julio 2026 
+description: Horóscopo semanal capricornio 06 de julio 2026 al 12 de julio 2026. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2026-06-29
+ogimg: /images/zodiac/semanal_capricornio.png#2026-07-06
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-06-29'
+ lastmod: '2026-07-06'
 ---
 
 
 
-## No es tiempo de volverte loco de nuevo por algo que ya no está en tus planes…
+## Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto.
 
-Encuentra una razón para celebrar, ya que las activas influencias pueden hacer de esta una semana memorable. El actual enfoque en tu sector de relaciones sugiere que saber formar parte de un equipo podría serte más útil que trabajar a solas. Además, cuando Venus entre a Leo, un vínculo romántico podría profundizarse como resultado de una o un par de citas fabulosas. Es posible que sientas inspiración a hacer planes de viaje el fin de semana, cuando también deberías considerar cualquier idea innovadora que pueda ampliar tus horizontes. ¡Es hora de divertirte! A veces dejas las puertas medio abiertas capricornio, crees que puedes cerrarlas cuando quieras, crees que eres lo suficientemente fuerte como para mandarlo todo a la mierda cuando desees… Pero no es del todo así. Tienes que enfrentarte a tus heridas, a lo que te hace daño, y de frente, tienes que curarte de una vez por todas y tienes que ser constante con tus decisiones. Nada de hoy sí y mañana no. No te dejes enredar capricornio porque no eres así. Parece que tuvieras miedo de cerrar definitivamente algunos capítulos, parece que aún te aferrarás a que pueden tener solución. Está bien capricornio, aférrate a lo que quieras, pero que eso no te afecte en tu día a día. Tienes que ver las cosas por ti mismo para dejarlas a un lado o continuar con ellas, así que, tropieza, date la hostia necesaria que te haga abrir los ojos pero, mientras tanto, que no te frene. Sacúdete un poco de las cosas negativas que pululan a tu alrededor, no pagues un precio alto por mantener algo que ni siquiera sabes si quieres mantener. Si necesitas pensar, márchate, desaparece unos días, vete solo y pasa de todo. En serio, algo te está reteniendo a quedarte, algo te está impidiendo continuar hacia delante, ten cuidado capricornio, con las decisiones que tomas, y con dejar puertas medio abiertas por miedo a que se cierren del todo…
+Tus días han estado ocupados con renovaciones y actividades similares desde hace algún tiempo, pero esta semana, la vibra cambia hacia ocio y placer. Sin embargo, el enfoque en trabajo y estilo de vida continúa con la Luna Nueva trayendo la opción de un nuevo comienzo. Si tienes ganas de reiniciar tu dieta o rutina de ejercicio, es el mejor momento para hacerlo. Si requieres de motivación, la ayuda de un entrenador personal pronto te pondría en muy buena forma. Con respecto a romance, mantén las cosas ligeras por el momento. Abre los ojos de una vez capricornio. Te preocupas demasiado, pero te preocupas por todo, por todos. A veces incluso por cosas irreales, por cosas que no han pasado aún… A veces tienes tanta desconfianza en todo que sólo piensas en adelantarte a las circunstancias. Pero al final esa desconfianza se va y perdonas capricornio, siempre encuentras la forma de perdonar, has vivido la mitad de tu vida poniendo a los demás antes que a ti mismo, y te han hecho daño, te han fallado, te han demostrado que no eres una prioridad. Y eso duele mucho… Pero capricornio, tú no puedes cambiar, tú perdonas y no te gusta acumular rencor, y amas con locura, incondicionalmente, y si no lo haces así no es lo mismo, no puedes amar a alguien a medias tu corazón vale oro, y tú también capricornio. Pero sigue protegiéndote a ti mismo, y esta semana mucho más. No es que no seas hábil y astuto para no ver las cosas venir pero a veces te ciegas mucho, incluso aunque sea destructivo y tóxico para ti. Necesitas entender muchas cosas, necesitas cuidar mejor de tu corazón, no hace falta que cambies pero da oportunidades a las personas adecuadas, y hazte valer, y comprende que está bien perdonar a las personas, pero no está bien dejar que te hagan daño, una y otra vez. capricornio por favor, te tenían que tener en un altar… Y lo sabes…
 
 ## Dinero
 
-Puede que te sientas un poco más hablador/a de lo habitual esta semana. Por lo general no puedes esperar mucho a recibir historias de los demás, pero esta semana estás feliz de compartir tus experiencias también. Conforme toda esta comunicación ocurre a tu alrededor, asegúrate de pasar tiempo y gastar dinero en ti mismo/a. El tener cuidado personal extremo puede parecer demasiado lujoso ahora, pero es una gran inversión en tu futuro a largo plazo. Descansa, rejuvenece y di lo que piensas.
+Es una semana tensa para ti. Considera la posibilidad de aprender algo nuevo, asistiendo a un curso formal de educación o el uso de los viajes como una forma de educación. El poner un poco de pensamiento en lo que te da curiosidad le permite a tu mente moverse en una dirección decididamente positiva. Es importante el ver dónde tienes raices. El poner tu confianza en las instituciones financieras no es necesariamente una cosa mala.
