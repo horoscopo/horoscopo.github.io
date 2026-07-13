@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: libra 06 de julio 2026 al 12 de julio 2026 
-description: Horóscopo semanal libra 06 de julio 2026 al 12 de julio 2026. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
+title: libra 13 de julio 2026 al 19 de julio 2026 
+description: Horóscopo semanal libra 13 de julio 2026 al 19 de julio 2026. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2026-07-06
+ogimg: /images/zodiac/semanal_libra.png#2026-07-13
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-07-06'
+ lastmod: '2026-07-13'
 ---
 
 
