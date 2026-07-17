@@ -1,0 +1,28 @@
+---
+layout: horoscopos
+title: geminis hoy gratis 17 de julio del 2026 
+description: Horóscopo del dia de hoy para geminis. Horoscopo de hoy 17 de julio del 2026. Las predicciones de amor, trabajo, vida personal gratis.
+permalink: /horoscopo-diario-gratis/geminis/
+amplink: /horoscopo-diario-gratis/amp/geminis/
+home: FALSE
+redirect_from: /p/geminis.html
+keywords: geminis,horoscopo,horoscopo geminis julio 2026,horoscopo geminis hoy,tarot geminis julio 2026,horoscopo geminis,tarot geminis hoy,horoscopo de hoy,horoscopo diario,tarot del amor,horoscopo de hoy geminis,horoscopo diario del tarot, Horoscopo de hoy geminis 17 de julio del 2026,horóscopo del día,signos zodiacales 2026, el horoscopo de hoy
+horoscopo:
+ signo: geminis
+ video: -DQpmrrAIeU
+ogimg: /images/geminis_char.png
+sitemap:
+ priority: 1
+ changefreq: 'daily'
+---
+
+
+Hoy puedes añadirle más herramientas a tu repertorio. Expresa tus preocupaciones y verás cómo se te presentan recursos útiles. Mantén abiertas las líneas de comunicación y deja que fluya la información. Cuando piensas por ti mismo y piensas a lo grande se produce una gran sensación de crecimiento. No te agobies con el lado emocional de las cosas. Preocúpate de los hechos.
+
+## Amor
+
+La pasión es una de las mejores curas para el mal humor, ¿no te parece? Hoy no vale la pena fingir que eres alguien o algo que no eres, simplemente para ganar el afecto de esa persona. Sé tú mismo/a, y una noche ardiente hará el trabajo.
+
+## Trabajo
+
+Alguien que sabe que tiene razón te está refregando el asunto en la cara. Trata de no caer en la trampa y sucumbir ante la actitud inmadura y egoísta de esta persona. Intenta en cambio obtener de su propia boca alguna información. Ese dato te ayudará a redefinir tu perspectiva.
