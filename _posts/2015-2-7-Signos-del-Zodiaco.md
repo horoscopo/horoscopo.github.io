@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 17 de julio 2026
-description: Horóscopos del dia de hoy 17 de julio 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 18 de julio 2026
+description: Horóscopos del dia de hoy 18 de julio 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-07-17
+ lastmod: 2026-07-18
 ---
-Este es el momento de empezar de nuevo y esperar lo mejor. ¡Hazlo! Atrévete a tener grandes expectativas y a confiar en el gran poder que tienes para alcanzarlas. El Trígono de Fuego de esta noche entre la Luna y Venus acentúa afecto y buen humor. Parejas, háganse felices el uno al otro.  
+A partir del día de hoy, la vida se trata sobre verdad y justicia con Mercurio en Sagitario hasta principios de diciembre. Esta noche, la cuadratura entre Venus y Plutón podría convertirse en un arriesgado afrodisíaco debido a sus fuertes poderes de atracción. ¡Cuidado! En muchos sentidos, es un momento de déjà vu. No es un caso de no saber, ya has pasado por esa experiencia.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
