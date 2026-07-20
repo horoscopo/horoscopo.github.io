@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: acuario 13 de julio 2026 al 19 de julio 2026 
-description: Horóscopo semanal acuario 13 de julio 2026 al 19 de julio 2026. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
+title: acuario 20 de julio 2026 al 26 de julio 2026 
+description: Horóscopo semanal acuario 20 de julio 2026 al 26 de julio 2026. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2026-07-13
+ogimg: /images/zodiac/semanal_acuario.png#2026-07-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-07-13'
+ lastmod: '2026-07-20'
 ---
 
 

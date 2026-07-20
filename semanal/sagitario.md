@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: sagitario 13 de julio 2026 al 19 de julio 2026 
-description: Horóscopo semanal sagitario 13 de julio 2026 al 19 de julio 2026. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez.
+title: sagitario 20 de julio 2026 al 26 de julio 2026 
+description: Horóscopo semanal sagitario 20 de julio 2026 al 26 de julio 2026. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2026-07-13
+ogimg: /images/zodiac/semanal_sagitario.png#2026-07-20
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-07-13'
+ lastmod: '2026-07-20'
 ---
 
 
