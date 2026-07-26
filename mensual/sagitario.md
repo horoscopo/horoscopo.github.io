@@ -1,24 +1,24 @@
 ---
 layout: horoscopos
-title: Horoscopo Sagitario Julio 2026
-description: El Horóscopo Julio de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Sagitario Agosto 2026
+description: El Horóscopo Agosto de Sagitario todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/sagitario/
 amplink: /horoscopo-mensual/amp/sagitario/
 home: FALSE
-keywords: horóscopo julio, horoscopos en español, horóscopo Sagitario julio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Sagitario, Tarot, Astrologia, Zodíaco, Sagitario, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo agosto, horoscopos en español, horóscopo Sagitario agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Sagitario, Tarot, Astrologia, Zodíaco, Sagitario, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/sagitario_mes.png#2026-06-30
+ogimg: /images/mes/sagitario_mes.png#2026-07-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-06-30'
+ lastmod: '2026-07-26'
 ---
 
 
- > julio pide a sagitario orden interior, disfrutar del amor con seguridad, y renovar su energía para cerrar el año con poder.
+ > sagitario, agosto pondrá las cartas sobre la mesa y es que ha llegado el momento de que decidas por dónde vas a querer ir en tu vida. Tu corazón se irá reconstruyendo poco a poco y así recuperarás las ganas de encontrar el amor y disfrutar de él.
 
 
 
-Tu situación económica será sólida alrededor de la Luna Nueva del 14 de julio, más no  te excedas en tus gastos. Permite que tus amigos sean generosos y te duchen con sorpresas. Hacerlo les hará sentir bien y no dañará sus presupuestos. La vida cotidiana te hará sentir claustrofobia bajo la Luna Llena del 29 de julio. Sabes que el mundo es más grande que eso y desearás hacer más, ver más y escuchar más. Absorbe de la vida tanto como puedas y tal vez haz nuevas amistades también. El 27 de julio es tu día de suerte, sobre todo en el trabajo. Mantén tus expectativas bajas y déjate gratamente recompensar por una obra realizada anteriormente.
+El 7 de agosto es un día lleno de amor y sueños, cuando la Luna conjunta a Venus y también forma trígono con Neptuno. Goza del espíritu de este mes y niégate a permitir que te apresuren o te critiquen. Descansa más de lo normal y tómate tus vitaminas alrededor de la Luna Nueva del 12 de agosto, especialmente si tu familia o ciertos asuntos hogareños están drenando tu energía y haciendo que te sientas mayor de lo que eres. Ten bondad con tu propio ser. La Luna Llena del 28 de agosto podría estar llena de gente yendo y viniendo y actividades que puede que no te emocionen totalmente. Sin embargo, te encantará tener contacto con tu familia junto a todos esos tradicionales encuentros familiares.

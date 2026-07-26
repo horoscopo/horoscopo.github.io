@@ -1,26 +1,18 @@
 ---
 layout: amp
-title: Horoscopo Géminis Julio 2026 
+title: Horoscopo Géminis Agosto 2026 
 permalink: /horoscopo-mensual/amp/geminis/
 normallink: /horoscopo-mensual/geminis/
 home: FALSE
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Géminis_mes.png#2026-06-30
+ogimg: /images/mes/Géminis_mes.png#2026-07-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-06-30'
+ lastmod: '2026-07-26'
 ---
 
 
-El 14 de julio, la luna nueva de Cáncer ofrece un lienzo cósmico para la autoexpresión, ya que inicia una chispa en tu zona de finanzas. A medida que abres tu corazón a la danza juguetona del amor, el Universo te invita a abrazar la espontaneidad o a reavivar la llama en una relación existente.
-Marte en tu signo el día 6 avanza a través de tu sector de identidad, instando a una reevaluación de cómo afirmas tu energía.
-Recibirás un empujón cósmico cuando Venus entre en Virgo el 9 de julio, magnificando tu reino del hogar. La necesidad de liberarte de las normas limitantes y tradicionales de las relaciones se acentúa, inspirándote a experimentar. Un poco de excentricidad puede traer una brisa refrescante a tus conexiones más cercanas.
-La luz centelleante de la luna llena de Acuario ilumina tu vida social el día veintinueve. Destacando tu zona de amistad, esta lunación es una llamada a celebrar tu individualidad al tiempo que reconoces la belleza de la conexión. Con Mercurio directo en Cáncer el 24 de julio, la falta de comunicación se aclara en las relaciones, permitiéndote avanzar con un renovado sentido de propósito.
-La energía cambia cuando el Sol entra en Leo el 22 de julio y viaja a través de tu reino de la comunicación. Comienza una temporada de desarrollo personal. A medida que el Universo te da una lista cósmica de tareas pendientes que enfatiza la estructura y la disciplina, crea espacio también para las prácticas de amor propio. 
-El influjo cósmico del día treinta ofrece una oportunidad para plantar semillas de manifestación para tu futuro, prometiendo éxito a través del esfuerzo diligente y la conciencia. Tus habilidades se hacen notar.
-¡Buena suerte este mes, géminis!
-Días destacados: 2, 9, 18
-Días desafiantes: 6, 12, 25
+¡Feliz mes de agosto géminis! El trígono entre Marte y Júpiter del 1 de agosto te da el impulso adicional de energía y los contactos sociales que necesitas para hacer las cosas. El amor alcanza su punto más brillante con la Luna Llena del 28 de agosto. Si no es tu cumpleaños, puede que se te trate como si lo fuera. Celebra y déjate amar Alguien especial querrá mimarte. La Luna Nueva del 12 de agosto apunta a asuntos de dinero y posesiones materiales. Puede que hayas respetado tu presupuesto hasta ahora, pero la época de mitad de año no ha terminado todavía. Compórtate seguramente, permanece cerca de casa y ten un emocionante mes de la mejor manera.

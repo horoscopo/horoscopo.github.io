@@ -1,28 +1,32 @@
 ---
 layout: horoscopos
-title: Horoscopo Leo Julio 2026
-description: El Horóscopo Julio de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Leo Agosto 2026
+description: El Horóscopo Agosto de Leo todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/leo/
 amplink: /horoscopo-mensual/amp/leo/
 home: FALSE
-keywords: horóscopo julio, horoscopos en español, horóscopo Leo julio , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Leo, Tarot, Astrologia, Zodíaco, Leo, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo agosto, horoscopos en español, horóscopo Leo agosto , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Leo, Tarot, Astrologia, Zodíaco, Leo, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/leo_mes.png#2026-06-30
+ogimg: /images/mes/leo_mes.png#2026-07-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-06-30'
+ lastmod: '2026-07-26'
 ---
 
 
- > leo, prepárate para un mes de julio en el que gozarás de un poder intuitivo que te permitirá crecer mucho. Es muy posible que te lleves una grata sorpresa y conozcas a alguien en un momento que no te esperas.
+ > agosto será un mes de manifestación y empoderamiento para leo, con oportunidades que podrán concretarse si actúa con confianza y claridad. El amor traerá estabilidad y conexiones profundas, favoreciendo relaciones auténticas. En lo laboral, la paciencia y la disciplina darán frutos a largo plazo. La salud emocional será clave: gestionar el estrés y buscar el equilibrio será esencial para avanzar con bienestar.
 
 
 
-Tú y tus amistades pueden brindarse estabilidad mutuamente este mes, dulce León, ya que el sol en Leo activa el sector de tu carta astral que rige la identidad. Este clima cósmico es perfecto para sentar las bases de nuevas relaciones mientras te ayuda a sentir más seguridad en el proceso. Estos sentimientos se vuelven más fuertes cuando el sol aspecta al revolucionario Urano el 5 de julio, lo que logra un avance en cualquier conexión nueva con la que has tenido dificultad.
-Mientras es realmente importante que en este momento inviertas tiempo y energía en tus amistades, tampoco querrás perder de vista tu carrera mientras Júpiter transita por Leo el día 10. Esta ubicación planetaria está preparada para traer prosperidad y suerte a tu primera casa solar, lo que hace que para ti sea importante invertir tu energía en el camino profesional de tus sueños. Si tu situación actual no te hace feliz, este podría ser el momento de apuntar tu trabajo en una nueva dirección. También podrías contactarte con el universo, y susurrarle tus esperanzas al viento, pues el universo buscará la manera de ayudarte a alcanzar tus metas.
-El 20 de julio la temporada de Cáncer requiere algo de introspección de tu parte mientras el cosmos te pide que revises tu psiquis. Date el espacio suficiente para honrar tus más profundos pensamientos y sentimientos, en especial si ha pasado un buen rato desde la última vez que pasaste tiempo en soledad. Desafortunadamente, estas vibras podrían causar algo de molestia e incomodidad si no eres gentil contigo, por lo que no debes escatimar tu autocuidado si sientes la necesidad de que te mimen.
-Días destacados: 7, 16, 30
-Días desafiantes: 4, 5, 9
+agosto de 2026 - ¡Hay poder en la suavidad, Leo! agosto te enraíza en tu sentido del hogar, tu relación con el placer y tu capacidad para sentirte seguro mientras brillas. Cuando Venus entre en Libra el 6 de agosto, tu tercera casa, la de la comunicación y el entorno cercano, empezará a brillar con posibilidades. Podrías encontrarte embelleciendo tu espacio, reconectando con la familia o atendiendo a los patrones emocionales que silenciosamente dan forma a tu vida cotidiana.
+En este periodo, Neptuno retrógrado en Aries arroja un tono reflexivo sobre tu novena casa de la espiritualidad y la mente superior.
+Con Urano en Géminis, comienza un largo ciclo de reinvención en tu vida personal. La luna llena de Piscis del 28 de agosto se eleva en tu octava casa de amistades, comunidades y visiones futuras. Algo por lo que has estado trabajando podría hacerse visible.
+Saturno continúa su retrogradación en Aries este mes, ofreciendo una revisión intencional de tu tiempo y responsabilidades. La disciplina se convierte en devoción.
+Mercurio transita por Leo este mes, dirigiendo tu atención hacia tu primera casa de la autoexpresión e identidad.
+El sol entra en Virgo el veintitrés, tras la luna nueva en Leo del día doce, despertando nuevas posibilidades en tu vida diaria. Cuando Venus entre en Libra el 6 de agosto, tu tercera casa cobrará vida. Enamórate de tu vida de nuevo y deja que el placer regrese como práctica.
+¡Buena suerte este mes, Leo!
+Fechas destacadas: 5, 13, 22
+Fechas desafiantes: 7, 14, 26
