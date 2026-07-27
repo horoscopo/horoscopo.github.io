@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: tauro 20 de julio 2026 al 26 de julio 2026 
-description: Horóscopo semanal tauro 20 de julio 2026 al 26 de julio 2026. Estás en una etapa súper confusa tauro, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
+title: tauro 27 de julio 2026 al 02 de agosto 2026 
+description: Horóscopo semanal tauro 27 de julio 2026 al 02 de agosto 2026. Estás en una etapa súper confusa tauro, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2026-07-20
+ogimg: /images/zodiac/semanal_tauro.png#2026-07-27
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-07-20'
+ lastmod: '2026-07-27'
 ---
 
 
