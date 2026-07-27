@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 26 de julio 2026
-description: Horóscopos del dia de hoy 26 de julio 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 27 de julio 2026
+description: Horóscopos del dia de hoy 27 de julio 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-07-26
+ lastmod: 2026-07-27
 ---
-Algo bastante maravilloso puede suceder cuando el Sol aspecta a Júpiter, el planeta de la expansión. Las necesidades cambian y son recompensadas con nuevos desafíos. Los pensamientos y las emociones se traducen a palabras pronunciadas durante el sextil entre la Luna y Mercurio de esta noche. Solteros, ¡miren a su alrededor! Alguien expresa sus emociones abiertamente. 
+El Universo coopera si decides invertir tu esfuerzo durante el oportuno aspecto entre Mercurio y Plutón. Tu energía se desperdicia si todo lo que haces es iniciar o casi iniciar, pero no terminar algo. Esta noche, ten conversaciones divertidas y estimulantes con un reparto inusual de personajes. Incluso las parejas que llevan juntas toda una vida se sienten gratamente coquetas.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
