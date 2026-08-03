@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: libra 27 de julio 2026 al 02 de agosto 2026 
-description: Horóscopo semanal libra 27 de julio 2026 al 02 de agosto 2026. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
+title: libra 03 de agosto 2026 al 09 de agosto 2026 
+description: Horóscopo semanal libra 03 de agosto 2026 al 09 de agosto 2026. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2026-07-27
+ogimg: /images/zodiac/semanal_libra.png#2026-08-03
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-07-27'
+ lastmod: '2026-08-03'
 ---
 
 
