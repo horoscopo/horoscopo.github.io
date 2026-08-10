@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: acuario 03 de agosto 2026 al 09 de agosto 2026 
-description: Horóscopo semanal acuario 03 de agosto 2026 al 09 de agosto 2026. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
+title: acuario 10 de agosto 2026 al 16 de agosto 2026 
+description: Horóscopo semanal acuario 10 de agosto 2026 al 16 de agosto 2026. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2026-08-03
+ogimg: /images/zodiac/semanal_acuario.png#2026-08-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-08-03'
+ lastmod: '2026-08-10'
 ---
 
 

@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: cancer 03 de agosto 2026 al 09 de agosto 2026 
-description: Horóscopo semanal cancer 03 de agosto 2026 al 09 de agosto 2026. No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
+title: cancer 10 de agosto 2026 al 16 de agosto 2026 
+description: Horóscopo semanal cancer 10 de agosto 2026 al 16 de agosto 2026. No se trata de aguantar lo malo por no conocer algo peor, no se trata de adaptarte a todo porque sí. No tienes que dejar pasar nada que no te haga bien, de hecho, plántate de una jodida vez y listo.
 permalink: /horoscopo-semanal-gratis/cancer/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos cancer la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, cancer, horoscopo gratis, semanal
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_cancer.png#2026-08-03
+ogimg: /images/zodiac/semanal_cancer.png#2026-08-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-08-03'
+ lastmod: '2026-08-10'
 ---
 
 

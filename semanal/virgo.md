@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: virgo 03 de agosto 2026 al 09 de agosto 2026 
-description: Horóscopo semanal virgo 03 de agosto 2026 al 09 de agosto 2026. A veces sientes como si no avanzaras virgo, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
+title: virgo 10 de agosto 2026 al 16 de agosto 2026 
+description: Horóscopo semanal virgo 10 de agosto 2026 al 16 de agosto 2026. A veces sientes como si no avanzaras virgo, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2026-08-03
+ogimg: /images/zodiac/semanal_virgo.png#2026-08-10
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-08-03'
+ lastmod: '2026-08-10'
 ---
 
 
