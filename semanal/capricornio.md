@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: capricornio 17 de agosto 2026 al 23 de agosto 2026 
-description: Horóscopo semanal capricornio 17 de agosto 2026 al 23 de agosto 2026. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto.
+title: capricornio 24 de agosto 2026 al 30 de agosto 2026 
+description: Horóscopo semanal capricornio 24 de agosto 2026 al 30 de agosto 2026. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2026-08-17
+ogimg: /images/zodiac/semanal_capricornio.png#2026-08-24
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-08-17'
+ lastmod: '2026-08-24'
 ---
 
 

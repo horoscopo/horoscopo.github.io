@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: geminis 17 de agosto 2026 al 23 de agosto 2026 
-description: Horóscopo semanal geminis 17 de agosto 2026 al 23 de agosto 2026. Todo acaba cicatrizando, pero tienes que dejar que cicatrice géminis. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
+title: geminis 24 de agosto 2026 al 30 de agosto 2026 
+description: Horóscopo semanal geminis 24 de agosto 2026 al 30 de agosto 2026. Todo acaba cicatrizando, pero tienes que dejar que cicatrice géminis. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2026-08-17
+ogimg: /images/zodiac/semanal_geminis.png#2026-08-24
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-08-17'
+ lastmod: '2026-08-24'
 ---
 
 
