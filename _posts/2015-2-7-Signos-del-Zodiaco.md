@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 28 de agosto 2026
-description: Horóscopos del dia de hoy 28 de agosto 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 29 de agosto 2026
+description: Horóscopos del dia de hoy 29 de agosto 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-08-28
+ lastmod: 2026-08-29
 ---
-Encontrarás la vida bastante simple si le prestas atención a los detalles cuando la Luna forme sextil con Saturno. Y para cuando llegue la tarde, alguien te agradecerá el que tengas tacto. Una sonrisa combinada con buenas palabras te llevan lejos. La gente te ama total y consideradamente bajo la Luna de esta noche en el amigable Libra.
+Las personas son persuadidas fácilmente. De hecho, podrías inclusive regresar con cierta persona y volver a pedir algo mientras Mercurio retrógrado aspecte a Plutón. Podrías recibir un sí a la primera. Esta noche, las conversaciones desatan incómodos silencios debido a Venus a punto de cambiar de signo. Podría ser que no haya nada más qué decir.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
