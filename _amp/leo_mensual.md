@@ -7,20 +7,12 @@ home: FALSE
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Leo_mes.png#2026-08-26
+ogimg: /images/mes/Leo_mes.png#2026-08-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-08-26'
+ lastmod: '2026-08-30'
 ---
 
 
-agosto de 2026 - ¡Hay poder en la suavidad, Leo! agosto te enraíza en tu sentido del hogar, tu relación con el placer y tu capacidad para sentirte seguro mientras brillas. Cuando Venus entre en Libra el 6 de agosto, tu tercera casa, la de la comunicación y el entorno cercano, empezará a brillar con posibilidades. Podrías encontrarte embelleciendo tu espacio, reconectando con la familia o atendiendo a los patrones emocionales que silenciosamente dan forma a tu vida cotidiana.
-En este periodo, Neptuno retrógrado en Aries arroja un tono reflexivo sobre tu novena casa de la espiritualidad y la mente superior.
-Con Urano en Géminis, comienza un largo ciclo de reinvención en tu vida personal. La luna llena de Piscis del 28 de agosto se eleva en tu octava casa de amistades, comunidades y visiones futuras. Algo por lo que has estado trabajando podría hacerse visible.
-Saturno continúa su retrogradación en Aries este mes, ofreciendo una revisión intencional de tu tiempo y responsabilidades. La disciplina se convierte en devoción.
-Mercurio transita por Leo este mes, dirigiendo tu atención hacia tu primera casa de la autoexpresión e identidad.
-El sol entra en Virgo el veintitrés, tras la luna nueva en Leo del día doce, despertando nuevas posibilidades en tu vida diaria. Cuando Venus entre en Libra el 6 de agosto, tu tercera casa cobrará vida. Enamórate de tu vida de nuevo y deja que el placer regrese como práctica.
-¡Buena suerte este mes, Leo!
-Fechas destacadas: 5, 13, 22
-Fechas desafiantes: 7, 14, 26
+Querido Leo, septiembre de 2026 se presenta como un mes de reajustes y valoraciones importantes. Con el Sol transitando por Virgo durante gran parte del mes, tu atención se centrará en tus finanzas, valores personales y la gestión de tus recursos. Es un período excelente para organizar tus cuentas y reflexionar sobre lo que realmente te aporta seguridad. Hacia mediados de mes, con Venus ingresando a Libra, las relaciones y la comunicación con tu entorno cercano tomarán un matiz más armonioso. Podrías fortalecer lazos con hermanos o vecinos, o incluso iniciar un proyecto colaborativo. La Luna Nueva en Virgo, alrededor del 23, te invita a sembrar intenciones claras sobre tu estabilidad material. Emocionalmente, busca un equilibrio entre tu necesidad de brillar y la practicidad del día a día, permitiendo que la generosidad Leo se manifieste en gestos concretos.

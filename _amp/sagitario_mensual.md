@@ -7,12 +7,12 @@ home: FALSE
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Sagitario_mes.png#2026-08-26
+ogimg: /images/mes/Sagitario_mes.png#2026-08-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-08-26'
+ lastmod: '2026-08-30'
 ---
 
 
-El 7 de agosto es un día lleno de amor y sueños, cuando la Luna conjunta a Venus y también forma trígono con Neptuno. Goza del espíritu de este mes y niégate a permitir que te apresuren o te critiquen. Descansa más de lo normal y tómate tus vitaminas alrededor de la Luna Nueva del 12 de agosto, especialmente si tu familia o ciertos asuntos hogareños están drenando tu energía y haciendo que te sientas mayor de lo que eres. Ten bondad con tu propio ser. La Luna Llena del 28 de agosto podría estar llena de gente yendo y viniendo y actividades que puede que no te emocionen totalmente. Sin embargo, te encantará tener contacto con tu familia junto a todos esos tradicionales encuentros familiares.
+Sagittarius, septiembre de 2026 te invita a consolidar tu posición. Con el Sol transitando por tu décima casa hasta la tercera semana, sentirás un impulso para brillar en tu carrera o asumir nuevas responsabilidades. Es un momento propicio para la organización y la planificación a largo plazo, aunque podrías sentirte un poco más reservado de lo habitual. Hacia finales de mes, con el Sol entrando en Libra, tu atención se volcará hacia tus amistades y redes sociales. Es una etapa excelente para reconectar, disfrutar de encuentros grupales y sembrar nuevas ideas que verán frutos en el futuro. Permítete equilibrar el trabajo con la diversión. En el ámbito emocional, busca la estabilidad y el apoyo mutuo en tus relaciones más cercanas.

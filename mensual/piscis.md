@@ -9,16 +9,16 @@ keywords: horóscopo septiembre, horoscopos en español, horóscopo Piscis septi
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/piscis_mes.png#2026-08-26
+ogimg: /images/mes/piscis_mes.png#2026-08-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-08-26'
+ lastmod: '2026-08-30'
 ---
 
 
- > piscis, vas a tener la posibilidad de disfrutar de un mes de agosto cargado de pasión, romanticismo y sensualidad. Estará en tu mano poner en práctica tu poder sexual, ya que tienes el listón muy alto. Lo bueno es que tendrás alguna que otra sorpresa que hará que cambien tus planes.
+ > Este mes, Piscis, confía en tu intuición. Permite que la claridad llegue a tus relaciones y no temas establecer límites sanos. Busca el equilibrio en cada interacción y abraza los cambios que te lleven a un mayor crecimiento personal.
 
 
 
-Puede que la luna llena del 6 de agosto se sienta como el momento ideal para relajarte y descansar, porque no quieres hacer más que recostarte, dormir y soñar. Sin embargo, puede que tu trabajo o tu vida social requieran más atención. Busca un punto medio. Para la luna nueva del 12 de agosto, eres la estrella en tu lugar de trabajo, en tu círculo social o en ambos. No es hora de relajarte y dejar que alguien más reciba toda la atención. En realidad, no eres una persona tímida, pero ahora las personas sienten una atracción instantánea hacia ti. Júpiter y Urano se aspectan el 27 de agosto. Sé gentil y agradece todo lo que se te ofrezca sin importar qué sea.
+Querido Piscis, septiembre de 2026 te invita a una profunda introspección, especialmente con la influencia de Saturno en tu propio signo, que te empuja a definir límites y fortalecer tu identidad. La primera mitad del mes, con el Sol en Virgo, iluminará tus relaciones más cercanas, pidiéndote claridad y equilibrio en tus vínculos. Podrías sentir la necesidad de resolver malentendidos o de renegociar acuerdos. La Luna Nueva en Virgo, alrededor del 3 de septiembre, te ofrece una oportunidad para iniciar nuevas dinámicas de pareja o colaboración. Hacia la segunda quincena, con el Sol ingresando en Libra el 22 de septiembre, tu atención se dirigirá hacia temas de intimidad, recursos compartidos y transformación personal. Es un buen momento para explorar tus emociones más profundas y buscar un crecimiento significativo en tu vida.

@@ -7,12 +7,12 @@ home: FALSE
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/Cáncer_mes.png#2026-08-26
+ogimg: /images/mes/Cáncer_mes.png#2026-08-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-08-26'
+ lastmod: '2026-08-30'
 ---
 
 
-La Luna Llena del 28 de agosto es una luna festiva y orientada a la familia. Podrías recibir llamadas telefónicas, fotos o mensajes de texto de parientes que quieren ver tu hermoso rostro y escuchar tu dulce voz. Ríndete ante la atención. No durará mucho tiempo. El 13 de agosto, el trígono entre Mercurio y Júpiter mejora tu suerte y tu visión sobre un problema determinado. La Luna Nueva del 12 de agosto abre tu vida social a una gran diversión y entusiasmo. Puede que estés a punto de tener un poco más de entusiasmo en tu vida, y tal vez seas tú quien lo genere. Las personas quieren estar cerca de ti.
+Querido Cáncer, Septiembre te invita a enfocar tu energía en el día a día y tus vínculos más cercanos. Los primeros días, con el Sol y Mercurio en Virgo, son ideales para organizar tus ideas, mejorar la comunicación y planificar tu rutina. La Luna Nueva en Virgo, alrededor del día 2, marca un nuevo comienzo en estos aspectos. A mediados de mes, la Luna Llena en Aries, cerca del día 17, podría traer un punto culminante en tu carrera o vida pública, pidiéndote equilibrar ambiciones y hogar. Con el Sol entrando en Libra alrededor del día 22, tu atención se volcará hacia la armonía familiar. Finalmente, la entrada de Marte en tu signo a finales de mes, el día 26, te llenará de energía para tomar las riendas de tus asuntos personales y emocionales.

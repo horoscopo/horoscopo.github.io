@@ -7,12 +7,12 @@ home: FALSE
 horoscopo:
  signo: aries
  video: -DQpmrrAIeU
-ogimg: /images/mes/Aries_mes.png#2026-08-26
+ogimg: /images/mes/Aries_mes.png#2026-08-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-08-26'
+ lastmod: '2026-08-30'
 ---
 
 
-Algunas pequeñas cosas en el hogar necesitan atención, y estás de ánimo para hacerlas bajo la luna llena del 28 de agosto. Peina al perro, lleva al gato al veterinario, o acomoda y riega las plantas de interior. La luna nueva del día 12 favorece más las reuniones privadas tranquilas que las enormes fiestas sociales. Tal vez quieras invitar a un par de amistades (o quizás solo una) a tu casa para tener una celebración íntima de temporada. El 23 de agosto, el sol ingresa a Virgo. Tus tareas se están colocando en su lugar, y tú estás haciendo que todo parezca fácil.
+Aries, septiembre te invita a un equilibrio fascinante entre la acción y la reflexión. Con el Sol en Virgo al inicio del mes, sentirás un impulso para organizar tu vida diaria y cuidar tu bienestar. Es un momento excelente para establecer nuevas rutinas de salud o abordar proyectos laborales con meticulosidad. Sin embargo, a medida que el Sol transita a Libra alrededor del 22, la atención se desplaza hacia tus relaciones. Podrías encontrar que las dinámicas de pareja o las asociaciones requieren más diplomacia y compromiso. Emocionalmente, busca la armonía en tus interacciones, evitando la impulsividad. Este mes es una oportunidad para aprender a negociar tus deseos con las necesidades de los demás.

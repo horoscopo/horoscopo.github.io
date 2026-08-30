@@ -7,12 +7,12 @@ home: FALSE
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Capricornio_mes.png#2026-08-26
+ogimg: /images/mes/Capricornio_mes.png#2026-08-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-08-26'
+ lastmod: '2026-08-30'
 ---
 
 
-Tal vez todo lo que deseas es tener un momento de tranquilidad cuando la luna llena aparece el 28 de agosto. Tus planes del mes están comenzando a ponerse serios y una crisis laboral también podría suceder. Cuídate y no te agotes. El día 6, Mercurio y Marte forman un sextil cuando la luna se encuentra en Cáncer. Sé una persona astuta, motivada y sensible. La luna nueva del 12 de agosto te muestra que todo se pondrá perfectamente en su lugar. Los quehaceres diarios están hechos, el gato está alimentado, y nadie se siente ignorado. De forma inesperada, puede que te ofrezcan una mano amiga. Acepta y agradece.
+Querido Capricornio, Septiembre trae un enfoque renovado en tu bienestar y organización. Con el Sol en Virgo hasta mediados de mes, sentirás la necesidad de optimizar tus rutinas diarias y cuidar tu salud. Es un excelente momento para establecer hábitos más saludables o perfeccionar tus métodos de trabajo. Hacia la segunda quincena, con la entrada del Sol en Libra, la energía se desplaza hacia tus relaciones. Podrías encontrar un nuevo equilibrio en tus asociaciones, tanto personales como profesionales. Presta atención a la comunicación, buscando la armonía y el compromiso. Emocionalmente, podrías sentir una mayor necesidad de estabilidad y justicia en tus interacciones. Aprovecha este período para fortalecer lazos importantes.

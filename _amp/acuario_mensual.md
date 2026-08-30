@@ -7,18 +7,12 @@ home: FALSE
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Acuario_mes.png#2026-08-26
+ogimg: /images/mes/Acuario_mes.png#2026-08-30
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-08-26'
+ lastmod: '2026-08-30'
 ---
 
 
-agosto de 2026 - Habrá mucho que ver y hacer este mes, querido acuario, ya que la temporada de Leo continúa iluminando nuestros cielos y tu popularidad.
-Sin embargo, con Mercurio viajando retrógrado a través de tu signo, estarás de humor para editar tu círculo de amistades, haciendo espacio para las personas que realmente te valoran mientras te alejas de cualquier persona que continuamente te traiga drama o dolor. El deseo de actualizar tu aspecto también podría entrar en juego, aunque es posible que desees mantener a raya cualquier cambio drástico de peinado o grandes inversiones de vestuario con Mercurio directo todo el mes.
-Cuidado con el drama romántico durante el eclipse de luna llena en Piscis el día veintiocho. Tiene el poder de hacer o romper relaciones, y muchas parejas podrían separarse bajo este eclipse. Y con esta lunación destacando el sector de tu carta que rige el amor, podrías ser particularmente susceptible a estos casos.
-Por suerte, Venus migra al aire de Libra el 6 de agosto, brindándote la oportunidad de besarte y reconciliarte si tu vida amorosa ha estado en las rocas. Esta colocación planetaria también puede elevar tus habilidades sociales, ayudándote a forjar nuevas amistades y conexiones.
-Prepárate para un año de buena suerte una vez que Júpiter transita por Leo este mes, trayendo la promesa de fortuna, fama y cualquier otra cosa que tu corazón desee. No permitas que esta oportunidad cósmica se te escape de las manos, y recuerda trabajar duro para conseguir tus objetivos. Asegúrese de establecer sus intenciones durante la luna nueva de Leo del 12 de agosto, que está preparada para ser uno de los días más fortuitos del año para usted.
-Días destacados: 1, 9, 10
-Días desafiantes: 4, 17, 23
+Acuario, septiembre 2026 te invita a un mes de revisión y reequilibrio. Con el Sol transitando por Virgo al inicio, sentirás una inclinación a organizar tus rutinas y priorizar tu bienestar. Es un momento excelente para pulir esos proyectos que tienes en mente. Hacia mediados de mes, la energía se desplaza hacia tus relaciones y conexiones sociales. Si hubo malentendidos, el avance directo de Mercurio a mitad de mes favorece la comunicación clara, permitiéndote resolver diferencias con amigos o colaboradores. La entrada del Sol en Libra, a finales de mes, pondrá el foco en tus asociaciones más íntimas y en la búsqueda de equidad. Permite que tu intelecto guíe tus emociones, pero no las ignores.
