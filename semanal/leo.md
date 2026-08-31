@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: leo 24 de agosto 2026 al 30 de agosto 2026 
-description: Horóscopo semanal leo 24 de agosto 2026 al 30 de agosto 2026. El mundo puede esperar leo, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+title: leo 31 de agosto 2026 al 06 de septiembre 2026 
+description: Horóscopo semanal leo 31 de agosto 2026 al 06 de septiembre 2026. El mundo puede esperar leo, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2026-08-24
+ogimg: /images/zodiac/semanal_leo.png#2026-08-31
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-08-24'
+ lastmod: '2026-08-31'
 ---
 
 

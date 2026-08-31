@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: tauro 24 de agosto 2026 al 30 de agosto 2026 
-description: Horóscopo semanal tauro 24 de agosto 2026 al 30 de agosto 2026. Estás en una etapa súper confusa tauro, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
+title: tauro 31 de agosto 2026 al 06 de septiembre 2026 
+description: Horóscopo semanal tauro 31 de agosto 2026 al 06 de septiembre 2026. Estás en una etapa súper confusa tauro, y tienes que abrir los ojos por ti mismo y decidir qué es lo que te apetece hacer ahora, pero no aguantes pensando que todo cambiará solo porque nada va a cambiar hasta que tú reacciones…
 permalink: /horoscopo-semanal-gratis/tauro/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos tauro la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, tauro, horoscopo gratis, semanal
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_tauro.png#2026-08-24
+ogimg: /images/zodiac/semanal_tauro.png#2026-08-31
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-08-24'
+ lastmod: '2026-08-31'
 ---
 
 
