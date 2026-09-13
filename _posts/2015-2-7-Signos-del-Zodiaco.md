@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 12 de septiembre 2026
-description: Horóscopos del dia de hoy 12 de septiembre 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 13 de septiembre 2026
+description: Horóscopos del dia de hoy 13 de septiembre 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-09-12
+ lastmod: 2026-09-13
 ---
-Ten un gran día al reciclar o encontrarle un nuevo uso a algo viejo bajo la Luna en el creativo Leo. Además, disfrutas de tener suerte y buena sincronización gracias a la conjunción con Júpiter. Esta noche, es fácil darte cuenta de las pequeñas señales, anomalías y cosas dichas y hechas para desviar tu atención con Venus encontrándose en Virgo.
+Los problemas le juegan trucos a tu mente con Mercurio a punto de cambiar de signo. Termina los asuntos pendientes - no dejes las cosas a medias. Venus entra a Capricornio. El planeta del amor en un signo serio sugiere que cosas importantes se acercan de manera madura y responsable durante las próximas semanas. No está nada mal, ya que no se trata de apuestas, sino de cosas seguras.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
