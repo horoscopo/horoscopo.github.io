@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Acuario Septiembre 2026 
+title: Horoscopo Acuario Octubre 2026 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Acuario_mes.png#2026-08-30
+ogimg: /images/mes/Acuario_mes.png#2026-09-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-08-30'
+ lastmod: '2026-09-26'
 ---
 
 

@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Virgo Septiembre 2026 
+title: Horoscopo Virgo Octubre 2026 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Virgo_mes.png#2026-08-30
+ogimg: /images/mes/Virgo_mes.png#2026-09-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-08-30'
+ lastmod: '2026-09-26'
 ---
 
 

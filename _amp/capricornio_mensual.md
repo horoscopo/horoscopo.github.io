@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Capricornio Septiembre 2026 
+title: Horoscopo Capricornio Octubre 2026 
 permalink: /horoscopo-mensual/amp/capricornio/
 normallink: /horoscopo-mensual/capricornio/
 home: FALSE
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Capricornio_mes.png#2026-08-30
+ogimg: /images/mes/Capricornio_mes.png#2026-09-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-08-30'
+ lastmod: '2026-09-26'
 ---
 
 

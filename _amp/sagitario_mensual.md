@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Sagitario Septiembre 2026 
+title: Horoscopo Sagitario Octubre 2026 
 permalink: /horoscopo-mensual/amp/sagitario/
 normallink: /horoscopo-mensual/sagitario/
 home: FALSE
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Sagitario_mes.png#2026-08-30
+ogimg: /images/mes/Sagitario_mes.png#2026-09-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-08-30'
+ lastmod: '2026-09-26'
 ---
 
 

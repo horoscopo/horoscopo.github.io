@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Escorpio Septiembre 2026 
+title: Horoscopo Escorpio Octubre 2026 
 permalink: /horoscopo-mensual/amp/escorpio/
 normallink: /horoscopo-mensual/escorpio/
 home: FALSE
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Escorpio_mes.png#2026-08-30
+ogimg: /images/mes/Escorpio_mes.png#2026-09-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-08-30'
+ lastmod: '2026-09-26'
 ---
 
 

@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Libra Septiembre 2026 
+title: Horoscopo Libra Octubre 2026 
 permalink: /horoscopo-mensual/amp/libra/
 normallink: /horoscopo-mensual/libra/
 home: FALSE
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/Libra_mes.png#2026-08-30
+ogimg: /images/mes/Libra_mes.png#2026-09-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-08-30'
+ lastmod: '2026-09-26'
 ---
 
 
