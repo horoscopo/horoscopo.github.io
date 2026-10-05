@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: geminis 28 de septiembre 2026 al 04 de octubre 2026 
-description: Horóscopo semanal geminis 28 de septiembre 2026 al 04 de octubre 2026. Todo acaba cicatrizando, pero tienes que dejar que cicatrice géminis. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
+title: geminis 05 de octubre 2026 al 11 de octubre 2026 
+description: Horóscopo semanal geminis 05 de octubre 2026 al 11 de octubre 2026. Todo acaba cicatrizando, pero tienes que dejar que cicatrice géminis. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2026-09-28
+ogimg: /images/zodiac/semanal_geminis.png#2026-10-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-09-28'
+ lastmod: '2026-10-05'
 ---
 
 

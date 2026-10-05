@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: piscis 28 de septiembre 2026 al 04 de octubre 2026 
-description: Horóscopo semanal piscis 28 de septiembre 2026 al 04 de octubre 2026. Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
+title: piscis 05 de octubre 2026 al 11 de octubre 2026 
+description: Horóscopo semanal piscis 05 de octubre 2026 al 11 de octubre 2026. Deja de correr detrás de nadie, deja de tratar de agarrarte todo el tiempo a manos que te sujeten, no necesitas esas manos de nadie, haz por tu cuenta todo ahora, y cuanto menos cuentes con la ayuda del resto mejor, porque no la necesitas.
 permalink: /horoscopo-semanal-gratis/piscis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos piscis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, piscis, horoscopo gratis, semanal
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_piscis.png#2026-09-28
+ogimg: /images/zodiac/semanal_piscis.png#2026-10-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-09-28'
+ lastmod: '2026-10-05'
 ---
 
 

@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: virgo 28 de septiembre 2026 al 04 de octubre 2026 
-description: Horóscopo semanal virgo 28 de septiembre 2026 al 04 de octubre 2026. A veces sientes como si no avanzaras virgo, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
+title: virgo 05 de octubre 2026 al 11 de octubre 2026 
+description: Horóscopo semanal virgo 05 de octubre 2026 al 11 de octubre 2026. A veces sientes como si no avanzaras virgo, como si al final todo pareciera lo mismo, día tras día, pero no es así, mira hacia atrás y ya verás como todo es muy diferente.
 permalink: /horoscopo-semanal-gratis/virgo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos virgo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, virgo, horoscopo gratis, semanal
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_virgo.png#2026-09-28
+ogimg: /images/zodiac/semanal_virgo.png#2026-10-05
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-09-28'
+ lastmod: '2026-10-05'
 ---
 
 
