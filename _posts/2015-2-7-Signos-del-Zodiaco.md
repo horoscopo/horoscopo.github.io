@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 16 de octubre 2026
-description: Horóscopos del dia de hoy 16 de octubre 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 17 de octubre 2026
+description: Horóscopos del dia de hoy 17 de octubre 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-10-16
+ lastmod: 2026-10-17
 ---
-No es ni aquí ni allá, tal vez, pero argumentar no te lleva a ninguna parte durante la Luna saliéndose de su órbita el día de hoy. ¿Será que este molesto día llegará a su fin? Pues sí, lo hará. La de esta noche es una sensata y controlada Luna en Capricornio. Si no tienes pareja, disfruta de no tener que toparte con historias de ficción. Lo que ves es lo que hay. 
+Un momento de miedo proveniente de la Luna cuadrando a Plutón te aconseja analizar lo mucho que estás tratando de ocultar el hecho de que tu opinión ha cambiado o de que (¡oh, no!) te equivocaste acerca de algo. Por la noche, disfruta de hacer nuevas amistades con una sutil pizca de emoción proveniente de la Luna en Aries.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
