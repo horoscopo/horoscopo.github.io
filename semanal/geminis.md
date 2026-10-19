@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: geminis 12 de octubre 2026 al 18 de octubre 2026 
-description: Horóscopo semanal geminis 12 de octubre 2026 al 18 de octubre 2026. Todo acaba cicatrizando, pero tienes que dejar que cicatrice géminis. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
+title: geminis 19 de octubre 2026 al 25 de octubre 2026 
+description: Horóscopo semanal geminis 19 de octubre 2026 al 25 de octubre 2026. Todo acaba cicatrizando, pero tienes que dejar que cicatrice géminis. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2026-10-12
+ogimg: /images/zodiac/semanal_geminis.png#2026-10-19
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-10-12'
+ lastmod: '2026-10-19'
 ---
 
 

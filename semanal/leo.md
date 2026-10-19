@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: leo 12 de octubre 2026 al 18 de octubre 2026 
-description: Horóscopo semanal leo 12 de octubre 2026 al 18 de octubre 2026. El mundo puede esperar leo, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
+title: leo 19 de octubre 2026 al 25 de octubre 2026 
+description: Horóscopo semanal leo 19 de octubre 2026 al 25 de octubre 2026. El mundo puede esperar leo, en serio, así que, tómate tu tiempo para cuidarte un poco más, para mimarte, para comprarte eso que te gusta, para estar con los amigos, para vivir…
 permalink: /horoscopo-semanal-gratis/leo/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos leo la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, leo, horoscopo gratis, semanal
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_leo.png#2026-10-12
+ogimg: /images/zodiac/semanal_leo.png#2026-10-19
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-10-12'
+ lastmod: '2026-10-19'
 ---
 
 
