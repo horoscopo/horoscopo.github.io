@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 18 de octubre 2026
-description: Horóscopos del dia de hoy 18 de octubre 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 19 de octubre 2026
+description: Horóscopos del dia de hoy 19 de octubre 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-10-18
+ lastmod: 2026-10-19
 ---
-Marte aspectando a Saturno el día de hoy te da deseos de salir a hacer cosas. Por su parte, Saturno está listo para defender cierta posición. Y juntos: La mejor defensa es tener una buena ofensa. La noche está llena de sorpresas cuando la Luna aspecta a Urano. Dale la bienvenida el sentimiento. Anticipa que alguien se robe tu corazón.
+Si necesitas un catalizador para empezar cosas en los próximos cuatro días, el aspecto de hoy entre Marte y Urano es lo que buscas. Si por casualidad había alguien, o incluso algo, con lo que esperabas poder evitar toparte, la Luna saliéndose de su órbita podría concedértelo esta noche.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
