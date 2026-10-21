@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 20 de octubre 2026
-description: Horóscopos del dia de hoy 20 de octubre 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 21 de octubre 2026
+description: Horóscopos del dia de hoy 21 de octubre 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-10-20
+ lastmod: 2026-10-21
 ---
-Podrías adelantarte considerablemente mientras la Luna forme sextil con Marte y Neptuno para despertar la intuición y darte la sensación correcta de cuándo actuar y cuándo esperar. Más adelante, el trígono de esta tarde con Plutón podría poner la energía (y las emociones) a toda velocidad. Por la noche, el ritmo más lento es agradable bajo la Luna en el terrenal Tauro.
+La Luna forma sextil con el poderoso Plutón, por lo que el día de hoy se trata de la colaboración ventajosa entre creativas personalidades que se reúnen sintiéndose libres de restricciones e inspiradas por la estimulación intelectual. Esta noche, la Luna fuera de órbita en Escorpión aumenta la capacidad de anticipar pensamientos románticos y, tal vez, manipular las reacciones. Se te advierte mantener tus emociones bajo control.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
