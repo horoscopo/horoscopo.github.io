@@ -1,19 +1,19 @@
 ---
 layout: horoscopos
-title: Horoscopo Cáncer Octubre 2026
-description: El Horóscopo Octubre de Cáncer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
+title: Horoscopo Cáncer Noviembre 2026
+description: El Horóscopo Noviembre de Cáncer todo lo que tienen los astros preparados para este mes, amor, trabajo, familia. Todo sobre astrologia, tarot, predicciones. Horoscopo gratis en español, predicciones y astrología.
 permalink: /horoscopo-mensual/cancer/
 amplink: /horoscopo-mensual/amp/cancer/
 home: FALSE
-keywords: horóscopo octubre, horoscopos en español, horóscopo Cáncer octubre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Cáncer, Tarot, Astrologia, Zodíaco, Cáncer, horoscopo gratis, horoscopo del mes 
+keywords: horóscopo noviembre, horoscopos en español, horóscopo Cáncer noviembre , horóscopo esperanza gracia, horoscop, horóscopos gratis, horoscopo Cáncer, Tarot, Astrologia, Zodíaco, Cáncer, horoscopo gratis, horoscopo del mes 
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/cancer_mes.png#2026-09-26
+ogimg: /images/mes/cancer_mes.png#2026-10-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-09-26'
+ lastmod: '2026-10-26'
 ---
 
 

@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Leo Octubre 2026 
+title: Horoscopo Leo Noviembre 2026 
 permalink: /horoscopo-mensual/amp/leo/
 normallink: /horoscopo-mensual/leo/
 home: FALSE
 horoscopo:
  signo: leo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Leo_mes.png#2026-09-26
+ogimg: /images/mes/Leo_mes.png#2026-10-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-09-26'
+ lastmod: '2026-10-26'
 ---
 
 
