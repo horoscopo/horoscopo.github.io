@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 28 de octubre 2026
-description: Horóscopos del dia de hoy 28 de octubre 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 29 de octubre 2026
+description: Horóscopos del dia de hoy 29 de octubre 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-10-28
+ lastmod: 2026-10-29
 ---
-Mantente alerta y sé consciente de que no debes tratar de apresurar las cosas durante el trígono entre Marte y Plutón que durará los próximos cuatro días. Si vale la pena hacerlo, requerirá de tiempo. Comienza a planear. Demasiada gente y demasiada emoción crean confusión bajo la Luna en Escorpión de esta noche.
+Piensa bien primero cuando el sextil entre Marte y el rebelde Urano te dé tanto ganas de hacer algo travieso como tentación a hacer algo escandaloso. Esta noche, puede que tengas que retomar el hilo de una conversación perdida cuando la Luna en Piscis se salga de su órbita. Pero de todos modos, es posible que ni siquiera desees hacerlo.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
