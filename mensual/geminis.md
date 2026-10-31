@@ -9,16 +9,16 @@ keywords: horóscopo noviembre, horoscopos en español, horóscopo Géminis novi
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/geminis_mes.png#2026-10-26
+ogimg: /images/mes/geminis_mes.png#2026-10-31
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-10-26'
+ lastmod: '2026-10-31'
 ---
 
 
- > Aprovecha este mes para equilibrar tus responsabilidades con la alegría de tus conexiones. Escucha tu intuición y comunica tus deseos con el corazón, permitiéndote disfrutar de cada momento.
+ > Aprovecha la primera parte del mes para ordenar tu mundo interno y externo. Luego, ábrete al diálogo y la conexión auténtica. Tu mente ágil te ayudará a navegar cualquier desafío relacional con éxito.
 
 
 
-Querido Géminis, septiembre de 2026 te invita a un viaje de introspección y reajuste. La primera mitad del mes, con el Sol en Virgo, te impulsa a organizar tu vida diaria y cuidar tu bienestar. Es un momento ideal para pulir rutinas y ser más eficiente en el trabajo, prestando atención a los pequeños detalles. Hacia mediados de mes, una Luna Llena te traerá claridad emocional, quizás revelando deseos profundos sobre tu camino profesional o tu propósito. A partir de la última semana, con el Sol entrando en Libra, tu energía se volcará hacia las relaciones y la creatividad. Disfrutarás de encuentros sociales, el amor y la expresión personal. Tu regente, Mercurio, te ayudará a comunicarte con más encanto y diplomacia, fomentando la armonía en tus vínculos.
+Querido Géminis, este noviembre te invita a una profunda revisión de tus rutinas y bienestar. Con el Sol transitando por Escorpio hasta el 21, sentirás la necesidad de optimizar tu día a día y cuidar tu salud. Es un período excelente para organizar tu espacio y tus hábitos, y tu mente estará especialmente aguda para detectar ineficiencias. A partir del 21, con la entrada del Sol en Sagitario, el foco se desplaza hacia tus relaciones más cercanas. Es un momento propicio para la colaboración, el diálogo abierto y fortalecer lazos, tanto personales como profesionales. Podrías sentir un impulso para entender mejor a tu pareja o socios, buscando un equilibrio más justo. Emocionalmente, busca el equilibrio entre la introspección y la conexión.

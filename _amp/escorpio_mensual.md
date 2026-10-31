@@ -7,12 +7,12 @@ home: FALSE
 horoscopo:
  signo: escorpio
  video: -DQpmrrAIeU
-ogimg: /images/mes/Escorpio_mes.png#2026-10-26
+ogimg: /images/mes/Escorpio_mes.png#2026-10-31
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-10-26'
+ lastmod: '2026-10-31'
 ---
 
 
-Septiembre te invita a un periodo de ajuste y enfoque, querido Escorpio. La primera mitad del mes, con el Sol en Virgo, ilumina tu sector de trabajo y rutinas, impulsándote a organizar tus proyectos y mejorar tu bienestar diario. Es un momento excelente para la eficiencia. Sin embargo, la energía de Urano en Tauro continúa trayendo sorpresas a tus relaciones más cercanas, pidiéndote flexibilidad y una mente abierta ante lo inesperado. Hacia finales de septiembre, al transitar el Sol a Libra, tu atención se volcará hacia las asociaciones y el equilibrio en tus vínculos. Podrías sentir la necesidad de negociar o buscar mayor armonía, transformando viejas dinámicas emocionales.
+Este noviembre, Escorpio, sientes una poderosa inyección de energía vital. Con el Sol transitando tu signo hasta el 21, es tu momento de brillar, de reafirmar tu identidad y de iniciar transformaciones profundas. La Luna Nueva en Escorpio, alrededor del 8 de noviembre, te invita a sembrar intenciones audaces para tu crecimiento personal y a liberarte de lo que ya no te sirve. Emocionalmente, podrías sentir una intensidad mayor, especialmente en tus relaciones más cercanas. La Luna Llena en Tauro, hacia el 24 de noviembre, pondrá el foco en tus vínculos, invitándote a equilibrar tus necesidades con las de tu pareja o socios. Marte, tu co-regente, en un signo de agua, amplifica tu intuición y tu capacidad de sanación, permitiéndote navegar las profundidades emocionales con mayor maestría. Es un mes para la introspección y la acción decisiva.

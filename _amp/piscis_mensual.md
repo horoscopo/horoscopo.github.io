@@ -7,12 +7,12 @@ home: FALSE
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Piscis_mes.png#2026-10-26
+ogimg: /images/mes/Piscis_mes.png#2026-10-31
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-10-26'
+ lastmod: '2026-10-31'
 ---
 
 
-Querido Piscis, septiembre de 2026 te invita a una profunda introspección, especialmente con la influencia de Saturno en tu propio signo, que te empuja a definir límites y fortalecer tu identidad. La primera mitad del mes, con el Sol en Virgo, iluminará tus relaciones más cercanas, pidiéndote claridad y equilibrio en tus vínculos. Podrías sentir la necesidad de resolver malentendidos o de renegociar acuerdos. La Luna Nueva en Virgo, alrededor del 3 de septiembre, te ofrece una oportunidad para iniciar nuevas dinámicas de pareja o colaboración. Hacia la segunda quincena, con el Sol ingresando en Libra el 22 de septiembre, tu atención se dirigirá hacia temas de intimidad, recursos compartidos y transformación personal. Es un buen momento para explorar tus emociones más profundas y buscar un crecimiento significativo en tu vida.
+Piscis, noviembre te invita a una profunda introspección y crecimiento. Con el Sol y Mercurio transitando por un signo de agua afín durante gran parte del mes, sentirás una conexión más fuerte con tu intuición y una sed de conocimiento. Es un momento excelente para viajes, estudios o para expandir tu visión del mundo. La Luna Llena a mediados de mes traerá claridad a tus comunicaciones y relaciones cercanas, permitiéndote expresar tus verdades con mayor facilidad. Hacia finales de mes, con el Sol entrando en Sagitario, la atención se volcará hacia tu carrera y propósito de vida. Podrías sentir un impulso para tomar nuevas direcciones, pero recuerda equilibrar tus ambiciones con tu bienestar emocional. Presta atención a la comunicación en casa con la influencia de Marte, buscando la armonía.
