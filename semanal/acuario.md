@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: acuario 26 de octubre 2026 al 01 de noviembre 2026 
-description: Horóscopo semanal acuario 26 de octubre 2026 al 01 de noviembre 2026. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
+title: acuario 02 de noviembre 2026 al 08 de noviembre 2026 
+description: Horóscopo semanal acuario 02 de noviembre 2026 al 08 de noviembre 2026. Dentro tienes una especie de bomba que tarde o temprano acabará por explotar. Y para bien o para mal, deberías empezar a cerrar capítulos definitivamente.
 permalink: /horoscopo-semanal-gratis/acuario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos acuario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, acuario, horoscopo gratis, semanal
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_acuario.png#2026-10-26
+ogimg: /images/zodiac/semanal_acuario.png#2026-11-02
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-10-26'
+ lastmod: '2026-11-02'
 ---
 
 
