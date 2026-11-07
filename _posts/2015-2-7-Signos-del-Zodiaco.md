@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 06 de noviembre 2026
-description: Horóscopos del dia de hoy 06 de noviembre 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 07 de noviembre 2026
+description: Horóscopos del dia de hoy 07 de noviembre 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-11-06
+ lastmod: 2026-11-07
 ---
-Agradar a la gente y las charlas casuales gobiernan el día de hoy bajo la Luna en Libra. Incluso las discusiones se hacen en términos amistosos. Si sientes que la gente se comporta un poco vaga e indecisamente, tienes razón. Esta noche, con Venus a punto de salir de Virgo, sientes que te has preparado para cualquier eventualidad, pero no hay ninguna; a menos que tengas un sentimiento de vacío. 
+Prepárate para tener profundos pensamientos y que tu mente sea activada místicamente cuando Mercurio en Piscis conjunte a Neptuno. Esta noche, la Luna conectando con Marte intensifica una dulce urgencia de emociones, pero con Venus a 29 grados, uno espera que sea la otra persona quien dé el primer paso... sin embargo, no lo da. Es en momentos como éste cuando las atracciones no llegan a ninguna parte, de manera temporal.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
