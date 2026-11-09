@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: capricornio 02 de noviembre 2026 al 08 de noviembre 2026 
-description: Horóscopo semanal capricornio 02 de noviembre 2026 al 08 de noviembre 2026. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto.
+title: capricornio 09 de noviembre 2026 al 15 de noviembre 2026 
+description: Horóscopo semanal capricornio 09 de noviembre 2026 al 15 de noviembre 2026. Tienes que enfriar recuerdos, tienes que dejar que se congelen. Sigue siendo amable incluso con tus enemigos, en vez de enfrentarte a ellos, sonríeles, demuestra que tú estás muy por encima del resto.
 permalink: /horoscopo-semanal-gratis/capricornio/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos capricornio la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, capricornio, horoscopo gratis, semanal
 horoscopo:
  signo: capricornio
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_capricornio.png#2026-11-02
+ogimg: /images/zodiac/semanal_capricornio.png#2026-11-09
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-11-02'
+ lastmod: '2026-11-09'
 ---
 
 
