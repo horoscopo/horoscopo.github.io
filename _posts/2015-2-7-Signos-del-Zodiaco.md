@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 11 de noviembre 2026
-description: Horóscopos del dia de hoy 11 de noviembre 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 12 de noviembre 2026
+description: Horóscopos del dia de hoy 12 de noviembre 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-11-11
+ lastmod: 2026-11-12
 ---
-El oportuno aspecto entre Mercurio y Júpiter te ofrece un único, práctico y optimista estilo. Tener éxito te queda bien, por lo que encuentra tu camino y dirígete hacia él. Las parejas expresan sus sentimientos con gran pasión cuando la Luna aspecta a Marte esta noche. Los solteros disfrutan de simpatía social, nuevos amigos, nuevos intereses amorosos, e incluso nuevas trayectorias bajo la Luna en Acuario.
+Cuando la Luna en Géminis forma trígono con Mercurio y los teléfonos no paran de sonar, el Universo envía grandes piezas de información. A esto, añádele ideas que te llegan de fuentes del más allá (intuición). Cuando Venus, el planeta del amor, se encuentra a punto de cambiar de signo como lo está esta noche, es momento de dejar el pasado donde pertenece - atrás.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
