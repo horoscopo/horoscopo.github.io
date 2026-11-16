@@ -1,14 +1,14 @@
 ---
 layout: horoscopo_de_hoy
-title: Hóroscopo de hoy 15 de noviembre 2026
-description: Horóscopos del dia de hoy 15 de noviembre 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
+title: Hóroscopo de hoy 16 de noviembre 2026
+description: Horóscopos del dia de hoy 16 de noviembre 2026 Astrologia, Horoscopos univision todos los signos del zodiaco. Esperanza Gracia.
 permalink: /horoscopo-de-hoy/
 redirect_from: /2015/02/signos-del-zodiaco.html
 ogimg: /images/diario.png
 sitemap:
  priority: 1
  changefreq: 'daily'
- lastmod: 2026-11-15
+ lastmod: 2026-11-16
 ---
-Una buena dosis de suerte llena el día cuando Marte conjunta al afortunado Júpiter. Considera esta noche como un reto, lo necesitas. También necesitas aventura y puedes encontrarla bajo la Luna en Sagitario. Independientemente de que pudieras pensar lo contario, tienes tiempo para detenidamente contemplar tus acciones.
+Con Mercurio cuadrando a Saturno, las personas podrían quedarse sin palabras hoy. Lo cual puede que sea algo bueno. Sí, a veces el silencio es oro. Las chispas vuelan mientras Venus cuadra a Marte esta noche. El amor se desarrolla más fácil con ciertas personas. Solteros, algunas personas con las que se topan son peores que otras. Confíen en su instinto.
 ¿Quieres saber como sera tu dia? Enterate que tienen los astros preparado para vos y organiza tu dia segun tu horoscopo diario gratis. Elejí tu signo mas abajo y podras conocer como es tu hóroscopo en el amor, trabajo, vida personal.
