@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: sagitario 09 de noviembre 2026 al 15 de noviembre 2026 
-description: Horóscopo semanal sagitario 09 de noviembre 2026 al 15 de noviembre 2026. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez.
+title: sagitario 16 de noviembre 2026 al 22 de noviembre 2026 
+description: Horóscopo semanal sagitario 16 de noviembre 2026 al 22 de noviembre 2026. Rodéate de paz y sobre todo de gente positiva, sabes que los tienes, el problema es cuando tus pensamientos vuelven a lo mismo una y otra vez.
 permalink: /horoscopo-semanal-gratis/sagitario/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos sagitario la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, sagitario, horoscopo gratis, semanal
 horoscopo:
  signo: sagitario
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_sagitario.png#2026-11-09
+ogimg: /images/zodiac/semanal_sagitario.png#2026-11-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-11-09'
+ lastmod: '2026-11-16'
 ---
 
 

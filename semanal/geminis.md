@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: geminis 09 de noviembre 2026 al 15 de noviembre 2026 
-description: Horóscopo semanal geminis 09 de noviembre 2026 al 15 de noviembre 2026. Todo acaba cicatrizando, pero tienes que dejar que cicatrice géminis. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
+title: geminis 16 de noviembre 2026 al 22 de noviembre 2026 
+description: Horóscopo semanal geminis 16 de noviembre 2026 al 22 de noviembre 2026. Todo acaba cicatrizando, pero tienes que dejar que cicatrice géminis. No abras la herida constantemente, por el bien de todos… Y por el tuyo…
 permalink: /horoscopo-semanal-gratis/geminis/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos geminis la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, geminis, horoscopo gratis, semanal
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_geminis.png#2026-11-09
+ogimg: /images/zodiac/semanal_geminis.png#2026-11-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-11-09'
+ lastmod: '2026-11-16'
 ---
 
 

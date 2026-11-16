@@ -1,18 +1,18 @@
 ---
 layout: horoscopos
-title: libra 09 de noviembre 2026 al 15 de noviembre 2026 
-description: Horóscopo semanal libra 09 de noviembre 2026 al 15 de noviembre 2026. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
+title: libra 16 de noviembre 2026 al 22 de noviembre 2026 
+description: Horóscopo semanal libra 16 de noviembre 2026 al 22 de noviembre 2026. Repítete las veces que haga falta que estás aquí para ser feliz, que necesitas a tu lado a personas que te hagan elevarte, a gente que realmente te aporte.
 permalink: /horoscopo-semanal-gratis/libra/
 home: FALSE
 keywords: horóscopo semanal, horóscopo de la semana, horóscopo, horóscopo gratis,horóscopos, horóscopo esperanza gracia, horoscopos libra la semana, horóscopos gratis, Tarot, Astrologia, Zodíaco, libra, horoscopo gratis, semanal
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/zodiac/semanal_libra.png#2026-11-09
+ogimg: /images/zodiac/semanal_libra.png#2026-11-16
 sitemap:
  priority: 1
  changefreq: 'weekly'
- lastmod: '2026-11-09'
+ lastmod: '2026-11-16'
 ---
 
 
