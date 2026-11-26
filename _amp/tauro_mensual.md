@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Tauro Noviembre 2026 
+title: Horoscopo Tauro Diciembre 2026 
 permalink: /horoscopo-mensual/amp/tauro/
 normallink: /horoscopo-mensual/tauro/
 home: FALSE
 horoscopo:
  signo: tauro
  video: -DQpmrrAIeU
-ogimg: /images/mes/Tauro_mes.png#2026-10-31
+ogimg: /images/mes/Tauro_mes.png#2026-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-10-31'
+ lastmod: '2026-11-26'
 ---
 
 
