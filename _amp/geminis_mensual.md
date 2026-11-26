@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Géminis Noviembre 2026 
+title: Horoscopo Géminis Diciembre 2026 
 permalink: /horoscopo-mensual/amp/geminis/
 normallink: /horoscopo-mensual/geminis/
 home: FALSE
 horoscopo:
  signo: geminis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Géminis_mes.png#2026-10-31
+ogimg: /images/mes/Géminis_mes.png#2026-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-10-31'
+ lastmod: '2026-11-26'
 ---
 
 

@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Cáncer Noviembre 2026 
+title: Horoscopo Cáncer Diciembre 2026 
 permalink: /horoscopo-mensual/amp/cancer/
 normallink: /horoscopo-mensual/cancer/
 home: FALSE
 horoscopo:
  signo: cancer
  video: -DQpmrrAIeU
-ogimg: /images/mes/Cáncer_mes.png#2026-10-31
+ogimg: /images/mes/Cáncer_mes.png#2026-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-10-31'
+ lastmod: '2026-11-26'
 ---
 
 

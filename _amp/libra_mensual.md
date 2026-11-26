@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Libra Noviembre 2026 
+title: Horoscopo Libra Diciembre 2026 
 permalink: /horoscopo-mensual/amp/libra/
 normallink: /horoscopo-mensual/libra/
 home: FALSE
 horoscopo:
  signo: libra
  video: -DQpmrrAIeU
-ogimg: /images/mes/Libra_mes.png#2026-10-31
+ogimg: /images/mes/Libra_mes.png#2026-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-10-31'
+ lastmod: '2026-11-26'
 ---
 
 

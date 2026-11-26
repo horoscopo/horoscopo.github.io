@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Acuario Noviembre 2026 
+title: Horoscopo Acuario Diciembre 2026 
 permalink: /horoscopo-mensual/amp/acuario/
 normallink: /horoscopo-mensual/acuario/
 home: FALSE
 horoscopo:
  signo: acuario
  video: -DQpmrrAIeU
-ogimg: /images/mes/Acuario_mes.png#2026-10-31
+ogimg: /images/mes/Acuario_mes.png#2026-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-10-31'
+ lastmod: '2026-11-26'
 ---
 
 

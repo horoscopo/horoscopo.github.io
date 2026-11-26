@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Piscis Noviembre 2026 
+title: Horoscopo Piscis Diciembre 2026 
 permalink: /horoscopo-mensual/amp/piscis/
 normallink: /horoscopo-mensual/piscis/
 home: FALSE
 horoscopo:
  signo: piscis
  video: -DQpmrrAIeU
-ogimg: /images/mes/Piscis_mes.png#2026-10-31
+ogimg: /images/mes/Piscis_mes.png#2026-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-10-31'
+ lastmod: '2026-11-26'
 ---
 
 

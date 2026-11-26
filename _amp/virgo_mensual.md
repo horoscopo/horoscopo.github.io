@@ -1,17 +1,17 @@
 ---
 layout: amp
-title: Horoscopo Virgo Noviembre 2026 
+title: Horoscopo Virgo Diciembre 2026 
 permalink: /horoscopo-mensual/amp/virgo/
 normallink: /horoscopo-mensual/virgo/
 home: FALSE
 horoscopo:
  signo: virgo
  video: -DQpmrrAIeU
-ogimg: /images/mes/Virgo_mes.png#2026-10-31
+ogimg: /images/mes/Virgo_mes.png#2026-11-26
 sitemap:
  priority: 1
  changefreq: 'monthly'
- lastmod: '2026-10-31'
+ lastmod: '2026-11-26'
 ---
 
 
